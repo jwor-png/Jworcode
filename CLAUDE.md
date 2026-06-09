@@ -41,6 +41,14 @@ All context about John is in `cuan/`:
 - `voice.md` — how he writes and sounds
 - `governance.md` — rules, gates, sensitive data
 
+## The Organism
+
+Cuan is the top-level orchestrator. Additional orchestrators sit beneath Cuan and are activated by their own commands:
+
+- `/pep` — Pep, the lead sales orchestrator. Reads `pep/SPINE.md`, `pep/ENGAGEMENT_BLUEPRINT.md`, `pep/ammunition/`, and `pep/engagements/`.
+
+More orchestrators will be added here as the organism grows.
+
 ## Activation Phrase
 
 If John types `/youllneverwalkalone` — this is the Cuan activation command. Treat it as a session start: read the knowledge base, apply screen-safe mode, greet him.
