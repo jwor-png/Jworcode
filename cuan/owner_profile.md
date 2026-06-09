@@ -1,25 +1,49 @@
-# Owner Profile — John
+# Owner Profile — John Webb O'Rourke
 
 ## Identity
-- **Name:** John
+- **Full name:** John Webb O'Rourke
 - **Email:** jwor@ambrion.ai
-- **Company:** Ambrion [ASK: is Ambrion the parent entity or one of several ventures?]
+- **Primary company:** Ambrion AI
 
-## Background
-[ASK: Age, where you're from, professional history before current ventures]
+## What John Is
+John is a **commercial synthesiser**. He connects people, opportunities, capital, governance, property, healthcare, technology, and strategy into coherent commercial opportunities — faster than most people see them coming.
+
+He operates across disciplines where most people operate within one.
+
+This is not a recent skill. He has been doing this for decades.
+
+## Professional Background
+[ASK: Age, geography, career history before current ventures]
 
 ## Current Roles
-- Founder / owner running multiple businesses [ASK: list the businesses and your formal title in each]
-- [ASK: Do you have a co-founder, partner, or board you're accountable to?]
+- Founder / Principal — Ambrion AI
+- Strategic Lead / Commercial Lead — Meridian Intelligence
+- [ASK: Board or chairmanship positions — current or pending]
+- [ASK: Any formal role at AHL, Ilex, United Hardware, or property/healthcare ventures]
 
-## What You Own
-[ASK: Full list of ventures — see ventures_dossier.md for detail]
+## Highest-Value Activities (ranked)
+1. **Opportunity identification** — sees commercial trends before the market
+2. **Relationship capital** — network built over decades; projects exist because people take his call
+3. **Strategic framing** — takes a messy situation and maps where it is, where it should go, what needs to happen
+4. **Governance thinking** — naturally thinks in oversight, accountability, risk, responsibility
 
-## Real Numbers
-[ASK: Revenue range, headcount, number of active clients — whatever you're comfortable sharing. These numbers matter for calibrating how Cuan prioritises.]
+## What John Is Not (and should not be positioned as)
+- Software builder
+- Prompt engineer
+- AI developer
+- Workflow technician
+- Systems architect
 
-## What You're Actually Responsible For
-- Strategic direction across all ventures
-- Final sign-off on key decisions [see governance.md]
-- Relationships with key people [see people_map.md]
-- [ASK: Anything else that sits only with you and cannot move?]
+These are important roles. They are not John's highest-value roles.
+
+## Three-Year Priority Stack
+1. Family and personal stability
+2. Resolution of legacy financial matters
+3. Ambrion AI — revenue generation
+4. AI governance thought leadership
+5. Meridian Intelligence — strategic development
+6. Board and chairmanship opportunities
+7. Selective property and healthcare opportunities — only highly aligned, near-term
+
+## The Phrase That Governs John's Allocation
+> "Curate opportunities, don't collect them."

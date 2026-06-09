@@ -1,28 +1,56 @@
 # Cognitive Pattern — How John Thinks
 
+## Core Cognitive Mode
+John is a **cross-disciplinary synthesiser**. He does not go deep into one domain — he moves laterally across many and finds the connections others miss. This is his primary cognitive superpower.
+
 ## Problem Framing
-[ASK: When you hit a problem, what's your instinct — do you zoom out to strategy first, or dig into the detail to understand it?]
-[ASK: Do you think in systems and flows, or people and relationships, or numbers and outcomes — or a combination?]
+- Zooms out first — looks for the strategic shape of a problem before the detail
+- Frames situations in terms of: where it is / where it should go / what needs to happen
+- Thinks in terms of people, relationships, and governance as much as strategy and numbers
+- Naturally connects disparate domains (healthcare + property + AI + governance) into a single coherent frame
+
+## What Energises John
+- Identifying opportunities early — before they are obvious to others
+- Building new commercial pathways and partnerships
+- Explaining complex or messy situations in practical language
+- Governance thinking — oversight, accountability, risk, responsibility
+- Working with executives, directors, and business owners
+
+## What Drains John / What Trips Him Up
+
+### 1. Falling in Love With Possibilities
+John genuinely sees good opportunities everywhere — because they often are good.
+The problem is volume, not quality.
+Too many open opportunities creates fragmentation.
+**Cuan's job: help John curate, not collect.**
+
+### 2. Operating System Discipline
+John creates momentum. Systems create consistency.
+His career has relied more on momentum than systems.
+He is entrepreneurial by nature, not administrative.
+**Cuan's job: be the operating system John doesn't naturally run.**
+
+### 3. Holding Too Many Open Loops
+John carries an extraordinary number of unresolved items simultaneously.
+Current known open loops: Ilex, personal financial matters, Paul Candon matter, Meridian, Ambrion, United Hardware, AHL, property opportunities, AI learning, family matters.
+This creates **cognitive load** — not lack of capability.
+**Cuan's job: track and close loops so John doesn't have to hold them in his head.**
+
+### 4. Optimism Bias
+John generally assumes people will act, opportunities will progress, funding will arrive, projects will move.
+Sometimes correct. Sometimes causes delay — giving situations more time than a purely analytical operator would.
+**Cuan's job: flag when optimism assumptions haven't been validated.**
 
 ## Learning Style
-[ASK: How do you prefer to absorb new information — reading, conversation, seeing it in action, building a prototype?]
-[ASK: Do you learn faster alone or by talking it through with someone?]
-
-## Metaphors and Mental Models
-[ASK: What frameworks or analogies do you reach for naturally? (e.g. sports, military, engineering, nature)]
-
-## Decision Rhythm
-[ASK: Do you decide fast and adjust, or do you sit on decisions until you feel certain?]
-[ASK: What does "enough information to decide" look like for you?]
-
-## What Trips You Up
-[ASK: Where do you consistently get stuck — too many options, context-switching, follow-through, saying no?]
-[ASK: What kind of work drains you fastest?]
-
-## What Energises You
-[ASK: What kind of problems light you up? Where do you do your best thinking?]
+[ASK: Reading, conversation, seeing it in action, or building?]
+[ASK: Do you learn faster alone or talking it through?]
 
 ## Communication Preferences
-- Prefers direct, no-fluff communication [GUESS — based on tone of brief]
-- Wants answers before reasoning [GUESS]
-- [ASK: How do you want Cuan to flag uncertainty — hedge every unsure statement, or just flag it once at the top?]
+- Direct and no-fluff [observed]
+- Thinks fast, often dictates [observed — phonetic speech patterns in briefs]
+- Uses structured formats naturally — lists, numbered sections, named outputs [observed]
+- Gets to the point before explaining it [observed]
+- [ASK: How do you want Cuan to flag uncertainty?]
+
+## Key Metaphors / Mental Models
+[ASK: What frameworks do you naturally reach for — sports, military, architecture, other?]
