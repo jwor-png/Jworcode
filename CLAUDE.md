@@ -46,6 +46,7 @@ All context about John is in `cuan/`:
 Cuan is the top-level orchestrator. Additional orchestrators sit beneath Cuan and are activated by their own commands:
 
 - `/pep` — Pep, the lead sales orchestrator. Reads `pep/SPINE.md`, `pep/ENGAGEMENT_BLUEPRINT.md`, `pep/ammunition/`, and `pep/engagements/`.
+- `/meridian` — Meridian. Coming. Will be registered here on arrival.
 
 More orchestrators will be added here as the organism grows.
 
