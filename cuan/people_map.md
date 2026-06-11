@@ -21,6 +21,13 @@
 - **Note:** Paul Candon is also listed as Director 1 on MiDentalCare CVL documents. There is also a separate personal matter involving Paul Candon — treat with care.
 - **Cuan notes:** UHL proposals are internal only — not for circulation to UHL contacts without explicit approval.
 
+### AHL PLC
+- **John's role:** Chairman / CEO (landlord side of the Magna Park lease to UHL — interest declared and accepted at UHL board)
+- **Board:** Shane Felle, Joe Wallace, Eoin Lynch, John Smyth, Emmet Cooney
+- **Company secretary:** Nicola Hegarty McMillan — recently appointed; former AHL / United Hardware employee, recently returned to Ireland for family circumstances; full-time position with United Hardware not yet confirmed. Currently liaising with BDO on the 2025 audit.
+- **Auditors:** BDO
+- **Cuan notes:** Several AHL member directors are also member directors of United Hardware.
+
 ---
 
 ## Business and Channel Partners

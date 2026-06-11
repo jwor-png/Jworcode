@@ -60,10 +60,20 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 
 ---
 
-## AHL
-- **John's role:** Chairman
-- **Status:** Active — open loop
-- **Detail:** [ASK — what is AHL and what's the current open item?]
+## AHL PLC
+- **What it is:** Dublin company made up of independent builders providers who are members of the AHL group. Members trade under the Homevalue brand around Ireland but the shops are not part of the United Hardware Group.
+- **Core asset:** AHL members as shareholders own the Magna Park premises, Dublin 24, which is leased to United Hardware (UHL). AHL is the landlord.
+- **Trading status:** No longer trading as it did up to a couple of years ago. The board now acts as custodian of the premises — ensuring it is properly maintained, the lease respected, and rent paid.
+- **Rent:** €800,000 per annum from United Hardware.
+- **John's role:** Chairman / CEO. Board meets infrequently given the custodial nature of the company.
+- **Board:** Shane Felle, Joe Wallace, Eoin Lynch, John Smyth, Emmet Cooney.
+- **Company secretary:** Nicola Hegarty McMillan — recently appointed. Former employee of AHL and United Hardware; returned to Ireland for family circumstances. Whether she takes a full-time position with United Hardware is not yet known.
+- **Auditors:** BDO.
+- **Declared interest:** John chairs AHL (landlord) and is INED at UHL (tenant). This interest is declared and accepted at the UHL board. Other AHL member directors are also member directors of United Hardware. Works well in practice.
+
+### Live workstreams
+1. **Fire compliance works** — ongoing improvements at Magna Park. United Hardware arranges the works; AHL gives credits for the cost (circa €110,000) against the annual rent of €800,000.
+2. **2025 audit** — Nicola is liaising with BDO on preparation and completion. OPEN LOOP: John needs a progress update from Nicola on how far advanced the audit is.
 
 ---
 
