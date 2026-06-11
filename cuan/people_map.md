@@ -58,8 +58,9 @@
 ## Family
 
 ### Niamh Webb O'Rourke
-- **Relationship:** Family member (Director 2 in MiDentalCare CVL)
+- **Relationship:** John's daughter (Director 2 in MiDentalCare CVL — resigned 7 May 2025)
 - **Property:** John coordinates the Bantry property project (11 Cois Riasc) on her behalf
+- **Sensitive:** She holds a personal guarantee on MiDentalCare's Bank of Ireland facilities. John is assuming responsibility for the balance with Bank of Ireland so she is not pursued. Protecting her from this exposure is a fixed personal priority.
 - **Cuan notes:** [ASK — further context on family structure relevant to scheduling and priorities]
 
 ### Cuan (grandson)
@@ -70,9 +71,11 @@
 ## Open / Unresolved
 
 ### Paul Candon (personal matter)
-- Separate from his UHL CEO role
-- Status: Open loop
-- [ASK: What does resolution look like here?]
+- Separate from his UHL CEO role — clause 7 of the loan agreement explicitly records it as a personal arrangement
+- Lender to John: €208,000 restated loan (originally 2 November 2023, applied to MiDentalCare). Full terms in ventures_dossier.md.
+- Also holds a personal guarantee on MiDentalCare's Bank of Ireland facilities, alongside Niamh
+- Resolution: repayment in full on or before 31 December 2026; John assumes the Bank of Ireland facilities directly
+- Cuan notes: Paul is simultaneously John's personal lender, a former MiDentalCare director and guarantor, and CEO of UHL where John chairs Audit & Risk. Keep the three relationships cleanly separated in all documents and communications.
 
 ---
 

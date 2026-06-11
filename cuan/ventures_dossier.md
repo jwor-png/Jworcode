@@ -130,7 +130,9 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 - **Liquidator:** Michael Butler (proposed)
 - **John's connection:** Director
 - **Key note:** Communication runs through Butler directly — Llewellyn Farquharson holds no authority in this process
-- **Two directors resigned 7 May 2025** (12-month window to 7 May 2026). Director 1: Paul Candon. Director 2: Niamh Webb O'Rourke.
+- **Two directors resigned 7 May 2025** (12-month window to 7 May 2026). Director 1: Paul Candon. Director 2: Niamh Webb O'Rourke (John's daughter). John is now the sole director.
+- **Creditors' meeting:** Friday 26 June 2026, 10:30am, Plaza Hotel, Tallaght, Dublin 24. Creditors' notices issued 11 June 2026.
+- **Bank of Ireland facilities:** company borrowings personally guaranteed by Paul Candon and Niamh Webb O'Rourke. John is engaging directly with Bank of Ireland to assume responsibility — see Paul Candon Matter.
 
 ---
 
@@ -147,5 +149,32 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 ---
 
 ## Paul Candon Matter
-- **Status:** Open loop — unresolved personal matter (separate from UHL CEO role)
-- **Detail:** [ASK]
+- **Status:** Open — revised loan agreement expected to be executed week of 15 June 2026
+- **Nature:** Personal loan from Paul Candon to John, originally dated 2 November 2023. Funds were applied to MiDentalCare Limited. Anticipated third-party funding never materialised; the company ceased trading and is now in liquidation.
+
+### Amended & Restated Loan Agreement (final revised draft, May 2026)
+- **Lender:** Paul Candon. **Borrower:** John Webb-O'Rourke.
+- **Restated amount:** €208,000 — agreed full amount due as of signing
+- **Interest:** none accrues to 31 December 2026
+- **Repayment:** full balance due on or before 31 December 2026; repay any time without penalty; no interim payment obligations; reasonable endeavours to reduce the balance as funds become available
+- **Default:** unpaid after 31 December 2026 — immediately payable, 8% per annum until discharged
+- **Clause 4:** John confirms direct engagement with Bank of Ireland to regularise and assume responsibility for the relevant facilities
+- **Clause 7:** explicitly a personal loan — clean separation from UHL
+- **Governing law:** Ireland
+
+### Bank of Ireland facilities (Clause 4 background)
+- The facilities are owed by MiDentalCare Limited, but carry **personal guarantees from Paul Candon and Niamh Webb O'Rourke** (both resigned as directors 7 May 2025)
+- With the company in liquidation, Bank of Ireland will pursue both personally on the guarantees. John will not allow that to happen.
+- John is assuming responsibility for the balance going forward and is engaged directly with Bank of Ireland
+- **[ASK — current balance on the Bank of Ireland facilities]**
+
+### John's decision rationale (recorded 11 June 2026)
+- John believes the 31 December 2026 deadline is achievable. If full payment is not achieved, the approach is regular progress payments, keeping Paul informed, and partial payment toward an accepted position.
+- No insolvency practitioner has reviewed the agreement. John has not decided on any PIA path.
+- Executing is a deliberate choice: the alternative is High Court proceedings and a conflict question over the UHL position. John judges execution the best available course, and the deadline is a driver for making the AI businesses successful in the short window available.
+- **Standing flag:** if a PIA path is ever activated, this agreement must be reviewed by an insolvency practitioner first.
+
+### Key dates
+- 11 June 2026 — MiDentalCare creditors' notices issued
+- Week of 15 June 2026 — loan agreement execution expected
+- Friday 26 June 2026, 10:30am — MiDentalCare creditors' meeting, Plaza Hotel, Tallaght, Dublin 24
