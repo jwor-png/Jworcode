@@ -136,7 +136,13 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 
 ## Legacy Financial Matters
 - **Status:** Open — resolution is a top-3 personal priority
-- **Detail:** [ASK — what does resolution require? Is there a timeline?]
+- **Nature:** Historical unsecured debt across multiple creditors. Significant detail sits behind each creditor — to be worked through individually in later sessions.
+- **Resolution paths under consideration (no decision yet):**
+  1. Personal Insolvency Arrangement (PIA)
+  2. Negotiated agreement with all creditors
+- **Sequencing (deliberate):** 1) Drive revenue with Shane (Ambrion, Meridian, Velocity, Golden Generation), 2) assemble the complete financial picture, 3) choose and execute the resolution path. Cuan flags anything that tries to jump this queue.
+- **Income context:** Current income is part-time fees only — AHL Chairman, UHL director fees, and a small fee for chairing the UHL Audit & Risk Committee. Revenue generation funds family life and creates the negotiating position for resolution.
+- **Sensitivity:** Highest. Never surface in commercial contexts or any external document.
 
 ---
 
