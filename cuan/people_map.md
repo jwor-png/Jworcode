@@ -57,19 +57,30 @@
 
 ## Family
 
+### Living arrangement -- Kilmallock
+- **Spittal House** (Portauns, Kilmallock, V35 W965) is the family home of Helen, Majella's mother. **John, Majella and Helen** live there -- nobody else.
+- **Next door:** a large two-storey house. **Owen, Dervila and Cuan live on the ground floor**; **Niamh lives upstairs**. How long Owen's family stays is open -- they own a small house in Thomondgate, Limerick City (spelling to confirm), currently rented out.
+- The move from Limerick City to Kilmallock happened because the city house was too small and space was needed for Cuan. It has worked out very well.
+
 ### Majella Webb O'Rourke
 - **Relationship:** John's wife
 - **Current income:** Monthly payments from the sale of her shares in Tim Cahill Limited (trading as Cahill's Homevalue Hardware, a member of AHL and United Hardware). This is the primary family income alongside John's part-time fees. **Income ends September 2027** -- a significant financial milestone.
+- **Caring role:** Cares full time for her mother Helen at Spittal House
 - **Character:** Practical, grounded, keeps follow-through honest. Noticed the thank-you text to Clinton before John did.
+
+### Helen
+- **Relationship:** Majella's mother, age 88
+- **Lives:** At Spittal House with John and Majella full time; Majella is her carer. Spittal House is her family home.
 
 ### Owen Webb O'Rourke
 - **Relationship:** John's son, age 33-34
 - **Married to:** Dervila
-- **Lives:** [ASK -- "landciders" came through in dictation, need to confirm location]
+- **Lives:** Next door to Spittal House, ground floor, with Dervila and Cuan. Owns a small rented-out house in Thomondgate, Limerick City.
 - **Child:** Cuan, 26 months old -- grandson John and Majella adore. The personal intelligence system is named after him. In Irish: "the little wolf" and "the safe harbour."
 
 ### Niamh Webb O'Rourke
 - **Relationship:** John's daughter, age 31 (only daughter)
+- **Lives:** Next door to Spittal House, upstairs (above Owen, Dervila and Cuan)
 - **Health:** Suffers significantly from endometriosis and other health complications
 - **Income:** Weekly disability payment; permitted to work up to 29 hours
 - **New job:** Wellness centre in Limerick -- recently started
@@ -79,7 +90,11 @@
 ### Joan O'Rourke
 - **Relationship:** John's mother
 - **Lives:** Bantry, Co. Cork
-- **Birthday:** 17 June -- John visiting next Wednesday 17 June, staying overnight in Bantry
+- **Birthday:** 17 June -- John visiting Wednesday 17 June 2026, staying overnight in Bantry
+
+### Jimmy O'Rourke
+- **Relationship:** John's late father
+- **Birthday:** 14 June -- remembered every year. Cuan marks this date annually.
 
 ### Cuan (grandson)
 - Son of Owen and Dervila. Age 26 months. Apple of everyone's eye.
@@ -104,7 +119,7 @@
 - **Role:** John's garage mechanic -- trusted, works on goodwill and relationship
 - **Current arrangement:** Tyres for Niamh's car charged through Clinton, he recharges John. Range Rover Evoque service also going to Clinton.
 - **Open action:** John to text Clinton to thank him (11 June evening)
-- **Open action:** Book Evoque service with Clinton -- **nudge Tuesday 17 June**
+- **Open action:** Book Evoque service with Clinton -- **nudge Tuesday 16 June**
 
 ---
 
