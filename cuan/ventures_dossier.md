@@ -120,6 +120,13 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 
 ---
 
+## Family Income -- Tim Cahill Limited
+- **What it is:** Majella's family business, trading as Cahill's Homevalue Hardware. A member of both AHL and United Hardware.
+- **Income stream:** Majella receives monthly payments from the sale of her shares in Tim Cahill Limited. This is the primary family income alongside John's part-time board fees.
+- **End date: September 2027.** When this income stops, the household depends entirely on John's revenue from the AI businesses. This date is a hard financial planning horizon alongside the 31 December 2026 loan repayment to Paul Candon.
+
+---
+
 ## Bantry Property
 - **What it is:** John coordinates a property project at 11 Cois Riasc, Bantry, Co. Cork on behalf of a family member
 

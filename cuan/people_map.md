@@ -57,13 +57,32 @@
 
 ## Family
 
+### Majella Webb O'Rourke
+- **Relationship:** John's wife
+- **Current income:** Monthly payments from the sale of her shares in Tim Cahill Limited (trading as Cahill's Homevalue Hardware, a member of AHL and United Hardware). This is the primary family income alongside John's part-time fees. **Income ends September 2027** -- a significant financial milestone.
+- **Character:** Practical, grounded, keeps follow-through honest. Noticed the thank-you text to Clinton before John did.
+
+### Owen Webb O'Rourke
+- **Relationship:** John's son, age 33-34
+- **Married to:** Dervila
+- **Lives:** [ASK -- "landciders" came through in dictation, need to confirm location]
+- **Child:** Cuan, 26 months old -- grandson John and Majella adore. The personal intelligence system is named after him. In Irish: "the little wolf" and "the safe harbour."
+
 ### Niamh Webb O'Rourke
-- **Relationship:** John's daughter (Director 2 in MiDentalCare CVL — resigned 7 May 2025)
-- **Property:** John coordinates the Bantry property project (11 Cois Riasc) on her behalf
-- **Sensitive:** She holds a personal guarantee on MiDentalCare's Bank of Ireland facilities. John is assuming responsibility for the balance with Bank of Ireland so she is not pursued. Protecting her from this exposure is a fixed personal priority.
-- **Cuan notes:** [ASK — further context on family structure relevant to scheduling and priorities]
+- **Relationship:** John's daughter, age 31 (only daughter)
+- **Health:** Suffers significantly from endometriosis and other health complications
+- **Income:** Weekly disability payment; permitted to work up to 29 hours
+- **New job:** Wellness centre in Limerick -- recently started
+- **Also:** Former Director 2 of MiDentalCare (resigned 7 May 2025); holds a personal guarantee on MiDentalCare's Bank of Ireland facilities. John is assuming the Bank of Ireland facilities so she is not pursued. Protecting her from this exposure is a fixed personal priority.
+- **Property:** John coordinates the Bantry property project (11 Cois Riasc) on her behalf.
+
+### Joan O'Rourke
+- **Relationship:** John's mother
+- **Lives:** Bantry, Co. Cork
+- **Birthday:** 17 June -- John visiting next Wednesday 17 June, staying overnight in Bantry
 
 ### Cuan (grandson)
+- Son of Owen and Dervila. Age 26 months. Apple of everyone's eye.
 - The personal intelligence system is named after him. In Irish: "the little wolf" and "the safe harbour."
 
 ---
@@ -76,6 +95,16 @@
 - Also holds a personal guarantee on MiDentalCare's Bank of Ireland facilities, alongside Niamh
 - Resolution: repayment in full on or before 31 December 2026; John assumes the Bank of Ireland facilities directly
 - Cuan notes: Paul is simultaneously John's personal lender, a former MiDentalCare director and guarantor, and CEO of UHL where John chairs Audit & Risk. Keep the three relationships cleanly separated in all documents and communications.
+
+---
+
+## Trusted Practical Contacts
+
+### Clinton Kiernan
+- **Role:** John's garage mechanic -- trusted, works on goodwill and relationship
+- **Current arrangement:** Tyres for Niamh's car charged through Clinton, he recharges John. Range Rover Evoque service also going to Clinton.
+- **Open action:** John to text Clinton to thank him (11 June evening)
+- **Open action:** Book Evoque service with Clinton -- **nudge Tuesday 17 June**
 
 ---
 
