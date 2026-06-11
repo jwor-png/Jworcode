@@ -96,6 +96,18 @@
 - **Relationship:** John's late father
 - **Birthday:** 14 June -- remembered every year. Cuan marks this date annually.
 
+### Jerry Webb
+- **Relationship:** John's uncle
+- **Lives:** Limerick City (street name to confirm -- dictation unclear)
+- **Health:** Not in the best of health. John is probably his closest relative and carries a degree of responsibility for him.
+
+### Siblings (headline only -- detail not needed for now)
+- Technically half-brothers and half-sister; John does not identify them as such -- they are simply his brothers and sister.
+- **Marion O'Rourke** -- sister, Waterfall, Co. Cork
+- **Bryan O'Rourke** -- brother, Glengarriff, Co. Cork (town spelling to confirm)
+- **Third brother, Ballinhassig, Co. Cork** -- first name to confirm (dictation gave "Port")
+- All have families of their own.
+
 ### Cuan (grandson)
 - Son of Owen and Dervila. Age 26 months. Apple of everyone's eye.
 - The personal intelligence system is named after him. In Irish: "the little wolf" and "the safe harbour."
