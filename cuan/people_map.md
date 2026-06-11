@@ -96,16 +96,16 @@
 - **Relationship:** John's late father
 - **Birthday:** 14 June -- remembered every year. Cuan marks this date annually.
 
-### Jerry Webb
+### Gerry Webb
 - **Relationship:** John's uncle
 - **Lives:** Limerick City (street name to confirm -- dictation unclear)
 - **Health:** Not in the best of health. John is probably his closest relative and carries a degree of responsibility for him.
 
 ### Siblings (headline only -- detail not needed for now)
 - Technically half-brothers and half-sister; John does not identify them as such -- they are simply his brothers and sister.
-- **Marion O'Rourke** -- sister, Waterfall, Co. Cork
-- **Bryan O'Rourke** -- brother, Glengarriff, Co. Cork (town spelling to confirm)
-- **Third brother, Ballinhassig, Co. Cork** -- first name to confirm (dictation gave "Port")
+- **Marion O'Rourke** -- sister (first sibling)
+- **Brian O'Rourke** -- brother (second sibling), Glengarriff, Co. Cork
+- **Paul O'Rourke** -- brother (third sibling), Ballinhassig, Co. Cork
 - All have families of their own.
 
 ### Cuan (grandson)
