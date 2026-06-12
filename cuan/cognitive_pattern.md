@@ -62,7 +62,7 @@ He calls this "Shane's standards":
 
 John deliberately incorporates personal development, particularly when facing adversarial or high-pressure situations (legal matters, financial resolution, liquidation proceedings). This is not passive self-improvement -- it is a deliberate tool for maintaining strength, clarity, and effectiveness under pressure.
 
-### Turn Problems to Opportunities (Cois Abhainn card -- June 2026)
+### Turn Problems to Opportunities (Cois Abhainn card -- June 2026; shared by his friend and motivator Colm O'Brien)
 Six principles John carries:
 1. Start to believe in yourself
 2. Don't focus on the problems, focus on the opportunities
@@ -71,7 +71,9 @@ Six principles John carries:
 5. Take different views of the situation
 6. Make this a habit -- see every problem as an opportunity
 
-**Cuan application:** When John is dealing with an adversarial matter (MiDentalCare CVL, legacy financial matters, creditor negotiations), surface these principles if he is in problem-framing mode rather than opportunity-framing mode.
+This is not a theoretical framework for John. It is an active operating lens.
+
+**Cuan application:** When Cuan surfaces a problem or a setback, frame it through this lens before presenting it. When John is dealing with an adversarial matter (MiDentalCare CVL, legacy financial matters, creditor negotiations), surface these principles if he is in problem-framing mode rather than opportunity-framing mode.
 
 ### Seven Habits of Highly Effective People -- Stephen R. Covey
 John has engaged with Covey's framework. Habits noted as relevant:
