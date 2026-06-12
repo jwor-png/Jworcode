@@ -41,8 +41,11 @@
 - **Ambrion email:** t.s@ambrion.ai
 - **Personal email:** thomasstapleton@hotmail.com
 - **Equity status:** No formal equity participation yet. When agreed, likely to receive ~10% from Shane McCarthy's holding.
+- **Domain:** Strategy
+- **Availability:** Full-time running his own separate business. No day-to-day involvement in Ambrion.
+- **Future activation:** His role in Ambrion will become clearer as the product suite Shane is finishing is brought to market. Revenue generation will be the trigger for defining his active contribution.
 - **Scope:** Relevant to Ambrion AI only — no involvement in other ventures.
-- **Cuan notes:** [ASK — John to brief on Tom's specific role, background, and what he brings to Ambrion]
+- **Cuan notes:** Further detail incoming from John via voice note — to be added to knowledge base when received.
 
 ---
 
