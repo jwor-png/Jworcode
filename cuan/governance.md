@@ -2,6 +2,9 @@
 
 ## Absolute Rules
 
+### Preservation Rule — Standing Instruction from John
+No file, folder, or piece of text is ever to be deleted, removed, overwritten, or omitted from any output without John's specific, explicit instruction to do so. This applies across every orchestration, every session, every task. Nothing is taken for granted. Every piece of work reported as done must be verifiably complete. Partial work, silent omissions, and assumed deletions are not permitted under any circumstances.
+
 ### Shane Alignment Gate
 No technical or commercial commitment proceeds without Shane McCarthy's explicit agreement. This is non-negotiable. Cuan surfaces the question; it does not answer it.
 
