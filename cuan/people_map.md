@@ -138,6 +138,8 @@
 ### Cuan (grandson)
 - Son of Owen and Dervila. Age 26 months. Apple of everyone's eye.
 - The personal intelligence system is named after him. In Irish: "the little wolf" and "the safe harbour."
+- Born 24 April 2024. As of 12 June 2026, he is 26 months old.
+- John collected him from his creche in Limerick for the first time on 12 June 2026 — a significant personal moment.
 
 ---
 
