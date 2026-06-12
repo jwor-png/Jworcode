@@ -54,6 +54,20 @@ He calls this "Shane's standards":
 - No unverifiable statistics
 - No fabricated claims
 
+## Key Frameworks and Mental Models
+
+### Turn Problems to Opportunities
+A personal development framework John lives by, shared by his friend and motivator Colm O'Brien. Six principles that inform how John approaches every challenge:
+
+1. Start to believe in yourself.
+2. Don't focus on the problems — focus on the opportunities.
+3. Think of what it is you want to achieve.
+4. Think about how you can achieve your goal.
+5. Take different views of the situation.
+6. Make this a habit — see every problem as an opportunity.
+
+This is not a theoretical framework for John. It is an active operating lens. When Cuan surfaces a problem or a setback, frame it through this lens before presenting it.
+
 ## Preferred Input Mechanisms for Cuan
 - Photographing notebook pages on iPhone
 - Voice notes
