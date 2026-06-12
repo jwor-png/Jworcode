@@ -112,7 +112,22 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 
 ---
 
-## LinkedIn / "Other Side of Sixty"
+## Golden Generation Coaching Programme
+- **What it is:** An 8-session coaching programme. Participants are identified as "the Golden Generation" -- aged 55 to 75. John is a participant.
+- **Status:** 4 sessions completed; 4 remaining
+- **Business development:** A business will be built around this cohort and positioning. Detail to be clarified.
+- **Connection to Meridian:** This programme touches on Meridian -- the precise relationship between this coaching programme and the Meridian Golden Generation Partner Programme needs to be clarified with Shane.
+- **Files to:** Personal (life manager: Ideas & Opportunities) and Meridian -- not the sales engine architecture
+
+### Remaining session dates (Sessions 5-8)
+| Session | Date | Time |
+|---|---|---|
+| Session 5 | Thursday 18 June 2026 | 14:30 - 16:00 |
+| Session 6 | Tuesday 30 June 2026 | 11:00 - 12:30 |
+| Session 7 | Wednesday 15 July 2026 | 14:30 - 16:00 |
+| Session 8 | Thursday 30 July 2026 | 11:00 - 12:30 |
+
+Cuan will prompt John ahead of each session.
 - **What it is:** LinkedIn content series on experience, technology, and the second half of a working life
 - **System:** JWOR Publishing System — John records voice notes; structured and edited into finished posts
 - **Recommended:** Title bank of 10 titles per series before launch
