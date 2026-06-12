@@ -4,11 +4,11 @@
 
 ### Shane McCarthy
 - **Role:** AI systems architect, technical partner, co-founder
-- **Ventures:** Meridian Intelligence (30%), Ambrion AI, BarberTemp (technical lead)
+- **Ventures:** Meridian Intelligence (30%), Ambrion AI (60%), BarberTemp (technical lead)
 - **Capability:** Top-tier global AI architect. Built a working three-tier agent orchestration system (Finn as orchestrator, with managers and agents beneath) and the legal AI system Jurgen.
 - **The rule:** No technical or commercial commitment proceeds without Shane's alignment. This is absolute.
 - **Dynamic:** John is commercial/governance/relationships. Shane is technical/execution. The combination is stronger than either individually.
-- **Cuan notes:** Surface Shane on anything technical. Copy or loop in for any proposal that has commercial binding. Keep his name off external BarberTemp documents.
+- **Cuan notes:** Surface Shane on anything technical. Copy or loop in for any proposal that has commercial binding. Keep his name off external BarberTemp documents. Note: Tom Stapleton's future equity in Ambrion (likely 10%) will come from Shane's holding.
 
 ---
 
@@ -20,6 +20,29 @@
 - **John's role:** INED and Chair, Audit & Risk Committee
 - **Note:** Paul Candon is also listed as Director 1 on MiDentalCare CVL documents. There is also a separate personal matter involving Paul Candon — treat with care.
 - **Cuan notes:** UHL proposals are internal only — not for circulation to UHL contacts without explicit approval.
+
+---
+
+## Ambrion AI Founding Team
+
+### Pat McGrath
+- **Title:** Founding Partner, Ambrion AI
+- **Company:** McGrath Management & Consultancy Services Ltd, trading as McGrath Strategia
+- **Designation:** Chartered Engineer and Chartered Director
+- **Ambrion equity:** 10% (formal equity partner)
+- **Work email:** pat@mcgrathstrategia.com
+- **Phone:** +353 87 254 0521
+- **Address:** Strand Road, Monkstown, Co. Cork, Ireland T12 TXF2; Company No. 510808
+- **Role in Ambrion:** Governance training and board-facing commercial delivery. Has used the Governance of AI training deck (Section 17) with multiple clients. Strong plain-English advocate — a useful counterweight on complexity.
+- **Cuan notes:** Pat is a formal equity partner, not an advisor. Treat commercial discussions involving Ambrion equity or partnership structure as requiring John's explicit sign-off before anything is communicated externally.
+
+### Tom Stapleton
+- **Title:** Founding Partner, Ambrion AI (no equity yet)
+- **Ambrion email:** t.s@ambrion.ai
+- **Personal email:** thomasstapleton@hotmail.com
+- **Equity status:** No formal equity participation yet. When agreed, likely to receive ~10% from Shane McCarthy's holding.
+- **Scope:** Relevant to Ambrion AI only — no involvement in other ventures.
+- **Cuan notes:** [ASK — John to brief on Tom's specific role, background, and what he brings to Ambrion]
 
 ---
 

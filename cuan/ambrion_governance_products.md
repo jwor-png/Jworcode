@@ -104,7 +104,8 @@ Not a fixed software product. Discovery engagement first. Scope and build in pha
 
 ---
 
-## Flag for John
-The Board Governance Platform doc lists both Pat McGrath and Shane McCarthy as "Founding Partner, Ambrion AI." This is a new data point — the ventures dossier records John as Founder / Principal at Ambrion AI. John to confirm whether Pat has a formal partnership role at Ambrion or whether this is a title being used commercially for this product specifically. This has implications for how Ambrion is presented externally and how equity or commercial terms are structured.
-
-Thomas Stapleton (thomasstapleton@hotmail.com) was also on the original email chain — no current record of him in the people map. John to identify.
+## Ambrion Founding Team (confirmed 12 June 2026)
+- Shane McCarthy — 60%
+- John Webb O'Rourke — 30%
+- Pat McGrath — 10% (formal equity partner)
+- Tom Stapleton — no equity yet; likely ~10% from Shane's holding when agreed. Ambrion email: t.s@ambrion.ai

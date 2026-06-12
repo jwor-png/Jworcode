@@ -23,7 +23,11 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 - **Anchor deadline:** 2 August 2026 — compliance campaign launch
 - **Summit opportunity:** Expression of interest submitted for Innovation Spotlight at International AI Summit 2026 (14 October, RDS Dublin, ~1,500 attendees). Deadline: 24 June 2026.
 - **John's role:** Founder / Principal — commercial and governance lead
-- **Partner:** Shane McCarthy — technical architecture
+- **Founding team and equity:**
+  - Shane McCarthy — 60% (technical architecture and execution)
+  - John Webb O'Rourke — 30% (commercial, governance, relationships)
+  - Pat McGrath — 10% (formal equity partner, governance and training)
+  - Tom Stapleton — no equity yet; likely to receive ~10% from Shane's holding when agreed
 - **John's care level:** Highest — primary revenue vehicle for next 3 years
 - **Strategic position:** AI as an asset class in Ireland — unclaimed white space
 
