@@ -71,3 +71,16 @@ Details: [ASK — John to confirm the five names and their roles]
 
 ## Stated Intent
 > "To input the events of each day, plan for tomorrow, and act knowing I am working toward the best version of myself. AI native and AI driven, but human led."
+
+## Upcoming Calendar
+
+### Westport Trip — Connemara Coast Hotel
+- **Depart:** Sunday 21 June 2026
+- **Return:** Wednesday 24 June 2026
+- **Cost:** €506 (paid 12 June 2026)
+
+### UHL Board Meeting
+- **Date:** Wednesday 24 June 2026
+- **Time:** 10:00am to 1:30pm
+- **Format:** Remote via Microsoft Teams
+- **Attending from:** Westport (Connemara Coast Hotel)
