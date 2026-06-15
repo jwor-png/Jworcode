@@ -132,6 +132,12 @@
 - Resolution: repayment in full on or before 31 December 2026; John assumes the Bank of Ireland facilities directly
 - Cuan notes: Paul is simultaneously John's personal lender, a former MiDentalCare director and guarantor, and CEO of UHL where John chairs Audit & Risk. Keep the three relationships cleanly separated in all documents and communications.
 
+### Andrew Sharkey
+- **Location:** UK
+- **Role:** Government access contact -- Shane references him as having routes into Government for the child welfare architecture sales play
+- **Also:** Participates in the Golden Generation education series
+- **Cuan notes:** Key contact for the child welfare architecture Government track. Relationship sits across both commercial (Meridian/Shane) and the Golden Generation programme.
+
 ---
 
 ## Trusted Practical Contacts
