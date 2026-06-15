@@ -136,7 +136,14 @@
 - **Location:** UK
 - **Role:** Government access contact -- Shane references him as having routes into Government for the child welfare architecture sales play
 - **Also:** Participates in the Golden Generation education series
+- **Introduction:** Introduced John and Shane to Kevin Carr (PR, UK)
 - **Cuan notes:** Key contact for the child welfare architecture Government track. Relationship sits across both commercial (Meridian/Shane) and the Golden Generation programme.
+
+### Kevin Carr
+- **Location:** UK
+- **Role:** PR professional
+- **Introduction:** Introduced by Andrew Sharkey
+- **Status:** Call held last week (w/c 8 June 2026). Awaiting response from Kevin.
 
 ---
 
