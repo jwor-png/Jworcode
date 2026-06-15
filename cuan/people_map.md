@@ -138,6 +138,12 @@
 - **Open action:** John to text Clinton to thank him (11 June evening)
 - **Open action:** Book Evoque service with Clinton -- **nudge Tuesday 16 June**
 
+### John McNamara
+- **Role:** Co-Founder, Performance Nerds; ICF certified coach
+- **Relationship:** John knows him well and rates his judgement highly
+- **Value:** Trusted voice on AI and performance. Worth paying attention to what he recommends.
+- **Note:** Recommended "The most rational take on AI you'll hear this year" (YouTube, June 2026). John to listen to this.
+
 ---
 
 ## To Map
