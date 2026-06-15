@@ -21,7 +21,7 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 - **Current focus:** Tiered done-for-you EU AI Act compliance offering, positioned against software-only platforms
 - **Key channels:** Smacht network (300 Irish SMEs via Padraic O'Maille), professional referral partners (accountants, solicitors)
 - **Anchor deadline:** 2 August 2026 — compliance campaign launch
-- **Summit opportunity:** Expression of interest submitted for Innovation Spotlight at International AI Summit 2026 (14 October, RDS Dublin, ~1,500 attendees). Deadline: 24 June 2026.
+- **Summit opportunity:** Expression of interest submitted for Innovation Spotlight at International AI Summit 2026 (14 October, RDS Dublin, ~1,500 attendees). Deadline: **24 June 2026 -- must be submitted before Westport trip (departs 21 June). Priority: done with Shane by Friday 20 June.**
 - **John's role:** Founder / Principal — commercial and governance lead
 - **Partner:** Shane McCarthy — technical architecture
 - **John's care level:** Highest — primary revenue vehicle for next 3 years
@@ -59,6 +59,15 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 - **Key contacts at UHL:** CEO Paul Candon; Commercial Director David Shakeshaft
 - **Note:** John has a declared family connection to a member store — managed as a declared interest
 - **Ardentia Limited:** New UHL-associated company through which UHL is completing a purchase. John signed corporate documents as a director to assist. Details in Paul Candon email (to be pasted in).
+
+### Revenue pipeline (as of 15 June 2026)
+| Engagement | Vehicle | Value | Status |
+|---|---|---|---|
+| Edelia | Velocity AI | €30,000 | Proposal sent by Shane -- awaiting response |
+| UHL training (2 programmes) | Velocity AI / Ambrion | €20,000 | Accepted; dates TBC |
+| Ambrion AI products (4-5 items) | Ambrion AI | TBC | Shane to send detail |
+
+Note: Nothing yet signed and invoiced. August 2026 is the target to start generating income.
 
 ### UHL AGM and Accounts -- June/July 2026 timeline
 | Date | Event |

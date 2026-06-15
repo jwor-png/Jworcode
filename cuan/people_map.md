@@ -73,6 +73,10 @@
 - **Caring role:** Cares full time for her mother Helen at Spittal House
 - **Character:** Practical, grounded, keeps follow-through honest. Noticed the thank-you text to Clinton before John did.
 
+### Helen O'Connell
+- **Relationship:** Majella's cousin
+- **Note:** 60th birthday 16 June 2026 -- John to text birthday wishes tomorrow morning
+
 ### Helen
 - **Relationship:** Majella's mother, age 88
 - **Lives:** At Spittal House with John and Majella full time; Majella is her carer. Spittal House is her family home.
@@ -134,9 +138,16 @@
 
 ### Clinton Kiernan
 - **Role:** John's garage mechanic -- trusted, works on goodwill and relationship
-- **Current arrangement:** Tyres for Niamh's car charged through Clinton, he recharges John. Range Rover Evoque service also going to Clinton.
-- **Open action:** John to text Clinton to thank him (11 June evening)
-- **Open action:** Book Evoque service with Clinton -- **nudge Tuesday 16 June**
+- **Current arrangement:** Tyres for Niamh's car charged through Clinton, he recharges John.
+- **Open actions (one call/text covers all):**
+  1. Thank Clinton for allowing the tyre arrangement for Niamh
+  2. Book Evoque service for **week of 29 June or later** (after Westport trip returns 24 June)
+  3. Ask Clinton to locate Owen's steel wheel spare tyre and fit a tyre on it
+
+### Christy Crowley
+- **Location:** Bantry
+- **Role:** Local contact regarding planning matters (nature of role to confirm -- planner, architect, or local knowledge)
+- **Open action:** Contact Christy about planning permission at the rear of the Bantry houses -- potential accommodation for Owen and Dervila and/or Niamh. John in Bantry Wednesday 17 June -- possible in-person opportunity.
 
 ### John McNamara
 - **Role:** Co-Founder, Performance Nerds; ICF certified coach
