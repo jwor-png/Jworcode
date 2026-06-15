@@ -66,6 +66,17 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 | Edelia | Velocity AI | €30,000 | Proposal sent by Shane -- awaiting response |
 | UHL training (2 programmes) | Velocity AI / Ambrion | €20,000 | Accepted; dates TBC |
 | Ambrion AI products (4-5 items) | Ambrion AI | TBC | Shane to send detail |
+| Child welfare architecture | TBC | TBC | Two-track sales strategy being agreed with Shane |
+
+### Child Welfare Architecture -- Shane's System
+- **What it is:** Shane has built a child welfare architecture system. Details to be confirmed.
+- **Sales strategy (WhatsApp, 15 June 2026):** Two separate opportunities identified by Shane:
+  1. A sale aligned to CS (Child Services -- likely Tusla or equivalent)
+  2. A larger, independent play -- nothing to do with CS
+- **John's position:** Don't align it to the existing agency -- that's a round peg in a square hole. Flip the approach.
+- **Shane's position:** Both tracks are valid; the bigger play is independent of CS entirely.
+- **Andrew:** Shane references someone named Andrew who has routes into Government. Identity to be confirmed.
+- **Next step:** Proper conversation with Shane to agree which track to pursue first and what Andrew's role is. Not a WhatsApp item -- needs a call.
 
 Note: Nothing yet signed and invoiced. August 2026 is the target to start generating income.
 
