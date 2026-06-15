@@ -149,6 +149,16 @@
 - **Role:** Local contact regarding planning matters (nature of role to confirm -- planner, architect, or local knowledge)
 - **Open action:** Contact Christy about planning permission at the rear of the Bantry houses -- potential accommodation for Owen and Dervila and/or Niamh. John in Bantry Wednesday 17 June -- possible in-person opportunity.
 
+### Hilary Forde
+- **Contact:** hilaryforde@yahoo.com (personal email -- she keeps this channel private)
+- **Role:** Property contact who passes John off-market opportunities
+- **Current matter:** Sent John an off-market residential development site at Pouladuff / Pearse Road, Cork (7 June 2026). Awaiting John's reply. John to consult Christy Crowley on suitability first, then respond to Hilary this week.
+
+### Malachy Harkin
+- **Contact:** malachyh@gmail.com
+- **Role:** Property developer / investor -- trusted contact, John passes opportunities to him for assessment
+- **Current matter:** Reviewed Pouladuff / Pearse Road site and passed -- "side garden of a house, corner location, difficult access, can't see 10-15 units." Also involved in Old Mill, Julianstown planning matter.
+
 ### John McNamara
 - **Role:** Co-Founder, Performance Nerds; ICF certified coach
 - **Relationship:** John knows him well and rates his judgement highly
