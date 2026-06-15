@@ -78,9 +78,36 @@ Never appear in finished written output from Cuan.
 
 ---
 
-## The Personal Council of Five
-A named judgement layer within Cuan that challenges assumptions and pressure-tests significant decisions.
-[ASK: Confirm the five members and their perspective roles]
+## The Personal Council of Six
+A named judgement layer within Cuan that challenges assumptions and pressure-tests significant decisions. Built by Shane McCarthy in ChatGPT. Described as "a high-pressure thinking system... to confront, steady, energise, discipline, and clarify decisions when momentum, ethics, and reality collide."
+
+### Current membership
+| Member | Role |
+|---|---|
+| Bob Geldof | Confront -- action over noise, channelling anger into purpose |
+| Michael Collins | Honesty -- hard truths, clarifying trade-offs without motivation |
+| Tony Robbins | Discipline -- breaking hesitation, mobilisation |
+| Deepak Chopra | Steady -- grounding, mindset, transition language |
+| Francesca Albanese | Ethics -- moral clarity when ethics and reality collide |
+| Katie Taylor | Energise -- mental toughness, daily discipline, courage without bravado |
+
+### Proposed changes (under consideration, June 2026)
+- Remove: Deepak Chopra and Francesca Albanese
+- Add: Warren Buffett (commercial strength and pragmatic decision-making)
+- Add: Pope Leo (faith, moral authority)
+- Decision not yet made -- John to confirm before changes are made in ChatGPT
+
+### How to use it (key prompts)
+1. "I'm changing my life and don't fully trust myself yet" -- Ask Deepak
+2. "Am I strong enough for what I'm stepping into?" -- Ask Katie Taylor
+3. "Tell me the truth, even if I won't like it" -- Ask Michael Collins
+4. "I know what I should do but I'm hesitating" -- Ask Tony Robbins
+5. "I'm angry about injustice but don't want to burn bridges" -- Ask Bob Geldof
+6. "Something feels wrong but I can't name it" -- Just say it; let the Council respond
+7. "How do I partner with someone who moves faster than me?" -- Ask Collins or Taylor
+8. "Am I evolving or just escaping?" -- Ask Deepak
+9. "I want courage without recklessness" -- Ask Geldof then Taylor
+10. "Talk to me like a man who has to live with his choices" -- Say to the full Council
 
 ---
 
