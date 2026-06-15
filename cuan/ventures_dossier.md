@@ -53,10 +53,24 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 - **What it does:** Irish buying and marketing group, operates the Homevalue brand
 - **Scale:** ~130 member stores across 32 counties (incl. Northern Ireland); combined member turnover ~€350M (2025); ~2,000 people across network; ~40 at Dublin HQ and warehouse at Magna Park
 - **John's role:** Independent Non-Executive Director and Chair, Audit & Risk Committee
-- **AI engagement:** €10,000 senior executive training programme approved. Two priority use cases: predictive procurement forecasting from member purchase data; automated product marketing for Chinese import lines arriving without collateral.
+- **AI engagement:** €10,000 senior executive training programme approved. Two training programmes submitted via Velocity AI (John and Shane) -- accepted. Dates to be confirmed; Shane to provide email detail.
+- **Two priority use cases:** predictive procurement forecasting from member purchase data; automated product marketing for Chinese import lines arriving without collateral.
 - **AI proposal:** A broader AI-native migration strategy framed around Shane's four-phase model (Static Foundation / Bolt-On Trap / Architecture Rebuild / Native Operation). First drafts are for John and Shane only — NOT for circulation to UHL.
 - **Key contacts at UHL:** CEO Paul Candon; Commercial Director David Shakeshaft
 - **Note:** John has a declared family connection to a member store — managed as a declared interest
+- **Ardentia Limited:** New UHL-associated company through which UHL is completing a purchase. John signed corporate documents as a director to assist. Details in Paul Candon email (to be pasted in).
+
+### UHL AGM and Accounts -- June/July 2026 timeline
+| Date | Event |
+|---|---|
+| 24 June 2026 | IT systems report to board (John attending via Teams) |
+| 30 June 2026 | Shop visit -- John cannot attend; send apologies |
+| 1 or 2 July 2026 | Audit & Risk Committee call: John, Michael O'Driscoll, Mazars, Dave Geoghegan. 1-1.5 hrs to review accounts. |
+| ~6 July 2026 | Board call via Teams -- present report to board |
+| By 22 July 2026 | AGM notification and accounts must be circulated (7 days before AGM) |
+| 29 July 2026 | UHL AGM -- Greene Isle Hotel, Dublin |
+
+Note: Accounts not ready by 24 June; expected approximately w/c 1 July.
 
 ---
 

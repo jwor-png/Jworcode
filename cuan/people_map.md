@@ -15,8 +15,12 @@
 ## Board and Governance Contacts
 
 ### United Hardware Limited
+- **Chairman:** [ASK -- confirm name of UHL board chairman]
 - **CEO:** Paul Candon
+- **CFO:** David Geoghegan (also managing AHL admin while Nicola is unavailable)
 - **Commercial Director:** David Shakeshaft
+- **Audit & Risk Committee:** John (Chair), Michael O'Driscoll
+- **Auditors:** Mazars
 - **John's role:** INED and Chair, Audit & Risk Committee
 - **Note:** Paul Candon is also listed as Director 1 on MiDentalCare CVL documents. There is also a separate personal matter involving Paul Candon — treat with care.
 - **Cuan notes:** UHL proposals are internal only — not for circulation to UHL contacts without explicit approval.
@@ -24,9 +28,10 @@
 ### AHL PLC
 - **John's role:** Chairman / CEO (landlord side of the Magna Park lease to UHL — interest declared and accepted at UHL board)
 - **Board:** Shane Felle, Joe Wallace, Eoin Lynch, John Smyth, Emmet Cooney
-- **Company secretary:** Nicola Hegarty McMillan — recently appointed; former AHL / United Hardware employee, recently returned to Ireland for family circumstances; full-time position with United Hardware not yet confirmed. Currently liaising with BDO on the 2025 audit.
-- **Auditors:** BDO
+- **Company secretary:** Nicola Hegarty McMillan -- not currently working; husband seriously ill in Dublin. **Linda** (AHL office) covering her workload, working with Dave Geoghegan.
+- **Auditors:** BDO. Audit partner: Simon Cadbury. 2025 audit delayed.
 - **Cuan notes:** Several AHL member directors are also member directors of United Hardware.
+- **Ray Smith matter:** AHL member making a claim for faulty product. His company owes AHL €100,000 as a debtor. Set-off situation. Actions: John to speak to Ray Smith and advise board formally on his Chairman/CEO role in this matter.
 
 ---
 
