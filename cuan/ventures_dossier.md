@@ -62,6 +62,14 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 - **Note:** John has a declared family connection to a member store — managed as a declared interest
 - **Ardentia Limited:** New UHL-associated company through which UHL is completing a purchase. John signed corporate documents as a director to assist. Details in Paul Candon email (to be pasted in).
 
+### Ingestion form pipeline (personal orchestration prospects)
+| Person | Company/Role | Status |
+|---|---|---|
+| Vinny Leonard | Sales Process Advisors | Sent -- awaiting return |
+| Padraic O'Maille | Smacht network (~300 Irish SMEs) | Sent -- awaiting return |
+| Kevin Carr | PR firm, UK (introduced by Andrew Sharkey) | Sent -- awaiting return |
+| Eoin Lynch | Portlaoise | Under consideration -- decision pending |
+
 ### Revenue pipeline (as of 15 June 2026)
 | Engagement | Vehicle | Value | Status |
 |---|---|---|---|
