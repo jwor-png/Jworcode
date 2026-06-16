@@ -86,7 +86,7 @@
 - **Married to:** Dervila
 - **Lives:** Next door to Spittal House, ground floor, with Dervila and Cuan. Owns a small rented-out house in Thomondgate, Limerick City.
 - **Child:** Cuan, 26 months old -- grandson John and Majella adore. The personal intelligence system is named after him. In Irish: "the little wolf" and "the safe harbour."
-- **Work:** Greenkeeper at Deer Manor Resort (approx. 4 months in as of June 2026)
+- **Work:** Greenkeeper at Adare Manor (approx. 4 months in as of June 2026)
 - **Hours:** Monday to Friday, circa 6am to 3/3:30pm. Occasional Saturday or Sunday every couple of weeks.
 - **WhatsApp contact:** Best reached after 3:30pm on weekdays; check before contacting on weekends.
 
