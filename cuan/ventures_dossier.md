@@ -338,29 +338,153 @@ The Decision Map exercise: "Walk us through a real decision you made last year a
 
 ### Session 2 -- Perception: Wave 1, The Mirror (7 May 2026)
 - **Formal title:** Stage 2 -- Perception | Wave 1: The Mirror
-- **Date/time:** Thursday 7 May 2026, 11:00 - 12:30 (IST)
-- **Pre-session brief sent:** Wed 6 May, Shane to group (BCC to John). Stage 2 Brief (2-page PDF) attached.
-- **Invite:** Zoom -- Session 2 - The Golden Generation. Meeting ID: 954 1495 0090. Passcode: 688580.
-- **Session 2 slides:** Sent after the session once recording downloaded.
+- **Date/time:** Thursday 7 May 2026, 11:00 - 12:30 (IST). Zoom.
+- **Pre-session:** Stage 2 Brief (2 pages) sent the evening before (Wed 6 May).
+- **Post-session email:** Thu 7 May, 11:04 PM, Shane to group. Five documents attached immediately; two more to follow after the weekend.
+- **Session 2 slides:** Shane noted recording/transcription to follow. Slides not yet photographed by John.
 
-**What Stage 2 is about (from the Stage 2 Brief):**
-"This session takes the beliefs you surfaced in Stage 1 and holds them against AI output, in real time. You will test your own judgement against AI output, and see how clearly they apply to the AI era. The barrier was never competence. It was language. Delegation is prompt engineering. Risk assessment is probabilistic reasoning. Team leadership is orchestration. Your career already speaks this language. You just have not heard the translation."
+**What Stage 2 is about (from Stage 2 Brief):**
+"The barrier was never competence. It was language. Delegation is prompt engineering. Risk assessment is probabilistic reasoning. Team leadership is orchestration. Your career already speaks this language. You just have not heard the translation."
 
-**The translation Shane made explicit:**
+**The translation table:**
 
-| Career skill | AI language equivalent |
+| Career Skill | AI-Era Equivalent |
 |---|---|
 | Delegation | Prompt engineering |
 | Risk assessment | Probabilistic reasoning |
 | Team leadership | Orchestration |
 
-**What participants walked away with:**
-- A Competency Map (how career competencies map to what this era demands)
-- A Prompt Guide
-- A Custom Instructions Guide
-- A set of tools that amplify what was surfaced in Stage 1
+**Five documents sent post-session:**
+1. Stage 2 Slides
+2. Competency Map -- personal AI competency profile across six leadership domains
+3. Custom Instructions Guide -- set up once in ChatGPT and Claude; every conversation starts at your level
+4. Habit Forming Exercises (Stage 2) -- three exercises between Sessions 2 and 3
+5. Quick Wins Stage 2 -- seven prompts, copy/paste and use
 
-**Note:** Session 2 slide deck and follow-up to be filed when John shares them.
+**Two more sent after the weekend:**
+6. Behavioural Conditioning Stacks -- ten sets of six constraints shaping AI tone, structure, quality
+7. Single Constraints to Guide AI -- thirty individual constraints, drop one into any conversation
+
+Shane's note: "The Habit Forming Exercises and the Quick Wins are the most important attachments in this email. Stage 1 built awareness. Stage 2 showed you where your experience already applies. Stage 3 is where we start building your identity in this landscape."
+
+### Session 2 -- Competency Map (6 domains)
+Personal AI competency profile. For each domain: read the skills, mark those that resonate deepest, write where it matters for you. At the end: identify the three strongest domains and the one most actively avoided. "The gap between those answers is where this programme does its most important work."
+
+**LEADERSHIP & DECISION-MAKING**
+| Career Skill | AI-Era Equivalent | AI Application |
+|---|---|---|
+| Setting strategic direction with incomplete data | Strategic AI governance and decision architecture | Board-level AI strategy |
+| Building consensus among strong personalities | Stakeholder alignment in AI transformation | Executive buy-in, change management |
+| Knowing when to override data and trust experience | Human override in AI-assisted decisions | High-stakes governance, ethical calls |
+| Delegating complex tasks with precise briefs | Prompt engineering and agent orchestration | AI tool deployment, workflow automation |
+| Reading when a team or market is about to shift | Pattern recognition in emerging systems | AI trend analysis, strategic positioning |
+
+**COMMUNICATION & INFLUENCE**
+| Career Skill | AI-Era Equivalent | AI Application |
+|---|---|---|
+| Reading a room and adjusting your approach | Contextual adaptation and real-time calibration | AI-human interaction design |
+| Translating complex ideas for different audiences | Multi-modal communication architecture | AI explainability, stakeholder reporting |
+| Negotiating outcomes where both sides win | Optimisation under constraints | Resource allocation, AI cost-benefit |
+| Persuading sceptics with evidence and narrative | Trust architecture in human-AI systems | AI adoption, resistance management |
+| Building relationships that compound over decades | Long-term value creation in networked systems | Strategic AI partnerships |
+
+**OPERATIONS & SYSTEMS**
+| Career Skill | AI-Era Equivalent | AI Application |
+|---|---|---|
+| Managing what you cannot fully control | Uncertainty quantification in autonomous systems | AI boundary-setting, human oversight |
+
+**STRATEGY & GROWTH**
+| Career Skill | AI-Era Equivalent | AI Application |
+|---|---|---|
+| Spotting market opportunities before competitors | Competitive intelligence in AI-driven markets | AI market positioning, first-mover strategy |
+| Building businesses that outlast their founders | Sustainable AI architecture | AI legacy systems, long-term infrastructure |
+| Knowing when to acquire, partner, or build | Build-buy-partner decisions in AI capability | AI vendor selection, integration strategy |
+| Turning relationships into revenue | Network-effect monetisation | AI ecosystem development |
+| Balancing short-term returns with long-term positioning | Temporal optimisation in AI investment | AI ROI, phased deployment |
+
+**JUDGEMENT & INTUITION**
+| Career Skill | AI-Era Equivalent | AI Application |
+|---|---|---|
+| Making decisions with incomplete information | Probabilistic reasoning under uncertainty | AI-assisted decision support |
+| Knowing which data to ignore | Signal filtering and noise reduction | AI output evaluation, hallucination detection |
+| Sensing when something is wrong before evidence confirms it | Anomaly detection through experiential pattern recognition | AI system monitoring, quality assurance |
+| Balancing competing stakeholder interests | Multi-objective optimisation | AI ethics boards, governance committees |
+| Understanding what motivates people at every level | Human factors in AI system design | AI adoption, user experience, change management |
+
+**YOUR COMPETENCY PROFILE** (checkboxes -- John to complete):
+- Leadership & Decision-Making
+- Risk & Governance
+- Communication & Influence
+- Operations & Systems
+- Strategy & Growth
+- Judgement & Intuition
+- One domain most actively avoided: [John to identify]
+
+### Session 2 -- Custom Instructions Guide (ACTION ITEM for John)
+"Brief AI once. Every conversation starts higher."
+
+Set up once in both ChatGPT and Claude. Every new conversation opens with context already loaded. Eliminates the cold start. The difference between a sharp colleague who knows your business and a stranger who asks you to explain yourself every morning.
+
+**ChatGPT setup:** Settings > Personalization > Custom Instructions. Fill "More About You" and "How to respond."
+
+**Claude setup:** claude.ai > Settings (gear/initials) > General > Instructions for Claude. Paste template. Save.
+
+**Box 1 -- What to know about you (template to personalise):**
+"I am a [your role] in [your industry] with [X] years of experience. I oversee [describe scope]. My strategic priorities right now are [list 2-3]. I make decisions based on evidence, experience, and commercial judgement. I do not need theory explained to me. I need practical application. I sit on [X] boards and advise across [sectors]. I have built, scaled, and exited businesses. I am new to AI tools but not new to technology-driven change. Treat me as a peer, not a student. My communication style is direct. I value brevity. I do not respond well to waffle or hedging. When I ask a question, assume I have context and experience behind it. Do not over-explain fundamentals. I operate in [country/region] and work primarily with senior stakeholders, board members, and investors."
+
+**Box 2 -- How to respond (template to personalise):**
+"Lead with the answer. Always. Explain after if needed but never bury the point. Be direct and concise. No preamble, no filler phrases, no sycophantic openings like 'Great question' or 'Absolutely'. Use British English spelling throughout. Write professionally but without stiffness. No em-dashes. No short stacked sentences. No negative context framing. Say what something is, not what it is not. No AI-isms -- do not use 'delve into', 'unpack', 'landscape', or 'leverage' unless I use them first. For analysis, start with the strategic implications before the detail. Challenge my thinking when you see a gap. Do not agree with me to be polite. I need rigour, not comfort. If you are uncertain, say so clearly. Do not guess and present it as fact. Match the tone of a trusted senior adviser speaking to a board chair. Professional, measured, direct. When producing written content: no bullet points unless I ask for them. Write in prose. Keep paragraphs tight. Never use 'I hope this helps' or 'Let me know if you need anything else'. Just deliver the work. Use headers only when the response covers multiple distinct topics. When I give you a task, complete it fully. Do not give me a partial answer and ask if I want more. Finish the job."
+
+**What changes once set:** "Every conversation opens at your level. The back and forth drops from five exchanges to two. You stop training AI and start directing it."
+
+### Session 2 -- Prompt Guide (Technique 1: The Briefing)
+"You already know how to brief people. Now brief AI the same way."
+
+The single biggest improvement: give AI context before you ask anything. Think of it as briefing a sharp colleague who has just joined your team -- intelligent, but knows nothing about your situation.
+
+**Weak prompt:** "What should I think about for my board meeting?"
+
+**Strong prompt:** "I chair the board of a mid-sized financial services firm. We have a board meeting on Thursday. The main agenda item is whether to invest in AI capability or outsource it. Three board members are sceptical about AI spend. I need to present a clear case. What are the strongest arguments for building in-house capability, and what objections should I prepare for?"
+
+"The difference is context. You gave AI your role, your situation, your audience, and your challenge. It now works at your level instead of guessing."
+
+### Session 2 -- Habit Forming Exercises (Stage 2 to Stage 3, three exercises)
+"You saw it. Now prove it to yourself." -- Do them with AI open beside you. Fifteen minutes each.
+
+**01. The Five-Minute Research Partner**
+Pick a topic you need to think about this week. Open ChatGPT or Claude and give it two minutes of context: what the issue is, what you already know, what you are trying to work out. Ask it to summarise the landscape and mark what it got right and what it got wrong. You just did strategic research in five minutes. Notice how naturally you evaluated the output. That is the skill.
+
+**02. The Instinct Check**
+Pick a decision you are currently leaning towards. Tell AI your instinct and ask it to pressure-test the reasoning. Watch how naturally you evaluate its pushback. Which objections land and which ones you dismiss immediately. That filtering is a leadership skill AI cannot perform on itself. You are stress-testing your own thinking with something that pushes back without ego.
+
+**03. Test Your Judgement**
+Think of a decision you made in the last six months that required real judgement. Brief AI on the situation. Give it the constraints, the timeline. Ask it to analyse and recommend. Then read what it gives you and write down everything it missed. The things it could not see. The politics, the timing, the human factors. That gap between its analysis and your instinct is your competitive edge.
+
+"Stage 3 is called Framing. These exercises prepare you to define who you are in this era."
+
+### Session 2 -- Quick Wins (7 prompts, Stage 2)
+"Copy it. Paste it. Use it. Then make it yours." Replace bracketed sections with your details.
+
+**01. The Negotiation Rehearsal**
+"I am preparing for a negotiation with [describe counterpart and their likely position]. My objectives are [your goals]. Their constraints are [what you know about their limits]. Play the role of my counterpart. Challenge every point I make. After three rounds, break character and tell me where my argument was weakest and what I should change."
+
+**02. The Succession Stress Test**
+"I am the [your role] of [your organisation]. My key responsibilities are [list 3-5 core functions]. Simulate what happens to the organisation over 90 days if I step away completely tomorrow. Identify the first three things that break, who would need to step up, and where the gaps are that nobody is currently covering. Be direct."
+
+**03. The Board Whisperer**
+"I am presenting [your proposal] to [describe your board or leadership group]. The key stakeholders are [themes/roles and what they care about]. Based on their priorities, predict the three strongest objections I will face. For each one, give me a response that acknowledges their concern and redirects to the strategic outcome. Keep it sharp. No fluff."
+
+**04. The Decision Cascade**
+"I am considering [describe the decision]. Map the downstream effects across four dimensions: business operations, team dynamics, personal reputation, and family or lifestyle impact. For each dimension, show me the first, second, and third order consequences. Flag anything that looks irreversible. I want to see what I might be missing before I commit."
+
+**05. The 2am Thinking Partner**
+"I want you to act as my permanent strategic adviser. Here is what you need to know about me: I work in [your industry]. My role is [your position]. I have [X] years of experience. My decision-making style is [describe it]. My blind spots tend to be [what you know about yourself]. The values I lead by are [your core principles]. From now on, when I bring you a problem, advise me through this lens. Challenge me when I am being reactive. Reinforce me when my instincts are sound."
+
+**06. The Second Opinion**
+"Here is my position on [describe your stance on a current issue]. Argue the strongest possible case against it. Do not soften it or hedge. I want to hear what a well-informed opponent would say. After you have made the case, identify the one thing in my position that I am most likely not seeing."
+
+**07. The Thinking Partner**
+"I need to think through [describe the issue]. I am not looking for a solution yet. I want you to ask me five questions that will force me to examine my assumptions, challenge my reasoning, and sharpen my thinking. One question at a time. Wait for my answer before asking the next. Push me where I am being vague."
 
 ### Full session schedule (all 8 sessions)
 | Session | Date | Time | Status |
