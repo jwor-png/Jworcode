@@ -86,13 +86,26 @@
 - **Married to:** Dervila
 - **Lives:** Next door to Spittal House, ground floor, with Dervila and Cuan. Owns a small rented-out house in Thomondgate, Limerick City.
 - **Child:** Cuan, 26 months old -- grandson John and Majella adore. The personal intelligence system is named after him. In Irish: "the little wolf" and "the safe harbour."
+- **Work:** Greenkeeper at Deer Manor Resort (approx. 4 months in as of June 2026)
+- **Hours:** Monday to Friday, circa 6am to 3/3:30pm. Occasional Saturday or Sunday every couple of weeks.
+- **WhatsApp contact:** Best reached after 3:30pm on weekdays; check before contacting on weekends.
 
 ### Niamh Webb O'Rourke
 - **Relationship:** John's daughter, age 31 (only daughter)
 - **Lives:** Next door to Spittal House, upstairs (above Owen, Dervila and Cuan)
 - **Health:** Suffers significantly from endometriosis and other health complications
 - **Income:** Weekly disability payment; permitted to work up to 29 hours
-- **New job:** Wellness centre in Limerick -- recently started
+- **New job:** Wellness centre in Limerick -- 29 hours per week
+- **Niamh's work schedule:**
+
+| Day | Hours | Available |
+|---|---|---|
+| Monday | 9am - 5:30pm | Before 9am / after 5:30pm |
+| Tuesday | 1pm - 9pm | Before 1pm |
+| Wednesday | 12:30pm - 9pm | Before 12:30pm |
+| Thursday | OFF | All day |
+| Friday | 9am - 3pm | Before 9am / after 3pm |
+
 - **Also:** Former Director 2 of MiDentalCare (resigned 7 May 2025); holds a personal guarantee on MiDentalCare's Bank of Ireland facilities. John is assuming the Bank of Ireland facilities so she is not pursued. Protecting her from this exposure is a fixed personal priority.
 - **Property:** John coordinates the Bantry property project (11 Cois Riasc) on her behalf.
 
