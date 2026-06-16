@@ -103,7 +103,7 @@
 | Monday | 9am - 5:30pm | Before 9am / after 5:30pm |
 | Tuesday | 1pm - 9pm | Before 1pm |
 | Wednesday | 12:30pm - 9pm | Before 12:30pm |
-| Thursday | OFF | All day |
+| Thursday | OFF (at present) | All day |
 | Friday | 9am - 3pm | Before 9am / after 3pm |
 
 - **Also:** Former Director 2 of MiDentalCare (resigned 7 May 2025); holds a personal guarantee on MiDentalCare's Bank of Ireland facilities. John is assuming the Bank of Ireland facilities so she is not pursued. Protecting her from this exposure is a fixed personal priority.
