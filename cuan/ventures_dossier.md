@@ -27,6 +27,119 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 - **John's care level:** Highest — primary revenue vehicle for next 3 years
 - **Strategic position:** AI as an asset class in Ireland — unclaimed white space
 
+### Product Suite (as of April 2026)
+Three core products. Two pricing tiers: Friends Rate (warm network / existing relationship) and Standard Rate (cold / qualified enterprise).
+
+| Product | Format | Friends Rate | Standard Rate |
+|---|---|---|---|
+| AI in Plain English | Half day team session (3-4 hrs), on site or hybrid | €4,875 | €6,500 |
+| AI Governance Readiness Assessment | 1-2 weeks remote + one half day workshop | €9,000 | €12,000 |
+| AI Readiness Accelerator | 3 half days over 6 weeks | €13,500 | €18,000 |
+
+**AI in Plain English:** Whole team or department (10-40 people). Non-technical -- managers, ops, HR, finance, anyone using AI day to day. Delivers shared AI vocabulary, clarity on where data flows, Shadow AI awareness, and a Responsible AI Habits charter. Entry point -- leads to Readiness Assessment or policy work. Funding: Skillnet Ireland and Enterprise Ireland Innovation Vouchers (up to €5,000) may offset.
+
+**AI Governance Readiness Assessment:** Evaluates AI readiness across six dimensions: Strategy, Governance, Data, Technology, People, Risk Management. Delivers: scored readiness report (15-25 pages), gap analysis benchmarked against sector, prioritised 30/60/90-day roadmap, two-page board-ready executive summary. Audience: CDO, CCO, CEO, Head of Risk, HR, IT -- 4-8 stakeholder interviews. Funding: Enterprise Ireland Innovation Vouchers (up to €5,000).
+
+**AI Readiness Accelerator:** Three half days over six weeks. 8-20 people, cross-functional. Session 1 (Week 1): AI Maturity Assessment -- full inventory, sector benchmark. Session 2 (Week 3): Risk Classification and Gap Analysis -- EU AI Act risk tiers. Session 3 (Week 5): Readiness Report and Action Plan -- findings, baseline readiness score, prioritised 30-90 day action plan with named owners. Practical exercises between sessions build internal capability. Funding: Skillnet Ireland and Enterprise Ireland Innovation Vouchers.
+
+### Sales Strategy -- 60-Day Execution (31 March to 30 May 2026)
+Source: "AMBRION AI: 60-Day Execution Plan -- Realistic Capacity. Blended Targets. Monetisation First." Version 1.0. Owner: Shane McCarthy. Created: 31 March 2026.
+
+**Team and roles**
+| Person | Weekly Hours | Role in Plan |
+|---|---|---|
+| Shane | 10+ hrs | Engine room -- outreach, delivery, content, strategy |
+| John | 10+ hrs | Engine room -- outreach, relationships, IMI/Ibec leverage |
+| Pat | 3-5 hrs (targeted) | Focused industry lanes -- connections, strategic introductions |
+| Tom | 3-5 hrs (targeted) | In-person pitching, structure, low-hanging fruit instinct, innovation ideas |
+
+Total capacity: ~28-30 hrs/week. Over 8 weeks: ~224-240 hours to generate first revenue.
+
+**The blended approach: Low-Hanging Fruit + Big Tuna**
+- Weeks 1-4: 70/30 weighted to low-hanging fruit. Generate first €15k-30k. Build proof points. Sharpen pitch. Validate model.
+- Weeks 5-8: Shift to 50/50. Approach mid-market targets with case studies in hand. Bigger deals close weeks 10-16.
+- Trap to avoid: if you only chase whales, you starve waiting for contracts. The 60-day plan does both, sequenced correctly.
+
+**Pat's four industry lanes**
+Pat's strength: 40+ years of networks, strategy clarity, board-level credibility. Assigned four lanes:
+1. **Financial Services** (Credit Unions, Banks, Insurance): Opens doors at ILCU (270 credit unions), IOB, Financial Services Ireland. Products: AI Governance for Boards Training (€3k-25k); Board-Ready AI Risk Pack (€15k-50k).
+2. **Legal & Compliance Professions**: Solicitors, accountants, compliance officers advising clients on AI governance. Generation-built relationships. Same products as Financial Services lane.
+3. **Manufacturing & Medtech**: Robotics, quality control, AI predictive maintenance. Industry 4.0 Skillnet is an active buyer. Connect with Industry 4.0 Skillnet, Irish Medtech Association, IDA-backed manufacturers. Products: AI Due Diligence Training (€3k-18k); 90-Day Governance Accelerator (€12k-50k+).
+4. **Professional Services & Chambers**: Chambers, SFA, LEOs. Products: AI Governance Package (€5k-12k per SME). Pitch: "Your members need AI governance. We've built the programme."
+Recommendation in plan: start Financial Services + Legal/Compliance (deepest connections, highest buyer urgency).
+
+**Tom's role: à la carte menu (pick 3 of 8)**
+Tom is not operational. He picks three tasks; Shane builds the brief for each one.
+1. Free Health Check Champion -- deliver 2-3 free AI Governance Health Checks (90 min, in person). Run session, build relationship, identify upsell.
+2. Giveaway Campaign Ambassador -- 2 LinkedIn posts about the €50k Giveaway. Amplify, do not manage.
+3. Pitch Deck Road Tester -- take the Ambrion Master Pitch Deck to 3 real meetings (Shane/John book them, Tom delivers). Return real buyer feedback.
+4. IoD/Chamber Speaker Slot -- secure and deliver one speaking slot at IoD Ireland, business cluster, CeADAR, WDC, or ISME Skillnet. Topic: "AI Governance: What Irish Businesses Need Before August 2026." Shane builds the talk, Tom delivers it.
+5. Training Pilot Facilitator -- co-deliver first paid EU AI Act Essentials half-day training alongside Shane. Tom handles room energy and Q&A; Shane handles technical content.
+6. Low-Hanging Fruit Hunter -- 3 hrs/week on LinkedIn and Indeed searching for Irish companies posting AI compliance job openings. Feed contacts into Direct Enterprise hitlist.
+Plus two further items not fully captured in images.
+
+**Follow-up system (non-negotiable)**
+"This is where most consultancies die. They do outreach once and never follow up."
+- Rule 1: Every email gets a follow-up within 5 business days if no response.
+- Rule 2: Every meeting gets a follow-up within 48 hours -- email summary of what was discussed, proposed next steps.
+- Rule 3: Every proposal gets a follow-up at Day 3, Day 7, Day 14. Day 14: "Would it help to adjust scope or timing? We're flexible."
+- Rule 4: The hitlist spreadsheets are the CRM. Updated every Friday (Shane and John): contacted / proposal sent / closed / next step. No one falls out of the pipeline.
+- Rule 5: Tom and Pat are not burdened with admin. Shane prepares their call briefs (1 page each: who, why, what to say, what to ask for).
+
+**Revenue pathway (projected at plan launch)**
+- Weeks 1-2: Zero revenue. All outreach and pipeline building.
+- Weeks 3-4: First €0-15k closes. 1-2 SME engagements (Readiness Assessment €5k-8k or half-day training €3.5k-5k). Proves the model.
+- Weeks 5-6: Pipeline builds to €50k-100k. 6-8 proposals active. Giveaway winners and channel partnerships in negotiation.
+- Weeks 7-8: Second wave closes. €35k-50k total revenue. One mid-market engagement at €15k-25k. Total pipeline: €100k-200k.
+- Months 3-4 (from Week 8 seeds): €50k-100k additional. Skillnet partnership generates recurring training revenue. Retainer conversations convert.
+- 6-month trajectory: €150k-250k closed, €200k+ pipeline.
+
+**60-day checkpoint metrics**
+| Metric | Target |
+|---|---|
+| Revenue closed | €25k-50k |
+| Pipeline value (proposals active) | €100k-200k |
+| Paid engagements in delivery | 3-5 (paid) + 5 (giveaway) |
+| Case studies completed | 2-3 |
+| Training partnerships signed | 1-2 (Skillnet, Chamber, or Institute) |
+| Retainer conversations started | 1-2 |
+| Total outreach emails sent | 80+ |
+| Total meetings held | 20-25 |
+| LinkedIn posts published | 35-40 |
+| Pat introductions converted to meetings | 4-6 |
+| Tom menu items completed | 3+ deliverables |
+
+### 20 Personalised Outreach Emails (28 March 2026)
+Source: "AMBRION AI: 20 Personalised Sales Outreach -- Sniper-Grade Sales Outreach, Ready to Send." Campaign Date: 28 March 2026. Deadline Context: EU AI Act full application 2 August 2026 (126 days at time of writing).
+
+Priority targets (Score 5 = highest priority):
+
+| # | Target Organisation | Sender | Contact | Priority |
+|---|---|---|---|---|
+| 1 | Local Enterprise Offices (National Coordination) | John (IMI alumni / Enterprise Ireland connection) | LEO National Coordination, Enterprise Ireland LEO Division | Score 5 |
+| 2 | Midlands Ireland | Shane | Enterprise/Innovation Manager (existing relationship) | Score 5 |
+| 3 | Technology Ireland ICT Skillnet | Shane | Network Manager / Head of Programme Development | Score 5 |
+| 4 | Ibec (39 Trade Associations + Ibec Academy) | John (IMI connection to Ibec Academy Director) | Individual Trade Association Directors | Score 5 |
+| 5 | Ibec Skillnet Networks (11 networks) | John | Skillnet Network Managers (Financial Services Ireland, Pharma, Medtech) | Score 5 |
+| 6 | Compliance Institute | Shane | Head of Education/CPD / Course Director | Score 5 |
+| 7 | Institute of Directors Ireland (IoD) | John (IMI networks, board leadership angle) | Caroline Spillane, CEO / Events & Briefings Manager | Score 5 |
+| 8 | AICC Northern Ireland | Shane | David Crozier CBE (Director) / Tadhg Hickey (Head of AI and Digital Ethics Policy) | Score 5 |
+| 9 | Enterprise Ireland (EDIH Programme) | Shane | Regional Development managers / EDIH Programme managers | Score 4 |
+| 10 | CeADAR (UCD-based EDIH) | Shane | EDIH Programme Manager / Head of Skills and Training | Score 4 |
+| 11 | Western Development Commission (WDC) | Shane | Allan Mulrooney, CEO | Score 4 |
+| 12-20 | Further targets -- images not captured | | | |
+
+Key email hooks from the outreach set:
+- LEOs (Target 1): "You coordinated the 'AI Works for Ireland' summit at Google HQ -- smart moves. But none of those cover governance architecture at scale."
+- Midlands IDA (Target 2): "The August 2 deadline is now real. Your IDA companies need more than 'how to use ChatGPT responsibly.'"
+- Ibec (Target 4): "Keiran Gilmurray runs your AI governance dependency risk -- he's a good person, but he's one person."
+- IoD (Target 7): "126 days from August 2, board members need to move from awareness to accountability."
+- AICC NI (Target 8): "You've built a Responsible AI Hub. But your members need actual governance architecture -- policy templates, risk frameworks, audit systems, board-ready briefings."
+- EDIH/Enterprise Ireland (Target 9): "Your accelerator participants graduate with actual governance systems. Your alignment with national compliance requirements becomes visible."
+- WDC (Target 11): "AI governance as competitive advantage -- first mover opportunity. Your 280 members become your proof points."
+
+Note: Targets 12-20 not visible in images shared. To be filed when John makes those pages available.
+
 ---
 
 ## Meridian Intelligence
