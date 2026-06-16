@@ -92,18 +92,18 @@ Articles and intelligence noted by John as potential opportunity threads for Mer
 | Child welfare architecture | TBC | TBC | Two-track sales strategy being agreed with Shane |
 
 ### Edelia -- Detail (updated 16 June 2026)
-- **Contacts:** Ruairí and Pat (surnames to confirm)
+- **Contacts:** Rory and Pat (Golden Generation programme participants -- both attend Session 5 Thursday 18 June 2:30pm)
 - **Shane's proposal:** Three-month AI Native transformation programme -- "AI Native, AI First." Sent 11 June 2026.
-- **AI readiness tool:** https://edelia-ai-readiness.netlify.app/ -- Shane asked both Ruairí and Pat to complete before the call
-- **Next step:** Call to walk through the proposal and pick a start date. Shane wants to start over summer.
-- **September deadline:** Referenced by Shane as a target for Edelia to be "properly underway"
-- **Status:** Awaiting response. John replied to Shane "Well done" on receipt.
+- **AI readiness tool:** https://edelia-ai-readiness.netlify.app/ -- Shane asked both to complete before the call
+- **Status:** No response received as of 16 June. John will see Rory and Pat in person at Golden Generation Session 5 Thursday 18 June -- live opportunity to advance.
+- **Next step:** Warm conversation Thursday. Encourage them to respond to Shane's proposal and complete the AI readiness questionnaire.
 
 ### UHL Training -- Detail (updated 16 June 2026)
 - **Contact:** Paul Candon (CEO, UHL) -- engaged directly by Shane
 - **Documents sent:** ambrion_claude_briefing.pdf ("The Chief Intelligence Architect / CEO") and ambrion_cia_briefing.pdf ("Setting up your Claude as a CEO") -- sent by Shane 22 May 2026
 - **Training framing:** Audit everything top to bottom; then design what the future operating model could look like
-- **Status:** Documents sent, Paul engaged. Dates to be confirmed.
+- **First session agreed: morning of 25 June 2026, UHL premises, Dublin**
+- **Status:** Confirmed and in the diary.
 
 ### Child Welfare Architecture -- Shane's System
 - **What it is:** Shane has built a child welfare architecture system. Details to be confirmed.

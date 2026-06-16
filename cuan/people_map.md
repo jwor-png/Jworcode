@@ -154,7 +154,7 @@
 - **Role:** Chartered Engineer and Chartered Director -- AI governance collaborator
 - **Relationship:** On the Ambrion/Velocity AI inner circle. Part of the Governance of AI call on 11 June 2026 with John, Shane, and Thomas Stapleton.
 - **Contribution:** Sent governance training PowerPoint materials (used in his own workshops) and reviewed Shane's Board Governance Platform two-pager.
-- **Open issue:** Pat objected to one line in Shane's materials: "We are active practitioners in EU AI Act compliance, supporting organisations across Ireland in preparing for the August 2026 deadline." This needs to be resolved before materials go external.
+- **Resolved (16 June 2026):** Pat raised an objection to one line in Shane's materials: "We are active practitioners in EU AI Act compliance, supporting organisations across Ireland in preparing for the August 2026 deadline." This has been agreed and resolved.
 - **Cuan notes:** Trusted collaborator -- valuable governance and engineering perspective. Keep him in the loop on Ambrion governance materials.
 
 ### Thomas Stapleton
