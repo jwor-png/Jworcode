@@ -142,7 +142,8 @@ Note: Accounts not ready by 24 June; expected approximately w/c 1 July.
 - **Email chain:** Forwarded to john@velocityai.ie. John has reviewed.
 - **Introductory document:** Drafted 16 June 2026 -- ready once brand name confirmed (see note below).
 - **Decision (16 June 2026):** Proceeding on basis of True's interest and the live introduction.
-- **Brand name to confirm:** Email chain refers to "barberbarber" (Johnny's email domain is johnny@barberbarber.com). Knowledge base uses "BarberTemp." John to confirm which name goes on the intro document.
+- **Brand name:** BarberTemp. Confirmed by John 16 June 2026. (Johnny's email domain is barberbarber.com -- separate from the BarberTemp brand name used in external documents.)
+- **Intro document:** Saved at barbertemp/true_global_intro_brief.md -- ready to send to Silvana Gracia.
 
 ### Software / Tech -- Names Flagged by Johnny (16 June 2026)
 - **Springchat:** App belonging to one of Johnny's customers. Early stage. John to review.
