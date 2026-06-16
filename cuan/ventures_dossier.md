@@ -83,13 +83,14 @@ Articles and intelligence noted by John as potential opportunity threads for Mer
 | Kevin Carr | PR firm, UK (introduced by Andrew Sharkey) | Sent -- awaiting return |
 | Eoin Lynch | AHL board member, Portumna, Co. Galway | Under consideration -- decision pending |
 
-### Revenue pipeline (as of 15 June 2026)
-| Engagement | Vehicle | Value | Status |
-|---|---|---|---|
-| Edelia | Velocity AI | €30,000 | Proposal sent by Shane 11 June -- awaiting response from Ruairí and Pat |
-| UHL training (2 programmes) | Velocity AI / Ambrion | €20,000 | Accepted; Paul Candon engaged; dates TBC |
-| Ambrion AI products (4-5 items) | Ambrion AI | TBC | Shane to send detail |
-| Child welfare architecture | TBC | TBC | Two-track sales strategy being agreed with Shane |
+### Revenue pipeline (as of 16 June 2026)
+| Engagement | Vehicle | Split | Value | Status |
+|---|---|---|---|---|
+| Edelia | Velocity AI | 30% John / 70% Shane | €30,000 | Proposal sent by Shane 11 June -- awaiting response from Rory and Pat |
+| UHL training (2 programmes) | Velocity AI / Ambrion | To be confirmed | €20,000 | Accepted; Paul Candon engaged; first session 25 June |
+| Ambrion AI products (4-5 items) | Ambrion AI | John-led | TBC | Shane to send detail |
+| Child welfare architecture | TBC | TBC | TBC | Two-track sales strategy being agreed with Shane |
+| Property Properly | Velocity AI | 30% John / 70% Shane | TBC | Revised body of work agreed June 2026; more to follow |
 
 ### Edelia -- Detail (updated 16 June 2026)
 - **Contacts:** Rory and Pat (Golden Generation programme participants -- both attend Session 5 Thursday 18 June 2:30pm)
@@ -104,6 +105,18 @@ Articles and intelligence noted by John as potential opportunity threads for Mer
 - **Training framing:** Audit everything top to bottom; then design what the future operating model could look like
 - **First session agreed: morning of 25 June 2026, UHL premises, Dublin**
 - **Status:** Confirmed and in the diary.
+
+### Property Properly -- Detail (added 16 June 2026)
+- **Company:** Property Properly
+- **Contacts:** Ciarán (cconroy09) and Tony
+- **What they do:** Property inspection and management company. 900 inspections per year across approximately 300 properties. Currently operated entirely on paper, phone, and spreadsheets.
+- **Shane's proposal (April 2026 email):** Phase 1 -- AI system for Inspections. Phase 2 -- AI system for Repairs and Maintenance.
+- **Current status:** Revised body of work agreed by Shane in recent days (June 2026). More to follow.
+- **Vehicle:** Velocity AI
+- **Split:** 70% Shane / 30% John
+- **Value:** TBC
+- **John's role:** Commercial oversight via Velocity AI. No technical role.
+- **Note:** Shane leads delivery. John's 30% reflects his commercial and governance contribution through Velocity AI.
 
 ### Child Welfare Architecture -- Shane's System
 - **What it is:** Shane has built a child welfare architecture system. Details to be confirmed.
