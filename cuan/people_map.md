@@ -132,6 +132,13 @@
 - Resolution: repayment in full on or before 31 December 2026; John assumes the Bank of Ireland facilities directly
 - Cuan notes: Paul is simultaneously John's personal lender, a former MiDentalCare director and guarantor, and CEO of UHL where John chairs Audit & Risk. Keep the three relationships cleanly separated in all documents and communications.
 
+### Eamonn
+- **Location:** Portlaoise
+- **Role:** Owner / part-owner of Vision85 -- a hub and office space in Portlaoise
+- **Relationship:** Shane's friend
+- **Status:** Has seen Shane's orchestration demo and found it excellent. Live prospect.
+- **Note:** The 30-second demo vs 2-minute reporting version discussion arose from this context -- Eamonn/Vision85 may be a near-term client.
+
 ### Derry Gray
 - **Role:** Managing Partner, BDO Dublin
 - **Status:** Live prospect -- John reached out by WhatsApp (16 June 2026) following Shane conversation, regarding developing a personal intelligence orchestration (Cuan-style) for him. Callback requested.
