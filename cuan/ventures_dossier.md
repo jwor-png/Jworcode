@@ -68,7 +68,7 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 | Vinny Leonard | Sales Process Advisors | Sent -- awaiting return |
 | Padraic O'Maille | Smacht network (~300 Irish SMEs) | Sent -- awaiting return |
 | Kevin Carr | PR firm, UK (introduced by Andrew Sharkey) | Sent -- awaiting return |
-| Eoin Lynch | Portlaoise | Under consideration -- decision pending |
+| Eoin Lynch | AHL board member, Portumna, Co. Galway | Under consideration -- decision pending |
 
 ### Revenue pipeline (as of 15 June 2026)
 | Engagement | Vehicle | Value | Status |
