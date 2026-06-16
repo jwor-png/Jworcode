@@ -86,10 +86,24 @@ Articles and intelligence noted by John as potential opportunity threads for Mer
 ### Revenue pipeline (as of 15 June 2026)
 | Engagement | Vehicle | Value | Status |
 |---|---|---|---|
-| Edelia | Velocity AI | €30,000 | Proposal sent by Shane -- awaiting response |
-| UHL training (2 programmes) | Velocity AI / Ambrion | €20,000 | Accepted; dates TBC |
+| Edelia | Velocity AI | €30,000 | Proposal sent by Shane 11 June -- awaiting response from Ruairí and Pat |
+| UHL training (2 programmes) | Velocity AI / Ambrion | €20,000 | Accepted; Paul Candon engaged; dates TBC |
 | Ambrion AI products (4-5 items) | Ambrion AI | TBC | Shane to send detail |
 | Child welfare architecture | TBC | TBC | Two-track sales strategy being agreed with Shane |
+
+### Edelia -- Detail (updated 16 June 2026)
+- **Contacts:** Ruairí and Pat (surnames to confirm)
+- **Shane's proposal:** Three-month AI Native transformation programme -- "AI Native, AI First." Sent 11 June 2026.
+- **AI readiness tool:** https://edelia-ai-readiness.netlify.app/ -- Shane asked both Ruairí and Pat to complete before the call
+- **Next step:** Call to walk through the proposal and pick a start date. Shane wants to start over summer.
+- **September deadline:** Referenced by Shane as a target for Edelia to be "properly underway"
+- **Status:** Awaiting response. John replied to Shane "Well done" on receipt.
+
+### UHL Training -- Detail (updated 16 June 2026)
+- **Contact:** Paul Candon (CEO, UHL) -- engaged directly by Shane
+- **Documents sent:** ambrion_claude_briefing.pdf ("The Chief Intelligence Architect / CEO") and ambrion_cia_briefing.pdf ("Setting up your Claude as a CEO") -- sent by Shane 22 May 2026
+- **Training framing:** Audit everything top to bottom; then design what the future operating model could look like
+- **Status:** Documents sent, Paul engaged. Dates to be confirmed.
 
 ### Child Welfare Architecture -- Shane's System
 - **What it is:** Shane has built a child welfare architecture system. Details to be confirmed.

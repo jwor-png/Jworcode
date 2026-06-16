@@ -148,6 +148,20 @@
 - Resolution: repayment in full on or before 31 December 2026; John assumes the Bank of Ireland facilities directly
 - Cuan notes: Paul is simultaneously John's personal lender, a former MiDentalCare director and guarantor, and CEO of UHL where John chairs Audit & Risk. Keep the three relationships cleanly separated in all documents and communications.
 
+### Pat McGrath
+- **Company:** McGrath Management & Consultancy Services Limited (t/a Mcgrathstrategia)
+- **Email:** pat@mcgrathstrategia.com
+- **Role:** Chartered Engineer and Chartered Director -- AI governance collaborator
+- **Relationship:** On the Ambrion/Velocity AI inner circle. Part of the Governance of AI call on 11 June 2026 with John, Shane, and Thomas Stapleton.
+- **Contribution:** Sent governance training PowerPoint materials (used in his own workshops) and reviewed Shane's Board Governance Platform two-pager.
+- **Open issue:** Pat objected to one line in Shane's materials: "We are active practitioners in EU AI Act compliance, supporting organisations across Ireland in preparing for the August 2026 deadline." This needs to be resolved before materials go external.
+- **Cuan notes:** Trusted collaborator -- valuable governance and engineering perspective. Keep him in the loop on Ambrion governance materials.
+
+### Thomas Stapleton
+- **Email:** thomasstapleton@hotmail.com
+- **Role:** Part of the Governance of AI call on 11 June 2026 (with John, Shane, Pat McGrath)
+- **Status:** Further detail to confirm -- role and relationship not yet fully recorded.
+
 ### Eamonn
 - **Location:** Portlaoise
 - **Role:** Owner / part-owner of Vision85 -- a hub and office space in Portlaoise
