@@ -232,17 +232,41 @@ Three articles noted by John as commercially and personally relevant:
 ### Open Question -- Employed Executive Role (flagged 16 June 2026)
 John is sitting with a question: as a 61-year-old with deep business experience AND active AI skills, is there an employed senior executive role available to him alongside or beyond the entrepreneurial path? This is not a decision -- it is an open question to hold. The 83% AI skills demand stat is relevant context. To be revisited when the commercial picture is clearer. Cuan does not act on this unless John raises it.
 
-### Remaining session dates (Sessions 5-8)
-| Session | Date | Time |
-|---|---|---|
-| Session 5 | Thursday 18 June 2026 | 14:30 - 16:00 |
-| Session 6 | Tuesday 30 June 2026 | 11:00 - 12:30 |
-| Session 7 | Wednesday 15 July 2026 | 14:30 - 16:00 |
-| Session 8 | Thursday 30 July 2026 | 11:00 - 12:30 |
+### Programme Overview (source: Shane McCarthy welcome email + official programme documents, April 2026)
+- **Full title:** The Golden Generation -- Migration Education. Cognitive AI Evolution.
+- **Powered by:** AIMES
+- **Programme model:** 8 live sessions (April to July 2026) plus personalised exercises between sessions and dedicated one-to-one time with Shane throughout. Shane framed this as 16 weeks.
+- **Key phrase:** "AI Driven, Human Led" -- Shane's central framing for this programme. John should carry this phrase.
+- **Who it is for:** Experienced leaders, founders, and professionals who have spent decades building, leading, and delivering at the highest level. Not a beginner course -- a cognitive migration.
+- **Core premise (verbatim from programme document):** "Those assets are not diminished by AI. They are amplified by it. The challenge is not capability. It is learning how to apply what you already have to a world that speaks a different language."
+- **Cohort:** Shane/colleagues nominated each participant. Select group. John is a participant.
+- **1:1 element:** Shane provides dedicated one-to-one time to each participant alongside group sessions -- for habit-building exercises, business-specific challenges, or deepening understanding of group content. Programme is designed around each individual.
+- **The gap it closes:** "The gap is not in what you know. It is in the connection between what you know and what AI makes possible."
 
-Cuan will prompt John ahead of each session.
+### Session 1 -- Perception (22 April 2026)
+- **Theme:** Perception. How you see your own skills, capabilities, and what you do not yet realise you already know about AI.
+- **Before the session:** Shane sent a Welcome Pack (setting the scene) and a Reflection Exercise (capturing where thinking sat at the start). Answers revisited at the end of the programme -- the distance between start and finish is the measure.
+- **Outcome:** "You will leave the first session starting to look at things differently."
+- **Opening quote from programme materials:** "The only way to make sense out of change is to plunge into it, move with it, and join the dance." -- Alan Watts
+- **Session 1 follow-up materials:** To be shared by John and filed here.
+
+### Full session schedule (all 8 sessions)
+| Session | Date | Time | Status |
+|---|---|---|---|
+| Session 1 | Wednesday 22 April 2026 | 14:30 - 16:00 | Completed |
+| Session 2 | Thursday 7 May 2026 | 11:00 - 12:30 | Completed |
+| Session 3 | Tuesday 19 May 2026 | 14:30 - 16:00 | Completed |
+| Session 4 | Wednesday 3 June 2026 | 11:00 - 12:30 | Completed |
+| Session 5 | Thursday 18 June 2026 | 14:30 - 16:00 | Upcoming -- Rory and Pat (Edelia) in the room |
+| Session 6 | Tuesday 30 June 2026 | 11:00 - 12:30 | Upcoming |
+| Session 7 | Wednesday 15 July 2026 | 14:30 - 16:00 | Upcoming |
+| Session 8 | Thursday 30 July 2026 | 11:00 - 12:30 | Upcoming |
+
+Sessions rotate between Tuesday, Wednesday, and Thursday. Times alternate morning and afternoon. All times Irish (IST/GMT+1). Cuan will prompt John ahead of each session.
+
+### LinkedIn / Publishing
 - **What it is:** LinkedIn content series on experience, technology, and the second half of a working life
-- **System:** JWOR Publishing System — John records voice notes; structured and edited into finished posts
+- **System:** JWOR Publishing System -- John records voice notes; structured and edited into finished posts
 - **Recommended:** Title bank of 10 titles per series before launch
 - **Also called:** Golden Generation content programme
 
