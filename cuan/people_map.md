@@ -132,6 +132,12 @@
 - Resolution: repayment in full on or before 31 December 2026; John assumes the Bank of Ireland facilities directly
 - Cuan notes: Paul is simultaneously John's personal lender, a former MiDentalCare director and guarantor, and CEO of UHL where John chairs Audit & Risk. Keep the three relationships cleanly separated in all documents and communications.
 
+### Derry Gray
+- **Role:** Managing Partner, BDO Dublin
+- **Status:** Live prospect -- John reached out by WhatsApp (16 June 2026) following Shane conversation, regarding developing a personal intelligence orchestration (Cuan-style) for him. Callback requested.
+- **Next action:** Follow up Wednesday 17 or Thursday 18 June
+- **Note:** BDO also serves as AHL auditors (Simon Cadbury is AHL audit partner) -- keep these two relationships separate.
+
 ### Andrew Sharkey
 - **Location:** UK
 - **Role:** Government access contact -- Shane references him as having routes into Government for the child welfare architecture sales play
