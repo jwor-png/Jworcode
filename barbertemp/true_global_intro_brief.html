@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BarberTemp — Introductory Brief</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background: #f4f6f8;
+    color: #1a2744;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+
+  .page {
+    max-width: 800px;
+    margin: 40px auto;
+    background: #ffffff;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.10);
+  }
+
+  /* HEADER */
+  .header {
+    background: #0d1f3c;
+    padding: 40px 48px 32px;
+  }
+
+  .logo {
+    font-size: 32px;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+  }
+
+  .logo span.barber { color: #ffffff; }
+  .logo span.temp   { color: #00c4b3; }
+
+  .tagline {
+    color: #7a9ab8;
+    font-size: 12px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin-top: 6px;
+  }
+
+  .confidential {
+    float: right;
+    color: #7a9ab8;
+    font-size: 11px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-top: 6px;
+  }
+
+  .header-inner {
+    overflow: hidden;
+  }
+
+  /* DIVIDER */
+  .accent-bar {
+    height: 4px;
+    background: linear-gradient(90deg, #00c4b3 0%, #0d1f3c 100%);
+  }
+
+  /* BODY */
+  .body {
+    padding: 40px 48px;
+  }
+
+  .section {
+    margin-bottom: 32px;
+  }
+
+  .section-title {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #00c4b3;
+    margin-bottom: 10px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #e8ecf0;
+  }
+
+  .section p {
+    color: #2c3e5a;
+    font-size: 14px;
+    line-height: 1.7;
+  }
+
+  /* STATS ROW */
+  .stats {
+    display: flex;
+    gap: 0;
+    margin-bottom: 32px;
+    background: #0d1f3c;
+    border-radius: 4px;
+    overflow: hidden;
+  }
+
+  .stat {
+    flex: 1;
+    padding: 20px 24px;
+    text-align: center;
+    border-right: 1px solid #1e3358;
+  }
+
+  .stat:last-child { border-right: none; }
+
+  .stat-value {
+    font-size: 22px;
+    font-weight: 800;
+    color: #00c4b3;
+    display: block;
+  }
+
+  .stat-label {
+    font-size: 11px;
+    color: #7a9ab8;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-top: 4px;
+    display: block;
+  }
+
+  /* PLATFORM ITEMS */
+  .platform-list {
+    list-style: none;
+    margin-top: 4px;
+  }
+
+  .platform-list li {
+    padding: 8px 0 8px 20px;
+    position: relative;
+    color: #2c3e5a;
+    border-bottom: 1px solid #f0f2f5;
+    font-size: 14px;
+  }
+
+  .platform-list li:last-child { border-bottom: none; }
+
+  .platform-list li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 8px;
+    height: 8px;
+    background: #00c4b3;
+    border-radius: 50%;
+  }
+
+  /* TWO COLUMN */
+  .two-col {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 32px;
+    margin-bottom: 32px;
+  }
+
+  /* AI SECTION */
+  .ai-box {
+    background: #f0faf8;
+    border-left: 3px solid #00c4b3;
+    padding: 18px 20px;
+    border-radius: 0 4px 4px 0;
+  }
+
+  .ai-box p {
+    color: #2c3e5a;
+    font-size: 14px;
+    line-height: 1.7;
+  }
+
+  /* FOOTER */
+  .footer {
+    background: #0d1f3c;
+    padding: 24px 48px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .footer-cta {
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 600;
+  }
+
+  .footer-note {
+    color: #7a9ab8;
+    font-size: 12px;
+    text-align: right;
+  }
+
+  .footer-deck {
+    color: #00c4b3;
+    font-size: 12px;
+    margin-top: 4px;
+  }
+
+  @media print {
+    body { background: white; }
+    .page { box-shadow: none; margin: 0; max-width: 100%; }
+  }
+</style>
+</head>
+<body>
+
+<div class="page">
+
+  <!-- HEADER -->
+  <div class="header">
+    <div class="header-inner">
+      <span class="confidential">Confidential</span>
+      <div class="logo">
+        <span class="barber">Barber</span><span class="temp">Temp</span>
+      </div>
+      <div class="tagline">The labour exchange platform for the barbering industry</div>
+    </div>
+  </div>
+  <div class="accent-bar"></div>
+
+  <!-- BODY -->
+  <div class="body">
+
+    <!-- WHAT WE'RE BUILDING -->
+    <div class="section">
+      <div class="section-title">What We're Building</div>
+      <p>BarberTemp is a two-sided labour marketplace for the professional barbering industry. It connects barbershops needing temporary or emergency cover with qualified, verified barbers available for short-notice work. The model parallel is Workrise, not Uber. Workrise built a defensible, professional-grade platform for skilled workers in a specialist industry. BarberTemp does the same for barbering.</p>
+    </div>
+
+    <!-- STATS -->
+    <div class="stats">
+      <div class="stat">
+        <span class="stat-value">Structural</span>
+        <span class="stat-label">Labour gap</span>
+      </div>
+      <div class="stat">
+        <span class="stat-value">Zero</span>
+        <span class="stat-label">Professional platforms exist</span>
+      </div>
+      <div class="stat">
+        <span class="stat-value">Growing</span>
+        <span class="stat-label">UK barbering industry</span>
+      </div>
+    </div>
+
+    <!-- TWO COL: PROBLEM + MARKET -->
+    <div class="two-col">
+      <div class="section" style="margin-bottom:0">
+        <div class="section-title">The Problem</div>
+        <p>When a barber calls in sick, a shop loses revenue immediately. The industry runs on informal arrangements and personal contacts. There is no professional platform, no verified pool, no standard. The labour gap is structural, not cyclical.</p>
+      </div>
+      <div class="section" style="margin-bottom:0">
+        <div class="section-title">The Market</div>
+        <p>The UK barbering industry is growing, culturally significant, and entirely underserved by technology. High staff turnover and unpredictable demand are constants for every shop owner. No one has built the infrastructure layer.</p>
+      </div>
+    </div>
+
+    <!-- PLATFORM -->
+    <div class="section" style="margin-top:32px">
+      <div class="section-title">The Platform</div>
+      <ul class="platform-list">
+        <li>Tiered marketplace by market level -- local, city, national</li>
+        <li>Surge pricing for emergency and same-day cover</li>
+        <li>VIP and celebrity barber section</li>
+        <li>Loyalty layer for established barbers</li>
+        <li>Unmanned kiosk capability as a future layer</li>
+      </ul>
+    </div>
+
+    <!-- AI LAYER -->
+    <div class="section">
+      <div class="section-title">The AI Layer</div>
+      <div class="ai-box">
+        <p>Behavioural pattern matching, demand forecasting by location and day, and automated shift cover are AI-native opportunities built into the architecture from the start. This is not a bolt-on.</p>
+      </div>
+    </div>
+
+    <!-- THE TEAM -->
+    <div class="section">
+      <div class="section-title">The Team</div>
+      <p>Johnny Shanahan is the founding industry authority. Manchester-based, regular London presence, two decades in the barbering world. He knows the shops, the barbers, and the culture. Commercial and technical advisory support is in place.</p>
+    </div>
+
+    <!-- WHY TRUE GLOBAL -->
+    <div class="section">
+      <div class="section-title">Why True Global</div>
+      <p>True's focus on behavioural change and AI-focused technology aligns directly with what BarberTemp is building. This is not a traditional staffing play. It is an intelligent labour exchange for a culturally vibrant, underserved industry.</p>
+    </div>
+
+  </div>
+
+  <!-- FOOTER -->
+  <div class="footer">
+    <div class="footer-cta">We would welcome an introductory conversation.</div>
+    <div class="footer-note">
+      <div style="color:#7a9ab8">For discussion only -- not for wider circulation</div>
+      <div class="footer-deck">A fuller deck is available once mutual interest is confirmed.</div>
+    </div>
+  </div>
+
+</div>
+
+</body>
+</html>
