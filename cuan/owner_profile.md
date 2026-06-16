@@ -48,7 +48,14 @@ A **commercial synthesiser**. He connects people, opportunities, capital, govern
 - Systems architect
 
 ## Strategic Positioning
-John is claiming the position of **AI as an asset class** in the Irish market — identified as unclaimed white space. He positions himself as an operator inside this asset class, not an outside investor or observer. His framing: law is retrospective by nature; AI is prospective and generative.
+John is claiming the position of **AI as an asset class** in the Irish market -- identified as unclaimed white space. He positions himself as an operator inside this asset class, not an outside investor or observer. His framing: law is retrospective by nature; AI is prospective and generative.
+
+### Developing Specialty -- AI Equity and Valuation of AI Assets (noted June 2026)
+John is positioning within Meridian's AI Equity & Investment manager around the valuation and evaluation of AI assets as a distinct expertise. This covers:
+- AI as an asset class -- how to value AI systems, platforms, and capabilities on a balance sheet or in a deal
+- AI equity structures -- how AI-generated value is distributed in commercial arrangements
+- The intersection of governance, legal, and financial disciplines in AI asset valuation
+This is emerging territory with very few practitioners. John's combination of law, finance, governance, and AI fluency puts him in a credible position to develop this specialty. To be built out through Meridian's AI Equity & Investment manager.
 
 Indicative pricing:
 - John's strategic advisory: €2,000–€3,000/day or €2,500–€4,000/month retainer
