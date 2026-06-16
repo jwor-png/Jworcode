@@ -123,15 +123,28 @@ Note: Accounts not ready by 24 June; expected approximately w/c 1 July.
 
 ## BarberTemp
 - **What it does:** Two-sided labour exchange for the barbering industry (staffing marketplace)
-- **Model parallel:** Workrise (formerly RigUp) — NOT Uber (Uber framing is dangerous for investor credibility)
-- **John's role:** Commercial Lead via Velocity AI / Meridian Intelligence — advisory and consultancy only. No operational role. Will not relocate.
-- **Shane's role:** Technical lead — advisory and consultancy only
+- **Model parallel:** Workrise (formerly RigUp) -- NOT Uber (Uber framing is dangerous for investor credibility)
+- **John's role:** Commercial Lead via Velocity AI / Meridian Intelligence -- advisory and consultancy only. No operational role. Will not relocate.
+- **Shane's role:** Technical lead -- advisory and consultancy only. Briefed on True Global introduction (16 June 2026 call).
 - **Johnny Shanahan:** Founding industry authority. Primary operator. Based Manchester, regular London presence.
 - **Recommended structure:** UK limited company registered in London for credibility
-- **Funding:** Two-tranche raise of £125,000–£200,000 modelled. Full two-year model: total costs £445,000–£647,000; net capital at risk £300,000–£500,000 after revenue offset.
+- **Funding:** Two-tranche raise of £125,000-£200,000 modelled. Full two-year model: total costs £445,000-£647,000; net capital at risk £300,000-£500,000 after revenue offset.
 - **Product layers:** Tiered marketplace by market level, surge pricing for emergency cover, VIP/celebrity barber section, unmanned kiosks, loyalty layer for established barbers
-- **Live priority:** True (true.global) introduction — existing one-pager needs revision before any VC-facing use. Global contacts on hold until IP is protected.
 - **Confidentiality:** John and Shane's names are not on Johnny-facing documents
+
+### True Global -- Live Introduction (16 June 2026)
+- **Contact:** Ejike Onuchukwu, Managing Director at True Global. Introduction made via a contact called Peter.
+- **VC contact:** Silvana -- on True's VC team. Has Calendly for booking calls.
+- **True's stated interests:** Behavioural changes and AI-focused technology.
+- **Sequence agreed:** Johnny acknowledges email first. John sends introductory document to Silvana in the days ahead. She reviews, books via Calendly. Call follows. Shane's involvement in any call decided after True respond.
+- **Email chain:** Forwarded to john@velocityai.ie. John to review and reply.
+- **Introductory document:** Drafted 16 June 2026 -- ready for John's review and Shane's sign-off before sending.
+- **Decision (16 June 2026):** Proceeding on basis of True's interest and the live introduction. IP constraint noted and overridden by John's decision to proceed.
+
+### Software / Tech -- Names Flagged by Johnny (16 June 2026)
+- **Springchat:** App belonging to one of Johnny's customers. Early stage. John to review.
+- **KT Logic:** Dormant company -- name offered by Johnny's contact for NDA purposes. John to review.
+- **Next action:** Review both before call with Johnny tomorrow.
 
 ---
 
