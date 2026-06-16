@@ -3,433 +3,159 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Meridian Intelligence — Team Structure</title>
+<title>Cuan — System Architecture</title>
 <style>
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-
-  body {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    background: #f4f6f8;
-    color: #1a2744;
-    padding: 24px 16px;
-  }
-
-  .page {
-    max-width: 960px;
-    margin: 0 auto;
-    background: #fff;
-    box-shadow: 0 4px 24px rgba(0,0,0,0.10);
-  }
-
-  /* HEADER */
-  .header {
-    background: #0d1f3c;
-    padding: 28px 40px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-
-  .header-title {
-    color: #fff;
-    font-size: 20px;
-    font-weight: 800;
-    letter-spacing: -0.3px;
-  }
-
-  .header-title span { color: #00c4b3; }
-
-  .header-sub {
-    color: #7a9ab8;
-    font-size: 11px;
-    letter-spacing: 1.5px;
-    text-transform: uppercase;
-  }
-
-  .accent-bar {
-    height: 3px;
-    background: linear-gradient(90deg, #00c4b3, #0d1f3c);
-  }
-
-  /* BODY */
-  .body { padding: 36px 40px 40px; }
-
-  /* SECTION LABEL */
-  .layer-label {
-    font-size: 10px;
-    font-weight: 700;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-    color: #00c4b3;
-    margin-bottom: 10px;
-  }
-
-  /* CONNECTOR LINE */
-  .connector {
-    display: flex;
-    justify-content: center;
-    margin: 6px 0;
-  }
-
-  .connector-line {
-    width: 2px;
-    height: 20px;
-    background: #00c4b3;
-  }
-
-  .connector-h {
-    height: 2px;
-    background: #00c4b3;
-    flex: 1;
-    margin-top: 1px;
-  }
-
-  /* HUMAN TEAM */
-  .human-team {
-    display: flex;
-    gap: 16px;
-    justify-content: center;
-    margin-bottom: 4px;
-  }
-
-  .person-card {
-    flex: 1;
-    max-width: 280px;
-    background: #0d1f3c;
-    border-radius: 6px;
-    padding: 18px 20px;
-    text-align: center;
-  }
-
-  .person-name {
-    color: #fff;
-    font-size: 15px;
-    font-weight: 700;
-  }
-
-  .person-role {
-    color: #00c4b3;
-    font-size: 11px;
-    margin-top: 4px;
-    font-weight: 600;
-    letter-spacing: 0.5px;
-  }
-
-  .person-detail {
-    color: #7a9ab8;
-    font-size: 10px;
-    margin-top: 6px;
-    line-height: 1.5;
-  }
-
-  /* ORCHESTRATOR */
-  .orchestrator {
-    background: #00c4b3;
-    border-radius: 6px;
-    padding: 16px 24px;
-    text-align: center;
-    margin: 0 auto;
-    max-width: 480px;
-  }
-
-  .orchestrator-title {
-    color: #0d1f3c;
-    font-size: 17px;
-    font-weight: 800;
-    letter-spacing: 1px;
-    text-transform: uppercase;
-  }
-
-  .orchestrator-sub {
-    color: #0d1f3c;
-    font-size: 11px;
-    margin-top: 3px;
-    opacity: 0.75;
-  }
-
-  /* MANAGERS GRID */
-  .managers-grid {
-    display: grid;
-    grid-template-columns: repeat(7, 1fr);
-    gap: 8px;
-    margin-top: 4px;
-  }
-
-  @media (max-width: 700px) {
-    .managers-grid { grid-template-columns: repeat(2, 1fr); }
-    .human-team { flex-direction: column; align-items: center; }
-  }
-
-  .manager-card {
-    background: #f0faf8;
-    border: 1px solid #00c4b3;
-    border-radius: 5px;
-    padding: 12px 8px;
-    text-align: center;
-  }
-
-  .manager-card.highlight {
-    background: #0d1f3c;
-    border-color: #0d1f3c;
-  }
-
-  .manager-name {
-    font-size: 10px;
-    font-weight: 700;
-    color: #0d1f3c;
-    line-height: 1.4;
-  }
-
-  .manager-card.highlight .manager-name { color: #00c4b3; }
-
-  .manager-agents {
-    font-size: 9px;
-    color: #7a9ab8;
-    margin-top: 5px;
-  }
-
-  .jurgen-badge {
-    display: inline-block;
-    background: #00c4b3;
-    color: #0d1f3c;
-    font-size: 8px;
-    font-weight: 800;
-    padding: 2px 5px;
-    border-radius: 3px;
-    margin-top: 5px;
-    letter-spacing: 0.5px;
-    text-transform: uppercase;
-  }
-
-  /* SALES ORCHESTRATION */
-  .sales-section {
-    display: flex;
-    gap: 16px;
-    margin-top: 28px;
-  }
-
-  .sales-box {
-    flex: 1;
-    border: 2px solid #0d1f3c;
-    border-radius: 6px;
-    padding: 16px 18px;
-  }
-
-  .sales-title {
-    font-size: 12px;
-    font-weight: 800;
-    color: #0d1f3c;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    margin-bottom: 10px;
-  }
-
-  .sales-item {
-    font-size: 11px;
-    color: #2c3e5a;
-    padding: 5px 0;
-    border-bottom: 1px solid #e8ecf0;
-  }
-
-  .sales-item:last-child { border-bottom: none; }
-
-  .sales-item strong { color: #0d1f3c; }
-
-  /* VENTURES */
-  .ventures-row {
-    display: flex;
-    gap: 10px;
-    margin-top: 20px;
-  }
-
-  .venture-pill {
-    flex: 1;
-    background: #0d1f3c;
-    border-radius: 4px;
-    padding: 10px 14px;
-    text-align: center;
-  }
-
-  .venture-pill-name {
-    color: #fff;
-    font-size: 11px;
-    font-weight: 700;
-  }
-
-  .venture-pill-role {
-    color: #7a9ab8;
-    font-size: 9px;
-    margin-top: 3px;
-  }
-
-  /* FOOTER */
-  .footer {
-    background: #0d1f3c;
-    padding: 14px 40px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-top: 28px;
-  }
-
-  .footer-note { color: #7a9ab8; font-size: 10px; }
-  .footer-conf { color: #00c4b3; font-size: 10px; font-weight: 600; }
-
-  /* SPACERS */
-  .mt8 { margin-top: 8px; }
-  .mt16 { margin-top: 16px; }
-  .mt24 { margin-top: 24px; }
-
-  .section-divider {
-    border: none;
-    border-top: 1px solid #e8ecf0;
-    margin: 24px 0;
-  }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { background:#f4f6f8; font-family:'Helvetica Neue',Arial,sans-serif; padding:20px; }
+  .container { max-width:1240px; margin:0 auto; background:#fff; box-shadow:0 4px 24px rgba(0,0,0,.10); }
+  .header { background:#0d1f3c; padding:20px 32px; display:flex; justify-content:space-between; align-items:center; }
+  .header h1 { color:#fff; font-size:16px; font-weight:800; }
+  .header h1 span { color:#00c4b3; }
+  .header-right { color:#7a9ab8; font-size:10px; letter-spacing:1px; text-transform:uppercase; text-align:right; }
+  .accent { height:3px; background:linear-gradient(90deg,#00c4b3,#0d1f3c); }
+  .diagram { padding:24px 20px 28px; overflow-x:auto; }
+  .footer { background:#0d1f3c; padding:12px 32px; display:flex; justify-content:space-between; align-items:center; }
+  .footer-l { color:#7a9ab8; font-size:9px; }
+  .footer-r { color:#00c4b3; font-size:9px; font-weight:700; }
 </style>
 </head>
 <body>
+<div class="container">
 
-<div class="page">
-
-  <!-- HEADER -->
   <div class="header">
-    <div>
-      <div class="header-title"><span>Meridian</span> Intelligence</div>
-      <div class="header-sub">Team and System Architecture</div>
-    </div>
-    <div style="text-align:right">
-      <div class="header-sub">Confidential — Internal Only</div>
-      <div class="header-sub" style="margin-top:4px">June 2026</div>
-    </div>
+    <h1><span>Cuan</span> — System Architecture</h1>
+    <div class="header-right">Confidential · Internal Only · June 2026</div>
   </div>
-  <div class="accent-bar"></div>
+  <div class="accent"></div>
 
-  <div class="body">
+  <div class="diagram">
+  <svg viewBox="0 0 1200 640" width="100%" xmlns="http://www.w3.org/2000/svg" style="min-width:760px">
 
-    <!-- HUMAN TEAM -->
-    <div class="layer-label">The Human Team</div>
-    <div class="human-team">
-      <div class="person-card">
-        <div class="person-name">John Webb O'Rourke</div>
-        <div class="person-role">Chairman · Strategic · Commercial · Governance</div>
-        <div class="person-detail">70% partnership. Opportunity identification, relationship capital, governance thinking. 40 years cross-sector experience. Orchestration director.</div>
-      </div>
-      <div class="person-card">
-        <div class="person-name">Shane McCarthy</div>
-        <div class="person-role">Technical Architecture · Execution</div>
-        <div class="person-detail">30% partnership. Top-tier global AI architect. Built the three-tier orchestration system, the legal AI Jurgen, and the sales orchestration engine.</div>
-      </div>
-    </div>
+    <!-- ===================== CONNECTOR LINES (behind boxes) ===================== -->
 
-    <!-- CONNECTOR DOWN -->
-    <div class="connector mt8"><div class="connector-line"></div></div>
+    <!-- John + Shane down to horizontal trunk -->
+    <line x1="150" y1="78" x2="150" y2="112" stroke="#00c4b3" stroke-width="2"/>
+    <line x1="1050" y1="78" x2="1050" y2="112" stroke="#00c4b3" stroke-width="2"/>
+    <!-- Horizontal trunk at y=112 -->
+    <line x1="150" y1="112" x2="1050" y2="112" stroke="#00c4b3" stroke-width="2"/>
+    <!-- Down to CUAN -->
+    <line x1="600" y1="112" x2="600" y2="138" stroke="#00c4b3" stroke-width="2"/>
 
-    <!-- MERIDIAN ORCHESTRATOR -->
-    <div class="layer-label mt8">Orchestrator</div>
-    <div class="orchestrator">
-      <div class="orchestrator-title">Meridian</div>
-      <div class="orchestrator-sub">Single point of contact · Routes all briefs to the right manager</div>
-    </div>
+    <!-- CUAN to Sales Orchestration (dashed elbow right) -->
+    <polyline points="750,174 782,174 782,212 810,212" fill="none" stroke="#00c4b3" stroke-width="2" stroke-dasharray="6,3"/>
 
-    <!-- CONNECTOR DOWN -->
-    <div class="connector mt8"><div class="connector-line"></div></div>
+    <!-- CUAN down to Meridian -->
+    <line x1="600" y1="210" x2="600" y2="278" stroke="#00c4b3" stroke-width="2"/>
 
-    <!-- MANAGERS -->
-    <div class="layer-label mt8">Seven Specialist Managers (7 agents each — 49 agents total)</div>
-    <div class="managers-grid">
+    <!-- Meridian down to horizontal manager bus -->
+    <line x1="600" y1="342" x2="600" y2="413" stroke="#00c4b3" stroke-width="2"/>
+    <!-- Manager horizontal bus -->
+    <line x1="186" y1="413" x2="1014" y2="413" stroke="#00c4b3" stroke-width="2"/>
+    <!-- Bus down to each manager -->
+    <line x1="186"  y1="413" x2="186"  y2="423" stroke="#00c4b3" stroke-width="2"/>
+    <line x1="324"  y1="413" x2="324"  y2="423" stroke="#00c4b3" stroke-width="2"/>
+    <line x1="462"  y1="413" x2="462"  y2="423" stroke="#00c4b3" stroke-width="2"/>
+    <line x1="600"  y1="413" x2="600"  y2="423" stroke="#00c4b3" stroke-width="2"/>
+    <line x1="738"  y1="413" x2="738"  y2="423" stroke="#00c4b3" stroke-width="2"/>
+    <line x1="876"  y1="413" x2="876"  y2="423" stroke="#00c4b3" stroke-width="2"/>
+    <line x1="1014" y1="413" x2="1014" y2="423" stroke="#00c4b3" stroke-width="2"/>
 
-      <div class="manager-card">
-        <div class="manager-name">Commercial &amp; Deal</div>
-        <div class="manager-agents">7 agents</div>
-      </div>
+    <!-- Legal & Governance down to Jurgen -->
+    <line x1="324" y1="483" x2="324" y2="523" stroke="#00c4b3" stroke-width="2"/>
 
-      <div class="manager-card highlight">
-        <div class="manager-name">Legal &amp; Governance</div>
-        <div class="manager-agents" style="color:#7a9ab8">7 agents</div>
-        <div class="jurgen-badge">Jurgen</div>
-      </div>
 
-      <div class="manager-card">
-        <div class="manager-name">Finance &amp; Restructuring</div>
-        <div class="manager-agents">7 agents</div>
-      </div>
+    <!-- ===================== BOXES ===================== -->
 
-      <div class="manager-card">
-        <div class="manager-name">Property &amp; Development</div>
-        <div class="manager-agents">7 agents</div>
-      </div>
+    <!-- JOHN -->
+    <rect x="50" y="23" width="200" height="55" rx="6" fill="#0d1f3c"/>
+    <text x="150" y="44"  text-anchor="middle" fill="white"   font-size="12" font-weight="700" font-family="Arial,sans-serif">John Webb O'Rourke</text>
+    <text x="150" y="59"  text-anchor="middle" fill="#00c4b3"  font-size="8.5" font-family="Arial,sans-serif">Chairman · Commercial · Governance</text>
+    <text x="150" y="71"  text-anchor="middle" fill="#7a9ab8"  font-size="7.5" font-family="Arial,sans-serif">70% Meridian</text>
 
-      <div class="manager-card">
-        <div class="manager-name">AI Strategy &amp; Adoption</div>
-        <div class="manager-agents">7 agents</div>
-      </div>
+    <!-- SHANE -->
+    <rect x="950" y="23" width="200" height="55" rx="6" fill="#0d1f3c"/>
+    <text x="1050" y="44" text-anchor="middle" fill="white"   font-size="12" font-weight="700" font-family="Arial,sans-serif">Shane McCarthy</text>
+    <text x="1050" y="59" text-anchor="middle" fill="#00c4b3"  font-size="8.5" font-family="Arial,sans-serif">Technical Architecture · Execution</text>
+    <text x="1050" y="71" text-anchor="middle" fill="#7a9ab8"  font-size="7.5" font-family="Arial,sans-serif">30% Meridian</text>
 
-      <div class="manager-card">
-        <div class="manager-name">Business Transformation &amp; Growth</div>
-        <div class="manager-agents">7 agents</div>
-      </div>
+    <!-- CUAN -->
+    <rect x="450" y="138" width="300" height="72" rx="8" fill="#00c4b3"/>
+    <text x="600" y="164" text-anchor="middle" fill="#0d1f3c" font-size="22" font-weight="900" font-family="Arial,sans-serif" letter-spacing="3">CUAN</text>
+    <text x="600" y="181" text-anchor="middle" fill="#0d1f3c" font-size="9"  font-family="Arial,sans-serif">Personal Intelligence Orchestration System</text>
+    <text x="600" y="196" text-anchor="middle" fill="#0d1f3c" font-size="7.5" font-family="Arial,sans-serif" opacity="0.65">John's operating layer · Named after his grandson</text>
 
-      <div class="manager-card">
-        <div class="manager-name">AI Equity &amp; Investment</div>
-        <div class="manager-agents">7 agents</div>
-      </div>
+    <!-- SALES ORCHESTRATION -->
+    <rect x="810" y="177" width="268" height="72" rx="6" fill="#0d1f3c" stroke="#00c4b3" stroke-width="1.5"/>
+    <text x="944" y="199" text-anchor="middle" fill="#00c4b3" font-size="10.5" font-weight="800" font-family="Arial,sans-serif">SALES ORCHESTRATION</text>
+    <text x="944" y="213" text-anchor="middle" fill="#7a9ab8" font-size="8" font-family="Arial,sans-serif">Revenue engine · Partnered with Meridian</text>
+    <text x="944" y="228" text-anchor="middle" fill="white"   font-size="7.5" font-family="Arial,sans-serif">Edelia · UHL · Ambrion · Child Welfare</text>
+    <text x="944" y="241" text-anchor="middle" fill="#7a9ab8" font-size="7.5" font-family="Arial,sans-serif">Smacht · BDO · Golden Gen channels</text>
 
-    </div>
+    <!-- MERIDIAN -->
+    <rect x="440" y="278" width="320" height="64" rx="6" fill="#0d1f3c" stroke="#00c4b3" stroke-width="2"/>
+    <text x="600" y="302" text-anchor="middle" fill="white"   font-size="13" font-weight="900" font-family="Arial,sans-serif" letter-spacing="1">MERIDIAN INTELLIGENCE</text>
+    <text x="600" y="318" text-anchor="middle" fill="#00c4b3"  font-size="8.5" font-family="Arial,sans-serif">Commercial Orchestrator · Primary Revenue Vehicle</text>
+    <text x="600" y="332" text-anchor="middle" fill="#7a9ab8"  font-size="7.5" font-family="Arial,sans-serif">Three-tier architecture · 7 managers · 49 agents · 70/30 partnership</text>
 
-    <hr class="section-divider">
+    <!-- MANAGER BOXES (y=423, h=60, centers at 186,324,462,600,738,876,1014) -->
 
-    <!-- SALES ORCHESTRATION + PIPELINE -->
-    <div class="layer-label">Sales Orchestration (partnered with Meridian)</div>
-    <div class="sales-section">
-      <div class="sales-box">
-        <div class="sales-title">Live Pipeline</div>
-        <div class="sales-item"><strong>Edelia</strong> — AI Native Proposal · €30,000 · Awaiting response</div>
-        <div class="sales-item"><strong>UHL Training</strong> — 2 programmes · €20,000 · First session 25 June</div>
-        <div class="sales-item"><strong>Ambrion Products</strong> — 4-5 items · Value TBC</div>
-        <div class="sales-item"><strong>Child Welfare Architecture</strong> — Two-track strategy · Value TBC</div>
-      </div>
-      <div class="sales-box">
-        <div class="sales-title">Key Channels</div>
-        <div class="sales-item"><strong>Smacht Network</strong> — Padraic O'Maille · ~300 Irish SMEs</div>
-        <div class="sales-item"><strong>Professional Referrers</strong> — Accountants, solicitors</div>
-        <div class="sales-item"><strong>Golden Generation Programme</strong> — Rory and Pat (Edelia) Thursday</div>
-        <div class="sales-item"><strong>Board Network</strong> — UHL, AHL, sector contacts</div>
-        <div class="sales-item"><strong>BDO / Derry Gray</strong> — Live prospect</div>
-      </div>
-    </div>
+    <!-- M1: Commercial & Deal -->
+    <rect x="121" y="423" width="130" height="60" rx="4" fill="#1a3460"/>
+    <text x="186" y="446" text-anchor="middle" fill="#7a9ab8" font-size="8.5" font-weight="700" font-family="Arial,sans-serif">Commercial</text>
+    <text x="186" y="459" text-anchor="middle" fill="#7a9ab8" font-size="8.5" font-weight="700" font-family="Arial,sans-serif">&amp; Deal</text>
+    <text x="186" y="475" text-anchor="middle" fill="#2d4a70" font-size="7.5" font-family="Arial,sans-serif">7 agents</text>
 
-    <hr class="section-divider">
+    <!-- M2: Legal & Governance (JURGEN) -->
+    <rect x="259" y="423" width="130" height="60" rx="4" fill="#0a1a30" stroke="#00c4b3" stroke-width="1.5"/>
+    <text x="324" y="446" text-anchor="middle" fill="#00c4b3" font-size="8.5" font-weight="700" font-family="Arial,sans-serif">Legal &amp;</text>
+    <text x="324" y="459" text-anchor="middle" fill="#00c4b3" font-size="8.5" font-weight="700" font-family="Arial,sans-serif">Governance</text>
+    <text x="324" y="475" text-anchor="middle" fill="#7a9ab8" font-size="7.5" font-family="Arial,sans-serif">7 agents</text>
 
-    <!-- VENTURES -->
-    <div class="layer-label">Commercial Vehicles</div>
-    <div class="ventures-row">
-      <div class="venture-pill">
-        <div class="venture-pill-name">Ambrion AI</div>
-        <div class="venture-pill-role">EU AI Act compliance · Irish SMEs · August 2026 anchor</div>
-      </div>
-      <div class="venture-pill">
-        <div class="venture-pill-name">Meridian Intelligence</div>
-        <div class="venture-pill-role">Primary revenue vehicle · 70/30 partnership</div>
-      </div>
-      <div class="venture-pill">
-        <div class="venture-pill-name">Velocity AI</div>
-        <div class="venture-pill-role">Strategic intelligence only</div>
-      </div>
-      <div class="venture-pill">
-        <div class="venture-pill-name">BarberTemp</div>
-        <div class="venture-pill-role">Advisory · True Global introduction live</div>
-      </div>
-    </div>
+    <!-- M3: Finance & Restructuring -->
+    <rect x="397" y="423" width="130" height="60" rx="4" fill="#1a3460"/>
+    <text x="462" y="446" text-anchor="middle" fill="#7a9ab8" font-size="8.5" font-weight="700" font-family="Arial,sans-serif">Finance &amp;</text>
+    <text x="462" y="459" text-anchor="middle" fill="#7a9ab8" font-size="8.5" font-weight="700" font-family="Arial,sans-serif">Restructuring</text>
+    <text x="462" y="475" text-anchor="middle" fill="#2d4a70" font-size="7.5" font-family="Arial,sans-serif">7 agents</text>
 
+    <!-- M4: Property & Development -->
+    <rect x="535" y="423" width="130" height="60" rx="4" fill="#1a3460"/>
+    <text x="600" y="446" text-anchor="middle" fill="#7a9ab8" font-size="8.5" font-weight="700" font-family="Arial,sans-serif">Property &amp;</text>
+    <text x="600" y="459" text-anchor="middle" fill="#7a9ab8" font-size="8.5" font-weight="700" font-family="Arial,sans-serif">Development</text>
+    <text x="600" y="475" text-anchor="middle" fill="#2d4a70" font-size="7.5" font-family="Arial,sans-serif">7 agents</text>
+
+    <!-- M5: AI Strategy & Adoption -->
+    <rect x="673" y="423" width="130" height="60" rx="4" fill="#1a3460"/>
+    <text x="738" y="446" text-anchor="middle" fill="#7a9ab8" font-size="8.5" font-weight="700" font-family="Arial,sans-serif">AI Strategy</text>
+    <text x="738" y="459" text-anchor="middle" fill="#7a9ab8" font-size="8.5" font-weight="700" font-family="Arial,sans-serif">&amp; Adoption</text>
+    <text x="738" y="475" text-anchor="middle" fill="#2d4a70" font-size="7.5" font-family="Arial,sans-serif">7 agents</text>
+
+    <!-- M6: Business Transformation & Growth -->
+    <rect x="811" y="423" width="130" height="60" rx="4" fill="#1a3460"/>
+    <text x="876" y="443" text-anchor="middle" fill="#7a9ab8" font-size="8.5" font-weight="700" font-family="Arial,sans-serif">Business</text>
+    <text x="876" y="456" text-anchor="middle" fill="#7a9ab8" font-size="8.5" font-weight="700" font-family="Arial,sans-serif">Transformation</text>
+    <text x="876" y="469" text-anchor="middle" fill="#7a9ab8" font-size="8.5" font-weight="700" font-family="Arial,sans-serif">&amp; Growth</text>
+    <text x="876" y="478" text-anchor="middle" fill="#2d4a70" font-size="7" font-family="Arial,sans-serif">7 agents</text>
+
+    <!-- M7: AI Equity & Investment -->
+    <rect x="949" y="423" width="130" height="60" rx="4" fill="#1a3460"/>
+    <text x="1014" y="446" text-anchor="middle" fill="#7a9ab8" font-size="8.5" font-weight="700" font-family="Arial,sans-serif">AI Equity &amp;</text>
+    <text x="1014" y="459" text-anchor="middle" fill="#7a9ab8" font-size="8.5" font-weight="700" font-family="Arial,sans-serif">Investment</text>
+    <text x="1014" y="475" text-anchor="middle" fill="#2d4a70" font-size="7.5" font-family="Arial,sans-serif">7 agents</text>
+
+    <!-- JURGEN -->
+    <rect x="259" y="523" width="130" height="58" rx="5" fill="#00c4b3"/>
+    <text x="324" y="547" text-anchor="middle" fill="#0d1f3c" font-size="14" font-weight="900" font-family="Arial,sans-serif" letter-spacing="1">JURGEN</text>
+    <text x="324" y="562" text-anchor="middle" fill="#0d1f3c" font-size="9"  font-weight="700" font-family="Arial,sans-serif">Legal AI</text>
+    <text x="324" y="575" text-anchor="middle" fill="#0d1f3c" font-size="7.5" font-family="Arial,sans-serif" opacity="0.65">Inside Meridian · Built by Shane</text>
+
+  </svg>
   </div>
 
-  <!-- FOOTER -->
   <div class="footer">
-    <div class="footer-note">Confidential and internal. Not for external circulation.</div>
-    <div class="footer-conf">John Webb O'Rourke · Shane McCarthy · June 2026</div>
+    <span class="footer-l">Confidential · Internal only · Not for external circulation</span>
+    <span class="footer-r">John Webb O'Rourke · Shane McCarthy · June 2026</span>
   </div>
 
 </div>
-
 </body>
 </html>
