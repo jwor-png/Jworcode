@@ -62,6 +62,9 @@
 
 ## Family
 
+### Pharmacy Common Conditions Scheme -- Family Note (Irish Independent, 15 June 2026)
+40% of people are unaware of this scheme. Available at community pharmacies -- cheaper than a GP visit. Cost: €30 to €40 for a consultation, plus medicines. No GP referral needed. Covers common conditions including hayfever, cold sores, conjunctivitis, UTIs and similar. Relevant for Helen (88), Niamh (health complications, on disability payment), and general family use. Worth checking with local pharmacy in Kilmallock / Limerick.
+
 ### Living arrangement -- Kilmallock
 - **Spittal House** (Portauns, Kilmallock, V35 W965) is the family home of Helen, Majella's mother. **John, Majella and Helen** live there -- nobody else.
 - **Next door:** a large two-storey house. **Owen, Dervila and Cuan live on the ground floor**; **Niamh lives upstairs**. How long Owen's family stays is open -- they own a small house in Thomondgate, Limerick City (spelling to confirm), currently rented out.

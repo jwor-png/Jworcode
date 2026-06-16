@@ -39,7 +39,18 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 - **John's role:** Chairman, Strategic Lead, Commercial Lead, Governance Lead
 - **Shane's role:** Technical architecture and execution
 - **Confidentiality:** All documents marked confidential and internal. Client and network references removed from external-facing versions.
-- **Current status:** Building — partner model active
+- **Current status:** Building -- partner model active
+
+### Meridian Intelligence Clips (filed 16 June 2026)
+Articles and intelligence noted by John as potential opportunity threads for Meridian. Not decisions -- material to feed in and watch.
+
+| Article | Source | Meridian Manager | Thread |
+|---|---|---|---|
+| "Rules on derelict sites to be toughened as Harris says councils haven't done enough" | Irish Independent, 15 June 2026 | Property & Development / Legal & Governance | New Derelict Property Tax (Budget Oct 2026). Towns under 5,000 people, sites over 2,000 sqm. Legal, planning, and advisory complexity. Watch for client need as regulation tightens. |
+| "Should I apply for the First Home Scheme even though I don't need to?" (Eoin McGee) | Indo Money / Irish Independent, 15 June 2026 | Finance & Restructuring / Property & Development | First Home Scheme navigation, financial planning, property advice for individuals. Advisory opportunity for Meridian's finance and property managers. |
+| "One in three older people in Ireland feel digitally excluded" | Irish Independent, 15 June 2026 | AI Strategy & Adoption / Golden Generation | Evidence base for Golden Generation positioning. Structural digital exclusion of over-65s in Ireland. Direct market validation for Meridian and Ambrion. |
+| "I'm keen to make more use of AI, but an older colleague refuses to engage -- what do I do?" | Irish Independent, 15 June 2026 | AI Strategy & Adoption / Business Transformation | AI adoption resistance is emotional, not just technical. Insight relevant to how Meridian positions the human-led approach. |
+| "Demand for workers with skills in AI rose by 83% since 2019, higher salaries on offer" | Irish Independent, 15 June 2026 | AI Strategy & Adoption / AI Equity & Investment | Structural AI skills demand. Validates John's positioning as senior AI-skilled executive at 61. Source-tagged -- do not use stat without citing Irish Independent June 2026. |
 
 ---
 
@@ -179,6 +190,18 @@ Note: Accounts not ready by 24 June; expected approximately w/c 1 July.
 - **Business development:** A business will be built around this cohort and positioning. Detail to be clarified.
 - **Connection to Meridian:** This programme touches on Meridian -- the precise relationship between this coaching programme and the Meridian Golden Generation Partner Programme needs to be clarified with Shane.
 - **Files to:** Personal (life manager: Ideas & Opportunities) and Meridian -- not the sales engine architecture
+
+### Intelligence -- Digital Exclusion and AI Adoption (Irish Independent, 15 June 2026)
+Three articles noted by John as commercially and personally relevant:
+
+1. **"One in three older people in Ireland feel digitally excluded"** -- One third of older people in Ireland feel shut out of the digital world. Direct evidence base for the Golden Generation / Meridian positioning. The problem is real, documented, and unresolved. Opportunity: Meridian as the bridge for this cohort.
+
+2. **"I'm keen to make more use of AI, but an older colleague refuses to engage -- what do I do?"** -- Resistance to AI adoption is emotional as much as technical. The advice: don't force it on someone who contributes strongly in other ways; meet them where they are. Relevant to Ambrion compliance offer and how John approaches Golden Generation engagement. John is experiencing this resistance directly with prospects.
+
+3. **"Demand for workers with skills in AI rose by 83% since 2019 as higher salaries on offer"** (Source: Irish Independent, 15 June 2026.) AI skills demand is structural, not a trend. Validates John's positioning as an AI-skilled senior executive at 61 -- rare combination of board-level experience and active AI fluency.
+
+### Open Question -- Employed Executive Role (flagged 16 June 2026)
+John is sitting with a question: as a 61-year-old with deep business experience AND active AI skills, is there an employed senior executive role available to him alongside or beyond the entrepreneurial path? This is not a decision -- it is an open question to hold. The 83% AI skills demand stat is relevant context. To be revisited when the commercial picture is clearer. Cuan does not act on this unless John raises it.
 
 ### Remaining session dates (Sessions 5-8)
 | Session | Date | Time |
