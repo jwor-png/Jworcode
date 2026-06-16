@@ -133,13 +133,16 @@ Note: Accounts not ready by 24 June; expected approximately w/c 1 July.
 - **Confidentiality:** John and Shane's names are not on Johnny-facing documents
 
 ### True Global -- Live Introduction (16 June 2026)
-- **Contact:** Ejike Onuchukwu, Managing Director at True Global. Introduction made via a contact called Peter.
-- **VC contact:** Silvana -- on True's VC team. Has Calendly for booking calls.
+- **Connector:** Peter Wood -- peter.wood@apparelbrands.co.uk -- Apparel Brands. Made the introduction to Ejike.
+- **Ejike Onuchukwu:** Managing Director, True Global -- ejike.onuchukwu@true.global. Sent intro email to Johnny 15 June 2026 15:54.
+- **Silvana Gracia:** VC team, True Global -- Silvana.Gracia@true.global. Replied within 9 minutes: "I'd love to hear more." She is engaged and ready to talk.
+- **Calendly:** https://calendly.com/silvana-gracia-true/30min -- 30-minute slot. Available in June.
 - **True's stated interests:** Behavioural changes and AI-focused technology.
 - **Sequence agreed:** Johnny acknowledges email first. John sends introductory document to Silvana in the days ahead. She reviews, books via Calendly. Call follows. Shane's involvement in any call decided after True respond.
-- **Email chain:** Forwarded to john@velocityai.ie. John to review and reply.
-- **Introductory document:** Drafted 16 June 2026 -- ready for John's review and Shane's sign-off before sending.
-- **Decision (16 June 2026):** Proceeding on basis of True's interest and the live introduction. IP constraint noted and overridden by John's decision to proceed.
+- **Email chain:** Forwarded to john@velocityai.ie. John has reviewed.
+- **Introductory document:** Drafted 16 June 2026 -- ready once brand name confirmed (see note below).
+- **Decision (16 June 2026):** Proceeding on basis of True's interest and the live introduction.
+- **Brand name to confirm:** Email chain refers to "barberbarber" (Johnny's email domain is johnny@barberbarber.com). Knowledge base uses "BarberTemp." John to confirm which name goes on the intro document.
 
 ### Software / Tech -- Names Flagged by Johnny (16 June 2026)
 - **Springchat:** App belonging to one of Johnny's customers. Early stage. John to review.
