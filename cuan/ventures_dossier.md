@@ -367,6 +367,88 @@ The Decision Map exercise: "Walk us through a real decision you made last year a
 
 Shane's note: "The Habit Forming Exercises and the Quick Wins are the most important attachments in this email. Stage 1 built awareness. Stage 2 showed you where your experience already applies. Stage 3 is where we start building your identity in this landscape."
 
+### Session 2 -- Slide Deck (key content, filed from session images)
+Source: "The Golden Generation -- Session 2: Perception -- Wave 1: The Mirror" (21-page deck)
+
+**What AI Actually Needs From You (slide 4)**
+Three things only you can supply -- the deck makes these explicit:
+
+1. **Your Experience of What Has Failed Before** -- AI has no memory of the deals that collapsed, the strategies that looked right and went wrong. That memory lives only in you.
+2. **Your Instinct for What is Missing** -- The gap in the analysis. The question nobody asked. That is yours.
+3. **Your Authority to Decide** -- AI presents options. You make the call. That has not changed.
+
+**The Skill Translation (slides 6-7)**
+Expanded from the Stage 2 Brief -- full career language translated into AI language:
+
+| What You Call It | What AI Calls It |
+|---|---|
+| Briefing your team | Prompt engineering |
+| Managing your diary | Task prioritisation |
+| Delegating to a colleague | Orchestration |
+| Checking someone's work | Verification |
+| Reading the room | Contextual calibration |
+| Weighing up a decision | Probabilistic reasoning |
+| Mentoring a junior colleague | Scenario modelling |
+| Spotting what is missing in a report | Hallucination detection |
+| Knowing who to call for what | Selecting the right tool |
+
+"This is not learning a new language. This is recognising that you have been speaking it for years."
+
+**The Competency Mirror -- Exercise (slides 7-8)**
+Three-step exercise designed to be done during or immediately after the session:
+
+1. Identify a leadership strength you are certain you carry
+2. Match it to one of the translations in the Skill Translation table
+3. Write one sentence: "When I do [X], I am already doing [AI equivalent]"
+
+Purpose: makes the connection concrete and personal, not abstract.
+
+**Trust Your Instinct -- Three Questions (slides 8-9)**
+When AI gives you analysis or a recommendation, run these three before acting:
+
+1. What have I seen before that this resembles?
+2. What is this AI missing that I would never miss?
+3. Where do I need to decide -- and where can I delegate to AI?
+
+"The question is not whether to trust AI. It is knowing precisely where your judgement is irreplaceable."
+
+**The Experience Gap (slides 9-10)**
+AI at 25 vs the approach of an experienced leader:
+- AI has speed but no scars
+- AI has pattern recognition but no lived consequence
+- AI can map a decision; it cannot feel the weight of having made the wrong one before
+- **The advantage:** you know what collapse looks like before the numbers show it. AI does not.
+
+"Your instinct is a database of consequence. Nothing AI has access to compares to that."
+
+**The Delegation Test (slides 10-12)**
+Framework -- apply the same logic you use when deciding what to give a capable junior colleague:
+
+Delegate to AI:
+- Information gathering and first-pass research
+- First draft analysis and structuring
+- Summarising long documents
+- Formatting and presentation
+
+Keep for yourself:
+- The final judgement call
+- Stakeholder management and relationship decisions
+- Ethical and governance decisions
+- Anything where your name and reputation are on the line
+
+"Delegate the labour. Keep the authority."
+
+**AI in Your World -- Six Domains (slide 12)**
+Where senior leaders are already applying AI with immediate impact:
+1. Board Preparation
+2. Due Diligence
+3. Strategic Analysis
+4. Risk Assessment
+5. Stakeholder Communications
+6. Scenario Planning
+
+Note: slides IMG_9727-9734 (later deck pages) were read in-session but not fully captured before John paused. Any additional slide content to be filed when John reviews the deck again.
+
 ### Session 2 -- Competency Map (6 domains)
 Personal AI competency profile. For each domain: read the skills, mark those that resonate deepest, write where it matters for you. At the end: identify the three strongest domains and the one most actively avoided. "The gap between those answers is where this programme does its most important work."
 
