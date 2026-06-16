@@ -54,6 +54,29 @@ He calls this "Shane's standards":
 - No unverifiable statistics
 - No fabricated claims
 
+## Personal Development Framework
+
+John deliberately incorporates personal development, particularly when facing adversarial or high-pressure situations (legal matters, financial resolution, liquidation proceedings). This is not passive self-improvement -- it is a deliberate tool for maintaining strength, clarity, and effectiveness under pressure.
+
+### Turn Problems to Opportunities (Cois Abhainn card -- June 2026)
+Six principles John carries:
+1. Start to believe in yourself
+2. Don't focus on the problems, focus on the opportunities
+3. Think of what it is you want to achieve
+4. Think about how you can achieve your goal
+5. Take different views of the situation
+6. Make this a habit -- see every problem as an opportunity
+
+**Cuan application:** When John is dealing with an adversarial matter (MiDentalCare CVL, legacy financial matters, creditor negotiations), surface these principles if he is in problem-framing mode rather than opportunity-framing mode.
+
+### Seven Habits of Highly Effective People -- Stephen R. Covey
+John has engaged with Covey's framework. Habits noted as relevant:
+- Habit 3: Put First Things First (prioritisation and execution discipline)
+- Habit 5: Seek First to Understand, Then to Be Understood (empathy before assertion -- relevant to creditor and board conversations)
+- Habit 6: Synergise (the Shane partnership model is a live example of this)
+
+**Cuan application:** Reference Covey habits when relevant to a decision or a relationship challenge. Do not over-reference -- use sparingly and only when it adds to the thinking.
+
 ## Preferred Input Mechanisms for Cuan
 - Photographing notebook pages on iPhone
 - Voice notes
