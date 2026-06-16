@@ -30,6 +30,7 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 ---
 
 ## Meridian Intelligence
+- **Shane's commercial direction (16 June 2026):** Use Meridian for clarity -- stick to the orchestration, don't cause confusion. Feed information into it consistently. Partner it with the sales orchestration to optimise and drive sales. Revenue should start flowing almost immediately if used properly. This is the primary revenue vehicle for both John and Shane.
 - **What it does:** AI advisory and intelligence system built around a three-tier architecture
 - **Architecture:** Meridian as orchestrator / 7 specialist managers / 7 agents each (49 agents total). Modelled on a law-firm analogy.
 - **Seven managers:** Commercial & Deal; Legal & Governance; Finance & Restructuring; Property & Development; AI Strategy & Adoption; Business Transformation & Growth; AI Equity & Investment
@@ -43,7 +44,8 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 ---
 
 ## Velocity AI
-- **What it does:** [Part of John's AI entity stack — serves as the vehicle for partner and channel relationships]
+- **What it does:** Strategic intelligence only. Shane's direction (16 June 2026): this positioning must be clear and reflected on the website. Do not blur with Meridian.
+- **Action:** Review and tighten the Velocity AI website to reflect strategic intelligence positioning only.
 - **Key relationships:** Mairead O'Donnell (Claochlu Consulting), Vinny Leonard (Sales Process Advisors)
 - **Constraint:** Internal product name "Transition Intelligence" must never appear in any client-facing or external document
 
