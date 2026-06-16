@@ -243,12 +243,98 @@ John is sitting with a question: as a 61-year-old with deep business experience 
 - **1:1 element:** Shane provides dedicated one-to-one time to each participant alongside group sessions -- for habit-building exercises, business-specific challenges, or deepening understanding of group content. Programme is designed around each individual.
 - **The gap it closes:** "The gap is not in what you know. It is in the connection between what you know and what AI makes possible."
 
-### Session 1 -- Perception (22 April 2026)
-- **Theme:** Perception. How you see your own skills, capabilities, and what you do not yet realise you already know about AI.
+### Session 1 -- Pre-Perception (22 April 2026)
+- **Formal title:** Session 1 - Pre-Perception - 22 April 2026
+- **Theme:** How you see your own skills, capabilities, and what you do not yet realise you already know about AI. Stage 1 reveals the architecture you already carry -- the mental frameworks built across a lifetime of consequential decisions.
 - **Before the session:** Shane sent a Welcome Pack (setting the scene) and a Reflection Exercise (capturing where thinking sat at the start). Answers revisited at the end of the programme -- the distance between start and finish is the measure.
-- **Outcome:** "You will leave the first session starting to look at things differently."
 - **Opening quote from programme materials:** "The only way to make sense out of change is to plunge into it, move with it, and join the dance." -- Alan Watts
-- **Session 1 follow-up materials:** To be shared by John and filed here.
+- **Post-session resources sent:** 28 April 2026 (Shane's email with four attachments):
+  1. Stage 1 Slides -- the full slide deck for reference
+  2. Habit Forming Exercises -- three short exercises between Session 1 and Session 2
+  3. Quick Wins -- four practical prompts, copy/paste and use immediately
+- **Schedule error admission (important):** In the follow-up email, Shane admitted two of the later dates in the original schedule were wrong because he did not run a final verification check before sending. He used this as a teaching moment for the cohort -- directly embodying the session's core message about verifying AI output. "You can get all the way to the end, everything can look right, but if you skip that final verification step, something can and usually will slip through."
+
+### Session 1 -- Lines to Carry (source: slides, April 2026)
+These lines are from the session slides. John should own them -- they describe him.
+
+- "I direct intelligence. I always have. Remember this line, it changes everything." (The Decision Map slide -- key mindset line for this cohort)
+- "Pattern recognition is the premium asset of this era." (Migration Education)
+- "I have what this era wants. AI is for experienced people. The language is mine. Judgement directs speed." (WHERE YOU ARE STANDING NOW slide)
+- "If I had what every one of you carries in your head, I would be moving through this era at such a breathtaking pace." (Shane's framing of the cohort)
+- "THIS IS YOUR ERA. You are perfectly placed. AI DRIVEN. HUMAN LED." (Closing slide)
+- "Convenience is fast. Consequences are faster." (Privacy slide)
+- "This is just recognising a familiar skill in unfamiliar clothing." (Between sessions)
+
+### Session 1 -- The Vocabulary Swap (Shane's plain-English AI terms)
+Shane's translations -- designed so the cohort can describe each term in their own words. Useful for John in client conversations.
+
+| AI Term | Shane's Plain-English Version |
+|---|---|
+| Governance | Putting seatbelts, brakes, and a steering wheel on a powerful car |
+| Prompt Engineering | Personalised instructions -- imagine you are chatting with kids |
+| Layered Sequences | Steps or Stages -- think a Recipe Book |
+| Guardrails | Rules or Guidelines -- your car manual |
+| Hallucinations | When AI just makes stuff up with complete confidence and energy. "Me too!" (Shane) |
+| Agentic | AI that can act independently as an agent to get a job done, not just answer questions like a chatbot |
+
+### Session 1 -- The Verification Chain (framework)
+When AI gives you information you intend to act on, run through this three-step check. Takes under two minutes.
+
+1. **Ask Twice** -- Repeat or rephrase the query
+2. **Ask Where** -- Request the source or evidence
+3. **Ask What's Wrong** -- Prompt AI to critique its own answer
+
+"This simple habit transforms AI from an oracle into a thinking partner: one that you lead, rather than one that leads you."
+
+### Session 1 -- How To Show Up
+Shane's instructions to the cohort for how to engage with the programme:
+- Bring Your Barriers
+- Speak Your Thoughts
+- Challenge What You Hear
+- The Work Is Personal
+
+### Session 1 -- AI Platform Comparison (Tools Landscape)
+Shane's summary of the main platforms and their distinct strengths:
+
+| Platform | Strength |
+|---|---|
+| ChatGPT | Speed and versatility. Rapid drafting, brainstorming, everyday tasks. Broad knowledge base. |
+| Claude | Depth and nuance. Long documents, complex reasoning, sensitive topics. Greater care and precision. |
+| Copilot | Embedded in Microsoft Office (Word, Excel, Outlook, Teams). Shane's note: "by far the worst of the AI Platforms... according to? Microsoft!" |
+| Gemini | Google's AI, built into Workspace. Strong on research, summarisation, data across Google tools. |
+| Perplexity | Research and verification. Searches live web and cites sources. Strongest for fact-checking. |
+| Manus | Autonomous agent. Give it a complex multi-step task and it executes independently. |
+
+### Session 1 -- Quick Wins (ready-to-use prompts)
+Four prompts Shane gave the cohort to copy, paste, and use immediately.
+
+**01. Sound Human**
+Add these rules to the end of any writing prompt:
+"Write this in a natural, human tone. No em dashes. No short stacked sentences. No negative context framing. State what things are, not what they are not. British English. It should read like a knowledgeable person wrote it, not a machine."
+
+**02. Verifiable Information**
+Add to any research prompt:
+"All information must be credible, verified, and sourced. Provide the source for every claim, statistic, or figure. Do not construct plausible information. If you are unsure, say so. Upon completion, run a verification exercise across all sources to confirm accuracy."
+
+**03. The Second Opinion**
+Before a decision:
+"I am considering [describe the decision]. I am leaning towards [your current position]. I need you to argue the strongest possible case against my position. Be direct. Challenge my assumptions. Tell me what I might be missing."
+
+**04. The Meeting Prep**
+Before any important meeting:
+"I have a meeting with [who]. The context is [what it is about]. I want to achieve [your goal]. Give me three questions I should be asking and two things to watch for."
+
+### Session 1 -- Habit Forming Exercises (Stage 1 to Stage 2, 15-20 minutes total)
+Three exercises designed to build real habits with AI at your own pace.
+
+1. **Test What You Already Know** -- Ask AI for advice on something you already know the answer to. Use the voice button. Pick something you have handled dozens of times. See how good the advice is. See what it misses. Notice that you are the one who knows the difference.
+
+2. **Decode the Language** -- Pick three AI terms that feel intimidating. Ask Claude to explain each one using an example from your industry. Write down the moment it stops feeling foreign.
+
+3. **Your Process vs Its Process** -- Describe a process you have managed for years to Claude. Ask it to break that process into stages. Compare its version to yours. Notice who understands the nuance better and why.
+
+### Session 1 -- The Decision Map and The Council
+The Decision Map exercise: "Walk us through a real decision you made last year and let's see how AI could have supported you." Shane referenced "The Council and Dominion showcase" as part of this exercise. The Council and Dominion appear to be Shane's AI orchestration concepts -- relevant to the "Lights of Dominion GPTs" John has referenced. Flag for clarification with Shane.
 
 ### Full session schedule (all 8 sessions)
 | Session | Date | Time | Status |
