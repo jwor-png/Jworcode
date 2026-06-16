@@ -93,6 +93,7 @@
   /* STATS ROW */
   .stats {
     display: flex;
+    flex-wrap: wrap;
     gap: 0;
     margin-bottom: 32px;
     background: #0d1f3c;
@@ -101,13 +102,23 @@
   }
 
   .stat {
-    flex: 1;
+    flex: 1 1 auto;
+    min-width: 200px;
     padding: 20px 24px;
     text-align: center;
     border-right: 1px solid #1e3358;
+    border-bottom: 1px solid #1e3358;
   }
 
   .stat:last-child { border-right: none; }
+
+  @media (max-width: 500px) {
+    .stat {
+      flex: 1 1 100%;
+      border-right: none;
+    }
+    .stat:last-child { border-bottom: none; }
+  }
 
   .stat-value {
     font-size: 22px;
@@ -159,6 +170,17 @@
     grid-template-columns: 1fr 1fr;
     gap: 32px;
     margin-bottom: 32px;
+  }
+
+  @media (max-width: 600px) {
+    .two-col {
+      grid-template-columns: 1fr;
+      gap: 24px;
+    }
+    .header { padding: 28px 24px 24px; }
+    .body { padding: 28px 24px; }
+    .footer { padding: 20px 24px; flex-direction: column; gap: 12px; }
+    .footer-note { text-align: left; }
   }
 
   /* AI SECTION */
