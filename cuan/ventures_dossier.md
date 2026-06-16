@@ -336,6 +336,32 @@ Three exercises designed to build real habits with AI at your own pace.
 ### Session 1 -- The Decision Map and The Council
 The Decision Map exercise: "Walk us through a real decision you made last year and let's see how AI could have supported you." Shane referenced "The Council and Dominion showcase" as part of this exercise. The Council and Dominion appear to be Shane's AI orchestration concepts -- relevant to the "Lights of Dominion GPTs" John has referenced. Flag for clarification with Shane.
 
+### Session 2 -- Perception: Wave 1, The Mirror (7 May 2026)
+- **Formal title:** Stage 2 -- Perception | Wave 1: The Mirror
+- **Date/time:** Thursday 7 May 2026, 11:00 - 12:30 (IST)
+- **Pre-session brief sent:** Wed 6 May, Shane to group (BCC to John). Stage 2 Brief (2-page PDF) attached.
+- **Invite:** Zoom -- Session 2 - The Golden Generation. Meeting ID: 954 1495 0090. Passcode: 688580.
+- **Session 2 slides:** Sent after the session once recording downloaded.
+
+**What Stage 2 is about (from the Stage 2 Brief):**
+"This session takes the beliefs you surfaced in Stage 1 and holds them against AI output, in real time. You will test your own judgement against AI output, and see how clearly they apply to the AI era. The barrier was never competence. It was language. Delegation is prompt engineering. Risk assessment is probabilistic reasoning. Team leadership is orchestration. Your career already speaks this language. You just have not heard the translation."
+
+**The translation Shane made explicit:**
+
+| Career skill | AI language equivalent |
+|---|---|
+| Delegation | Prompt engineering |
+| Risk assessment | Probabilistic reasoning |
+| Team leadership | Orchestration |
+
+**What participants walked away with:**
+- A Competency Map (how career competencies map to what this era demands)
+- A Prompt Guide
+- A Custom Instructions Guide
+- A set of tools that amplify what was surfaced in Stage 1
+
+**Note:** Session 2 slide deck and follow-up to be filed when John shares them.
+
 ### Full session schedule (all 8 sessions)
 | Session | Date | Time | Status |
 |---|---|---|---|
