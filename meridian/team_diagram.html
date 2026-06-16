@@ -23,23 +23,18 @@
 <div class="container">
 
   <div class="header">
-    <h1><span>Cuan</span> — System Architecture</h1>
+    <h1><span>Cuan</span> — My System Architecture</h1>
     <div class="header-right">Confidential · Internal Only · June 2026</div>
   </div>
   <div class="accent"></div>
 
   <div class="diagram">
-  <svg viewBox="0 0 1200 640" width="100%" xmlns="http://www.w3.org/2000/svg" style="min-width:760px">
+  <svg viewBox="0 0 1200 620" width="100%" xmlns="http://www.w3.org/2000/svg" style="min-width:760px">
 
-    <!-- ===================== CONNECTOR LINES (behind boxes) ===================== -->
+    <!-- ===================== CONNECTOR LINES ===================== -->
 
-    <!-- John + Shane down to horizontal trunk -->
-    <line x1="150" y1="78" x2="150" y2="112" stroke="#00c4b3" stroke-width="2"/>
-    <line x1="1050" y1="78" x2="1050" y2="112" stroke="#00c4b3" stroke-width="2"/>
-    <!-- Horizontal trunk at y=112 -->
-    <line x1="150" y1="112" x2="1050" y2="112" stroke="#00c4b3" stroke-width="2"/>
-    <!-- Down to CUAN -->
-    <line x1="600" y1="112" x2="600" y2="138" stroke="#00c4b3" stroke-width="2"/>
+    <!-- John straight down to CUAN -->
+    <line x1="600" y1="78" x2="600" y2="138" stroke="#00c4b3" stroke-width="2"/>
 
     <!-- CUAN to Sales Orchestration (dashed elbow right) -->
     <polyline points="750,174 782,174 782,212 810,212" fill="none" stroke="#00c4b3" stroke-width="2" stroke-dasharray="6,3"/>
@@ -66,17 +61,11 @@
 
     <!-- ===================== BOXES ===================== -->
 
-    <!-- JOHN -->
-    <rect x="50" y="23" width="200" height="55" rx="6" fill="#0d1f3c"/>
-    <text x="150" y="44"  text-anchor="middle" fill="white"   font-size="12" font-weight="700" font-family="Arial,sans-serif">John Webb O'Rourke</text>
-    <text x="150" y="59"  text-anchor="middle" fill="#00c4b3"  font-size="8.5" font-family="Arial,sans-serif">Chairman · Commercial · Governance</text>
-    <text x="150" y="71"  text-anchor="middle" fill="#7a9ab8"  font-size="7.5" font-family="Arial,sans-serif">70% Meridian</text>
-
-    <!-- SHANE -->
-    <rect x="950" y="23" width="200" height="55" rx="6" fill="#0d1f3c"/>
-    <text x="1050" y="44" text-anchor="middle" fill="white"   font-size="12" font-weight="700" font-family="Arial,sans-serif">Shane McCarthy</text>
-    <text x="1050" y="59" text-anchor="middle" fill="#00c4b3"  font-size="8.5" font-family="Arial,sans-serif">Technical Architecture · Execution</text>
-    <text x="1050" y="71" text-anchor="middle" fill="#7a9ab8"  font-size="7.5" font-family="Arial,sans-serif">30% Meridian</text>
+    <!-- JOHN (centered at x=600) -->
+    <rect x="500" y="23" width="200" height="55" rx="6" fill="#0d1f3c"/>
+    <text x="600" y="44"  text-anchor="middle" fill="white"  font-size="12" font-weight="700" font-family="Arial,sans-serif">John Webb O'Rourke</text>
+    <text x="600" y="59"  text-anchor="middle" fill="#00c4b3" font-size="8.5" font-family="Arial,sans-serif">Chairman · Commercial Lead · Governance</text>
+    <text x="600" y="71"  text-anchor="middle" fill="#7a9ab8" font-size="7.5" font-family="Arial,sans-serif">Orchestration Director · AI as an Asset Class</text>
 
     <!-- CUAN -->
     <rect x="450" y="138" width="300" height="72" rx="8" fill="#00c4b3"/>
@@ -87,15 +76,15 @@
     <!-- SALES ORCHESTRATION -->
     <rect x="810" y="177" width="268" height="72" rx="6" fill="#0d1f3c" stroke="#00c4b3" stroke-width="1.5"/>
     <text x="944" y="199" text-anchor="middle" fill="#00c4b3" font-size="10.5" font-weight="800" font-family="Arial,sans-serif">SALES ORCHESTRATION</text>
-    <text x="944" y="213" text-anchor="middle" fill="#7a9ab8" font-size="8" font-family="Arial,sans-serif">Revenue engine · Partnered with Meridian</text>
+    <text x="944" y="213" text-anchor="middle" fill="#7a9ab8" font-size="8"   font-family="Arial,sans-serif">Revenue engine · Partnered with Meridian</text>
     <text x="944" y="228" text-anchor="middle" fill="white"   font-size="7.5" font-family="Arial,sans-serif">Edelia · UHL · Ambrion · Child Welfare</text>
     <text x="944" y="241" text-anchor="middle" fill="#7a9ab8" font-size="7.5" font-family="Arial,sans-serif">Smacht · BDO · Golden Gen channels</text>
 
     <!-- MERIDIAN -->
     <rect x="440" y="278" width="320" height="64" rx="6" fill="#0d1f3c" stroke="#00c4b3" stroke-width="2"/>
-    <text x="600" y="302" text-anchor="middle" fill="white"   font-size="13" font-weight="900" font-family="Arial,sans-serif" letter-spacing="1">MERIDIAN INTELLIGENCE</text>
-    <text x="600" y="318" text-anchor="middle" fill="#00c4b3"  font-size="8.5" font-family="Arial,sans-serif">Commercial Orchestrator · Primary Revenue Vehicle</text>
-    <text x="600" y="332" text-anchor="middle" fill="#7a9ab8"  font-size="7.5" font-family="Arial,sans-serif">Three-tier architecture · 7 managers · 49 agents · 70/30 partnership</text>
+    <text x="600" y="302" text-anchor="middle" fill="white"  font-size="13" font-weight="900" font-family="Arial,sans-serif" letter-spacing="1">MERIDIAN INTELLIGENCE</text>
+    <text x="600" y="318" text-anchor="middle" fill="#00c4b3" font-size="8.5" font-family="Arial,sans-serif">Commercial Orchestrator · Primary Revenue Vehicle</text>
+    <text x="600" y="332" text-anchor="middle" fill="#7a9ab8" font-size="7.5" font-family="Arial,sans-serif">Three-tier architecture · 7 managers · 49 agents</text>
 
     <!-- MANAGER BOXES (y=423, h=60, centers at 186,324,462,600,738,876,1014) -->
 
@@ -134,7 +123,7 @@
     <text x="876" y="443" text-anchor="middle" fill="#7a9ab8" font-size="8.5" font-weight="700" font-family="Arial,sans-serif">Business</text>
     <text x="876" y="456" text-anchor="middle" fill="#7a9ab8" font-size="8.5" font-weight="700" font-family="Arial,sans-serif">Transformation</text>
     <text x="876" y="469" text-anchor="middle" fill="#7a9ab8" font-size="8.5" font-weight="700" font-family="Arial,sans-serif">&amp; Growth</text>
-    <text x="876" y="478" text-anchor="middle" fill="#2d4a70" font-size="7" font-family="Arial,sans-serif">7 agents</text>
+    <text x="876" y="479" text-anchor="middle" fill="#2d4a70" font-size="7"   font-family="Arial,sans-serif">7 agents</text>
 
     <!-- M7: AI Equity & Investment -->
     <rect x="949" y="423" width="130" height="60" rx="4" fill="#1a3460"/>
@@ -145,15 +134,15 @@
     <!-- JURGEN -->
     <rect x="259" y="523" width="130" height="58" rx="5" fill="#00c4b3"/>
     <text x="324" y="547" text-anchor="middle" fill="#0d1f3c" font-size="14" font-weight="900" font-family="Arial,sans-serif" letter-spacing="1">JURGEN</text>
-    <text x="324" y="562" text-anchor="middle" fill="#0d1f3c" font-size="9"  font-weight="700" font-family="Arial,sans-serif">Legal AI</text>
-    <text x="324" y="575" text-anchor="middle" fill="#0d1f3c" font-size="7.5" font-family="Arial,sans-serif" opacity="0.65">Inside Meridian · Built by Shane</text>
+    <text x="324" y="562" text-anchor="middle" fill="#0d1f3c" font-size="9"   font-weight="700" font-family="Arial,sans-serif">Legal AI</text>
+    <text x="324" y="575" text-anchor="middle" fill="#0d1f3c" font-size="7.5" font-family="Arial,sans-serif" opacity="0.65">Inside Meridian</text>
 
   </svg>
   </div>
 
   <div class="footer">
     <span class="footer-l">Confidential · Internal only · Not for external circulation</span>
-    <span class="footer-r">John Webb O'Rourke · Shane McCarthy · June 2026</span>
+    <span class="footer-r">John Webb O'Rourke · June 2026</span>
   </div>
 
 </div>
