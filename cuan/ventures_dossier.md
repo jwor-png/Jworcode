@@ -143,6 +143,8 @@ Note: Targets 12-20 not visible in images shared. To be filed when John makes th
 ---
 
 ## Meridian Intelligence
+- **Website:** www.meridianintelligence.ie
+- **Email:** jwor@meridianintelligence.ie
 - **Shane's commercial direction (16 June 2026):** Use Meridian for clarity -- stick to the orchestration, don't cause confusion. Feed information into it consistently. Partner it with the sales orchestration to optimise and drive sales. Revenue should start flowing almost immediately if used properly. This is the primary revenue vehicle for both John and Shane.
 - **What it does:** AI advisory and intelligence system built around a three-tier architecture
 - **Architecture:** Meridian as orchestrator / 7 specialist managers / 7 agents each (49 agents total). Modelled on a law-firm analogy.
