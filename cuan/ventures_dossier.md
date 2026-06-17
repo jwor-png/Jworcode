@@ -146,6 +146,21 @@ Note: Targets 12-20 not visible in images shared. To be filed when John makes th
 - **Website:** www.meridianintelligence.ie
 - **Email:** jwor@meridianintelligence.ie
 - **Shane's commercial direction (16 June 2026):** Use Meridian for clarity -- stick to the orchestration, don't cause confusion. Feed information into it consistently. Partner it with the sales orchestration to optimise and drive sales. Revenue should start flowing almost immediately if used properly. This is the primary revenue vehicle for both John and Shane.
+
+### Strategic Architecture -- The Demand-Sensing to Delivery Engine (Shane McCarthy, 17 June 2026)
+"This is a demand-sensing to delivery engine. It manufactures the reason to buy, then builds the thing that satisfies it. The training use case is just the first skin on it. The real machine is: detect exposure, target the company carrying it, convert, then design the remedy. Four layers, one spine."
+
+**The four layers:**
+1. **Detect exposure** -- the system identifies companies that are carrying AI governance risk, regulatory exposure, or strategic vulnerability before those companies have named it as a problem. The EU AI Act deadline (2 August 2026) is the clearest current exposure signal. But this runs across every domain the seven managers cover.
+2. **Target the company carrying it** -- the sales orchestration finds and approaches the specific organisation, in the specific role, at the right moment. Not broadcast. Precision.
+3. **Convert** -- turn the exposure into an engagement. The free health check, the opening conversation, the proposal. The exposure IS the reason to buy. Meridian manufactured the urgency; the client recognises the need.
+4. **Design the remedy** -- deliver the product or advisory engagement that closes the exposure gap. Training, governance framework, compliance architecture, board briefing, restructuring plan -- whatever the detected exposure requires.
+
+**One spine:** the sales orchestration is the connective tissue running through all four layers. It detects, targets, follows up, and tracks. John directs. The system executes.
+
+**Why this matters:** the training products (AI in Plain English, Readiness Assessment, Accelerator) are the first skin -- the most immediately sellable layer because the August 2 deadline creates visible, named exposure. But the real machine operates across all seven Meridian managers: Legal and Governance detects compliance exposure; Finance and Restructuring detects distressed AI investment; Commercial and Deal detects M&A targets where AI governance is a liability; Property and Development detects planning or development risk where AI systems are unaudited. Each manager is a detection layer as well as a delivery layer.
+
+**Implication for John:** his role in the machine is the conversion layer. He is the human who walks into the room when the exposure has been detected and the target is identified. Forty years of credibility does what no system can do -- makes the client feel the risk is understood, not just catalogued.
 - **What it does:** AI advisory and intelligence system built around a three-tier architecture
 - **Architecture:** Meridian as orchestrator / 7 specialist managers / 7 agents each (49 agents total). Modelled on a law-firm analogy.
 - **Seven managers:** Commercial & Deal; Legal & Governance; Finance & Restructuring; Property & Development; AI Strategy & Adoption; Business Transformation & Growth; AI Equity & Investment
