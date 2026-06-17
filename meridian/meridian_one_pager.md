@@ -47,4 +47,4 @@ Meridian is not a report factory. It is an intelligence system in service of bet
 
 ---
 
-*Meridian Intelligence -- Ireland*
+www.meridianintelligence.ie | jwor@meridianintelligence.ie
