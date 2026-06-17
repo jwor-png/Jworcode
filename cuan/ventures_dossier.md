@@ -193,13 +193,13 @@ Articles and intelligence noted by John as potential opportunity threads for Mer
 |---|---|---|
 | Vinny Leonard | Sales Process Advisors | Sent -- awaiting return |
 | Padraic O'Maille | Smacht network (~300 Irish SMEs) | Sent -- awaiting return |
-| Kevin Carr | PR firm, UK (introduced by Andrew Sharkey) | Sent -- awaiting return |
+| Kevin Carr | PR firm, UK (introduced by Andrew Sharkey) | Form not returned. Kevin and Andrew Sharkey looked into it. Kevin contacted 17 June to resolve -- positive update expected today. |
 | Eoin Lynch | AHL board member, Portumna, Co. Galway | Under consideration -- decision pending |
 
 ### Revenue pipeline (as of 16 June 2026)
 | Engagement | Vehicle | Split | Value | Status |
 |---|---|---|---|---|
-| Edelia | Velocity AI | 30% John / 70% Shane | €30,000 | Proposal sent by Shane 11 June -- awaiting response from Rory and Pat |
+| Edelia | Velocity AI | 30% John / 70% Shane | €30,000 | Approved with conditions (17 June 2026). First €10,000 approved. Payment terms and full conditions TBC -- John to confirm with Shane. |
 | UHL training (2 programmes) | Velocity AI / Ambrion | To be confirmed | €20,000 | Accepted; Paul Candon engaged; first session 25 June |
 | Ambrion AI products (4-5 items) | Ambrion AI | John-led | TBC | Shane to send detail |
 | Child welfare architecture | TBC | TBC | TBC | Two-track sales strategy being agreed with Shane |
@@ -209,8 +209,8 @@ Articles and intelligence noted by John as potential opportunity threads for Mer
 - **Contacts:** Rory and Pat (Golden Generation programme participants -- both attend Session 5 Thursday 18 June 2:30pm)
 - **Shane's proposal:** Three-month AI Native transformation programme -- "AI Native, AI First." Sent 11 June 2026.
 - **AI readiness tool:** https://edelia-ai-readiness.netlify.app/ -- Shane asked both to complete before the call
-- **Status:** No response received as of 16 June. John will see Rory and Pat in person at Golden Generation Session 5 Thursday 18 June -- live opportunity to advance.
-- **Next step:** Warm conversation Thursday. Encourage them to respond to Shane's proposal and complete the AI readiness questionnaire.
+- **Status (updated 17 June 2026):** Proposal approved with conditions. First €10,000 approved. Shane received confirmation from Rory and Pat on the evening of 16 June. Full conditions and payment terms not yet confirmed -- John to speak to Shane to understand both. Rory and Pat attend Golden Generation Session 5 tomorrow (18 June, 14:30) -- conditions may become clearer in conversation.
+- **Next step:** Call or message Shane before Session 5 to understand payment terms and what the conditions are. Use tomorrow's session to advance the relationship and learn more if the conversation opens naturally.
 
 ### UHL Training -- Detail (updated 16 June 2026)
 - **Contact:** Paul Candon (CEO, UHL) -- engaged directly by Shane
