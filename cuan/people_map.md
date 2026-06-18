@@ -194,11 +194,12 @@
 
 ### Clinton Kiernan
 - **Role:** John's garage mechanic -- trusted, works on goodwill and relationship
-- **Current arrangement:** Tyres for Niamh's car charged through Clinton, he recharges John.
-- **Open actions (one call/text covers all):**
-  1. Thank Clinton for allowing the tyre arrangement for Niamh
-  2. Book Evoque service for **week of 29 June or later** (after Westport trip returns 24 June)
-  3. Ask Clinton to locate Owen's steel wheel spare tyre and fit a tyre on it
+- **Vehicle:** Range Rover Evoque, reg 191-D-15974
+- **Update (18 June 2026):** Spoke to Clinton this morning.
+  - Tyres for Niamh: thanked. Payment sorted. Closed.
+  - Evoque service: booked for week of 29 June. John to drop car early that week (Monday or Tuesday). Clinton will keep it ~1 day to fix.
+  - Engine oil: Clinton cannot supply. John to keep a gallon of engine oil in the boot to top up as needed.
+  - Owen's spare tyre: someone at the garage (possibly Scott) raised the steel wheel spare. John must speak to Owen first before proceeding -- do not action without that conversation.
 
 ### Christy Crowley
 - **Location:** Bantry
