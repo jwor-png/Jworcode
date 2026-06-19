@@ -286,8 +286,8 @@ Note: Accounts not ready by 24 June; expected approximately w/c 1 July.
 - **Declared interest:** John chairs AHL (landlord) and is INED at UHL (tenant). This interest is declared and accepted at the UHL board. Other AHL member directors are also member directors of United Hardware. Works well in practice.
 
 ### Live workstreams
-1. **Fire compliance works** — ongoing improvements at Magna Park. United Hardware arranges the works; AHL gives credits for the cost (circa €110,000) against the annual rent of €800,000.
-2. **2025 audit** — Nicola is liaising with BDO on preparation and completion. OPEN LOOP: John needs a progress update from Nicola on how far advanced the audit is.
+1. **Fire compliance works** -- ongoing improvements at Magna Park. United Hardware arranges the works; AHL gives credits for the cost (circa €110,000) against the annual rent of €800,000.
+2. **2025 audit** -- UHL Chairman rang John evening of 18 June; John rang back. Video call arranged regarding AHL 2025 audit. Under control. Nicola liaising with BDO on preparation and completion.
 
 ---
 
