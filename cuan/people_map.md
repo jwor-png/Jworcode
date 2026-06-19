@@ -198,7 +198,11 @@
 - **Phone:** 063 98009
 - **Background:** Partner since 2005. Previously interned at William Fry (one of the main Dublin commercial firms). Specialises in commercial litigation and employment law. Fourth-generation firm.
 - **Personal connection:** John knows Mark personally and Mark knows John.
-- **Role going forward:** John's solicitor for personal affairs and AI business matters. Relationship being established on a forward-looking basis -- AI ventures first, personal affairs as well.
+- **Role going forward:** John's solicitor for personal affairs and AI business matters. Relationship being established on a forward-looking basis -- AI ventures first, personal affairs as they arise.
+- **How the relationship is being opened:** Introductory email leads with John's AI ventures (structuring, agreements) -- not the MiDentalCare liquidation. Liquidation mentioned lightly, with reassurance that no help is needed ahead of the 26 June creditors' meeting. Approach: invite him into momentum, not a crisis.
+- **What he is not being asked to do yet:** Not formally engaged on the MiDentalCare CVL. Deliberate decision -- short runway, John confident in his own position. Liquidation briefing to happen after the meeting, in person only, not by email.
+- **Conflict check required (before CVL work):** Mark to run a conflict check against Sremium / Sean O'Dwyer [confirm spelling] and Butler & Co / Michael Butler before taking on anything touching the CVL.
+- **Scope of future instruction anticipated:** Personal affairs; AI ventures (structuring, commercial agreements); MiDentalCare CVL and aftermath in due course; potentially Niamh's capital flow and Bank of Ireland guarantee matters.
 - **Source:** Jurgen brief, June 2026
 
 ---
