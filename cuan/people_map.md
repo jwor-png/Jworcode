@@ -204,7 +204,7 @@
 ### Christy Crowley
 - **Location:** Bantry
 - **Role:** Local contact regarding planning matters (nature of role to confirm -- planner, architect, or local knowledge)
-- **Open action:** Contact Christy about planning permission at the rear of the Bantry houses -- potential accommodation for Owen and Dervila and/or Niamh. John in Bantry Wednesday 17 June -- possible in-person opportunity.
+- **Open action:** Contact Christy about planning permission at the rear of the Bantry houses -- potential accommodation for Owen and Dervila (Owen's wife) and/or Niamh. John in Bantry Wednesday 17 June -- possible in-person opportunity.
 
 ### Hilary Forde
 - **Contact:** hilaryforde@yahoo.com (personal email -- she keeps this channel private)
