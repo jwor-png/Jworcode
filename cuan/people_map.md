@@ -224,6 +224,23 @@
 
 ---
 
+## Personal Health
+
+### Cardiologist Transfer (action: next week)
+- **Current cardiologist:** Dr. O'Connor, Cork (location: Rashey -- confirm spelling/clinic name)
+- **New cardiologist:** Dr. Ali at the new private hospital, Limerick (hospital name to confirm -- likely Bon Secours or similar)
+- **What is needed:** Referral letter from Blossom Gate Medical Centre (John's local GP practice) to Dr. Ali
+- **Hannah:** The person at Blossom Gate who was handling this. She sent a message about the letter.
+- **Action:** Follow up with Hannah at Blossom Gate to confirm the referral letter has been sent to Dr. Ali. Do this before or during the Thursday 26 June appointment.
+
+### Thursday 26 June -- Blossom Gate Appointment
+- **Appointment:** Ear wax removal at Blossom Gate Medical Centre
+- **Standing appointment** -- John intends to keep it
+- **Use the visit to:** Chase Hannah in person about the referral letter to Dr. Ali
+- **REMINDER:** Thursday 26 June -- Blossom Gate appointment + chase referral letter
+
+---
+
 ## To Map
 [ASK: Who else is in John's regular orbit — advisors, investors, lawyers, accountants, other board contacts?]
 [ASK: Who are the key personal relationships Cuan should be aware of for scheduling and prioritisation?]
