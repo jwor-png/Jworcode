@@ -705,7 +705,7 @@ Think of a decision you made in the last six months that required real judgement
 | Session 2 | Thursday 7 May 2026 | 11:00 - 12:30 | Completed |
 | Session 3 | Tuesday 19 May 2026 | 14:30 - 16:00 | Completed |
 | Session 4 | Wednesday 3 June 2026 | 11:00 - 12:30 | Completed |
-| Session 5 | Thursday 19 June 2026 | 14:30 - 16:00 | Completed -- good session. Rory and Pat (Edelia) attended. |
+| Session 5 | Thursday 18 June 2026 | 14:30 - 16:00 | Completed -- good session. Rory and Pat (Edelia) attended. |
 | Session 6 | Tuesday 30 June 2026 | 11:00 - 12:30 | Upcoming |
 | Session 7 | Wednesday 15 July 2026 | 14:30 - 16:00 | Upcoming |
 | Session 8 | Thursday 30 July 2026 | 11:00 - 12:30 | Upcoming |
