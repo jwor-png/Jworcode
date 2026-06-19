@@ -190,6 +190,19 @@
 
 ---
 
+## Legal
+
+### Mark Power
+- **Firm:** Maurice Power Solicitors LLP, Kilmallock, Co. Limerick
+- **Email:** mpower@powersolicitors.ie
+- **Phone:** 063 98009
+- **Background:** Partner since 2005. Previously interned at William Fry (one of the main Dublin commercial firms). Specialises in commercial litigation and employment law. Fourth-generation firm.
+- **Personal connection:** John knows Mark personally and Mark knows John.
+- **Role going forward:** John's solicitor for personal affairs and AI business matters. Relationship being established on a forward-looking basis -- AI ventures first, personal affairs as well.
+- **Source:** Jurgen brief, June 2026
+
+---
+
 ## Trusted Practical Contacts
 
 ### Clinton Kiernan
