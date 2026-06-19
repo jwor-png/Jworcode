@@ -15,7 +15,7 @@
 ## Board and Governance Contacts
 
 ### United Hardware Limited
-- **Chairman:** [ASK -- confirm name of UHL board chairman]
+- **Chairman:** Eoin McGettigan
 - **CEO:** Paul Candon
 - **CFO:** David Geoghegan (also managing AHL admin while Nicola is unavailable)
 - **Commercial Director:** David Shakeshaft
