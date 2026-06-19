@@ -241,6 +241,13 @@
 
 ---
 
+### Robin Lee
+- **Relationship:** Former boss and good friend
+- **Health:** Back operation week of 9 June 2026; now home recovering
+- **Action (this weekend, 20-21 June 2026):** John to contact Robin to check in on how he is after the operation
+
+---
+
 ## To Map
 [ASK: Who else is in John's regular orbit — advisors, investors, lawyers, accountants, other board contacts?]
 [ASK: Who are the key personal relationships Cuan should be aware of for scheduling and prioritisation?]
