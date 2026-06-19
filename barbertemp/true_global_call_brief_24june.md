@@ -94,6 +94,9 @@ Network, market access, behavioural-change and AI expertise. True's focus areas 
 **"What's the funding ask?"**
 First tranche in the range of £125,000 -- £200,000. Have the number ready but do not lead with it unless she asks directly.
 
+**"Can you give me a sense of the revenue impact?"** (only if asked)
+Johnny's own shop: average haircut £38, fully booked day = £532 revenue. Barber takes £180-£200. A micro-staffed shop (1-2 person) that cannot carry a full-time extra barber is turning away custom on busy days -- BarberTemp converts that lost revenue into captured bookings. Do not surface these numbers unprompted. Silvana has enough to engage; detail closes doors at this stage if it's not what she's asking for.
+
 ---
 
 ## What Not to Say

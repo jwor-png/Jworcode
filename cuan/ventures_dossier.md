@@ -317,6 +317,19 @@ Note: Accounts not ready by 24 June; expected approximately w/c 1 July.
 - **Call:** Tuesday 24 June 2026, 11:30-12:00. John and Johnny Shanahan with Silvana Gracia. 30-minute introductory conversation.
 - **Call briefing:** barbertemp/true_global_call_brief_24june.md -- one-page brief for John and Johnny.
 
+### Johnny Shanahan -- Intel for True Global Call (19 June 2026)
+Johnny provided the following via WhatsApp for background use on the call. John's instruction: Silvana has enough from the intro doc -- use these only if she asks.
+
+**Johnny's behavioural narrative (his own words, ready to use):**
+Customer behaviour has shifted due to WFH and flexible working hours. Barbershops no longer have predictable busy/quiet patterns -- one shop may be slammed Mon-Wed and quieter toward the weekend. BarberTemp solves this directly: an owner who knows about a potential slow day ahead doesn't have to carry staff and absorb the cost; the barber picks up work at a busier shop across town that day. Every shop's clientele reflects the work-life patterns of its local customers.
+
+**Revenue numbers (Johnny's own shop, for reference only):**
+- Average haircut price: £38
+- Fully booked day: £532 in revenue
+- Barber's share: £180-£200 of that figure
+- VAT: most shops don't pay it; those that do would see the figure reduced
+- Micro-staffed shops (1-2 person operations): frequently fully booked, cannot afford to carry an extra full-time barber, and are regularly turning away custom on busy days -- BarberTemp is a direct revenue and holiday cover solution for them
+
 ### Software / Tech -- Names Flagged by Johnny (16 June 2026)
 - **Springchat:** App belonging to one of Johnny's customers. Early stage. John to review.
 - **KT Logic:** Dormant company -- name offered by Johnny's contact for NDA purposes. John to review.
