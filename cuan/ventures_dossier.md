@@ -314,6 +314,8 @@ Note: Accounts not ready by 24 June; expected approximately w/c 1 July.
 - **Decision (16 June 2026):** Proceeding on basis of True's interest and the live introduction.
 - **Brand name:** BarberTemp. Confirmed by John 16 June 2026. (Johnny's email domain is barberbarber.com -- separate from the BarberTemp brand name used in external documents.)
 - **Intro document:** Saved at barbertemp/true_global_intro_brief.md -- ready to send to Silvana Gracia.
+- **Call:** Tuesday 24 June 2026, 11:30-12:00. John and Johnny Shanahan with Silvana Gracia. 30-minute introductory conversation.
+- **Call briefing:** barbertemp/true_global_call_brief_24june.md -- one-page brief for John and Johnny.
 
 ### Software / Tech -- Names Flagged by Johnny (16 June 2026)
 - **Springchat:** App belonging to one of Johnny's customers. Early stage. John to review.
