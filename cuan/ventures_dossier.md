@@ -8,11 +8,39 @@ There are **two intelligence systems**:
 A Venture Orchestrator is noted only as a future consideration, to be agreed between John and Shane. Nothing is assumed or built yet.
 
 ## Priority Stack (as of June 2026)
-1. Ambrion AI — revenue generation (highest urgency, August 2026 anchor)
-2. Meridian Intelligence — strategic development
+1. Ambrion AI -- revenue generation (highest urgency, August 2026 anchor)
+2. Meridian Intelligence -- strategic development and sales strategy (priority: combined AI strategy with Shane)
 3. Board / chairmanship opportunities (UHL, AHL)
 4. Legacy financial resolution
-5. Selective property and healthcare — only where highly aligned and near-term
+5. Selective property and healthcare -- only where highly aligned and near-term
+
+## Week Ahead -- 22 June 2026
+
+| Day | Date | Event | Notes |
+|---|---|---|---|
+| Monday | 22 June | Travel to Westport with Majella | Departing 1pm |
+| Tuesday | 23 June | BDO call -- AHL 2025 audit prep | Time TBC -- before 11:30am |
+| Tuesday | 23 June | True Global call -- Johnny Shanahan + Silvana Gracia | 11:30am-12pm. Brief at barbertemp/true_global_call_brief_24june.md |
+| Wednesday | 24 June | UHL board meeting -- IT systems report | 10am-1pm via Teams (attending from Westport) |
+| Thursday | 25 June | UHL training -- Dublin, with Shane | 9:30am-1pm |
+| Friday | 26 June | MiDentalCare creditors' meeting -- Plaza Hotel, Tallaght | 10:30am. Shane attending to support John. |
+
+## Action List -- Week of 22 June 2026
+
+| Priority | Action | Notes |
+|---|---|---|
+| TONIGHT | Ambrion Summit EOI -- submit Innovation Spotlight application | International AI Summit 14 Oct, RDS Dublin. Must do with Shane tonight (deadline) |
+| HIGH | Paul Candon agreement -- review, confirm agreement, commit to sign and return | Review his recent email; respond committing to sign |
+| HIGH | Email Eoin McGettigan (UHL Chairman) re audit delays and ARC view | UHL priority -- do before Wednesday board meeting |
+| HIGH | Email AHL directors -- AGM, audit, Ray Smith update | Director list in people_map.md |
+| HIGH | AHL board minutes -- April Teams meeting -- draft and send to Nicola | Email Nicola first to say minutes are coming |
+| HIGH | Mark Power -- send introductory email | Draft in people_map.md. mpower@powersolicitors.ie |
+| HIGH | Email BOI re MiDentalCare loan balance and personal guarantees | Before 26 June creditors' meeting |
+| HIGH | Reply to Michael Butler (liquidator) re fees | Before 26 June creditors' meeting |
+| MEDIUM | Meridian sales strategy -- discuss with Shane | Combined AI strategy across all ventures |
+| MEDIUM | Analyse Velocity AI website -- with Shane | Discuss Meridian website and business plan |
+| PERSONAL | Cancel ear wax / Blossom Gate appointment -- Thursday 25 June | John to cancel -- conflicts with UHL training in Dublin |
+| PERSONAL | Contact Robin Lee this weekend | Former boss, back operation, now home recovering |
 
 ---
 
@@ -21,7 +49,7 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 - **Current focus:** Tiered done-for-you EU AI Act compliance offering, positioned against software-only platforms
 - **Key channels:** Smacht network (300 Irish SMEs via Padraic O'Maille), professional referral partners (accountants, solicitors)
 - **Anchor deadline:** 2 August 2026 — compliance campaign launch
-- **Summit opportunity:** Expression of interest submitted for Innovation Spotlight at International AI Summit 2026 (14 October, RDS Dublin, ~1,500 attendees). Deadline: **24 June 2026 -- must be submitted before Westport trip (departs 21 June). Priority: done with Shane by Friday 20 June.**
+- **Summit opportunity:** Expression of interest for Innovation Spotlight at International AI Summit 2026 (14 October, RDS Dublin, ~1,500 attendees). Deadline tonight (22 June). John to submit with Shane tonight when home from Westport. URGENT.
 - **John's role:** Founder / Principal — commercial and governance lead
 - **Partner:** Shane McCarthy — technical architecture
 - **John's care level:** Highest — primary revenue vehicle for next 3 years
@@ -263,7 +291,7 @@ Note: Nothing yet signed and invoiced. August 2026 is the target to start genera
 ### UHL AGM and Accounts -- June/July 2026 timeline
 | Date | Event |
 |---|---|
-| 24 June 2026 | IT systems report to board (John attending via Teams) |
+| 24 June 2026 | UHL board meeting -- IT systems report (John attending via Teams from Westport, 10am-1pm) |
 | 30 June 2026 | Shop visit -- John cannot attend; send apologies |
 | 1 or 2 July 2026 | Audit & Risk Committee call: John, Michael O'Driscoll, Mazars, Dave Geoghegan. 1-1.5 hrs to review accounts. |
 | ~6 July 2026 | Board call via Teams -- present report to board |
@@ -314,7 +342,7 @@ Note: Accounts not ready by 24 June; expected approximately w/c 1 July.
 - **Decision (16 June 2026):** Proceeding on basis of True's interest and the live introduction.
 - **Brand name:** BarberTemp. Confirmed by John 16 June 2026. (Johnny's email domain is barberbarber.com -- separate from the BarberTemp brand name used in external documents.)
 - **Intro document:** Saved at barbertemp/true_global_intro_brief.md -- ready to send to Silvana Gracia.
-- **Call:** Tuesday 24 June 2026, 11:30-12:00. John and Johnny Shanahan with Silvana Gracia. 30-minute introductory conversation.
+- **Call:** Tuesday 23 June 2026, 11:30-12:00. John and Johnny Shanahan with Silvana Gracia. 30-minute introductory conversation.
 - **Call briefing:** barbertemp/true_global_call_brief_24june.md -- one-page brief for John and Johnny.
 
 ### Johnny Shanahan -- Intel for True Global Call (19 June 2026)

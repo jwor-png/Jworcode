@@ -1,6 +1,6 @@
 # True Global -- Call Brief
 **John Webb O'Rourke and Johnny Shanahan**
-Tuesday 24 June 2026 | 11:30 -- 12:00
+Tuesday 23 June 2026 | 11:30 -- 12:00
 
 ---
 
