@@ -21,7 +21,7 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 - **Current focus:** Tiered done-for-you EU AI Act compliance offering, positioned against software-only platforms
 - **Key channels:** Smacht network (300 Irish SMEs via Padraic O'Maille), professional referral partners (accountants, solicitors)
 - **Anchor deadline:** 2 August 2026 — compliance campaign launch
-- **Summit opportunity:** Expression of interest submitted for Innovation Spotlight at International AI Summit 2026 (14 October, RDS Dublin, ~1,500 attendees). Deadline: 24 June 2026.
+- **Summit opportunity:** Expression of interest NOT YET SENT for Innovation Spotlight at International AI Summit 2026 (14 October, RDS Dublin, ~1,500 attendees). Deadline: 24 June 2026. John to submit tonight.
 - **John's role:** Founder / Principal — commercial and governance lead
 - **Founding team and equity:**
   - Shane McCarthy — 60% (technical architecture and execution)

@@ -31,7 +31,7 @@ The August 2026 deadline under the EU AI Act is the selling event. Irish SMEs an
 - Professional referral partners: accountants and solicitors with board-level client relationships. They refer; Ambrion delivers.
 
 **Secondary channel:**
-- AI Summit 2026 (14 October, RDS Dublin, ~1,500 attendees). Expression of interest submitted for Innovation Spotlight. Deadline: 24 June 2026. This is profile-building and pipeline, not direct revenue.
+- AI Summit 2026 (14 October, RDS Dublin, ~1,500 attendees). Innovation Spotlight expression of interest NOT YET SENT -- deadline 24 June 2026. John to submit tonight. Profile-building and pipeline, not direct revenue.
 
 **Pricing model:**
 Value-based and project-based, not time-billed. Full tiered pricing structure to be agreed with Shane. Do not commit to price without Shane's alignment.
@@ -43,7 +43,7 @@ Value-based and project-based, not time-billed. Full tiered pricing structure to
 | Prospect / Partner | Stage | Last action | Next action | Owner |
 |---|---|---|---|---|
 | Padraic O'Maille / Smacht | 2 - Engaged | Galway meeting upcoming | Confirm meeting date; prepare Smacht-specific brief | John |
-| AI Summit 2026 (RDS) | 2 - Engaged | EOI submitted | Await response (deadline 24 June 2026) | John |
+| AI Summit 2026 (RDS) | 1 - Identified | EOI NOT YET SENT -- John to submit tonight | Submit EOI before 24 June 2026 deadline | John |
 | Professional referral network | 1 - Identified | Not yet initiated | Identify 5 target accountancy and law firms for outreach | John + Pat |
 
 ---
@@ -71,7 +71,7 @@ Value-based and project-based, not time-billed. Full tiered pricing structure to
 ## Open loops
 
 - Tiered pricing model not finalised -- requires Shane's input
-- Innovation Spotlight outcome pending (24 June 2026 deadline)
+- Innovation Spotlight EOI NOT YET SENT -- deadline is 24 June 2026. Submit tonight.
 - Galway meeting with Padraic O'Maille not yet confirmed
 - AI Summit full programme and speaker briefing: to be produced once EOI response received
 - Professional referral partner list: not yet built
