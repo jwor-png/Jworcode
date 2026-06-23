@@ -31,7 +31,8 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 |---|---|---|
 | TONIGHT | Ambrion Summit EOI -- submit Innovation Spotlight application | International AI Summit 14 Oct, RDS Dublin. Must do with Shane tonight (deadline) |
 | HIGH | Paul Candon agreement -- review, confirm agreement, commit to sign and return | Review his recent email; respond committing to sign |
-| HIGH | Email Eoin McGettigan (UHL Chairman) re audit delays and ARC view | UHL priority -- do before Wednesday board meeting |
+| DONE | Email Eoin McGettigan (UHL Chairman) re audit delays and ARC view | Sent 23 June 15:21 (Cc: Michael O'Driscoll). Eoin replied -- "very disappointing, time for a change, needs a special board meeting." Call tonight at 19:30. |
+| TONIGHT | Call with Eoin McGettigan -- UHL audit | 19:30. He's calling John. Key points: special board meeting, draft accounts by 2 July, board approval call 6 July, consider Mazars position. |
 | DONE | Email AHL directors -- AGM, audit update | Sent 22 June. Covered: BDO call, audit delay, 14 July call, AGM timing. |
 | HIGH | AHL board minutes -- April Teams meeting -- draft and send to Nicola | Confirmed to Nicola by iMessage 22 June -- will send in days ahead |
 | HIGH | Locate Smyth/Mulvey file at AHL office -- Thursday 25 June | Emmet Cooney held it. Nicola could not find it in April. Ray Smyth claims he agreed things with Emmet -- John questions this. Must find file before accepting any version of events. |
@@ -289,17 +290,18 @@ Articles and intelligence noted by John as potential opportunity threads for Mer
 
 Note: Nothing yet signed and invoiced. August 2026 is the target to start generating income.
 
-### UHL AGM and Accounts -- June/July 2026 timeline
+### UHL AGM and Accounts -- June/July 2026 timeline (updated 23 June 2026)
 | Date | Event |
 |---|---|
-| 24 June 2026 | UHL board meeting -- IT systems report (John attending via Teams from Westport, 10am-1pm) |
+| 23 June 2026 | John emailed Eoin McGettigan (Cc: Michael O'Driscoll) re audit delays. Eoin replied: "very disappointing, time for a change." Call tonight 19:30. |
+| 24 June 2026 | UHL board meeting -- IT systems report (John attending via Teams, 10am-1pm) |
 | 30 June 2026 | Shop visit -- John cannot attend; send apologies |
-| 1 or 2 July 2026 | Audit & Risk Committee call: John, Michael O'Driscoll, Mazars, Dave Geoghegan. 1-1.5 hrs to review accounts. |
-| ~6 July 2026 | Board call via Teams -- present report to board |
-| By 22 July 2026 | AGM notification and accounts must be circulated (7 days before AGM) |
+| 2 July 2026 | Draft accounts to be ready for ARC review |
+| 6 July 2026 | Board Teams call -- approve accounts, sign and send to membership for AGM |
+| By 22 July 2026 | AGM notification and accounts circulated (7 days before AGM) |
 | 29 July 2026 | UHL AGM -- Greene Isle Hotel, Dublin |
 
-Note: Accounts not ready by 24 June; expected approximately w/c 1 July.
+Note: Mazars did not have accounts ready for the June review as expected. Eoin McGettigan and John aligned: Mazars' failure to meet timelines to be addressed on 6 July -- "time for a change." Special board meeting may be required to approve accounts. John to send Mazars a note with ARC questions in advance of 6 July call. Michael O'Driscoll (ARC member): modriscoll@bandoncoop.ie
 
 ---
 

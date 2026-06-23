@@ -15,7 +15,7 @@
 ## Board and Governance Contacts
 
 ### United Hardware Limited
-- **Chairman:** Eoin McGettigan
+- **Chairman:** Eoin McGettigan -- eoin.mcgettigan@gmail.com. Called for "a change" re Mazars following John's 23 June audit email. Calling John tonight at 19:30.
 - **CEO:** Paul Candon
 - **CFO:** David Geoghegan (also managing AHL admin while Nicola is unavailable)
 - **Commercial Director:** David Shakeshaft
