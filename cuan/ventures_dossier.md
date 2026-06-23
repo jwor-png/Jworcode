@@ -309,13 +309,20 @@ Note: Accounts not ready by 24 June; expected approximately w/c 1 July.
 - **Rent:** €800,000 per annum from United Hardware.
 - **John's role:** Chairman / CEO. Board meets infrequently given the custodial nature of the company.
 - **Board:** Shane Felle, Joe Wallace, Eoin Lynch, John Smyth, Emmet Cooney.
-- **Company secretary:** Nicola Hegarty McMillan — recently appointed. Former employee of AHL and United Hardware; returned to Ireland for family circumstances. Whether she takes a full-time position with United Hardware is not yet known.
-- **Auditors:** BDO.
+- **Company secretary:** Nicola Hegarty McMillan -- recently appointed. Was in Dubai; has now returned home. Linda (Dave Geoghegan's office) filling in to complete audit work. Nicola expected back to AHL work in next few weeks.
+- **Auditors:** BDO. Audit partner: Simon Carbery (previously recorded as "Cadbury" -- corrected 22 June from John's own email).
 - **Declared interest:** John chairs AHL (landlord) and is INED at UHL (tenant). This interest is declared and accepted at the UHL board. Other AHL member directors are also member directors of United Hardware. Works well in practice.
 
 ### Live workstreams
 1. **Fire compliance works** -- ongoing improvements at Magna Park. United Hardware arranges the works; AHL gives credits for the cost (circa €110,000) against the annual rent of €800,000.
-2. **2025 audit** -- UHL Chairman rang John evening of 18 June; John rang back. Video call arranged regarding AHL 2025 audit. Under control. Nicola liaising with BDO on preparation and completion.
+2. **2025 audit (updated 22 June 2026)** -- Audit delayed ~4-6 weeks due to Nicola being in Dubai (now home). Linda filling in. BDO call held 22 June with Dave Geoghegan and Linda. Further call scheduled 14 July with Simon Carbery (BDO) for audit completion.
+
+### AHL AGM -- updated position (22 June 2026)
+- AGM will be later than planned owing to audit delay
+- Simon Carbery (BDO) suggested September -- John disagreed
+- John's position: hold AGM as soon as audit allows -- use it as the member/shareholder meeting to get consensus on whether to consider a sale of the Magna Park premises or not
+- Letter to go to members inviting them to attend or signify their interest
+- Board update email sent 22 June to: Shane Felle, Joe Wallace, Eoin Lynch, John Smyth, Emmet Cooney
 
 ---
 
