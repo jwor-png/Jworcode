@@ -794,7 +794,10 @@ Sessions rotate between Tuesday, Wednesday, and Thursday. Times alternate mornin
 - **Bank of Ireland facilities:** company borrowings personally guaranteed by Paul Candon and Niamh Webb O'Rourke. John engaging directly with Bank of Ireland to assume responsibility -- see Paul Candon Matter.
 - **Fees:** Michael Butler demanded balance of fees before Friday 26 June. John lodged €370 (newspaper ad costs) 17 June -- asked Butler to confirm receipt (23 June).
 - **Statement of Affairs (23 June 2026):** Butler asked if Niamh or Paul are owed wages, expenses, or loans into company -- should they be in the Statement of Affairs? John confirmed: No -- neither is owed anything. Paul lent funds personally to John; John is listed as the creditor for those funds in the Creditors List.
-- **Llewellyn Farquharson / Sremium:** Has been pushing aggressively for personal contributions to liquidation costs from John and Paul. John confirmed to Paul: no legal basis under the Companies Act. Paul to ignore Llewellyn going forward.
+- **Llewellyn Farquharson / Sremium:** Pushing aggressively for personal contribution to fees. Called John three times today -- John did not answer. Aggressive language: "are you hiding?" John's position: correctly not engaging with aggression, dealing through Butler only.
+- **John's legal position on fees (email today, 23 June):** No engagement letter, no fee agreement, no funding arrangement with Butler & Co. Engagement came through Sremium -- no basis for personal liability as director. Company bears the cost from its own property. Not in a financial position to fund personally in any event. Not an objection to Butler's appointment.
+- **Meeting confirmed:** Hotel paid by John. John will attend Friday 26 June, sign resolutions and Statement of Affairs, fulfil all director obligations. Butler confirmed he has what is needed for the meeting to proceed.
+- **Open:** Butler fee balance still unresolved -- Butler says it must be paid before Friday. John's position: will not pay personally. To be resolved from company assets.
 
 ---
 
