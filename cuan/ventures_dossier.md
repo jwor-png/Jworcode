@@ -39,6 +39,7 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 | DONE | Mark Power -- send introductory email | Sent 22 June 16:39. Awaiting response. |
 | HIGH | Email BOI re MiDentalCare loan balance and personal guarantees | Before 26 June creditors' meeting |
 | DONE | Reply to Michael Butler (liquidator) | Replied 23 June re Statement of Affairs -- confirmed Paul and Niamh owed nothing; John is the creditor. Asked Butler to confirm €370 receipt. |
+| MEDIUM | Jurgen / Cuan bridge -- discuss with Shane | Build a connection so Jurgen outputs flow into Cuan without manual screenshots. Google Drive MCP is the suggested path. WhatsApp message drafted for John to send Shane. |
 | MEDIUM | Meridian sales strategy -- discuss with Shane | Combined AI strategy across all ventures |
 | MEDIUM | Analyse Velocity AI website -- with Shane | Discuss Meridian website and business plan |
 | PERSONAL | Cancel ear wax / Blossom Gate appointment -- Thursday 25 June | John to cancel -- conflicts with UHL training in Dublin |
