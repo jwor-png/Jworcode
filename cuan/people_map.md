@@ -28,10 +28,10 @@
 ### AHL PLC
 - **John's role:** Chairman / CEO (landlord side of the Magna Park lease to UHL — interest declared and accepted at UHL board)
 - **Board:** Shane Felle, Joe Wallace, Eoin Lynch, John Smyth, Emmet Cooney
-- **Company secretary:** Nicola Hegarty McMillan -- was in Dubai; now returned home. Linda (Dave Geoghegan's office) covering her workload in the interim. Nicola expected back to AHL work within next few weeks.
-- **Auditors:** BDO. Audit partner: Simon Carbery (corrected from "Cadbury" -- confirmed from John's own email 22 June 2026). 2025 audit delayed ~4-6 weeks.
+- **Company secretary:** Nicola Hegarty McMillan -- was in Dubai; now returned home. Linda (Dave Geoghegan's office) covering her workload in the interim. Nicola expected back to AHL work within next few weeks. Personal email: n.hegarty@hotmail.com
+- **Auditors:** BDO. Audit partner: Simon Carbery (corrected from "Cadbury" -- confirmed from John's own email 22 June 2026). 2025 audit delayed ~4-6 weeks. Linda has most remaining items; a few need a talk with Dave Geoghegan.
 - **Cuan notes:** Several AHL member directors are also member directors of United Hardware.
-- **Ray Smith matter:** AHL member making a claim for faulty product. His company owes AHL €100,000 as a debtor. Set-off situation. Actions: John to speak to Ray Smith and advise board formally on his Chairman/CEO role in this matter.
+- **Ray Smyth matter (updated 22 June 2026):** AHL member making a claim for faulty product. His company owes AHL €100,000 as a debtor. Set-off situation. Smyth is claiming he discussed and agreed things with Emmet Cooney -- John seriously questions this. A Smyth/Mulvey file should exist in the AHL office (Emmet Cooney held it). Nicola looked in April and could not find it. John going to Dublin Thursday 25 June -- priority action: locate the Smyth/Mulvey file at the AHL office. Do not accept Smyth's version of events until the file is found and reviewed.
 
 ---
 

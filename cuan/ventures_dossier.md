@@ -32,9 +32,10 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 | TONIGHT | Ambrion Summit EOI -- submit Innovation Spotlight application | International AI Summit 14 Oct, RDS Dublin. Must do with Shane tonight (deadline) |
 | HIGH | Paul Candon agreement -- review, confirm agreement, commit to sign and return | Review his recent email; respond committing to sign |
 | HIGH | Email Eoin McGettigan (UHL Chairman) re audit delays and ARC view | UHL priority -- do before Wednesday board meeting |
-| HIGH | Email AHL directors -- AGM, audit, Ray Smith update | Director list in people_map.md |
-| HIGH | AHL board minutes -- April Teams meeting -- draft and send to Nicola | Email Nicola first to say minutes are coming |
-| HIGH | Mark Power -- send introductory email | Draft in people_map.md. mpower@powersolicitors.ie |
+| DONE | Email AHL directors -- AGM, audit update | Sent 22 June. Covered: BDO call, audit delay, 14 July call, AGM timing. |
+| HIGH | AHL board minutes -- April Teams meeting -- draft and send to Nicola | Confirmed to Nicola by iMessage 22 June -- will send in days ahead |
+| HIGH | Locate Smyth/Mulvey file at AHL office -- Thursday 25 June | Emmet Cooney held it. Nicola could not find it in April. Ray Smyth claims he agreed things with Emmet -- John questions this. Must find file before accepting any version of events. |
+| DONE | Mark Power -- send introductory email | Sent 22 June 16:39. Awaiting response. |
 | HIGH | Email BOI re MiDentalCare loan balance and personal guarantees | Before 26 June creditors' meeting |
 | HIGH | Reply to Michael Butler (liquidator) re fees | Before 26 June creditors' meeting |
 | MEDIUM | Meridian sales strategy -- discuss with Shane | Combined AI strategy across all ventures |
