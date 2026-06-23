@@ -38,7 +38,7 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 | HIGH | Locate Smyth/Mulvey file at AHL office -- Thursday 25 June | Emmet Cooney held it. Nicola could not find it in April. Ray Smyth claims he agreed things with Emmet -- John questions this. Must find file before accepting any version of events. |
 | DONE | Mark Power -- send introductory email | Sent 22 June 16:39. Awaiting response. |
 | HIGH | Email BOI re MiDentalCare loan balance and personal guarantees | Before 26 June creditors' meeting |
-| HIGH | Reply to Michael Butler (liquidator) re fees | Before 26 June creditors' meeting |
+| DONE | Reply to Michael Butler (liquidator) | Replied 23 June re Statement of Affairs -- confirmed Paul and Niamh owed nothing; John is the creditor. Asked Butler to confirm €370 receipt. |
 | MEDIUM | Meridian sales strategy -- discuss with Shane | Combined AI strategy across all ventures |
 | MEDIUM | Analyse Velocity AI website -- with Shane | Discuss Meridian website and business plan |
 | PERSONAL | Cancel ear wax / Blossom Gate appointment -- Thursday 25 June | John to cancel -- conflicts with UHL training in Dublin |
@@ -787,12 +787,14 @@ Sessions rotate between Tuesday, Wednesday, and Thursday. Times alternate mornin
 
 ## MiDentalCare Limited
 - **Status:** Creditors' Voluntary Liquidation under Companies Act 2014
-- **Liquidator:** Michael Butler (proposed)
-- **John's connection:** Director
-- **Key note:** Communication runs through Butler directly — Llewellyn Farquharson holds no authority in this process
-- **Two directors resigned 7 May 2025** (12-month window to 7 May 2026). Director 1: Paul Candon. Director 2: Niamh Webb O'Rourke (John's daughter). John is now the sole director.
-- **Creditors' meeting:** Friday 26 June 2026, 10:30am, Plaza Hotel, Tallaght, Dublin 24. Creditors' notices issued 11 June 2026.
-- **Bank of Ireland facilities:** company borrowings personally guaranteed by Paul Candon and Niamh Webb O'Rourke. John is engaging directly with Bank of Ireland to assume responsibility — see Paul Candon Matter.
+- **Liquidator:** Michael Butler (proposed) -- michael@butlerandco.ie
+- **John's connection:** Director (sole director -- Paul Candon and Niamh resigned 7 May 2025)
+- **Key note:** Communication runs through Butler directly -- Llewellyn Farquharson (Sremium) holds no authority in this process
+- **Creditors' meeting:** Friday 26 June 2026, 10:30am, Plaza Hotel, Tallaght, Dublin 24. Creditors' notices issued 11 June 2026. Shane attending to support John.
+- **Bank of Ireland facilities:** company borrowings personally guaranteed by Paul Candon and Niamh Webb O'Rourke. John engaging directly with Bank of Ireland to assume responsibility -- see Paul Candon Matter.
+- **Fees:** Michael Butler demanded balance of fees before Friday 26 June. John lodged €370 (newspaper ad costs) 17 June -- asked Butler to confirm receipt (23 June).
+- **Statement of Affairs (23 June 2026):** Butler asked if Niamh or Paul are owed wages, expenses, or loans into company -- should they be in the Statement of Affairs? John confirmed: No -- neither is owed anything. Paul lent funds personally to John; John is listed as the creditor for those funds in the Creditors List.
+- **Llewellyn Farquharson / Sremium:** Has been pushing aggressively for personal contributions to liquidation costs from John and Paul. John confirmed to Paul: no legal basis under the Companies Act. Paul to ignore Llewellyn going forward.
 
 ---
 
