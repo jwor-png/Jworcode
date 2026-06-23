@@ -139,13 +139,42 @@
 
 ---
 
+## MiDentalCare CVL -- Key Contacts
+
+### Michael Butler
+- **Company:** Butler & Co
+- **Email:** michael@butlerandco.ie
+- **Role:** Proposed liquidator / liquidator of MiDentalCare Limited
+- **Status:** Fees demanded -- balance due before Friday 26 June 2026. John transferred €370 initial payment 17 June. Outstanding balance to be resolved.
+- **Cuan notes:** All MiDentalCare CVL communications run through Michael Butler only. Llewellyn Farquharson (Sremium) has no authority.
+
+### Llewellyn Farquharson
+- **Company:** Sremium (llewellyn@sremium.com)
+- **Role:** Unknown -- involved in MiDentalCare CVL, no authority to act
+- **Behaviour:** Pushing aggressively for personal contributions to liquidation costs from Paul Candon and John. John's position: no legal basis under Companies Act.
+- **Cuan notes:** Do not engage with Llewellyn directly. Communications through Michael Butler only.
+
+### Sean O'Dwyer (likely)
+- **Company:** Sremium (sean@sremium.com)
+- **Role:** Likely the principal at Sremium driving pressure on Paul Candon and John re liquidation costs
+- **Cuan notes:** Paul Candon believes pressure is coming from Sean. Conflict check required before Mark Power can take on any CVL work (see Mark Power entry).
+
+### Ger Blake
+- **Email:** ger@dsb.ie
+- **Role:** Trusted advisor to John on MiDentalCare liquidation fees and process
+- **View (12 June 2026):** Liquidator fee is twice what Mike Daly would have charged. No basis for accounts prep fees given 2024 statutory accounts unpaid. Advised John to push back strongly.
+
+---
+
 ## Open / Unresolved
 
 ### Paul Candon (personal matter)
-- Separate from his UHL CEO role — clause 7 of the loan agreement explicitly records it as a personal arrangement
+- Separate from his UHL CEO role -- clause 7 of the loan agreement explicitly records it as a personal arrangement
+- Personal email: paul.candon67@gmail.com
 - Lender to John: €208,000 restated loan (originally 2 November 2023, applied to MiDentalCare). Full terms in ventures_dossier.md.
 - Also holds a personal guarantee on MiDentalCare's Bank of Ireland facilities, alongside Niamh
 - Resolution: repayment in full on or before 31 December 2026; John assumes the Bank of Ireland facilities directly
+- MiDentalCare position (June 2026): Llewellyn Farquharson (Sremium) has been pushing Paul to contribute personally to liquidation costs. John's advice to Paul: no legal basis under the Companies Act -- costs payable out of company property. Paul agreed to ignore Llewellyn going forward. Suspects pressure is coming from Sean (O'Dwyer) at Sremium.
 - Cuan notes: Paul is simultaneously John's personal lender, a former MiDentalCare director and guarantor, and CEO of UHL where John chairs Audit & Risk. Keep the three relationships cleanly separated in all documents and communications.
 
 ### Pat McGrath
