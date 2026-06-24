@@ -36,7 +36,7 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 | DONE | Email AHL directors -- AGM, audit update | Sent 22 June. Covered: BDO call, audit delay, 14 July call, AGM timing. |
 | HIGH | AHL board minutes -- April Teams meeting -- draft and send to Nicola | Confirmed to Nicola by iMessage 22 June -- will send in days ahead |
 | HIGH | Locate Smyth/Mulvey file at AHL office -- Thursday 25 June | Emmet Cooney held it. Nicola could not find it in April. Ray Smyth claims he agreed things with Emmet -- John questions this. Must find file before accepting any version of events. |
-| DONE | Mark Power -- send introductory email | Sent 22 June 16:39. Awaiting response. |
+| HIGH | Mark Power -- book a call next week | He replied 24 June 08:12: "I would be delighted to assist you in any way I can. I am generally available next week." John to confirm a day -- Monday or Tuesday 10am suggested. |
 | HIGH | Email BOI re MiDentalCare loan balance and personal guarantees | Before 26 June creditors' meeting |
 | DONE | Reply to Michael Butler (liquidator) | Replied 23 June re Statement of Affairs -- confirmed Paul and Niamh owed nothing; John is the creditor. Asked Butler to confirm €370 receipt. |
 | MEDIUM | Jurgen / Cuan bridge -- discuss with Shane | Build a connection so Jurgen outputs flow into Cuan without manual screenshots. Google Drive MCP is the suggested path. WhatsApp message drafted for John to send Shane. |
