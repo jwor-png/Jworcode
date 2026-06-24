@@ -782,6 +782,17 @@ Sessions rotate between Tuesday, Wednesday, and Thursday. Times alternate mornin
 
 ---
 
+## Old Mill, Julianstown -- Site Sale
+- **What it is:** Property site sale. John has a financial interest in the proceeds.
+- **Solicitor:** Micheal, Glynn's Solicitors Limerick
+- **Other parties:** Michael Durkan and John Lynch -- co-parties to the sale; final statement and distribution to be agreed with their agreement and understanding
+- **Planning status (24 June 2026):** RFI (Request for Further Information) replied to recently. Planning decision expected in coming weeks. Favourable outcome expected. Sale proceeds to completion as soon as possible thereafter.
+- **John's action (24 June):** Emailed Micheal to review the file and agree next steps. Second email same day asking accounts to send details of funds paid and payouts so John can prepare a final statement for Durkan and Lynch.
+- **Intended use of proceeds:** Pay Paul Candon -- upfront gesture (€5k-€10k) and toward the €208,000 balance. This is John's primary near-term payment source for that obligation.
+- **Sensitivity:** High. Internal only.
+
+---
+
 ## Bantry Property
 - **What it is:** John coordinates a property project at 11 Cois Riasc, Bantry, Co. Cork on behalf of a family member
 
