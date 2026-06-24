@@ -22,8 +22,8 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 | Tuesday | 23 June | BDO call -- AHL 2025 audit prep | Time TBC -- before 11:30am |
 | Tuesday | 23 June | True Global call -- Johnny Shanahan + Silvana Gracia | 11:30am-12pm. Brief at barbertemp/true_global_call_brief_24june.md |
 | Wednesday | 24 June | UHL board meeting -- IT systems report | 10am-1pm via Teams (attending from Westport) |
-| Thursday | 25 June | UHL training -- Dublin, with Shane | 9:30am-1pm |
-| Friday | 26 June | MiDentalCare creditors' meeting -- Plaza Hotel, Tallaght | 10:30am. Shane attending to support John. |
+| Thursday | 25 June | UHL training -- Ambrion AI, with Shane, UHL premises Dublin | 9:30am-1pm. Overnight Dublin Thursday night. |
+| Friday | 26 June | MiDentalCare creditors' meeting -- Plaza Hotel, Tallaght | 10:30am. Shane attending. Flows from Thursday overnight. |
 
 ## Action List -- Week of 22 June 2026
 
@@ -263,9 +263,10 @@ Articles and intelligence noted by John as potential opportunity threads for Mer
 ### UHL Training -- Detail (updated 16 June 2026)
 - **Contact:** Paul Candon (CEO, UHL) -- engaged directly by Shane
 - **Documents sent:** ambrion_claude_briefing.pdf ("The Chief Intelligence Architect / CEO") and ambrion_cia_briefing.pdf ("Setting up your Claude as a CEO") -- sent by Shane 22 May 2026
+- **Delivering entity:** Ambrion AI (John and Shane)
 - **Training framing:** Audit everything top to bottom; then design what the future operating model could look like
-- **First session agreed: morning of 25 June 2026, UHL premises, Dublin**
-- **Status:** Confirmed and in the diary.
+- **First session: Thursday 25 June 2026, UHL premises, Dublin, 9:30am-1pm**
+- **Status:** Confirmed and in the diary. John and Shane staying overnight Dublin Thursday -- flows directly into MiDentalCare creditors' meeting Friday 10:30am.
 
 ### Property Properly -- Detail (added 16 June 2026)
 - **Company:** Property Properly
