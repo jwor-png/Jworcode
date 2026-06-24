@@ -841,7 +841,18 @@ Sessions rotate between Tuesday, Wednesday, and Thursday. Times alternate mornin
 - Executing is a deliberate choice: the alternative is High Court proceedings and a conflict question over the UHL position. John judges execution the best available course, and the deadline is a driver for making the AI businesses successful in the short window available.
 - **Standing flag:** if a PIA path is ever activated, this agreement must be reviewed by an insolvency practitioner first.
 
+### Upfront payment ask (Paul's 17 June email)
+Paul asked for €5,000-€10,000 upfront as a gesture of good faith before signing. John has not yet responded to this ask. John's position (24 June 2026): payment will come from completion fees on the Old Mill, Julianstown property sale, contingent on planning permission being granted in the coming weeks. Planning is considered likely. John to address this with Paul directly when handing over the signed agreement tomorrow at UHL.
+
+### Old Mill, Julianstown -- payment source
+- **What it is:** Property sale. Fees due to John on completion.
+- **Trigger:** Planning permission -- expected to be granted in coming weeks, considered likely.
+- **John's intent:** Use these fees to pay Paul Candon (upfront gesture and/or toward the €208,000 balance).
+- **Status:** Contingent -- not yet received. To be tracked.
+
 ### Key dates
 - 11 June 2026 — MiDentalCare creditors' notices issued
 - Week of 15 June 2026 — loan agreement execution expected
+- 17 June 2026 — Paul emailed with Jason Harte's one amendment and upfront payment ask
+- 24 June 2026 -- John making one amendment tonight, printing and signing, handing to Paul tomorrow at UHL
 - Friday 26 June 2026, 10:30am — MiDentalCare creditors' meeting, Plaza Hotel, Tallaght, Dublin 24
