@@ -266,7 +266,7 @@ Articles and intelligence noted by John as potential opportunity threads for Mer
 - **Delivering entity:** Ambrion AI (John and Shane)
 - **Training framing:** Audit everything top to bottom; then design what the future operating model could look like
 - **First session: Thursday 25 June 2026, UHL premises, Dublin, 9:30am-1pm**
-- **Status:** Confirmed and in the diary. John and Shane staying overnight Dublin Thursday -- flows directly into MiDentalCare creditors' meeting Friday 10:30am.
+- **Status:** Confirmed and in the diary. Shane has slides prepared. John and Shane staying overnight Dublin Thursday -- flows directly into MiDentalCare creditors' meeting Friday 10:30am.
 
 ### Property Properly -- Detail (added 16 June 2026)
 - **Company:** Property Properly
