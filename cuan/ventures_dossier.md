@@ -260,13 +260,16 @@ Articles and intelligence noted by John as potential opportunity threads for Mer
 - **Status (updated 17 June 2026):** Proposal approved with conditions. First €10,000 approved. Shane received confirmation from Rory and Pat on the evening of 16 June. Full conditions and payment terms not yet confirmed -- John to speak to Shane to understand both. Rory and Pat attend Golden Generation Session 5 tomorrow (18 June, 14:30) -- conditions may become clearer in conversation.
 - **Next step:** Call or message Shane before Session 5 to understand payment terms and what the conditions are. Use tomorrow's session to advance the relationship and learn more if the conversation opens naturally.
 
-### UHL Training -- Detail (updated 16 June 2026)
-- **Contact:** Paul Candon (CEO, UHL) -- engaged directly by Shane
-- **Documents sent:** ambrion_claude_briefing.pdf ("The Chief Intelligence Architect / CEO") and ambrion_cia_briefing.pdf ("Setting up your Claude as a CEO") -- sent by Shane 22 May 2026
-- **Delivering entity:** Ambrion AI (John and Shane)
-- **Training framing:** Audit everything top to bottom; then design what the future operating model could look like
-- **First session: Thursday 25 June 2026, UHL premises, Dublin, 9:30am-1pm**
-- **Status:** Confirmed and in the diary. Shane has slides prepared. John and Shane staying overnight Dublin Thursday -- flows directly into MiDentalCare creditors' meeting Friday 10:30am.
+### UHL Training -- Detail (updated 25 June 2026)
+- **Day-to-day contact:** Maya Gough -- maya.gough@unitedhardware.ie (L&D coordinator)
+- **Senior sponsor:** Paul Candon (CEO)
+- **Delivering entity:** Ambrion AI. Shane: shane.mc@ambrion.ai. John: jwebr@ambrion.ai
+- **Programme:** Three half-day workshops across three consecutive months. Structured integration arc.
+- **Session 1 (25 June -- DONE):** "Foundations: When We Goal and What AI Actually Is." In-person, UHL Citywest offices, 9:30am-1pm. Up to 20 senior leaders. Facilitator: Shane McCarthy. Attendees: Paul Candon, David Geoghegan, Robert McCarthy, Hang Zhao, Maria O'Flaherty, Sharon Lancaster, Mark Freeman, Fergus Holohan, Shane McCarthy.
+- **Session 2 (Date TBC):** "Deepening Understanding: applying AI within role and context." Virtual. Maya to confirm at Monday management meeting.
+- **Session 3 (Date TBC):** "Pulling It to Work: implementation and sustained adoption."
+- **Ingestion form:** https://uhl-aitraining-ingestion-form.netlify.app/
+- **Skillnet opportunity:** Raised post Session 1. Draft email to Maya re Retail Ireland Skillnet and Technology Ireland Digital Skillnet -- ready to send.
 
 ### Property Properly -- Detail (added 16 June 2026)
 - **Company:** Property Properly

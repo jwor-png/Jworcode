@@ -19,6 +19,8 @@
 - **CEO:** Paul Candon
 - **CFO:** David Geoghegan -- david.geoghegan@unitedhardware.ie -- mobile 087 6414172 (also managing AHL admin while Nicola is unavailable)
 - **Commercial Director:** David Shakeshaft
+- **L&D / Training Coordinator:** Maya Gough -- maya.gough@unitedhardware.ie. Organising the Ambrion AI training programme. First contact with Shane 15 June 2026. Session 1 confirmed 25 June (Citywest, in-person). Session 2 virtual -- TBC.
+- **Session 1 attendees (from Maya's email):** Paul Candon, David Geoghegan, Robert McCarthy, Hang Zhao, Maria O'Flaherty, Sharon Lancaster, Mark Freeman, Fergus Holohan, Shane McCarthy
 - **Audit & Risk Committee:** John (Chair), Michael O'Driscoll
 - **Auditors:** Mazars
 - **John's role:** INED and Chair, Audit & Risk Committee
