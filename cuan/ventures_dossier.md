@@ -14,7 +14,31 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 4. Legacy financial resolution
 5. Selective property and healthcare -- only where highly aligned and near-term
 
-## Week Ahead -- 22 June 2026
+## This Week -- 29 June 2026 (Monday)
+
+Focus set by John 29 June: get everything moving, personal and professional. Drive Ambrion AI and Meridian sales as the priority, in parallel with Shane. Live sales surface: `meridian/sales_orchestration_live.md`.
+
+| Day | Date | Event | Notes |
+|---|---|---|---|
+| Tuesday | 30 June | Golden Generation Session 6 | 11:00-12:30 |
+
+*Calendar for the rest of the week to be confirmed by John.*
+
+### Open Loops -- carried into week of 29 June
+
+| Priority | Action | Notes |
+|---|---|---|
+| HIGH | Confirm Mark Power call day/time | He is available all this week; Mon or Tue 10am suggested. John to pick and confirm. |
+| HIGH | Send Skillnet email to Maya Gough | Drafted and ready. Unlocks training-cost offset for UHL Sessions 2 and 3. |
+| HIGH | Drive Ambrion / Meridian sales orchestration | Refresh pipeline values, set Friday review cadence with Shane, decide which Score 5 targets John opens this week. See live surface. |
+| HIGH | AHL April board minutes -- draft and send to Nicola | Confirmed to Nicola 22 June. Still open. |
+| HIGH | Locate Smyth/Mulvey file at AHL office | Emmet Cooney held it. Status unknown after 25 June. |
+| MEDIUM | UHL board papers for 29 July AGM | John to share content for review when able. ARC review 2 July, board approval call 6 July -- accounts must be ready before. |
+| MEDIUM | Jurgen / Cuan bridge | WhatsApp to Shane drafted. Google Drive MCP suggested path. |
+| MEDIUM | MiDentalCare follow-through | Chairman's statement finalisation parked at John's instruction 29 June. Paul O'Brien query dealt with. |
+| PERSONAL | Contact Robin Lee | Former boss, recovering from back operation. |
+
+## Week Archive -- 22 June 2026
 
 | Day | Date | Event | Notes |
 |---|---|---|---|
