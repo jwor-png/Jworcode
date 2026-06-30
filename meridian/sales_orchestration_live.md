@@ -6,6 +6,24 @@
 ## The spine (Shane, 17 June 2026)
 Detect exposure -- target the company carrying it -- convert -- design the remedy. The sales orchestration is the connective tissue through all four. The EU AI Act deadline (2 August 2026) is the clearest live exposure signal. 34 days out.
 
+## Independent strategic read -- Derry Gray (30 June 2026)
+*Unprompted diagnosis from Derry Gray (ex-Managing Partner BDO Dublin), sent ahead of a discussion with John and Shane. Source-tagged VERIFIED (Derry's own message, captured from screen). It validates, from a completely independent direction, the signal-overload and surface-area conclusions already in `cuan/operating_system.md`. Treat as a real steer, not noise.*
+
+Derry's core point, in his words: "You built a distribution infrastructure (which is excellent) but you're trying to run it manually. Two people can't execute a 91 target, 3 wave, 6 sector outreach campaign while also building products, running content, and doing everything else."
+
+His prescription:
+- **Shrink the target list dramatically.** Stop chasing volume, start being surgical.
+- **Pick 4 to 6 products max.** Get them onto one or two pagers that are dead simple.
+- **Find distribution models and network leverage points** so outreach is not linear, one email at a time.
+- **Make every touch count** so John and Shane can run this in focused 2-hour blocks, not full days.
+- He is ready for the discussion with John and Shane: "What do you want to tackle first?"
+
+The one-sentence version: **"You have built too much surface area for two humans to operate manually."**
+
+Why it matters here: this is a third, independent voice (Derry) landing on the same place as Shane's "discipline is the product" and the Diagnostic-first instinct. It is direct evidence for resolving **Build Decision 2** in favour of the narrow, dead-simple front door (one or two pagers, 4-6 products) rather than the broad campaign. It also argues for cutting the Score 5 outreach list down hard before any push restarts.
+
+---
+
 ## Operating rhythm
 - **John:** conversion layer. Walks into the room when exposure is detected and the target is identified. Relationships, IMI/Ibec/IoD leverage, board-level credibility.
 - **Shane:** engine room. Outreach, delivery, content, the orchestration build.
