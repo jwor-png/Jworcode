@@ -155,6 +155,12 @@ The conclusion: the objective is not to build a life around work. It is to build
 
 **The commercial thesis hiding in this.** Human-centred executive augmentation for experienced people, especially post-60 and semi-retired professionals (Derry's cohort), is not only John's personal need. It is the Golden Generation market thesis stated from a new angle: experience amplified, life intentionally ordered, contribution continued without burnout. What John builds for himself with Shane is the prototype for what Ambrion, Meridian and the Golden Generation programme can sell to that cohort. Personal build and product thesis are the same insight.
 
+### The Professional Career Orchestration Layer (added 30 June 2026)
+John flagged a priority the personal/life framing does not by itself cover: he needs to plan and plot his evolving AI professional career with Shane, and lay structure across all elements and businesses. So the infrastructure has two sides that sit together:
+- **Life-continuity side** (personal): family, health, relationships, rest, the human stewardship, the intelligent life architecture above.
+- **Professional Career Orchestration Layer** (commercial): John's AI career is not a single role, it is an evolving ecosystem across Ambrion AI, Velocity AI, Meridian, the AHL and UHL board roles, and future ventures. Unless it is intentionally structured it risks becoming fragmented, reactive and dependent on constant mental juggling. This layer plots and sequences that career across all the businesses, and it maps directly onto `business_architecture.md`, which is already the portfolio spine it would orchestrate.
+The full system serves both: a life deliberately ordered, and a career deliberately structured. Neither at the expense of the other.
+
 **The honest destination:** an AI-supported human executive life system. Not replacement, not cold automation, but governed augmentation of memory, relationships, operations and executive continuity. Reducing forgotten follow-ups, silent drift, missed human moments, cognitive overload and relationship fragmentation. The analysis notes this would likely improve not just John's productivity but his mental state. That is the real purpose, and it is squarely Cuan's.
 
 ## How this lands against Cuan (note for John)
