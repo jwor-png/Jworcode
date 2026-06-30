@@ -159,6 +159,10 @@ The conclusion: the objective is not to build a life around work. It is to build
 John flagged a priority the personal/life framing does not by itself cover: he needs to plan and plot his evolving AI professional career with Shane, and lay structure across all elements and businesses. So the infrastructure has two sides that sit together:
 - **Life-continuity side** (personal): family, health, relationships, rest, the human stewardship, the intelligent life architecture above.
 - **Professional Career Orchestration Layer** (commercial): John's AI career is not a single role, it is an evolving ecosystem across Ambrion AI, Velocity AI, Meridian, the AHL and UHL board roles, and future ventures. Unless it is intentionally structured it risks becoming fragmented, reactive and dependent on constant mental juggling. This layer plots and sequences that career across all the businesses, and it maps directly onto `business_architecture.md`, which is already the portfolio spine it would orchestrate.
+The Career Orchestration Layer breaks into tracks, structured strategically not randomly:
+- **Capability Development:** AI learning goals, tools to master, concepts to understand, agent systems, governance developments, implementation frameworks.
+- **Commercial Positioning:** speaking opportunities, LinkedIn strategy, governance positioning, relationship expansion.
+
 The full system serves both: a life deliberately ordered, and a career deliberately structured. Neither at the expense of the other.
 
 **The honest destination:** an AI-supported human executive life system. Not replacement, not cold automation, but governed augmentation of memory, relationships, operations and executive continuity. Reducing forgotten follow-ups, silent drift, missed human moments, cognitive overload and relationship fragmentation. The analysis notes this would likely improve not just John's productivity but his mental state. That is the real purpose, and it is squarely Cuan's.
