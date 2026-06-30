@@ -96,6 +96,15 @@ The read: the pages are not disorganised. They operate as **a live executive sig
 
 **Why this matters for Cuan:** if Cuan becomes the brain-dump capture layer, these signal categories are the schema it classifies against. The taxonomy is not theoretical; it is drawn from John's own pages.
 
+### The diagnosis, and the conclusion
+The pages are not journals. They are **raw executive telemetry**, a continuous operational signal. The real problem is not lack of discipline, ideas or intelligence. It is **signal fragmentation**: valuable strategic cognition scattered across notebooks, voice notes, WhatsApps, thoughts, meetings, conversations, late-night thinking and random captures, with nothing capturing, structuring, ranking or orchestrating it. Closing that gap is the opportunity.
+
+So the future system must not be a note-taking app or a productivity system. It must be **a Signal Orchestration Engine**. When John photographs or voice-captures notes, it should automatically detect the **category**, using this working tag set:
+
+> AI Infrastructure | Governance | Client Opportunity | Shane Discussion | Revenue | Operations | Personal | Risk | Follow Up
+
+Combined with the urgency tags from the brain-dump design (Immediate / This week / Parked / Strategic), that is the **operational capture taxonomy for Cuan**: the actual labels I sort each captured thought into. It is more execution-ready than the five descriptive signal categories above, and the two map onto each other cleanly.
+
 ## How this lands against Cuan (note for John)
 
 This document is, in substance, a blueprint for what Cuan already is and where it should grow:
