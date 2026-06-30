@@ -1,33 +1,46 @@
-# One-Page Infrastructure Summary for Shane
-*WhatsApp-ready. Drafted 30 June 2026 for John to send Shane as a discussion starter. Not a commitment, a shared starting point.*
+# Personalised Executive Infrastructure -- One-Pager for Shane
+*John's chosen one-page summary to share with Shane McCarthy (drafted with the Council, captured 30 June 2026). This is the version John selected. A Cuan note for John's eyes only is at the foot, below the line.*
 
 ---
 
-Shane, here's the shape of the personal and professional infrastructure I want us to build, and why. It's one page so we have a common picture to work from.
+**PERSONALISED EXECUTIVE INFRASTRUCTURE**
+John Webb O'Rourke -- Working Direction with Shane McCarthy
 
-What it is. Not task management. A governed executive infrastructure built around how I actually think, covering both my private life and my professional career in AI and my evolving board roles (AHL, UHL), with agent support underneath it.
+**Core Observation**
+My notebooks, voice notes and random captures are not simply task lists. They are live executive signal streams covering: personal relationships and stewardship; commercial opportunities; governance and board responsibilities; AI strategy and infrastructure ideas; family matters and obligations; property and operational oversight; professional follow-ups and networking; strategic thinking and implementation concepts.
+The issue is not lack of organisation. It is fragmentation of signal across notebooks, voice thoughts, WhatsApps, meetings and memory. The direction is to build a governed personal executive infrastructure around how I naturally think and operate.
 
-The core insight. My notes, voice memos and random captures aren't disorganisation. They're an executive signal stream. The problem was never discipline. It's that the signal is fragmented across notebooks, voice notes, WhatsApps and meetings with nothing capturing, ranking or orchestrating it. Close that gap and the rest follows.
+**The Goal**
+An AI-supported human executive operating system that helps manage: personal life; professional career; AI ventures; governance responsibilities; relationships and follow-ups; commercial opportunities; board-level obligations; strategic thinking; property and operational matters. It should augment memory, prioritisation, continuity and execution while remaining human-led.
 
-Four layers.
-1. Capture: raw thought, no friction. Voice, notebook photos, WhatsApps, typed.
-2. Intelligence: interprets people, urgency, opportunity, governance relevance, and emotional overload versus a real issue.
-3. Executive: produces Today, This Week, Shane items, Revenue, Governance risks, Follow-ups, Strategic ideas.
-4. Memory: stores everything, searchable over time.
+**Core Infrastructure Layers**
+1. Capture Layer -- raw frictionless capture. Inputs: voice notes, notebook photos, WhatsApps, typed thoughts, emails, meeting notes.
+2. Intelligence Layer -- interprets and categorises automatically: relationship stewardship, commercial opportunity, governance issue, personal obligation, family matter, strategic idea, follow-up required, operational task.
+3. Executive Layer -- structured outputs: morning briefings, priority lists, follow-up reminders, Shane alignment summaries, CRM updates, governance flags, strategic opportunity lists.
+4. Memory Layer -- long-term searchable executive intelligence: people, relationships, opportunities, conversations, governance matters, property matters, AI ideas, historical context.
 
-How each capture is tagged, three axes.
-Category: AI infrastructure, governance, client opportunity, Shane discussion, revenue, operations, personal, risk, follow-up.
-People: auto-identify the names and build relationship intelligence.
-Priority: immediate, this week, strategic, parked, noise.
+**Recommended Foundational Agents**
+1. Executive Command Agent -- central orchestration: priorities, reminders, briefings, execution continuity.
+2. Voice-to-Intelligence Agent -- converts speech and notebook captures into structured intelligence.
+3. Relationship Stewardship Agent -- important relationships, follow-ups, illness, bereavements, reconnect opportunities, continuity.
+4. Commercial Opportunity Agent -- detects revenue, positioning and potential engagements from notes and conversations.
+5. Governance Oversight Agent -- governance structure, audit trail, permissions, compliance visibility.
+6. Strategic Memory Agent -- long-term executive memory and retrieval.
+7. Personal Governance Agent -- detects overload, dropped responsibilities, drift, operational inconsistency.
+8. Property and Operational Agent -- contractors, maintenance, property projects, operational follow-ups.
 
-The agents, built around human continuity, not just productivity.
-1. Executive Operations: commercial, governance, meetings, strategy.
-2. Relationship Stewardship: important people, illness, bereavements, silence gaps, reconnects.
-3. Personal Governance: overload, dropped obligations, avoidance patterns.
-4. Property and Household Operations: cameras, repairs, contractors, projects.
-5. Family Legacy and Planning, later: property and long-term family structures.
-The commercial version of these is also where Ambrion and Meridian sell: governed agent ecosystems, not loose agents. The personal build and the product build reinforce each other.
+**Strategic Direction**
+Not replacing human judgement. Creating a governed AI-native executive infrastructure around cognition, relationships, governance, operations, commercial execution and continuity. A "galaxy of agents" around my life and work that supports both my evolving AI career and my existing executive and governance responsibilities with Ambrion AI, Velocity AI, AHL, United Hardware and future ventures.
 
-What we build first. The voice and brain-dump capture into a daily brief. It matches how I already work and it's mostly wiring what already exists. Rule: useful tomorrow, not perfect in six months.
+**Key Principle**
+The system must adapt to how I naturally think. Not force me into rigid productivity systems that do not reflect how my mind operates.
 
-Why it matters. The goal isn't only getting things done. It's staying connected, responsible, commercially sharp and present across a wide set of people and obligations while carrying a heavy load. Governed augmentation of memory, relationships and operations, not cold automation. Let's talk.
+---
+
+## Cuan note for John (not for the Shane message)
+
+This is ready to send. Three things before you do.
+
+1. **It is consistent with everything filed today.** The eight agents here map cleanly onto the five human-continuity agents in `operating_system.md` (this list is just more granular, splitting orchestration and memory out). No conflict. Use this version with Shane.
+2. **The one addition I would make explicit:** keep the personal infrastructure distinct from the commercial product. Agents 4 and 5 (Commercial Opportunity, Governance Oversight) are also Ambrion and Meridian's sellable capability. Same design, different front door. Worth a line to Shane so the personal system and the product do not blur, the same overlap risk flagged in `business_architecture.md`.
+3. **The honest framing, which you already use:** per Shane's own capability document, the engine is real but the revenue wrapper is the next build. Present this to Shane as direction and architecture, not as a thing that exists yet. That is exactly how you have pitched it, so you are on solid ground.
