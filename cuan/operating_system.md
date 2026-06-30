@@ -159,9 +159,13 @@ The conclusion: the objective is not to build a life around work. It is to build
 John flagged a priority the personal/life framing does not by itself cover: he needs to plan and plot his evolving AI professional career with Shane, and lay structure across all elements and businesses. So the infrastructure has two sides that sit together:
 - **Life-continuity side** (personal): family, health, relationships, rest, the human stewardship, the intelligent life architecture above.
 - **Professional Career Orchestration Layer** (commercial): John's AI career is not a single role, it is an evolving ecosystem across Ambrion AI, Velocity AI, Meridian, the AHL and UHL board roles, and future ventures. Unless it is intentionally structured it risks becoming fragmented, reactive and dependent on constant mental juggling. This layer plots and sequences that career across all the businesses, and it maps directly onto `business_architecture.md`, which is already the portfolio spine it would orchestrate.
-The Career Orchestration Layer breaks into tracks, structured strategically not randomly:
-- **Capability Development:** AI learning goals, tools to master, concepts to understand, agent systems, governance developments, implementation frameworks.
-- **Commercial Positioning:** speaking opportunities, LinkedIn strategy, governance positioning, relationship expansion.
+The recommended structure of the future infrastructure breaks into six components (the shift required: from reacting to opportunities, to intentionally constructing the next professional chapter):
+1. **Personal Continuity Layer** -- relationships, family, health, leisure. The human stewardship and life-ordering side.
+2. **Capability Development** -- AI learning goals, tools to master, concepts to understand, agent systems, governance developments, implementation frameworks. Tracked strategically, not randomly.
+3. **Commercial Positioning** -- speaking opportunities, LinkedIn strategy, governance positioning, relationship expansion, partnership opportunities, AI market visibility.
+4. **Venture Alignment** -- continuously map Ambrion AI, Velocity AI, governance positioning, autonomous systems, advisory work and future ventures into one coherent strategic direction. The biggest risk named here is fragmentation between ventures. This is the same overlap risk flagged in `business_architecture.md`; this layer is what actively manages it.
+5. **Time Allocation** -- intentional decisions across board work, governance work, AI commercialisation, learning, relationship management, strategic thinking, and family/leisure. Otherwise everything competes equally.
+6. **Long-Term Positioning** -- John and Shane to begin thinking about the longer-term position deliberately, not reactively.
 
 The full system serves both: a life deliberately ordered, and a career deliberately structured. Neither at the expense of the other.
 
