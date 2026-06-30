@@ -52,8 +52,8 @@ Build **Piece 2 and Piece 1 together as the first sprint (a few days):** the pro
 
 > "Every one of these goes out in a real name and I will not stand up a multi-day build on a guess."
 
-1. **Whose brand?** These are client-facing, so they get real brand assets from version one, never placeholder. Is the front-of-house **John Webb O'Rourke's own practice brand**, **Meridian Intelligence as a brand**, or **a partner's**? That decision shapes all three.
-2. **Greenlight and start point.** Start with the **Brief Engine** (the revenue core) or the **Diagnostic** (the visible front door)? Say the word and the brand, and Shane scopes the first one properly and builds it.
+1. **Whose brand?** ANSWERED by John, 30 June 2026: the trio goes out under the **Meridian Intelligence** brand, fronted by John personally. (Ambrion and Velocity are jointly John and Shane, but this build is Meridian.)
+2. **Greenlight and start point.** STILL OPEN. Start with the **Brief Engine** (the revenue core) or the **Diagnostic** (the visible front door)? John to give Shane the word.
 
 **Shane's closing question: "Which one do we light up first?"**
 

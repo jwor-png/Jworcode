@@ -76,6 +76,20 @@ The assets, not the services. Developed to be sold.
 
 ---
 
+## Front-door ownership (DECIDED by John, 30 June 2026)
+
+Who fronts each business to the client:
+
+| Business | Front door |
+|---|---|
+| Meridian Intelligence | John, personally. His face and brand at the front. |
+| Ambrion AI | John and Shane, jointly. |
+| Velocity AI | John and Shane, jointly. |
+
+This sets the answer for the Meridian trio build plan: it goes out under the **Meridian Intelligence** brand, fronted by John. (Ownership of Meridian remains John 70 / Shane 30; this is about whose face is at the front door, not the equity split.)
+
+Still to resolve with Shane: the offer overlap below. Defining the front door is decided; defining who leads which *offer* (board governance, EU AI Act) where two brands both reach the same buyer is still open.
+
 ## Open loops (carried until closed with Shane)
 
 1. **Meridian formalities** -- draw the 70/30 shareholders or partnership agreement. Legal and Governance.
