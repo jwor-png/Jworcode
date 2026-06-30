@@ -105,6 +105,24 @@ So the future system must not be a note-taking app or a productivity system. It 
 
 Combined with the urgency tags from the brain-dump design (Immediate / This week / Parked / Strategic), that is the **operational capture taxonomy for Cuan**: the actual labels I sort each captured thought into. It is more execution-ready than the five descriptive signal categories above, and the two map onto each other cleanly.
 
+### The full capture model (three axes plus four layers)
+
+Each captured thought is tagged on **three axes**:
+1. **Category** -- AI Infrastructure | Governance | Client Opportunity | Shane Discussion | Revenue | Operations | Personal | Risk | Follow Up.
+2. **People** -- auto-identify Shane, Tom, Anthony, Bernie, Paul and others, then connect them into relationship intelligence (John stores opportunity through people).
+3. **Priority** -- Immediate (action now) | Strategic (important, not urgent) | Parked (useful later) | Noise (no action). *Reconciliation note: the brain-dump design used Immediate / This week / Parked / Strategic; this version adds Noise and drops This week. The cleanest union for Cuan: **Immediate / This week / Strategic / Parked / Noise**. The Noise tag is what lets the engine separate emotional overload from a real issue.*
+
+The system is then built in **four layers** (this refines the earlier three-layer PIE):
+1. **Capture Layer** -- raw thought, no friction: voice, notebook photos, WhatsApps, typed thoughts.
+2. **Intelligence Layer** -- interprets people, projects, urgency, opportunity, governance relevance, and emotional overload versus real issue.
+3. **Executive Layer** -- produces Today, This Week, Shane Discussion, Revenue, Governance Risks, Follow Ups, Strategic Ideas.
+4. **Memory Layer** -- stores everything, building searchable executive intelligence over time.
+
+**Outputs the engine generates:** executive briefing, CRM updates, meeting agenda items, action lists, Shane sync summaries, governance flags, follow-up reminders.
+
+### The closing frame
+The recommendation is explicit and important: **do not tidy up John's note-taking style.** That would damage the signal flow. Build the system around his natural cognition, not against it. His notebook pages are the **analogue version of his future AI operating system**, and an excellent **training dataset** for building it. The direction of travel: from raw human executive cognition to **structured, governed executive intelligence infrastructure**. That phrase is the destination, and it is Cuan's destination.
+
 ## How this lands against Cuan (note for John)
 
 This document is, in substance, a blueprint for what Cuan already is and where it should grow:
