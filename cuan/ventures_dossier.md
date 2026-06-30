@@ -783,6 +783,22 @@ Think of a decision you made in the last six months that required real judgement
 **07. The Thinking Partner**
 "I need to think through [describe the issue]. I am not looking for a solution yet. I want you to ask me five questions that will force me to examine my assumptions, challenge my reasoning, and sharpen my thinking. One question at a time. Wait for my answer before asking the next. Push me where I am being vague."
 
+### Session 6 -- Understanding: Wave 3, The Architecture (30 June 2026)
+Source: Session 6 debrief sheet, photographed by John. Slides from Shane to follow.
+
+**Where you are now:** Ten weeks and five stages done, across two waves. You can brief AI with your operating standards through a five-step process that runs without thinking about it. You have mapped your organisation, scored it by industry, named the disruption vectors that matter most. Stage 5 closed The Engine. You are ready to build.
+
+**What Stage 6 is about:** Stage 6 is called Understanding, the first stage of Wave 3: The Architecture. Wave 1 showed you who you are. Wave 2 shaped how you operate. Wave 3 builds what outlasts this programme. Stage 6 gives you the full field. You see AI as a living system, not a static tool. You see governance as the foundation everything else sits on, not a constraint bolted on after the fact. The architectural advantage most organisations do not have and cannot buy.
+
+**What to expect in the room:** Shifts from operating to designing. How architectural thinking applies to AI, why most organisations fail (not the technology, the structure around it), and the difference between adopting AI and architecting it. Think about your organisation as a system, built across five stages, that becomes something larger than the sum of its parts.
+
+**What you walk away with:** The full landscape of AI seen clearly enough to make architectural decisions. Why governance is foundational. Where your organisation sits in the capability gap and what happens without it. Stage 7 is called Implementation, and is what must be built first: what you understand in Stage 6, you build in Stage 7.
+
+**Sessions 7 and 8:** to complete in the next four weeks (15 July and 30 July).
+
+### Slide capture status (checked 30 June 2026)
+The record holds detailed slide content for **Session 1 and Session 2 only**. **Sessions 3, 4, 5 and 6 slides are not yet uploaded.** Session 6 slides are coming from Shane. John to supply 3, 4 and 5.
+
 ### Full session schedule (all 8 sessions)
 | Session | Date | Time | Status |
 |---|---|---|---|
@@ -791,7 +807,7 @@ Think of a decision you made in the last six months that required real judgement
 | Session 3 | Tuesday 19 May 2026 | 14:30 - 16:00 | Completed |
 | Session 4 | Wednesday 3 June 2026 | 11:00 - 12:30 | Completed |
 | Session 5 | Thursday 18 June 2026 | 14:30 - 16:00 | Completed -- good session. Rory and Pat (Edelia) attended. |
-| Session 6 | Tuesday 30 June 2026 | 11:00 - 12:30 | Upcoming |
+| Session 6 | Tuesday 30 June 2026 | 11:00 - 12:30 | Completed -- good session on orchestration and implementation. Shane to share slides. |
 | Session 7 | Wednesday 15 July 2026 | 14:30 - 16:00 | Upcoming |
 | Session 8 | Thursday 30 July 2026 | 11:00 - 12:30 | Upcoming |
 
