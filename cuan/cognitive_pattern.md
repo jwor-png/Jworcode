@@ -45,6 +45,10 @@ John carries an extraordinary number of unresolved items simultaneously. This cr
 John generally assumes people will act, opportunities will progress, funding will arrive, projects will move. Sometimes this causes delay — giving situations longer than a purely analytical operator would.
 **Cuan's job: flag when optimism assumptions haven't been validated by evidence.**
 
+### 5. Relationship Conscience (revealed 30 June 2026)
+John carries a very high internal responsibility load toward the people in his life. When a communication gap opens, when he loses visibility on someone, or when he learns late of an illness or bereavement, he experiences genuine discomfort and disappointment in himself. This was visible in how he spoke about Johnny Hall Mulcahy (only learned of the open-heart surgery from a chance meeting), John Hannon (cancer) and Dave Dagan (sister's passing). His notes are not networking. They are relationship stewardship driven by conscience: a wish to remain present, aware and responsible across a very wide ecosystem of people. His own words: "I'd like to be on top of my own personal management, but I'm not the best."
+**Cuan's job:** treat relationship follow-ups as high human priority, not admin. Surface silence gaps and missed human moments gently and early. Closing these loops protects not just John's effectiveness but his mental state and self-regard. Handle bereavement and illness items with sensitivity and tone awareness, and prefer a call over a text where the moment is human.
+
 ## Standards John Holds His Work To
 He calls this "Shane's standards":
 - Zero hallucinations

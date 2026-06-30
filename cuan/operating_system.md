@@ -123,6 +123,33 @@ The system is then built in **four layers** (this refines the earlier three-laye
 ### The closing frame
 The recommendation is explicit and important: **do not tidy up John's note-taking style.** That would damage the signal flow. Build the system around his natural cognition, not against it. His notebook pages are the **analogue version of his future AI operating system**, and an excellent **training dataset** for building it. The direction of travel: from raw human executive cognition to **structured, governed executive intelligence infrastructure**. That phrase is the destination, and it is Cuan's destination.
 
+---
+
+## The deeper reframe: a life continuity system, not task management
+*Source: Council analysis of the decoded notebook page, 30 June 2026.*
+
+The decoded page (`captures/2026-06-30_notebook_page.md`) revealed the real nature of John's notes. They are not primarily tasks. In one small page he was simultaneously managing grief acknowledgements, family care, director responsibilities, property development, operational maintenance, relationship repair, commercial communication, personal regret, social accountability and governance matters. That is not a to-do list. It is a **live human executive ecosystem**.
+
+So the system must not become "task management" -- far too narrow. What it must become is **Personal Relationship and Responsibility Infrastructure**: a system that helps John remain connected, responsible, commercially aware, emotionally present and operationally effective while carrying a very large cognitive load. In short, a **continuity system for his life**.
+
+**The design principle that follows:** normal systems track tasks. This system must track **human significance**. That is the harder and more advanced design.
+
+**Three streams visible in the notes:**
+1. **Relationship Stewardship** -- human obligations, not contacts (e.g. Dave Dagan, John Hannon, Michael O'Driscoll, Johnny Hall Mulcahy). John feels genuinely responsible when he loses visibility on people.
+2. **Operational and Commercial Oversight** -- executive operational continuity (e.g. the O'Regan camera upgrade, the AHL valuation update to Ciaran O'Keeffe, the Christy Crowley design discussion).
+3. **Personal Governance** -- the strongest hidden layer. The concern is not forgetting tasks; it is not becoming disconnected from people, responsibilities and important life signals.
+
+**The agent ecosystem, reframed around human continuity** (this refines, and humanises, the ten-agent galaxy recorded earlier; reconcile with Shane):
+1. Executive Operations Agent -- commercial, governance, meetings, strategy.
+2. Relationship Stewardship Agent -- important people, family events, illness, bereavements, follow-ups, silence gaps, reconnect opportunities. Human continuity, handled with care.
+3. Personal Governance Agent -- overload, dropped responsibilities, unresolved obligations, avoidance patterns.
+4. Property and Household Operations Agent -- cameras, repairs, contractors, maintenance, household projects.
+5. Family Legacy and Planning Agent (later) -- property opportunities, family planning, development possibilities, long-term family structures.
+
+**What the engine should do with a human note.** Given "Need to contact Dave Dagan regarding his sister passing," it should classify type (condolence / relationship care), priority (high human priority), tone (sensitive), suggested action (phone call preferred over text), and follow-up (if no contact within 48 hours, re-surface gently). Given "John Hannon diagnosed with cancer": family relationship, emotional sensitivity, actions (personal message, phone call, family notification, later follow-up).
+
+**The honest destination:** an AI-supported human executive life system. Not replacement, not cold automation, but governed augmentation of memory, relationships, operations and executive continuity. Reducing forgotten follow-ups, silent drift, missed human moments, cognitive overload and relationship fragmentation. The analysis notes this would likely improve not just John's productivity but his mental state. That is the real purpose, and it is squarely Cuan's.
+
 ## How this lands against Cuan (note for John)
 
 This document is, in substance, a blueprint for what Cuan already is and where it should grow:
