@@ -20,6 +20,12 @@ His prescription:
 
 The one-sentence version: **"You have built too much surface area for two humans to operate manually."**
 
+**Agenda for the John/Shane discussion (four questions only, derived from Derry's read):**
+1. What are the 4 to 6 highest-leverage commercial offers?
+2. What distribution / network channels create leverage (so outreach is not linear)?
+3. What must remain human-led?
+4. What can infrastructure and agents orchestrate?
+
 Why it matters here: this is a third, independent voice (Derry) landing on the same place as Shane's "discipline is the product" and the Diagnostic-first instinct. It is direct evidence for resolving **Build Decision 2** in favour of the narrow, dead-simple front door (one or two pagers, 4-6 products) rather than the broad campaign. It also argues for cutting the Score 5 outreach list down hard before any push restarts.
 
 ---
