@@ -14,8 +14,10 @@
 - OPEN: formalities not yet in place. A shareholders or partnership agreement for the 70/30 needs to be drawn. Legal and Governance item.
 
 **Ambrion AI**
-- John: managing partner. Shane: technical.
-- What it is: EU AI Act compliance and governance advisory. The near-term revenue vehicle. Anchor deadline 2 August 2026.
+- John: Founding and Managing Partner (board-level AI governance, risk, EU AI Act oversight). Shane: CEO and Founder (systems and orchestration-layer design).
+- What it is: Irish intelligence and advisory company in AI strategy, organisational design, and enterprise AI governance. Builds governance into the foundation of client organisations, not as an IT add-on. Tagline: "Governance at the foundation of AI." The near-term revenue vehicle. Anchor deadline 2 August 2026.
+- Three service pillars: Foundational Governance, Board and Executive Advisory, AI Orchestration.
+- Source: ambrion.ai / LinkedIn, captured 29 June 2026.
 - OPEN: an Ambrion AI orchestration is being developed by Shane. John to get a status read on where it is at.
 
 ### Tier 2 -- Programme to commercialise

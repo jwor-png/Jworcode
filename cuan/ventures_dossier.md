@@ -72,13 +72,14 @@ Focus set by John 29 June: get everything moving, personal and professional. Dri
 ---
 
 ## Ambrion AI
-- **What it does:** John's primary AI company. Governance advisory and EU AI Act compliance for Irish SMEs.
+- **What it does:** Irish intelligence and advisory company specialising in AI strategy, organisational design, and enterprise AI governance. Assists boards, executive teams and risk leaders in building AI governance into the foundation of their organisations, not as an IT add-on. Tagline: "Governance at the foundation of AI." (Source: ambrion.ai / LinkedIn, 29 June 2026.)
+- **Three service pillars:** Foundational Governance (AI baked into systems, data and decisions from day one, not bolted on); Board and Executive Advisory (risk discipline, accountability, EU AI Act compliance, shadow AI); AI Orchestration (design of orchestration layers so AI-native structures generate real business value while holding structural integrity).
 - **Current focus:** Tiered done-for-you EU AI Act compliance offering, positioned against software-only platforms
 - **Key channels:** Smacht network (300 Irish SMEs via Padraic O'Maille), professional referral partners (accountants, solicitors)
 - **Anchor deadline:** 2 August 2026 — compliance campaign launch
 - **Summit opportunity:** Expression of interest for Innovation Spotlight at International AI Summit 2026 (14 October, RDS Dublin, ~1,500 attendees). Deadline tonight (22 June). John to submit with Shane tonight when home from Westport. URGENT.
-- **John's role:** Founder / Principal — commercial and governance lead
-- **Partner:** Shane McCarthy — technical architecture
+- **John's role:** Founding and Managing Partner — board-level AI governance, risk management, EU AI Act oversight
+- **Partner:** Shane McCarthy — CEO and Founder; building systems and designing the orchestration layers that underpin AI-native organisations
 - **John's care level:** Highest — primary revenue vehicle for next 3 years
 - **Strategic position:** AI as an asset class in Ireland — unclaimed white space
 
