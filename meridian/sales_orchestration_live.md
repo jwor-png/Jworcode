@@ -65,6 +65,7 @@ Full set of 20 emails exists (28 March campaign). Targets 12-20 not yet filed --
 - [ ] John to confirm a day/time for Mark Power call (he is available all next week; Mon or Tue 10am suggested)
 - [ ] Send Skillnet email to Maya Gough (drafted, ready) to unlock training-cost offset for UHL Sessions 2 and 3
 - [ ] Refresh live pipeline values with John (Edelia terms, Ambrion 4-5 products, Property Properly)
+- [ ] Ambrion product set and delivery model: John to settle with Shane. The 60-day forecast is ON HOLD until this is done. The sales push waits on it.
 - [ ] Reactivate the Friday pipeline review with Shane as the standing cadence
 - [ ] Decide which Score 5 targets John personally opens this week vs Shane
 - [ ] Confirm Golden Generation Session 6 (Tue 30 June, 11:00-12:30) and whether it carries a sales follow-on

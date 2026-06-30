@@ -99,6 +99,8 @@ Three core products. Two pricing tiers: Friends Rate (warm network / existing re
 **AI Readiness Accelerator:** Three half days over six weeks. 8-20 people, cross-functional. Session 1 (Week 1): AI Maturity Assessment -- full inventory, sector benchmark. Session 2 (Week 3): Risk Classification and Gap Analysis -- EU AI Act risk tiers. Session 3 (Week 5): Readiness Report and Action Plan -- findings, baseline readiness score, prioritised 30-90 day action plan with named owners. Practical exercises between sessions build internal capability. Funding: Skillnet Ireland and Enterprise Ireland Innovation Vouchers.
 
 ### Sales Strategy -- 60-Day Execution (31 March to 30 May 2026)
+> STATUS (29 June 2026): ON HOLD. John has parked this forecast as redundant for now, pending his discussion with Shane on the product set and how they will be delivered. Held as history, not a live target. Do not drive the sales surface off these numbers until refreshed.
+
 Source: "AMBRION AI: 60-Day Execution Plan -- Realistic Capacity. Blended Targets. Monetisation First." Version 1.0. Owner: Shane McCarthy. Created: 31 March 2026.
 
 **Team and roles**
