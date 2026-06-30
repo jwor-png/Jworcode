@@ -201,9 +201,13 @@
 - **Note:** The 30-second demo vs 2-minute reporting version discussion arose from this context -- Eamonn/Vision85 may be a near-term client.
 
 ### Derry Gray
-- **Role:** Managing Partner, BDO Dublin
-- **Status:** Live prospect -- John reached out by WhatsApp (16 June 2026) following Shane conversation, regarding developing a personal intelligence orchestration (Cuan-style) for him. Callback requested.
-- **Next action:** Follow up Wednesday 17 or Thursday 18 June
+- **Role:** Managing Partner, BDO Dublin (semi-retired, age 62).
+- **Health (sensitive):** Stage 4 cancer. Handle with care in all contact.
+- **Status:** Live prospect and potential AI consulting partner. John and Shane met him last week (c. week of 22 June 2026). He wants to work as a consultant in the AI space, using the developing toolkit and his contacts to roll out AI adoption and development.
+- **What resonated with John and Shane "big time":** Derry's ordering of life. He is prioritising leisure, personal freedom and quality of life first, and structuring his consulting and AI work around that, not the reverse. His diagnosis has sharpened it: time is not unlimited. This reframed the conversation for John and Shane toward an "intelligent life architecture," work built around life rather than life around work. (See `operating_system.md`.)
+- **Fit:** strong Golden Generation alignment, experienced senior, contacts, experience amplified not retired. Possible partner in the leverage model.
+- **Earlier contact:** John reached out by WhatsApp (16 June 2026) re developing a personal intelligence orchestration (Cuan-style) for him.
+- **Naming caution:** Derry is interested in the toolkit John and Shane internally call "Transition Intelligence." That internal name must never appear in any client-facing or external document.
 - **Note:** BDO also serves as AHL auditors (Simon Cadbury is AHL audit partner) -- keep these two relationships separate.
 
 ### Andrew Sharkey
