@@ -1,0 +1,95 @@
+# Managing Partner Life Operating System
+*John's personal operating system and journal design, evolved across discussions with the Council (ChatGPT), Shane, and John's own refinements. Captured to record 30 June 2026. Source: ChatGPT shared note, pasted by John.*
+
+> Read this against `cuan/CLAUDE.md` and the Cuan knowledge base. Most of what this document calls for is Cuan's remit. See "How this lands against Cuan" at the foot.
+
+---
+
+## The core decision
+Not multiple notebooks. **One A5 operational journal** that becomes the central operating system: daily command centre, personal intelligence engine, operating manual, state management, execution tracker, strategic notebook for Ambrion AI, Velocity AI and future ventures.
+
+---
+
+## The journal structure
+
+**Front section -- Brain Dump / Cognitive Offload.** At the very front. Intentionally messy. Worries, ideas, calls, money pressures, AI ideas, frustrations, opportunities, random captures. Objective: get it out of your head.
+
+**Section 2 -- Daily Command Page.** The core. Per day:
+1. Top 3 priorities (not 15, only the 3 that matter)
+2. Daily First Win (the first meaningful action; early momentum lifts state)
+3. Revenue / Commercial Impact Today (what action today improves revenue, opportunity or positioning)
+4. Five Bucket Check: Ambrion AI / Velocity AI / New Ventures and IP / Income, Boards and Finance / Personal (brief daily, just enough to hold command)
+5. Actions for Today (execution list, no perfectionism)
+6. Notes / Capture (calls, names, ideas, follow-ups)
+7. End of Day Review: what moved forward / what is stuck / what needs attention tomorrow
+
+**Section 3 -- Weekly Operating Review (70/20/10).** 70% core execution, 20% growth and AI learning, 10% experimentation and future opportunities. Builds AI capability through repetition and exposure (Shane's encouragement).
+
+**Section 4 -- Personal Intelligence Engine (PIE).** Three layers:
+- Layer 1 Capture: voice notes, WhatsApps, emails, notebook notes, ideas
+- Layer 2 Organise: into the five buckets
+- Layer 3 Execute: per bucket, Top Priority / In Progress / Parked
+
+---
+
+## Routines
+- **5-Minute Morning Reset:** hydrate, sit upright immediately, review Top 3, identify Daily First Win, begin movement quickly. State through action, not waiting to feel motivated.
+- **Midday -- "Consult My Counsel" at 12pm:** interrupt drift, recalibrate state, reassess priorities. An anchor habit.
+- **Evening:** short review (what did I move / what avoided me / what matters tomorrow), prepare tomorrow's Top 3 before sleep, protect sleep rhythm.
+
+## The strategic realisation
+John performs better with **structured flexibility** than rigid scheduling. He likes "organised chaos." He still needs structure, anchors, repeatable rituals and command visibility, but not a minute-by-minute prison schedule. The journal is a **navigation system, not a timetable**, and it is designed to work even on low-energy days.
+
+---
+
+## The agent galaxy (Phase 1 foundational infrastructure)
+The Council's framing: do not build a hundred clever agents. Build a small number of infrastructural agents that create leverage across everything else.
+
+| # | Agent | Purpose |
+|---|---|---|
+| 1 | Executive Command Agent | Central orchestration. Reads voice notes, monitors Top 3, tracks five buckets, detects overload/drift, morning briefings and evening summaries, surfaces forgotten opportunities, flags execution gaps. |
+| 2 | Commercial Opportunity Agent | Detect monetisable signals constantly. Analyse meetings, emails, conversations; suggest proposals, score opportunities, track pipeline. Asks "Where is the money?" continuously. Understands AI governance, EU AI Act pressure, Irish SME pain, board anxiety. Ambrion's intelligence edge. |
+| 3 | Governance Oversight Agent | Govern the ecosystem. Audit agent actions, maintain logs, track data access and permissions, governance and compliance trails, detect regulatory risk. Ambrion's flagship positioning: governed agent ecosystems, not just agents. |
+| 4 | Voice-to-Intelligence Agent | Speak naturally -> structured thought -> opportunity -> action -> CRM -> task -> Shane briefing -> knowledge store. Captures John's verbal intellectual velocity before it evaporates. |
+| 5 | Relationship & Influence Agent | Board/network intelligence. Who matters now, who has gone cold, follow-ups, relationship strength, dormant opportunities. Eventually a relationship graph. |
+| 6 | Shane Alignment Agent | Shared operational cognition. Summarise John for Shane and Shane for John, detect divergence, recommend priorities. Reduces misalignment friction. |
+| 7 | Strategic Memory Agent | The second brain. Store everything meaningful, retrieve past conversations, find recurring themes and patterns, surface forgotten commitments. |
+| 8 | State & Discipline Agent | Executive performance governance. Detect drift, overload, avoidance, sleep disruption, Monday-collapse patterns. Intervene with morning prompts, resets, simplified priorities. Supportive, not patronising. |
+| 9 | Property & Funding Intelligence Agent | Monitor grants, funding, planning, development and derelict-site opportunities. Aligns with Julianstown. Could become an Ambrion/Velocity product. |
+| 10 | Autonomous Board Briefing Agent | Board summaries, audit/risk briefings, AI governance papers, action trackers. Compounds John's board advantage. |
+
+**Build order:** Phase 1 -- Executive Command, Voice-to-Intelligence, Commercial Opportunity. Phase 2 -- Governance Oversight, Strategic Memory, Shane Alignment. Phase 3 -- Relationship, Board Briefing, Property, State & Discipline.
+
+---
+
+## The first true infrastructure: Brain Dump to Action Engine
+The recommended highest-priority build with Shane, **now, not later**. The entry point to the whole galaxy.
+
+Principle: **you speak naturally; the system structures reality around your speech, not the other way around.** Speak 3 to 7 minutes at night, messy and non-linear. The system transcribes, extracts actions, categorises (Professional: Ambrion/Velocity/Governance/Sales/Partnerships; Personal: Finance/Health/Family/Routine/State; Urgency: Immediate/This week/Parked/Strategic), and acts (reminders, tasks, follow-ups, CRM, briefing notes, Shane items, governance flags, calendar prompts).
+
+**Most important feature -- priority detection.** The system must learn that not all brain dumps are equal: distinguish anxiety noise from commercial gold, emotional overload from genuine risk, real opportunity, strategic importance, urgent operational matters.
+
+**Output -- the Morning Executive Brief:** Immediate Actions / Revenue Opportunities / Governance and Risk Flags / Calls and Follow-Ups / Shane Alignment Items / Parked Strategic Thoughts. The real value is **cognitive closure**: nothing has to stay live in John's head.
+
+**Technical framing for Shane:** an event-driven executive system. Input: voice streams. Processing: LLM orchestration plus classification. Output: structured executive intelligence.
+- Phase 1 (minimum executable): inputs WhatsApp voice notes, iPhone voice memos, dictated notes; processing transcription, action extraction, tagging, urgency scoring; outputs daily dashboard, action list, briefing, reminders.
+- Phase 2: CRM integration, email drafting, calendar orchestration, governance tracking, relationship mapping.
+- Phase 3: predictive prioritisation, state and overload detection, opportunity scoring, autonomous delegation.
+
+**Critical design rule:** do not over-engineer version 1. Aim for "useful tomorrow," not "perfect in six months."
+
+**Candidate names:** Executive Capture Engine, Personal Intelligence Engine, Command Stream, Meridian Flow, Signal Engine, Executive Orbit, Cognitive Command Layer, NightWatch, Executive Cortex. Structurally it is the **Executive Capture and Orchestration Layer**.
+
+---
+
+## How this lands against Cuan (note for John)
+
+This document is, in substance, a blueprint for what Cuan already is and where it should grow:
+- The **Personal Intelligence Engine**, the **Executive Command Agent**, the **Strategic Memory Agent**, and the **Brain Dump to Action Engine** all describe Cuan's core job: capture, organise, hold the open loops, brief John, surface opportunity.
+- The recommendation "build a few infrastructural agents, not a hundred clever ones" is the right instinct and it argues **against** standing up a separate parallel system. The cleaner path is to grow Cuan into this, not to build a second brain beside it.
+
+Two things to reconcile, deliberately, before building:
+1. **The taxonomy.** This document's five buckets (Ambrion / Velocity / New Ventures and IP / Income, Boards and Finance / Personal) differ from Cuan's eight Tier-2 life managers and from Meridian's seven managers. Three different maps of the same life. Pick one spine. The five buckets are the simplest and the most execution-ready; worth considering as the daily layer, with the eight managers as the deeper structure beneath.
+2. **The line between personal and commercial.** Agents 2, 3, 9 and 10 (Commercial Opportunity, Governance Oversight, Property/Funding, Board Briefing) are commercial Ambrion/Velocity/Meridian capabilities, not personal-executive ones. The galaxy mixes John's personal operating layer with sellable product. Keep the personal operating layer (Cuan) distinct from the commercial engine (Meridian/Ambrion), or the same overlap problem flagged in `business_architecture.md` reappears here.
+
+**Recommendation:** treat this as the Cuan roadmap. Build the Brain Dump to Action capture first, since it matches exactly how John already works (voice notes), and route its output into Cuan. Raise the taxonomy decision and the personal-versus-commercial line with Shane before any multi-day build.
