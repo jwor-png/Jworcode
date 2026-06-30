@@ -120,6 +120,14 @@ The system is then built in **four layers** (this refines the earlier three-laye
 
 **Outputs the engine generates:** executive briefing, CRM updates, meeting agenda items, action lists, Shane sync summaries, governance flags, follow-up reminders.
 
+### The daily operating stack and the 3-to-5 rule (Cuan operating guidance)
+How the capture system runs day to day:
+- **Layer 1 -- Brain Dump (morning and night):** raw signal release. Late-night thought release, early-morning signal capture. No friction.
+- **Layer 2 -- Daily Tactical Extraction Sheet:** only the actions extracted from the brain dump that genuinely matter today. Useful, but dangerous if overused: John's brain generates far more signal than linear execution capacity, so a sheet of 15 urgent items becomes something he subconsciously avoids.
+- **CRITICAL RULE (this governs how Cuan produces the daily brief):** never surface more than **3 to 5 genuinely important actions** a day. Not 15. Fifteen becomes "executive guilt infrastructure," and John does not need more guilt, he needs clarity and continuity. Cuan curates to the few that matter and parks the rest, visibly, so nothing is lost but nothing overwhelms.
+- **Redesign the urgency column:** instead of ! / !! / !!!, tag by type, Human / Commercial / Governance / Personal / Strategic. This aligns with how John actually thinks. ("Human" first is deliberate, it reflects the relationship-conscience trait.)
+- **Operational Spillover Tracking:** a separate place for errands, admin, correspondence, calls, maintenance and practical follow-ups, to keep tactical clutter out of strategic brain space.
+
 ### The closing frame
 The recommendation is explicit and important: **do not tidy up John's note-taking style.** That would damage the signal flow. Build the system around his natural cognition, not against it. His notebook pages are the **analogue version of his future AI operating system**, and an excellent **training dataset** for building it. The direction of travel: from raw human executive cognition to **structured, governed executive intelligence infrastructure**. That phrase is the destination, and it is Cuan's destination.
 
