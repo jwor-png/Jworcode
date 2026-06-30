@@ -23,6 +23,8 @@ Not multiple notebooks. **One A5 operational journal** that becomes the central 
 6. Notes / Capture (calls, names, ideas, follow-ups)
 7. End of Day Review: what moved forward / what is stuck / what needs attention tomorrow
 
+*Analogue format (John's own design, 30 June 2026): the Daily Command Page is written by hand each morning across **two A5 pages in landscape**, as a daily mind-map under the headings of what John is involved in, not a flat task list. He prioritises with his four pens (red, blue, black, green). This handwritten spread is the analogue front end of the operating system: it matches his cognition, keeps him connected to the signal, slows thinking just enough, and reduces digital fragmentation. The digital layers feed off it, they do not replace it.*
+
 **Section 3 -- Weekly Operating Review (70/20/10).** 70% core execution, 20% growth and AI learning, 10% experimentation and future opportunities. Builds AI capability through repetition and exposure (Shane's encouragement).
 
 **Section 4 -- Personal Intelligence Engine (PIE).** Three layers:
