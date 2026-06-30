@@ -37,13 +37,30 @@ The assets, not the services. Developed to be sold.
 
 ### The operator vehicle
 
-**Velocity AI**
+**Velocity AI** (velocityai.ie)
 - Shane-led. Ownership on the record: John 30 / Shane 70.
-- Positioning (REPORTED by John from velocityai.ie; live site returned HTTP 403, not verified from source): "strategic intelligence in the AI era. We are operators who build and deploy AI at scale. We diagnose where AI will hit your business first, and we build the response."
-- Relationship to Meridian: close in nature. Working boundary to agree with Shane:
-  - Meridian advises, diagnoses, and orchestrates. John-led.
-  - Velocity builds, deploys, and operates at scale. Shane-led.
-  - Overlap to resolve: both speak to "diagnose where AI hits and build the response." The clean line is advisory intelligence (Meridian) versus build-and-operate (Velocity). Confirm with Shane.
+- Positioning (VERIFIED from velocityai.ie, 29 June 2026):
+  - Headline: "Strategic Intelligence in the AI Era."
+  - "We are not consultants. We are operators who build and deploy AI at scale."
+  - "We diagnose where AI will hit your business first, then we build the response."
+  - "We give leaders clarity in a world full of noise. We replace uncertainty with confidence and direction. We turn strategic blind spots into competitive advantage."
+- Operators vs Consultants (the site's own framing): consultants deliver slide decks / recommend strategy / bill for hours / leave after the engagement. Velocity delivers clarity and direction / executes strategy with AI / invests in your success / builds, tests and launches together.
+- Live product tools already on the site:
+  1. **Strategic Clarity Diagnostic** -- 15 questions across Company Profile, AI Maturity, Strategic Alignment, Risk and Velocity. "Your strategic position, quantified."
+  2. **Live Strategic Simulator** -- models three strategic paths off Industry, Company Size, and sliders for AI Adoption, Competitive Pressure, Risk Appetite.
+  3. **90-Second Strategic Brief** -- record a strategic challenge in 90 seconds, no prep, into "Get in Touch."
+- Migration Education -- "An Evolutionary Learning Journey, Taken Together." Four engagement tiers, each a "migratory pathway from uncertainty to strategic confidence":
+  - **Leadership Teams** -- The Unified Command. Break the silos of "it's a tech problem" and replace with Strategic Architecture.
+  - **1-to-1 Decision Makers** -- The Sovereign Deep-Dive. For CEOs and Founders who need to lead the era, not just manage the trend.
+  - **Board Advisory** -- The Governance Foundation. Equip the Board with the structural foundation to oversee the transition.
+  - **Senior Management** -- The Operational Bridge. For the builders who translate Strategic Intent into Live Infrastructure.
+- Five principles: 01 Clarity before capability. 02 Context is the only competitive advantage. 03 Strategy without execution is just theory. 04 We walk the path with you, not ahead of you. 05 We build what stays.
+- Closing hook: "If your competitor deployed AI across their entire operation tomorrow, how long would it take you to respond?"
+- **Legal entity: Mainly Velocity Limited, trading as Velocity AI.** Contact: shane@velocityai.ie. Footer: "GDPR and EU AI Act Compliant."
+- Relationship to Meridian: close, and the overlap is real, not cosmetic. Both diagnose where AI hits and build the response. Working boundary to agree with Shane:
+  - Meridian: the advisory and intelligence service. Diagnoses, orchestrates, produces decision-support material. John-led.
+  - Velocity: the operator. Builds, deploys, executes and launches with the client. Shane-led.
+  - The line that holds: Meridian advises and orchestrates; Velocity builds and operates. But Velocity's site also leads on "diagnose" and "clarity and direction," which is Meridian's ground. Resolve with Shane: is Velocity the build-and-deploy arm that Meridian feeds, or a competing front door? This must be settled before either goes hard to market.
 
 ---
 
@@ -62,7 +79,12 @@ The assets, not the services. Developed to be sold.
 ## Open loops (carried until closed with Shane)
 
 1. **Meridian formalities** -- draw the 70/30 shareholders or partnership agreement. Legal and Governance.
-2. **Velocity / Meridian boundary** -- agree the advisory-versus-build line with Shane and record it.
+2. **The overlap problem (priority).** Four vehicles now claim adjacent or identical ground, and a client could meet three of them at the same door:
+   - Board and governance advisory: Ambrion AI (Board and Executive Advisory), Meridian (Legal and Governance manager), Velocity (Board Advisory / Governance Foundation) all offer it.
+   - EU AI Act compliance: Ambrion and Velocity both lead on it.
+   - Orchestration: Ambrion (AI Orchestration pillar), Meridian (the orchestrator), Shane building an Ambrion orchestration.
+   - Migration / cognitive journey: Velocity's "Migration Education" mirrors Golden Generation's "cognitive migration."
+   Action: sit with Shane and draw one clean map. Who owns the front door for board governance? Who owns EU AI Act? Is Velocity the build-and-deploy arm Meridian and Ambrion feed, or a separate brand competing for the same buyer? Nothing goes hard to market until this is settled, or the portfolio competes with itself and confuses the client.
 3. **Build-to-sell tier** -- refine and formally structure the property investigative intelligence, child welfare, and the others with Shane, then file.
 4. **Ambrion orchestration** -- get the development status from Shane.
 5. **Other orchestrations** -- not yet advanced. John to raise with Shane.
