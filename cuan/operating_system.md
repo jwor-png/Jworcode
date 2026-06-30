@@ -82,6 +82,20 @@ Principle: **you speak naturally; the system structures reality around your spee
 
 ---
 
+## How John's notebook actually reads (Council analysis of a day's pages)
+*Source: ChatGPT thread, John shared photos of a full day of handwritten notebook pages, 30 June 2026.*
+
+The read: the pages are not disorganised. They operate as **a live executive signal stream**. Where most would see mess, the analysis sees pattern clusters, commercial triggers, relationship intelligence, AI infrastructure concepts, governance signals, task fragments and strategic cognition occurring **simultaneously**. John's mind runs in **parallel processing mode**, which is why a traditional notebook or task app has never suited him. This is the evidence base for building the capture layer around how his mind already works, rather than forcing linear structure onto it.
+
+**Recurring signal categories across the pages (the classification schema):**
+1. **AI Infrastructure Thinking (very dominant).** Agents, infrastructure, automation, orchestration, intelligence systems, governance, implementation, transition, autonomous management, AI rollout, AI transformation. Confirms John no longer thinks of AI as software tools but as systems, layers, operations, architecture, commercialisation. A major shift.
+2. **Relationship and Strategic Network Signals.** Repeated names: Shane, Anthony, Tom, Bernadette/Bernie, plus potential clients, governance contacts, operational contacts. The notebook functions partly as relationship intelligence capture: John's brain naturally stores opportunity through people. Should become part of the future agent system.
+3. **Commercial Pattern Recognition.** Proposals, meetings, contracts, implementation ideas, opportunities, AI products, revenue thoughts, positioning ideas. The insight: John is commercially scanning constantly, even when the notes look random.
+4. **Governance and Oversight Signals.** Governance, oversight, implementation, risk, compliance, structure, operational control. Strongly aligns with Ambrion AI's future positioning.
+5. **High-Velocity Context Switching (the single biggest characteristic).** Within seconds the notes move between AI architecture, client follow-up, implementation, funding, people, governance, operations, strategic positioning, personal reminders. This is exactly why linear systems fail him: his cognition is associative, not sequential.
+
+**Why this matters for Cuan:** if Cuan becomes the brain-dump capture layer, these signal categories are the schema it classifies against. The taxonomy is not theoretical; it is drawn from John's own pages.
+
 ## How this lands against Cuan (note for John)
 
 This document is, in substance, a blueprint for what Cuan already is and where it should grow:
