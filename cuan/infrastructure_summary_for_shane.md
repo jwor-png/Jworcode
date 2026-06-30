@@ -37,6 +37,23 @@ The system must adapt to how I naturally think. Not force me into rigid producti
 
 ---
 
+## Send pack (how to share it)
+
+Do not forward the one-pager cold. Send it in this order.
+
+**1. Framing message (paste this first, in John's voice):**
+
+Shane,
+The talk we've been having about my journal, my notes and my voice thoughts has opened up something bigger than I first saw. The one-pager below is the clearest picture so far of where I think we're heading: a governed infrastructure, personal and professional, that runs off how I actually think instead of forcing me into a productivity app.
+What struck me is that my notes aren't disorganised tasks. They're fragmented executive signal, relationships, governance, commercial, family, AI ideas, all firing at once. The job of the system is to capture that signal, sort it, and orchestrate it.
+I'm not saying it's fully right yet. I think it's directionally important, and I want your read: what's missing, what's realistic near term, and how we structure Version 1. Have a look and let's talk.
+
+**2. Then paste the one-pager above, immediately beneath the framing message.**
+
+**3. Voice note afterward (optional), three points to cover:** why this matters to you personally; why ordinary systems have always failed you; and that you believe it could become commercially valuable beyond yourself. That last point is the one that will make Shane sit up, he will start seeing the platform and productisation potential straight away.
+
+**Keep the first discussion narrow.** Do not open with twenty agents. Anchor the first conversation on the four layers (Capture, Intelligence, Executive, Memory) and three starter agents: Executive Command, Voice-to-Intelligence, and Relationship Stewardship (or Commercial Opportunity if you want the commercial angle first). This is not just good advice, it is Shane's own principle, his capability document says build a few infrastructural agents, not a hundred clever ones. Leading with it shows you have read his thinking.
+
 ## Cuan note for John (not for the Shane message)
 
 This is ready to send. Three things before you do.
