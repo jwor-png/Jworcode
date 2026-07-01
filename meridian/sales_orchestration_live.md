@@ -108,6 +108,9 @@ Full set of 20 emails exists (28 March campaign). Targets 12-20 not yet filed --
 
 ---
 
+## Standard email closes
+Every outward email uses one of the momentum closes in `communication_closes.md` (adopted 1 July 2026), never the passive "let me know if you have any questions." Defaults for outreach: closes 1, 5 and 6; for senior/board inboxes: close 4.
+
 ## Governance floor (every external move runs through it)
 - No commercial or technical commitment without Shane's alignment.
 - Nothing client-facing ships unless DECISION-READY (grounded, independently checked, John's final call).
