@@ -1,6 +1,8 @@
 # Capture -- Secondary School AI Pathways (working title), 1 July 2026
 *John-defined initiative, 1 July 2026. Personal project, John-led, Shane brought on only after John and Shane discuss and agree it. Nothing commercial commits until then. Working title only, no brand name.*
 
+> **STATUS: PARKED, re-surface early September 2026.** John's instruction 1 July: do not draft the note to Noel yet, but come back to it. The school is on summer holidays, so there is no one to reach until the new term. Cuan holds this and raises it with John when schools return (early September). Do not let it drift.
+
 ---
 
 ## The thesis

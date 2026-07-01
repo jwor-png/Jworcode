@@ -1,6 +1,8 @@
 # Capture -- Beekeeping Project, 1 July 2026
 *Personal project under Home, Garden and Household. John-led, low sensitivity. Source: newspaper community notice photographed by John, 1 July 2026, plus John's spoken plan.*
 
+> **STATUS: PARKED, re-surface late summer 2026.** John's instruction 1 July: do not draft the note to Sinead yet, but come back to it. The natural window is the autumn/winter prep run toward a spring 2027 hive setup, so Cuan raises this with John in late August to make contact and start attending Saturday meetings before winter. Do not let it drift.
+
 ---
 
 ## The intent
