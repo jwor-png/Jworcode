@@ -31,7 +31,7 @@ Why it matters here: this is a third, independent voice (Derry) landing on the s
 ---
 
 ## Live money move -- Personalized Intelligence Experience demos (1 July 2026)
-*Agreed by John and Shane, 1 July 2026, off the back of a very positive call with Maliki. This is the current live sales action, and it is the practical form of Derry's "leverage, not linear" steer.*
+*Agreed by John and Shane, 1 July 2026, off the back of a very positive call with Malachy. This is the current live sales action, and it is the practical form of Derry's "leverage, not linear" steer.*
 
 - **What:** demo the **Personalized Intelligence Experience** to warm contacts, one-hour Zoom calls with John and Shane, to reintroduce it.
 - **Target:** **5 to 10 people** John sources from his own personal and business **contact database**. Warm, high-trust, not cold outreach.
