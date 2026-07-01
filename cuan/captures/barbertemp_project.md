@@ -25,8 +25,22 @@ A new app: a **labour exchange / temp-labour marketplace for the barbering indus
 **Intended uses:** for **Haatch**, for any new contact **Graham Byrne** or Johnny introduces, and as a general introductory document going forward.
 
 ## Funding thread
-- **TrueGrowth Global** approached. **Dave** said it is too early. Revised numbers now prepared; go back to them.
-- **Haatch** (correct spelling; earlier mis-transcribed as "Hatch") introduced by **Graham Byrne**, a friend of Johnny's. Haatch is an early-stage VC / angel network.
+- **True** (London-based consumer and retail VC; earlier heard as "TrueGrowth Global"). Cheque size stated in the doc: £100k to £1.5m, pre-seed to Series A. First call completed, response expected. *Note: John said verbally "Dave said too early, go back to them" -- the document is more optimistic ("response expected"). Reconcile before it goes out.*
+- **Haatch** (correct spelling; earlier "Hatch") introduced by **Graham Byrne**, a friend of Johnny's. Haatch is an early-stage VC / angel network. This document is aimed at Haatch.
+
+## Corrected facts (from the actual document, 1 July 2026)
+- Founder is **Johnny Shanahan** (not Shannon), 25 years a master barber, founder of **BarberBarberUK**, Manchester. Network across UK, US, Australia, Japan.
+- John Webb O'Rourke listed as **Commercial Lead** (advisory and commercial capacity).
+- Technical Lead unnamed ("world-class AI systems architect, top 2% globally"). MVP 90 days from funding.
+- Raise: minimum £500k, target £600k-£750k. Year 1 costs £350k. Break-even month 20-24. Year 5 value est. £100m-£150m.
+- Domain barbertemp.ai secured.
+
+## Review flags (John asked for adjustments, 1 July 2026)
+1. **GOVERNANCE (highest priority):** the document is headed and footed **"Ambrion AI / Meridian Intelligence, Confidential"** and John is titled Managing Partner of both. This formally attaches Ambrion's and Meridian's names to a third-party venture in an investor document. Under the governance floor (no commercial commitment without Shane's alignment), **Shane must sign off before this goes to Haatch or anyone.** Separate question: does John want Ambrion / Meridian branded on a barbering startup deck at all?
+2. **Team gap:** three principals all described as "advisory" (Industry Authority, Commercial Lead, Technical Lead), yet Year 1 budget pays an "MD salary" and a "COO." No named full-time MD/CEO. A VC's first question will be "who runs this day to day?" Address it.
+3. **Valuation claim:** "Year 5 value £100m-£150m on 8x-12x EBITDA" is aggressive and methodologically shaky (early marketplaces are valued on revenue, not EBITDA; no EBITDA figure is shown). A sharp investor will probe it. Substantiate or soften.
+4. **Naming "True" and their terms** in a document going to other investors (Haatch) can backfire and slightly overstates the state of play. Reconsider including a live prospect's name and cheque size.
+5. **Unverifiable superlatives:** "top 2% of AI builders globally" on an unnamed technical lead reads as a red flag, not a strength. Name the person or remove the claim. Tag "£1bn UK market" and the OpenChair "182 shares" with sources; 182 shares is thin as "validation."
 
 ## Cross-reference
 - The positioning line echoes the "reset method" Threads post John flagged on 30 June ("built through consistency... not the influencers"). Same spirit.
