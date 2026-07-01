@@ -30,6 +30,18 @@ Why it matters here: this is a third, independent voice (Derry) landing on the s
 
 ---
 
+## Live money move -- Personalized Intelligence Experience demos (1 July 2026)
+*Agreed by John and Shane, 1 July 2026, off the back of a very positive call with Maliki. This is the current live sales action, and it is the practical form of Derry's "leverage, not linear" steer.*
+
+- **What:** demo the **Personalized Intelligence Experience** to warm contacts, one-hour Zoom calls with John and Shane, to reintroduce it.
+- **Target:** **5 to 10 people** John sources from his own personal and business **contact database**. Warm, high-trust, not cold outreach.
+- **Owners:** John finds and opens the contacts (conversion layer); John and Shane run the demos together.
+- **New shared discipline:** John and Shane now ask each other daily, *"What are we going to do today together to make money?"* This demo push is the first answer.
+- **Governance:** the demo itself must be DECISION-READY before it is shown. Reversible prep (building the shortlist, scheduling) can proceed now.
+- **Next step for John:** pull the shortlist from the contact database. Cuan can structure the list and draft the reach-out once John supplies the contacts.
+
+---
+
 ## Operating rhythm
 - **John:** conversion layer. Walks into the room when exposure is detected and the target is identified. Relationships, IMI/Ibec/IoD leverage, board-level credibility.
 - **Shane:** engine room. Outreach, delivery, content, the orchestration build.
