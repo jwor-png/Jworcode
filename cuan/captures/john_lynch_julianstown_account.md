@@ -18,7 +18,8 @@
 | 3 Jun 2026 | Payment received | | 1,500 | 3,500 |
 | **30 Jun 2026** | **Balance outstanding** | | | **3,500** |
 
-- July 2026 amount (EUR 3,000) fell due 1 July; appears on the next statement.
+- **OVERDUE (John, 2 July):** a EUR 1,500 payment was expected on or about 28 June per the established pattern and was NOT received. Flagged on the statement and in the covering email.
+- July 2026 amount (EUR 3,000) fell due 1 July; appears on the next statement. Total outstanding as at 2 July including July: **EUR 6,500**.
 - Statement PDF: `Julianstown_Lynch_Statement_30June2026.pdf` (this folder). Sent to John for review before anything goes to Lynch.
 
 ## Practice going forward
