@@ -834,6 +834,8 @@ Sessions rotate between Tuesday, Wednesday, and Thursday. Times alternate mornin
 - **Other parties:** Michael Durkan and John Lynch -- co-parties to the sale; final statement and distribution to be agreed with their agreement and understanding
 - **Planning status (24 June 2026):** RFI (Request for Further Information) replied to recently. Planning decision expected in coming weeks. Favourable outcome expected. Sale proceeds to completion as soon as possible thereafter.
 - **John's action (24 June):** Emailed Micheal to review the file and agree next steps. Second email same day asking accounts to send details of funds paid and payouts so John can prepare a final statement for Durkan and Lynch.
+- **Update (2 July):** No response from Micheal or Glynn's accounts to either email. John disappointed; chaser drafted and going. John Lynch chat screenshots re the balancing statement being uploaded to Cuan for decode.
+- **Watch item (2 July):** Public consultation on **8 July** in Julianstown on new traffic relief works. John's dictation suggested it could affect or even cancel the planning. Exact impact to confirm; date is hard. Decide before the 8th whether to attend or make a submission.
 - **Intended use of proceeds:** Pay Paul Candon -- upfront gesture (€5k-€10k) and toward the €208,000 balance. This is John's primary near-term payment source for that obligation.
 - **Sensitivity:** High. Internal only.
 
