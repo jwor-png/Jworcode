@@ -835,7 +835,12 @@ Sessions rotate between Tuesday, Wednesday, and Thursday. Times alternate mornin
 - **Planning status (24 June 2026):** RFI (Request for Further Information) replied to recently. Planning decision expected in coming weeks. Favourable outcome expected. Sale proceeds to completion as soon as possible thereafter.
 - **John's action (24 June):** Emailed Micheal to review the file and agree next steps. Second email same day asking accounts to send details of funds paid and payouts so John can prepare a final statement for Durkan and Lynch.
 - **Update (2 July):** No response from Micheal or Glynn's accounts to either email. John disappointed; chaser drafted and going. John Lynch chat screenshots re the balancing statement being uploaded to Cuan for decode.
-- **Watch item (2 July):** Public consultation on **8 July** in Julianstown on new traffic relief works. John's dictation suggested it could affect or even cancel the planning. Exact impact to confirm; date is hard. Decide before the 8th whether to attend or make a submission.
+- **Watch item (2 July, detail confirmed from WhatsApp group "Julianstown - Old Mill etc" with Durkan and Lynch, and the Michael Heather email thread):**
+  - **R132 Julianstown Traffic Relief Scheme, Option Selection public consultation.** Meath Co Co with Dept of Transport. **Wednesday 8 July, 3pm-8pm, Matt The Thresher, Julianstown.** Four shortlisted options on display; project team present; **submissions accepted until 31 July** and feed into the option selection.
+  - **Michael Heather (Silveroak, myki@silveroak.ie) attends on the 8th** for the project team. Bronagh Clarke (Ward Consult) on leave until 10 July; Stephen Ward monitoring.
+  - **John's position (to Durkan, 2 July):** whatever the traffic relief plan, it is viewed as enhancing the Old Mill development; the Council will have considered traffic relief a plus toward the site planning. So: opportunity, not threat, subject to which of the four route options is preferred.
+  - **Real deadline is 31 July** (submissions), not the 8th. After Heather's read-back on the 8th: decide whether the group makes a submission, particularly if any route option touches or serves the Old Mill lands.
+  - Co-parties channel: WhatsApp group "Julianstown - Old Mill etc" (John, Michael Durkan, John Lynch).
 - **Intended use of proceeds:** Pay Paul Candon -- upfront gesture (€5k-€10k) and toward the €208,000 balance. This is John's primary near-term payment source for that obligation.
 - **Sensitivity:** High. Internal only.
 
