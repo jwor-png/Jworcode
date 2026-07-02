@@ -40,6 +40,16 @@ Why it matters here: this is a third, independent voice (Derry) landing on the s
 - **Governance:** the demo itself must be DECISION-READY before it is shown. Reversible prep (building the shortlist, scheduling) can proceed now.
 - **Next step for John:** pull the shortlist from the contact database. Cuan can structure the list and draft the reach-out once John supplies the contacts.
 
+**Demo shortlist (building toward 5-10, as at 2 July 2026):**
+| # | Contact | Detail | Status |
+|---|---|---|---|
+| 1 | Malachy | Propensity co-developer (possibly Malachy Harkin, Casana Developments -- to confirm) | DONE 1 July. Went very well. The playbook. |
+| 2 | Mike Glennon | Glennon Brothers, timber suppliers (name spelling to confirm) | To approach -- John personally |
+| 3 | Pete Smyth | Broadlake ("known ?Lunen's son-in-law" -- relationship garbled in dictation, to confirm) | To approach -- John personally |
+| 4 | Gary Gray | (Confirm spelling and that he is distinct from Derry Gray) | To approach -- John personally |
+
+**Agreed approach (John and Shane, 2 July):** John reaches out personally, short email, note or WhatsApp, introducing what John and Shane are doing, with the single goal of getting a one-hour Zoom in the diary. Then the demo runs as it did with Malachy. Personal, warm, one ask per message.
+
 ---
 
 ## Operating rhythm
