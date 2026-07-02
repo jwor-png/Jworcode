@@ -44,9 +44,9 @@ Why it matters here: this is a third, independent voice (Derry) landing on the s
 | # | Contact | Detail | Status |
 |---|---|---|---|
 | 1 | Malachy | Propensity co-developer (possibly Malachy Harkin, Casana Developments -- to confirm) | DONE 1 July. Went very well. The playbook. |
-| 2 | Mike Glennon | Glennon Brothers, timber suppliers (name spelling to confirm) | To approach -- John personally |
-| 3 | Pete Smyth | Broadlake ("known ?Lunen's son-in-law" -- relationship garbled in dictation, to confirm) | To approach -- John personally |
-| 4 | Gary Gray | (Confirm spelling and that he is distinct from Derry Gray) | To approach -- John personally |
+| 2 | Mike Glennon | Glennon Brothers, timber suppliers (spelling confirmed by John, 2 July) | To approach -- John personally |
+| 3 | Pete Smyth | Broadlake. Son-in-law of Nol Noonan (John's spelling, 2 July) | To approach -- John personally |
+| 4 | Derry Gray | Ex-Managing Partner BDO Dublin. "Gary Gray" was a mishear -- one and the same man who sent the independent strategic read on 30 June. Already engaged, asked "what do you want to tackle first?" | To approach -- John personally. Warmest of the three. |
 
 **Agreed approach (John and Shane, 2 July):** John reaches out personally, short email, note or WhatsApp, introducing what John and Shane are doing, with the single goal of getting a one-hour Zoom in the diary. Then the demo runs as it did with Malachy. Personal, warm, one ask per message.
 
