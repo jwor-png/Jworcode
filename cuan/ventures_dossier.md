@@ -921,3 +921,21 @@ Paul asked for €5,000-€10,000 upfront as a gesture of good faith before sign
 - 17 June 2026 — Paul emailed with Jason Harte's one amendment and upfront payment ask
 - 24 June 2026 -- John making one amendment tonight, printing and signing, handing to Paul tomorrow at UHL
 - Friday 26 June 2026, 10:30am — MiDentalCare creditors' meeting, Plaza Hotel, Tallaght, Dublin 24
+
+---
+
+## Site Sourcing Joint Venture -- John / Shane / Malachy (working title, added 3 July 2026)
+
+**What it is:** A three-way joint venture between John, Shane McCarthy and Malachy (surname to confirm; believed Malachy Harkin of Casana Developments, the same Malachy as the Propensity property play and the Old Mill Julianstown project team -- John to confirm the merge). Purpose: **sourcing and securing sites** in Ireland for:
+1. **Residential developments of 60+ units minimum**, and
+2. **Data centres.**
+
+**The proof asset:** Shane's "Grid-Proximity Data Centre Land Analysis, Republic of Ireland" (Velocity AI, verified 2 July 2026; copy at `cuan/captures/Ireland_Grid_Proximity_DataCentre_Land_Analysis.pdf`). Every industrial-zoned parcel within 1,000m of the national transmission grid: 289 stations mapped, 580 parcels scored, 308 inside 500m, 39 prime non-Dublin sites, top-20 ranked with ESB headroom MVA per station. Method independently verified against primary sources (EirGrid, DHLGH zoning dataset, ESB Networks heatmap, CRU Dec 2025 connection policy). Credibility marker: ranked blind, the model put the Bracetown-Clonee corridor (Meta's campus location) #1 nationally. Stated honest limits: headroom is indicative not a connection offer; planning permissibility needs a consultant; ownership/availability ground truth is the next phase.
+
+**Why it matters:** this is the Meridian/Velocity spatial-intelligence capability applied to land. The same engine can run the residential screen (60+ unit sites: zoning, services, transport, schools) that the data-centre screen ran on the grid. Shane builds the intelligence, Malachy brings development expertise and network, John brings commercial structuring, legal and governance.
+
+**Related but separate:** Shane is also doing work for Malachy on an **eSIM project** Malachy has in mind. Tracked as a Shane/Malachy work item, not part of this JV until said otherwise.
+
+**Status:** Forming. No entity, no name, no terms yet. Next steps: (1) John/Shane/Malachy agree scope and split; (2) confirm Malachy surname and merge identities on the people map; (3) decide first target list (residential screen or data-centre site approaches). Governance floor applies: no commercial commitment without Shane's alignment (Shane is a principal here, so alignment is inherent, but terms need all three).
+
+**Portfolio note:** joins Ambrion AI, Velocity AI, Meridian, Golden Generation, Sensai (pending confirmation), Propensity and BarberTemp (advisory) on the active list.
