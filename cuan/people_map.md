@@ -265,9 +265,16 @@
 - **Current matter:** Sent John an off-market residential development site at Pouladuff / Pearse Road, Cork (7 June 2026). Awaiting John's reply. John to consult Christy Crowley on suitability first, then respond to Hilary this week.
 
 ### Malachy Harkin
-- **Contact:** malachyh@gmail.com
-- **Role:** Property developer / investor -- trusted contact, John passes opportunities to him for assessment
-- **Current matter:** Reviewed Pouladuff / Pearse Road site and passed -- "side garden of a house, corner location, difficult access, can't see 10-15 units." Also involved in Old Mill, Julianstown planning matter.
+- **Contact:** malachyh@gmail.com; malachy@casana.ie; IRL +353 87 904 7472, UK +44 747 722 0915, USA +1 917 525 1490
+- **Company:** Casana Developments Limited, Unit 5E Swords Business Park, Swords, K67 C7P6
+- **Relationship:** Very good friend of John's for 30+ years (confirmed by John, 3 July 2026). One of John's closest and most active commercial relationships.
+- **Role:** Property developer / investor. Now spans FOUR live threads with John:
+  1. **Old Mill, Julianstown** -- applicant (Casana Developments) on the planning application; co-venturer with John and Michael Heather (Silveroak).
+  2. **Propensity** -- property tech agreed 1 July 2026, to be developed by Malachy, Shane and John (Velocity side).
+  3. **Site Sourcing JV** (forming, July 2026) -- John / Shane / Malachy: residential sites 60+ units minimum, and data centre sites. Founding asset: Shane's Grid-Proximity Data Centre Land Analysis (2 July 2026).
+  4. **eSIM project** -- Malachy's concept, Shane doing work on it (separate from the JV).
+- **First demo of the Personalized Intelligence Experience** (1 July 2026) -- went very well; he is the playbook case for the demo shortlist.
+- **History:** Reviewed Pouladuff / Pearse Road site and passed -- "side garden of a house, corner location, difficult access, can't see 10-15 units."
 
 ### John McNamara
 - **Role:** Co-Founder, Performance Nerds; ICF certified coach

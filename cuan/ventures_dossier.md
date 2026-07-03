@@ -926,7 +926,7 @@ Paul asked for €5,000-€10,000 upfront as a gesture of good faith before sign
 
 ## Site Sourcing Joint Venture -- John / Shane / Malachy (working title, added 3 July 2026)
 
-**What it is:** A three-way joint venture between John, Shane McCarthy and Malachy (surname to confirm; believed Malachy Harkin of Casana Developments, the same Malachy as the Propensity property play and the Old Mill Julianstown project team -- John to confirm the merge). Purpose: **sourcing and securing sites** in Ireland for:
+**What it is:** A three-way joint venture between John, Shane McCarthy and **Malachy Harkin** (Casana Developments; confirmed by John 3 July 2026 -- the same Malachy as the Propensity property play and the Old Mill Julianstown project team; a very good friend of John's for 30+ years). Purpose: **sourcing and securing sites** in Ireland for:
 1. **Residential developments of 60+ units minimum**, and
 2. **Data centres.**
 
@@ -936,6 +936,6 @@ Paul asked for €5,000-€10,000 upfront as a gesture of good faith before sign
 
 **Related but separate:** Shane is also doing work for Malachy on an **eSIM project** Malachy has in mind. Tracked as a Shane/Malachy work item, not part of this JV until said otherwise.
 
-**Status:** Forming. No entity, no name, no terms yet. Next steps: (1) John/Shane/Malachy agree scope and split; (2) confirm Malachy surname and merge identities on the people map; (3) decide first target list (residential screen or data-centre site approaches). Governance floor applies: no commercial commitment without Shane's alignment (Shane is a principal here, so alignment is inherent, but terms need all three).
+**Status:** Forming. No entity, no name, no terms yet. Next steps: (1) John/Shane/Malachy agree scope and split; (3) decide first target list (residential screen or data-centre site approaches). Governance floor applies: no commercial commitment without Shane's alignment (Shane is a principal here, so alignment is inherent, but terms need all three).
 
 **Portfolio note:** joins Ambrion AI, Velocity AI, Meridian, Golden Generation, Sensai (pending confirmation), Propensity and BarberTemp (advisory) on the active list.

@@ -43,7 +43,7 @@ Why it matters here: this is a third, independent voice (Derry) landing on the s
 **Demo shortlist (building toward 5-10, as at 2 July 2026):**
 | # | Contact | Detail | Status |
 |---|---|---|---|
-| 1 | Malachy | Propensity co-developer (possibly Malachy Harkin, Casana Developments -- to confirm) | DONE 1 July. Went very well. The playbook. |
+| 1 | Malachy Harkin | Casana Developments (confirmed by John 3 July; friend of 30+ years). Propensity co-developer; Site Sourcing JV partner. | DONE 1 July. Went very well. The playbook. |
 | 2 | Mike Glennon | Glennon Brothers, timber suppliers (spelling confirmed by John, 2 July) | To approach -- John personally |
 | 3 | Pete Smyth | Broadlake. Son-in-law of Nol Noonan (John's spelling, 2 July) | To approach -- John personally |
 | 4 | Derry Gray | Ex-Managing Partner BDO Dublin. "Gary Gray" was a mishear -- one and the same man who sent the independent strategic read on 30 June. Already engaged, asked "what do you want to tackle first?" | To approach -- John personally. Warmest of the three. |
