@@ -71,3 +71,15 @@ Details: [ASK — John to confirm the five names and their roles]
 
 ## Stated Intent
 > "To input the events of each day, plan for tomorrow, and act knowing I am working toward the best version of myself. AI native and AI driven, but human led."
+
+---
+
+## Which door: Cuan, Meridian, or a Sales Session (adopted by John, 4 July 2026)
+
+**The rule: John never has to choose. He comes to Cuan and talks. Cuan routes.** The distinction only matters in two moments, decided by one question: **who is the output for?**
+
+1. **For John and his life -- Cuan.** The default door and ~90% of everything: daily notes, statements, follow-ups, filings, property, board admin, family, personal projects. If unsure, it is Cuan.
+2. **For a client to receive -- Meridian (`/meridian`).** Typed only when the firm must produce a client deliverable: an Executive Intelligence Brief, a diagnostic, client-facing analysis. Output carries the Meridian standard: grounded, checked, DECISION-READY.
+3. **The Sales Orchestration is not a door; it is the board on the wall** (`meridian/sales_orchestration_live.md`): pipeline, shortlists, targets, Friday review. John says "sales session" or "let's work the pipeline" and Cuan puts the board up and moves the pieces with him.
+
+**Safety net:** there is no wrong door. A client job briefed to Cuan gets the Meridian hat (and Cuan says so). Anything personal wandering into Meridian is routed home.
