@@ -298,6 +298,20 @@ Articles and intelligence noted by John as potential opportunity threads for Mer
 - **Ingestion form:** https://uhl-aitraining-ingestion-form.netlify.app/
 - **Skillnet opportunity:** Raised post Session 1. Draft email to Maya re Retail Ireland Skillnet and Technology Ireland Digital Skillnet -- ready to send.
 
+### UHL AI Strategy Proposal -- LIVE, awaiting Paul Candon's response (sent 29 June 2026)
+*The single largest live commercial opportunity on the board. Six documents, two parts, sent by John and Shane to Paul Candon (CEO) and Shane, built off the back of Session 1's positive response.*
+
+**Part 1 -- Competitor intelligence (built from the training session itself):** Competitor AI Analysis, Executive Summary, Evidence Pack. Maps what leading hardware/DIY groups (UK & Ireland, US, Australia, NZ) are doing with AI and where United Hardware can lead rather than follow.
+
+**Part 2 -- Strategy, regulation and funding (Cuan has read all three in full):**
+1. **AI Strategy Combined Picture** (one page). Six recommended plays, all minimal-risk under the EU AI Act: member-store AI assistant (staff/DIY guidance), AI product search, product-data enrichment, AI demand forecasting, trade-customer personalisation (GDPR-led), answer-engine visibility. Two hard "red lines" flagged and recommended against: in-store facial recognition, AI trade-credit scoring of customers (both high-risk/prohibited territory). Core thesis: UHL currently has zero AI footprint and can become "the AI utility its members cannot build alone" -- genuine whitespace, not a race already lost.
+2. **EU AI Act Regulatory Exposure** (10 pages, two-model verified: Opus 4.8 research, independently checked claim-by-claim by Sonnet 4.6, ~82-85% first-pass accuracy with corrections applied and logged). Key finding for UHL: as almost always a **deployer** (not provider/model-maker), the heaviest obligations sit with vendors. Live duties now: Art 5 prohibitions + Art 4 AI literacy (since 2 Feb 2025). 2 August 2026 mainly means Art 50 transparency duties plus enforcement going live -- the headline date did not move. The Digital Omnibus pushes high-risk Annex III deadlines (credit-scoring, HR/worker-management) to 2 December 2027, giving UHL 16-18 extra months on its two red-line risk areas specifically.
+3. **Grant Intelligence Matrix** (verified June 2026). UHL Group qualifies for the large-company tier (DTIF, Innovation Partnership Programme, Horizon Europe, Digital Europe) while its ~130 independent member stores separately qualify for SME-tier funding (Skillnet, LEO, Online Retail Scheme) that the Group cannot access directly -- both tracks can run at once. Realistic 24-month prize: €1.5m-€5m Group track plus up to ~€1m illustrative member-network ceiling. **DTIF Call 8 is the anchor: €40m fund, opens 1 Oct 2026, closes 31 Jan 2027, needs a 3+ partner consortium including an SME -- 3 to 6 months prep, work should start now.** Fastest first win: Skillnet registration this week (up to 50% training subsidy for UHL, up to 70% for member SMEs).
+
+**Status:** Sent 29 June. Paul Candon replied 30 June: away that day, will review on return and come back with his thoughts. **No further response yet as of 3 July.** This is the natural next follow-up once Paul has had time, using the momentum-close discipline (a specific ask, a date) rather than a generic chase.
+
+**Governance note:** Paul Candon is simultaneously (a) the UHL CEO being sold this proposal, and (b) the personal loan counterparty from the MiDentalCare matter (see Paul Candon Matter, below). Two entirely separate relationships with the same man -- one commercial and above board, one personal and private. Keep them procedurally separate; do not let one surface in conversation about the other.
+
 ### Property Properly -- Detail (added 16 June 2026)
 - **Company:** Property Properly
 - **Contacts:** Ciarán (cconroy09) and Tony
