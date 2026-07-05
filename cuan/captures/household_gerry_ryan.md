@@ -9,7 +9,13 @@
 5. **[John to add]** -- any jobs Majella wants prioritised
 
 ## Also on the household slate
-- **Temu order:** cart has items waiting (reminder email 2 July, "2pcs Hat Storage..."). John to complete the order in the Temu app; Cuan cannot place it.
+- **Temu order -- John's checklist (5 July 2026):**
+  1. Rust remover / rust treatment for a golf club shaft (John said "rust paint" -- likely a remover first, then paint)
+  2. Paint suitable for a silver golf shaft (silver metal finish)
+  3. Composter for food waste
+  4. Neutral shoe cleaner, liquid
+  5. Car cleaning items
+  (Cart already holds items from the 2 July reminder. John completes the order in the Temu app; Cuan cannot place it.)
 - eir contract nudge: May 2027 (set).
 
 ## People map note
