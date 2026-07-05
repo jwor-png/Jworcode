@@ -51,3 +51,30 @@ A new app: a **labour exchange / temp-labour marketplace for the barbering indus
 2. Who is **Dave** (said "too early" at TrueGrowth Global)?
 3. Source for the **OpenChair US launch** claim, so it can be tagged VERIFIED before it goes in front of Haatch.
 4. Send Cuan the actual two pages for a proper review.
+
+---
+
+## Graham Byrne's AI-simulated VC read of the Haatch teaser (received via Johnny, 5 July 2026)
+*Graham ran the intro document through an AI as "how a VC will see the teaser," sent it to Johnny with his own view; Johnny forwarded to John. Cuan's hard scrutiny below (John's instruction, 5 July). Verdict line from the simulated VC: "Pass as written, meeting granted on the founder."*
+
+### The critique, point by point, Cuan's assessment
+| # | Claim | Cuan verdict |
+|---|---|---|
+| 1 | OpenChair is chair RENTAL, not labour exchange -- adjacent model presented as demand confirmation | **CORRECT. Genuine catch.** Carried from the source docs into the teaser. Must be reframed as adjacent-market signal or dropped. |
+| 2 | Nothing built, nobody full-time; team is "one committed person post-cheque"; no technical co-founder with equity skin; outsourced MVP pattern "rarely ends well" | **CORRECT structurally.** Matches Cuan's original team-gap flag, sharpened. Graham's fix: insource tech -- Shane full-time with meaningful equity. MAJOR John/Shane decision (capacity across the whole portfolio). |
+| 3 | Validation aspirational: LOIs are targets, not signatures | **CORRECT as written** -- though Johnny has already begun shop outreach (undocumented progress). The Actions doc itself demanded signed LOIs. |
+| 4 | £1bn TAM is the industry, not the opportunity; no take rate, booking frequency or serviceable market shown | **CORRECT.** No commission % stated anywhere in the 11 documents. Bottom-up unit economics needed: day rate x take rate x frequency x active pairs. |
+| 5 | Disintermediation (leakage) unaddressed | **HALF-RIGHT.** A real leakage answer exists in the True call brief (loyalty pricing, premium features, ratings priority) but was omitted from the teaser. The killer question deserves its paragraph. |
+| 6 | Five revenue streams at pre-seed = lack of focus | **HALF-RIGHT.** The docs phase them (commission day 1; rest year 2+), but the teaser should lead with ONE wedge: commission on cover bookings. Others are roadmap. |
+| 7 | Break-even months 20-24 on ~£350k "very optimistic" for a two-sided marketplace | **FAIR CHALLENGE.** Defensible as a target but should be presented with sensitivity, not certainty. |
+| 8 | Unaddressed: temp-staffing competitors (Indeed Flex, Coople), platform feature risk (Fresha/Booksy adding cover), employment agency regulation / worker-status exposure | **CORRECT AND NEW.** Not covered anywhere in the 11 documents. The employment-agency/worker-status point is a real regulatory workstream for a temp-labour marketplace. |
+| 9 | "Fund-first, validate-second is the biggest signal in the document" | **THE POINT THAT MATTERS.** Aligns with Derry's doctrine and the Actions doc. Graham's prescription: ~20 manual, WhatsApp-brokered PAID bookings in weeks, near zero cost, then raise as a validated model seeking growth capital at better terms. |
+
+### Cuan's honesty note
+Cuan's own review had flagged the team gap, the valuation framing, thin validation and naming True. It did NOT catch: the OpenChair model mismatch, the employment-agency regulation exposure, temp-staffing competitors, or the absence of bottom-up unit economics. Logged as review-process lessons: verify external comparables against the comparable's actual model; run a regulatory lens on the BUSINESS (not just the AI layer); always demand unit economics bottom-up.
+
+### The path forward (recommended, for John, Shane, Johnny)
+1. **Pause the Haatch send.** Graham's offer stays warm. Arrive validated, not aspiring.
+2. **The 20-booking manual pilot:** Johnny brokers ~20 real cover bookings by WhatsApp/phone over 4-6 weeks, both sides pay, commission taken manually, tracked on a simple sheet. Zero build cost. Johnny's shop outreach already under way gives a head start.
+3. **The Shane equity question** goes on the next John/Shane agenda: technical co-founder with meaningful equity vs advisory -- with portfolio capacity implications stated honestly.
+4. **Rebuild the teaser after the pilot:** one wedge narrative; bottom-up unit economics; leakage paragraph; OpenChair reframed; competitor and regulation lines added; "validated model seeking growth capital."
