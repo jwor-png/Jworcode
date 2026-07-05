@@ -6,7 +6,7 @@
 2. **Garden office to house move (support):** when Alphonse O'Regan does the CCTV upgrade (two cameras per front door, wire repairs), the box and screen move from the garden office into the house. Gerry can assist with the physical side.
 3. **[John to add]** -- garden/yard seasonal jobs
 4. **[John to add]** -- repairs and maintenance
-5. **[John to add]** -- any jobs Majella wants prioritised
+5. **From Majella (5 July, priority):** clean and sweep around all windows and doors outside; keep them free of cobwebs and dirt. Standing job, not once-off.
 
 ## Also on the household slate
 - **Temu order -- John's checklist (5 July 2026):**
