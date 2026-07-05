@@ -16,6 +16,6 @@ Dormant since 9 April 2025. No further email traffic in three years of records. 
 ## Cuan note
 Interesting historical marker: this April 2025 exchange is one of the earliest recorded John-and-Shane AI research collaborations. The pattern they now sell (fast AI research, verified, decision-ready) started here, on a water idea in their own town.
 
-## To confirm with John
-- Is **Owen Webb O'Rourke** the same person as **Eoghan** (John's son, married to Dervla)? One spelling should win on the people map.
-- Who is **Ger at dsb.ie** (adviser/accountant?) for the people map.
+## Resolved (John, 5 July 2026)
+- **Owen Webb O'Rourke** confirmed -- John's son (Owen, Dervila and grandson Cuan, per people map). "Eoghan" elsewhere was a mishear, corrected.
+- **Ger Blake, DSB Accountants** (ger@dsb.ie) -- the adviser whose capex and route-to-market assessment is recorded above. Added to people map.

@@ -21,7 +21,7 @@ These are people matters that should not wait. Two are grief, one is illness.
 | Person | Category | What it is | Action |
 |---|---|---|---|
 | **Alphonse O'Regan** ("Al Cameras") | Operations / Property | Manages and repairs the CCTV around John's house. | Contact re upgrade: install two cameras at the front door of each house, repair damaged wires, move the box and screen from the garden office to the house. |
-| **Christy Crowley** | Property (Bantry) / Family | Architect in Bantry. | Contact to consider a design for a house on the site to the rear, on the lands available, for either Eoghan and Dervla or for Niamh. |
+| **Christy Crowley** | Property (Bantry) / Family | Architect in Bantry. | Contact to consider a design for a house on the site to the rear, on the lands available, for either Owen and Dervila or for Niamh. *(Corrected 5 July: "Eoghan" was a mishear; Owen per people map.)* |
 
 ## AHL (board / commercial)
 | Person | Category | What it is | Action |

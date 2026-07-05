@@ -276,6 +276,15 @@
 - **First demo of the Personalized Intelligence Experience** (1 July 2026) -- went very well; he is the playbook case for the demo shortlist.
 - **History:** Reviewed Pouladuff / Pearse Road site and passed -- "side garden of a house, corner location, difficult access, can't see 10-15 units."
 
+### Ger Blake
+- **Contact:** ger@dsb.ie
+- **Role:** DSB Accountants -- trusted commercial sounding board
+- **History:** Assessed the Kilmallock Water idea in confidence (April 2025): flagged plant capital cost and route to market as the two hard objections. Sound, direct commercial judgement.
+
+### Gerry Ryan
+- **Role:** Part-time work at home for John and Majella (garden, maintenance, practical jobs)
+- **Current:** Working list held at `captures/household_gerry_ryan.md` -- hive site prep and garden office move support on it; John/Majella to add specifics.
+
 ### John McNamara
 - **Role:** Co-Founder, Performance Nerds; ICF certified coach
 - **Relationship:** John knows him well and rates his judgement highly
