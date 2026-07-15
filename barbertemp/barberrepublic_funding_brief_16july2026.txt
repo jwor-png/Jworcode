@@ -35,7 +35,7 @@ Once the loop is live with the founding cohort for a few weeks, we go back to Ai
 3. THE SEQUENCE
 
 1. Start the manual pilot now: around 20 real cover bookings brokered by phone and WhatsApp, both sides paying, commission taken manually, tracked on one sheet. Near zero cost, and it starts the clock on proof while anything else is being arranged.
-2. Scope the lean MVP: the core loop only (post a chair, fill a chair, pay in app, rate both sides). We size the build to the bridge available rather than the full specification, and Shane's architecture makes sure nothing lean now blocks the AI layer later.
+2. Scope the lean MVP: the core loop only (post a chair, fill a chair, pay in app, rate both sides). We size the build to the bridge available rather than the full specification, and the architecture will be designed so nothing lean now blocks the AI layer later. I am working through the technical leadership structure at my end and will have that firmed up for you shortly; nothing in the sequence waits on it.
 3. Close the private bridge with the option structure above, papers reviewed by a solicitor before signature.
 4. Go live with the founding cohort in London and let it run for the weeks Haatch asked for.
 5. Return to Aini and Silvana with the numbers, and file the Innovate UK loan application against the AI build in parallel.
