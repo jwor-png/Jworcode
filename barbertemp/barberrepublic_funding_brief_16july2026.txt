@@ -1,0 +1,56 @@
+BARBERREPUBLIC - THE HAATCH FEEDBACK, THE FUNDING PLAN, AND THE ROAD BACK
+Prepared 16 July 2026 - Confidential - John Webb O'Rourke
+
+Johnny,
+
+I have run the Haatch feedback and the funding question through the full intelligence engine as promised. Here is the complete picture and the plan.
+
+1. WHAT HAATCH ACTUALLY TOLD US
+
+Read it carefully and it is not a rejection. It is a conditional yes with the conditions named:
+
+- The bar: the MVP live in a real client environment for at least a couple of weeks, showing usage, adoption and early ROI against the pain points.
+- The compliment: your reputation in the industry and the core problem both "come across really clearly". That is the founder and the problem validated by a VC in writing.
+- The door: when the core loop is working with live shops and barbers, Aini at Haatch (aini@haatch.com) has asked us to come back directly.
+
+True Global said too early. Graham's review said validate first. Haatch has now said the same thing with a named contact and a defined bar. Three independent signals pointing at one strategy: we do not need a better pitch, we need a working loop. And as Graham said, it is near zero cost to get going.
+
+2. THE FUNDING PLAN - THREE LEGS
+
+Leg 1: Your private funds get us moving now.
+You mentioned you may have private funding available. The structure I propose we design: the funds come in as a bridge to build the lean MVP and run the founding cohort live. The funders then hold an option, exercisable at an agreed point:
+- convert into agreed equity on pre-agreed terms, or
+- be repaid with a coupon (interest), with the founders retaining all equity.
+This gives your people a clean choice: share in the upside, or take a fixed return. It gives us speed now without pricing the company under pressure. It needs proper legal design (a convertible loan note with a redemption option is the standard vehicle) and we take advice on it before anyone signs anything, but the shape is simple and fair on both sides.
+
+Leg 2: Innovate UK, eyes open.
+I have checked the current position directly and I want to give it to you straight rather than dressed up:
+- Innovation Loans are live: for UK-registered SMEs, from 100k pounds up into the millions, covering up to 100 percent of eligible project costs for late-stage R&D with a clear route to commercialisation. Our credible R&D angle is the AI matching and demand-prediction layer, not the app build itself. Two cautions: it is competitive, it is debt with interest, and the timelines are slow. The current cycle points at projects starting around December 2026. It is a Phase 2 tool, not this month's money.
+- Smart Grants, the general early-stage grant route, has been paused since January 2025 with no rounds this financial year. Themed competitions still run and we will watch them, but we should not build a plan that depends on grant money arriving, and I will not pretend otherwise.
+So the honest version of the repayment leg: Innovate UK can strengthen Phase 2 (the loan against the AI build) and any grant that appears is a bonus, but the bridge should be designed to be repaid or converted on the business's own numbers, with grants as upside rather than the plan.
+
+Leg 3: Back through Haatch's open door, validated.
+Once the loop is live with the founding cohort for a few weeks, we go back to Aini with usage, retention and early revenue. Same document, now with proof in it. True Global gets the same call. Arriving validated changes the price and the terms in our favour, exactly as Graham predicted.
+
+3. THE SEQUENCE
+
+1. Start the manual pilot now: around 20 real cover bookings brokered by phone and WhatsApp, both sides paying, commission taken manually, tracked on one sheet. Near zero cost, and it starts the clock on proof while anything else is being arranged.
+2. Scope the lean MVP: the core loop only (post a chair, fill a chair, pay in app, rate both sides). We size the build to the bridge available rather than the full specification, and Shane's architecture makes sure nothing lean now blocks the AI layer later.
+3. Close the private bridge with the option structure above, papers reviewed by a solicitor before signature.
+4. Go live with the founding cohort in London and let it run for the weeks Haatch asked for.
+5. Return to Aini and Silvana with the numbers, and file the Innovate UK loan application against the AI build in parallel.
+6. Employment status legal opinion proceeds alongside, before the T&Cs are finalised. This remains the one workstream that must not lag the build.
+
+4. WHAT I NEED FROM YOU
+
+- A view on the private funds: roughly how much is available, from whom, and their appetite: equity people or fixed-return people?
+- Your LOI push continues: every signed founding barber and shop strengthens both the bridge conversation and the return to Haatch.
+- A number from you on the leanest cohort that proves the loop: how many shops and barbers do you need live to make the numbers real?
+
+Not the news we hoped for from Haatch, but it is the clearest map we have been given yet: they told us exactly what to build, how long to run it, and who to bring it back to. We now fund it on our own terms and walk back through their door with proof.
+
+Call me when you have read this.
+
+Best
+
+John
