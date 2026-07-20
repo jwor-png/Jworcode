@@ -122,3 +122,6 @@
 - Word on flags 1-7
 
 *(Satisfied from this chat's records: original Haatch intro + feedback ✓, AI Summit submission ✓, 24-company list ✓, Meridian fee structure ✓.)*
+
+## Added 20 July 2026 (evening)
+- REVIEW: Paint group report sent to Paul Candon (validation brief, meridian/briefs/Meridian_UH_PaintGroup_Validation_Brief_FINAL.pdf). John to re-read and decide follow-up with Paul on the 6-8 week validation sprint. Tier 1.
