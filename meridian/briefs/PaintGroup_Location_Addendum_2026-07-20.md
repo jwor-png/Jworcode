@@ -16,3 +16,10 @@ Crown Decorating Centres ~18 Irish outlets (VERIFIED); Dulux Decorator Centres o
 - Pat McDonnell: anchor or competitor. Shapes the map.
 - Waterford, Wexford, Athlone, Tralee: call-round needed, no confirmed independents in search.
 - Verify all counts against UH member list and direct locator access.
+
+## Network-blind view (demand and whitespace only, membership locations set aside)
+Tier 1 cities: Dublin (3-4 catchments), Cork, WATERFORD (city-scale whitespace: no independent found, one chain store), Limerick, Galway.
+Tier 2 corridors: Drogheda (44,135, largest town, VERIFIED CSO) + Dundalk (43,112) on the M1 with +58% Border growth; Navan/Meath (~33k, no specialist found, Mid-East 19.9% completions); Swords fringe.
+Tier 3 whitespace anchors: Ennis, Tralee, Carlow, Sligo, Athlone, Letterkenny.
+Avoid: Newbridge/Kildare pocket (Crown + Fleetwood + Colourtrend all present).
+Reading: member-anchored list = where to recruit existing shops; blind list = where demand exists unserved (Waterford, Navan, Ennis, Carlow rise), relevant to Phase 3 own-label or new-shop backing. "Nothing found" = search floor, confirm by call-round in sprint.
