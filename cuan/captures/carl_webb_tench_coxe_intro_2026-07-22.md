@@ -1,38 +1,36 @@
-# Carl Webb → Tench Coxe Introduction — Meridian Venture Brief
+# Carl Webb → Tench Coxe Introduction — Shane-led ODIN Briefing
 
-*Captured 22 July 2026, from John (WhatsApp screenshots with Carl Webb). High-priority, time-bound. Source-tagged. This is the Meridian/orchestration venture John runs with Shane, so Shane alignment applies.*
+*Captured 22 July 2026, from John (WhatsApp screenshots with Carl Webb). Reframed per John 22 July: this is NOT a Meridian proposal. It is a Shane-led proposal built around **ODIN**. Scheduled for future; Shane will likely revert tomorrow (23 July).*
+
+## What this is (corrected)
+- **Not Meridian.** Meridian may form a part, but disregard it as the frame. Do not build this as a Meridian brief.
+- **The subject is ODIN — the Orchestrated Distributed Intelligence Network:** the central brain / organism Shane is building.
+- **The briefing is Shane-led.** John supports; Shane fronts it.
+- (John referred to it as a "Shannonside/Shannonite" proposal — descriptor to confirm with him.)
 
 ## The opportunity
-- **Carl Webb** (John's cousin, in New York; silent co-director with John of Webb Sports Horses Ltd) has opened a door.
-- Last evening Meridian produced an **initial overview of Carl's sport horse business** and John sent it to Carl. Carl's response was warm ("very interesting... I'll read it again after I stew it over").
-- Carl then offered: *"If you want to do up your brief for your venture and I can show it to the guys here. She said she'd speak to her son and present it to him first."*
-- **The venture** = "all that I do with Shane" = **Meridian Intelligence / the orchestration intelligence business.**
-- **The route:** a contact in Carl's New York horse circle (a woman; her family takes lessons with Carl) → she speaks to her son → potential introduction to **Tench Coxe**.
+- **Carl Webb** (John's cousin, New York; silent co-director with John of Webb Sports Horses Ltd) has opened a door.
+- Last evening Meridian produced an initial overview of **Carl's sport horse business**, which John sent Carl. Carl came back warm and then offered to carry **John's venture brief** to his New York circle.
+- **The route:** a contact in Carl's New York horse world (a woman; her family takes lessons with Carl) → she speaks to her son → potential introduction to **Tench Coxe**.
 
 ## Who Tench Coxe is (REPORTED — Forbes screenshot, 21 July 2026)
 - Real-time net worth **$8.4B**, #428 in the world.
 - **Third-largest shareholder of Nvidia**, after CEO Jensen Huang and Mark Stevens.
 - Managing director / venture capitalist at **Sutter Hill Ventures**; on Nvidia's board since 1993.
-- Early investor in Snowflake; also serves on the board of asset manager Artisan.
+- Early investor in Snowflake; also on the board of asset manager Artisan.
 
-## The commitment John has made (WhatsApp, 14:56)
-- Produce the Meridian **venture brief / introductory briefing on the intelligence**.
-- **Deadline: across the next 48 hours, before close of business Friday 25 July 2026.**
+## What John told Carl (WhatsApp, 14:56)
+- The brief goes across over the next 48 hours and **before close of business Friday 25 July 2026.**
 - Carl carries it to his circle for the intro.
 
-## Governance / gates (must clear before it goes)
-- **Shane alignment required** — this is the Meridian venture and the intro is explicitly "for Shane and I." No commercial brief ships to a Tench Coxe-level recipient without Shane in the loop.
-- **DECISION-READY bar** — audience is a top-tier VC / Nvidia insider. Every claim grounded, verification-forward, zero fabrication. This is the sharpest possible audience for the "AI driven, human led, independently verified" positioning.
-- Keep "Transition Intelligence" out of any external document (standing rule).
+## Status / next step
+- **SCHEDULED FOR FUTURE. Shane leads. Shane likely back to John tomorrow (23 July) on it.**
+- John does not need Cuan to draft anything yet. Hold until Shane sets the shape.
+- The Friday commitment to Carl stands, but the content and lead sit with Shane and ODIN, not a Cuan/Meridian draft.
 
-## Starting assets
-- `meridian/meridian_overview_branded.html` / `.pdf` — the branded Meridian overview (seven domains, verification chain). The natural spine for the brief.
-- Needs a purpose-built front for this audience: what Meridian is, why it matters now, the proof, and the ask (or the soft, no-ask introduction).
-
-## Open questions for John
-- Is the intended recipient of the brief **Tench Coxe himself**, or first the intermediary (the woman / her son)? That sets the tone (warm no-ask intro vs investor-grade pitch).
-- Is the ask an **investment conversation**, a **client/advisory conversation**, or purely a **relationship introduction** at this stage?
-- Does Shane want to co-shape it before it goes, given it is for "Shane and I"?
+## Governance
+- Shane-led and Shane-owned. No Cuan-authored brief ships without Shane's shape and alignment.
+- If/when a document is produced: DECISION-READY bar (top-tier VC / Nvidia insider audience), every claim grounded, zero fabrication.
 
 ## Note — Friday 25 July is busy
-- Also on Friday: Julianstown architects Teams call 12:30. The Coxe brief needs to be with Carl before COB Friday, so aim to finish it Thursday.
+- Also Friday: Julianstown architects Teams call 12:30.
