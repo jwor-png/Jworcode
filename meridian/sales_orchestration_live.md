@@ -118,6 +118,9 @@ Full set of 20 emails exists (28 March campaign). Targets 12-20 not yet filed --
 
 ---
 
+## Introducer commission structure (agreed with Shane, 22 July 2026)
+Off a call with Shane, John agreed a **20% commission on orchestration sales** for named introducers/agents. On a €250,000 sale that is a €50,000 commission. Candidates: **Malachy Harkin**, **Vinny Leonard**, **Conor Lenihan** (very open), possibly **Derry Gray** and a couple of others. Agreed in principle; introducer terms to be papered before anyone is committed, and the commission base (gross sale vs net of delivery cost) to be defined first. Detail in `cuan/captures/money_owed_and_commission_2026-07-22.md`.
+
 ## Standard email closes
 Every outward email uses one of the momentum closes in `communication_closes.md` (adopted 1 July 2026), never the passive "let me know if you have any questions." Defaults for outreach: closes 1, 5 and 6; for senior/board inboxes: close 4.
 
