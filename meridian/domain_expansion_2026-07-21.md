@@ -40,3 +40,12 @@ This map doubles as the "Seven Domains" content for the Meridian Intelligence Lo
 
 ## Next (morning build)
 Draft the refined seven manager files with sub-specialisms; write the sector overlay into the orchestrator; use as the app's domains section.
+
+## MORNING TASK (22 July) - Revised branded Meridian overview for Shane + a reader
+Build the revised branded Meridian Intelligence overview:
+1. Fold the refined sub-specialisms + sector overlay UNDER the existing 7 managers (reader sees the full offering within 7, not more managers).
+2. Add a short note: gaps identified in analysis, agreed for inclusion as described, to reflect the total intelligence package/offering.
+3. Add worked examples of managers working together - USE TODAY'S REAL RUNS: UH paint group (5 managers + critic), McCarthy Tara House property (4 managers + higher-tier critic). Real, verified demonstrations.
+4. Audience: a reader John is sending it to, AND Shane (John needs his full support; Meridian is John's with Shane).
+5. The short personal note to Shane: John drafts/approves in his own voice.
+Source docs: meridian/meridian_overview_copy.md, meridian/Meridian_Intelligence_Overview.pdf, meridian/domain_expansion_2026-07-21.md (this file), meridian/managers/01-07.
