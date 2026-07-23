@@ -1,0 +1,32 @@
+JULIANSTOWN — FI-STAGE CONTEXT FROM GMAIL (bearing on Logue submission)
+Source-tagged. VERIFIED = quoted from the actual email.
+
+=== THE KELLETT PHONE CALL — bears on Logue points 56-61 (prejudgment bias) ===
+VERIFIED. Bronagh Clarke (Ward) to team, 13 Nov 2025 12:55:
+"Gerard Kellett, Meath County Council Planning Officer, called our office yesterday evening [i.e. 12 Nov 2025] following my email to him below. His comments were that the proposed reduction in residential units from 62 to 56, and the consequent reduction in density that arises, would satisfactorily address the concerns of the Planning Authority as set out under Item 7 of the FI request. He mentioned that he had discussed the issue of density with a colleague, Wendy Bagnell (SEP) and they were of the view that a density of around 38 dph would be acceptable for the site, taking all things into consideration."
+
+VERIFIED. Same email: "Mr Kellett noted that the matter of density had also been raised by some objectors who had calculated a density in the region of 70 dph. Although he didn't mention him by name, (I'm assuming this was Fred Logue)."
+
+VERIFIED. Bronagh Clarke, 14 Nov 2025 10:00: "the impression I got is that they are positively inclined towards the proposal but are keen to see all the technical items comprehensively addressed in the Further Information response."
+
+IMPLICATION: The phone call Logue alleges (point 56 — "a telephone call, again no record of this call is on the file") IS REAL. Kellett (MCC) phoned Ward's office on the evening of 12 Nov 2025. The call conveyed an MCC officer view that reduced density ~38 dph would be acceptable and that 62→56 would satisfactorily address Item 7. This is the factual substrate of the bias allegation. Whether it is UNLAWFUL (improper private engagement) or LEGITIMATE (routine informal clarification, common in Irish practice) is the legal question under verification. But John must know: the factual core of Logue's most dangerous point is not invented.
+
+=== THE DENSITY DISPUTE — bears on Logue points 16-21 ===
+VERIFIED. Bronagh Clarke, 13 Nov 2025, internal candid assessment:
+"Mr. Logue's calculation of density is based on rigid application of the methodology as set out in Appendix B of the Compact Settlement Guidelines, specifically Table 1... The Guidelines state, inter alia, that areas of land that are subject to flooding and/or are in use for larger regional, district and public parks should be excluded from the net site area. As previously highlighted to the Design Team - if the H1 lands are excluded from the net site area then this leaves a net site area of 0.9 hectares which in turn does yield a significantly higher density in the region of 70 dph. If the area subject to flooding is then deducted then the density is extremely high. Such an approach would in our view be completely nonsensical but we do have to point it out as that is what the Guidelines state."
+
+VERIFIED. Same email: "We believe, however, there is a robust justification for including the H1 lands in the net site area and also including the flood area, taking into account the site's constraints, the unique site characteristics and the proposed development of the full extent of H1 lands as a 'local' recreational amenity. Meath County Council would appear to support this view based on the feedback received at pre-planning stage and to date. As I say to do otherwise would in our view be nonsensical... but we can't predict how ACP or the High Court at JR might interpret these."
+
+IMPLICATION: Logue's density methodology (exclude H1/flood land from net site area) is, on Ward's OWN reading, what Appendix B Table 1 of the Compact Settlement Guidelines literally says. The applicant's position is a REASONED DEPARTURE from the literal methodology, justified by site-specific characteristics, which they believe MCC supports. This is a genuine, contestable planning-judgement dispute — NOT a knockout for either side. Ward themselves flag the ACP/JR interpretation risk. Density gets a HIGH-attention rating and its rebuttal is a matter of planning judgement Ward must carry, not a fact Meridian can resolve.
+
+=== OTHER CONTEXT ===
+VERIFIED. 62→56 units: reduction was to remove residential units from the protected Mill structure, converting it to Commercial/Healthcare (medical centre) use "in an effort to make us fully compliant" (Michael Heather, 14 Nov 2025).
+VERIFIED. Kellett phone call followed reduction proposal; Item 7 of FI request = density/units.
+VERIFIED. Wendy Bagnell (SEP — Senior Executive Planner) is the MCC colleague Kellett consulted on density.
+VERIFIED. An Taisce made a submission (10 Sep 2025) — does NOT object, provides recommendations only. (Bronagh Clarke, 10 Sep 2025.)
+VERIFIED. Original objection stage: statutory 5-week period expired 28 Aug 2025; 7 registered objectors including Fred Logue, Sharon McCann, Niamh Bn Ui... (Bronagh Clarke, 29 Aug 2025.)
+VERIFIED. FI response submitted to MCC 29 May 2026 (Bronagh Clarke). FI acknowledged by MCC 3 June 2026. New public notices required; published in the Star, site notices erected ~10 June 2026.
+VERIFIED. Conservation architect on team: David P Cullivan (GCAL / Gaffney & Cullivan Architects), Grade 2 Conservation Architect. Relevant to protected-structure/ACA points.
+VERIFIED. Flood consultant JBA had a meeting with MCC on 18/12/25 (Ross Bryant, 18 Dec 2025).
+
+NOTE: The full FI response documents themselves (the actual reports) are on a Dropbox (Oppermann, 16 Dec 2025 link) and the planning portal — not reproduced inline in email. Detailed factual claims by Logue (11% open space, exact GFA figures, the "2,550 sqm encroachment") must be checked against those documents by Ward/Oppermann.

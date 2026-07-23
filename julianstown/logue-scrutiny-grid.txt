@@ -1,0 +1,148 @@
+MERIDIAN INTELLIGENCE
+Scrutiny of Fred Logue FI-Stage Observation
+Planning application 25-60781 | Old Mill Hotel Site, Julianstown | Casana Developments
+Prepared for John Webb O'Rourke, ahead of design-team call Friday
+Status: IN REVIEW (decision-support for John; NOT for filing) | Private and Confidential
+
+===============================================================
+1. THE SHAPE OF THE THREAT
+===============================================================
+This is a professionally built refusal-and-appeal case by a planning solicitor who litigates judicial reviews. It is not a resident's complaint. Logue attacks on three levels at once: planning merits (zoning, density, open space), environmental process (EIA, AA, flood, LVIA), and process integrity (prejudgment bias). The strategy is to stack enough independent grounds that a grant looks risky, and to pre-position a third-party appeal to An Coimisiun Pleanala or a JR if the Council grants. Point 62 makes the appeal threat explicit.
+
+THE SPINE: A large part of the submission rests on ONE underlying question -- is the scheme consistent with the operative Meath County Development Plan zoning? Three of his strongest points (the "materially contravenes all three zonings" argument, the flood Justification Test failing "at the first step", and the density calculation) all depend on it. If the zoning position is sound, several points fall together. If it is not, they reinforce each other. That is why the decisive item is the CDP zoning matrix (see Human Gate).
+
+===============================================================
+2. GRADING KEY
+===============================================================
+STRENGTH:  STRONG (real, must be answered with evidence) | MODERATE (arguable, contestable) | WEAK (rhetoric or answerable easily)
+STATUS:    VERIFIED (against primary/authoritative source) | SUBSTANCE-VERIFIED (position confirmed, exact wording pending) | UNVERIFIED (needs the CDP / applicant docs)
+ANSWERED BY: WARD (planning) | OPPERMANN (architect/design) | JBA (flood) | CULLIVAN (conservation) | SOLICITOR (legal/JR) | MERIDIAN (already answered here)
+
+===============================================================
+3. POINT-BY-POINT GRID (all 62 points)
+===============================================================
+
+--- INTRODUCTORY / DERELICTION / CPO (points 1-8) ---
+Points 1-5, 7: dereliction, "unviability is self-serving", owners profiting from their own default, Council should use Derelict Sites Act / CPO.
+  STRENGTH: WEAK. These are argument about motive and history, not planning grounds for refusal. Viability and who owns the site are not material planning considerations for assessing this application on its merits. The CPO/Derelict Sites point is a comment on what the Council COULD do, not a defect in the application.
+  ANSWERED BY: WARD. One line: these are not material planning considerations; the application falls to be assessed on its planning merits.
+Point 6: recites the revised scheme (56 units, 6,151 sqm residential, 1,324.2 sqm other, 8,279 sqm total GFA, 21,551 sqm site of which 9,905 B1, rest H1/RA). Mostly factual recital.
+Point 8: "FI changes very little" -- rhetorical framing.
+  NOTE: Point 6's figures are Logue's numbers. Cross-check against the FI area schedule (see points 31-37).
+
+--- JULIANSTOWN BYPASS (points 9-11) ---
+Logue: Traffic Relief Scheme has now recommended a western bypass and moved to route selection; premature to grant outside the village boundary while the route is uncertain; a bypass "must take priority".
+  STRENGTH: MODERATE, and time-sensitive. This intersects live external events. Your own Gmail file shows the Julianstown Traffic Relief Scheme public consultation is running RIGHT NOW (CS Consulting advice 10 July 2026; options A-D; observations open to end July). Logue is exploiting genuine current uncertainty.
+  STATUS: The scheme's status is a live fact, partly corroborated by your own correspondence. Whether it has formally "recommended" a western bypass at route-selection stage needs confirming against the actual scheme documentation.
+  ANSWERED BY: WARD + OPPERMANN. The answer is that an emerging, non-statutory traffic study at options stage is not an adopted objective that can bar an otherwise compliant application; the application stands on its own transport assessment. But this must be handled carefully given the parallel scheme -- do not overstate certainty either way. Note internal tension: the team is separately exploring the Traffic Relief Scheme as a possible EXIT/opportunity (Myki, 3 July 2026), so the bypass cuts both ways commercially.
+
+--- ZONING (points 12-15) --- [SPINE]
+Point 13 (H1 High Amenity): road + car parking on H1 = mixed commercial/residential use, "neither permitted in principle nor open for consideration" = material contravention.
+  STRENGTH: potentially STRONG. STATUS: UNVERIFIED -- turns entirely on the H1 land-use matrix row in the Meath CDP, which could not be retrieved (egress blocked). MUST be confirmed by WARD.
+Point 14 (B1): CDP allows max 30% residential on B1; proposal is >2.5x that; cites EMRA RSES sec 9.3/Appendix B (up to 50% in higher-tier settlements); no retail assessment provided.
+  STRENGTH: STRONG on the 30% cap. STATUS: The 30% B1 residential cap is SUBSTANCE-VERIFIED from a search snippet of Meath CDP Chapter 11 ("A maximum 30% of any development on B1 zoned lands can comprise of residential development"), AND that "H1 High Amenity cannot be counted as part of the residential component of a B1 development." This supports Logue's factual premise. WHETHER it is "2.5x" is arithmetic tied to the disputed density inputs.
+  NOTE THE TENSION IN LOGUE'S OWN CASE: he simultaneously relies on RSES allowing UP TO 50% and the CDP capping at 30%. The controlling instrument for a Meath application is the CDP, not the RSES headline. WARD to develop.
+Point 15 (RA): roadway + excavated flood storage on RA land are "structures" per s.2 PDA 2000; FI wrong to say no structures on RA land.
+  STRENGTH: MODERATE. STATUS: VERIFIED that the s.2(1) definition of "structure" EXPRESSLY INCLUDES "excavation". So the excavated flood-retention area is arguably a structure -- do NOT deny this outright. The ROADWAY is contestable (roads are often "works" not "structures"; the two definitions overlap). REBUTTAL PIVOT: don't fight the label; the real question is (a) zoning acceptability on RA and (b) whether s.34(6) can authorise it anyway.
+Point 12 (umbrella): "materially contravenes all three zonings".
+  THE DECISIVE REFRAME (applies to all of 12-15): MATERIAL CONTRAVENTION IS NOT AUTOMATICALLY FATAL. VERIFIED: under s.34(6) PDA 2000 a planning authority MAY grant a permission that materially contravenes the development plan, via the notice + elected-members reserved-resolution procedure. So even if Logue is right on one or more zonings, the Council retains power to grant by the s.34(6) route. This converts his "must refuse" framing into "if the Council wishes to grant, it must use the reserved procedure." (Exact voting majority UNVERIFIED -- confirm current s.34(6) threshold.) This is the single most useful structural rebuttal in the whole file. ANSWERED BY: WARD + SOLICITOR.
+
+--- DENSITY (points 16-21) --- [SPINE] ---
+Logue: density must be calculated on residentially-zoned (B1) land only, excluding H1/RA; on his calc = 76 units/ha, >2x the max.
+  STRENGTH: MODERATE. This is a genuine, respectable methodological dispute, NOT a knockout for either side.
+  STATUS/VERIFIED: The net-density convention does strip out roads, parks, open space and non-residential uses, so Logue's INSTINCT (measure against developable residential land) is directionally consistent with the guidelines and the core-strategy accounting. BUT the guidelines do NOT prescribe a hard rule that the denominator is exactly the B1 polygon and nothing else; "net residential land area" is a functional concept and whether H1/RA land partly serves the residential development is a matter of planning judgement.
+  CRITICAL CORROBORATION FROM YOUR OWN FILE (VERIFIED, Bronagh Clarke email 13 Nov 2025): Ward's OWN internal view is that Logue is applying Appendix B / Table 1 of the Compact Settlements Guidelines correctly -- flooded land and public parks "should be excluded from the net site area", which yields ~70 dph, and Ward call the strict result "nonsensical" for this site but concede "that is what the Guidelines state." The applicant's position is a REASONED DEPARTURE justified by the site's unique characteristics, which Ward believe MCC supports. Ward themselves flag the ACP/JR interpretation risk.
+  REBUTTAL POSTURE: concede the METHOD (net/developable basis) is respectable; contest the INPUTS (which land legitimately forms the denominator; whether H1 amenity land serves the dwellings). Do NOT assert 76/ha is the only answer, and do NOT assert the gross figure is the only answer. ANSWERED BY: WARD (planning judgement -- Ward must carry this; Meridian cannot resolve it).
+
+--- PUBLIC OPEN SPACE (points 22-26) ---
+Logue: 15% minimum; proposal 11%; H1 land wrongly labelled as public open space; Social Infrastructure Assessment (SIA) deficient (no analysis of existing/proposed provision vs population increase); part of Community Garden may be lost to the bypass.
+  STRENGTH: MODERATE, evidential. STATUS: The 10-15% open space figure is confirmed at national-guideline level (net site area); the CDP-specific 15% rule is UNVERIFIED -- WARD to confirm. The 11% figure and the adequacy of the SIA are FACTS in the applicant's own documents -- OPPERMANN/WARD to verify and answer. The SIA point connects to Logue's stronger social-infrastructure argument (points 38-40, loss of the hotel/bar/restaurant/nightclub use).
+  ANSWERED BY: WARD + OPPERMANN.
+
+--- FLOOD RISK (points 27-30) --- [SPINE intersects here] ---
+Point 28: residential = highly vulnerable development in Flood Zone A, "contrary to guidelines".
+  VERIFIED: residential IS "highly vulnerable development" (do not contest); Zone A IS inappropriate in principle -- BUT this is a REBUTTABLE presumption ("unless the Justification Test can be met"), NOT an absolute bar. Point 28's flat "contrary to guidelines" OVERSTATES.
+Point 29: FRA didn't apply the sequential approach (avoid, then substitute) before the Justification Test.
+  VERIFIED: the hierarchy is Avoid > Substitute > Justify > Mitigate. Logue CORRECTLY states the methodology. JBA must be able to show the avoid/substitute reasoning was actually worked through, not skipped. If JBA's FRA jumps straight to justification, this point lands.
+Point 30: Justification Test fails "at the first step" because development extends onto unzoned RA/H1 and contravenes B1.
+  STRENGTH: STRONG, and Logue's most technical line. VERIFIED (substance): the Development Management Justification Test criteria are CONJUNCTIVE (all must be met) and INCLUDE a zoning/designation limb. If the development genuinely extends onto unzoned/contravening land, that limb is not met and the test fails at the threshold. THIS CANNOT BE CURED BY ENGINEERING -- it is a land-use fact, so it rises or falls with the zoning analysis (points 12-15). Exact Section 5.15 wording UNVERIFIED (egress blocked) -- confirm from clean 2009 Guidelines PDF.
+Point 27: raising levels for roadway/parking "will cause increased channelisation of the river".
+  STRENGTH: MODERATE, technical. JBA must show no net loss of floodplain conveyance/storage (compensatory storage) and no increase in flood risk elsewhere. ANSWERED BY: JBA.
+
+--- MISLEADING / CONTRADICTORY DATA (points 31-37) ---
+Logue: inconsistent site areas (2.15ha vs 2.327ha), inconsistent GFA figures across drawings/SIA, residential proportion 80% vs 76%, riverside park area quoted as "0.5289 sqm" (an obvious typo he mocks), "encroachment" onto H1 given as 2,550 sqm; concludes the application is "invalid for failure to provide accurate plans and particulars".
+  STRENGTH: MODERATE and CORROSIVE if true. These are not legal arguments; they are consistency checks on the applicant's OWN documents. If the drawings and reports genuinely give conflicting areas/GFA, it hands the objector (and the planner) an easy line and can, at the extreme, feed an invalidity argument.
+  STATUS: entirely FACTUAL -- can only be checked against the FI documents held by WARD/OPPERMANN. MERIDIAN cannot verify these; do not guess.
+  ANSWERED BY: OPPERMANN (must reconcile every area/GFA figure across all drawings and reports into ONE consistent schedule) + WARD. HIGH PRIORITY housekeeping for the design team before decision.
+
+--- SOCIAL INFRASTRUCTURE (points 38-40) ---
+Logue: SIA ignores the loss of the site's historic hotel/bar/restaurant/nightclub social infrastructure; regional deficit (Bettystown, Drogheda, Rossnaree hotels gone); Glenside/Lime Kiln context.
+  STRENGTH: MODERATE, clever. He reframes the lost hotel use as a social-infrastructure loss the SIA failed to assess. ANSWERED BY: WARD (SIA author). Worth a substantive response given the SIA was invited by MCC.
+
+--- EIA (points 41-49) ---
+Point 43 (his headline): applicant submitted an NIS => "for this reason alone EIA is required".
+  VERIFIED WRONG AS STATED. EIA (EIA Directive / Part X PDA) and Appropriate Assessment (Habitats Directive / ss.177U-V) are SEPARATE regimes with separate triggers. Needing AA does NOT automatically require EIA. Confirmed against OPR practice note and ACP guidance. STRONGEST single rebuttal in the submission. ANSWERED BY: MERIDIAN (law) + WARD.
+Points 41-42, 49: can't rule out EIA screening on SIZE alone; nature + location must be assessed; screening info should be on file.
+  VERIFIED CORRECT -- CONCEDE these. Sub-threshold screening must assess nature, size AND location (Schedule 7 criteria). The project is far below the mandatory EIA threshold (500 dwellings / 10ha), so this is a sub-threshold SCREENING question, not mandatory EIA.
+  THE DEFENSIBLE COURSE: not "EIA was never a question" but ensure a rigorous reasoned EIA screening determination is on file that engages nature + location -- expressly the Natura 2000 site, the ACA, the protected structures and Flood Zone A -- and concludes with reasons why significant effects are not likely. That neutralises his valid procedural points while relying on the correct law that mandatory EIA was never triggered.
+Points 44-48: development on unzoned land (ties to zoning); ACA + protected structures; flood; sensitive landscape (LCA); noise (Lden>55/Lnight>45, Meath Noise Action Plan, NPO65); saturated R150/R132 junction.
+  These are the "location sensitivity" limb -- they feed screening and must be addressed head-on, not dismissed. Several overlap other sections (zoning, flood, traffic). ANSWERED BY: WARD (screening) + OPPERMANN + CULLIVAN.
+
+--- LVIA (points 50-55) ---
+Logue: LVIA used viewpoints where the site is obscured by trees, added "non-existent large trees" to the CGIs; VP7 is behind a tree stand; supplies his own photos (12 July 2026) showing the site is visible 5-10m north; alleges the LVIA was designed to obscure impact.
+  STRENGTH: MODERATE, evidential and pointed (he has photographs). An allegation that visualisations were manipulated is reputationally sharp and easy for a planner to test.
+  ANSWERED BY: OPPERMANN. The design team should be ready to justify viewpoint selection against best practice and, if warranted, offer a corrected/additional CGI from his viewpoint. Do not be dismissive -- he has site photographs.
+
+--- IRREGULARITIES / PREJUDGMENT BIAS (points 56-61) --- [MOST DANGEROUS] ---
+Logue: no legal basis for private applicant/PA engagement during a live application; s.247 pre-application consultation is the "only" facility, with mandatory record-keeping; correspondence + a phone call are not on the file; the PA "agreed" density methodology, car parking and footpath widening; this shows a closed mind = prejudgment bias tainting the process; asks the PA to address it.
+  ON THE LAW, LOGUE OVERSTATES (this HELPS the applicant):
+   - VERIFIED: s.247 is NOT the "only" lawful facility. The Further Information process (Article 33 PDR 2001; enabling power s.33 PDA) is a statutory channel for PA/applicant communication DURING assessment. His premise is wrong.
+   - VERIFIED: the objective bias test (Bula v Tara Mines No 6 [2000] 4 IR 412) is demanding and objective -- a reasonable person with knowledge of ALL relevant facts, needing a "rational, cogent and logical connection", not an objector's impression. Routine FI clarification does not meet it. (Name of the most recent Supreme Court restatement UNVERIFIED -- cite Bula No 6, do not invent the newer case.)
+   - VERIFIED: s.38 requires FI material received from the applicant to be on the public file; s.247's record duty is a PRE-APPLICATION duty, which Logue wrongly transposes to the assessment stage.
+  BUT THE FACTUAL CORE IS REAL (this is the exposure). YOUR OWN FILE CONFIRMS IT (VERIFIED, Bronagh Clarke 13 Nov 2025): MCC planning officer Gerard Kellett PHONED Ward's office on the evening of 12 Nov 2025; conveyed that reducing 62->56 units would "satisfactorily address" concerns under Item 7; said he had discussed density with colleague Wendy Bagnell (SEP) and they viewed ~38 dph as acceptable; and (14 Nov) that MCC was "positively inclined". So the phone call Logue alleges HAPPENED and is documented in your correspondence.
+  WHY IT MATTERS: objective bias turns on APPEARANCES to an informed observer. The danger is not the clarification -- it is the word "agreement" plus the absence of a file record. An unminuted phone "agreement" that fed the assessment is Logue's single best card and the classic JR ground.
+  WHAT ANSWERS IT (from verified analysis): (1) characterise the engagement as lawful Article 33 clarification, not extra-statutory contact; (2) get anything material from that call ONTO the public file (a file note / confirming letter cures the "nothing on file" complaint); (3) reframe "agreement" as the PA indicating HOW it would assess, not binding itself to grant; (4) meet the s.247 point head-on (wrong stage). (5) An appeal to ACP is a full de novo assessment, which blunts a first-instance process complaint -- but does NOT remove JR risk if the Council grants on a process that looks tainted.
+  ANSWERED BY: SOLICITOR (lead) + WARD. THIS IS THE HUMAN-GATE PRIORITY. Treat the paper trail, not the legal argument, as the job.
+
+--- CONCLUSION (point 62) ---
+"Should be refused; if granted, almost certainly refused on appeal." -- the explicit appeal/JR threat. Not a ground; a statement of intent. Confirms he will appeal a grant. Plan accordingly.
+
+===============================================================
+4. THE THREE POINTS THAT ACTUALLY MATTER
+===============================================================
+1. PREJUDGMENT BIAS (56-61) -- most dangerous because it is a process/JR ground and the factual core (the Kellett call) is real and in your file. Priority: get the November engagement properly characterised and ON THE FILE. Solicitor to lead.
+2. ZONING + FLOOD JUSTIFICATION TEST "first step" (12-15 + 30) -- the spine. If any part of the scheme materially contravenes the CDP zoning, the flood Justification Test's zoning limb also fails, and the two reinforce. BUT s.34(6) means contravention is a procedural gateway, not automatic refusal. Ward to confirm the H1/RA/B1 matrix and build the s.34(6) posture.
+3. DATA INCONSISTENCY (31-37) -- corrosive housekeeping. If the drawings/reports genuinely give conflicting areas and GFA, fix them into ONE schedule before the decision. Oppermann to lead. Low-glamour, high-impact.
+
+===============================================================
+5. THE WEAK POINTS (answer briefly, don't over-invest)
+===============================================================
+Dereliction/CPO/unviability (1-5,7): not material planning considerations.
+"FI changes little" (8): rhetoric.
+EIA "for this reason alone" (43): legally wrong -- separate regimes.
+Most rhetorical framing throughout.
+
+===============================================================
+6. HUMAN GATE -- WHAT MUST BE CONFIRMED BEFORE ANYTHING IS FILED
+===============================================================
+This scrutiny is DECISION-SUPPORT for John. It is NOT legal advice and NOT for filing. Under the Meridian governance floor, the following must be confirmed by the accountable professionals (Ward Town Planning and the project solicitor) against the primary documents before any point is relied on with MCC:
+  A. WARD to confirm against the ADOPTED, CONSOLIDATED Meath CDP 2021-2027 (incl. Variations):
+     - H1 High Amenity land-use matrix row: are road / car parking / mixed use "Permitted in Principle", "Open for Consideration" or "Not Permitted"? (crux of point 13)
+     - RA land-use matrix row and settlement-boundary status (point 15)
+     - Exact B1 objective wording and the 30% residential cap; whether "H1 cannot form part of the B1 residential component" is stated (point 14)
+     - Whether the CDP prescribes the density denominator methodology (points 16-21)
+     - The CDP open-space standard (15%?) (points 22-26)
+  B. WARD to confirm the EMRA RSES sec 9.3 / Appendix B residential-proportion figure and its interaction with the CDP 30% cap (point 14/4).
+  C. JBA to confirm the FRA expressly worked the sequential approach (avoid/substitute) and meets ALL Justification Test criteria incl. the zoning limb (points 27-30), and that raised levels have compensatory storage (point 27).
+  D. OPPERMANN to reconcile ALL area/GFA figures across every drawing and report into one consistent schedule (points 31-37) and to justify the LVIA viewpoints / offer corrected CGIs (points 50-55).
+  E. SOLICITOR to advise on the prejudgment-bias exposure and the correct handling/record of the November MCC engagement (points 56-61); and confirm the exact current s.34(6) voting threshold.
+  F. Exact statutory/guideline WORDING to be quoted from clean primary copies before filing: Article 33 PDR 2001; s.34(6) majority; Flood Guidelines Section 5.15 / Table 3.2; Schedule 5 Part 2 EIA thresholds; Schedule 7 criteria; the recent Supreme Court objective-bias case name.
+
+===============================================================
+7. VERIFICATION RECORD (defensibility)
+===============================================================
+Method: four independent domain checks (EIA/AA; flood; zoning/structures/density; prejudgment bias) run in parallel against primary/authoritative sources, each instructed to tag VERIFIED/UNVERIFIED and never fabricate.
+EGRESS LIMITATION (important, disclosed): this environment's network policy BLOCKED direct fetching of primary texts (Irish Statute Book, revised Acts, OPR/OPW guideline PDFs, EUR-Lex, the Meath CDP PDF) -- repeated 403 policy denials. Legal propositions were therefore verified against authoritative search-returned passages FROM those primary domains, plus practitioner commentary, with exact verbatim wording flagged UNVERIFIED where the source PDF could not be opened. This does not undermine the SUBSTANCE of the findings, which are consistently corroborated, but the EXACT WORDING, section numbers and one case name must be confirmed from clean copies at the human gate (item F) before filing. Nothing in this note should be quoted to MCC as verbatim statute/guideline text until so confirmed.
+Primary sources named in the record: PDA 2000 ss.2, 33, 34(6), 38, 177U-177V, 247; PDR 2001 Articles 33-35, Schedules 5/7; EIA Directive 2011/92/EU (as amended 2014/52/EU); Habitats Directive 92/43/EEC; Planning System and Flood Risk Management Guidelines (DEHLG/OPW 2009) Ch 5 / s.5.15 / Table 3.2; SRDUA 2009; Sustainable Residential Development and Compact Settlements Guidelines 2024, Appendix B; EMRA RSES 2019-2031; Meath CDP 2021-2027 Ch 11; Bula v Tara Mines No 6 [2000] 4 IR 412; OPR AA Practice Note; ACP/ABP screening guidance.
+
+Meridian Intelligence | John Webb O'Rourke, Principal | Status: IN REVIEW, subject to human gate | Private and Confidential
