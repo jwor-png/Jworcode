@@ -24,9 +24,11 @@
 - Carl carries it to his circle for the intro.
 
 ## Status / next step
-- **SCHEDULED FOR FUTURE. Shane leads. Shane likely back to John tomorrow (23 July) on it.**
-- John does not need Cuan to draft anything yet. Hold until Shane sets the shape.
-- The Friday commitment to Carl stands, but the content and lead sit with Shane and ODIN, not a Cuan/Meridian draft.
+- **NOW LIVE (24 July).** John sending the **ODIN Business Plan** (the "John W" version, John as Head of Investments) to Carl Webb via WhatsApp, with a simple Cuan-drafted covering message for Carl to pass to **Simone Coxe** → **Tench Coxe**.
+- The ODIN plan (Shane McCarthy, Founder): €20m raise, €100m pre-money, 2,600+ IP assets, path to €40m revenue by year 3, exit range €550m-€800m, 5.5x-8x investor return. Marked CONFIDENTIAL. Already earning (~€135k received, pipeline €400k+).
+- **WhatsApp to Carl:** drafted 24 July, kept deliberately simple (Carl has no AI background beyond the Meridian sport-horse analysis); explains ODIN plainly and asks Carl to pass to Simone. Sent by John.
+- **Governance note:** John is Head of Investments in the plan and this is his relationship, so proceeding is his call; flagged to confirm Shane is comfortable it goes down the Coxe route now.
+- *(Superseded earlier "hold for Shane" status once John moved on it 24 July.)*
 
 ## Governance
 - Shane-led and Shane-owned. No Cuan-authored brief ships without Shane's shape and alignment.
