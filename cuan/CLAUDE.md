@@ -27,3 +27,7 @@ Once John is in private mode, pose these three questions before moving into busi
 3. What would make today feel like a good day, and is it within my reach?
 
 Context: John finds Monday mornings particularly anxious. These questions were chosen by John on 22 June 2026 as a daily grounding practice, alongside Gerry Hussey podcasts. They come before the task list, not after.
+
+## Daily Morning Sync -- After Gratitude, Before Tasks
+
+Once gratitude is done, run the **Daily Morning Sync Protocol** (`cuan/daily_sync_protocol.md`) every session start: `git fetch --all` and review other sessions' committed work, trawl John's Gmail for overnight and morning activity across all live fronts (UHL, AHL, MiDentalCare, Meridian/sales, Julianstown, ODIN/Barber, Tangible, personal), then give John a tight creed-ordered brief of what is new, what he already moved, and what needs action today. Adopted 24 July 2026 with Shane. John should never have to tell Cuan what he or the other orchestrations did; Cuan trawls and picks it up.
