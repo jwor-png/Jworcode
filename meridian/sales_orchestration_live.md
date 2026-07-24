@@ -123,7 +123,14 @@ Off a call with Shane, John agreed a **20% commission on orchestration sales** f
 
 ### Live promoters/introducers signed (WhatsApp, source-tagged)
 - **Sean O'Sullivan (Tangible network)** — 24 July 2026. John offered free Meridian analysis (send a text of what he is bringing to market, full report in an hour) plus the 20% introducer commission for commercial contacts he brings. Sean: "A stunningly kind offer, count me in... the way you have framed Meridian is pretty perfect, best of both worlds, best of AI but backstopped by your good self. I'll be v glad to use it and also very glad to promote it." So Sean is both a USER and a PROMOTER. Email to confirm (likely osulliv.sean@gmail.com). Terms still to be papered per above.
+- **Michael Durkan (Old Mill Julianstown co-owner)** — 24 July 2026. John ran a Meridian analysis for him; Michael: "Above excellent John, out of 10, a full 15." Michael answering the follow-up questions (demographics of competition). John told him he is rolling the system out for commercial sales at 20% commission and Michael is a target introducer. Michael also a USER.
 - **Proof point John is using in outreach:** the free report done earlier in the week that a Big 4 firm would have charged ~€130k and taken 10 weeks; Meridian did it in an hour, free, client delighted. Powerful, and honest, sales line.
+
+### Meridian intro targets from the Durkan thread (who's who, per John 24 July)
+- **"Mick" / "your Mick" = Michael Durkan JUNIOR** — runs **Nine Yards**, Dublin (nineyards.ie); likely **michael@nineyards.ie** (on the Tangible list). ACTION: John to contact Mick and introduce Meridian.
+- **Brian = Brian Reilly** — Michael Durkan's business partner; **brian.j.reilly33@gmail.com** (John's spelling "Riley"). ACTION: introduce Meridian.
+- **Mike = Mike Molloy** — mikemolloy100@gmail.com (John sent him a Zoom 23 July). ACTION: introduce/share Meridian. Likely the same "Mike" on the Childen 3pm Zoom with Andrew Sharkey.
+- **Andrew = Andrew Sharkey** — already shared with; appears in the Meridian/ODIN/Childen thread (child-protection tech introduced yesterday, held in the Meridian session).
 
 ## Standard email closes
 Every outward email uses one of the momentum closes in `communication_closes.md` (adopted 1 July 2026), never the passive "let me know if you have any questions." Defaults for outreach: closes 1, 5 and 6; for senior/board inboxes: close 4.
