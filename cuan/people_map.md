@@ -319,6 +319,27 @@
 
 ---
 
+## Newly Surfaced (from conversation-index cross-check, 25 July 2026 — confirm details)
+
+### Harry Fehily
+- **Firm:** Holmes (formerly Holmes O'Malley Sexton), Limerick — Managing Partner
+- **Status:** Referenced in John's Holmes prospect research. Confirm relationship and any live matter.
+
+### Mervyn Chamney
+- **Company:** Eurotime
+- **Note:** Approached regarding acquiring an Irish hardware retailer; connected to Paul Candon. Confirm nature of relationship.
+
+### Michael Daly
+- **Status:** New individual John opened a dedicated inquiry on (Gemini index). Identity and domain to confirm. Keep distinct from Michael Nugent (loan documentation) and Michael O'Driscoll (UHL director).
+
+### Susan Stenson
+- **Role:** Governance brief on AI board minutes — likely the "Susan project" from the 30 June notebook. Confirm identity and domain.
+
+### Carl Minahan
+- **Likely:** A Holmes (formerly Holmes O'Malley Sexton) contact. Identity to confirm.
+
+---
+
 ## To Map
 [ASK: Who else is in John's regular orbit — advisors, investors, lawyers, accountants, other board contacts?]
 [ASK: Who are the key personal relationships Cuan should be aware of for scheduling and prioritisation?]
