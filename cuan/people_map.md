@@ -213,17 +213,26 @@
 - **Note:** BDO also serves as AHL auditors (Simon Cadbury is AHL audit partner) -- keep these two relationships separate.
 
 ### Andrew Sharkey
-- **Location:** UK
-- **Role:** Government access contact -- Shane references him as having routes into Government for the child welfare architecture sales play
-- **Also:** Participates in the Golden Generation education series
-- **Introduction:** Introduced John and Shane to Kevin Carr (PR, UK)
-- **Cuan notes:** Key contact for the child welfare architecture Government track. Relationship sits across both commercial (Meridian/Shane) and the Golden Generation programme.
+- **Location:** UK (andrewsh58@hotmail.com)
+- **Role (updated 25 July 2026):** Director and Corporate Affairs Officer of **UroPharma Ltd** (bladder drug-delivery medtech; founder Prof Scott Glickman). Brought the UroPharma investment opportunity to John. He is a director/insider there -- a relationship interest to declare in any UroPharma dealings.
+- **Childen / Vatican:** the "child welfare architecture" he is connected to is **Childen** (Shane's estate). On the 23 July call with Shane, Mike Molloy and John re introducing Childen to the Holy See. Also introduced John/Shane to Kevin Carr (PR, UK).
+- **Also:** participates in the Golden Generation education series.
+- **Cuan notes:** relationship spans UroPharma (his venture), Childen (Shane-led) and Golden Generation. UroPharma Meridian verdict (25 July): not investment-ready, formal DD only.
 
 ### Kevin Carr
 - **Location:** UK
 - **Role:** PR professional
 - **Introduction:** Introduced by Andrew Sharkey
 - **Status:** Call held last week (w/c 8 June 2026). Awaiting response from Kevin.
+
+### Mike Molloy
+- **Contact:** mikemolloy100@gmail.com; WhatsApp "Mike Molloy France..."
+- **Role:** Works for / is deeply integrated in the **Vatican**; John rates his knowledge of how the Vatican works as very impressive. The connector and route for introducing **Childen** to the Holy See.
+- **Background:** grew up among politicians, journalists and world leaders (aunt's involvement in the peace process; twin priest uncles, among the oldest twin priests in Catholic history). Interned for Fianna Fail and Fine Gael; worked in the House of Commons, Downing Street, the UN, the EU and the Vatican; now a business owner.
+- **Childen:** on the 23 July 2026 call with Shane, Andrew Sharkey and John on how to introduce Childen to the Vatican with a view to selling the architecture. Mike's assessment: the Vatican is a genuine customer to buy the architecture and fund development and rollout (his view, not established fact). Engagement Shane-led.
+- **Meridian:** Meridian produced an Independent Strategic Assessment for Mike's own consulting business, plus a further-insight follow-up (25 July). Edge identified: the Holy See + State + capital axis (close to one of one). Challenge put to him: productise it, prove the access is live and current.
+- **Also in network:** appears in the 2023 Schools@peace / world@peace correspondence (cc'ing Andrew Sharkey) -- long-standing connection.
+- **Cuan notes:** bridges Childen (Shane-led, confidential) and his own Meridian advisory. Handle Vatican material with strict confidence.
 
 ---
 
