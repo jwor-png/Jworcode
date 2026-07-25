@@ -29,6 +29,16 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 
 ---
 
+## Child Welfare AI Architecture (Shane — unnamed, early stage)
+- **What it is:** A new AI architecture Shane is designing for child welfare. Not yet named. Referred to informally as "CS" in one exchange, which is Cybersmarties (a distinct, related entity — not yet mapped in detail).
+- **Commercial thinking (WhatsApp exchange, 15 June 2026):** Shane's view — this is two separate sales, not one. Sale one is aligned to Cybersmarties. Sale two is a bigger, independent play unrelated to Cybersmarties. Shane was clear that folding the bigger play into a Cybersmarties partnership is "a round peg in a square hole." His instruction: find buyers, sell to whoever is most suitable for each of the two plays.
+- **John's initial suggestion:** A partnership route where Cybersmarties sells it and takes it over — Shane pushed back on this.
+- **Andrew:** Mentioned as having routes into government relevant to this. Not yet mapped in people_map — needs profile.
+- **Status:** Early, strategic framing stage. No commercial structure confirmed yet. Ownership split (Ambrion / Meridian / VelocityAI / standalone) not yet confirmed.
+- **Open questions for John:** Is this a Meridian venture, a VelocityAI venture, or its own entity? Who is Andrew? Is there a working name for the product yet?
+
+---
+
 ## Meridian Intelligence
 - **What it does:** AI advisory and intelligence system built around a three-tier architecture
 - **Architecture:** Meridian as orchestrator / 7 specialist managers / 7 agents each (49 agents total). Modelled on a law-firm analogy.

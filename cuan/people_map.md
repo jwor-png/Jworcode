@@ -46,6 +46,20 @@
 - **Structure:** Co-creation channel partner — Velocity AI builds a custom AI sales tool Vinny deploys with his clients
 - **Status:** Completed Transition Intelligence diagnostic profile. Ongoing workstream.
 
+### Jerry Sheehan
+- **Company:** Sheehan Law
+- **Contact:** sheehanj@sheehanlaw.ie, sheehanj@sheehanandco.ie
+- **Relationship:** Jerry has been good to John personally over time
+- **Status:** John sent warm outreach 2 June 2026 on AI Adoption & Governance — EU AI Act angle, both firm-internal governance and client-advisory opportunity. Shane included. Jerry has replied (forwarded to John's personal Gmail 15 June 2026 — reply not yet read/actioned in this system).
+- **Cuan notes:** Live Pep engagement — see `pep/engagements/jerry-sheehan-sheehan-law.md` once built.
+
+### Homeira Zariv
+- **Company:** Conformis, Bucharest
+- **Role given:** Business Development Partner
+- **Status:** New LinkedIn connection, 15 June 2026. Sent a warm, researched inbound message referencing John's AI governance post. Cuan could not verify "Conformis" as an established AI governance company in any public source — no website, funding, or press found matching her description. Her LinkedIn also shows affiliation with Ion Mincu University of Architecture, Bucharest, an unusual background for AI governance BD.
+- **John's read:** Possibly early-stage/building something, or prospecting to understand the market. Follower count on her side is low relative to John's — value likely flows toward her, not from her.
+- **Cuan notes:** Treat as unverified. Reply warm and brief; learn what Conformis actually is before sharing anything.
+
 ---
 
 ## Family
