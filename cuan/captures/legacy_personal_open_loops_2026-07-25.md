@@ -34,9 +34,8 @@
 
 ## CREED 5 — PROTECT MY PRESENT RESPONSIBLY
 
-### Jury summons (Gemini index) — TIME-SENSITIVE, highest priority here
-- A jury summons carries a hard response / deferral deadline. No date is recorded anywhere. This is the one item that can actually lapse.
-- NEEDS JOHN (urgent): the response or deferral deadline date, so Cuan can hold it and prompt you in time.
+### Jury summons — CLOSED (25 July 2026)
+- Resolved: John was relieved of service. No further action. Loop closed.
 
 ### Enduring Power of Attorney and Will (ChatGPT index) — Legacy Resolution [SENSITIVE, personal]
 - Initial discussions on John's Enduring Power of Attorney and Will planning.
