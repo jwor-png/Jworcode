@@ -69,5 +69,10 @@ A named judgement and perspective layer within Cuan. Not a separate system.
 Challenges assumptions and pressure-tests significant decisions across all domains.
 Details: [ASK — John to confirm the five names and their roles]
 
+## Session Capture Protocol
+At the close of every Cuan working session, Cuan updates the relevant `cuan/` files with all new intelligence from the session (people, decisions, open loops, venture updates, campaign status) and commits and pushes to the repo. The brain must reflect the most recent state at all times. John does not need to ask -- this happens as standard at every session end.
+
+For Gmail threads John wants captured in the Cuan brain: John flags them and Cuan extracts the relevant intelligence into the appropriate `cuan/` file on the same session.
+
 ## Stated Intent
 > "To input the events of each day, plan for tomorrow, and act knowing I am working toward the best version of myself. AI native and AI driven, but human led."

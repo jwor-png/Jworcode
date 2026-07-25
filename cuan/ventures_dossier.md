@@ -29,7 +29,16 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
   - Pat McGrath — 10% (formal equity partner, governance and training)
   - Tom Stapleton — no equity yet; likely to receive ~10% from Shane's holding when agreed
 - **John's care level:** Highest — primary revenue vehicle for next 3 years
-- **Strategic position:** AI as an asset class in Ireland — unclaimed white space
+- **Strategic position:** AI as an asset class in Ireland -- unclaimed white space
+
+### Live Campaign: In-House Executive AI Orientation (UHL Model Outreach)
+- **What it is:** Direct outreach to Irish mid-market organisations to deliver the same in-house leadership programme already built for United Hardware (the proof point).
+- **Format:** Full-day executive AI orientation, senior leadership teams, at client's location. John opens; Shane presents. 09:30-16:30, interactive and demonstration-led.
+- **Pitch:** "This is what we built for United Hardware. Is your leadership team having the same conversation?"
+- **Urgency driver:** August 2026 EU AI Act compliance deadline
+- **Target list:** 24 Irish companies identified by John. List not yet provided to Cuan -- John to share.
+- **Status as of 25 July 2026:** Campaign in design. Awaiting the 24-company list to produce personalised outreach emails. Master template to be drafted once list is received.
+- **Revenue basis:** ~€10,000 per engagement (UHL benchmark)
 
 ---
 
@@ -58,16 +67,19 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 - **Scale:** ~130 member stores across 32 counties (incl. Northern Ireland); combined member turnover ~€350M (2025); ~2,000 people across network; ~40 at Dublin HQ and warehouse at Magna Park
 - **John's role:** Independent Non-Executive Director and Chair, Audit & Risk Committee
 - **AI engagement:** €10,000 senior executive training programme approved. Two priority use cases: predictive procurement forecasting from member purchase data; automated product marketing for Chinese import lines arriving without collateral.
-- **AI proposal:** A broader AI-native migration strategy framed around Shane's four-phase model (Static Foundation / Bolt-On Trap / Architecture Rebuild / Native Operation). First drafts are for John and Shane only — NOT for circulation to UHL.
+- **Leadership Programme:** Multi-month in-house executive AI orientation programme. Month 1 and Month 2 delivered. Month 2: 14 April 2026, Athlone. Format: full day, 09:30-16:30, interactive and demonstration-led. John opens each session; Shane McCarthy presents technical content. Topics: AI policy, governance, risk, opportunity for senior leaders. This programme is the proof-point model for all future in-house training outreach.
+- **AI proposal:** A broader AI-native migration strategy framed around Shane's four-phase model (Static Foundation / Bolt-On Trap / Architecture Rebuild / Native Operation). First drafts are for John and Shane only -- NOT for circulation to UHL.
 - **Key contacts at UHL:** CEO Paul Candon; Commercial Director David Shakeshaft
-- **Note:** John has a declared family connection to a member store — managed as a declared interest
+- **Note:** John has a declared family connection to a member store -- managed as a declared interest
 
 ---
 
 ## AHL
 - **John's role:** Chairman
-- **Status:** Active — open loop
-- **Detail:** [ASK — what is AHL and what's the current open item?]
+- **Status:** Active
+- **Auditors:** BDO Ireland (recently transitioned entity to BDO Ireland LLP). Key contacts: Simon Carbery (scarbery@bdo.ie), Aram Gevorgyan (agevorgyan@bdo.ie).
+- **Board:** Shane Felle -- former Chairman, current Director (sfelle@shannonside.net / shanefelle1@gmail.com). David Geoghegan also associated (david.geoghegan@unitedhardware.ie).
+- **Open loop as of July 2026:** BDO Letter of Engagement required sign-off from Shane Felle and John. John forwarded to Shane Felle on 3 July 2026 for signature. Status: confirm receipt and return.
 
 ---
 

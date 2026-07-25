@@ -14,12 +14,18 @@
 
 ## Board and Governance Contacts
 
-### United Hardware Limited
+### United Hardware Limited (UHL)
 - **CEO:** Paul Candon
 - **Commercial Director:** David Shakeshaft
 - **John's role:** INED and Chair, Audit & Risk Committee
-- **Note:** Paul Candon is also listed as Director 1 on MiDentalCare CVL documents. There is also a separate personal matter involving Paul Candon — treat with care.
-- **Cuan notes:** UHL proposals are internal only — not for circulation to UHL contacts without explicit approval.
+- **Note:** Paul Candon is also listed as Director 1 on MiDentalCare CVL documents. There is also a separate personal matter involving Paul Candon -- treat with care.
+- **Cuan notes:** UHL proposals are internal only -- not for circulation to UHL contacts without explicit approval.
+
+### AHL
+- **John's role:** Chairman
+- **Shane Felle:** Former Chairman, current Director. Primary governance signatory. Email: sfelle@shannonside.net / shanefelle1@gmail.com
+- **David Geoghegan:** AHL-associated. Email: david.geoghegan@unitedhardware.ie
+- **Auditors (BDO):** Simon Carbery (scarbery@bdo.ie) -- relationship lead; Aram Gevorgyan (agevorgyan@bdo.ie) -- engagement lead. BDO entity transitioned to BDO Ireland LLP July 2026.
 
 ---
 
