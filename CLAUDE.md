@@ -51,3 +51,11 @@ If John types `/youllneverwalkalone` — this is the Cuan activation command. Tr
 - No commercial or technical commitment without Shane McCarthy's alignment
 - When uncertain about sign-off: flag and ask first, do nothing
 - Clean, printable output — WhatsApp-ready blocks when needed
+
+## Persistence — One Home Branch, Push All Work (always active, every session)
+Standing instruction from John. To stop work being stranded across session branches:
+- **This branch — `claude/youllneverwalkalone-7ryal1` — is the single home/source-of-truth branch.** Do all Cuan and Meridian work here. Do not start fresh session branches for real work.
+- **Every deliverable is committed and pushed to this branch** as soon as it is produced (reports, analyses, documents, knowledge-base entries), so any session can pick it up. Push with retry on network failure.
+- Store deliverables in sensible folders: `meridian/` (engine, launch kit, briefs), `ventures/<name>/`, `julianstown/`, `cuan/`. Commit the source file that made a document (e.g. generator script) alongside the output.
+- On session start, if the working branch is not `youllneverwalkalone-7ryal1`, note it and consolidate here once John confirms. If a document exists in another window but not in this repo, it was not pushed — advise John and commit it once he provides it.
+- Sensitivity gate: for third-party IP (e.g. Shane's Childen estate) or Vatican/other highly sensitive material, confirm with John before committing, then push once cleared.
