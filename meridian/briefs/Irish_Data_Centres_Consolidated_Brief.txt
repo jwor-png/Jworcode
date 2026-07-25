@@ -1,0 +1,155 @@
+MERIDIAN INTELLIGENCE
+Executive Intelligence Brief
+Irish Data Centres: Commercial Opportunity Overview
+Prepared for John Webb O'Rourke, Shane McCarthy, and Malachy Harkin | July 2026
+Private and Confidential
+
+--
+
+PURPOSE OF THIS BRIEF
+
+This brief is a Meridian Intelligence overview of the Irish data centre sector, prepared across three domains: Commercial, AI Strategy, and Property. It incorporates the Velocity AI Grid-Proximity Land Analysis completed by Shane on 2 July 2026 -- a scored, independently verified dataset of 580 industrial-zoned parcels across the Republic of Ireland mapped against the national transmission grid. The brief is intended as a working document for a conversation between John, Shane, and Malachy about the specific business opportunity available at the intersection of AI-enabled facility management and data centre site origination in Ireland.
+
+--
+
+COMMERCIAL INTELLIGENCE
+
+The Irish landscape in 2026
+
+Ireland hosts one of Europe's densest concentrations of hyperscale and colocation data centre capacity. Microsoft, Google, Meta, Amazon AWS, and Apple have all established significant operational footprints, predominantly in Greater Dublin -- Grange Castle, Clonshaugh, Mulhuddart, Ballycoolin, and Leopardstown. Combined, hyperscalers account for well over 1GW of contracted or operational capacity across the island. Colocation operators are equally significant: Equinix operates multiple IBX campuses in Dublin; Digital Realty (via Interxion) runs Park West and Ballycoolin facilities; Echelon has developed large-scale campuses at Clondalkin and Arklow. Irish-owned operators including Dataplex and Viatel serve enterprise and public sector clients at a smaller scale.
+
+The Dublin connection position -- corrected
+
+The CRU replaced the blanket Dublin moratorium in December 2025 with conditional connections: new applicants must pass localised constraint tests and commit to an 80 percent renewables obligation. Dublin is not fully closed, but the bar is materially higher and the timeline for compliant connection is longer. The structural bias toward regional sites -- where grid headroom is available, renewables are accessible, and land is cheaper -- remains intact. The constraint has changed in form, not in commercial effect.
+
+The AI compute supercycle
+
+Since 2023, AI training and inference workloads have transformed what data centre operators need. GPU-dense racks demand 50 to 100 kW per rack versus the 8 to 15 kW standard for traditional cloud compute. This forces demand for liquid cooling, high-power distribution infrastructure, and purpose-built AI facilities. Hyperscalers are signing 10 to 20 year leases, and lead times for new AI-optimised facilities are 3 to 5 years, creating acute near-term supply pressure across Western Europe with Ireland a primary target. Wholesale powered-shell lease rates in Dublin trade at EUR 10 to 14 per watt of IT load annually. Greenfield sites for data centre use are transacting at EUR 500,000 to EUR 1.5 million per acre depending on grid proximity and planning status.
+
+Who is buying and building
+
+Active buyers in Ireland in 2025 to 2026 include Microsoft, Google, and emerging AI-native operators seeking wholesale colocation capacity. Regional sites trade at a 15 to 25 percent discount to Dublin rates, but that gap is closing rapidly as Dublin alternatives become the only realistic option for operators unwilling to meet the new Dublin renewables conditions.
+
+--
+
+AI STRATEGY INTELLIGENCE
+
+How data centres are actually managed in 2026
+
+The leading hyperscalers have moved decisively from human-supervised to AI-driven operations. This is production-grade practice, not aspiration.
+
+Google DeepMind's cooling AI uses reinforcement learning to control HVAC systems in real time, delivering 30 to 40 percent reductions in cooling energy and a 15 percent reduction in overall power usage effectiveness. Microsoft operates AI systems across Azure facilities for power load forecasting, cooling optimisation, and generator scheduling. Meta's network AI handles traffic engineering and failure rerouting autonomously, reducing human intervention in network incidents by an estimated 70 percent. AWS uses machine learning for capacity planning and predictive physical provisioning.
+
+Staffing ratios have inverted. Where 2015-era data centres required approximately one engineer per 1,000 servers for routine management, AI-driven hyperscale facilities now operate at closer to one engineer per 5,000 to 10,000 servers for monitoring and exception handling. Physical presence is required primarily for hardware swap, structured cabling, and regulatory inspection.
+
+The Irish mid-tier gap
+
+Irish mid-tier and colocation operators remain materially behind. They typically manage 40 to 60 percent of operational decisions manually. AI-powered cooling optimisation platforms from Schneider Electric and Vertiv are commercially available, but capital cost and integration complexity remain barriers. Predictive maintenance tools are available but automated incident response is largely absent. Security AI is the most mature area.
+
+The Velocity AI relevance
+
+Shane's Velocity AI analysis is itself a demonstration of what AI-enabled spatial intelligence delivers: 289 transmission stations mapped against 580 industrial parcels, scored on five dimensions, independently verified, and produced faster and at a fraction of the cost of a traditional property consultant's site survey. The same principle -- AI doing the heavy analytical work, human expertise providing ground truth and relationships -- is exactly what the managed operations service layer would offer to data centre operators. The analysis proves the model works.
+
+The opportunity
+
+A managed AI operations service -- combining cooling optimisation, predictive maintenance alerting, and capacity planning intelligence -- positioned for Irish colocation and enterprise operators who cannot build these capabilities in-house is a serviceable proposition. The ROI case is straightforward: energy savings of 15 to 30 percent on the largest operational cost line create a board-level business case without needing to sell on technology alone.
+
+--
+
+PROPERTY INTELLIGENCE
+
+The Velocity AI dataset: what Shane has built
+
+The Grid-Proximity Land Analysis produced by Shane on 2 July 2026 is a significant asset. It maps every industrial-zoned parcel in the Republic of Ireland within 1,000 metres of the national transmission grid. The dataset:
+
+- 289 transmission stations mapped (5 x 400kV, 50 x 220kV, 234 x 110kV)
+- 580 zoned parcels within 1,000 metres of the grid
+- 308 of those within 500 metres
+- 39 prime non-Dublin sites identified and scored
+
+Every parcel is scored out of 100 across proximity, voltage level, zoning strength, and scale, with the CRU Dublin connection policy applied as a discount. The dataset was independently verified by a second model pass -- every top-ranked station cross-checked against EirGrid project records, CRU records, and ESB Networks capacity data.
+
+The model validated itself independently. It ranked the Bracetown-Clonee corridor in Co. Meath as the number one site nationally -- before it was known that Meta chose that exact corridor for its Irish data centre campus, 330 to 460 metres from Bracetown 220kV station. That is the strongest possible validation a scoring model can receive.
+
+The top 20 sites nationally
+
+The following sites score highest across the dataset. Scores are out of 100. Headroom is ESB's indicative available MVA at December 2025 -- not a connection offer; a formal study governs any real project.
+
+Cork -- Aghada complex (220kV, on-site, 67 ha, score 92)
+Cork -- Aghada 220kV (220kV, 70m, 30 ha, 2.3 MVA headroom, score 92)
+Meath -- Bracetown 220kV (220kV, on-site, 210 ha, score 92)
+Meath -- Clonee 220kV (220kV, on-site, 69 ha, 0.0 MVA headroom, score 92)
+Cork -- Glanagow 220kV (220kV, 44m, 56 ha, score 92)
+Cork -- Glanagow 220kV (220kV, on-site, 88 ha, score 92)
+Clare -- Moneypoint 400kV (400kV, on-site, 281 ha, score 90)
+Meath -- Clonee 220kV (220kV, 142m, 11 ha, 0.0 MVA headroom, score 87)
+Cork -- Raffeen 220kV (220kV, 69m, 15 ha, 38.7 MVA headroom, score 87)
+Cork -- Raffeen 220kV (220kV, 329m, 13 ha, 38.7 MVA headroom, score 87)
+Kildare -- Leixlip Intel 220kV (220kV, on-site, 74 ha, score 82)
+Cork -- Kilbarry 110kV (110kV, 110m, 36 ha, 0.0 MVA headroom, score 82)
+Tipperary -- Anner 110kV (110kV, on-site, 55 ha, score 82)
+Kildare -- Athy 110kV (110kV, 41m, 24 ha, 0.1 MVA headroom, score 82)
+Mayo -- Carrowbeg 110kV (110kV, 188m, 28 ha, 18.2 MVA headroom, score 82)
+Cork -- Castleview 110kV (110kV, 357m, 27 ha, 6.8 MVA headroom, score 82)
+Cork -- Castleview 110kV (110kV, 95m, 36 ha, 6.8 MVA headroom, score 82)
+Mayo -- Dalton 110kV (110kV, 469m, 39 ha, 56.5 MVA headroom, score 82)
+Clare -- Drumline 110kV (110kV, 147m, 81 ha, 0.4 MVA headroom, score 82)
+Clare -- Drumline 110kV (110kV, 373m, 20 ha, 0.4 MVA headroom, score 82)
+
+Where opportunity concentrates by county
+
+Fingal leads on parcel count (87 parcels, 2,303 ha) but sits within the Dublin constraint zone. Outside Dublin, Cork is the highest-quality regional cluster (Aghada, Glanagow, Raffeen all scoring 92 or 87 at 220kV). Meath carries the Bracetown-Clonee zone already partly consumed by Meta. Clare holds Moneypoint at 400kV -- the highest voltage available and a unique ESB Green Atlantic green-hub location (coal ended June 2025). Mayo has available headroom at Dalton (56.5 MVA) and Carrowbeg. Tipperary's Anner 110kV is on-site with 55 ha and TS0 connectivity -- a notable non-obvious site.
+
+Honest limits of the dataset
+
+The headroom figures are ESB's indicative demand available MVA at December 2025. They are not a connection offer. A formal study governs any real project. Site-level ground truth -- ownership, availability, services -- is beyond the dataset and belongs to the next phase. This is where Malachy's knowledge becomes the operative asset.
+
+--
+
+THE BUSINESS OPPORTUNITY
+
+What the three domains point to together
+
+Shane has built a scored, verified map of 580 data centre-eligible parcels across Ireland. Malachy has on-the-ground knowledge of specific locations and landowners that no dataset captures. John has the commercial and AI intelligence overlay and the relationship network to bring it to operators. Together, this is a complete capability that most incoming operators do not have and cannot quickly build.
+
+The site origination play
+
+The value in this market is not conventional property agency. It is in delivering a packaged site brief -- grid score verified, planning zone confirmed, fibre mapping, water assessment, ownership approach -- to a named operator contact before the site enters open competition. The Velocity AI dataset provides the scoring layer. Malachy provides the ground truth and access. A party who brings a fully packaged brief directly to an operator through a warm relationship is positioned for a structured introduction fee (0.5 to 1.5 percent of land transaction value, equivalent to EUR 80,000 to EUR 225,000 on a typical transaction), a consultancy retainer, and potentially a co-advisory role through planning.
+
+The AI operations layer
+
+Separately, or as a complementary service, an AI-enabled facility management offer for Irish mid-tier data centre operators is a gap the market has not filled at the advisory level. The entry point is real, commercial platforms exist, and the energy savings justify the business case at board level. This layer can be positioned as a managed service, a consulting engagement, or an equity stake in an operator that adopts it.
+
+The combined position
+
+The most compelling version for John, Shane, and Malachy is a single practice operating at both levels: site origination and introduction for regional data centre development, and AI-enabled operations consulting for existing operators. These are not competing offers. Credibility established in one opens doors in the other.
+
+--
+
+IMMEDIATE NEXT STEPS FOR CONSIDERATION
+
+1. Map Malachy's on-the-ground site knowledge against the Velocity AI top 20 and the 39 prime non-Dublin sites. Which specific parcels does she know -- ownership, availability, landowner relationship?
+
+2. Identify the right first operator contact. One warm introduction to a named operator or developer actively seeking regional sites is enough to test whether the packaged brief model generates a fee mandate.
+
+3. Decide on structure. Is this a standalone advisory practice, a joint venture between John, Shane, and Malachy, or folded into an existing entity? Shane's alignment on structure is required before any external conversation.
+
+4. Establish what the first commercial deliverable looks like. A fully packaged brief on one high-scoring Cork or Clare site, brought to one operator with a warm introduction, is a self-contained test of the model at low cost and low risk.
+
+--
+
+OVERALL ASSESSMENT
+
+The Velocity AI analysis has already done the hardest analytical work: 580 parcels scored, 39 prime sites identified, the top locations verified against primary sources. That work exists. The question is how to convert it into a commercial mandate before the window narrows.
+
+The combination of Shane's spatial intelligence capability, Malachy's local site knowledge, and John's commercial and network overlay is not replicable by an incoming operator without significant time and relationship investment. That combination has value now. The first step is aligning on structure and identifying the first site to bring to market.
+
+--
+
+Meridian Intelligence
+John Webb O'Rourke, Principal
+jwor@ambrion.ai
+July 2026
+Private and Confidential
+
+Sources incorporated: Velocity AI Grid-Proximity Data Centre Land Analysis, Republic of Ireland, 2 July 2026. EirGrid Transmission System Map and Network Delivery Portfolio Q2 2025. ESB Networks Customer Heatmap December 2025. CRU Decision on Electricity Connection Policy for Data Centres, December 2025. ESB Green Atlantic at Moneypoint. Independent verification: Claude Sonnet, 2 July 2026.
