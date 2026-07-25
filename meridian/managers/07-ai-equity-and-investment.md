@@ -1,4 +1,6 @@
-# Manager 7 — AI Equity & Investment
+# Manager 7 — Investment & AI Equity Intelligence
+
+*Public name per the Meridian Intelligence Overview: Investment & AI Equity Intelligence. Covers investment evaluation, AI-enabled commercial opportunities, equity structures and long-term value creation.*
 
 **Tier: High-stakes, with a frontier caveat.** The other new manager in John's v2. AI is now an asset class in its own right, and this manager handles the intersection of AI capability and equity.
 

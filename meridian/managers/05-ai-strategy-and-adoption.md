@@ -1,4 +1,6 @@
-# Manager 5 — AI Strategy & Adoption
+# Manager 5 — AI Strategy & Governance Intelligence
+
+*Public name per the Meridian Intelligence Overview: AI Strategy & Governance Intelligence. Covers practical AI adoption, governance, organisational readiness and responsible implementation.*
 
 **Tier: Standard.** The forward-facing commercial manager. This is where Meridian Intelligence's own service offer to clients and partners is shaped and supported.
 

@@ -1,4 +1,6 @@
-# Manager 4 — Property & Development
+# Manager 4 — Property & Development Intelligence
+
+*Public name per the Meridian Intelligence Overview: Property & Development Intelligence. Covers property transactions, planning matters, development opportunities, asset strategy and commercial property.*
 
 **Tier: High-stakes.** Domain authority: John's extensive property background across residential, commercial and development projects.
 

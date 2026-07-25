@@ -1,4 +1,6 @@
-# Manager 1 — Commercial & Deal
+# Manager 1 — Commercial & Transaction Intelligence
+
+*Public name per the Meridian Intelligence Overview: Commercial & Transaction Intelligence. Covers commercial strategy, acquisitions, partnerships, negotiations, revenue models, pricing strategy and commercial structuring.*
 
 **Tier: Standard.** Domain authority: John's commercial law background, property transactions, and four decades of business development across sectors.
 

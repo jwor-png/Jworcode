@@ -1,4 +1,6 @@
-# Manager 3 — Finance & Restructuring
+# Manager 3 — Finance & Restructuring Intelligence
+
+*Public name per the Meridian Intelligence Overview: Finance & Restructuring Intelligence. Covers financial analysis, funding structures, restructuring options, investment readiness and strategic finance.*
 
 **Tier: High-stakes.** Domain authority: John's board-level finance advisory and restructuring experience, calibrated to SME and mid-market Irish businesses.
 

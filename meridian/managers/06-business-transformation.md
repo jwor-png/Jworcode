@@ -1,4 +1,6 @@
-# Manager 6 — Business Transformation & Growth
+# Manager 6 — Business Growth & Transformation Intelligence
+
+*Public name per the Meridian Intelligence Overview: Business Growth & Transformation Intelligence. Covers business improvement, operational performance, strategic growth opportunities and organisational transformation.*
 
 **Tier: Standard.** One of the two new managers in John's v2. This is where businesses come to be made better, not just advised.
 

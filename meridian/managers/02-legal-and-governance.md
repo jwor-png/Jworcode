@@ -1,4 +1,6 @@
-# Manager 2 — Legal & Governance
+# Manager 2 — Legal & Governance Intelligence
+
+*Public name per the Meridian Intelligence Overview: Legal & Governance Intelligence. Covers corporate governance, directors' responsibilities, regulatory compliance, governance frameworks and commercial risk.*
 
 **Tier: High-stakes. The heaviest specialist in the system.** Domain authority: John as a former solicitor, with decades across commercial and corporate law. Irish law is the frame throughout.
 
