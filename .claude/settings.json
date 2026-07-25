@@ -11,6 +11,17 @@
           }
         ]
       }
+    ],
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cd /home/user/Jworcode && git diff --name-only HEAD 2>/dev/null | grep -q 'cuan/logs/intelligence-log.md' && git add cuan/logs/intelligence-log.md && git commit -m \"Cuan capture: auto-commit $(date -u '+%Y-%m-%d')\" && git push -u origin claude/brave-pasteur-bnnxan || true"
+          }
+        ]
+      }
     ]
   }
 }
