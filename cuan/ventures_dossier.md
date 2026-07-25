@@ -30,9 +30,30 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 ---
 
 ## Meridian Intelligence
-- **What it does:** AI advisory and intelligence system built around a three-tier architecture
-- **Architecture:** Meridian as orchestrator / 7 specialist managers / 7 agents each (49 agents total). Modelled on a law-firm analogy.
-- **Seven managers:** Commercial & Deal; Legal & Governance; Finance & Restructuring; Property & Development; AI Strategy & Adoption; Business Transformation & Growth; AI Equity & Investment
+- **What it does:** AI advisory and intelligence system. Produces decision-support material for John. Amplifies forty years of frontline experience across law, finance, property, business development, restructuring and AI investment. Meridian informs; it does not represent.
+- **Architecture:** Three-tier. Meridian as orchestrator (single point of contact) / 7 specialist managers / sub-agents beneath each manager. Modelled on a law-firm analogy. Full system files: `meridian/`
+- **How Meridian runs:** Classify / Route / Consolidate / Return. Meridian directs; it does no specialist work itself.
+- **Two operating modes:**
+  - Fast grounded answer (DEFAULT) — one pass, key sources, hard time budget, five to ten minutes
+  - Deep verified opinion (opt-in) — full chain, broader retrieval, full independent check. Only when output will be relied on, acted on, or taken to a client, or when John asks
+- **The seven managers (with risk tier):**
+  1. Commercial & Deal (Standard) — transactions, partnerships, channel development, revenue models, deal evaluation, term sheets
+  2. Legal & Governance (High-stakes) — Irish law, corporate governance, directors' duties, contracts, employment, insolvency, regulatory compliance, EU AI Act, WRC
+  3. Finance & Restructuring (High-stakes) — cash flow, P&L, fundraising, tax structuring, distressed business, CVL, investor materials
+  4. Property & Development (High-stakes) — residential and commercial property, title, planning, development feasibility, asset structuring
+  5. AI Strategy & Adoption (Standard) — EU AI Act compliance for clients, AI governance frameworks, adoption roadmaps, Meridian Partners programme, Golden Generation toolkit. Most directly tied to Meridian's own revenue.
+  6. Business Transformation & Growth (Standard) — business analysis, value left on table, new products, systems, growth roadmaps
+  7. AI Equity & Investment (High-stakes, frontier caveat) — AI as an asset class, equity structuring, equity-for-AI-capability arrangements (priority sub-build John has flagged), AI-driven valuations, investment analysis. Thesis marked as professional judgement, not established fact.
+- **Governance floor (every output runs through it):**
+  - Grounding rule: no statute, case, ruling, figure, or valuation appears unless retrieved from its primary source. Citations from memory are UNVERIFIED and never reach John as fact. A citation that will not resolve fails closed.
+  - Confidence tag on every authority and hard number: VERIFIED / REPORTED / UNVERIFIED. Only VERIFIED is load-bearing.
+  - Independent check: every high-stakes output checked by an agent independent of the one that produced it.
+  - Status label on every output: DRAFT (not for use) / IN REVIEW / DECISION-READY (only this means John can rely on it)
+  - Confidence freeze: below 80% checked confidence, work freezes and John is told why.
+  - Fail-closed: near any legal, financial or regulatory line, default is to hold and escalate. Timeliness never overrides this.
+  - Mandatory human gate: anything in the four high-stakes verticals that will be acted on; anything creating a binding obligation; novel or unsettled law or structure; conflict of interest; anything below confidence threshold.
+  - Audit record: append-only log at `meridian/logs/audit.md`. Every output can show its own lineage.
+- **The boundary:** Meridian informs John. It does not represent John, his clients, or Meridian Intelligence to the outside world. Anything to be filed, signed, or relied on by a client goes to the appropriate qualified professional before John acts.
 - **Also includes:** Golden Generation Partner Programme
 - **Partnership:** 70/30 — John (70%) / Shane McCarthy (30%)
 - **John's role:** Chairman, Strategic Lead, Commercial Lead, Governance Lead
