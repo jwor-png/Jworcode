@@ -51,3 +51,11 @@ If John types `/youllneverwalkalone` — this is the Cuan activation command. Tr
 - No commercial or technical commitment without Shane McCarthy's alignment
 - When uncertain about sign-off: flag and ask first, do nothing
 - Clean, printable output — WhatsApp-ready blocks when needed
+
+## Persistence — Push All Work to the Branch (always active, every session)
+Standing instruction from John: **every Meridian and Cuan deliverable must be committed and pushed to the working branch** so it is never stranded in a single window and any session can pick it up.
+- After producing any report, analysis, document, or knowledge-base entry, commit it and push to the designated branch (create the branch from the latest default branch if needed).
+- Store deliverables in a sensible folder (e.g. `ventures/<name>/`, `julianstown/`, or `cuan/`), with a short README where useful.
+- The source files that produced a document (e.g. the generator script and the branded `.docx`) should be committed alongside it.
+- This applies in EVERY session, in any window, without being re-asked. If a document was made in another window and is not in the repo, it was not pushed — advise John and offer to commit it once he provides it.
+- Sensitivity gate: for third-party IP (e.g. Shane's Childen estate) or Vatican/other highly sensitive material, confirm with John before committing, then push once cleared.
