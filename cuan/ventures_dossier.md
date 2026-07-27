@@ -40,6 +40,34 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 - **Confidentiality:** All documents marked confidential and internal. Client and network references removed from external-facing versions.
 - **Current status:** Building — partner model active
 
+### Funding Landscape Intelligence (added July 2026)
+- **Source:** IBI Corporate Finance / DC Advisory funding note (originally prepared April 2025 by James Doody for MiDentalCare), reassessed July 2026 in a briefing note prepared for John.
+- **Irish funding landscape map (April 2025 IBI/DC Advisory deck):** Six capital types on the risk/return curve — Conventional Debt (AIB, Bank of Ireland, ptsb), Specialist Credit Funds (BVP, BDO, Proventus, Hayfin, Beechbrook, Rothschild, Quintas, Elkstone), EIIS, Venture Debt (Claret Capital, Beach Point, Melior, CapitalStep, Kreos, Irelandia, WildTribe, Columbia Lake Partners, Renatus, Causeway, Foresight, Quintas), Private Equity (MML, Cardinal, BGF), Venture Equity (Delta Partners, Act, Frontline, tribal.vc).
+- **Specialist debt contacts on file:**
+  - Beach Point Capital Management — Shane Lanigan — €90m fund, sector agnostic (tech preference), min €1–5m revenue, ~7.5% return, 6–12mo interest-only, equity kicker 5–20%, 4–6 week close
+  - Teybridge Capital — Peter Martin — fintech working capital (stock/PO/invoice finance, growth loans €1–20m)
+  - Irelandia (Declan Ryan family office) — Michael Lynch — ~12% rate, equity kicker 5–20%, 2% arrangement fee
+  - WildTribe / Gavin Bourke (Tom Morrisroe family office, formerly The Now Factory) — Michael Lynch — property-market focus, ~12% rate, similar terms to Irelandia
+- **Assessment for AI businesses (per July 2026 briefing):**
+  - EIIS/Venture Debt/Growth Equity framework from the 2025 note remains structurally valid for AI ventures
+  - Early EIIS investment risks complicating later institutional funding — consider long-term capital structure before any raise
+  - For Meridian specifically: institutional investment is possible, but commercial traction (paying customers, recurring revenue, demonstrable decision-support capability) matters more than concept
+  - For Ambrion: AI governance is a recognised growth market; enterprise governance/compliance recurring-revenue characteristics are attractive to investors
+- **Strategic recommendation:** Don't approach these firms solely as capital sources — build relationships via client engagement and thought leadership first. Meridian Intelligence itself may be valuable to investment firms as a strategic decision-support capability, ahead of any funding conversation.
+- **Priority targets for future engagement:** BVP, Foresight, Quintas Capital
+- **Action:** 2025 IBI material is dated (healthcare roll-up origin) — should be updated into a dedicated "Irish AI Funding Landscape" briefing reflecting the current AI investment environment.
+
+---
+
+## Tairseach (Shane McCarthy — separate from Meridian/Ambrion)
+- **What it is:** Property intelligence company — ten verticals (site sourcing, derelict property, inspection & repairs, sales & conversion, energy/data-centre land live; commercial/institutional, residential/portfolio, recovery, tenant/covenant risk, latent value in build) on one shared "spine" intelligence
+- **Traction:** €50,000+ in sales through a partner; 3 property partners live on site-sourcing output; live derelict-property pilot in Ireland; ranked Ireland's best data-centre site from public data
+- **The ask:** €1m–€1.5m raise for 20% equity; €6m pre-money / €7.5m post-money
+- **Presented by:** Shane McCarthy, architect/owner of the technology
+- **John's role:** Introducer only — passing the one-pager to potential investor contacts via Velocity AI channel
+- **Live thread (27 July 2026):** One-pager sent from john@velocityai.ie to Malachy Harkin, requesting contacts and proposing a 3-way Zoom call Thursday to cover Tairseach plus the ongoing Data Centre / residential markets conversation
+- **Separate thread:** Mark Finlay — Zoom call requested for 5pm Tuesday, scope is the ODIN investment document, NOT Tairseach (to be confirmed with Shane before broadening scope)
+
 ---
 
 ## Velocity AI
