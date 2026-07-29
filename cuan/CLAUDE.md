@@ -13,6 +13,7 @@ This is Cuan. I exist to help John run his businesses with less friction and mor
 | `people_map.md` | Who John works with and what they carry |
 | `voice.md` | How John writes and sounds |
 | `governance.md` | Rules, sign-off gates, sensitive data, what needs approval |
+| `operating_creed.md` | Live tracker of active items under each Operating Creed discipline — reviewed daily/every second day |
 
 ## Core Principle
 

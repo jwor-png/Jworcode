@@ -57,6 +57,15 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 - **Priority targets for future engagement:** BVP, Foresight, Quintas Capital
 - **Action:** 2025 IBI material is dated (healthcare roll-up origin) — should be updated into a dedicated "Irish AI Funding Landscape" briefing reflecting the current AI investment environment.
 
+### Market Intelligence Log (from press clippings, 28 July 2026)
+- **Property & Development:** Planning granted for a mixed-use amusement/gaming arcade in Midleton despite objections on antisocial behaviour and public safety grounds — approved subject to 12 conditions including noise restrictions. Useful precedent for clients navigating amenity-based planning objections.
+- **Property & Development / Investment:** SCSI survey — 92% of estate agents call current prices expensive/very expensive; national prices forecast +5% this year (up from +4% six months ago); affordability gap for a couple earning €113k is up to €25k in the Dublin commuter belt (Kildare/Wicklow/Meath), while Cork remains affordable.
+- **Legal & Governance / Finance & Restructuring:** Legal advice column on hidden cash in a deceased estate — executor disclosure duties, SA2 Revenue form, promissory estoppel risk, Revenue's low tolerance for undeclared cash. Reference case for succession/estate matters.
+- **Property & Development:** Midleton flood relief scheme delays — spend comparison across Cork schemes (Midleton €4.1m to date vs Bantry €7.2m, Glashaboy €9.4m); local TDs flagging commencement date slippage as "indefensible."
+- **Finance & Restructuring:** Farm shed financing guidance — TAMS grant scheme (40-60% eligible costs, up to €90k, Young Trained Farmer relief to €160k), matching loan term to asset life (max 15 years for buildings), fixed vs variable rate tradeoffs, capital allowances/tax relief on repayments. Reusable framework for structuring any capital-asset debt, not just farming.
+- **Golden Generation / Workforce Upskilling:** Skillnet Ireland 2025 annual report — 3,100 businesses used Skillnet networks, 81,300 upskilling training days delivered in Cork alone, 84,515 workers upskilled nationally, 52% training uptake among 30-39 age group. Strong validating data point for the Velocity AI Skillnet registration and the Golden Generation upskilling offering generally.
+- **Legal & Governance / Finance & Restructuring:** Personal Insolvency Arrangement case — Celtic Tiger-era developer had €14m NAMA debt written off for a €37,000 payment to creditors via a High Court-approved PIA, retaining his €750k family home. Strong precedent case for personal insolvency / NAMA-era debt resolution conversations — mechanically close to John's own legacy debt resolution work (BOI/Nugent).
+
 ---
 
 ## Tairseach (Shane McCarthy — separate from Meridian/Ambrion)
