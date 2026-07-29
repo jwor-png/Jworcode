@@ -27,8 +27,19 @@ Per the profile John shared (source: a "Praetor AI" app export — third-party A
 - The **Declaration of Trust for shares** (referenced May 2025, in a Social Welfare Appeal thread with Ger Blake) — unclear which company. NEEDS JOHN.
 - **Charles [surname unconfirmed]**, John's financial adviser flagged in the primary care capture, may also be relevant here given Ger Blake's overlapping role — not yet connected, flagging for awareness only.
 
+## CORRECTION — independently verified, 29 July 2026 (Meridian deep research now underway)
+John instructed a full 7-manager Meridian deep research report on Export Anatolia, to be "very impressive" for Yuksel. Independent verification (real company/LinkedIn/trade-directory search) found the AI-generated profile above got the SECTOR WRONG:
+- **Real legal entity:** Anatolya Otomotiv Traktor Yedek Parca Ithalat Ihracat Ticaret A.S., Menemen, Izmir, Turkey. Website exportanatolia.com. Facebook/Instagram @exportanatolia.
+- **Real core business: spare parts for agricultural tractors, combine harvesters, industrial machinery and mowers** — NOT castings/foundry/manhole products as the AI summary implied. No public trace of any castings/EN124/manhole business anywhere.
+- **Confirmed subsidiaries:** ARIMIS SEATING (agricultural/industrial/lawn & turf seating) and SDM (sheet metal products).
+- **Scale (company-reported, unaudited):** ~300 employees, two manufacturing facilities, ~7,500m2 exporting facility, ~500 x 40ft HC containers/year, 98% export-focused, primary markets US and UK.
+- **Founding year disputed:** AI summary said 2001; one trade-directory source says 2003. Unresolved — do not assert either as fact without further confirmation.
+- **Sustainability claims (solar generation, rainwater harvesting) UNVERIFIED at company level** — though the sector-wide Turkish trend (unlicensed industrial solar self-generation, surplus sold to grid) is real and well documented, so plausible, just not confirmed for this specific company.
+- **Yuksel Kangal confirmed as CEO** via LinkedIn (tr.linkedin.com/in/yuksel-kangal-054881114), consistent with founder/MD.
+- **No public trace found** of the United Hardware/EJ castings sourcing relationship, the Declaration of Trust, or the Dublin trade show meetings — these remain John's own first-hand knowledge/relationship-sourced, not independently verifiable, and should be treated as private context, not public fact, in any report.
+
 ## Status
-**HOLDING, per John's explicit instruction — no further action, no outreach, no analysis.** This is confirmation only that the initial relevant detail is located and captured. Meridian/Cuan stands by for John's direction on what he wants next (e.g. a full Meridian strategic analysis of Export Anatolia, in the same vein as Arcade Trader / UroPharma).
+**Deep research report IN PROGRESS (29 July 2026)** — John instructed a full 7-manager Meridian analysis of Export Anatolia (the business only, personal/shareholding matters excluded per John's instruction), to be impressive and sent to Yuksel. Five managers launched; two were mid-flight when the sector correction landed and have been redirected. Report to be consolidated once all land.
 
 ## Open items for John
 1. Confirm whether Export Anatolia is the entity John wants analysed, and the scope (market/industry position, AI governance angle, or something else).
