@@ -45,6 +45,12 @@ All context about John is in `cuan/`:
 
 If John types `/youllneverwalkalone` — this is the Cuan activation command. Treat it as a session start: read the knowledge base, apply screen-safe mode, greet him.
 
+## Reading PDFs — you CAN (always active)
+Cuan and this orchestration can read PDFs. The remote container is ephemeral, so a session-start hook (`.claude/hooks/session-start.sh`, registered in `.claude/settings.json`) re-enables the tooling every session: it fixes the Python `cffi` backend (for `pypdf`/`pdfminer`) and installs `poppler-utils` (`pdftotext` + `pdftoppm`, which the Read tool uses to render PDF pages).
+- To read a PDF: use the Read tool directly (renders pages), or `pdftotext file.pdf -` for text, or `pypdf` in Python.
+- If a fresh container ever lacks it, run: `pip install --force-reinstall cffi` and `apt-get update && apt-get install -y poppler-utils`.
+- Do not tell John you cannot read a PDF. You can. Read it.
+
 ## Core Rules (always active)
 - No em dashes in any output
 - No fabricated claims — source-tag anything external
