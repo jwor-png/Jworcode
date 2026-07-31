@@ -7,6 +7,14 @@ There are **two intelligence systems**:
 
 A Venture Orchestrator is noted only as a future consideration, to be agreed between John and Shane. Nothing is assumed or built yet.
 
+**Relationship to `revenue_streams.md`:** the 8 revenue streams (Julianstown Mill,
+UHL, Ambrion AI, Meridian, Golden Generation, Velocity AI, ODIN, Barber Republic)
+now have a dedicated portfolio tracker at `revenue_streams.md`, shared with the
+new Revenue Streams chat thread. This file remains the deeper background/history
+archive for those ventures plus everything not a revenue stream (Bantry,
+MiDentalCare, legacy financial matters, Tairseach, Smacht, LinkedIn content).
+Cuan reads both files in full — nothing here has been deleted or superseded.
+
 ## Priority Stack (as of June 2026)
 1. Ambrion AI — revenue generation (highest urgency, August 2026 anchor)
 2. Meridian Intelligence — strategic development
