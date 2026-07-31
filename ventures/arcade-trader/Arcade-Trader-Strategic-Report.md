@@ -123,3 +123,9 @@ Arcade Trader is well positioned to become the Republic's specialist amusement-i
 
 ---
 *Meridian Intelligence · Initial strategic report · Four-domain verified analysis · 25 July 2026 · Private and confidential. For John's review before taking to John Lynch. Illustrative figures flagged; verification items listed above.*
+
+---
+
+## STATUS UPDATE — 29 July 2026
+
+Full seven-manager branded report (`Meridian_Arcade_Trader_Full_Report.pdf`) sent to John Lynch via WhatsApp. John Webb O'Rourke has told John Lynch they will discuss it after the long weekend. **No further action until that conversation.** Next step: await the post-weekend discussion, then work through John Lynch's questions/reaction and refine as needed.
