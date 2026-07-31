@@ -64,6 +64,20 @@ Last updated: 29 July 2026 (post board meeting prep, pre-review)
   Herbert. To be scheduled in the next 2-3 weeks.
 - **Niamh** — BOI staff member phoned and left her an upsetting message. Addressed
   directly in the BOI follow-up email (sent), asking all contact come through John.
+- **Mike Murphy Charity Walk — next Saturday.** TIME-SENSITIVE. WhatsApp message
+  from Mike not yet read. John to check over this weekend.
+- **Sean Tolton Senior enquiry** — asked John to contact his Aunt Mary Gallagher
+  (an O'Rourke) to find out about "Ant" Doggan, daughter of Christy Doggan
+  (formerly of the brewery in Kilmallock), and her sister Evelyn.
+- **Dermot Flanagan SC** — ex Mayo footballer/captain, son of Sean Flanagan. John
+  to reach out personally (already flagged earlier in the week).
+- **Billy Joe Padden** — former Mayo footballer, was chief planner at Meath County
+  Council when the Julianstown Old Mill project first started, was very helpful
+  at the time. John wants to send a personal congratulatory note on Mayo's recent
+  All-Ireland success.
+- **Mike Mulvehill** — good friend, recently retired. John to contact re his
+  potential interest in AI, his contacts, and possible inclusion in a new Golden
+  Generation programme cohort. See also Revenue Streams — Golden Generation.
 
 ## 3. ACT WITH INTEGRITY
 
@@ -82,6 +96,26 @@ Last updated: 29 July 2026 (post board meeting prep, pre-review)
   BOI response.
 - **Nigar Roach** — fees owed from MiDentalCare Milltown work. Personal friend,
   John is handling this personally, in his own time. No action needed from Cuan.
+  John has confirmed he will pay Nigar, Keith Hogan, and Michael Nugent — but
+  needs to derive income for himself this month first, before any of these go out.
+- **Keith Hogan** — reminder already sent (see Act with Integrity). John to follow
+  up again once he has income in, per the above.
+- **MiDentalCare — Lisa Doyle wages/holiday pay claim.** Live thread, multiple
+  pieces to assemble:
+  - Sean O'Dwyer (sean@sremium.com, Payroll Administrator) forwarded an email
+    from "Gary" on 27 July with wage record detail for Lisa — John confirmed to
+    Sean this is helpful for that period.
+  - John still needs to go to **Maria**, who did payroll before Gary, for the
+    earlier-period wage information. Maria's contact details not yet found in
+    Gmail — needs confirming.
+  - Paul O'Brien (Butler & Co, Liquidator's office) raised the original claim
+    (22 July) and needs the unpaid hours and holiday hours total. Also separately
+    chasing the TUPE query on Glenview staff via Michael Glynn (see Act with
+    Integrity — Michael Glynn follow-up already sent).
+  - **Action:** cross-reference Gary's figures, Maria's earlier-period figures,
+    and the MiDentalCare creditors listing (sent to John by John himself,
+    21 May) to establish the true position, then reply to Paul O'Brien with the
+    confirmed hours and reasoning.
 
 ## 5. PROTECT MY PRESENT RESPONSIBLY
 

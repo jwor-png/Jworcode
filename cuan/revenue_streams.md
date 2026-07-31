@@ -10,6 +10,39 @@ John owns and directs all of these. Cuan orchestrates awareness across them.
 
 ---
 
+## 0. New Leads / Ideas Not Yet Assigned a Stream
+
+- **eSIM business (Malachy Harkin + business partner Ben)** — Malachy runs an
+  eSIM business in the Southern Hemisphere with a partner named Ben (surname
+  not yet known; ex-EBS Building Society Marketing Director, then a company
+  called "Imagine," then DG Cell for two years — telecoms background). John
+  wants to find out more about Ben and the eSIM business and consider how to
+  help Malachy or generate a new revenue stream from it.
+- **Julianstown Old Mill planning file as an AI product idea** — John and Shane
+  discussed that the planning file/process itself (not just the site) could be
+  the basis of a new AI architecture system — reviewing planning files as a
+  product. Genuinely new stream idea, very early stage.
+- **AI Grant Intelligence (Ireland / Europe / UK / global)** — proposed new
+  dedicated chat/stream: build intelligence on AI-specific grants and funding
+  programmes across jurisdictions, to help attract new AI business by
+  understanding what's available. Ties to the existing Funding Landscape
+  Intelligence in `ventures_dossier.md` (IBI/DC Advisory work) — John wants to
+  revisit that material and the Shane operational-brain diagram when scoping
+  this out. Open decision: separate chat or folded into an existing one.
+- **Ambrion AI training rollout via Padraic O'Maille (Smacht)** — proposal to
+  run three AI training courses over three days, same model as the UHL
+  programme. Big potential opportunity. Shane is considering it further.
+- **Tina O'Hagan (Portugal, Malachy connection)** — John to talk to her about
+  running the training course and getting introduced to the companies she
+  works with.
+- **Mike Mulvehill** — recently retired friend, potential AI interest/contacts,
+  possible Golden Generation cohort inclusion. See also `operating_creed.md`
+  Protect My Health and Family.
+- **Maria Doran** — sent the Meridian Intelligence overview recently. Follow up,
+  and ask whether she's attending the Tangible Summer School.
+
+---
+
 ## 1. Julianstown Mill (The Old Mill Hotel, Julianstown, Co. Meath)
 - **What it is:** Derelict hotel site, planning application for redevelopment.
   Joint ownership — John, Michael "Myki" Heather (silveroak.ie), Malachy Harkin.
@@ -56,6 +89,22 @@ John owns and directs all of these. Cuan orchestrates awareness across them.
 - **Care level:** Highest — primary revenue vehicle for the next 3 years.
 - **Email infrastructure:** Gmail-to-personal-Gmail import stuck on POP3
   authentication failure (mail.ambrion.ai) — needs resolving.
+- **UHL training rollout / testimonials:** Paul Candon has spoken to contacts
+  about UHL training; John needs to contact Brett Martin on foot of that
+  conversation, and secure testimonials from United Hardware to add credibility
+  and help roll the programme out further. Paul separately has an interest in
+  water auto-replenishment as a related area.
+- **UHL second training course:** John emailed Dave Shakeshaft (UHL Commercial
+  Director) from his Velocity AI email — this account is not yet connected to
+  Cuan, so Cuan cannot see it directly — proposing to hold the second course and
+  suggesting dates. Copied Alan Bracken, Shane, and Maya Gough (names inferred
+  from context — confirm if incorrect).
+- **Market pricing intelligence:** establishing true AI-driven market pricing on
+  gypsum skim coat across all UHL members, and checking whether better pricing
+  can be secured by comparing against other buying groups (Topline, and one
+  other group — name unclear, needs confirming).
+- **Padraic O'Maille (Smacht) 3-course proposal** and **Tina O'Hagan** lead — see
+  New Leads section above.
 
 ## 4. Meridian Intelligence
 - **This stream connects to Meridian's own separate, dedicated system** — full
@@ -85,6 +134,14 @@ John owns and directs all of these. Cuan orchestrates awareness across them.
 - **Validating data:** Skillnet Ireland 2025 annual report — 11,600 Cork workers
   upskilled, 84,515 nationally, strong tailwind for this offering.
 - **Status:** Design stage.
+- **Mike Mulvehill** — potential cohort inclusion, see New Leads above.
+- **Tangible Summer School event** — 18-20 August 2026 (afternoon Monday 18th to
+  Thursday morning/lunchtime 20th). 5 rooms available, Shane already booked into
+  a hotel. John contacted Raymond by WhatsApp to confirm room availability;
+  Margaret needs firm commitments and Raymond is to send out the message. John
+  to focus after this weekend on phoning contacts from his notes to drum up
+  attendance interest. Maria Doran to be asked whether she's attending (see New
+  Leads above).
 
 ## 6. Velocity AI
 - **What it does:** Vehicle for partner and channel relationships in John's AI
@@ -110,6 +167,8 @@ John owns and directs all of these. Cuan orchestrates awareness across them.
 - **Related:** Kevin Carr proposal (Shane) sent to Andrew Sharkey (mutual
   friend, mentor to Kevin) for review before going to Kevin directly — awaiting
   Andrew's response.
+- **Structure document for Malachy:** John needs to send the ODIN structure
+  document to Malachy on Shane's behalf — held in John's WhatsApp, not yet sent.
 
 ## 8. Barber Republic (rebrand of BarberTemp)
 - **What it does:** Two-sided labour exchange for the barbering industry
@@ -125,6 +184,13 @@ John owns and directs all of these. Cuan orchestrates awareness across them.
   agreed on a call (28 July evening). Agreed to send on to a named investor
   Johnny put forward (name still to be confirmed — heard as "Eight North").
   Email sent, awaiting response.
+- **Call scheduled:** Monday 10:30am — Shane, Johnny, and prospective investor
+  Ed Lawton (a friend of Johnny's).
+- **Open issue — employment classification:** whether Barber Republic's model
+  classifies workers as employees or contractors is unresolved, and UK Revenue
+  may scrutinise this. Johnny raised the question of insurance for employees via
+  WhatsApp, which is what surfaced the classification issue — needs sorting out
+  before it can be answered properly.
 - **Also live:** True Global (Silvana) and Hatch (Graham) proposals — rebrand
   agreed in principle, needs the original Hatch intro document and feedback
   received to produce the revised proposal.
