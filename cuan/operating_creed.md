@@ -85,10 +85,10 @@ Last updated: 29 July 2026 (post board meeting prep, pre-review)
 
 ## 5. PROTECT MY PRESENT RESPONSIBLY
 
-- **UHL Board Meeting — 29 July** — Audit Committee report ready (recommending
-  approval of 2025 accounts). Risk register questions (cybersecurity, GDPR, AI
-  governance, Magna House fire safety/insurance, D&O cover) drafted, to be sent to
-  Dave Geoghegan/Eoin/Michael O'Driscoll before the meeting.
+- **UHL Board Meeting — 29 July — HELD, WENT WELL.** Detailed notes to follow from
+  John's own record; outcomes not yet logged in detail. Once dictated, fold specific
+  decisions (Store Acquisition model, Data Transformation endorsement, CRO filing
+  status, D&O/risk register responses) into the relevant disciplines below.
 - **AHL — Fire Certificate renewal** — fire alarm works reported "Completed" in the
   Board Report. Once formally confirmed at/after the meeting: (1) request Securitas
   completion certificates from Paul Candon, (2) request fresh inspection from ORS
@@ -98,10 +98,12 @@ Last updated: 29 July 2026 (post board meeting prep, pre-review)
 
 ## 6. BUILD MY FUTURE DELIBERATELY
 
-- **Meridian launch** — to be actioned with Shane after today's Portlaoise meeting
-  (3.30pm). No saved launch plan document exists yet in this system — needs to be
-  built from what Shane agrees today plus the existing knowledge base (funding
-  landscape intelligence, 7 domains, market intelligence log).
+- **Meridian launch** — Portlaoise meeting with Shane (29 July, 3.30pm) HELD, WENT
+  WELL. Shane made changes to Meridian. Revenue streams discussed both Wednesday
+  (Portlaoise) and Thursday 30 July. Detail still to be dictated by John — current
+  confirmed revenue stream list: Julianstown Mill, UHL Hardware, Ambrion AI,
+  Meridian Intelligence, Golden Generation, Velocity AI, ODIN, Barber Republic.
+  This list may be refined once John's fuller notes are captured.
 - **Golden Generation / workforce upskilling** — validated by Skillnet Ireland 2025
   data (11,600 Cork workers upskilled). Ties to the Velocity SkillNet registration
   above.
