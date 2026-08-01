@@ -30,6 +30,26 @@ happens in dedicated chat threads, each with its own scope:
   tracking the 8 revenue streams as a portfolio. Shared brief: `revenue_streams.md`.
 - **Field Intelligence, Board Intelligence, CRM** — future spokes, not yet built.
 
+### Additional threads John is planning to open (as of 1 August 2026)
+- **AI Funding** — bringing together IBI funding landscape material, Tairseach,
+  and ODIN to work out what investment is being sought and who to approach.
+- **UHL** — John's board/governance work has grown enough to warrant its own
+  dedicated thread, separate from the Revenue Streams portfolio tracker.
+- **Health & Wellbeing** — tracking Council consultations, daily habits, and
+  Life Balance execution (see `operating_creed.md`).
+- **Daily AI News / LLM Tracking** — keeping current on Claude, ChatGPT, and
+  other frontier model developments as a professional standard, alongside
+  reviewing Golden Generation and UHL training content.
+- **Golden Generation Alumni** — new app for alumni, possible second course.
+- **"Cuan's Intelligence" / competitive-market intelligence** — description
+  still vague; Shane is separately doing related work. John wants his own
+  version to stay on top of it personally. Scope to be clarified before this
+  is built.
+
+None of these exist as working threads yet — they are logged here as John's
+stated intent, to be created and pointed at their own shared files (following
+the same pattern as `revenue_streams.md`) as and when he opens them.
+
 Separate chat threads do not share memory with each other. The shared files in
 this `cuan/` directory are the mechanism that keeps Cuan "aware at all times" of
 what every other thread is doing — each thread reads and writes back to its

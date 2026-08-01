@@ -43,6 +43,14 @@ Cuan reads both files in full — nothing here has been deleted or superseded.
 - **Seven managers:** Commercial & Deal; Legal & Governance; Finance & Restructuring; Property & Development; AI Strategy & Adoption; Business Transformation & Growth; AI Equity & Investment
 - **Also includes:** Golden Generation Partner Programme
 - **Partnership:** 70/30 — John (70%) / Shane McCarthy (30%)
+- **Meridian team emails (Google Workspace) — set up in progress via Niamh
+  (John's daughter).** John forwarded the relevant Meridian emails to her and
+  asked her to set up the team email accounts for Shane and himself. She
+  required John's card to create the account. Explicit instruction: John wants
+  **only the start-up charges, NOT the additional business set-up charges.**
+  This connects directly to the earlier-flagged Google Workspace payment
+  failure (1 July, never confirmed resolved) — likely the same underlying
+  account/billing issue.
 - **John's role:** Chairman, Strategic Lead, Commercial Lead, Governance Lead
 - **Shane's role:** Technical architecture and execution
 - **Confidentiality:** All documents marked confidential and internal. Client and network references removed from external-facing versions.

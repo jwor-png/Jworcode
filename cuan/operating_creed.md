@@ -65,7 +65,15 @@ Last updated: 29 July 2026 (post board meeting prep, pre-review)
 - **Niamh** — BOI staff member phoned and left her an upsetting message. Addressed
   directly in the BOI follow-up email (sent), asking all contact come through John.
 - **Mike Murphy Charity Walk — next Saturday.** TIME-SENSITIVE. WhatsApp message
-  from Mike not yet read. John to check over this weekend.
+  from Mike not yet read. John to check over this weekend and put the walk
+  itself into his calendar to attend.
+- **Health & wellbeing — new dedicated chat thread planned.** To track
+  consulting his Council for the betterment of his health, listening to Jerry
+  Hosie's podcast daily, and executing small consistent daily steps — in line
+  with the Operating Creed's Life Balance section.
+- **Colby McDonald (young Mayo footballer)** — noted for its own sake as
+  personally inspirational: wrote "One Chance" on his wristband. Possible
+  reference point for the "Other Side of Sixty" LinkedIn content series.
 - **Sean Tolton Senior enquiry** — asked John to contact his Aunt Mary Gallagher
   (an O'Rourke) to find out about "Ant" Doggan, daughter of Christy Doggan
   (formerly of the brewery in Kilmallock), and her sister Evelyn.

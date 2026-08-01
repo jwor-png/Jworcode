@@ -95,16 +95,40 @@ John owns and directs all of these. Cuan orchestrates awareness across them.
   and help roll the programme out further. Paul separately has an interest in
   water auto-replenishment as a related area.
 - **UHL second training course:** John emailed Dave Shakeshaft (UHL Commercial
-  Director) from his Velocity AI email — this account is not yet connected to
-  Cuan, so Cuan cannot see it directly — proposing to hold the second course and
-  suggesting dates. Copied Alan Bracken, Shane, and Maya Gough (names inferred
-  from context — confirm if incorrect).
+  Director) and Paul Candon from his Velocity AI email — this account is not yet
+  connected to Cuan, so Cuan cannot see it directly — proposing one or two
+  sessions in August, ahead of the third session of the first programme on
+  31 August. Copied Maya Gough. Awaiting reply after the bank holiday weekend.
+  (Correction: an earlier entry named "Alan Bracken" here — that was an
+  unconfirmed guess and should be disregarded; only Dave Shakeshaft, Paul
+  Candon and Maya Gough are confirmed.)
+- **Golden Generation + UHL training as a revenue model** — John wants to look
+  at formally rolling out the combined course model as its own repeatable
+  revenue product, not just a one-off engagement.
+- **Approach UHL Chairman (Eoin McGettigan) directly** — Shane agrees this is
+  worth doing: introduce what Ambrion is doing in AI directly to Eoin, with a
+  view to opportunities beyond hardware.
+- **UHL national field analysis (Australia)** — a UHL-related analysis
+  involving an Australian group was worked on in Meridian yesterday; John needs
+  to check this. Not enough detail yet to log further — needs John's
+  clarification on what this analysis actually covers.
+- **Meridian's John Lynch (arcade trader) analysis — SENT.** John forwarded
+  Meridian's analysis on the Midleton arcade precedent to John Lynch, with a
+  note to discuss further after the weekend.
+- **Velocity AI training promotion** — talk to Shane about promoting the
+  training offering on LinkedIn and the Velocity website to secure new business.
+- **Meridian Intelligence — new business development targets:** Gary Lawlor,
+  Dara Kettle (name uncertain), Greg Hall of Palidor, Tom O'Connor of Connacht,
+  and Kimmy Commons of PrimeLane — outreach to be made.
 - **Market pricing intelligence:** establishing true AI-driven market pricing on
   gypsum skim coat across all UHL members, and checking whether better pricing
   can be secured by comparing against other buying groups (Topline, and one
   other group — name unclear, needs confirming).
 - **Padraic O'Maille (Smacht) 3-course proposal** and **Tina O'Hagan** lead — see
   New Leads section above.
+- **Ambrion AI four-member Zoom call** — Thursday next week, time to be
+  confirmed (either 4-5pm or 4.30-5.30pm). Attendees: Shane, Tom Stapleton, Pat
+  McGrath, John. Invitation already sent.
 
 ## 4. Meridian Intelligence
 - **This stream connects to Meridian's own separate, dedicated system** — full
@@ -142,6 +166,15 @@ John owns and directs all of these. Cuan orchestrates awareness across them.
   to focus after this weekend on phoning contacts from his notes to drum up
   attendance interest. Maria Doran to be asked whether she's attending (see New
   Leads above).
+- **Meridian Intelligence intro to Golden Generation members** — introduced on
+  the last call and in the WhatsApp group. No follow-up since, no responses.
+  John to follow up with each member individually next week, after the bank
+  holiday weekend.
+- **Golden Generation alumni app + possible second course** — new development,
+  early stage. John considering a new dedicated chat thread for this.
+- **SkillNet and Local Enterprise Office grant applications** — to revisit for
+  grant aid intelligence generally, ties into the AI Grant Intelligence idea
+  above.
 
 ## 6. Velocity AI
 - **What it does:** Vehicle for partner and channel relationships in John's AI
@@ -184,8 +217,8 @@ John owns and directs all of these. Cuan orchestrates awareness across them.
   agreed on a call (28 July evening). Agreed to send on to a named investor
   Johnny put forward (name still to be confirmed — heard as "Eight North").
   Email sent, awaiting response.
-- **Call scheduled:** Monday 10:30am — Shane, Johnny, and prospective investor
-  Ed Lawton (a friend of Johnny's).
+- **Call scheduled:** Monday 10:30am — Shane, Johnny Shanahan, John, and
+  prospective investor Ed Lawton (a friend of Johnny's). Zoom invitation sent.
 - **Open issue — employment classification:** whether Barber Republic's model
   classifies workers as employees or contractors is unresolved, and UK Revenue
   may scrutinise this. Johnny raised the question of insurance for employees via
