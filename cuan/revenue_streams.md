@@ -10,6 +10,45 @@ John owns and directs all of these. Cuan orchestrates awareness across them.
 
 ---
 
+## Pipeline & Metrics Framework (proposed, for John/Shane to build out)
+
+This is a lightweight version of the Sales/Finance/Marketing "systems" seen in
+the Automation Guy carousel, scaled to how John actually works — dictation-led,
+not software-automated. It gives structure without requiring new tooling. Once
+Shane is ready to build real automation on top, this framework is the spec to
+build against.
+
+### Sales pipeline stages (apply to every stream/lead below)
+1. **New Lead** — identified, not yet contacted
+2. **Contacted** — first outreach made
+3. **Engaged** — live conversation/dialogue happening
+4. **Proposal/Terms** — specific offer, price, or structure on the table
+5. **Closed — Won** — revenue or deal secured
+6. **Closed — Lost/Parked** — not proceeding, logged so it isn't lost
+
+Each stream entry below should carry a stage tag going forward, e.g.
+`[Stage: Engaged]`, so at a glance you can see where every lead actually sits.
+
+### Finance snapshot (to build once numbers are available)
+A simple running table per stream: **Revenue booked / Revenue expected /
+Costs / Net position.** Not built yet — no consolidated figures exist across
+the 8 streams today. First step would be pulling together what's actually
+invoiced/paid this year per stream (UHL and AHL invoices are the only ones with
+clean figures so far).
+
+### Marketing/content tracker (to build once cadence is set)
+A simple calendar: what content, which stream it promotes, status
+(Draft/Scheduled/Published). The "Other Side of Sixty" LinkedIn series is the
+only defined content engine right now — no calendar exists yet, posts are
+produced ad hoc from voice notes.
+
+### What this framework deliberately excludes
+No Engineering or Support system — not relevant to John's own workload; that
+sits with Shane (technical) or doesn't yet exist as a customer-facing function
+for any stream.
+
+---
+
 ## 0. New Leads / Ideas Not Yet Assigned a Stream
 
 - **eSIM business (Malachy Harkin + business partner Ben)** — Malachy runs an
