@@ -124,6 +124,20 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 
 ---
 
+## Thomond Healthcare Holdings Ltd / Ilex — Primary Care Centre (PCC) Portfolio
+- **What it was:** A multi-site Primary Care Centre (PCC) development and funding venture — sourcing, negotiating and forward-funding GP/HSE/pharmacy co-located premises. John was a registered employee of Thomond Healthcare Holdings Ltd (THH), company no. 624668. [Source: Gmail, "Thomond Healthcare Holdings Ltd" thread, 19 Jan 2026; SoloCheck alert, 25 Jun 2026]
+- **Status:** Wound down. THH's SoloCheck status changed to Liquidation on 25 June 2026; John and Ger Blake exchanged relief at the closure ("took their time liquidating it....good riddance!" / "I thought you might say that Ger") on 5 June 2026. John's own THH employment had already ended around April 2021. [Source: Gmail, "Thomond filing" thread, 5 Jun 2026; "Thomond Healthcare Holdings Ltd" thread, 19 Jan 2026]
+- **Key advisor:** Ger Blake, Director at DSB (advisory firm, offices in Limerick — 98 Henry Street — and Ballincollig, Cork; dsb.ie) — John's long-running deal, funding and financial advisor across this portfolio, and also on the separate MiDentalCare liquidation (see above).
+- **Sites in the pipeline (2020–2026, per email record):** Dooradoyle / South Court (Limerick, ~€4.0–4.3m purchase target, Sept 2020), Sixmilebridge (Co. Clare, HSE/GP/pharmacy shared building), Killaloe, Clones, Kilbeggan, Croom Lands (Co. Limerick — HSE access/fencing discussion ongoing May 2026 with HSE Property Manager Sandra Sheehan; Ger noted "we have no status on the PCC site"), Midleton (Co. Cork). Also referenced as three "Hudson" / "Project H" sites (Jul–Aug 2020).
+- **Funding partners:** PHP (Primary Health Properties plc) — the primary forward-funder relationship, negotiated by Ger Blake with a contact referred to in correspondence only as "JB" [ASK — full name/role unconfirmed]. Aedifica (Belgian healthcare REIT) was considered as an alternative in March 2026 but ruled out — "Aedifica yields too high, not familiar enough with market yet."
+- **Midleton outcome:** JB/PHP declined to fund Midleton (28 Apr 2026) — "hugely disappointing... I had always assumed this was the fall back plan," leaving "no credible back up right now." [Source: Gmail, "Midleton" thread, 28 Apr 2026]
+- **"Ilex":** John's current framing/vehicle for exploring new healthcare property opportunities, distinct from THH — e.g. "Could we in Ilex look at getting into this area" (Dec 2025), discussing the trend of HSE/private operators leasing and adapting existing premises as PCCs.
+- **"Leriathan":** An expense-claims entity referenced by Ger Blake/DSB (Aug 2021) via MC2 Accountants, tied to David Lehane's mileage/expense claims. Relationship to THH/Ilex not established from the email record. [ASK — John to clarify what Leriathan was/is]
+- **Related people:** David Lehane (davidlehane.ie — financial appraisals), William van Helden (project appraisals; also Zest Healthcare), Kieran O'Regan (Director, Zest Healthcare — referenced in a 2021 thread implying he had died, "Kieran RIP").
+- **Tusla connection:** Unconfirmed — flagged, not established. The only source found is a single contact captured via the Captio scanning app on 14 May 2021: "Katie Duggan, National Director of Services, Tusla." No further correspondence was found showing the substance of any Tusla involvement in this portfolio. [ASK — John to clarify the Tusla connection]
+
+---
+
 ## Legacy Financial Matters
 - **Status:** Open — resolution is a top-3 personal priority
 - **Detail:** [ASK — what does resolution require? Is there a timeline?]

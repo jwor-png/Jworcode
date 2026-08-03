@@ -23,6 +23,15 @@
 
 ---
 
+## Advisors
+
+### Ger Blake
+- **Role:** Director, DSB (advisory firm — offices in Limerick and Ballincollig, Cork; dsb.ie)
+- **Relationship:** John's long-running deal, funding and financial advisor — spans the Thomond Healthcare / Ilex Primary Care Centre portfolio (see Ventures Dossier), the MiDentalCare liquidation, and various property matters (Croom Lands, etc.)
+- **Cuan notes:** First point of contact for anything touching the PCC portfolio, THH wind-down, or MiDentalCare liquidation.
+
+---
+
 ## Business and Channel Partners
 
 ### Johnny Shanahan
@@ -68,6 +77,13 @@
 - Separate from his UHL CEO role
 - Status: Open loop
 - [ASK: What does resolution look like here?]
+
+---
+
+### Katie Duggan (Tusla)
+- Captured as a contact via Captio on 14 May 2021: "Katie Duggan, National Director of Services, Tusla"
+- No further correspondence found establishing the context or substance of this contact
+- [ASK: What was the Tusla connection — a PCC co-location discussion, a personal/family matter, or something else?]
 
 ---
 
