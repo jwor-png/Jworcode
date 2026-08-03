@@ -4,9 +4,14 @@
 
 ---
 
-## THE SEQUENCE, AS YOU'VE SET IT
+## THE SEQUENCE, AS CORRECTED
 
-Manchester + Ireland in parallel → London + wider UK → US in parallel with Europe and Japan → global. This is a materially different order from the original proposal's "one London cluster first" pilot design — worth flagging explicitly, because it changes the funding shape: parallel-market launches cost more, sooner, than a single-cluster proof does. If this reordering is a deliberate decision, the plan below is built around it; if it's still open, the single-cluster-first path is meaningfully cheaper and de-risks faster (see the caution at the end).
+**First three months: one market only — Manchester or London, not both, not in parallel with Ireland.** This is back in line with the original proposal's single-cluster pilot logic and is the cheaper, faster-to-prove path flagged as the caution in the first draft of this roadmap. Full order: single-market pilot (Manchester or London) → Ireland added, plus the second UK city → wider UK consolidated → US in parallel with Europe → Japan and global.
+
+**Manchester vs London for the first three months — quick comparative read:**
+- **London** is the market the original Velocity AI proposal was scoped and priced against, has the deepest barbering density and the highest visibility for investors and press, but is also the most expensive market to recruit barbers and shops in and the most competitive.
+- **Manchester** is very likely materially cheaper to prove density in (lower marketing CAC, lower cost of living/rents feeding into barber and shop economics) and gives a genuine second-city proof point that's arguably more convincing to a UK-wide investor than "it worked in London" alone — but it moves away from what's actually costed in the build proposal, so worth confirming Velocity AI's build scope doesn't assume London-specific integrations or partnerships.
+- **No verified data exists in this session on relative barber/shop density or CAC between the two cities** — this is a judgement call for Johnny and Shane, not something Meridian can settle with a number. Flagging the trade-off, not deciding it.
 
 ---
 
@@ -15,10 +20,11 @@ Manchester + Ireland in parallel → London + wider UK → US in parallel with E
 ### Stage 0 — Bridge (now): £50k
 Covers the MVP build only (per the Velocity AI proposal, £42k–£50k). Already covered in the funding structure brief. No change here.
 
-### Stage 1 — Seed: ESTIMATE £350k–£600k, targeted month 4–5
-**Funds:** Manchester and Ireland launched in parallel, London brought fully live, early wider-UK groundwork. Roughly 12–18 months of runway for a small team (a handful of operators, a support/trust function, light marketing spend per market, continued platform development).
-**Why parallel markets push this above a typical single-market seed:** launching Manchester and Ireland together roughly doubles the local go-to-market cost (separate marketing, separate barber/shop recruitment, Ireland adding a second regulatory/currency environment) compared with proving one cluster first. This is the main reason the range is wider and higher than a single-city seed would need to be.
-**Gate before this round opens fully:** Phase One's proof metrics from the MVP build — real bookings, repeat-booking rate, trust record — should exist before pitching this round. Investors price evidence; this is the round where London's own proof does the talking.
+### Stage 1 — Seed: ESTIMATE £200k–£400k, targeted month 4–5 (revised down for single-market first three months)
+**Funds:** the single pilot market (Manchester or London) taken from MVP to proven density, then Ireland and the second UK city added once that proof exists — sequenced, not parallel. Roughly 12–18 months of runway for a small team (a handful of operators, a support/trust function, light marketing spend, continued platform development).
+**Why this is lower than the earlier parallel-launch estimate:** proving one market before opening the next avoids paying two markets' go-to-market costs (marketing, barber/shop recruitment, and for Ireland a second regulatory/currency environment) simultaneously. This is the direct funding benefit of the single-market-first correction.
+**Gate before this round opens fully:** Phase One's proof metrics from the MVP build — real bookings, repeat-booking rate, trust record — should exist before pitching this round. Investors price evidence; this is the round where the single pilot market's own proof does the talking.
+**Gate before Ireland/second city is added:** the pilot market should show the repeat-booking and density numbers the proposal itself defines as proof, before that seed money is spent opening market two — treat this as a milestone release within the seed round, not an assumption baked into the raise.
 
 ### Stage 2 — Series A: ESTIMATE £2m–£4m, targeted roughly month 14–20 (once UK-wide + Ireland is proven)
 **Funds:** Full wider-UK consolidation, plus the US market entry, run in parallel with early Europe. US entry alone is the dominant cost here — a US legal entity, US payments/compliance work, a local operating team, and materially higher marketing CAC in a bigger, more competitive market than the UK. Parallel Europe entry (even one or two markets) adds meaningfully to this, since each new country typically means new payments rails, new language/localisation, and new local trust-building from zero.
@@ -30,9 +36,9 @@ Covers the MVP build only (per the Velocity AI proposal, £42k–£50k). Already
 
 ---
 
-## THE CAUTION WORTH RAISING TODAY
+## THE CAUTION FROM THE FIRST DRAFT — NOW RESOLVED
 
-Three simultaneous market launches at Stage 1 (Manchester, Ireland, London effectively together) is a materially riskier and more expensive path than proving one market first and funding the next from evidence. If cash discipline matters more than speed right now — which it likely does, given the whole financing conversation started from a £50k bridge — worth at least naming the option of gating Manchester/Ireland to start a few weeks after London rather than fully in parallel, without abandoning the ambition. This is a sequencing choice, not a scope cut.
+The original version of this roadmap flagged three simultaneous market launches as materially riskier and more expensive than proving one market first. That's now been corrected to a single-market first three months, which is reflected in the lower Stage 1 estimate above. The one open decision left is Manchester vs London — see the comparative read above.
 
 ---
 
