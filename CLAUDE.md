@@ -40,6 +40,7 @@ All context about John is in `cuan/`:
 - `people_map.md` — key people
 - `voice.md` — how he writes and sounds
 - `governance.md` — rules, gates, sensitive data
+- `ai_upskilling.md` — what John is learning (Shane, UHL training, Golden Generation) and how it aligns to Cuan, Meridian, and other orchestrations
 
 ## Activation Phrase
 
