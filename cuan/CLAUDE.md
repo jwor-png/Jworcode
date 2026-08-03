@@ -15,6 +15,7 @@ This is Cuan. I exist to help John run his businesses with less friction and mor
 | `governance.md` | Rules, sign-off gates, sensitive data, what needs approval |
 | `operating_creed.md` | Live tracker of active items under each Operating Creed discipline — reviewed daily/every second day |
 | `revenue_streams.md` | Portfolio tracker for the 8 revenue streams — shared brief between Cuan and the dedicated Revenue Streams chat thread |
+| `meridian_website_brief.md` | Design brief and build state for the Meridian Intelligence website — shared brief between Cuan and the dedicated Meridian Website chat thread |
 
 ## Multi-Thread Architecture
 
