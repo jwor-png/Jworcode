@@ -7,6 +7,12 @@ There are **two intelligence systems**:
 
 A Venture Orchestrator is noted only as a future consideration, to be agreed between John and Shane. Nothing is assumed or built yet.
 
+## Recording Standard (applies to every entry below)
+Every entry carries the same three fields, so nothing falls into an untracked session again:
+- **Status** — current state, plainly. `[ASK]` where genuinely unconfirmed rather than guessed.
+- **Revenue relevance** — Revenue stream / Channel (enables revenue elsewhere) / Not revenue — personal / board or governance role.
+- **Tracking** — *Cuan + Meridian* for commercial ventures (held by Cuan, worked through the relevant Meridian manager), or *Cuan only* for personal, family, or matters the confidentiality boundary keeps off the commercial layer (governance.md).
+
 ## Priority Stack (as of June 2026)
 1. Ambrion AI — revenue generation (highest urgency, August 2026 anchor)
 2. Meridian Intelligence — strategic development
@@ -18,6 +24,9 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 ---
 
 ## Ambrion AI
+- **Status:** Active — anchor deadline 2 August 2026 (compliance campaign launch)
+- **Revenue relevance:** Revenue stream — primary revenue vehicle for next 3 years, highest priority
+- **Tracking:** Cuan + Meridian (AI Strategy & Adoption; Business Transformation & Growth)
 - **What it does:** John's primary AI company. Governance advisory and EU AI Act compliance for Irish SMEs.
 - **Current focus:** Tiered done-for-you EU AI Act compliance offering, positioned against software-only platforms
 - **Key channels:** Smacht network (300 Irish SMEs via Padraic O'Maille), professional referral partners (accountants, solicitors)
@@ -31,6 +40,9 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 ---
 
 ## Meridian Intelligence
+- **Status:** Building — partner model active
+- **Revenue relevance:** Revenue stream — 70/30 partnership economics (John / Shane McCarthy)
+- **Tracking:** Cuan only for strategic oversight of the partnership itself — Meridian is the commercial layer, not routed through itself
 - **What it does:** AI advisory and intelligence system built around a three-tier architecture
 - **Architecture:** Meridian as orchestrator / 7 specialist managers / 7 agents each (49 agents total). Modelled on a law-firm analogy.
 - **Seven managers:** Commercial & Deal; Legal & Governance; Finance & Restructuring; Property & Development; AI Strategy & Adoption; Business Transformation & Growth; AI Equity & Investment
@@ -39,11 +51,13 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 - **John's role:** Chairman, Strategic Lead, Commercial Lead, Governance Lead
 - **Shane's role:** Technical architecture and execution
 - **Confidentiality:** All documents marked confidential and internal. Client and network references removed from external-facing versions.
-- **Current status:** Building — partner model active
 
 ---
 
 ## Velocity AI
+- **Status:** [ASK — no confirmed current status/stage recorded]
+- **Revenue relevance:** Revenue stream — vehicle for partner and channel relationships (Mairead O'Donnell, Vinny Leonard)
+- **Tracking:** Cuan + Meridian (Commercial & Deal)
 - **What it does:** [Part of John's AI entity stack — serves as the vehicle for partner and channel relationships]
 - **Key relationships:** Mairead O'Donnell (Claochlu Consulting), Vinny Leonard (Sales Process Advisors)
 - **Constraint:** Internal product name "Transition Intelligence" must never appear in any client-facing or external document
@@ -51,6 +65,9 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 ---
 
 ## United Hardware Limited (UHL)
+- **Status:** Active — Non-Executive Director / Chair, Audit & Risk Committee; AI training programme approved and AI proposal drafts in progress
+- **Revenue relevance:** Board / governance role — [ASK: confirm whether director fees are to be tracked here]
+- **Tracking:** Cuan + Meridian (Legal & Governance; AI Strategy & Adoption) for the AI proposal work only — first drafts are for John and Shane, NOT for UHL circulation
 - **What it does:** Irish buying and marketing group, operates the Homevalue brand
 - **Scale:** ~130 member stores across 32 counties (incl. Northern Ireland); combined member turnover ~€350M (2025); ~2,000 people across network; ~40 at Dublin HQ and warehouse at Magna Park
 - **John's role:** Independent Non-Executive Director and Chair, Audit & Risk Committee
@@ -62,14 +79,18 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 ---
 
 ## AHL
-- **John's role:** Chairman
 - **Status:** Active — open loop
+- **Revenue relevance:** Board / governance role — [ASK: confirm revenue relevance, if any]
+- **Tracking:** Cuan only until the open item is defined; route to Meridian once there's a specific commercial or legal brief
+- **John's role:** Chairman
 - **Detail:** [ASK — what is AHL and what's the current open item?]
 
 ---
 
 ## Barber Republic (formerly BarberTemp)
 - **Status:** Active — intended revenue stream for John (advisory/consultancy income via Velocity AI / Meridian Intelligence). Pre-funding stage; IP protection pending before global contacts progress.
+- **Revenue relevance:** Revenue stream — advisory/consultancy income, pre-funding
+- **Tracking:** Cuan + Meridian (Commercial & Deal; Finance & Restructuring) — single point of continuity, consolidated here rather than scattered across separate untracked sessions
 - **What it does:** Two-sided labour exchange for the barbering industry (staffing marketplace)
 - **Model parallel:** Workrise (formerly RigUp) — NOT Uber (Uber framing is dangerous for investor credibility)
 - **John's role:** Commercial Lead via Velocity AI / Meridian Intelligence — advisory and consultancy only. No operational role. Will not relocate.
@@ -80,19 +101,23 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 - **Product layers:** Tiered marketplace by market level, surge pricing for emergency cover, VIP/celebrity barber section, unmanned kiosks, loyalty layer for established barbers
 - **Live priority:** True (true.global) introduction — existing one-pager needs revision before any VC-facing use. Global contacts on hold until IP is protected.
 - **Confidentiality:** John and Shane's names are not on Johnny-facing documents
-- **Tracking:** Consolidated here as the single point of continuity — work on this venture is to be picked up through Cuan (personal layer, holds the running picture) and executed/advised through Meridian (commercial layer, Commercial & Deal / Finance & Restructuring managers), rather than scattered across separate untracked sessions
 
 ---
 
 ## Smacht Network / Padraic O'Maille
+- **Status:** Galway meeting with Padraic was upcoming as of June 2026
+- **Revenue relevance:** Channel — enables revenue for Ambrion AI / Meridian, not a revenue stream itself
+- **Tracking:** Cuan + Meridian (Commercial & Deal; AI Strategy & Adoption)
 - **What it is:** Network of ~300 Irish SMEs, all early-stage AI adopters
 - **Opportunity:** Bring Meridian Intelligence, Golden Generation partner model, and Ambrion ecosystem to a warm network
-- **Status:** Galway meeting with Padraic was upcoming as of June 2026
 - **Priority:** High — key channel for Ambrion compliance offering
 
 ---
 
 ## Mairead O'Donnell / Claochlu Consulting
+- **Status:** Active — background collaboration ongoing
+- **Revenue relevance:** Revenue stream — via Velocity AI channel arrangement
+- **Tracking:** Cuan + Meridian (Commercial & Deal)
 - **Structure:** Background collaboration. Mairead stays front-facing to her clients. Velocity AI provides the AI toolkit design and architecture she commercially deploys.
 - **Philosophy:** "Experience amplified, not reinvented."
 - **Hard constraint:** "Transition Intelligence" must never appear in any client-facing or external document
@@ -100,12 +125,17 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 ---
 
 ## Vinny Leonard / Sales Process Advisors
-- **Structure:** Co-creation channel partner model — Velocity AI builds a custom AI sales tool that Vinny deploys with his clients
 - **Status:** Ongoing — multiple meeting briefs and follow-ups produced. Vinny completed the Transition Intelligence diagnostic profile.
+- **Revenue relevance:** Revenue stream — via Velocity AI co-creation channel
+- **Tracking:** Cuan + Meridian (Commercial & Deal)
+- **Structure:** Co-creation channel partner model — Velocity AI builds a custom AI sales tool that Vinny deploys with his clients
 
 ---
 
 ## LinkedIn / "Other Side of Sixty"
+- **Status:** [ASK — no confirmed current stage recorded]
+- **Revenue relevance:** Not revenue — personal brand / content, indirect lead generation only
+- **Tracking:** Cuan only
 - **What it is:** LinkedIn content series on experience, technology, and the second half of a working life
 - **System:** JWOR Publishing System — John records voice notes; structured and edited into finished posts
 - **Recommended:** Title bank of 10 titles per series before launch
@@ -114,12 +144,17 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 ---
 
 ## Bantry Property
+- **Status:** [ASK — no confirmed current stage recorded]
+- **Revenue relevance:** Not revenue — personal / family matter
+- **Tracking:** Cuan only
 - **What it is:** John coordinates a property project at 11 Cois Riasc, Bantry, Co. Cork on behalf of a family member
 
 ---
 
 ## MiDentalCare Limited
 - **Status:** Creditors' Voluntary Liquidation under Companies Act 2014
+- **Revenue relevance:** Not revenue — legal/personal matter
+- **Tracking:** Cuan only — sensitive legal matter, communications run through Michael Butler only (governance.md); not routed through Meridian
 - **Liquidator:** Michael Butler (proposed)
 - **John's connection:** Director
 - **Key note:** Communication runs through Butler directly — Llewellyn Farquharson holds no authority in this process
@@ -129,10 +164,14 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 
 ## Legacy Financial Matters
 - **Status:** Open — resolution is a top-3 personal priority
+- **Revenue relevance:** Not revenue — personal financial resolution
+- **Tracking:** Cuan only — personal financial matters are not surfaced in commercial contexts (governance.md)
 - **Detail:** [ASK — what does resolution require? Is there a timeline?]
 
 ---
 
 ## Paul Candon Matter
 - **Status:** Open loop — unresolved personal matter (separate from UHL CEO role)
+- **Revenue relevance:** Not revenue — personal matter
+- **Tracking:** Cuan only
 - **Detail:** [ASK]
