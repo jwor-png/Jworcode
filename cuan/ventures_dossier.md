@@ -12,7 +12,8 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 2. Meridian Intelligence — strategic development
 3. Board / chairmanship opportunities (UHL, AHL)
 4. Legacy financial resolution
-5. Selective property and healthcare — only where highly aligned and near-term
+5. Barber Republic — intended revenue stream (advisory/consultancy income, pre-funding stage)
+6. Selective property and healthcare — only where highly aligned and near-term
 
 ---
 
@@ -68,6 +69,7 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 ---
 
 ## Barber Republic (formerly BarberTemp)
+- **Status:** Active — intended revenue stream for John (advisory/consultancy income via Velocity AI / Meridian Intelligence). Pre-funding stage; IP protection pending before global contacts progress.
 - **What it does:** Two-sided labour exchange for the barbering industry (staffing marketplace)
 - **Model parallel:** Workrise (formerly RigUp) — NOT Uber (Uber framing is dangerous for investor credibility)
 - **John's role:** Commercial Lead via Velocity AI / Meridian Intelligence — advisory and consultancy only. No operational role. Will not relocate.
