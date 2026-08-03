@@ -77,6 +77,35 @@ A simple calendar: what content, which stream it promotes, status
 only defined content engine right now — no calendar exists yet, posts are
 produced ad hoc from voice notes.
 
+### Founder playbook reference ("The CEO Roadmap," saved 1 August 2026, via
+Shane — 5 of 9 slides received, slides 6-9 not yet shared)
+A staged framework for early-stage venture building — most directly relevant
+to Ambrion AI and any brand-new idea (eSIM/Malachy, AI Grant Intelligence,
+Julianstown-planning-file product) rather than the more established streams:
+- **Days 1-14 — Talk to 50 people.** Not 10, not 20. Fifty real conversations
+  with potential customers before building a single feature. Track
+  conversations, insights, and follow-ups. Ask: biggest challenge right now,
+  how they're solving it today, what's not working about current solutions,
+  what the "magic wand" perfect solution would look like. Listen for pain
+  patterns, workarounds, emotional triggers, unmet needs.
+- **Days 1-30 — Find your unfair advantage.** What's hard for others to
+  replicate: relationship, distribution, technology, insight, brand/trust, or
+  data. The one-sentence test: "We win because we have ___ that ___ in a way
+  that ___ cannot." If you can't name it in one sentence, you don't have one
+  yet.
+- **Days 15-45 — Get one paying customer.** Not a free trial, not a letter of
+  intent — real money, paid in full or recurring, from someone outside your
+  network, for the actual solution, with real usage or commitment. One paying
+  customer teaches more than 100 pitches. Revenue is the strongest form of
+  feedback.
+- **Days 30-60 — Build the simplest version possible.** Solve one problem for
+  one type of person with the fewest moving parts. Ship ugly, learn fast.
+  Stripe's first version was seven lines of code; Airbnb's first version was a
+  WordPress site with photos of an air mattress. Perfection is the enemy of
+  learning.
+- **Slides 6-9 (Measure / Systems / Growth tabs) not yet received** — ask John
+  to share if he wants the full 9-slide set logged.
+
 ### What this framework deliberately excludes
 No Engineering or Support system — not relevant to John's own workload; that
 sits with Shane (technical) or doesn't yet exist as a customer-facing function
