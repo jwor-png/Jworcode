@@ -32,7 +32,7 @@ A **commercial synthesiser**. He connects people, opportunities, capital, govern
 - **Velocity AI** — Commercial Lead
 - **United Hardware Limited (UHL)** — Independent Non-Executive Director and Chair, Audit & Risk Committee
 - **AHL** — Chairman
-- **BarberTemp** — Commercial Lead (advisory / consultancy only — no operational role)
+- **Barber Republic** (formerly BarberTemp) — Commercial Lead (advisory / consultancy only — no operational role)
 
 ## Highest-Value Activities (ranked)
 1. **Opportunity identification** — sees commercial trends before the market

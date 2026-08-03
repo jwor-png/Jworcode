@@ -67,7 +67,7 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 
 ---
 
-## BarberTemp
+## Barber Republic (formerly BarberTemp)
 - **What it does:** Two-sided labour exchange for the barbering industry (staffing marketplace)
 - **Model parallel:** Workrise (formerly RigUp) — NOT Uber (Uber framing is dangerous for investor credibility)
 - **John's role:** Commercial Lead via Velocity AI / Meridian Intelligence — advisory and consultancy only. No operational role. Will not relocate.
@@ -78,6 +78,7 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 - **Product layers:** Tiered marketplace by market level, surge pricing for emergency cover, VIP/celebrity barber section, unmanned kiosks, loyalty layer for established barbers
 - **Live priority:** True (true.global) introduction — existing one-pager needs revision before any VC-facing use. Global contacts on hold until IP is protected.
 - **Confidentiality:** John and Shane's names are not on Johnny-facing documents
+- **Tracking:** Consolidated here as the single point of continuity — work on this venture is to be picked up through Cuan (personal layer, holds the running picture) and executed/advised through Meridian (commercial layer, Commercial & Deal / Finance & Restructuring managers), rather than scattered across separate untracked sessions
 
 ---
 

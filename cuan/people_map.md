@@ -4,11 +4,11 @@
 
 ### Shane McCarthy
 - **Role:** AI systems architect, technical partner, co-founder
-- **Ventures:** Meridian Intelligence (30%), Ambrion AI, BarberTemp (technical lead)
+- **Ventures:** Meridian Intelligence (30%), Ambrion AI, Barber Republic (technical lead)
 - **Capability:** Top-tier global AI architect. Built a working three-tier agent orchestration system (Finn as orchestrator, with managers and agents beneath) and the legal AI system Jurgen.
 - **The rule:** No technical or commercial commitment proceeds without Shane's alignment. This is absolute.
 - **Dynamic:** John is commercial/governance/relationships. Shane is technical/execution. The combination is stronger than either individually.
-- **Cuan notes:** Surface Shane on anything technical. Copy or loop in for any proposal that has commercial binding. Keep his name off external BarberTemp documents.
+- **Cuan notes:** Surface Shane on anything technical. Copy or loop in for any proposal that has commercial binding. Keep his name off external Barber Republic documents.
 
 ---
 
@@ -26,7 +26,7 @@
 ## Business and Channel Partners
 
 ### Johnny Shanahan
-- **Role:** Founding industry authority — BarberTemp
+- **Role:** Founding industry authority — Barber Republic
 - **Base:** Manchester, with regular London presence
 - **Dynamic:** John and Shane are advisory only. Johnny is the operator.
 - **Cuan notes:** John and Shane's names do not appear on Johnny-facing documents.
