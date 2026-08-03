@@ -8,10 +8,29 @@
 
 **First three months: one market only — Manchester or London, not both, not in parallel with Ireland.** This is back in line with the original proposal's single-cluster pilot logic and is the cheaper, faster-to-prove path flagged as the caution in the first draft of this roadmap. Full order: single-market pilot (Manchester or London) → Ireland added, plus the second UK city → wider UK consolidated → US in parallel with Europe → Japan and global.
 
-**Manchester vs London for the first three months — quick comparative read:**
-- **London** is the market the original Velocity AI proposal was scoped and priced against, has the deepest barbering density and the highest visibility for investors and press, but is also the most expensive market to recruit barbers and shops in and the most competitive.
-- **Manchester** is very likely materially cheaper to prove density in (lower marketing CAC, lower cost of living/rents feeding into barber and shop economics) and gives a genuine second-city proof point that's arguably more convincing to a UK-wide investor than "it worked in London" alone — but it moves away from what's actually costed in the build proposal, so worth confirming Velocity AI's build scope doesn't assume London-specific integrations or partnerships.
-- **No verified data exists in this session on relative barber/shop density or CAC between the two cities** — this is a judgement call for Johnny and Shane, not something Meridian can settle with a number. Flagging the trade-off, not deciding it.
+**Decision: London first, Manchester held as the alternative** — see the pricing considerations section below for the full comparative cost picture behind this.
+
+---
+
+## PRICING CONSIDERATIONS: LONDON FIRST, MANCHESTER AS THE ALTERNATIVE
+
+Decision: **London is the primary pilot market; Manchester is held as the alternative**, not run in parallel. Pricing considerations for each, so the choice is made with the cost picture in view — every figure ESTIMATE, no verified Barber Republic or city-level data behind either.
+
+**London (primary path):**
+- **Build alignment:** the Velocity AI proposal was scoped and priced against London specifically (£42k–£50k, Stage 0) — no re-scoping risk, no re-costing conversation needed with the build partner.
+- **Marketing/CAC:** London carries the highest barber and shop recruitment cost of any UK city — more competitive attention market, higher cost per acquisition on paid channels, higher-cost local marketing generally.
+- **Density advantage:** the deepest barbering density in the UK, which is the one factor that can offset the higher unit cost — proof-of-density (the platform's core value proposition) is reachable faster in raw volume terms even if each acquisition costs more.
+- **Investor/press visibility:** "proven in London" reads as the strongest single-line proof point to a UK or international seed investor — a real, if soft, pricing benefit at the seed-raise stage itself (easier raise, potentially better terms).
+- **Stage 1 (seed) estimate for this path:** toward the upper half of the £200k–£400k range given higher per-unit London costs — call it **£280k–£400k**.
+
+**Manchester (alternative, held in reserve):**
+- **Build re-scoping risk:** worth confirming with Velocity AI whether the current proposal assumes anything London-specific (partnerships, integrations, initial data sources) before treating this as a drop-in substitute market — if it does, this adds cost and time that isn't currently priced in.
+- **Marketing/CAC:** very likely materially lower than London — lower cost of living and rents feeding into both marketing spend efficiency and barber/shop economics, generally cheaper city-level customer acquisition than London across most UK consumer sectors.
+- **Density:** second-tier to London on raw barbering density, so proving the same volume of matches/bookings the proposal defines as proof may take longer even if each acquisition is cheaper — a real trade-off between unit cost and time-to-proof.
+- **Investor narrative:** a genuine second-city proof point, but a materially weaker single-line pitch than London to an investor who doesn't already know the UK barbering landscape well.
+- **Stage 1 (seed) estimate for this path:** toward the lower half of the £200k–£400k range given lower per-unit costs — call it **£200k–£300k**, with the caveat that time-to-proof may run longer, which has its own cost in runway needed.
+
+**Net pricing read:** London costs more per acquisition but reaches proof faster and pitches better to the next round; Manchester costs less per acquisition but likely takes longer to reach the same proof threshold, and only holds its cost advantage if the build doesn't need re-scoping. Given the proposal is already priced and built around London, and given the seed round is easier to raise off a stronger single-line proof point, **London is the more capital-efficient primary choice on a total-cost-to-proof basis, not just a headline-cost basis** — which supports going with it as primary and holding Manchester as the fallback rather than the reverse.
 
 ---
 
@@ -38,7 +57,7 @@ Covers the MVP build only (per the Velocity AI proposal, £42k–£50k). Already
 
 ## THE CAUTION FROM THE FIRST DRAFT — NOW RESOLVED
 
-The original version of this roadmap flagged three simultaneous market launches as materially riskier and more expensive than proving one market first. That's now been corrected to a single-market first three months, which is reflected in the lower Stage 1 estimate above. The one open decision left is Manchester vs London — see the comparative read above.
+The original version of this roadmap flagged three simultaneous market launches as materially riskier and more expensive than proving one market first. That's now been corrected to a single-market first three months (London, with Manchester as the alternative), which is reflected in the lower Stage 1 estimate above.
 
 ---
 
