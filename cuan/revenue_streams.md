@@ -78,7 +78,7 @@ only defined content engine right now — no calendar exists yet, posts are
 produced ad hoc from voice notes.
 
 ### Founder playbook reference ("The CEO Roadmap," saved 1 August 2026, via
-Shane — 5 of 9 slides received, slides 6-9 not yet shared)
+Shane — complete 9-slide set)
 A staged framework for early-stage venture building — most directly relevant
 to Ambrion AI and any brand-new idea (eSIM/Malachy, AI Grant Intelligence,
 Julianstown-planning-file product) rather than the more established streams:
@@ -103,8 +103,28 @@ Julianstown-planning-file product) rather than the more established streams:
   Stripe's first version was seven lines of code; Airbnb's first version was a
   WordPress site with photos of an air mattress. Perfection is the enemy of
   learning.
-- **Slides 6-9 (Measure / Systems / Growth tabs) not yet received** — ask John
-  to share if he wants the full 9-slide set logged.
+- **Days 45-75 — Set up your financial baseline.** Open a business account,
+  track every dollar from day one (every sale, expense, subscription, payroll,
+  commitment — no surprises). Know monthly revenue, monthly burn, months of
+  runway, and the exact revenue or funding number that extends it. Runway
+  formula: cash in bank ÷ monthly burn. Founders who don't know these numbers
+  make decisions in the dark; the ones who do make decisions fast.
+- **Days 60-90 — Build the machine that finds customers.** Not a one-off sale —
+  a repeatable process (channel, script, system) that produces new customers
+  consistently: Attract → Engage → Convert → Retain & Grow. Pick one channel
+  (cold outreach, content, partnerships, or referrals) and dominate it rather
+  than spreading thin. North star question: "How do we get our next 10
+  customers?" Track leads, conversations, customers, and CAC per channel.
+- **Days 75-90 — Decide what you are NOT building.** Write a list of every
+  feature/product/idea you've been tempted to add, then cross out everything
+  not essential to solving the core problem for your first 100 customers. The
+  Focus Filter: does it Align (solves the core problem better), have Impact
+  (matters to first 100 customers), and is the Timing right? If it doesn't
+  clear all three, it doesn't make the cut. "Innovation is saying no to 1,000
+  things" (Steve Jobs).
+- **Closing message:** "The first 90 days don't determine whether your startup
+  succeeds. They determine whether you build the kind of foundation that gives
+  it a real chance."
 
 ### What this framework deliberately excludes
 No Engineering or Support system — not relevant to John's own workload; that
