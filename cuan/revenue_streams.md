@@ -36,6 +36,41 @@ the 8 streams today. First step would be pulling together what's actually
 invoiced/paid this year per stream (UHL and AHL invoices are the only ones with
 clean figures so far).
 
+### Finance metrics glossary (source: "Founded CEO" Instagram carousel, saved
+1 August 2026, via Shane)
+Reference definitions for when the Finance snapshot above is populated —
+particularly relevant to any stream taking on investment (ODIN, Tairseach,
+Barber Republic) since these are the terms investors will use:
+- **CAC (Customer Acquisition Cost):** Total sales & marketing spend ÷ new
+  customers acquired.
+- **CLV (Customer Lifetime Value):** Average purchase value × purchase
+  frequency per year × average customer lifespan in years.
+- **ARR (Annual Recurring Revenue):** Total active subscribers × average
+  revenue per user (monthly) × 12.
+- **MRR (Monthly Recurring Revenue):** Total active subscribers × ARPU ×
+  1 month.
+- **ROI (Return on Investment):** Net profit from investment ÷ cost of
+  investment.
+- **Burn Multiple:** Net burn ÷ net new ARR. Below 1.0x is a healthy benchmark
+  — shows how efficiently capital converts into growth.
+- **EBITDA:** Net income + interest + taxes + depreciation + amortisation.
+- **Churn Rate:** Customers lost during a period ÷ total customers at start of
+  period.
+- **LTV:CAC ratio:** Customer Lifetime Value ÷ CAC. Healthy SaaS businesses
+  target 3x or higher.
+- **NRR (Net Revenue Retention):** Ending revenue from existing customers ÷
+  starting revenue from existing customers. Above 100% means existing
+  customers are driving net growth on their own.
+- **Gross Margin:** (Revenue − Cost of Goods Sold) ÷ Revenue.
+- **Operating Margin:** (Revenue − Operating Expenses) ÷ Revenue.
+- **CAC Payback Period:** CAC ÷ monthly gross profit per customer. Under 12
+  months is generally considered healthy.
+- **Rule of 40:** Revenue growth rate % + profit margin %. A score of 40% or
+  higher is considered strong for SaaS/high-growth businesses — balances
+  growth against profitability.
+- **Cash Runway:** Cash & cash equivalents ÷ average monthly cash burn. 12+
+  months is a strong buffer; below 12 months increases financial risk.
+
 ### Marketing/content tracker (to build once cadence is set)
 A simple calendar: what content, which stream it promotes, status
 (Draft/Scheduled/Published). The "Other Side of Sixty" LinkedIn series is the
