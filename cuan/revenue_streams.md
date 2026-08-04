@@ -260,9 +260,11 @@ for any stream.
 - **What it does:** AI advisory and intelligence consultancy, sold as a service
   to others — its own business, not just an internal capability. Three-tier
   architecture: Meridian as orchestrator, 7 specialist managers, 7 agents each.
-- **Seven managers:** Commercial & Deal; Legal & Governance; Finance &
-  Restructuring; Property & Development; AI Strategy & Adoption; Business
-  Transformation & Growth; AI Equity & Investment.
+- **Seven Executive Intelligence Domains** (external-facing term, settled
+  1 Aug 2026 — "managers" is internal architecture language only): Commercial &
+  Transaction; Legal & Governance; Finance &
+  Restructuring; Property & Development; AI Strategy & Governance; Business
+  Growth & Transformation; Investment & AI Equity.
 - **Partnership:** 70/30 — John (70%) / Shane McCarthy (30%).
 - **John's role:** Chairman, Strategic Lead, Commercial Lead, Governance Lead.
 - **Status (as of 29 July Portlaoise meeting):** Shane made changes to the

@@ -40,7 +40,7 @@ Cuan reads both files in full — nothing here has been deleted or superseded.
 ## Meridian Intelligence
 - **What it does:** AI advisory and intelligence system built around a three-tier architecture
 - **Architecture:** Meridian as orchestrator / 7 specialist managers / 7 agents each (49 agents total). Modelled on a law-firm analogy.
-- **Seven managers:** Commercial & Deal; Legal & Governance; Finance & Restructuring; Property & Development; AI Strategy & Adoption; Business Transformation & Growth; AI Equity & Investment
+- **Seven Executive Intelligence Domains** (settled external-facing term, 1 Aug 2026 — "managers" is internal architecture language only, never used externally): Commercial & Transaction; Legal & Governance; Finance & Restructuring; Property & Development; AI Strategy & Governance; Business Growth & Transformation; Investment & AI Equity
 - **Also includes:** Golden Generation Partner Programme
 - **Partnership:** 70/30 — John (70%) / Shane McCarthy (30%)
 - **Meridian team emails (Google Workspace) — set up in progress via Niamh

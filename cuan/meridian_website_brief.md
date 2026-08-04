@@ -114,8 +114,11 @@ All domain descriptions and positioning language should stay consistent with:
   confidentiality rules.
 
 Note the two documents use slightly different language ("Seven Managers" vs
-"Seven Executive Intelligence Domains"). The website prototype uses **Domains**.
-Confirm with John which is the settled external-facing term.
+"Seven Executive Intelligence Domains"). **SETTLED (John, 1 August 2026):
+"Domains" is the external-facing term.** Use "Seven Executive Intelligence
+Domains" consistently on the website and in any new client-facing material.
+"Managers" is internal architecture language only and should not appear
+externally.
 
 ---
 
@@ -124,6 +127,6 @@ Confirm with John which is the settled external-facing term.
 1. Real logo and brand palette — blocked pending direct upload.
 2. Single landing page, or multiple pages (Home / Domains / About / Contact)?
 3. Audience — prospective clients only, or investors too?
-4. "Domains" vs "Managers" as the settled public term.
+4. ~~"Domains" vs "Managers"~~ — SETTLED, use **Domains** externally.
 5. Whether to follow Primary Studio's lead on stating fees openly. Meridian's
    fee structure was still being located as of late July.
