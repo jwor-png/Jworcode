@@ -136,11 +136,15 @@ Five products. Four sell today. One is the long game.
 
 ## FUNDING OFFSETS — the entry route worth building
 
-**Enterprise Ireland Innovation Voucher, up to €5,000.** At €4,950 list, a Decision Brief is designed to sit exactly inside a single Innovation Voucher. That is a client acquiring a full Meridian brief at close to no net cost, which is the strongest possible first engagement.
+*Corrected 5 August 2026 after verification. See `meridian/Grant_Agency_Registration_Plan_2026-08-05.md` for the full position.*
 
-> **ACTION, and it is worth doing this week:** confirm whether Meridian is, or can become, an Enterprise Ireland registered knowledge provider. Innovation Vouchers can only be redeemed against registered providers. If Meridian can register, the Decision Brief price point becomes a genuine market entry weapon. If it cannot, this route closes and the pricing logic is unaffected but the acquisition story weakens. **Unverified until checked. Do not put it in front of a client before it is confirmed.**
+**Enterprise Ireland Innovation Voucher: this route is not available to Meridian directly.** Innovation Voucher knowledge providers are publicly funded research organisations, being universities, institutes of technology including the seventeen Technology Gateways, and other state research bodies. A private consultancy cannot register. The scheme exists to connect private SMEs *to* public research, so Meridian sits on the wrong side of it by design. The voucher is also now up to €10,000, not €5,000.
 
-**Skillnet Ireland.** Applies to training-shaped delivery. Relevant to the Ambrion products rather than to Meridian's decision work, and it should follow those products across.
+> **The Decision Brief price of €4,950 stands unchanged, on the stronger of its two original reasons: it sits inside a managing director's own signing authority.** The voucher was a bonus, and the bonus is not there. Meridian may still be able to work alongside a registered knowledge provider on voucher-funded work, which is worth exploring with a Technology Gateway, but that is unverified and must not be offered to a client until confirmed.
+
+**Skillnet Ireland.** Funds training, through 68 Skillnet Business Networks nationwide, on a joint-investment model. Meridian does not sell training, so this is not a Meridian route. **It belongs to Ambrion**, and it is the natural funding mechanism for the three AI products moving across.
+
+**The routes that are open to Meridian are acquisition routes, not revenue routes.** Local Enterprise Office mentor panels and the Enterprise Ireland Mentor Network both put John in front of owner-managers with the State making the introduction. They pay modestly. Their value is the room they get him into, not the fee. Meridian should not be built on an assumption of grant-subsidised fees.
 
 ---
 
@@ -183,7 +187,7 @@ Roughly **€55,000 across the first quarter** at founding rates, with two retai
 
 1. **Replace the current pricing sheet.** The three AI products move to Ambrion. The five products above go live.
 2. **Rename "friends rate" to "founding client rate," first ten clients, ends 31 December 2026.**
-3. **Check the Enterprise Ireland registered knowledge provider position this week.** It decides whether the Innovation Voucher route is real.
+3. **Grant registrations: see the separate registration plan.** The Innovation Voucher route is closed to Meridian as a provider. Priority is LEO mentor panels and the EI Mentor Network for Meridian, and Skillnet for Ambrion once it is incorporated. Meridian needs professional indemnity insurance before most panels will consider it.
 4. **Convert United Hardware to a named Intelligence Partner tier.** It is already this relationship. It is simply not priced as one.
 5. **Run Primeline, Vinny Leonard and DSB Accountants as the first three founding-rate Decision Briefs.** Treat DSB as a double play: a Meridian client and an Ambrion referral partner in one conversation.
 6. **Decide the success-element policy on Transaction Intelligence** before the first deal above €2m, not during it.
