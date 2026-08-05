@@ -23,9 +23,7 @@ The pricing paper issued earlier today recommended pricing the Decision Brief at
 
 **Every registration on this list requires a legal entity with a CRO number, a tax clearance certificate, and in most cases professional indemnity insurance.**
 
-Ambrion has none of these. There is no Ambrion company. It therefore cannot be registered with Skillnet, with a LEO panel, with Enterprise Ireland, or with anyone else, under any circumstances, until it is incorporated.
-
-This is now the third separate reason incorporation is urgent, alongside the revenue flowing through Velocity at the wrong split and Pat McGrath's 10 per cent having nothing to attach to.
+Ambrion's incorporation is in progress. Until it completes, Ambrion cannot be registered with Skillnet, with a LEO panel, or with Enterprise Ireland. That is not a governance concern, it is a scheduling one, and it puts incorporation on the critical path to funding rather than merely to tidiness. Skillnet is Ambrion's genuine revenue channel and the compliance campaign is live now, so the sooner the CRO number exists the sooner that channel opens.
 
 **Two further items that need settling for Meridian at the same time:**
 
@@ -120,7 +118,7 @@ That is not a weakness in Meridian. It is a consequence of selling judgment rath
 
 ## THE ACTIONS, IN ORDER
 
-1. **Incorporate Ambrion.** Nothing on Ambrion's side of this plan can start until it exists. It is the gate.
+1. **Complete the Ambrion incorporation.** In progress. Nothing on Ambrion's side of this plan can start until the CRO number and tax clearance exist. It is the gate on the Skillnet revenue channel.
 2. **Put professional indemnity insurance in place for Meridian.** Required for most panels, and needed anyway.
 3. **Apply to LEO mentor panels**, Meath and Louth first, then Dublin City, Fingal, Kildare.
 4. **Apply to the Enterprise Ireland Mentor Network.** Verify the current intake route directly.

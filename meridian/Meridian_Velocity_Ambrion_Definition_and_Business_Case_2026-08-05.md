@@ -31,11 +31,11 @@ Ambrion's buyer is compelled by law. Velocity's buyer has already decided AI is 
 | **Verified pricing** | Indicative only, see business case below | €30,000 + VAT Phase One, three months, at €10,000/month. Phase Two scoped after (EDelia proposal, June 2026) | Tiered. Rates not yet on record |
 | **Lead / front door** | John, personally | Shane | Shane CEO and architect. John commercial and governance lead |
 | **Ownership** | John 70 / Shane 30 | Shane 70 / John 30 | Shane 60 / John 30 / Pat McGrath 10 |
-| **Legal entity** | To be formalised | Mainly Velocity Limited, trading as Velocity AI | **None. Ambrion is a brand, not a company** |
-| **Currently generating income?** | Fee income from delivered briefs | Yes | **No. Governance work only to date** |
+| **Legal entity** | To be formalised | Mainly Velocity Limited, trading as Velocity AI | Incorporation in progress |
+| **Currently generating income?** | Fee income from delivered briefs | Yes | Not yet. Governance work to date, compliance campaign now live |
 | **Route to market** | John's board relationships, direct | Direct, plus site diagnostics | Smacht network, c.300 Irish SMEs via Padraic O'Maille. Accountants and solicitors as referral partners. UHL training |
 | **Time to value** | Days | Months | Weeks to months |
-| **Portfolio priority** | Complementary, and the upstream feeder | Shane-led build arm | **John's primary revenue vehicle for the next three years** |
+| **Portfolio priority** | John-led. Fee revenue in days, and the upstream feeder to both others | Shane-led build arm | Statutory timing. The EU AI Act makes now its moment |
 | **What it leaves behind** | A decision made properly, and the reasoning on file | Built systems, proof points, embedded orchestration | A compliance position that survives regulatory scrutiny |
 
 ### Read across the top row again
@@ -114,7 +114,9 @@ Eight of the nine are decision briefs. One, Export Anatolia, is an AI adoption j
 
 **Live opportunity.** Oifig IS na hEireann, the AI Office of Ireland, launched this week as Ireland's independent central coordinating authority for EU AI Act implementation, led by CEO Paul Byrne alongside Ministers Peter Burke and Niamh Smyth. The Office has explicitly flagged stakeholder engagement as a priority. This is a genuine opening for Ambrion as a practitioner voice rather than a cold approach. John and Shane are exploring LinkedIn engagement followed by a direct introduction.
 
-**Status.** Highest priority revenue stream. The 2 August 2026 anchor is **now active**, not passed: it was the compliance campaign launch date. Live outreach in progress, including Glennon Brothers. **Ambrion is John's primary revenue vehicle for the next three years.**
+**Status.** The 2 August 2026 anchor is **now active**, not passed: it was the compliance campaign launch date. Live outreach in progress, including Glennon Brothers.
+
+*Note on a superseded line. The Ambrion briefing describes Ambrion as John's primary revenue vehicle for the next three years. **John has confirmed that reference predates Meridian's conception and no longer holds.** It is recorded here for accuracy and should not be read as the current portfolio position. There is no single primary vehicle. There are three complementary businesses reaching three different buyers.*
 
 **Where it sits against Meridian.** Ambrion answers "the law now applies to us, are we compliant." Meridian answers "should we do this." Ambrion's buyer is compelled by regulation. Meridian's buyer is choosing. Ambrion sells a programme with a statutory driver behind it. Meridian sells a single answer to a single question.
 
@@ -126,17 +128,13 @@ Eight of the nine are decision briefs. One, Export Anatolia, is an AI adoption j
 
 **There is no legal Ambrion entity.** The United Hardware senior executive training was delivered under the Ambrion name because UHL already knew that name, but it was contracted and invoiced through the Velocity company, because there is nothing else to contract through.
 
-### The flag that follows from that, and it needs acting on
+### Structure in transition, confirmed by John
 
-Three facts sit together uncomfortably:
+**Ambrion will have its own company shortly, and the United Hardware arrangement changes with it.** The Velocity routing on that training was a practical bridge because there was nothing else to contract through at the time, not a settled arrangement.
 
-1. Ambrion is named as John's **primary revenue vehicle for the next three years**.
-2. Ambrion has **no legal entity**, so it cannot contract, invoice, hold a bank account, or own its own IP.
-3. Ambrion-branded revenue therefore flows through **Mainly Velocity Limited, which is Shane 70 / John 30**, not Ambrion's Shane 60 / John 30 / Pat 10.
+The only thing worth carrying forward from it is a single instruction for the incorporation itself: **record the 60/30/10 in the constitution and the share register at formation.** Splits agreed verbally between people who trust each other are the ones that get remembered differently three years later, and Pat McGrath's 10 per cent in particular needs a documented home. That is housekeeping, not a warning.
 
-The economic effect, if this continues, is that Ambrion revenue is earned under a split John did not agree for Ambrion, and Pat McGrath's 10 per cent has no vehicle to attach to at all. On the UHL training alone the difference is administratively small. Across a three-year primary revenue vehicle running a national EU AI Act compliance campaign, it is not small.
-
-> **This is not a suggestion that anyone intends anything other than the agreed position.** It is that the agreed position currently has nothing to sit in. The compliance campaign is live from 2 August. Incorporating Ambrion, with the 60/30/10 recorded, is now the most urgent formality in the entire portfolio, ahead of the Meridian shareholders agreement. Until it exists, every euro of Ambrion revenue lands in a Shane-majority company by default.
+There is a second reason the timing matters and it is practical rather than governance-related: **no grant agency will register Ambrion without a CRO number and tax clearance.** Skillnet, the LEO panels and Enterprise Ireland are all closed to it until the company exists. Given the compliance campaign is live now and Skillnet is Ambrion's genuine revenue channel, incorporation is on the critical path to funding, not just to tidiness.
 
 **What this does not change.** The strategic separation stands, and arguably strengthens. Ambrion has the statutory driver, the campaign, the channel and the moment. The EU AI Act coming into full application on 2 August is exactly the event that turns it from governance work into income. The point is simply that the vehicle needs to exist before the money starts arriving, not after.
 
@@ -165,17 +163,25 @@ Three collisions. All three are fixable and none of them are structural.
 Once the three doors are separate, each one feeds the others. This is worth money and should be formalised with an agreed fee split.
 
 - **Meridian to Velocity.** Meridian sits with owners at the moment of a commercial decision. That room throws off AI need constantly. Every Export Anatolia is a Velocity job introduced at zero acquisition cost.
-- **Meridian to Ambrion, and this is the important one.** Ambrion is John's primary revenue vehicle for the next three years. Meridian sits with owners and boards at the moment of a major decision, which is precisely the moment an EU AI Act exposure becomes visible and uncomfortable. Every capital event and audit engagement surfaces a governance gap. Fleming Medical's five board questions are an Ambrion opening. **Meridian's highest-value output may not be its own fee. It is qualified, warm, board-level access for Ambrion at the moment the buyer is most receptive.**
+- **Meridian to Ambrion.** Meridian sits with owners and boards at the moment of a major decision, which is precisely the moment an EU AI Act exposure becomes visible and uncomfortable. Every capital event and audit engagement surfaces a governance gap. Fleming Medical's five board questions are an Ambrion opening. **Meridian's highest-value output may not be its own fee. It is qualified, warm, board-level access for Ambrion at the moment the buyer is most receptive.**
 - **Velocity to Meridian.** A client mid-AI-programme hits a commercial, structural or investment decision. Velocity does not sell that. Meridian does.
 - **Ambrion to Meridian.** A board that has just had its AI compliance handled is a board that trusts the same people with its next real decision. The Smacht network alone is roughly 300 Irish SMEs, and the accountant and solicitor referral partners are exactly the professionals who see a client's big decisions coming before anyone else does.
 
 Three brands, one ecosystem, no cannibalisation. That is the answer to Shane's "two people talking about the same thing."
 
-### The portfolio order, now that the briefing is in
+### The portfolio order
 
-Ambrion is stated in its own briefing as John's primary revenue vehicle for the next three years, with a statutory deadline behind it and a live campaign running. **That settles the priority question and Meridian's business case has to be built inside it, not alongside it.**
+There is no single primary vehicle. The Ambrion briefing's three-year primary-revenue line predates Meridian and John has confirmed it no longer holds.
 
-Meridian is not competing for that first position and should not be positioned as if it were. Meridian earns its place three ways: it is the only vehicle that reaches a buyer who is not thinking about AI, it generates fee revenue on days rather than months, and it feeds the primary vehicle warm board-level introductions at the exact moment of receptiveness. That is a strong argument for building Meridian properly, and a poor argument for launching it ahead of Ambrion's compliance campaign.
+What that leaves is cleaner than a hierarchy. **Three businesses, three buyers, three different clocks.**
+
+- **Ambrion has the timing.** The EU AI Act came into full application on 2 August. That is a statutory event with a compliance campaign behind it, a named channel of roughly 300 SMEs, and a window that will not stay open indefinitely. Its moment is now, and it should be run hard while the moment lasts.
+- **Meridian has the margin and the speed.** Fee revenue in days rather than months, no build cost, no delivery team, and a product already proven nine times. It also has the only buyer of the three who is not thinking about AI, which means it is the only one of the three whose market does not shrink when the AI conversation matures.
+- **Velocity has the depth.** Longer engagements, higher contract values, and the build capability the other two both need to point at.
+
+They reinforce rather than rank. Meridian's engagements put John in the room where EU AI Act exposure becomes visible, which feeds Ambrion. Ambrion's compliance clients hit commercial decisions, which feeds Meridian. Both feed Velocity when something needs building.
+
+**The practical consequence for Meridian's business case: it stands on its own.** It does not need to be justified as a feeder for something else, and it should not be sequenced behind anything. It needs a defined offer, a price list and a front door, which is what the rest of this document sets out.
 
 ---
 
@@ -238,7 +244,7 @@ Realistic today alongside existing board commitments: eight to twelve briefs a m
 3. **Stop leading on "clarity" and "strategic intelligence."** Velocity owns that ground and owns it first. Meridian leads on the decision.
 4. **Settle board governance ownership with Shane.** Ambrion owns it. Meridian's Manager 2 is scoped to governance inside a decision.
 5. **Formalise the three-way referral with a fee split.**
-6. **Incorporate Ambrion, first, ahead of everything else.** Ambrion is the primary revenue vehicle for three years, it has no legal entity, and its branded revenue currently flows through Mainly Velocity Limited at a different split. The compliance campaign is live now. This is the single most urgent item in the portfolio. Then draw the Meridian 70/30 shareholders agreement.
+6. **Complete the Ambrion incorporation with the 60/30/10 recorded at formation**, and draw the Meridian 70/30 shareholders agreement. Both are in train. The practical driver on Ambrion is that no grant agency can register it without a CRO number, and Skillnet is its real revenue channel.
 7. **Then launch, and launch on the nine.** Real anonymised engagements, not staged samples of unnamed businesses. *"A gas distributor asked whether to enter cylinder testing. Here is how it was answered in six days."* That is the proof Shane asked for and it is already owned. Seek permission to name Stargas, Arcade Trader and Fleming Medical. Handle United Hardware carefully given the board position.
 
 ## 7. Test targets offered by John, 5 August 2026
