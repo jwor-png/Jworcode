@@ -135,6 +135,20 @@ for any stream.
 
 ## 0. New Leads / Ideas Not Yet Assigned a Stream
 
+- **AI Office of Ireland (Oifig IS na hEireann) — connection opportunity for
+  Ambrion.** Launched this week as Ireland's independent central coordinating
+  authority for EU AI Act implementation. CEO Paul Byrne, alongside Ministers
+  Peter Burke and Niamh Smyth. The Office has explicitly named stakeholder
+  engagement as a key priority as implementation progresses — a genuine
+  opening for Ambrion to connect as a practitioner voice (real SME compliance
+  experience), not a cold sales approach. Recommended sequence: (1) LinkedIn
+  engagement first — follow the page, genuine comment on the launch post; (2)
+  identify the right contact, likely a stakeholder engagement channel rather
+  than going straight to the CEO; (3) short follow-up offering ground-level
+  insight from SME implementation work as informal input. John considering
+  opening a dedicated Ambrion AI chat thread; this item should be carried into
+  it once created.
+
 - **Xander Cavanagh / Johnny Shanahan — AI training enquiry.** Johnny asked
   Xander about AI training. John to look into whether there's a further
   training requirement/opportunity here, separate from the Barber Republic
