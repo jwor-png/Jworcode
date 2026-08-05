@@ -30,7 +30,9 @@ Ambrion's buyer is compelled by law. Velocity's buyer has already decided AI is 
 | **Product** | Written, decision-grade position. Days, not weeks | Two-phase transformation programme. Months | Tiered done-for-you compliance, plus executive AI training |
 | **Verified pricing** | Indicative only, see business case below | €30,000 + VAT Phase One, three months, at €10,000/month. Phase Two scoped after (EDelia proposal, June 2026) | Tiered. Rates not yet on record |
 | **Lead / front door** | John, personally | Shane | Shane CEO and architect. John commercial and governance lead |
-| **Ownership** | John 70 / Shane 30 | Shane 70 / John 30 | UNCONFIRMED, the only remaining gap |
+| **Ownership** | John 70 / Shane 30 | Shane 70 / John 30 | Shane 60 / John 30 / Pat McGrath 10 |
+| **Legal entity** | To be formalised | Mainly Velocity Limited, trading as Velocity AI | **None. Ambrion is a brand, not a company** |
+| **Currently generating income?** | Fee income from delivered briefs | Yes | **No. Governance work only to date** |
 | **Route to market** | John's board relationships, direct | Direct, plus site diagnostics | Smacht network, c.300 Irish SMEs via Padraic O'Maille. Accountants and solicitors as referral partners. UHL training |
 | **Time to value** | Days | Months | Weeks to months |
 | **Portfolio priority** | Complementary, and the upstream feeder | Shane-led build arm | **John's primary revenue vehicle for the next three years** |
@@ -116,7 +118,27 @@ Eight of the nine are decision briefs. One, Export Anatolia, is an AI adoption j
 
 **Where it sits against Meridian.** Ambrion answers "the law now applies to us, are we compliant." Meridian answers "should we do this." Ambrion's buyer is compelled by regulation. Meridian's buyer is choosing. Ambrion sells a programme with a statutory driver behind it. Meridian sells a single answer to a single question.
 
-**The one remaining UNCONFIRMED item:** the ownership split. Meridian's (John 70 / Shane 30) and Velocity's (Shane 70 / John 30) are on the record. Ambrion's is not. Given it is named as John's primary revenue vehicle for three years, this should be documented before anything else in the portfolio is formalised.
+### Ownership and structure, confirmed by John, 5 August 2026
+
+**Ownership: Shane McCarthy 60, John Webb O'Rourke 30, Pat McGrath 10.**
+
+**Trading status: trading, but not currently generating income.** Work to date has been governance work only.
+
+**There is no legal Ambrion entity.** The United Hardware senior executive training was delivered under the Ambrion name because UHL already knew that name, but it was contracted and invoiced through the Velocity company, because there is nothing else to contract through.
+
+### The flag that follows from that, and it needs acting on
+
+Three facts sit together uncomfortably:
+
+1. Ambrion is named as John's **primary revenue vehicle for the next three years**.
+2. Ambrion has **no legal entity**, so it cannot contract, invoice, hold a bank account, or own its own IP.
+3. Ambrion-branded revenue therefore flows through **Mainly Velocity Limited, which is Shane 70 / John 30**, not Ambrion's Shane 60 / John 30 / Pat 10.
+
+The economic effect, if this continues, is that Ambrion revenue is earned under a split John did not agree for Ambrion, and Pat McGrath's 10 per cent has no vehicle to attach to at all. On the UHL training alone the difference is administratively small. Across a three-year primary revenue vehicle running a national EU AI Act compliance campaign, it is not small.
+
+> **This is not a suggestion that anyone intends anything other than the agreed position.** It is that the agreed position currently has nothing to sit in. The compliance campaign is live from 2 August. Incorporating Ambrion, with the 60/30/10 recorded, is now the most urgent formality in the entire portfolio, ahead of the Meridian shareholders agreement. Until it exists, every euro of Ambrion revenue lands in a Shane-majority company by default.
+
+**What this does not change.** The strategic separation stands, and arguably strengthens. Ambrion has the statutory driver, the campaign, the channel and the moment. The EU AI Act coming into full application on 2 August is exactly the event that turns it from governance work into income. The point is simply that the vehicle needs to exist before the money starts arriving, not after.
 
 ---
 
@@ -216,7 +238,7 @@ Realistic today alongside existing board commitments: eight to twelve briefs a m
 3. **Stop leading on "clarity" and "strategic intelligence."** Velocity owns that ground and owns it first. Meridian leads on the decision.
 4. **Settle board governance ownership with Shane.** Ambrion owns it. Meridian's Manager 2 is scoped to governance inside a decision.
 5. **Formalise the three-way referral with a fee split.**
-6. **Draw the Meridian 70/30 shareholders agreement, and document Ambrion's split.** Meridian's is undrawn. Ambrion's is not even on the record, and it is the vehicle named as John's primary revenue source for three years. That is the more urgent of the two.
+6. **Incorporate Ambrion, first, ahead of everything else.** Ambrion is the primary revenue vehicle for three years, it has no legal entity, and its branded revenue currently flows through Mainly Velocity Limited at a different split. The compliance campaign is live now. This is the single most urgent item in the portfolio. Then draw the Meridian 70/30 shareholders agreement.
 7. **Then launch, and launch on the nine.** Real anonymised engagements, not staged samples of unnamed businesses. *"A gas distributor asked whether to enter cylinder testing. Here is how it was answered in six days."* That is the proof Shane asked for and it is already owned. Seek permission to name Stargas, Arcade Trader and Fleming Medical. Handle United Hardware carefully given the board position.
 
 ## 7. Test targets offered by John, 5 August 2026
