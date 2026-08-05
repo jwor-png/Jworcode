@@ -7,12 +7,19 @@ There are **two intelligence systems**:
 
 A Venture Orchestrator is noted only as a future consideration, to be agreed between John and Shane. Nothing is assumed or built yet.
 
+## Recording Standard (applies to every entry below)
+Every entry carries the same three fields, so nothing falls into an untracked session again:
+- **Status** — current state, plainly. `[ASK]` where genuinely unconfirmed rather than guessed.
+- **Revenue relevance** — Revenue stream / Channel (enables revenue elsewhere) / Not revenue — personal / board or governance role.
+- **Tracking** — *Cuan + Meridian* for commercial ventures (held by Cuan, worked through the relevant Meridian manager), or *Cuan only* for personal, family, or matters the confidentiality boundary keeps off the commercial layer (governance.md).
+
 ## Priority Stack (as of June 2026)
 1. Ambrion AI -- revenue generation (highest urgency, August 2026 anchor)
 2. Meridian Intelligence -- strategic development and sales strategy (priority: combined AI strategy with Shane)
 3. Board / chairmanship opportunities (UHL, AHL)
 4. Legacy financial resolution
-5. Selective property and healthcare -- only where highly aligned and near-term
+5. Barber Republic -- intended revenue stream (advisory/consultancy income, pre-funding stage)
+6. Selective property and healthcare -- only where highly aligned and near-term
 
 ## This Week -- 29 June 2026 (Monday)
 
@@ -241,18 +248,15 @@ Articles and intelligence noted by John as potential opportunity threads for Mer
 | "Demand for workers with skills in AI rose by 83% since 2019, higher salaries on offer" | Irish Independent, 15 June 2026 | AI Strategy & Adoption / AI Equity & Investment | Structural AI skills demand. Validates John's positioning as senior AI-skilled executive at 61. Source-tagged -- do not use stat without citing Irish Independent June 2026. |
 | "The CIOs You Need to Know" | Connected magazine, June 2026 | All managers -- outreach intelligence | Key CIO targets across Irish corporate and public sector. Priority contacts: Barry Lowry (Irish Government CIO -- Government track for child welfare architecture); Damien McCallion (Chief Transformation Officer, HSE -- health/child welfare thread). Also: Louise Dermody (Central Bank), Claire Chung (Citibank Europe), CIOs at EIR, Meta Ireland, BWG Foods, Flutter, Fidelity, Kerry Group, Aptiv. Held as intelligence -- no outreach without John's decision. |
 | DC Cahalane article -- employee share options and tax treatment | Connected magazine, June 2026 | AI Equity & Investment / Finance & Restructuring | "The biggest reason employees discount options to zero is they don't understand them -- and the tax treatment is the most opaque part." Relevant to AI equity structures and how AI asset value is distributed and understood. Feeds John's developing specialty in AI equity and valuation of AI assets. |
-
----
-
-## Velocity AI
-- **What it does:** Strategic intelligence only. Shane's direction (16 June 2026): this positioning must be clear and reflected on the website. Do not blur with Meridian.
-- **Action:** Review and tighten the Velocity AI website to reflect strategic intelligence positioning only.
 - **Key relationships:** Mairead O'Donnell (Claochlu Consulting), Vinny Leonard (Sales Process Advisors)
 - **Constraint:** Internal product name "Transition Intelligence" must never appear in any client-facing or external document
 
 ---
 
 ## United Hardware Limited (UHL)
+- **Status:** Active — Non-Executive Director / Chair, Audit & Risk Committee; AI training programme approved and AI proposal drafts in progress
+- **Revenue relevance:** Board / governance role — [ASK: confirm whether director fees are to be tracked here]
+- **Tracking:** Cuan + Meridian (Legal & Governance; AI Strategy & Adoption) for the AI proposal work only — first drafts are for John and Shane, NOT for UHL circulation
 - **What it does:** Irish buying and marketing group, operates the Homevalue brand
 - **Scale:** ~130 member stores across 32 counties (incl. Northern Ireland); combined member turnover ~€350M (2025); ~2,000 people across network; ~40 at Dublin HQ and warehouse at Magna Park
 - **John's role:** Independent Non-Executive Director and Chair, Audit & Risk Committee
@@ -380,7 +384,10 @@ Note: Mazars did not have accounts ready for the June review as expected. Eoin M
 
 ---
 
-## BarberTemp
+## Barber Republic (formerly BarberTemp)
+- **Status:** Active — intended revenue stream for John (advisory/consultancy income via Velocity AI / Meridian Intelligence). Pre-funding stage; IP protection pending before global contacts progress.
+- **Revenue relevance:** Revenue stream — advisory/consultancy income, pre-funding
+- **Tracking:** Cuan + Meridian (Commercial & Deal; Finance & Restructuring) — single point of continuity, consolidated here rather than scattered across separate untracked sessions
 - **What it does:** Two-sided labour exchange for the barbering industry (staffing marketplace)
 - **Model parallel:** Workrise (formerly RigUp) -- NOT Uber (Uber framing is dangerous for investor credibility)
 - **John's role:** Commercial Lead via Velocity AI / Meridian Intelligence -- advisory and consultancy only. No operational role. Will not relocate.
@@ -427,14 +434,19 @@ Customer behaviour has shifted due to WFH and flexible working hours. Barbershop
 ---
 
 ## Smacht Network / Padraic O'Maille
+- **Status:** Galway meeting with Padraic was upcoming as of June 2026
+- **Revenue relevance:** Channel — enables revenue for Ambrion AI / Meridian, not a revenue stream itself
+- **Tracking:** Cuan + Meridian (Commercial & Deal; AI Strategy & Adoption)
 - **What it is:** Network of ~300 Irish SMEs, all early-stage AI adopters
 - **Opportunity:** Bring Meridian Intelligence, Golden Generation partner model, and Ambrion ecosystem to a warm network
-- **Status:** Galway meeting with Padraic was upcoming as of June 2026
 - **Priority:** High — key channel for Ambrion compliance offering
 
 ---
 
 ## Mairead O'Donnell / Claochlu Consulting
+- **Status:** Active — background collaboration ongoing
+- **Revenue relevance:** Revenue stream — via Velocity AI channel arrangement
+- **Tracking:** Cuan + Meridian (Commercial & Deal)
 - **Structure:** Background collaboration. Mairead stays front-facing to her clients. Velocity AI provides the AI toolkit design and architecture she commercially deploys.
 - **Philosophy:** "Experience amplified, not reinvented."
 - **Hard constraint:** "Transition Intelligence" must never appear in any client-facing or external document
@@ -442,8 +454,10 @@ Customer behaviour has shifted due to WFH and flexible working hours. Barbershop
 ---
 
 ## Vinny Leonard / Sales Process Advisors
-- **Structure:** Co-creation channel partner model — Velocity AI builds a custom AI sales tool that Vinny deploys with his clients
 - **Status:** Ongoing — multiple meeting briefs and follow-ups produced. Vinny completed the Transition Intelligence diagnostic profile.
+- **Revenue relevance:** Revenue stream — via Velocity AI co-creation channel
+- **Tracking:** Cuan + Meridian (Commercial & Deal)
+- **Structure:** Co-creation channel partner model — Velocity AI builds a custom AI sales tool that Vinny deploys with his clients
 
 ---
 
@@ -867,6 +881,9 @@ Sessions rotate between Tuesday, Wednesday, and Thursday. Times alternate mornin
 ---
 
 ## Bantry Property
+- **Status:** [ASK — no confirmed current stage recorded]
+- **Revenue relevance:** Not revenue — personal / family matter
+- **Tracking:** Cuan only
 - **What it is:** John coordinates a property project at 11 Cois Riasc, Bantry, Co. Cork on behalf of a family member
 
 ---
