@@ -77,6 +77,23 @@ Last updated: 29 July 2026 (post board meeting prep, pre-review)
 - **Colby McDonald (young Mayo footballer)** — noted for its own sake as
   personally inspirational: wrote "One Chance" on his wristband. Possible
   reference point for the "Other Side of Sixty" LinkedIn content series.
+- **Carl Jung — 8 lessons to become a great thinker** (saved 5 August 2026,
+  John's own personal reference for daily practice). Adopted as a personal
+  touchstone alongside the Operating Creed:
+  1. Think, don't judge — "Thinking is difficult, that's why most people judge."
+  2. Go inside for answers — "Who looks outside, dreams; who looks inside, awakes."
+  3. Control your response — "I am not what happened to me, I am what I choose
+     to become."
+  4. Do what you say you'll do — "You are what you do, not what you say you'll
+     do." Losers and winners have similar goals; the difference is action.
+  5. Use mistakes as building blocks — "No tree can grow to heaven unless its
+     roots reach down to hell." Reflect and transform.
+  6. Be conscious of the unconscious — "Until you make the unconscious
+     conscious, it will direct your life and you will call it fate."
+  7. Use fear as a compass for growth — "Where your fear is, there is your
+     task." Confront it to beat it.
+  8. Be the best version of your authentic self — "The privilege of a lifetime
+     is to become who you truly are."
 - **Sean Tolton Senior enquiry** — asked John to contact his Aunt Mary Gallagher
   (an O'Rourke) to find out about "Ant" Doggan, daughter of Christy Doggan
   (formerly of the brewery in Kilmallock), and her sister Evelyn.
