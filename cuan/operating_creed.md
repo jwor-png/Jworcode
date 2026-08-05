@@ -135,14 +135,11 @@ Last updated: 29 July 2026 (post board meeting prep, pre-review)
     earlier-period wage information. Maria's contact details not yet found in
     Gmail — needs confirming.
   - Paul O'Brien (Butler & Co, Liquidator's office) raised the original claim
-    (22 July) and needs the unpaid hours and holiday hours total. Also separately
-    chasing the TUPE query on Glenview staff via Michael Glynn (see Act with
-    Integrity — Michael Glynn follow-up already sent).
-  - **Action:** cross-reference Gary's figures, Maria's earlier-period figures,
-    and the MiDentalCare creditors listing (sent to John by John himself,
-    21 May) to establish the true position, then reply to Paul O'Brien with the
-    confirmed hours and reasoning.
-  - 5 August: John confirmed intent to attend to this today.
+    (22 July), chased again 4 August. Also separately chasing the TUPE query
+    on Glenview staff via Michael Glynn (see Act with Integrity — Michael
+    Glynn follow-up already sent).
+  - **DONE — 5 August:** John emailed Paul O'Brien with the full wages detail
+    on Lisa Doyle this afternoon. Awaiting his reply.
 
 ## 5. PROTECT MY PRESENT RESPONSIBLY
 
