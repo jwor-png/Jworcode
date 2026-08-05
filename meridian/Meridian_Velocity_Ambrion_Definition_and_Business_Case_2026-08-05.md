@@ -3,7 +3,9 @@
 
 *Prepared 5 August 2026 for John Webb O'Rourke, in response to Shane McCarthy's challenge of 4 August: what is it, who is it for, how does it make money, what is defensible, and do not replicate Velocity. Decision taken by John, 5 August 2026: **Meridian is the decision brief.** Everything below follows from that.*
 
-*Source discipline: every Meridian claim is drawn from work filed in this repository. Velocity positioning is verified from velocityai.ie and the EDelia proposal. Ambrion items marked UNCONFIRMED are not yet on the record and must be settled with Shane.*
+*Updated 5 August 2026 with the Ambrion AI Briefing Note prepared for this session, and with John's confirmation that **Meridian is an executive intelligence practice** whose product is the decision brief.*
+
+*Source discipline: every Meridian claim is drawn from work filed in this repository. Velocity positioning is verified from velocityai.ie and the EDelia proposal, June 2026. Ambrion is verified from the Ambrion AI Briefing Note, 5 August 2026. The one remaining gap is marked UNCONFIRMED.*
 
 ---
 
@@ -11,23 +13,28 @@
 
 ### The one line that divides them
 
-> **Ambrion governs AI. Velocity builds AI. Meridian decides.**
+> **Ambrion makes you compliant. Velocity makes you capable. Meridian makes the call.**
 
-Three different buyers, arriving with three different questions, in three different rooms.
+Three different buyers, arriving with three different questions, in three different rooms. Only one of them is a choice.
+
+Ambrion's buyer is compelled by law. Velocity's buyer has already decided AI is the answer. Meridian's buyer is standing in front of an open decision that has nothing to do with AI at all.
 
 | | **MERIDIAN INTELLIGENCE** | **VELOCITY AI** | **AMBRION AI** |
 |---|---|---|---|
-| **What it sells** | A decision | AI capability, built and deployed | AI governance and assurance |
-| **The buyer's actual question** | "Should I do this, and what will it cost me if I am wrong?" | "How do I get AI into this business?" | "Are we safe, compliant and accountable on AI?" |
-| **Is the buyer thinking about AI?** | **No.** They are thinking about a deal, a valuation, an investor, an audit | Yes. Already decided AI is the question | Yes, and usually because a board or a regulator made them |
-| **Who they are** | Owner, chair, board of a mid-market business facing one high-consequence decision | Executive team committing to an AI programme | Board, audit committee, risk function |
-| **The room** | The room where the decision is made | The room where the programme is built | The boardroom, after the fact |
-| **Product** | Written, decision-grade position. Days, not weeks | Two-phase transformation programme. Months | Frameworks, readiness, EU AI Act, board oversight |
-| **Verified pricing** | Indicative only, see business case below | €30,000 + VAT Phase One, three months, at €10,000/month. Phase Two scoped after (EDelia proposal, June 2026) | UNCONFIRMED |
-| **Lead / front door** | John, personally | Shane | John and Shane jointly |
-| **Ownership** | John 70 / Shane 30 | Shane 70 / John 30 | UNCONFIRMED |
+| **What it is** | Executive intelligence practice | AI operator and builder | AI strategy, architecture and governance firm |
+| **What it sells** | A decision | AI capability, built and deployed | Done-for-you EU AI Act compliance, tiered |
+| **The buyer's actual question** | "Should I do this, and what will it cost me if I am wrong?" | "How do I get AI into this business?" | "The EU AI Act applies to us now. Are we compliant?" |
+| **Is the buyer thinking about AI?** | **No.** They are thinking about a deal, a valuation, an investor, an audit | Yes. Already decided AI is the question | Yes, and usually because the law made them |
+| **Who they are** | Owner, chair, board of a mid-market business facing one high-consequence decision | Executive team committing to an AI programme | Irish SME owners and boards inside EU AI Act scope |
+| **The room** | The room where the decision is made | The room where the programme is built | The compliance and board oversight conversation |
+| **Product** | Written, decision-grade position. Days, not weeks | Two-phase transformation programme. Months | Tiered done-for-you compliance, plus executive AI training |
+| **Verified pricing** | Indicative only, see business case below | €30,000 + VAT Phase One, three months, at €10,000/month. Phase Two scoped after (EDelia proposal, June 2026) | Tiered. Rates not yet on record |
+| **Lead / front door** | John, personally | Shane | Shane CEO and architect. John commercial and governance lead |
+| **Ownership** | John 70 / Shane 30 | Shane 70 / John 30 | UNCONFIRMED, the only remaining gap |
+| **Route to market** | John's board relationships, direct | Direct, plus site diagnostics | Smacht network, c.300 Irish SMEs via Padraic O'Maille. Accountants and solicitors as referral partners. UHL training |
 | **Time to value** | Days | Months | Weeks to months |
-| **What it leaves behind** | A decision made properly, and the reasoning on file | Built systems, proof points, embedded orchestration | A governance floor that survives audit |
+| **Portfolio priority** | Complementary, and the upstream feeder | Shane-led build arm | **John's primary revenue vehicle for the next three years** |
+| **What it leaves behind** | A decision made properly, and the reasoning on file | Built systems, proof points, embedded orchestration | A compliance position that survives regulatory scrutiny |
 
 ### Read across the top row again
 
@@ -43,7 +50,7 @@ That is why Meridian does not compete with Velocity or Ambrion. It reaches a buy
 
 ## MERIDIAN INTELLIGENCE — the definition
 
-**What it is.** A decision intelligence practice. It takes one high-consequence business decision and returns a written, decision-grade position in days, using seven senior domains run simultaneously over the same question, with forty years of board-level judgment as the final gate.
+**What it is.** An **executive intelligence practice**. Its product is the decision brief: it takes one high-consequence business decision and returns a written, decision-grade position in days, using seven senior domains run simultaneously over the same question, with forty years of board-level judgment as the final gate.
 
 **It is not an AI company.** It is an intelligence practice that operates a governed AI engine. The client buys the answer. The engine room is Meridian's business, not theirs. This was already the settled position on 31 July (`meridian/launch/Meridian_Launch_Weekend_Pack_2026-07-31.md`) and it is reaffirmed here.
 
@@ -90,19 +97,26 @@ Eight of the nine are decision briefs. One, Export Anatolia, is an AI adoption j
 
 ## AMBRION AI — the definition
 
-**What it is.** The AI governance and assurance brand. John Founding and Managing Partner (board-level AI governance, risk, EU AI Act oversight), Shane CEO and Founder (systems and orchestration-layer design). Positioning: "Governance at the foundation of AI." Governance built into the foundation of the client organisation, not bolted on as an IT add-on.
+*Verified from the Ambrion AI Briefing Note prepared for this session, 5 August 2026.*
 
-**Three service pillars:** Foundational Governance, Board and Executive Advisory, AI Orchestration.
+**What it is.** An Irish intelligence and advisory firm specialising in AI strategy, architecture and governance. Founded by Shane McCarthy (CEO, Founder, AI Architect, Systems Builder) and John Webb O'Rourke (commercial and governance lead). Ambrion helps organisations integrate AI into their foundational operating models rather than treating it as a superficial add-on.
 
-**Delivered work on record:** the United Hardware leadership training programme, Session 1 delivered 25 June 2026 at Citywest, coordinated through Maya Gough, with Skillnet cost offset in play.
+**Three core beliefs.**
+- **Built-in, not bolt-on.** AI must be designed into an organisation's core data pipelines, decision rights and workflows, not added as an extra software tool.
+- **Governance as an enabler.** Proper governance provides the safety rails and accountability required to scale AI safely without risking client trust or data integrity.
+- **Human judgment.** Systems propose options and patterns. Humans retain final decision-making authority.
 
-**Where it sits against Meridian.** Ambrion answers "are we safe and accountable on AI." Meridian answers "should we do this." Ambrion's buyer is usually compelled, by a board, a regulator or the EU AI Act. Meridian's buyer is choosing.
+**Current commercial focus.** A **tiered, done-for-you EU AI Act compliance offering for Irish SMEs**, positioned deliberately against software-only compliance platforms. The EU AI Act applies in full from 2 August 2026, which makes this immediately live and time-critical.
 
-**What is UNCONFIRMED and must be settled with Shane:**
-- Ownership split. Meridian's and Velocity's are on the record. Ambrion's is not.
-- Whether Ambrion is actively trading and selling today. The 2 August 2026 anchor deadline has passed.
-- The "four to five Ambrion products." This is an open loop at `meridian/sales_orchestration_live.md:114` and the 60-day sales forecast is **on hold** pending it.
-- Whether ambrion.ai and the "Governance at the foundation of AI" positioning are still current.
+**Route to market.** The Smacht network, roughly 300 Irish SMEs, via Padraic O'Maille. Professional referral partners, specifically accountants and solicitors. The United Hardware senior executive AI training programme, with a second course being scheduled for August 2026.
+
+**Live opportunity.** Oifig IS na hEireann, the AI Office of Ireland, launched this week as Ireland's independent central coordinating authority for EU AI Act implementation, led by CEO Paul Byrne alongside Ministers Peter Burke and Niamh Smyth. The Office has explicitly flagged stakeholder engagement as a priority. This is a genuine opening for Ambrion as a practitioner voice rather than a cold approach. John and Shane are exploring LinkedIn engagement followed by a direct introduction.
+
+**Status.** Highest priority revenue stream. The 2 August 2026 anchor is **now active**, not passed: it was the compliance campaign launch date. Live outreach in progress, including Glennon Brothers. **Ambrion is John's primary revenue vehicle for the next three years.**
+
+**Where it sits against Meridian.** Ambrion answers "the law now applies to us, are we compliant." Meridian answers "should we do this." Ambrion's buyer is compelled by regulation. Meridian's buyer is choosing. Ambrion sells a programme with a statutory driver behind it. Meridian sells a single answer to a single question.
+
+**The one remaining UNCONFIRMED item:** the ownership split. Meridian's (John 70 / Shane 30) and Velocity's (Shane 70 / John 30) are on the record. Ambrion's is not. Given it is named as John's primary revenue vehicle for three years, this should be documented before anything else in the portfolio is formalised.
 
 ---
 
@@ -112,7 +126,7 @@ Three collisions. All three are fixable and none of them are structural.
 
 **Collision one, and it is inside Meridian's own materials.** `meridian/Meridian_Pricing_Structure.pdf` currently sells three products, and all three are AI services: AI in Plain English (€4,875 / €6,500), AI Governance Readiness Assessment (€9,000 / €12,000), AI Readiness Accelerator (€13,500 / €18,000). That is Ambrion's pillar one and Velocity's core offer, priced under Meridian's name, and it is the opposite of what Meridian actually delivered in eight of its nine engagements.
 
-> **Fix: those three products move to Ambrion.** Ambrion is the AI governance brand and readiness assessment is its natural product. Meridian's price list becomes the decision brief and the retained seat. This also fills part of Ambrion's missing product set.
+> **Fix: those three products move to Ambrion, and the Ambrion briefing settles it beyond argument.** Ambrion's live commercial campaign is a tiered done-for-you EU AI Act compliance offering for Irish SMEs. An AI Governance Readiness Assessment is not merely adjacent to that, it *is* a tier of it. AI in Plain English is the natural top-of-funnel for the Smacht network and the accountant and solicitor referral channel. The AI Readiness Accelerator is the delivery tier. Three products currently sitting under the wrong brand, with a ready-built route to market waiting for them under the right one. Meridian's price list becomes the decision brief and the retained seat.
 
 **Collision two: Meridian's Manager 5, AI Strategy and Adoption.** As written it claims AI governance frameworks, EU AI Act compliance, readiness assessments and adoption roadmaps. Every one of those is Ambrion or Velocity.
 
@@ -120,7 +134,7 @@ Three collisions. All three are fixable and none of them are structural.
 
 **Collision three: board and governance advisory is claimed three times.** Ambrion (Board and Executive Advisory), Meridian (Manager 2, Legal and Governance), Velocity (Board Advisory, The Governance Foundation). A single client could meet all three at the same door.
 
-> **Fix: Ambrion owns board AI governance outright.** Meridian's Manager 2 is scoped to governance *inside a decision* (directors' duties on this transaction, is this audit sound, what is our exposure if we do this). Velocity drops Board Advisory from its education tiers, or renames it to build-side governance. This one needs Shane's agreement and is the hardest of the three.
+> **Fix: Ambrion owns board AI governance outright, and the briefing makes this the obvious answer.** Ambrion is the EU AI Act vehicle with a statutory driver, a live campaign, a named channel and a direct line forming to the AI Office of Ireland. Nothing else in the portfolio should be reaching for that ground. Meridian's Manager 2 is scoped to governance *inside a decision* (directors' duties on this transaction, is this audit sound, what is our exposure if we do this). Velocity drops Board Advisory from its education tiers, or renames it to build-side governance. This one needs Shane's agreement and is the hardest of the three.
 
 ---
 
@@ -129,11 +143,17 @@ Three collisions. All three are fixable and none of them are structural.
 Once the three doors are separate, each one feeds the others. This is worth money and should be formalised with an agreed fee split.
 
 - **Meridian to Velocity.** Meridian sits with owners at the moment of a commercial decision. That room throws off AI need constantly. Every Export Anatolia is a Velocity job introduced at zero acquisition cost.
-- **Meridian to Ambrion.** Every capital event and audit engagement surfaces a governance gap. Fleming Medical's five board questions are an Ambrion opening.
+- **Meridian to Ambrion, and this is the important one.** Ambrion is John's primary revenue vehicle for the next three years. Meridian sits with owners and boards at the moment of a major decision, which is precisely the moment an EU AI Act exposure becomes visible and uncomfortable. Every capital event and audit engagement surfaces a governance gap. Fleming Medical's five board questions are an Ambrion opening. **Meridian's highest-value output may not be its own fee. It is qualified, warm, board-level access for Ambrion at the moment the buyer is most receptive.**
 - **Velocity to Meridian.** A client mid-AI-programme hits a commercial, structural or investment decision. Velocity does not sell that. Meridian does.
-- **Ambrion to Meridian.** A board that has just had its AI governance assessed is a board that trusts the same people with its next real decision.
+- **Ambrion to Meridian.** A board that has just had its AI compliance handled is a board that trusts the same people with its next real decision. The Smacht network alone is roughly 300 Irish SMEs, and the accountant and solicitor referral partners are exactly the professionals who see a client's big decisions coming before anyone else does.
 
 Three brands, one ecosystem, no cannibalisation. That is the answer to Shane's "two people talking about the same thing."
+
+### The portfolio order, now that the briefing is in
+
+Ambrion is stated in its own briefing as John's primary revenue vehicle for the next three years, with a statutory deadline behind it and a live campaign running. **That settles the priority question and Meridian's business case has to be built inside it, not alongside it.**
+
+Meridian is not competing for that first position and should not be positioned as if it were. Meridian earns its place three ways: it is the only vehicle that reaches a buyer who is not thinking about AI, it generates fee revenue on days rather than months, and it feeds the primary vehicle warm board-level introductions at the exact moment of receptiveness. That is a strong argument for building Meridian properly, and a poor argument for launching it ahead of Ambrion's compliance campaign.
 
 ---
 
@@ -143,9 +163,11 @@ Three brands, one ecosystem, no cannibalisation. That is the answer to Shane's "
 
 ## 1. What is it
 
-Meridian takes one high-consequence business decision and returns a written, decision-grade position in days, using seven senior domains run simultaneously with forty years of board judgment as the final gate.
+**Meridian is an executive intelligence practice.** Its product is the decision brief: one high-consequence business decision, answered with a written, decision-grade position in days, using seven senior domains run simultaneously with forty years of board judgment as the final gate.
 
 Not a report. Not a slide deck. A position, with the reasoning attached and the unknowns named.
+
+Note the shape of the sentence, because it is the whole argument. *Practice* is what it is. *The decision brief* is what it sells. AI appears in neither, and that is deliberate.
 
 ## 2. Who it is for
 
@@ -194,18 +216,20 @@ Realistic today alongside existing board commitments: eight to twelve briefs a m
 3. **Stop leading on "clarity" and "strategic intelligence."** Velocity owns that ground and owns it first. Meridian leads on the decision.
 4. **Settle board governance ownership with Shane.** Ambrion owns it. Meridian's Manager 2 is scoped to governance inside a decision.
 5. **Formalise the three-way referral with a fee split.**
-6. **Draw the Meridian 70/30 shareholders agreement.** Still undrawn.
+6. **Draw the Meridian 70/30 shareholders agreement, and document Ambrion's split.** Meridian's is undrawn. Ambrion's is not even on the record, and it is the vehicle named as John's primary revenue source for three years. That is the more urgent of the two.
 7. **Then launch, and launch on the nine.** Real anonymised engagements, not staged samples of unnamed businesses. *"A gas distributor asked whether to enter cylinder testing. Here is how it was answered in six days."* That is the proof Shane asked for and it is already owned. Seek permission to name Stargas, Arcade Trader and Fleming Medical. Handle United Hardware carefully given the board position.
 
 ## 7. Test targets offered by John, 5 August 2026
 
 Primeline Logistics, Vinny Leonard, DSB Accountants. All three are live-fire tests of the decision brief in front of real businesses, which is precisely what Shane asked for. Vinny is already warm through Fleming Medical. **Run these after the definition above is agreed, not before**, so each one proves the proposition rather than adding another undefined engagement to the book.
 
+**DSB Accountants is a double play and should be run deliberately as one.** Ambrion's stated referral channel is accountants and solicitors. So DSB is simultaneously a Meridian decision-brief prospect and an Ambrion referral-partner prospect. Approach it as one conversation with two doors: Meridian demonstrates the calibre of thinking on a live decision, and that same demonstration is the credential that makes DSB comfortable referring its own client base into Ambrion's EU AI Act offering. That is the referral flow above, proven on a single account.
+
 ---
 
 ## THE FIVE SENTENCES
 
-> **What it is.** Meridian takes one high-consequence business decision and returns a written, decision-grade position in days, using seven senior domains run simultaneously with forty years of board judgment as the final gate.
+> **What it is.** Meridian is an executive intelligence practice. It takes one high-consequence business decision and returns a written, decision-grade position in days, using seven senior domains run simultaneously with forty years of board judgment as the final gate.
 >
 > **Who it is for.** Owners, chairs and boards of Irish and UK mid-market businesses facing a capital event, an expansion move, a governance question with teeth, or a proposition that needs verifying before it is backed.
 >
@@ -213,8 +237,8 @@ Primeline Logistics, Vinny Leonard, DSB Accountants. All three are live-fire tes
 >
 > **Why it is defensible.** A verification discipline almost nobody will match, board-level access nobody can copy, and a compounding corpus of decision precedent only Meridian holds.
 >
-> **How it differs.** Ambrion governs AI. Velocity builds AI. Meridian decides. Meridian's buyer is not thinking about AI at all.
+> **How it differs.** Ambrion makes you compliant. Velocity makes you capable. Meridian makes the call. Ambrion's buyer is compelled by law, Velocity's has already chosen AI, and Meridian's is not thinking about AI at all.
 
 ---
 
-*Meridian Intelligence · Definition and business case · 5 August 2026 · Private and confidential. Every Meridian claim is drawn from delivered work filed in this repository. Velocity positioning verified from velocityai.ie and the EDelia proposal, June 2026. Ambrion items marked UNCONFIRMED require Shane's input before external use. Pricing marked indicative is not yet set.*
+*Meridian Intelligence · Definition and business case · 5 August 2026 · Private and confidential. Every Meridian claim is drawn from delivered work filed in this repository. Velocity positioning verified from velocityai.ie and the EDelia proposal, June 2026. Ambrion verified from the Ambrion AI Briefing Note, 5 August 2026. Ambrion ownership split remains UNCONFIRMED. Meridian pricing marked indicative is not yet set.*
