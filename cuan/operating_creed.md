@@ -67,6 +67,9 @@ Last updated: 29 July 2026 (post board meeting prep, pre-review)
 - **Mike Murphy Charity Walk — next Saturday.** TIME-SENSITIVE. WhatsApp message
   from Mike not yet read. John to check over this weekend and put the walk
   itself into his calendar to attend.
+- **Personal Council consultation, 5 August (via ChatGPT, not this thread)** —
+  John consulted his own Council today. Wants to reference Daniel O'Connell and
+  Warren Buffett specifically in that analysis/reflection.
 - **Health & wellbeing — new dedicated chat thread planned.** To track
   consulting his Council for the betterment of his health, listening to Jerry
   Hosie's podcast daily, and executing small consistent daily steps — in line
@@ -96,6 +99,16 @@ Last updated: 29 July 2026 (post board meeting prep, pre-review)
   28 July, referencing Paul (Liquidator's office) chasing for a response.
 - **Keith Hogan** — €600 fee reminder sent.
 
+- **Mark Power (mpower@powersolicitors.ie)** — asked him 23 June to act personally
+  and professionally going forward. He replied 24 June confirming availability.
+  John never replied until now. REPLY DRAFTED 5 August, sitting in Gmail
+  Drafts, confirming instruction and asking to set up the initial call
+  (including the BOI/MyDentalCare position). Ready to review and send.
+- **AHL insurance gap** — Paul Candon sent an email flagging no insurance cover
+  referred to. John needs to reply pointing out to a contact named "Smith" that
+  there is no insurance cover and AHL will not pick up the tab. Needs the actual
+  email from Candon located and Smith's full details confirmed before drafting.
+
 ## 4. RESOLVE MY PAST PROFESSIONALLY
 
 - **MiDentalCare / Bank of Ireland loan** — follow-up email sent (no response to
@@ -107,7 +120,12 @@ Last updated: 29 July 2026 (post board meeting prep, pre-review)
   John has confirmed he will pay Nigar, Keith Hogan, and Michael Nugent — but
   needs to derive income for himself this month first, before any of these go out.
 - **Keith Hogan** — reminder already sent (see Act with Integrity). John to follow
-  up again once he has income in, per the above.
+  up again once he has income in, per the above. 5 August: John wants to send an
+  updated note on the payment timing.
+- **Nigel Roche (electrician)** — fee owed, same update-on-timing approach as
+  Keith Hogan, 5 August. NOTE: may be the same person previously logged as
+  "Nigar Roach" (MiDentalCare Milltown work) or a different person entirely —
+  name unconfirmed, needs John to clarify.
 - **MiDentalCare — Lisa Doyle wages/holiday pay claim.** Live thread, multiple
   pieces to assemble:
   - Sean O'Dwyer (sean@sremium.com, Payroll Administrator) forwarded an email
@@ -124,6 +142,7 @@ Last updated: 29 July 2026 (post board meeting prep, pre-review)
     and the MiDentalCare creditors listing (sent to John by John himself,
     21 May) to establish the true position, then reply to Paul O'Brien with the
     confirmed hours and reasoning.
+  - 5 August: John confirmed intent to attend to this today.
 
 ## 5. PROTECT MY PRESENT RESPONSIBLY
 

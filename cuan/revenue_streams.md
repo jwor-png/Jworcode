@@ -135,6 +135,20 @@ for any stream.
 
 ## 0. New Leads / Ideas Not Yet Assigned a Stream
 
+- **Xander Cavanagh / Johnny Shanahan — AI training enquiry.** Johnny asked
+  Xander about AI training. John to look into whether there's a further
+  training requirement/opportunity here, separate from the Barber Republic
+  build itself.
+- **SkillNet registration** — to be actioned THIS EVENING (5 August) to secure
+  approval and generate income. Time-sensitive, not just a standing item.
+- **Glennon Brothers analysis** — John getting detail from Shane to prepare an
+  analysis to send to Michael Glennon directly (ties to the existing Ambrion
+  Friday campaign lead below).
+- **Sarajevo trip, early September** — may need to go. No further detail yet.
+- **Stephen [surname unclear] of "Clarity," Limerick, and a Yorkshire contact
+  ("Cangle"?)** — John wants to reconnect. Names unconfirmed from dictation,
+  needs clarifying.
+
 - **eSIM business (Malachy Harkin + business partner Ben)** — Malachy runs an
   eSIM business in the Southern Hemisphere with a partner named Ben (surname
   not yet known; ex-EBS Building Society Marketing Director, then a company
@@ -180,6 +194,13 @@ for any stream.
   Tolan and Cllr Stephen McKee (direct from Myki), and Senator Sharon Keoghan
   (WhatsApp from John, sent with the objection response PDF, 28 July) — to raise
   awareness ahead of the decision.
+- **5 August — three live actions:**
+  1. Updated balancing statement for John Lynch.
+  2. Review the planning file to identify the objectors and advise John Lynch
+     accordingly — also note whether John is doing any paid work for him on
+     this, since that wasn't clear from the dictation.
+  3. Send the planning documents to Michael Glynn (solicitor), including the
+     email from Bronagh Clark (Ward Consult planning consultants).
 - **Commercial interest:** John Lynch's co-owned arcade trading background makes
   the Midleton arcade planning precedent (granted despite objections, 12
   conditions) directly relevant and worth sharing with him.
@@ -291,6 +312,9 @@ for any stream.
   to focus after this weekend on phoning contacts from his notes to drum up
   attendance interest. Maria Doran to be asked whether she's attending (see New
   Leads above).
+- **Tangible Summer School — 5 August action:** send a note to the organisers
+  telling them the hotel rooms are available now, before they're gone (time-
+  sensitive, do today).
 - **Meridian Intelligence intro to Golden Generation members** — introduced on
   the last call and in the WhatsApp group. No follow-up since, no responses.
   John to follow up with each member individually next week, after the bank
@@ -327,6 +351,13 @@ for any stream.
   Andrew's response.
 - **Structure document for Malachy:** John needs to send the ODIN structure
   document to Malachy on Shane's behalf — held in John's WhatsApp, not yet sent.
+- **5 August:** ODIN document also to be sent this evening to a contact heard
+  as "Annemarie de Lebane Verschan" — name almost certainly mis-transcribed,
+  needs John to confirm the actual name before this goes out.
+- **Follow-up on Malachy/Tairseach proposal:** John flagged that the Tairseach
+  one-pager sent to Malachy needs review — specifically to understand what
+  Malachy's own angle/interest ("lens") is in it, as a possible opportunity.
+  John to follow up on this directly.
 
 ## 8. Barber Republic (rebrand of BarberTemp)
 - **What it does:** Two-sided labour exchange for the barbering industry
