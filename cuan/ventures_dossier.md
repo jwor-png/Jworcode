@@ -37,7 +37,7 @@ Focus set by John 29 June: get everything moving, personal and professional. Dri
 |---|---|---|
 | HIGH | Ambrion incorporation | Confirmed by John as happening. Ownership to be recorded at formation: Shane McCarthy 60, John 30, Pat McGrath 10. Practical driver: no grant agency (Skillnet, LEO panels, Enterprise Ireland) can register Ambrion without a CRO number and tax clearance, and Skillnet is Ambrion's real revenue channel. The UHL/Velocity contracting bridge ends with incorporation. |
 | HIGH | Meridian professional indemnity insurance | Noted by John. Needed regardless of grant work, because boards act on written advice John signs. Most LEO and EI mentor panels require evidence of cover before considering an application. |
-| HIGH | Meridian pricing: confirm the revised ladder | John rejected the two-orders-of-magnitude pricing rule as too limiting and too low. Rule to be stripped from both documents. Revised ladder proposed 5 August, awaiting John's numbers. Decision Brief holds at €4,950 (signing-authority logic); everything above it rises. |
+| DONE | Meridian pricing: revised ladder approved 5 Aug | Ratio rule withdrawn. Decision Brief €4,950, Executive Review €24,500, Transaction Intelligence €35,000, retained €4,500 to €10,000/mth. John to discuss and settle with Shane before the list goes to a client. |
 | MEDIUM | Meridian 70/30 shareholders agreement | John 70 / Shane 30. Still undrawn. |
 | MEDIUM | LEO mentor panel applications | Meath and Louth first, then Dublin City, Fingal, Kildare. Acquisition channel, not revenue. Gated on PI insurance. |
 

@@ -1,22 +1,37 @@
 # MERIDIAN INTELLIGENCE
 ## Products and Pricing — Go-to-Market Set
 
-*Prepared 5 August 2026 for John Webb O'Rourke. Built on the confirmed definition: **Meridian is an executive intelligence practice, and its product is the decision brief.** Product names carry forward from the 31 July launch pack so the market sees one consistent story. Every product below is a shape Meridian has already delivered.*
+*Prepared 5 August 2026 for John Webb O'Rourke. **Revised 5 August: the ratio pricing rule is withdrawn and the ladder above the entry product is raised. Prices below are John's approved basis for discussion with Shane McCarthy, not yet set.** Built on the confirmed definition: **Meridian is an executive intelligence practice, and its product is the decision brief.** Product names carry forward from the 31 July launch pack so the market sees one consistent story. Every product below is a shape Meridian has already delivered.*
 
 ---
 
-## THE PRICING LOGIC — say this before any number
+## HOW MERIDIAN IS PRICED
 
-Meridian is not priced on time. It is priced on **the consequence of the decision it is answering.**
+**The fee is set by the product, not by the decision.** Fixed price per product, published, and held.
 
-> **The rule: the fee sits roughly two orders of magnitude below the value of the decision.**
-> A €500,000 decision earns a €5,000 brief. A €5m transaction earns a €20,000 one.
+An earlier draft of this document proposed a ratio: the fee sitting roughly two orders of magnitude below the value of the decision. **That rule is withdrawn.** It was wrong in four ways and each one matters.
 
-This is the sentence that does the selling, and it is the sentence that stops the conversation becoming a day-rate negotiation. If a client is weighing whether to spend €4,500, the honest answer is that their decision is probably not big enough for Meridian yet, and saying so builds more trust than discounting.
+**It hands the buyer your formula.** The moment you say the fee tracks the value of the decision, you have given them the lever. They are no longer negotiating your fee, they are negotiating their own estimate of what the decision is worth, and that number shrinks the instant it becomes the basis of a price.
 
-**The comparison that makes it obvious.** A mid-tier consultancy strategic review is €40,000 to €100,000 and takes six to twelve weeks. Meridian delivers a comparable depth of multi-domain analysis in days, at a fraction of that, because the analysis is produced by a governed engine and the senior time goes into judgment and verification rather than production. That is the whole value argument in two sentences.
+**It assumes your cost scales with their stakes.** It does not. The seven domains run the same way, the verification is the same, the judgment is the same, whether the decision is worth €500,000 or €15m.
 
----
+**It is degressive, which is backwards.** €500k to €5k is one per cent. €5m to €20k is four tenths of one per cent. The rule paid proportionately less as the stakes rose, which is precisely where the judgment is worth most.
+
+**It caps the upside.** On a genuinely large decision, the rule becomes the thing arguing the fee downward.
+
+### What replaces it
+
+> **Decision value is a qualifier, not a calculator.**
+
+The question "if this goes wrong, what does it cost you?" is a strong one, because it screens the buyer and establishes the stakes in their own words. The follow-up "therefore my fee is one per cent of that" is a weak one, because it converts your price into an arithmetic problem they control.
+
+Ask the first. Never say the second.
+
+**Keep a private sense-check.** Does this fee look absurd against these stakes? That is a sanity test on your own list, run in your own head. It is not a pricing method and it never appears in front of a client.
+
+### The comparison that carries the value argument
+
+A mid-tier consultancy strategic review is €40,000 to €100,000 and takes six to twelve weeks. Meridian delivers comparable multi-domain depth in days, because the analysis is produced by a governed engine and the senior time goes into judgment and verification rather than production. Anchor on that range before naming any Meridian figure.
 
 ## THE PRODUCT LADDER
 
@@ -24,17 +39,19 @@ Five products. Four sell today. One is the long game.
 
 | # | Product | What it answers | Scope | Turnaround | Founding rate | List rate |
 |---|---|---|---|---|---|---|
-| 1 | **Decision Brief** | One specific question | Up to 3 domains | 5 working days | **€3,750** | **€4,950** |
-| 2 | **Executive Intelligence Review** | A whole situation, from every angle | All 7 domains | 10 working days | **€9,750** | **€12,950** |
-| 3 | **Transaction Intelligence** | Should we do this deal, and on what terms | All 7 domains, deal-grade | 10 to 15 working days | **€15,000** | **€19,500** |
-| 4 | **Intelligence Partner** *(retained)* | Everything, continuously | See tiers below | Standing | **from €2,750/mth** | **from €3,750/mth** |
+| 1 | **Decision Brief** | One specific question | Up to 3 domains | 5 working days | **€3,950** | **€4,950** |
+| 2 | **Executive Intelligence Review** | A whole situation, from every angle | All 7 domains | 10 working days | **€18,500** | **€24,500** |
+| 3 | **Transaction Intelligence** | Should we do this deal, and on what terms | All 7 domains, deal-grade | 10 to 15 working days | **€27,500** | **€35,000** |
+| 4 | **Intelligence Partner** *(retained)* | Everything, continuously | See tiers below | Standing | **from €3,500/mth** | **from €4,500/mth** |
 | 5 | **AI Equity Structuring** | AI capability contributed for equity | Bespoke | Bespoke | Fee plus equity | Fee plus equity |
+
+**Only the Decision Brief holds its earlier level, and that is deliberate.** Under €5,000 a managing director can say yes in the room without a board paper. It is the door into everything else and it should stay there. Everything above it has stopped apologising: at €12,950 a full seven-domain review read as the cheap option against the mid-tier comparison, which attracts the wrong buyer and undercuts the argument that this is a different category of work rather than a discounted version of the same one.
 
 **Founding rate applies to the first ten clients, and ends 31 December 2026.** This replaces the current "friends rate" on the existing sheet. Same discount, better strategy: a founding rate has a reason and an end date, so it can be withdrawn without insulting anyone. A friends rate never can, and it quietly tells the market your list price is decoration.
 
 ---
 
-## 1. DECISION BRIEF — €3,750 founding / €4,950 list
+## 1. DECISION BRIEF — €3,950 founding / €4,950 list
 
 **The one-line pitch:** *One decision. Five days. A written position you can take to your board.*
 
@@ -56,7 +73,7 @@ Five products. Four sell today. One is the long game.
 
 ---
 
-## 2. EXECUTIVE INTELLIGENCE REVIEW — €9,750 founding / €12,950 list
+## 2. EXECUTIVE INTELLIGENCE REVIEW — €18,500 founding / €24,500 list
 
 **The one-line pitch:** *Your whole situation, interrogated from seven senior angles at once, in ten days.*
 
@@ -74,11 +91,11 @@ Five products. Four sell today. One is the long game.
 
 **Scope boundary.** One business or one division. Ten working days from full information. Follow-on work quoted separately.
 
-**Why it is priced here.** This is the flagship and the reference product. Fleming Medical is the proof that it produces something a board genuinely cannot get elsewhere in under six weeks. At €12,950 list it is roughly a quarter of what a mid-tier firm charges for less, delivered in a sixth of the time.
+**Why it is priced here.** This is the flagship and the reference product. Fleming Medical is the proof that it produces something a board genuinely cannot get elsewhere in under six weeks. At €24,500 list it still sits below the bottom of the €40,000 to €100,000 mid-tier range, delivered in roughly a sixth of the time, while no longer signalling that it is the budget option.
 
 ---
 
-## 3. TRANSACTION INTELLIGENCE — €15,000 founding / €19,500 list
+## 3. TRANSACTION INTELLIGENCE — €27,500 founding / €35,000 list
 
 **The one-line pitch:** *Due-diligence-grade analysis before you sign, structured the way the other side's adviser will attack it.*
 
@@ -112,13 +129,13 @@ Five products. Four sell today. One is the long game.
 
 | Tier | Who it is for | Included | Founding | List |
 |---|---|---|---|---|
-| **Board Seat** | A board wanting the discipline available | 1 Decision Brief per quarter, standing availability | **€2,750/mth** | **€3,750/mth** |
-| **Intelligence Partner** | An active board or a founder in a growth phase | 1 Decision Brief per month, 1 Executive Review per year, board attendance by agreement | **€4,500/mth** | **€6,250/mth** |
-| **Chair's Counsel** | A chair or owner who wants John personally, continuously | Unlimited briefs within reason, all seven domains, direct access, board and ARC attendance | **€7,500/mth** | **€9,750/mth** |
+| **Board Seat** | A board wanting the discipline available | 1 Decision Brief per quarter, standing availability | **€3,500/mth** | **€4,500/mth** |
+| **Intelligence Partner** | An active board or a founder in a growth phase | 1 Decision Brief per month, 1 Executive Review per year, board attendance by agreement | **€5,750/mth** | **€7,500/mth** |
+| **Chair's Counsel** | A chair or owner who wants John personally, continuously | Unlimited briefs within reason, all seven domains, direct access, board and ARC attendance | **€7,950/mth** | **€10,000/mth** |
 
 **Minimum twelve months. Quarterly in advance. Reviewed annually.**
 
-**Why this tier matters more than any other.** It removes the sell. Line one has to win a new client every time. A retained seat compounds, it is predictable, and it is what makes Meridian a business rather than a series of engagements. **Three Intelligence Partner clients at list is €225,000 a year before a single brief is sold.** That is the number to aim at.
+**Why this tier matters more than any other.** It removes the sell. Line one has to win a new client every time. A retained seat compounds, it is predictable, and it is what makes Meridian a business rather than a series of engagements. **Three Intelligence Partner clients at list is €270,000 a year before a single brief is sold.** That is the number to aim at. For scale, a single Transaction Intelligence engagement is worth seven Decision Briefs.
 
 ---
 
@@ -177,16 +194,16 @@ Deliberately conservative, founding rates, and assuming Ambrion's compliance cam
 | Decision Briefs | 2 | 3 | 3 |
 | Executive Reviews | 0 | 1 | 1 |
 | Intelligence Partner | 0 | 1 (Board Seat) | 2 |
-| **Revenue** | **€7,500** | **€22,250** | **€25,750** |
+| **Revenue** | **€7,900** | **€33,850** | **€37,350** |
 
-Roughly **€55,000 across the first quarter** at founding rates, with two retained clients carrying into the next one. That is a real business, built on a product set already proven nine times, and it does not require Meridian to be anyone's primary vehicle.
+Roughly **€79,000 across the first quarter** at founding rates, with two retained clients carrying into the next one. That is a real business, built on a product set already proven nine times, and it does not require Meridian to be anyone's primary vehicle.
 
 ---
 
 ## THE SIX ACTIONS
 
 1. **Replace the current pricing sheet.** The three AI products move to Ambrion. The five products above go live.
-2. **Rename "friends rate" to "founding client rate," first ten clients, ends 31 December 2026.**
+2. **Rename "friends rate" to "founding client rate," first ten clients, ends 31 December 2026.** And settle these figures with Shane before the list goes anywhere near a client.
 3. **Grant registrations: see the separate registration plan.** The Innovation Voucher route is closed to Meridian as a provider. Priority is LEO mentor panels and the EI Mentor Network for Meridian, and Skillnet for Ambrion once it is incorporated. Meridian needs professional indemnity insurance before most panels will consider it.
 4. **Convert United Hardware to a named Intelligence Partner tier.** It is already this relationship. It is simply not priced as one.
 5. **Run Primeline, Vinny Leonard and DSB Accountants as the first three founding-rate Decision Briefs.** Treat DSB as a double play: a Meridian client and an Ambrion referral partner in one conversation.
@@ -194,4 +211,4 @@ Roughly **€55,000 across the first quarter** at founding rates, with two retai
 
 ---
 
-*Meridian Intelligence · Products and pricing · 5 August 2026 · Private and confidential. Every product shape is drawn from work already delivered and filed in this repository. Prices are recommendations for John's decision, not yet set. The Enterprise Ireland Innovation Voucher route is UNVERIFIED pending confirmation of registered knowledge provider status. Velocity comparison pricing verified from the EDelia proposal, June 2026.*
+*Meridian Intelligence · Products and pricing · 5 August 2026 · Private and confidential. Every product shape is drawn from work already delivered and filed in this repository. Prices are John's approved basis for discussion with Shane McCarthy, not yet set. The ratio pricing rule proposed in the first draft is withdrawn. The Enterprise Ireland Innovation Voucher route is UNVERIFIED pending confirmation of registered knowledge provider status. Velocity comparison pricing verified from the EDelia proposal, June 2026.*

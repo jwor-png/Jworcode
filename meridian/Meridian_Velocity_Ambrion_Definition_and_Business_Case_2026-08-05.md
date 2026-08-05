@@ -28,7 +28,7 @@ Ambrion's buyer is compelled by law. Velocity's buyer has already decided AI is 
 | **Who they are** | Owner, chair, board of a mid-market business facing one high-consequence decision | Executive team committing to an AI programme | Irish SME owners and boards inside EU AI Act scope |
 | **The room** | The room where the decision is made | The room where the programme is built | The compliance and board oversight conversation |
 | **Product** | Written, decision-grade position. Days, not weeks | Two-phase transformation programme. Months | Tiered done-for-you compliance, plus executive AI training |
-| **Verified pricing** | Indicative only, see business case below | €30,000 + VAT Phase One, three months, at €10,000/month. Phase Two scoped after (EDelia proposal, June 2026) | Tiered. Rates not yet on record |
+| **Verified pricing** | Decision Brief €4,950, Executive Review €24,500, Transaction Intelligence €35,000, retained from €4,500/mth | €30,000 + VAT Phase One, three months, at €10,000/month. Phase Two scoped after (EDelia proposal, June 2026) | Tiered. Rates not yet on record |
 | **Lead / front door** | John, personally | Shane | Shane CEO and architect. John commercial and governance lead |
 | **Ownership** | John 70 / Shane 30 | Shane 70 / John 30 | Shane 60 / John 30 / Pat McGrath 10 |
 | **Legal entity** | To be formalised | Mainly Velocity Limited, trading as Velocity AI | Incorporation in progress |
@@ -205,9 +205,9 @@ The qualifying question is a single sentence: *is there a decision on your desk 
 
 ## 3. How it makes money
 
-**Line one, the decision brief.** Proven nine times. One decision, defined scope, written deliverable, days not weeks. It prices as a unit because it has a boundary. Indicative €3,000 to €15,000 depending on domains engaged and stakes. *Indicative only, to be set by John.*
+**Line one, the decision brief.** Proven nine times. One decision, defined scope, written deliverable, days not weeks. It prices as a unit because it has a boundary. €4,950 list, €3,950 founding rate. Deliberately under €5,000 so it sits inside a managing director's own signing authority. See the products and pricing paper.
 
-**Line two, the retained decision seat.** United Hardware is already this shape without being named as such: multiple decisions across a year, one board, standing access. This is where the durable revenue is because it removes the sell each time. Indicative €4,000 to €8,000 per month covering an agreed brief count plus standing availability. *Indicative only.*
+**Line two, the retained decision seat.** United Hardware is already this shape without being named as such: multiple decisions across a year, one board, standing access. This is where the durable revenue is because it removes the sell each time. Three tiers from €4,500 to €10,000 per month at list. Three at the middle tier is €270,000 a year before a single brief is sold.
 
 **Line three, AI equity and investment (Manager 7).** AI capability contributed for equity. Genuinely differentiated, already written into the manager set, and the line that turns Meridian from a fee business into an asset business. Slowest to convert, hardest to sell cold. Treat as line three, not line one.
 
