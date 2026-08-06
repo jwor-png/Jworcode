@@ -153,17 +153,19 @@ leads.
 
 - **AI Office of Ireland (Oifig IS na hEireann) — connection opportunity for
   Ambrion.** Launched this week as Ireland's independent central coordinating
-  authority for EU AI Act implementation. CEO Paul Byrne, alongside Ministers
-  Peter Burke and Niamh Smyth. The Office has explicitly named stakeholder
-  engagement as a key priority as implementation progresses — a genuine
-  opening for Ambrion to connect as a practitioner voice (real SME compliance
-  experience), not a cold sales approach. Recommended sequence: (1) LinkedIn
-  engagement first — follow the page, genuine comment on the launch post; (2)
-  identify the right contact, likely a stakeholder engagement channel rather
-  than going straight to the CEO; (3) short follow-up offering ground-level
-  insight from SME implementation work as informal input. John considering
-  opening a dedicated Ambrion AI chat thread; this item should be carried into
-  it once created.
+  authority for EU AI Act implementation. Key people identified: CEO **Paul
+  Byrne** (also President of CLEAR, WHO Expert Advisor AI for Health);
+  Chairperson **Mary Doyle**; Board member **Siobhan Noble** (Chief Data and
+  AI Officer, Carne Group); Minister **Niamh Smyth** (Minister of State for
+  Trade Promotion, AI and Digital Transformation, existing LinkedIn
+  connection); Minister **Peter Burke** approved the Board appointments.
+  - **Status, 6 August 2026:** LinkedIn connection request already sent and
+    pending to Paul Byrne. Four introduction messages drafted (AI Office page,
+    Minister Smyth, Mary Doyle, Siobhan Noble) — all congratulations-first,
+    practitioner-credibility framing, no direct ask, offering Ambrion's
+    ground-level SME compliance perspective. John to send.
+  - John considering opening a dedicated Ambrion AI chat thread; this item
+    should be carried into it once created.
 
 - **Xander Cavanagh / Johnny Shanahan — AI training enquiry.** Johnny asked
   Xander about AI training. John to look into whether there's a further
