@@ -77,6 +77,38 @@ Last updated: 29 July 2026 (post board meeting prep, pre-review)
 - **Colby McDonald (young Mayo footballer)** — noted for its own sake as
   personally inspirational: wrote "One Chance" on his wristband. Possible
   reference point for the "Other Side of Sixty" LinkedIn content series.
+- **"How to Fix Your Entire Life in 1 Day" (Dan Koe, via GrowthGPT — saved
+  5 August 2026, full theory captured as reference, not yet implemented)**
+  1. Identity precedes outcome — change who you believe you are before
+     expecting different results.
+  2. The goal beneath the goal — most stated goals are really proxies for a
+     deeper need (safety, respect, freedom); find the real one.
+  3. Identity defends itself — the ego resists change even when the change is
+     wanted, because it threatens the current self-concept.
+  4. The life you want lies within a specific level of mind — 9 stages of ego
+     development (Impulsive to Unitive). The useful question is not "what
+     stage am I" but "what lens is shaping my goals right now."
+  5. Intelligence is the ability to get what you want out of life — Success =
+     Agency x Opportunity x Intelligence. Intelligence itself is the ability
+     to use feedback and correct course (Goal to Act to Sense to Compare to
+     Adjust to Iterate).
+  6. **Reset Day exercise (the practical piece — worth actually scheduling):**
+     Set aside one full day. Morning (15-30 min, pen and paper): Anti-Vision
+     questions (the life you refuse to live — persistent dissatisfaction, what
+     you complain about but never change, what an unchanged Tuesday looks like
+     in 5 years) and Minimum Viable Vision questions (the life you're
+     building — an average Tuesday in 3 years if things were different, what
+     you'd have to believe about yourself, "I am the type of person who...",
+     one thing you'd do this week if you already were that person). Through
+     the day: scheduled interruptions to catch autopilot patterns. Evening:
+     synthesise into a direction, not a finished destination.
+  7. Save-for-reset-day summary: write it down, schedule the interruptions,
+     define your next lens, start with one daily lever.
+  - **Status:** captured as reference only, not implemented. To be drawn on
+    once the daily structure and orchestration (Cuan, Revenue Streams,
+    Meridian, and the other planned threads) is more settled — John's own
+    words, "we're not yet close to finishing the operational creed... my day
+    looks like it's a bit all over the place at the moment."
 - **Carl Jung — 8 lessons to become a great thinker** (saved 5 August 2026,
   John's own personal reference for daily practice). Adopted as a personal
   touchstone alongside the Operating Creed:

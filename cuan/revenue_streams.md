@@ -133,6 +133,22 @@ for any stream.
 
 ---
 
+## Honest Status Check (John and Shane, 5 August 2026 morning call)
+
+**Current real revenue is effectively United Hardware training — one client,
+one product. That is not good enough**, in John's own words. Of the 8 streams
+listed below, most are pre-revenue, early-stage, or advisory/board roles
+rather than repeatable product sales.
+
+Shane is finishing the underlying tech over this weekend. The immediate
+priority once that lands: **crystallise actual sellable products**, not just
+relationships and conversations. Details of what those products are still to
+follow — this is flagged here so it stays visible as the real test of
+everything else in this file, rather than getting lost among the individual
+leads.
+
+---
+
 ## 0. New Leads / Ideas Not Yet Assigned a Stream
 
 - **AI Office of Ireland (Oifig IS na hEireann) — connection opportunity for
