@@ -151,6 +151,53 @@ leads.
 
 ## 0. New Leads / Ideas Not Yet Assigned a Stream
 
+- **6 August — Tairseach: Kevin McHugh (Harvey, property specialist)** — John
+  to make an initial approach to Kevin about the Tairseach property
+  intelligence investment Shane is raising for.
+- **6 August — AI Funding session prep:** the IBI funding landscape material
+  (already in `ventures_dossier.md`) needs to be pushed into the new AI
+  Funding chat thread once it's opened — logged here as a reminder until that
+  thread exists.
+- **6 August — Ted Webb (cousin) and "Pat Dudi"** (surname Dudi, first name
+  unclear from dictation) — John to follow up with both.
+- **6 August — Julianstown, after Malachy call this morning:** coordinate
+  local support for the planning permission decision at the Old Mill site.
+  John to speak to John Lynch and a contact heard as "Michael Dorfk
+  Hernandez" — name almost certainly mis-transcribed, needs confirming.
+- **6 August — incomplete note:** "get the scope and Spoin tech from..." — cut
+  off mid-sentence, needs John to finish this thought.
+- **6 August — eSIM analysis to a contact in "Glennon Ross"** (heard as
+  "Yolis analysis... to my Glennon" — possibly connects to the Malachy/Ben
+  eSIM lead already logged above, or a separate contact; names unclear).
+  Needs his personal email — John to message him on LinkedIn to request it
+  before sending anything.
+- **6 August — Meridian Intelligence instruction: AI investment target
+  analysis.** John wants Meridian to produce an intelligence analysis of
+  Irish companies actively investing in AI (i.e. companies with budget), as
+  the correct target audience — sharper than the existing 24-company list,
+  which Shane is also separately working. This needs to be delivered as an
+  actual instruction to the Meridian session (see note above on how session
+  handoffs work — Cuan cannot execute this itself, only log the brief).
+- **6 August — One Big Switch Gmails** — John to personally review for
+  household management and costs (personal, not business).
+- **6 August — Ger Blake (ger@dsb.ie) follow-up** (heard as "Palja Blake" —
+  matches Ger Blake, the existing primary care centre/Midleton contact
+  already on file). Topics: "Helen Cahill" Bank of Ireland loan (name
+  unclear, needs confirming), current funding position on primary care
+  centres generally and Midleton specifically, and a general update
+  ("raise the Tulsa" — unclear reference, needs confirming).
+- **6 August — "Jerry" re PCCs** (possibly also Ger Blake, given the PCC
+  context, or a different contact — needs confirming). To cover: explain the
+  Personal Insolvency Arrangement hasn't progressed simply due to lack of
+  income/resources, not lack of intent; update on Julianstown planning as a
+  positive development; introduce Meridian Intelligence and its products.
+- **6 August — Jessica Courtney Malin (name uncertain), re "HDFC code"** —
+  reply, or at minimum update her boss (a friend of "Jared Gaston Maximini's"
+  wife — names uncertain) to show it's not being ignored. Intended as a
+  reactivation of engagement with "Jer" (possibly the same contact as above).
+- **6 August — Tairseach document to Dave Geoghegan (UHL)** — convert to a
+  text-only version for ease of reading before sending.
+
 - **AI Office of Ireland (Oifig IS na hEireann) — connection opportunity for
   Ambrion.** Launched this week as Ireland's independent central coordinating
   authority for EU AI Act implementation. Key people identified: CEO **Paul
