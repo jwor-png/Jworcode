@@ -48,6 +48,15 @@ Per governance: no technical or commercial commitment proceeds without Shane McC
 - **Status:** Relationship active, Galway meeting with Padraic was upcoming as of June — need current status
 - **Tomorrow's action:** [ASK John] — did the Galway meeting happen, any outcome to log
 
+## Stream 7 — Ambrion/Meridian Prospect Outreach ("AI Opportunity Map")
+- **What it is:** Named target-account programme across Ambrion, Velocity AI, Meridian and Golden Generation. Sourced from an initial 200-org ChatGPT-generated universe, now being re-cut on John's direction.
+- **John's criteria (3 Aug):** exclude large multinational subsidiaries and any org likely to have in-house AI/data science capability — no realistic path in with a two-person team (John + Shane) and no point competing with an internal function. Target mid-market/regional Irish-owned businesses, decision-maker reachable (owner/founder/small board), reasonable basis to assume AI investment or exposure (sector signal, EU AI Act exposure, digital transformation activity) even where not individually confirmed.
+- **Format John wants:** List 1 — 100 companies, approached early next week (w/c 10 Aug). List 2 — 100 companies, following week (w/c 17 Aug). Additional criteria expected to emerge after first-round approaches land.
+- **Route:** Cuan builds the two lists → John reviews → passes to Shane for scrutiny → Shane runs his own verification pass before outreach → John and Shane decide approach sequencing together.
+- **Meridian domain mapping (John asked 3 Aug):** treating this as a live Meridian working example — primarily AI Strategy & Adoption (fit/signal scoring) and Commercial & Deal (approach sequencing, decision-speed), with Business Transformation & Growth as a secondary lens on reachability. Not routing through Legal & Governance / Finance & Restructuring / Property & Development / AI Equity & Investment — not relevant to this task.
+- **Status (3 Aug):** List 1 research underway — real, named Irish companies only, sourced against public signals rather than assumed/invented specifics, consistent with Shane's Standards. No fabricated claims per company.
+- **Tomorrow's action:** review List 1 once delivered; confirm before it goes to Shane
+
 ---
 
 ## This Week's Priority Order (proposed — confirm with John)
