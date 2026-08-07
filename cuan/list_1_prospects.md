@@ -1,16 +1,19 @@
-# List 1 — First-Wave Target Accounts
+# List 1 — First-Wave Target Accounts (Revised)
 
-Prepared for Shane review, w/c 3 Aug 2026. Private / internal — not for external circulation. Part of Stream 7 in `revenue_streams.md`.
+Prepared for Shane review. Private / internal — not for external circulation. Part of Stream 7 in `revenue_streams.md`.
 
 **97 verified real companies** (target was 100 — see note below on why it stopped at 97 rather than padding).
 
 Criteria applied: Irish-owned/founded, mid-market or regional, decision-maker reachable (owner/founder/small board — not corporate procurement), excludes large multinational subsidiaries and anything with likely in-house AI capability, reasonable-basis AI relevance (not all individually confirmed — see Confidence column).
 
-Sourced via live web search: Deloitte Ireland's Best Managed Companies programme (2022–2025 cohorts), regional Chamber of Commerce and County/National Enterprise Awards (2025 cycle), Irish Family Business Awards 2025, sector press. Every entry verified as a real, currently-operating company via at least one independent source.
+**Revision note:** this list was re-verified with a fresh, targeted search per company hunting specifically for genuine AI-specific evidence, after the original two-tier confidence tagging conflated business-quality facts (an award, a size figure) with actual AI evidence. Confidence is now a three-tier scale and no company's tier was upgraded without a real finding.
 
-**Confidence key:** *specific-signal* = a concrete public data point found (award, grant, press mention). *sector-signal* = reasoned from sector/size/regulatory exposure without a specific data point — not confirmed AI activity.
+**Confidence key:**
+- **AI-specific evidence** — a concrete AI/data/automation-related fact was found (a named AI tool, an AI programme partnership, a company statement about live AI use).
+- **adjacent-signal** — a real digital-transformation or automation fact was found, but not explicitly AI (robotics, CNC automation, BIM, ERP/CRM digitisation).
+- **sector-reasoned** — no company-specific evidence found even after a fresh search; reasoned from sector/size/regulatory exposure alone.
 
-**Honest read on signal strength (added 3 Aug, per John's direct question):** "specific-signal" should not be read as confirmed AI investment. In most rows the concrete data point is a business-quality fact — a Deloitte Best Managed Company award, a regional Business of the Year title, a size figure — with AI-relevance reasoned on top of it, not evidence of an actual AI project. Only a small number of rows (e.g. #1 St. Raphael's Garda CU's Temenos platform investment, #31 H&MV's "Digital Performance Hub" award, #45 CEC's regulated pharma/medtech client base) have anything close to AI-specific evidence. Treat the list as 97 well-qualified candidates for a first conversation, not 97 confirmed AI adopters. If Shane's requirement is confirmed AI investment specifically, most rows do not clear that bar on current evidence.
+**Tier counts:** 18 AI-specific evidence · 35 adjacent-signal · 44 sector-reasoned.
 
 ## Briefing note — what this is, in plain terms
 
@@ -20,127 +23,121 @@ For outreach purposes, this should not be introduced by product or entity name. 
 
 ---
 
-| # | Company | Sector | Region | Ownership | Approx. scale | AI-relevance signal | Confidence |
+| # | Company | Sector | Region | Ownership | Approx. scale | AI-relevance evidence | Confidence |
 |---|---|---|---|---|---|---|---|
-| 1 | St. Raphael's Garda Credit Union | Financial services (credit union) | Dublin | Irish (member-owned) | unconfirmed (€400m+ assets) | Largest CU in Ireland; seven-figure IT platform investment (Temenos); credit-decisioning under Central Bank/AI Act oversight | specific-signal |
-| 2 | Progressive Credit Union | Financial services (credit union) | Dublin | Irish (member-owned) | unconfirmed | Regulated lender; AI Act exposure via credit scoring/loan decisions | sector-signal |
-| 3 | Acorn Life DAC | Financial services (life assurance) | Galway | 100% Irish-owned | ~173 employees | Underwriting/pricing decisions; high-risk category under AI Act | specific-signal |
-| 4 | Broker Solutions Ireland | Insurance (MGA) | Dublin | Irish-owned | unconfirmed | MGA underwriting decisioning; AI Act insurance exposure | sector-signal |
-| 5 | Insurteam MGA Ltd | Insurance (MGA) | Dublin | Irish | unconfirmed | Travel insurance MGA; underwriting/claims automation exposure | sector-signal |
-| 6 | Service First | Insurance (MGA) | Dublin | Irish | unconfirmed (newly launched) | New business-insurance MGA; underwriting decisioning | sector-signal |
-| 7 | McCarthy Insurance Group | Insurance (broker) | Cork | Irish-owned | ~200 staff, 16 branches | Largest Irish-owned broker; multi-branch governance needs | specific-signal |
-| 8 | All Ireland Insurance | Insurance (broker) | Dublin | Irish-owned | unconfirmed | Independent broker; general insurance AI Act exposure | sector-signal |
-| 9 | Combilift | Manufacturing (materials handling) | Monaghan | Irish-owned | large exporter | 13x Deloitte Best Managed Company; automation/robotics adjacency | specific-signal |
-| 10 | Kent Stainless | Manufacturing (stainless steel) | Wexford | Irish-owned | unconfirmed | Deloitte Best Managed Company (Gold) | specific-signal |
-| 11 | Mergon Group | Manufacturing (plastics) | Westmeath | Irish-owned | unconfirmed | Deloitte Best Managed Company 2024 | specific-signal |
-| 12 | Coen Steel | Manufacturing (steel fabrication) | Galway | Irish-owned | unconfirmed | Deloitte Best Managed Company requalifier 2025 | specific-signal |
-| 13 | Dennison Trailers | Manufacturing (trailers) | Kildare | Irish-owned | 60 years trading | Deloitte Best Managed Company requalifier | specific-signal |
-| 14 | Sonas Bathrooms | Manufacturing (bathroom products) | Dublin | Irish-owned | ~90 staff | Deloitte Best Managed Company (Platinum) | specific-signal |
-| 15 | WaterWipes | Manufacturing (consumer products) | Louth | Irish-owned | unconfirmed | Deloitte Best Managed Company (Platinum); global exporter | specific-signal |
-| 16 | Portwest | Manufacturing (workwear/PPE) | Mayo | Irish-owned (family) | large global manufacturer | Deloitte Best Managed Company (Platinum); PPE is regulated | specific-signal |
-| 17 | Burnside Eurocyl | Manufacturing (hydraulic cylinders) | Carlow | Irish-owned | unconfirmed | Carlow Business of the Year 2025 | specific-signal |
-| 18 | Solar Precision | Manufacturing (renewable energy equipment) | Kilkenny | Irish-owned (family) | unconfirmed | Kilkenny Business/Family Business of the Year 2025 | specific-signal |
-| 19 | Dave Barry Plastics | Manufacturing (plastics) | Waterford | Irish-owned | up to 100 employees | Overall Waterford Business of the Year 2025 | specific-signal |
-| 20 | Activ8 Solar Energies | Manufacturing/installation (renewable energy) | Monaghan | Irish-owned | unconfirmed | Deloitte Best Managed Company requalifier | specific-signal |
-| 21 | Codd Mushrooms | Agriculture & food | Carlow | Irish-owned (family) | unconfirmed | Irish Family Business Awards silver 2025 | specific-signal |
-| 22 | Clonakilty Food Co | Agriculture & food | Cork | Irish-owned (family) | unconfirmed | Deloitte Best Managed Company requalifier | specific-signal |
-| 23 | Abbey Machinery | Manufacturing (agri machinery) | Tipperary | Irish-owned (family) | unconfirmed | Longest-established agri machinery manufacturer; exports | specific-signal |
-| 24 | McHale | Manufacturing (agri machinery) | Mayo | Irish-owned (family) | unconfirmed | Globally exporting agri machinery manufacturer | specific-signal |
-| 25 | Errigal Group | Construction/manufacturing (fit-out) | Monaghan | Irish-owned | unconfirmed | Deloitte Best Managed Company; global fit-out specialist | specific-signal |
-| 26 | HiTech Health | Pharma & life sciences (CDMO) | Galway | Irish-founded | unconfirmed | First Irish company licensed for cell & gene therapy manufacture | specific-signal |
-| 27 | Galway Biomedical | Pharma & life sciences (CDMO) | Galway | Irish | unconfirmed | Trusted CDMO medical device manufacturer, regulated sector | sector-signal |
-| 28 | PCO Manufacturing | Pharma & life sciences (packaging) | Meath | Irish-owned | 150+ staff | HPRA-authorised repackaging facility; regulated documentation | specific-signal |
-| 29 | Aerogen | Pharma & life sciences (drug delivery devices) | Galway | Irish-founded | unconfirmed | Global leader in aerosol drug delivery | specific-signal |
-| 30 | MMS Medical | Pharma & life sciences (medical equipment) | Cork | Irish-owned (family) | 42 employees | Ireland's largest mobility/rehab equipment supplier | specific-signal |
-| 31 | H&MV Engineering | Construction & engineering (M&E) | Limerick | Irish-owned | unconfirmed | Won Innovation in Construction 2025 for "Digital Performance Hub" | specific-signal |
-| 32 | Jones Engineering Group | Construction & engineering (M&E) | Dublin | Irish-owned | unconfirmed | First Irish contractor with BSI Kitemark for BIM (ISO 19650) | specific-signal |
-| 33 | Kirby Group Engineering | Construction & engineering (M&E) | Dublin | Irish-owned | unconfirmed | New Deloitte Best Managed Company 2025 | specific-signal |
-| 34 | Callaghan Electrical Ltd | Construction & engineering (electrical) | unconfirmed | Irish | unconfirmed | Irish Construction Industry Awards finalist (Innovation) | sector-signal |
-| 35 | McCool Controls & Engineering | Construction & engineering (IoT/controls) | unconfirmed | Irish | unconfirmed | Irish Construction Industry Awards finalist (IoT project) | sector-signal |
-| 36 | Suir Engineering | Construction & engineering (M&E) | Waterford | Irish-owned | unconfirmed | New Deloitte Best Managed Company 2025 | specific-signal |
-| 37 | Ethos Engineering | Construction & engineering (consultancy) | Dublin | Irish-owned | unconfirmed | Deloitte Best Managed Company 2024 | specific-signal |
-| 38 | Vision Built | Construction & engineering | Sligo | Irish | unconfirmed | Sligo Chamber Business Excellence Awards finalist 2025 | sector-signal |
-| 39 | Jennings O'Donovan & Partners | Construction & engineering (consulting) | Sligo | Irish | unconfirmed | Sligo Chamber Business Excellence Awards finalist 2025 | sector-signal |
-| 40 | Clancy Construction | Construction & engineering | Kildare/Dublin | Irish-owned | unconfirmed | Deloitte Best Managed Company requalifier | specific-signal |
-| 41 | Walls Construction | Construction & engineering | Dublin | Irish-owned | unconfirmed | Deloitte Best Managed Company (Platinum) | specific-signal |
-| 42 | JJ Rhatigan & Co | Construction & engineering | Galway | Irish-owned (family) | unconfirmed | Deloitte Best Managed Companies Family Business Award 2025 | specific-signal |
-| 43 | EPS Group | Construction & engineering (water infrastructure) | Cork | Irish-owned | unconfirmed | International water/wastewater specialist; Deloitte Best Managed Company | specific-signal |
-| 44 | Delmec Engineering | Construction & engineering (telecoms infrastructure) | Longford | Irish-owned | unconfirmed | Deloitte Best Managed Company; Best in Innovation Award | specific-signal |
-| 45 | Controlled Environments Company (CEC) | Construction & engineering (cleanroom) | Galway | Irish-owned | hundreds globally | Deloitte Best Managed Company; supplies regulated pharma/medtech clients | specific-signal |
-| 46 | Cantwell Electrical Engineering Ltd | Construction & engineering (electrical) | Tipperary | Irish-owned (family) | unconfirmed | Irish Family Business Awards 2025 winner | specific-signal |
-| 47 | Mack Engineering | Construction & engineering | Tipperary | Irish-owned (family) | unconfirmed | Irish Family Business Awards 2025 winner | specific-signal |
-| 48 | Actavo Group | Construction & engineering (infrastructure services) | Dublin | Irish-owned | large | New Deloitte Best Managed Company 2025 | specific-signal |
-| 49 | Flynn Management & Contractors | Construction & engineering | Dublin | Irish-owned | 150+ staff | Leading construction manager across regulated sectors (life science, healthcare, data centres) | sector-signal |
-| 50 | Clarke Machinery Ltd | Retail/agri machinery dealer | Cavan/Meath/Roscommon | Irish-owned | unconfirmed | Long-established Valtra dealer network, four depots | sector-signal |
-| 51 | Maxol | Retail (forecourt/fuel) | Dublin | Irish-owned (family) | 242 stations | Ireland's largest family-owned forecourt retailer | specific-signal |
-| 52 | Topline Heavins & Euronics | Retail (hardware/electrical) | Westmeath | Irish-owned (family) | unconfirmed | Irish Family Business Awards gold 2025 | specific-signal |
-| 53 | Insomnia Coffee Company | Retail (coffee chain) | Dublin | Irish-owned | unconfirmed | Deloitte Best Managed Company (Platinum) | specific-signal |
-| 54 | Eason | Retail (books/stationery) | Dublin | Irish-owned | large national chain | Deloitte Best Managed Company requalifier | specific-signal |
-| 55 | United Hardware | Retail (hardware buying group) | Dublin | Irish-owned | ~2,000 (member network) | Deloitte Best Managed Company 2024; largest hardware buying group | specific-signal |
-| 56 | CMS Distribution | Technology (electronics distribution) | Dublin | Irish-owned | unconfirmed | Deloitte Best Managed Company (Platinum) | specific-signal |
-| 57 | Western Motors Group | Retail (car dealer group) | Galway | Irish-owned | unconfirmed | Deloitte Best Managed Company (2024 & 2025) | specific-signal |
-| 58 | Anthony Nicholas Group | Retail (jewellery) | Dublin | Irish-owned | 318 employees | Deloitte Best Managed Company (Gold); owns Fields Jewellers | specific-signal |
-| 59 | Camile Thai Kitchen | Retail/food service (franchise) | Dublin | Irish-owned | unconfirmed | Deloitte Best Managed Company requalifier; multi-site data ops | specific-signal |
-| 60 | North Cork Creameries | Agriculture & food (dairy co-op) | Cork | Irish farmer co-op | unconfirmed | Regional dairy processing co-op | sector-signal |
-| 61 | Lakeland Dairies | Agriculture & food (dairy co-op) | Cavan | Irish farmer co-op | large | "Big four" milk processor; farmer-elected board governance | sector-signal |
-| 62 | Arrabawn / Arratipp Co-op | Agriculture & food (dairy co-op) | Tipperary | Irish farmer co-op | unconfirmed | Regional dairy co-op (merged 2024) | sector-signal |
-| 63 | McAuliffe Pig Farms | Agriculture & food | Kerry | Irish-owned (family) | unconfirmed | Irish Family Business Awards gold 2025 | specific-signal |
-| 64 | Duggan Veterinary Supplies | Agriculture & food (veterinary/agri supplies) | Tipperary | Irish-owned (family) | unconfirmed | Irish Family Business Awards 2025 winner | specific-signal |
-| 65 | Twomey's Bakery Ltd | Agriculture & food (bakery) | Limerick | Irish-owned (family) | unconfirmed | Irish Family Business Awards, longevity gold 2025 | specific-signal |
-| 66 | Boann Distillery Limited | Agriculture & food (drinks) | Meath | Irish-owned (family) | unconfirmed | Irish Family Business Awards gold 2025 | specific-signal |
-| 67 | Tully Forge | Manufacturing (welding/fabrication) | Roscommon | Irish-owned (family) | unconfirmed | Overall winner, Roscommon Enterprise Awards 2025; exports US/Australia/Canada | specific-signal |
-| 68 | Waldron Meats | Agriculture & food | Roscommon | Irish-owned | unconfirmed | Roscommon Enterprise Awards 2025 winner, 35 years trading | specific-signal |
-| 69 | Barry & Fitzwilliam | Logistics/distribution (drinks wholesale) | Cork | Irish-owned (family) | 60+ staff | Largest independent premium drinks distributor, 40+ years | specific-signal |
-| 70 | Griffith College | Education & training | Dublin/Cork/Limerick | Irish (independent) | 7,000+ learners | Largest independent third-level institution | sector-signal |
-| 71 | Portobello Institute | Education & training | Dublin | Irish (independent) | unconfirmed | Established private further/higher education provider | sector-signal |
-| 72 | Masterlink Logistics | Logistics & distribution | Tipperary | Irish-owned | unconfirmed | BRC-accredited warehousing/distribution; route optimisation investment | sector-signal |
-| 73 | Fastway Couriers Ireland | Logistics & distribution (courier) | Nationwide (HQ Dublin) | Irish-owned (franchise) | ~400 staff, 700+ franchisees | Largest independent courier network in Ireland | specific-signal |
-| 74 | Ace Express Freight | Logistics & distribution (freight) | Dublin | Irish-owned | unconfirmed | Deloitte Best Managed Company requalifier; 35 years trading | specific-signal |
-| 75 | Dixon International Logistics | Logistics & distribution (freight forwarding) | Dublin | Irish-owned | unconfirmed | New Deloitte Best Managed Company 2025 | specific-signal |
-| 76 | Corrib Oil Group | Logistics & distribution (fuel) | Galway | Irish-owned | unconfirmed | Deloitte Best Managed Company (Gold) | specific-signal |
-| 77 | 2468 Group | Logistics & distribution (facilities/workplace services) | Meath | Irish-owned | 63 staff | Deloitte Best Managed Company requalifier; ~6,000 customers Ireland/UK | specific-signal |
-| 78 | City Bin Co. | Logistics & distribution (waste management) | Galway | Irish-owned | unconfirmed | Galway Chamber Business Awards 2025 finalist | sector-signal |
-| 79 | Collins McNicholas Recruitment & HR Services Group | Professional services (recruitment) | Galway/nationwide | Irish-owned | unconfirmed | Deloitte Best Managed Company; engineering/pharma recruitment, HR decisioning/AI Act adjacency | specific-signal |
-| 80 | Sigmar Recruitment | Professional services (recruitment) | Cork/nationwide | Irish-owned | unconfirmed | Established Irish recruitment agency, multi-sector | sector-signal |
-| 81 | Joyce & Co Solicitors | Professional services (law) | Cork/Limerick | Irish-owned | unconfirmed | 40+ years, regional law firm | sector-signal |
-| 82 | Alastair Purdy LLP | Professional services (law, employment) | Galway/Dublin/Limerick | Irish-owned | unconfirmed | Employment/corporate law firm serving SMEs; HR/AI Act intersection | sector-signal |
-| 83 | Kennedy Fitzgerald LLP | Professional services (law) | Galway | Irish-owned | unconfirmed | Established Galway City law firm | sector-signal |
-| 84 | Crowleys DFK | Professional services (accountancy) | Dublin/Cork | Irish-owned | unconfirmed | 50 years; leading chartered accountancy/advisory firm | specific-signal |
-| 85 | Roberts Nathan (now Baker Tilly Ireland) | Professional services (accountancy) | Cork/Dublin | Irish member firm | 70+ staff/partners | Full-service accountancy/advisory; recent network rebrand | sector-signal |
-| 86 | Gallagher Keane | Professional services (accountancy) | Dublin | Irish-owned | unconfirmed | Mid-tier chartered accountants serving private companies/owners | sector-signal |
-| 87 | Baker Tilly Kirk | Professional services (accountancy) | Louth | Irish (independent network member) | unconfirmed | Leading multi-disciplinary accountancy firm, north-east, since 1985 | sector-signal |
-| 88 | RelateCare | Professional services (healthcare outsourcing/patient engagement) | Waterford | Irish-owned | unconfirmed | Deloitte Best Managed Company (Gold); patient contact-centre ops, direct automation relevance | specific-signal |
-| 89 | Niche SSP | Professional services (construction estimating/staffing) | Donegal | Irish-owned (family) | unconfirmed | Overall winner, Donegal Enterprise Awards 2025 | specific-signal |
-| 90 | Abbey Group (Ireland & UK) | Professional services (destination management/travel) | Dublin | Irish-owned | unconfirmed | Deloitte Best Managed Company, 16 consecutive years | specific-signal |
-| 91 | MTM Engineering | Construction & engineering (M&E) | Meath | Irish-owned | unconfirmed | Deloitte Best Managed Company (Gold) | specific-signal |
-| 92 | Ohk Energy | Manufacturing/installation (renewable energy retrofit) | Monaghan | Irish-owned | 270+ staff | New Deloitte Best Managed Company 2025; Ireland's largest SEAI-registered provider | specific-signal |
-| 93 | IQ Financial | Financial services (financial planning) | Sligo | Irish-owned | unconfirmed | Sligo Chamber Business Excellence Awards finalist 2025; Business All-Star | specific-signal |
-| 94 | Copper Coast Renewables | Manufacturing/energy (ESG/renewables) | Waterford | Irish-owned | unconfirmed | Finalist, national Business & Finance Awards 2025 (ESG) | specific-signal |
-| 95 | NEG8 Carbon | Manufacturing (cleantech/carbon capture) | Waterford | Irish-owned | unconfirmed | Shortlisted, RDS Circular Economy Awards SME category | specific-signal |
-| 96 | Liberty Blue Estate Agents | Professional services (property/estate agency) | Waterford | Irish-owned | up to 20 employees | Waterford Business Awards 2025 category winner | specific-signal |
-| 97 | Cavanaghs of Charleville | Retail (motor dealer) | Cork | Irish-owned | ~15 employees | Long-established regional main dealer; general digital-adoption candidate | sector-signal |
+| 1 | St. Raphael's Garda Credit Union | Financial services (credit union) | Dublin | Irish (member-owned) | unconfirmed (€400m+ assets) | Temenos digital-channels rollout cut manual loan processing ~85% via automation; third-party tech database flags "intention to invest" in AI/ML, not confirmed | adjacent-signal |
+| 2 | Progressive Credit Union | Financial services (credit union) | Dublin | Irish (member-owned) | unconfirmed | Ran an AI chatbot proof-of-concept with CeADAR via its EU Digital Innovation Hub programme; has a named Digital Transformation & Operational Resilience Manager | AI-specific evidence |
+| 3 | Acorn Life DAC | Financial services (life assurance) | Galway | 100% Irish-owned | ~173 employees | No company-specific AI/automation evidence found | sector-reasoned |
+| 4 | Broker Solutions Ireland | Insurance (MGA) | Dublin | Irish-owned | unconfirmed | No company-specific AI/automation evidence found | sector-reasoned |
+| 5 | Insurteam MGA Ltd | Insurance (MGA) | Dublin | Irish | unconfirmed | Platform explicitly combines AI, data analytics and automation to run claims/sales; reduces claims cost ~80% | AI-specific evidence |
+| 6 | Service First | Insurance (MGA) | Dublin | Irish | unconfirmed (newly launched) | No company-specific evidence found | sector-reasoned |
+| 7 | McCarthy Insurance Group | Insurance (broker) | Cork | Irish-owned | ~200 staff, 16 branches | Only a stray customer review mentioning "AI" informally — too vague to count | sector-reasoned |
+| 8 | All Ireland Insurance | Insurance (broker) | Dublin | Irish-owned | unconfirmed | No company-specific AI/automation evidence found | sector-reasoned |
+| 9 | Combilift | Manufacturing (materials handling) | Monaghan | Irish-owned | large exporter | Deployed Infor Coleman AI-driven parts recommendations; developing an AI-guided "intelligent guidance vehicle" | AI-specific evidence |
+| 10 | Kent Stainless | Manufacturing (stainless steel) | Wexford | Irish-owned | unconfirmed | Robotic welding cells, automatic shot-blasting, TruTops Boost 3D software — automation, no AI-specific evidence | adjacent-signal |
+| 11 | Mergon Group | Manufacturing (plastics) | Westmeath | Irish-owned | unconfirmed | Investing in AI-enabled vision/camera "co-robotics" for quality checks; hiring an Automation Projects Manager | AI-specific evidence |
+| 12 | Coen Steel | Manufacturing (steel fabrication) | Galway | Irish-owned | unconfirmed | Automated shearing/bending ("aSa technology") confirmed; no AI-specific evidence | adjacent-signal |
+| 13 | Dennison Trailers | Manufacturing (trailers) | Kildare | Irish-owned | 60 years trading | HD CNC plasma cutting — standard automation, no AI-specific evidence | adjacent-signal |
+| 14 | Sonas Bathrooms | Manufacturing (bathroom products) | Dublin | Irish-owned | ~90 staff | No AI/automation evidence found | sector-reasoned |
+| 15 | WaterWipes | Manufacturing (consumer products) | Louth | Irish-owned | unconfirmed | Hiring a Data Analyst (predictive/scenario modelling) and a Finance role listing "AI-enabled analytics preferred" | AI-specific evidence |
+| 16 | Portwest | Manufacturing (workwear/PPE) | Mayo | Irish-owned (family) | large global manufacturer | No company-specific AI/automation evidence found | sector-reasoned |
+| 17 | Burnside Eurocyl | Manufacturing (hydraulic cylinders) | Carlow | Irish-owned | unconfirmed | CNC lathes and robotic welders on production line — automation, no AI-specific evidence | adjacent-signal |
+| 18 | Solar Precision | Manufacturing (renewable energy equipment) | Kilkenny | Irish-owned (family) | unconfirmed | No AI/automation evidence found | sector-reasoned |
+| 19 | Dave Barry Plastics | Manufacturing (plastics) | Waterford | Irish-owned | up to 100 employees | 5-axis CNC and 3D printing in use; no AI-specific initiative found (acquired by Ingersoll Rand Aug 2025) | sector-reasoned |
+| 20 | Activ8 Solar Energies | Manufacturing/installation (renewable energy) | Monaghan | Irish-owned | unconfirmed | No AI/automation evidence found | sector-reasoned |
+| 21 | Codd Mushrooms | Agriculture & food | Carlow | Irish-owned (family) | unconfirmed | No company-specific evidence found | sector-reasoned |
+| 22 | Clonakilty Food Co | Agriculture & food | Cork | Irish-owned (family) | unconfirmed | No company-specific AI/automation evidence found | sector-reasoned |
+| 23 | Abbey Machinery | Manufacturing (agri machinery) | Tipperary | Irish-owned (family) | unconfirmed | Formal research partnership with Lero (SFI centre) on autonomous, AI/IoT-enabled farm machinery; Enterprise Ireland Ag Technology Award 2023 | AI-specific evidence |
+| 24 | McHale | Manufacturing (agri machinery) | Mayo | Irish-owned (family) | unconfirmed | "MyMcHale" digital hub, fully automatic baler-wrapper products — automation/digital confirmed, no AI-specific evidence | adjacent-signal |
+| 25 | Errigal Group | Construction/manufacturing (fit-out) | Monaghan | Irish-owned | unconfirmed | Builds physical infrastructure for AI/data-centre facilities; no evidence of AI/automation in Errigal's own operations | adjacent-signal |
+| 26 | HiTech Health | Pharma & life sciences (CDMO) | Galway | Irish-founded | unconfirmed | No company-specific AI/automation evidence found | sector-reasoned |
+| 27 | Galway Biomedical | Pharma & life sciences (CDMO) | Galway | Irish | unconfirmed | No company-specific AI/automation evidence found | sector-reasoned |
+| 28 | PCO Manufacturing | Pharma & life sciences (packaging) | Meath | Irish-owned | 150+ staff | No company-specific AI/automation evidence found | sector-reasoned |
+| 29 | Aerogen | Pharma & life sciences (drug delivery devices) | Galway | Irish-founded | unconfirmed | No company-specific AI/automation evidence found | sector-reasoned |
+| 30 | MMS Medical | Pharma & life sciences (medical equipment) | Cork | Irish-owned (family) | 42 employees | No company-specific AI/automation evidence found | sector-reasoned |
+| 31 | H&MV Engineering | Construction & engineering (M&E) | Limerick | Irish-owned | unconfirmed | Heavy data-centre engineering contractor confirmed; could not independently verify AI content of "Digital Performance Hub" award | adjacent-signal |
+| 32 | Jones Engineering Group | Construction & engineering (M&E) | Dublin | Irish-owned | unconfirmed | First Irish contractor with BSI Kitemark for BIM (ISO 19650); automated BIM-to-fabrication workflow — automation, not AI-specific | adjacent-signal |
+| 33 | Kirby Group Engineering | Construction & engineering (M&E) | Dublin | Irish-owned | unconfirmed | Developing native AI platform "KAI"; AI-driven automation for data-centre thermal management; trialling Autodesk "neural CAD" | AI-specific evidence |
+| 34 | Callaghan Electrical Ltd | Construction & engineering (electrical) | Cavan | Irish | 100+ employees | Active AI use for 2.5 years in payments/invoicing (avoided admin headcount growth); first subcontractor funded under EI's "Built to Innovate" scheme | AI-specific evidence |
+| 35 | McCool Controls & Engineering | Construction & engineering (IoT/controls) | unconfirmed | Irish | unconfirmed | CoolSúil IoT platform shortlisted, Innovation in Construction 2025; core business is Smart Buildings/BMS/IoT — automation, not confirmed AI-specific | adjacent-signal |
+| 36 | Suir Engineering | Construction & engineering (M&E) | Waterford | Irish-owned | unconfirmed | Provides process automation and controls/instrumentation services; no AI-specific evidence | adjacent-signal |
+| 37 | Ethos Engineering | Construction & engineering (consultancy) | Dublin | Irish-owned | unconfirmed | Developing "proprietary digital tools and AI-enabled solutions," including SimStudio for simulation/CFD | AI-specific evidence |
+| 38 | Vision Built | Construction & engineering | Sligo | Irish | unconfirmed | Offsite/modular manufacturing, in-house prototyping space, Modern Methods of Construction — automation-adjacent, no AI-specific evidence | adjacent-signal |
+| 39 | Jennings O'Donovan & Partners | Construction & engineering (consulting) | Sligo | Irish | unconfirmed | No AI/automation evidence found (acquired by RSK Group 2023) | sector-reasoned |
+| 40 | Clancy Construction | Construction & engineering | Kildare/Dublin | Irish-owned | unconfirmed | No company-specific evidence found | sector-reasoned |
+| 41 | Walls Construction | Construction & engineering | Dublin | Irish-owned | unconfirmed | In-house BIM/Digital Project Delivery team since 2020, 4D simulation; company states it is "exploring" ML/AI — not yet implemented | adjacent-signal |
+| 42 | JJ Rhatigan & Co | Construction & engineering | Galway | Irish-owned (family) | unconfirmed | BSI BIM Certified Tier 1 Lead Contractor, company-wide BIM investment; no AI-specific evidence | adjacent-signal |
+| 43 | EPS Group | Construction & engineering (water infrastructure) | Cork | Irish-owned | unconfirmed | Instrumentation, control & automation services across water treatment; no confirmed AI-specific initiative | adjacent-signal |
+| 44 | Delmec Engineering | Construction & engineering (telecoms infrastructure) | Longford | Irish-owned | unconfirmed | No AI/automation evidence found | sector-reasoned |
+| 45 | Controlled Environments Company (CEC) | Construction & engineering (cleanroom) | Galway | Irish-owned | hundreds globally | No AI/automation evidence found | sector-reasoned |
+| 46 | Cantwell Electrical Engineering Ltd | Construction & engineering (electrical) | Tipperary | Irish-owned (family) | unconfirmed | No AI/automation evidence found | sector-reasoned |
+| 47 | Mack Engineering | Construction & engineering | Tipperary | Irish-owned (family) | unconfirmed | No AI/automation evidence found | sector-reasoned |
+| 48 | Actavo Group | Construction & engineering (infrastructure services) | Dublin | Irish-owned | large | States use of "IT Infrastructure Systems, ERP... GIS Software and AI" to run field teams; LinkedIn content on digitalisation/AI/IoT | AI-specific evidence |
+| 49 | Flynn Management & Contractors | Construction & engineering | Dublin | Irish-owned | 150+ staff | Engaged Grouper Technology to scale operational systems; no AI-specific evidence | adjacent-signal |
+| 50 | Clarke Machinery Ltd | Retail/agri machinery dealer | Cavan/Meath/Roscommon | Irish-owned | unconfirmed | No AI/automation evidence found | sector-reasoned |
+| 51 | Maxol | Retail (forecourt/fuel) | Dublin | Irish-owned (family) | 242 stations | CEO confirms live Generative AI use in marketing/HR/forecast models; AI used for dynamic fuel pricing; published internal AI usage policies | AI-specific evidence |
+| 52 | Topline Heavins & Euronics | Retail (hardware/electrical) | Westmeath | Irish-owned (family) | unconfirmed | "Electrical & Technology Website of the Year" 2022 for e-commerce site — digital, not AI-specific | adjacent-signal |
+| 53 | Insomnia Coffee Company | Retail (coffee chain) | Dublin | Irish-owned | unconfirmed | Loyalty app with mobile payments won Best CX 2024; AI loyalty tech found only for unrelated US "Insomnia Cookies" brand | adjacent-signal |
+| 54 | Eason | Retail (books/stationery) | Dublin | Irish-owned | large national chain | Uses Optimizely for automated, data-driven recommendations and marketing automation — automation, not explicitly AI | adjacent-signal |
+| 55 | United Hardware | Retail (hardware buying group) | Dublin | Irish-owned | ~2,000 (member network) | No evidence for United Hardware itself; only an unrelated independent member store's AI chatbot found | sector-reasoned |
+| 56 | CMS Distribution | Technology (electronics distribution) | Dublin | Irish-owned | unconfirmed | Confirms investing "heavily in AI-driven tools, automation, and digital platforms," including a new AI-enabled service-desk system | AI-specific evidence |
+| 57 | Western Motors Group | Retail (car dealer group) | Galway | Irish-owned | unconfirmed | "CheckVentory" digital stock-management platform; cloud/data-driven operations — automation, not AI-specific | adjacent-signal |
+| 58 | Anthony Nicholas Group | Retail (jewellery) | Dublin | Irish-owned | 318 employees | Named Director of Digital; managed WAN linking UK/Ireland store systems — digital infrastructure, no AI-specific evidence | adjacent-signal |
+| 59 | Camile Thai Kitchen | Retail/food service (franchise) | Dublin | Irish-owned | unconfirmed | CEO confirms bringing "robotics and AI" into kitchens (automating wok cooking); drone-delivery trials; proprietary ordering app | AI-specific evidence |
+| 60 | North Cork Creameries | Agriculture & food (dairy co-op) | Cork | Irish farmer co-op | unconfirmed | Automated robotic bagging line; 20-year IT/cybersecurity partnership with FutureRange — automation, no AI-specific evidence | adjacent-signal |
+| 61 | Lakeland Dairies | Agriculture & food (dairy co-op) | Cavan | Irish farmer co-op | large | Third-party tech database flags "intention to invest" in AI/ML/IoT (speculative, not confirmed); general automation/robotics commitment | adjacent-signal |
+| 62 | Arrabawn / Arratipp Co-op | Agriculture & food (dairy co-op) | Tipperary | Irish farmer co-op | unconfirmed | No AI/automation evidence found (merged into ArraTipp Feb 2025) | sector-reasoned |
+| 63 | McAuliffe Pig Farms | Agriculture & food | Kerry | Irish-owned (family) | unconfirmed | Describes itself as research-driven, EU-funded project partnerships, but no AI-specific fact confirmed | sector-reasoned |
+| 64 | Duggan Veterinary Supplies | Agriculture & food (veterinary/agri supplies) | Tipperary | Irish-owned (family) | unconfirmed | Distributes an automated parasite-diagnostics system to vets — a supplied product, automation-adjacent, not confirmed AI | adjacent-signal |
+| 65 | Twomey's Bakery Ltd | Agriculture & food (bakery) | Limerick | Irish-owned (family) | unconfirmed | No AI/automation evidence found | sector-reasoned |
+| 66 | Boann Distillery Limited | Agriculture & food (drinks) | Meath | Irish-owned (family) | unconfirmed | No AI/automation evidence found (nanotechnology-enhanced stills, not AI) | sector-reasoned |
+| 67 | Tully Forge | Manufacturing (welding/fabrication) | Roscommon | Irish-owned (family) | unconfirmed | No AI/automation evidence found | sector-reasoned |
+| 68 | Waldron Meats | Agriculture & food | Roscommon | Irish-owned | unconfirmed | No AI/automation evidence found | sector-reasoned |
+| 69 | Barry & Fitzwilliam | Logistics/distribution (drinks wholesale) | Cork | Irish-owned (family) | 60+ staff | No AI/automation evidence found | sector-reasoned |
+| 70 | Griffith College | Education & training | Dublin/Cork/Limerick | Irish (independent) | 7,000+ learners | Runs its own "Professional Diploma in AI for Business"; participates in EU AI4VET4AI vocational-training project; dedicated Research & Innovation Hub | AI-specific evidence |
+| 71 | Portobello Institute | Education & training | Dublin | Irish (independent) | unconfirmed | No AI-specific programme found; only generic classroom-tech confirmed | sector-reasoned |
+| 72 | Masterlink Logistics | Logistics & distribution | Tipperary | Irish-owned | unconfirmed | Bespoke Consignment Management System; no AI/automation-specific evidence | sector-reasoned |
+| 73 | Fastway Couriers Ireland | Logistics & distribution (courier) | Nationwide (HQ Dublin) | Irish-owned (franchise) | ~400 staff, 700+ franchisees | Handheld scanning/tracking technology; no AI/ML evidence for route optimisation or sorting | sector-reasoned |
+| 74 | Ace Express Freight | Logistics & distribution (freight) | Dublin | Irish-owned | unconfirmed | Cites "advanced IT systems" for real-time client information; no AI-specific detail | adjacent-signal |
+| 75 | Dixon International Logistics | Logistics & distribution (freight forwarding) | Dublin | Irish-owned | unconfirmed | Opened fully automated, robotic (Moffett Automation Systems) warehouse at Dublin Airport 2024 — strong automation, not confirmed AI-specific | adjacent-signal |
+| 76 | Corrib Oil Group | Logistics & distribution (fuel) | Galway | Irish-owned | unconfirmed | New corporate website and mobile ordering app; digital, no AI-specific evidence | adjacent-signal |
+| 77 | 2468 Group | Logistics & distribution (facilities/workplace services) | Meath | Irish-owned | 63 staff | Uses "live telemetry" to route drivers; data/analytics — automation-adjacent, no AI-specific evidence | adjacent-signal |
+| 78 | City Bin Co. | Logistics & distribution (waste management) | Galway | Irish-owned | unconfirmed | No company-specific AI/automation evidence found | sector-reasoned |
+| 79 | Collins McNicholas Recruitment & HR Services Group | Professional services (recruitment) | Galway/nationwide | Irish-owned | unconfirmed | Published a Workforce Insights Report on AI's impact on recruitment/screening (industry commentary); no confirmed internal AI tooling | adjacent-signal |
+| 80 | Sigmar Recruitment | Professional services (recruitment) | Cork/nationwide | Irish-owned | unconfirmed | Recruits for clients' "automation" engineering roles; no evidence of Sigmar's own AI/automation use | sector-reasoned |
+| 81 | Joyce & Co Solicitors | Professional services (law) | Cork/Limerick | Irish-owned | unconfirmed | No AI/automation evidence found | sector-reasoned |
+| 82 | Alastair Purdy LLP | Professional services (law, employment) | Galway/Dublin/Limerick | Irish-owned | unconfirmed | Firm states it uses "carefully governed AI tools" for document review; fully paperless, cloud-based practice since 2019 | AI-specific evidence |
+| 83 | Kennedy Fitzgerald LLP | Professional services (law) | Galway | Irish-owned | unconfirmed | No AI/automation evidence found | sector-reasoned |
+| 84 | Crowleys DFK | Professional services (accountancy) | Dublin/Cork | Irish-owned | unconfirmed | Xero Platinum partner offering cloud accounting and "report automation" to clients — automation, not AI-specific | adjacent-signal |
+| 85 | Roberts Nathan (now Baker Tilly Ireland) | Professional services (accountancy) | Cork/Dublin | Irish member firm | 70+ staff/partners | As Baker Tilly Ireland, states AI is "being embedded across the business" for data analysis; network acquired Alirrium (RPA/AI) Oct 2024 | AI-specific evidence |
+| 86 | Gallagher Keane | Professional services (accountancy) | Dublin | Irish-owned | unconfirmed | Uses Xero/Hubdoc for automated bookkeeping/data entry — automation, no AI-specific evidence | adjacent-signal |
+| 87 | Baker Tilly Kirk | Professional services (accountancy) | Louth | Irish (independent network member) | unconfirmed | No Louth-specific evidence; sits within Baker Tilly's global AI push (network affiliation only) | adjacent-signal |
+| 88 | RelateCare | Professional services (healthcare outsourcing/patient engagement) | Waterford | Irish-owned | unconfirmed | Confirms it "leverages automation and self-service options" across patient contact-centre platforms | adjacent-signal |
+| 89 | Niche SSP | Professional services (construction estimating/staffing) | Donegal | Irish-owned (family) | unconfirmed | States it uses an "AI-based CRM" to match preconstruction/estimating talent to US clients | AI-specific evidence |
+| 90 | Abbey Group (Ireland & UK) | Professional services (destination management/travel) | Dublin | Irish-owned | unconfirmed | Advanced digital platform (live availability, API webservices, marketplace integrations) — digital transformation, no AI-specific evidence | adjacent-signal |
+| 91 | MTM Engineering | Construction & engineering (M&E) | Meath | Irish-owned | unconfirmed | No AI/automation evidence found | sector-reasoned |
+| 92 | Ohk Energy | Manufacturing/installation (renewable energy retrofit) | Monaghan | Irish-owned | 270+ staff | No AI/automation evidence found | sector-reasoned |
+| 93 | IQ Financial | Financial services (financial planning) | Sligo | Irish-owned | unconfirmed | No company-specific evidence found | sector-reasoned |
+| 94 | Copper Coast Renewables | Manufacturing/energy (ESG/renewables) | Waterford | Irish-owned | unconfirmed | Company confirms "investigating adding AI to automate as many processes as possible," on top of a self-built ERP/CRM system | AI-specific evidence |
+| 95 | NEG8 Carbon | Manufacturing (cleantech/carbon capture) | Waterford | Irish-owned | unconfirmed | Core technology is electrostatic Direct Air Capture hardware, not software AI; no AI/automation evidence found | sector-reasoned |
+| 96 | Liberty Blue Estate Agents | Professional services (property/estate agency) | Waterford | Irish-owned | up to 20 employees | Proprietary "Sell Smart System" for faster sales processes — branded, not confirmed as AI | adjacent-signal |
+| 97 | Cavanaghs of Charleville | Retail (motor dealer) | Cork | Irish-owned | ~15 employees | No AI/automation evidence found beyond standard website tooling | sector-reasoned |
 
 ---
 
 ## Why 97, not 100
 
-The agent stopped 3 short rather than pad the list with weak or unverifiable names to hit a round number — consistent with the zero-fabrication standard. Topping up to 100 is possible with a targeted follow-up pass (see gaps below), but I'd rather flag the gap honestly than fill it with filler.
+Unchanged from the original research pass — the agent stopped 3 short rather than pad the list with weak or unverifiable names to hit a round number.
 
-## Research method
-Live web search across Deloitte Ireland's Best Managed Companies programme (2022–2025), regional Chamber of Commerce and County/National Enterprise Awards (2025 cycle), Irish Family Business Awards 2025, and sector press. Every company verified as real and currently operating via at least one independent source.
-
-## Where coverage is thin (candidates for a top-up pass or List 2)
-- **Credit unions and MGAs** — under-represented relative to their AI Act relevance (regulated lending/underwriting decisions). Only 5 verified. Worth a dedicated pass against the Irish League of Credit Unions directory and Central Bank regulated-firms register.
-- **Technology sector** — deliberately thin (1 entry). Most Irish "tech SME" candidates found (Ergo, DigitalWell, Granite Digital, Nostra, CluneTech, Kefron) are themselves AI/software/digital-agency businesses — excluded as peers/competitors rather than buyers, per your criteria.
-- **Education/training** — only 2 names; private further-education providers don't show up much in award/grant press.
-- **Leitrim** — no clean candidate found that wasn't itself an AI-native business.
+## Research method (revision pass)
+Fresh, targeted per-company web search hunting specifically for AI/automation evidence — press mentions, job postings, EI/LEO programme participation, case studies, AI-body membership (CeADAR, Lero, Enterprise Ireland). Original business-quality facts (awards, size figures) were not restated as AI evidence unless a genuine AI/automation fact was also independently found.
 
 ## Caveats before outreach
-1. **Scale figures are mostly unconfirmed.** Most of these private mid-market companies don't publish headcount/turnover. Check CRO filings or LinkedIn before quoting a size to any prospect.
-2. **Some Best Managed Companies entries are Northern Ireland-headquartered** and were already excluded from this list (Creagh Concrete, Mivan, Dowds Group, Frylite, Around Noon, Re-Gen, Kilwaughter Minerals, Specialist Group, Clarke, S&W Wholesale, Marcon Fit-Out UK entity) — several Irish award programmes cover the island of Ireland, not just the Republic, so double-check any similarly-named company before an approach.
-3. **Ownership can change fast.** Eirgen Pharma (Waterford) and McCabes Pharmacy were excluded despite strong award signals — both are now foreign-owned. Worth a quick ownership check on any name here before a pitch, especially pharma and retail where M&A is frequent.
-4. **"Specific-signal" ≠ confirmed AI investment.** Even the specific-signal rows are grounded in an award, grant, or a size/regulatory fact — not an actual AI project. Treat all 97 as qualified leads for a first conversation, not confirmed AI-adoption opportunities.
-5. A few entries (credit unions, dairy co-ops) have elected/member-board governance rather than a single owner — still fits the "small board, not corporate procurement" profile, flagged rather than hidden.
+1. **"AI-specific evidence" is sourced from public statements, press, or named programme partnerships** (CeADAR, Lero, Enterprise Ireland awards) — not from direct LinkedIn job-board scraping or grant-database lookups, which were impractical via search. Each of the 18 AI-specific rows should be spot-checked before external use.
+2. **A few "intention to invest" hits (rows 1, 61) came from a third-party tech-intelligence vendor** that infers future AI/ML intent from a company's general software footprint, not a confirmed deployment. Deliberately kept at adjacent-signal rather than upgraded — exactly the "inference stacked on a fact" problem this revision was meant to fix.
+3. **A handful of searches surfaced confusingly-named unrelated companies** (a US "Sligo AI" platform, "Insomnia Cookies" AI loyalty tech, an unrelated independent hardware store's chatbot) — none were used as evidence for the actual named Irish company.
+4. **44 of 97 companies remain sector-reasoned** — professional services (most law firms, most accountants, most recruiters), food/agri producers, several M&E/construction subcontractors, and most SME retailers/dealers. This is honestly reported as absence of public evidence, not converted into a confidence upgrade. It's also consistent with reality — many genuine SME AI adopters simply don't generate public search footprint.
+5. **Ownership can change fast** — already flagged in the original pass (Eirgen Pharma, McCabes Pharmacy excluded on ownership grounds); worth a quick CRO/ownership check on any name here before a pitch.
 
 ---
 
