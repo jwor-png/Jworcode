@@ -54,8 +54,9 @@ Per governance: no technical or commercial commitment proceeds without Shane McC
 - **Format John wants:** List 1 — 100 companies, approached early next week (w/c 10 Aug). List 2 — 100 companies, following week (w/c 17 Aug). Additional criteria expected to emerge after first-round approaches land.
 - **Route:** Cuan builds the two lists → John reviews → passes to Shane for scrutiny → Shane runs his own verification pass before outreach → John and Shane decide approach sequencing together.
 - **Meridian domain mapping (John asked 3 Aug):** treating this as a live Meridian working example — primarily AI Strategy & Adoption (fit/signal scoring) and Commercial & Deal (approach sequencing, decision-speed), with Business Transformation & Growth as a secondary lens on reachability. Not routing through Legal & Governance / Finance & Restructuring / Property & Development / AI Equity & Investment — not relevant to this task.
-- **Status (3 Aug):** List 1 research underway — real, named Irish companies only, sourced against public signals rather than assumed/invented specifics, consistent with Shane's Standards. No fabricated claims per company.
-- **Tomorrow's action:** review List 1 once delivered; confirm before it goes to Shane
+- **Status (3 Aug):** List 1 delivered — 97 verified, real, named Irish companies (target was 100; agent stopped short rather than pad with unverifiable names — see `list_1_prospects.md` for full list, sourcing method, coverage gaps, and caveats). Sourced from Deloitte Best Managed Companies, regional Chamber/Enterprise Awards, Irish Family Business Awards, sector press. Every entry independently verified as real and currently operating.
+- **Known gaps for a top-up pass or List 2:** credit unions/MGAs under-represented, tech sector deliberately thin (most candidates were AI-native peers, excluded), education/training thin, no clean Leitrim candidate.
+- **Tomorrow's action:** [ASK John] — review `list_1_prospects.md`; confirm whether to top up to 100 before sending to Shane, or pass at 97; then greenlight List 2 research
 
 ---
 
