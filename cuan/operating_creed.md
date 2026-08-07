@@ -41,12 +41,10 @@ Last updated: 29 July 2026 (post board meeting prep, pre-review)
 - **SkillNet registration for Velocity AI** — to be actioned, needs company details
   (address, sector, employee numbers).
 - **AHL July invoice** — sent to Nicola/Dave, awaiting payment.
-- **Julianstown (John Lynch)** — payment of €1,500 received 30 July, bringing
-  the confirmed balance to €6,500. Updated balancing statement drafted 6
-  August, held for John's review (he was away from his desk) — NOT yet sent.
-  Open question flagged on the statement: whether the August monthly amount
-  (~€3,000, due 1 August) has been applied/communicated yet — if so, balance
-  becomes €9,500. John to review and confirm before sending.
+- **Julianstown (John Lynch)** — updated balancing statement (including the
+  August €3,000 monthly amount, balance €9,500 as at 6 August) sent to John
+  Lynch 6 August, along with a request for a further payment in early course.
+  Awaiting his response/payment.
 - **Kilmallock Economic Enterprise Development (KEED)** — JJ Craft Brewing (John
   Coughlan) has expressed interest in buying the premises. John to talk to Richard
   Egan this week (Wed/Thu) on where the GVM valuation stands, and to progress a
