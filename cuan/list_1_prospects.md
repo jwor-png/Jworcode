@@ -10,6 +10,14 @@ Sourced via live web search: Deloitte Ireland's Best Managed Companies programme
 
 **Confidence key:** *specific-signal* = a concrete public data point found (award, grant, press mention). *sector-signal* = reasoned from sector/size/regulatory exposure without a specific data point — not confirmed AI activity.
 
+**Honest read on signal strength (added 3 Aug, per John's direct question):** "specific-signal" should not be read as confirmed AI investment. In most rows the concrete data point is a business-quality fact — a Deloitte Best Managed Company award, a regional Business of the Year title, a size figure — with AI-relevance reasoned on top of it, not evidence of an actual AI project. Only a small number of rows (e.g. #1 St. Raphael's Garda CU's Temenos platform investment, #31 H&MV's "Digital Performance Hub" award, #45 CEC's regulated pharma/medtech client base) have anything close to AI-specific evidence. Treat the list as 97 well-qualified candidates for a first conversation, not 97 confirmed AI adopters. If Shane's requirement is confirmed AI investment specifically, most rows do not clear that bar on current evidence.
+
+## Briefing note — what this is, in plain terms
+
+This is not a governance-led list. Selection was on general AI-relevance (sector exposure, scale, regulatory pressure, digital-transformation signal), not "who needs governance advisory." Framing it as a governance play would misrepresent the actual basis for inclusion.
+
+For outreach purposes, this should not be introduced by product or entity name. It should be introduced as what Shane and John, between them, can actually bring to a business at this stage: practical AI strategy and adoption advice grounded in real commercial and governance experience, hands-on technical AI architecture and implementation capability, and straight, board-level judgement on where AI genuinely helps versus where it's hype. The offer is the two of them and what they know — not a branded product.
+
 ---
 
 | # | Company | Sector | Region | Ownership | Approx. scale | AI-relevance signal | Confidence |
