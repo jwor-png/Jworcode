@@ -61,6 +61,7 @@ Per governance: no technical or commercial commitment proceeds without Shane McC
 - **Tomorrow's action:** [ASK John] — review `list_1_prospects.md`; confirm whether to top up to 100 before sending to Shane, or pass at 97; decide whether List 1 needs an evidence-strengthening pass before it goes to Shane, given the signal-strength finding above
 - **List 2 status (3 Aug):** first attempt failed — hit a session usage limit, resets 6pm UTC. Not a content/methodology issue. Retried once limit cleared — running with upgraded brief (AI-specific evidence prioritised, three-tier confidence, dedup against List 1).
 - **List 1 revisit (3 Aug, John):** John asked for List 1 to be re-run against the same revised/upgraded evidence criteria used for List 2 (genuine AI-specific evidence sought per company, three-tier confidence tagging, rather than business-quality-award-plus-inference). Running now — will replace the confidence tagging in `list_1_prospects.md` once back.
+- **Delivery format (3 Aug, John):** John wants both lists sent to Shane via WhatsApp with criteria. Plan: condensed plain-text WhatsApp draft per list (company + one-line AI-relevance note + confidence tag, grouped by sector, no markdown tables, no dividers, no em dashes) — WhatsApp won't render the full detail tables. Full detail stays in `list_1_prospects.md` / `list_2_prospects.md` for Shane to open if wanted. Cuan drafts only — John reviews and sends himself.
 
 ---
 
