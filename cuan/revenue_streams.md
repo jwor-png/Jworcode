@@ -59,6 +59,7 @@ Per governance: no technical or commercial commitment proceeds without Shane McC
 - **Signal-strength finding (3 Aug, John asked directly):** the AI-adoption evidence in List 1 is NOT uniformly strong. Most "specific-signal" rows are actually verified business-quality facts (an award, a size fact) with AI-relevance reasoned on top — not direct evidence of AI investment. Only a small minority have genuine AI-specific evidence. If Shane's hard requirement is confirmed AI investment, most of List 1 clears a lower bar ("plausible for a first conversation") rather than that bar. Confidence tiering needs to stay honest about this in the briefing — do not let "specific-signal" be read as "confirmed AI investment."
 - **Known gaps for a top-up pass or List 2:** credit unions/MGAs under-represented, tech sector deliberately thin (most candidates were AI-native peers, excluded), education/training thin, no clean Leitrim candidate.
 - **Tomorrow's action:** [ASK John] — review `list_1_prospects.md`; confirm whether to top up to 100 before sending to Shane, or pass at 97; decide whether List 1 needs an evidence-strengthening pass before it goes to Shane, given the signal-strength finding above
+- **List 2 status (3 Aug):** first attempt failed — hit a session usage limit, resets 6pm UTC. Not a content/methodology issue. Will retry with the same upgraded brief (AI-specific evidence prioritised, three-tier confidence, dedup against List 1) once the limit clears.
 
 ---
 
