@@ -305,6 +305,17 @@ leads.
 - **Key channels:** Smacht network (~300 Irish SMEs via Padraic O'Maille),
   professional referral partners (accountants, solicitors).
 - **Anchor deadline:** 2 August 2026 — compliance campaign launch.
+- **Market context (Irish Independent, 7 Aug 2026, Sarah Collins):** Ireland
+  taking a more assertive EU AI Act enforcement stance despite US/Trump
+  tariff pressure and industry pushback (Google hit with a billion-dollar
+  EU fine; OpenAI owner calling Irish regulation "toughest in the world").
+  Fines up to €15m or 3% global turnover. EU Commissioners want reciprocity
+  from non-EU AI providers; US already imposing export controls on
+  Anthropic/OpenAI models over security concerns. 73% of Americans in a
+  June poll want AI regulated. Irish government itself now using AI
+  in-house (Taoiseach's dept, DFA, Passport Office chatbot) — Sinn Féin
+  has tabled PQs on this. Reinforces the compliance-urgency case for the
+  Ambrion campaign — real enforcement risk, not theoretical.
 - **Live thread:** Friday outreach campaign to Glennon Brothers (Mike Glennon)
   and 3-5 other priority companies from the 24-list — still needs contacts
   confirmed.
