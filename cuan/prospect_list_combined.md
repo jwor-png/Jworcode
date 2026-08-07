@@ -1,4 +1,4 @@
-# Combined Prospect List — 119 Irish Businesses
+# Combined Prospect List — 125 Irish Businesses
 
 Prepared for Shane review. Private / internal — not for external circulation. Part of Stream 7 in `revenue_streams.md`. Combines the former List 1 (97) and List 2 (22) into a single working list, per John's direction (3 Aug) — the volume split into two weekly batches is superseded by a wider, rolling target of 200+ over the coming weeks.
 
@@ -6,7 +6,7 @@ Criteria: Irish-owned/founded, mid-market or regional, decision-maker reachable 
 
 **Confidence key** (three-tier, applied consistently across both batches): **AI-specific evidence** (a concrete AI/data/automation-related fact found — a named AI tool, an AI research partnership, a company statement about live AI use) / **adjacent-signal** (a real digital-transformation or automation fact, not explicitly AI) / **sector-reasoned** (no specific evidence found even after search, reasoned from sector/regulatory exposure alone).
 
-**Mix across all 119:** 28 AI-specific evidence · 42 adjacent-signal · 49 sector-reasoned.
+**Mix across all 125:** 32 AI-specific evidence · 44 adjacent-signal · 49 sector-reasoned.
 
 ## Briefing note — what this is, in plain terms
 
@@ -143,11 +143,35 @@ This is not a governance-led list. Selection was on general AI-relevance (sector
 | 118 | Lily O'Brien's | Food manufacturing (chocolate) | Co. Kildare | Irish-owned | SME | Same summit attendance; no internal AI adoption confirmed | sector-reasoned |
 | 119 | West Cork Distillers | Beverage manufacturing (whiskey/spirits) | Skibbereen, Co. Cork | Irish-owned (O'Connell/McCarthy families) | SME | Same summit attendance; MD spoke generally on efficiency, not AI specifically | sector-reasoned |
 
+## Batch C (CeADAR ecosystem widening pass — case studies, DTIF consortium press releases, membership announcements)
+
+| # | Company | Sector | Region | Ownership | Approx. scale | AI-relevance evidence | Confidence |
+|---|---|---|---|---|---|---|---|
+| 120 | Healthdaq | Healthcare recruitment / HealthTech platform | Dublin | Irish-founded (~2015; offices also UK/Canada/Australia) | SME | CeADAR EDIH Digital Maturity Assessment led to two named AI projects: a CV-parsing tool and a candidate-matching tool — published CeADAR case study | AI-specific evidence |
+| 121 | Reivr Fusion | MedTech / hospital equipment IoT (sensor-fusion, RTLS tracking) | Cork (Tyndall/UCC collaboration) | Irish-founded | Small | CeADAR Test Before Invest funded a "Customer Quotation ChatBot" to automate sales/quoting — published case study | AI-specific evidence |
+| 122 | Profix Maintenance Services Ltd | Building/property maintenance (storm, fire, flood repair; commercial contracts) | Cork (Pouladuff), founded 2007 | Irish-owned | Small | CeADAR Test Before Invest paired them with a data scientist to prototype automated quote generation — published case study | AI-specific evidence |
+| 123 | WorkJuggle | Recruitment / HR-tech platform (flexible, remote & contract staffing) | Dublin, founded 2016 | Irish-founded | SME | CeADAR EDIH built a "User-Centric Learning Prototype," explicitly built AI-ready but AI not included in v1; repeat enterprise panellist at CeADAR AI-adoption events | adjacent-signal |
+| 124 | Greenman Investments | Real estate investment/fund management (grocery-anchored retail portfolio, Europe) | Dublin, founded 2005 | Irish-owned (first Irish-owned AIFM) | ~51–200 employees | Joined CeADAR as an industry member specifically to access its analytics/ML/AI expertise to "future-proof" properties; no single named AI project | adjacent-signal |
+| 125 | Dawn Farms (Dawn Farm Foods Ltd) | Agri-food manufacturing (cooked meat & plant-protein ingredients) | Naas, Co. Kildare, founded 1985 | Irish family-owned | Large (1,000+ staff, two Irish sites, exports 44+ markets) | Named partner (with Creme Global and CeADAR/UCD) on the €3m DTIF-funded "PERCEPTION" project — AI platform predicting consumer response to new food products pre-manufacture | AI-specific evidence |
+
+Note: Dawn Farms is a scale outlier for this list (materially larger than "mid-market") — kept in because it's genuinely Irish family-owned with a real decision-maker and has the strongest CeADAR AI evidence found; flag for a judgement call on fit.
+
 ---
 
 ## Next: widening the net toward 200+
 
-John's direction (3 Aug): the two-week, two-batch structure is superseded — target is 200+ companies over the coming weeks, reflecting that there are many thousands of Irish businesses to work through. CeADAR flagged as a representative, promising group to pursue further — it's the single richest source of genuine AI-specific evidence found so far (Batch B rows 98–101), and per earlier research it has 90+ member companies, though its full membership list isn't published in searchable form. Next research pass should attempt to identify more of CeADAR's member companies by name (project pages, case studies, partner listings, event attendee lists) as the next widening step, alongside continuing the same sector/region sweep approach used for Batches A and B.
+John's direction (3 Aug): the two-week, two-batch structure is superseded — target is 200+ companies over the coming weeks, reflecting that there are many thousands of Irish businesses to work through.
+
+**Honest finding on CeADAR (3 Aug):** CeADAR was flagged as a promising, representative source. The widening pass found it genuinely differentiated on evidence quality (4 of 6 new companies have real AI-specific evidence) but structurally thin on volume — most of CeADAR's 90+ members are never named in public, search-indexed content (case studies, DTIF press releases and conference panels are the only windows in, and each names only a handful of companies at a time). Only 6 clean, non-duplicate, non-peer companies were substantiated in this pass. CeADAR alone will not carry the list to 200+.
+
+**Recommended next avenues, to run alongside continued CeADAR mining:**
+- Local Enterprise Office AI/Innovation voucher recipient lists (often published per-county)
+- Skillnet Ireland AI-related training cohort announcements
+- Chambers Ireland / regional Chamber award shortlists (a proven source already, per Batch A)
+- IDA/Enterprise Ireland client-success press pages
+- Direct outreach to CeADAR requesting their member list — a real two-person advisory firm asking directly is plausible and would likely yield far more than public search ever will
+
+**Tooling constraint worth flagging:** the research agent's WebFetch tool was blocked for every domain this session (confirmed via a control test against unrelated sites, not a CeADAR-specific block), so CeADAR's own case-study index and member directory pages could never be opened directly — only search-engine snippets of them. A session with working page access, or a human browsing directly, would likely surface more.
 
 ## Caveats carried forward from both batches
 1. Scale figures are mostly unconfirmed — check CRO filings/LinkedIn before quoting a size to any prospect.
