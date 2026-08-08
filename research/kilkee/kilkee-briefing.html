@@ -1,0 +1,516 @@
+<title>Kilkee Wastewater Treatment Plant: What Is Still Open</title>
+
+<style>
+  :root {
+    --ground: #f6f7f8;
+    --surface: #ffffff;
+    --ink: #14191d;
+    --ink-soft: #59656d;
+    --ink-faint: #8b979e;
+    --rule: #dde2e5;
+    --accent: #1b5a66;
+    --accent-soft: #e6eef0;
+    --alert: #943c24;
+    --alert-soft: #f7eae5;
+    --serif: Georgia, "Iowan Old Style", "Palatino Linotype", Palatino, serif;
+    --sans: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --ground: #0e1316;
+      --surface: #161d21;
+      --ink: #e3e9eb;
+      --ink-soft: #93a1a8;
+      --ink-faint: #6b797f;
+      --rule: #283237;
+      --accent: #74b6c2;
+      --accent-soft: #15272c;
+      --alert: #dc9075;
+      --alert-soft: #2a1a13;
+    }
+  }
+
+  :root[data-theme="dark"] {
+    --ground: #0e1316;
+    --surface: #161d21;
+    --ink: #e3e9eb;
+    --ink-soft: #93a1a8;
+    --ink-faint: #6b797f;
+    --rule: #283237;
+    --accent: #74b6c2;
+    --accent-soft: #15272c;
+    --alert: #dc9075;
+    --alert-soft: #2a1a13;
+  }
+
+  body {
+    background: var(--ground);
+    color: var(--ink);
+    font-family: var(--serif);
+    font-size: 17px;
+    line-height: 1.62;
+    margin: 0;
+    padding: 0 1.25rem 6rem;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  .wrap {
+    max-width: 41rem;
+    margin: 0 auto;
+  }
+
+  /* Masthead */
+
+  header.masthead {
+    padding: 3.5rem 0 2rem;
+    border-bottom: 2px solid var(--ink);
+    margin-bottom: 2.5rem;
+  }
+
+  .eyebrow {
+    font-family: var(--sans);
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.13em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin: 0 0 1.1rem;
+  }
+
+  h1 {
+    font-size: clamp(1.9rem, 5.5vw, 2.6rem);
+    line-height: 1.14;
+    font-weight: 400;
+    letter-spacing: -0.015em;
+    text-wrap: balance;
+    margin: 0 0 1rem;
+  }
+
+  .standfirst {
+    font-size: 1.08rem;
+    color: var(--ink-soft);
+    margin: 0 0 1.5rem;
+    text-wrap: pretty;
+  }
+
+  .byline {
+    font-family: var(--sans);
+    font-size: 0.78rem;
+    color: var(--ink-faint);
+    letter-spacing: 0.02em;
+    margin: 0;
+  }
+
+  /* Sections */
+
+  section {
+    margin-bottom: 3rem;
+  }
+
+  h2 {
+    font-family: var(--sans);
+    font-size: 1.02rem;
+    font-weight: 700;
+    line-height: 1.35;
+    letter-spacing: -0.005em;
+    text-wrap: balance;
+    margin: 0 0 1.1rem;
+    padding-top: 1.1rem;
+    border-top: 1px solid var(--rule);
+    display: flex;
+    gap: 0.85rem;
+    align-items: baseline;
+  }
+
+  h2 .num {
+    font-size: 0.72rem;
+    font-weight: 600;
+    color: var(--accent);
+    letter-spacing: 0.08em;
+    flex: none;
+    font-variant-numeric: tabular-nums;
+  }
+
+  h3 {
+    font-family: var(--sans);
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--ink);
+    margin: 2rem 0 0.6rem;
+  }
+
+  p {
+    margin: 0 0 1.1rem;
+    text-wrap: pretty;
+  }
+
+  strong {
+    font-weight: 700;
+  }
+
+  em {
+    font-style: italic;
+  }
+
+  /* The three consents device */
+
+  .consents {
+    display: grid;
+    gap: 0.65rem;
+    margin: 0 0 1.4rem;
+    padding: 0;
+    list-style: none;
+  }
+
+  .consent {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 0.9rem;
+    align-items: start;
+    background: var(--surface);
+    border: 1px solid var(--rule);
+    border-left: 3px solid var(--rule);
+    padding: 0.95rem 1.1rem;
+  }
+
+  .consent.held {
+    border-left-color: var(--ink-faint);
+  }
+
+  .consent.open {
+    border-left-color: var(--accent);
+  }
+
+  .consent .state {
+    font-family: var(--sans);
+    font-size: 0.62rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 0.28rem 0.5rem;
+    white-space: nowrap;
+    border-radius: 2px;
+  }
+
+  .consent.held .state {
+    background: var(--ground);
+    color: var(--ink-faint);
+    border: 1px solid var(--rule);
+  }
+
+  .consent.open .state {
+    background: var(--accent-soft);
+    color: var(--accent);
+    border: 1px solid var(--accent);
+  }
+
+  .consent .label {
+    font-family: var(--sans);
+    font-size: 0.9rem;
+    font-weight: 700;
+    display: block;
+    margin-bottom: 0.2rem;
+  }
+
+  .consent .detail {
+    font-size: 0.94rem;
+    color: var(--ink-soft);
+    line-height: 1.5;
+  }
+
+  /* Callouts */
+
+  .urgent,
+  .caveat {
+    border: 1px solid;
+    padding: 1.15rem 1.25rem;
+    margin: 0 0 1.4rem;
+  }
+
+  .urgent {
+    border-color: var(--alert);
+    background: var(--alert-soft);
+  }
+
+  .caveat {
+    border-color: var(--rule);
+    background: var(--surface);
+  }
+
+  .urgent .tag,
+  .caveat .tag {
+    font-family: var(--sans);
+    font-size: 0.64rem;
+    font-weight: 700;
+    letter-spacing: 0.11em;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 0.55rem;
+  }
+
+  .urgent .tag {
+    color: var(--alert);
+  }
+
+  .caveat .tag {
+    color: var(--ink-faint);
+  }
+
+  .urgent p:last-child,
+  .caveat p:last-child {
+    margin-bottom: 0;
+  }
+
+  .urgent p,
+  .caveat p {
+    font-size: 0.96rem;
+    line-height: 1.55;
+  }
+
+  /* Lists */
+
+  ol.steps,
+  ul.plain {
+    padding-left: 1.3rem;
+    margin: 0 0 1.2rem;
+  }
+
+  ol.steps li,
+  ul.plain li {
+    margin-bottom: 0.7rem;
+    padding-left: 0.3rem;
+  }
+
+  ol.steps li::marker {
+    font-family: var(--sans);
+    font-size: 0.82rem;
+    font-weight: 700;
+    color: var(--accent);
+  }
+
+  /* Pull statement */
+
+  .pull {
+    font-size: 1.2rem;
+    line-height: 1.4;
+    color: var(--accent);
+    border-left: 3px solid var(--accent);
+    padding: 0.15rem 0 0.15rem 1.2rem;
+    margin: 1.8rem 0;
+    text-wrap: pretty;
+  }
+
+  /* Drop list for things to stop saying */
+
+  .drop {
+    border-top: 1px solid var(--rule);
+    padding-top: 1rem;
+    margin-top: 1.4rem;
+  }
+
+  .drop:first-of-type {
+    margin-top: 0;
+  }
+
+  .drop .claim {
+    font-family: var(--sans);
+    font-size: 0.88rem;
+    font-weight: 700;
+    margin: 0 0 0.45rem;
+  }
+
+  .drop p {
+    font-size: 0.96rem;
+    margin-bottom: 0;
+    color: var(--ink-soft);
+  }
+
+  footer {
+    margin-top: 3.5rem;
+    padding-top: 1.5rem;
+    border-top: 2px solid var(--ink);
+    font-family: var(--sans);
+    font-size: 0.78rem;
+    color: var(--ink-faint);
+    line-height: 1.6;
+  }
+
+  a {
+    color: var(--accent);
+  }
+
+  a:focus-visible,
+  :focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+
+  @media (max-width: 34rem) {
+    body { font-size: 16.5px; }
+    header.masthead { padding-top: 2.5rem; }
+    .consent { grid-template-columns: 1fr; gap: 0.6rem; }
+    .consent .state { justify-self: start; }
+  }
+</style>
+
+<div class="wrap">
+
+  <header class="masthead">
+    <p class="eyebrow">Kilkee, County Clare</p>
+    <h1>The treatment plant is not a done deal</h1>
+    <p class="standfirst">What is still open after the High Court ruling, what is time critical, and the argument that has barely been made.</p>
+    <p class="byline">Briefing prepared 8 August 2026. Not legal advice. Read section 8 before acting on any of it.</p>
+  </header>
+
+  <section>
+    <h2><span class="num">01</span> Where it actually stands</h2>
+    <p>Uisce Éireann has planning permission, granted on appeal by An Coimisiún Pleanála on 11 June 2025, for a wastewater treatment plant at Foohagh and Kilkee Lower, off Dunlicky Road. Clare County Council had refused it. The Commission's own inspector recommended refusal. The Commission granted it anyway.</p>
+    <p>Six residents challenged that grant by judicial review. The High Court dismissed the challenge in July 2026. They have applied for leave to appeal and a decision is expected in September.</p>
+    <p>Most people reading the coverage have concluded the fight is over. It is not, and the reason is straightforward.</p>
+  </section>
+
+  <section>
+    <h2><span class="num">02</span> Uisce Éireann needs three things. It has one.</h2>
+
+    <ul class="consents">
+      <li class="consent held">
+        <span class="state">Held</span>
+        <span>
+          <span class="label">Planning permission</span>
+          <span class="detail">Granted June 2025 for ten years. Survived judicial review in July 2026.</span>
+        </span>
+      </li>
+      <li class="consent open">
+        <span class="state">Not held</span>
+        <span>
+          <span class="label">The land</span>
+          <span class="detail">It does not own the site. It is acquiring land, wayleaves and rights of way, and has said it will use compulsory acquisition where agreement cannot be reached. That is a separate legal process with its own decision, its own objection rights and its own hearing.</span>
+        </span>
+      </li>
+      <li class="consent open">
+        <span class="state">Not held</span>
+        <span>
+          <span class="label">Authorisation to discharge</span>
+          <span class="detail">Kilkee's discharge is licensed by the Environmental Protection Agency under licence D0078-01. A new plant with a new discharge arrangement requires that licence to be reviewed or replaced. A separate public process, run by a body independent of the planning system, and it invites submissions.</span>
+        </span>
+      </li>
+    </ul>
+
+    <p>Without the land, nothing is built. Without the discharge authorisation, nothing operates. Neither of those two processes has been contested yet.</p>
+  </section>
+
+  <section>
+    <h2><span class="num">03</span> The compulsory purchase order</h2>
+
+    <p>This is the most immediate point, and it has had almost no public attention.</p>
+    <p>Uisce Éireann acquires land under sections 32 and 93 of the Water Services Act 2007. The order is made, notices are served on affected owners and occupiers, objections may be lodged with An Coimisiún Pleanála, and the Commission may hold an oral hearing before it confirms, amends or rejects the order.</p>
+
+    <h3>It is a different decision</h3>
+    <p>The judicial review dealt with the planning grant. A compulsory purchase confirmation is a separate decision on separate statutory criteria, and it carries its own objection rights and its own route of challenge. The planning arguments being finished does not finish this.</p>
+
+    <h3>The legal test is different, and better</h3>
+    <p>Planning asks whether development is acceptable. A compulsory purchase asks whether taking this land is <strong>necessary</strong>. Taking private property engages Article 43 of the Constitution and Article 1 of Protocol 1 of the European Convention on Human Rights, and it has to be proportionate. Necessity and proportionality are questions a decision maker has to answer directly.</p>
+
+    <h3>An oral hearing puts the engineering under examination in public</h3>
+    <p>That has not happened once in this entire process. Every stage so far has been paper.</p>
+
+    <h3>The obsolescence argument aims straight at the necessity test</h3>
+    <p>It is one thing to tell a planning appeal that a design is short sighted. It is another to tell the body confirming a compulsory taking of somebody's land that the plant it is being asked to authorise a seizure for will not meet the legal standard by the time the permission expires.</p>
+
+    <div class="urgent">
+      <span class="tag">Time critical</span>
+      <p>The order appears to be before An Coimisiún Pleanála as the Uisce Éireann Compulsory Purchase (Kilkee Wastewater Treatment Plant) Order 2025. <strong>That reference has not been independently confirmed and the stage it has reached is not known.</strong> Anyone whose property may be affected should establish the position immediately. Objection periods in compulsory purchase are short and missing one is usually fatal.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2><span class="num">04</span> The EPA discharge licence</h2>
+    <p>The planning system decided where the plant goes. The EPA decides what it is allowed to discharge. These are different questions decided by different bodies, and the second one has not been decided.</p>
+    <p>At the EPA, treatment standard is not background context. It is the subject matter. Submissions can be made by anybody, they cost nothing, and there is no legal exposure in making one.</p>
+    <p>There is also a specific point to check. The Annual Environmental Report for licence D0078-01 is understood to list construction and operation of a <strong>secondary</strong> treatment plant as a required improvement, with a completion date of 2027. The plant that has planning permission is a preliminary and primary treatment plant. If that is accurate, two arms of the same State have specified two different plants for the same town. Verify it directly from the EPA record before saying it publicly, but if it holds it is the most serious point in the file.</p>
+  </section>
+
+  <section>
+    <h2><span class="num">05</span> The core argument: out of date before it is finished</h2>
+
+    <p>Lead with this. It is factual, it is checkable against published European law, and it does not depend on anybody's view of the landscape.</p>
+
+    <h3>The plant is designed to a standard European law is about to withdraw</h3>
+    <p>Directive (EU) 2024/3019, the recast Urban Wastewater Treatment Directive, was adopted on 27 November 2024. It extends secondary treatment to all discharges from agglomerations of 1,000 population equivalent and above. The general compliance date is 31 December 2035.</p>
+
+    <h3>The permission runs out at almost exactly the same moment</h3>
+    <p>It was granted on 11 June 2025 for ten years. The permitted plant reaches the end of its permission at roughly the point European law requires a higher standard than it delivers.</p>
+
+    <h3>Kilkee may not even qualify for the extension</h3>
+    <p>There is a derogation to 31 December 2037 for coastal agglomerations of between 2,000 and 10,000 population equivalent, but it applies to places that <strong>were already applying appropriate treatment on 1 January 2025</strong>. Kilkee was applying none. It was discharging unscreened, untreated sewage. On a strict reading of that condition Kilkee does not qualify for the later date. This needs checking against the operative text before it is relied on, but if it is right it matters.</p>
+
+    <h3>The urgency being used to justify this is urgency the State created</h3>
+    <p>Article 7 of the 1991 Urban Wastewater Treatment Directive required appropriate treatment for coastal discharges from agglomerations below 10,000 population equivalent by 31 December 2005. Kilkee has had none for more than twenty years since that date. Uisce Éireann now relies on the urgent need to stop raw sewage discharge as the reason this particular scheme must proceed. The delay it is relying on is its own.</p>
+
+    <p class="pull">Nobody has published an assessment of whether the site can take the upgrade. If it cannot, the State is compulsorily acquiring a coastal site for a plant that has to be built twice.</p>
+
+    <h3>One further technical point worth pressing</h3>
+    <p>The public case for the scheme rests heavily on bathing water quality. Primary treatment is settlement. Solids drop out in tanks and are removed. It is not disinfection, and it does not reliably reduce the bacteria that bathing water standards are measured on. Whether this scheme actually improves bathing water at Kilkee depends on the outfall dispersion modelling, not on the tanks. Ask for that modelling. It is a fair question and it deserves a straight answer either way.</p>
+  </section>
+
+  <section>
+    <h2><span class="num">06</span> What you can actually do</h2>
+
+    <h3>If you own property in or near Kilkee</h3>
+    <ol class="steps">
+      <li>Check whether you have been served with any notice from Uisce Éireann relating to a compulsory purchase order, wayleave or right of way, including anything that came through during 2025. If you have, or if you are not sure, speak to a solicitor this week rather than next month.</li>
+      <li>Establish whether your property, or any land or access you rely on, appears in the deposited schedule and map for the order. The deposited documents are the definitive record, not the newspaper coverage.</li>
+      <li>If you are an affected party, object and ask for an oral hearing. Affected owners carry more weight in this process than the general public, because it is their property being taken.</li>
+      <li>Get the measured distance from your house to the nearest open tank, to the pumping station and to the pipework. Not the distance quoted in the coverage, the actual one. The figures in circulation are measured to different points and used interchangeably.</li>
+      <li>Make a submission when the EPA licence process opens.</li>
+    </ol>
+
+    <h3>If you do not own property there but you care about the place</h3>
+    <ol class="steps">
+      <li>Make a submission in the EPA licence process. Anyone can. It costs nothing and there is no legal risk. The tourism and visitor economy point is legitimate and it belongs there.</li>
+      <li>Complain to the European Commission. Any citizen may complain that a member state is not applying European law properly. No standing requirement, no fee, no cost exposure. Ireland's failure to provide any treatment for Kilkee since 2005 is a matter of record, not opinion.</li>
+      <li>Carry the argument in section 5 rather than the argument about the view. The obsolescence point is the one that is hard to answer.</li>
+    </ol>
+
+    <p class="pull">The position that wins is not "not here". It is build it once, build it right.</p>
+
+    <p>Kilkee needs treatment and everyone accepts that. The objection is to spending public money on a plant that European law will make insufficient inside its own permission, on a site that will then have to be dug up again. That position concedes what is true, it puts the burden back on Uisce Éireann, and it cannot be dismissed as objecting for the sake of it.</p>
+  </section>
+
+  <section>
+    <h2><span class="num">07</span> Three things worth dropping</h2>
+    <p>Said plainly because each one is currently being used to discredit the whole case. Dropping all three costs nothing and removes the other side's best line, which is that the opposition is built on misinformation.</p>
+
+    <div class="drop">
+      <p class="claim">Comparing 20,000 summer visitors to the design figure of 7,926</p>
+      <p>Those are different units. Population equivalent measures organic load, not heads. Any engineer who hears the two compared directly will discount everything said after it. The real question is hydraulic: what peak flow does the plant take before the emergency storage fills, and where does the flow go then.</p>
+    </div>
+
+    <div class="drop">
+      <p class="claim">Describing the tanks as constantly agitated open tanks of raw sewage</p>
+      <p>Primary settlement tanks are not aerated. If the description is inaccurate it will be used to undermine the accurate points.</p>
+    </div>
+
+    <div class="drop">
+      <p class="claim">The claim that sludge will be incinerated in Limerick</p>
+      <p>Uisce Éireann says it operates no such facility and that sludge goes to licensed off site treatment. Unless there is evidence to the contrary, this one should go.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2><span class="num">08</span> Caveat</h2>
+    <div class="caveat">
+      <span class="tag">Read before acting</span>
+      <p>This briefing is drawn from the public record, from published European law and from media reporting. It is not legal advice and it is not a substitute for it.</p>
+      <p>The compulsory purchase order reference and its current stage have not been independently verified. Anyone whose property may be affected must confirm the position directly with An Coimisiún Pleanála, with Uisce Éireann, or through a solicitor, and must do so urgently.</p>
+      <p>The reading of the derogation condition in the recast Directive is an interpretation of published text and has not been confirmed by a lawyer. It should be checked against the operative Articles before being asserted publicly.</p>
+      <p>Statutory deadlines in compulsory purchase are strict. If anything in section 6 applies to you, take proper advice now.</p>
+    </div>
+  </section>
+
+  <footer>
+    Kilkee wastewater treatment plant. Clare County Council 24/60002. An Coimisiún Pleanála ACP 321258. High Court 2025 JR 1205. EPA licence D0078-01.
+  </footer>
+
+</div>
