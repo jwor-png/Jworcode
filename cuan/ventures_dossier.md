@@ -34,6 +34,20 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 
 ---
 
+## Kilmallock Water
+- **What it is:** Natural water bottling plant development and water sourcing business in Kilmallock, Co. Limerick.
+- **Analysis:** Shane McCarthy's feasibility study (April 2025) identifies optimal extraction sites, processing locations, and resource potential using geological surveys, historical records, and hydrological analysis.
+- **Key findings:** Multiple high-yield spring sources identified; historical precedent from mills and breweries; holy wells and aquifer systems documented; Knocksouna farm site historically considered for water-based development.
+- **Stakeholder engagement:** Ballyhoura Development (interested, supportive); Limerick County Council (formally engaged, early stages); Paddy Murphy (Water Diviner, site identification).
+- **Market:** Ireland and international (bottled water, processing).
+- **Primary challenge:** Capital cost of processing/bottling plant; market development and distribution route.
+- **John's role:** Opportunity identification, stakeholder coordination, early-stage commercial framing.
+- **Partner:** Shane McCarthy — feasibility research and technical analysis; potentially Dan Ferheny (investor/operator for capital and market development).
+- **Status:** Feasibility research complete; active engagement with local government and development partners; capital and operational partner needed.
+- **Confidentiality:** Early-stage. Ballyhoura and County Council aware. Not for public circulation.
+
+---
+
 ## Ambrion AI
 - **What it does:** John's primary AI company. Governance advisory and EU AI Act compliance for Irish SMEs.
 - **Current focus:** Tiered done-for-you EU AI Act compliance offering, positioned against software-only platforms
