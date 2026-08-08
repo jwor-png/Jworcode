@@ -2,16 +2,32 @@
 
 Canonical description of what the Meridian engine is made of.
 
-The Suite is numbered I to III. Documents 01, 02 and 04 are filed. **Document 03 is still missing.**
+**The pack is complete.** Built with Shane, 29 July 2026. Filed by John, 7 August 2026.
 
 | File | What it is | Status |
 |---|---|---|
-| `01_Meridian_Map.md` | The anatomy: 7 managers, 50 skills, tiering, and the shared floor. | **Canonical** |
-| `02_Meridian_Wiring.pdf` | Suite II of III. How intent becomes a defensible decision: the route, the parallel fan-out, the independent critic, and the four floor rules. Text extract alongside for searching. Co-authored John Webb O'Rourke and Shane McCarthy. | **Canonical** |
-| *Document 03* | Referenced in Six Slices as carrying the seven-step template for adding a skill, and the instruction for lifting a cross-cutting skill into the orchestrator file. | **Missing. Requested from John.** |
-| `04_Six_Slices_to_Add.md` | Six further skills, written and placed, each with the exact line to paste and its home manager. Takes the engine from 50 to 56. | **Canonical, not yet applied** |
+| `00_START_HERE.md` | The pack's own cover note and reading order. | **Canonical** |
+| `01_Meridian_Map.md` | Suite I. The anatomy: 7 managers, 50 skills, tiering, and the shared floor. | **Canonical** |
+| `02_Meridian_Wiring.pdf` | Suite II. How intent becomes a defensible decision: the route, the parallel fan-out, the independent critic, and the four floor rules. Co-authored John Webb O'Rourke and Shane McCarthy. | **Canonical** |
+| `03_How_to_Write_a_Slice.pdf` | Suite III. The seven-step template for adding a skill. | **Canonical** |
+| `04_Six_Slices_to_Add.md` | Six further skills, written and placed, each with the exact line and its home manager. | **Canonical, not yet applied** |
+| `INSTALL_upgrade_Meridian.md` | The self-upgrade instruction. Takes the engine from 50 skills to 56. | **Not yet run** |
 
-All filed by John, 7 August 2026.
+Text extracts of the two PDFs are filed alongside them for searching.
+
+### How to Write a Slice — the seven steps
+
+1. Say it in one plain sentence. 2. Place it under the manager that already thinks that way. 3. Match the shape of the skills already there. 4. Write one line and save. 5. It is live at once, no rebuild, no code. 6. Prove it, point a quick question at it. 7. Lock it, a git commit, so it is on the record.
+
+> *"One new line, in the same shape, and the system reads it as its own. Same as its brothers."*
+
+### Upgrade readiness check, run 7 August 2026
+
+- The manager files in this repository **do** carry the `## Sub-agents (the slices)` heading the upgrade targets, and the existing slices follow the house form the upgrade expects. **The six lines would paste cleanly.**
+- `06-business-transformation.md` **does not** yet contain What-else scan. **This repository is John's copy, not the master engine**, where that skill has been live since 29 July.
+- No duplicate names exist for any of the six. Nothing would be skipped.
+
+**The upgrade has not been run.** The pack is written so John applies it himself, and the INSTALL file provides for Meridian doing it on his express instruction. Awaiting that instruction.
 
 ---
 
