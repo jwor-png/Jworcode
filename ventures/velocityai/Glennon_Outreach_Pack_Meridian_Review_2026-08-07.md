@@ -35,6 +35,14 @@ The two documents also do different jobs properly. The Outlook is the *why now*.
 
 ---
 
+## MATERIAL CHANGE, LOGGED 7 AUGUST AFTER THIS REVIEW WAS ISSUED
+
+**John has personally approached Mike Glennon for his email address and has not received a reply.**
+
+This supersedes the recommendation below. **The pack does not send.** Reasoning and the revised route are at the end of this document under *Revised position*. The findings themselves stand unchanged and remain the amendments to make while the pack waits.
+
+---
+
 ## FINDING ONE, AND IT IS THE ONE TO ACT ON BEFORE SENDING
 
 ### Portfolio conflict: Glennon Brothers is already in the Ambrion pipeline
@@ -148,6 +156,35 @@ The note says the pieces are *"an outlook"* and *"a plain map of the compliance 
 5. **Refresh both document dates** to August.
 6. **Have the underlying citations to hand** before sending, not after the question arrives.
 7. **Then send.** It is good work and it will stand up.
+
+---
+
+---
+
+## REVISED POSITION, 7 AUGUST
+
+**Do not send. Not yet, and not by Shane.**
+
+**Three reasons.**
+
+**One, there is no address, and how one is obtained now matters.** John asked Mike directly and has not been answered. If an email from Shane then arrives, the reasonable inference on Mike's side is either that the address was worked around, or that John's request was a pretext for a pitch. Neither is true, and neither would be recoverable. **The cost of being wrong here is the relationship, not the campaign.**
+
+**Two, silence is information and it should be read, not pushed through.** An unanswered request is a soft not-yet. Sending a designed two-document pack into that silence converts a soft non-response into a definite one, and does it while the sender still has no standing in the sector.
+
+**Three, the portfolio conflict has now fired twice on the same target.** First Ambrion and Velocity both approaching on compliance. Now John and Shane both approaching the same person independently. That is no longer a coincidence, it is a missing control.
+
+### The revised route, in order
+
+1. **Give John's approach room.** A week. It costs nothing and the EUDR date is in December, not next Friday.
+2. **Publish the Compliance Window rather than send it.** It contains no pitch, it is useful to every softwood operator in Ireland and the UK, and published it becomes inbound rather than outbound. It also stops the whole plan depending on one email address, and if Glennon's own people find it, that is a far stronger opening than an attachment.
+3. **If John gets the address, John sends, introducing Shane.** A warm channel converted into a cold pitch is a warm channel wasted. The pack is stronger arriving with John's name on the covering line and Shane's on the work.
+4. **If John does not get the address**, find the warm route rather than force the cold one. The sector bodies already cited in the pack, Timber Development UK and the Structural Timber Association, are natural connectors, as is John's own board network.
+
+### The control that is missing, and it is cheap
+
+**One name, one approach, one brand at a time, logged.** A single shared list of who in the group is approaching whom, under which brand, and when. It would have caught both collisions on this target before either happened.
+
+That is not bureaucracy for a group this size. It is one shared note. **The Portfolio conflict check added to Meridian today can run against it, but it can only check what is written down.**
 
 ---
 
