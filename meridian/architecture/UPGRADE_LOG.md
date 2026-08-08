@@ -84,4 +84,16 @@ The two lifted lines are gone from their manager files and present once in the o
 
 **The live proof step remains John's**, for all of it. For the cross-cutting three: ask Meridian to argue the other side of its own Ed Lawton recommendation, ask it to render the funding structure as a client page, and ask it a Barber Republic funding question to see whether it recalls and cites what it already concluded.
 
+---
+
+## 7 August 2026, step three — external review and assurance hardening
+
+An external intelligence layer reviewed the two-page paper and returned seventeen challenges. Twelve applied the same day, three sequenced, two refined. Two further cross-cutting skills added: **Change-the-answer test** and **Evidence gap before advice**.
+
+**The count: 56 domain skills, 5 cross-cutting. 61 in total.**
+
+The substantive corrections to the floor: the uncalibrated 80 per cent confidence threshold demoted to an internal heuristic and replaced client-side by an evidence-sufficiency test; DECISION-READY converted from a label into a ten-point release gate; the critic split into verification and adversarial with independence established by construction rather than assumed; a routing challenge added before consolidation; precedent discipline added to Prior-decision recall; information governance, version and reproduction records, and named human-gate accountability added; and the Irish-law-versus-UK-market inconsistency resolved with an explicit jurisdiction limit.
+
+Full response at `EXTERNAL_REVIEW_RESPONSE_2026-08-07.md`.
+
 *Recorded 7 August 2026.*
