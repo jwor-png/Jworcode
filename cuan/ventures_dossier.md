@@ -16,6 +16,24 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 
 ---
 
+## ODIN
+- **What it is:** Orchestrated Distributed Intelligence Network. A living organism of intelligence, not an engine. A studio and governance system built around a queryable, programmable corpus of AI systems.
+- **Stage:** Built and operational. 2,000+ systems in the organism, 96% interconnected, 7 live commercial model types running.
+- **Architecture:** 
+  - Spine: Governance & Compliance (228 systems), AI Systems (125), Media & Journalism (113), Autonomy & Monetisation (108), Engines (100), Infrastructure (82), Property & Real Estate (78)
+  - Every node carries a thirteen-field schema that makes the organism queryable and orchestrable
+  - 56% runs at top autonomy tiers; 75% at deployment-adjacent layers
+- **The Moat:** The interconnection itself. Value lives in the web — how every system talks to every other. The organism compounds; it's worth more than the sum of its parts because the parts are wired to make each other stronger.
+- **Return Path:** Intent in, finished asset out. ODIN routes commercial intent through governance and autonomy layers, produces defensible IP assets, then sells them to buyers who need them most. Assets are proven in low-stakes operating environments before packaging and sale.
+- **Governance Edge:** Built with regulation and compliance baked in from line one. Becomes a commercial advantage as EU AI Act lands and demand for governed AI rises.
+- **Commercial Model:** Acquisition-based (growing and selling IP assets). Not service-based. Studio runs the organism; buyers get the result.
+- **Builder/Architect:** Shane McCarthy — "AI Driven, Human Led"
+- **John's role:** Commercial and strategic lead. Investor backing and opportunity positioning.
+- **Key contacts/Prospects:** Dan Ferheny (fintech, Tangible network, London) — investor capital and buyer for regulated-environment applications
+- **Confidentiality:** Sensitive. Private & Confidential as marked on investor memorandum. Referenced as "ODIN" in internal discussions; full architecture details reserved for qualified investors and strategic partners only.
+
+---
+
 ## Ambrion AI
 - **What it does:** John's primary AI company. Governance advisory and EU AI Act compliance for Irish SMEs.
 - **Current focus:** Tiered done-for-you EU AI Act compliance offering, positioned against software-only platforms
