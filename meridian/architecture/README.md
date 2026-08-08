@@ -7,13 +7,44 @@ Canonical description of what the Meridian engine is made of.
 | File | What it is | Status |
 |---|---|---|
 | `00_START_HERE.md` | The pack's own cover note and reading order. | **Canonical** |
-| `01_Meridian_Map.md` | Suite I. The anatomy: 7 managers, 50 skills, tiering, and the shared floor. | **Canonical** |
-| `02_Meridian_Wiring.pdf` | Suite II. How intent becomes a defensible decision: the route, the parallel fan-out, the independent critic, and the four floor rules. Co-authored John Webb O'Rourke and Shane McCarthy. | **Canonical** |
-| `03_How_to_Write_a_Slice.pdf` | Suite III. The seven-step template for adding a skill. | **Canonical** |
+| `01_Meridian_Map.md` / `.pdf` | Suite I. The anatomy: 7 managers, 50 skills, tiering, and the shared floor. | **Canonical** |
+| `02_Meridian_Wiring.md` / `.pdf` | Suite II. How intent becomes a defensible decision. **Read the markdown: it is materially richer than the PDF and carries the Boundary, which the PDF does not.** Co-authored John Webb O'Rourke and Shane McCarthy. | **Canonical** |
+| `03_How_to_Write_a_Slice.md` / `.pdf` | Suite III. The seven-step template for adding a skill, and the note on cross-cutting skills. | **Canonical** |
 | `04_Six_Slices_to_Add.md` | Six further skills, written and placed, each with the exact line and its home manager. | **Canonical, not yet applied** |
 | `INSTALL_upgrade_Meridian.md` | The self-upgrade instruction. Takes the engine from 50 skills to 56. | **Not yet run** |
 
-Text extracts of the two PDFs are filed alongside them for searching.
+Every document is now filed in both markdown and, where it exists, the finished PDF. **Read the markdown, show the PDFs.**
+
+---
+
+## THE BOUNDARY, which only appears in the markdown Wiring
+
+> **"Meridian informs you. It never represents you or a client. A signature, a filing, a conveyance, anything a client leans on, goes to a qualified professional before you act. Meridian is the experienced team behind you. The judgement at the front is always yours."**
+
+This is the most commercially important sentence in the entire pack and it is absent from the PDF version. It is the professional-liability firewall, and it does three things at once:
+
+1. **It scopes the professional indemnity question.** Meridian advises, it does not act, sign, file or convey. That is a materially narrower risk profile than a firm that does, and it is the right way to present the practice to an insurer.
+2. **It is the answer to "are you not just practising law or accountancy without the ticket."** Anything binding routes to a qualified professional before it is relied on, and that rule is written into the skills themselves.
+3. **It should appear in every client-facing document Meridian issues**, in Meridian's own words rather than as small print.
+
+## MERIDIAN'S FOUR JOBS
+
+**Classify** the question. **Route** it to every manager it genuinely touches. **Consolidate** their work. **Return** it with a status and a short record of how it was checked.
+
+## THE FLOOR, in the fuller markdown form
+
+- **The grounding rule.** No statute, case, figure, title fact or valuation reaches you unless it was pulled from its primary source *and the passage actually supports it*. Anything from memory is never treated as fact. **Every hard fact is tagged VERIFIED, REPORTED or UNVERIFIED, and a citation that will not resolve is held, not shipped.**
+- **The independent critic.** A separate agent on a stronger model re-reads the work against the original source. *"The one who makes the work and the one who checks it are never the same, so they do not share the same blind spot."*
+- **A status on everything.** DRAFT, IN REVIEW, DECISION-READY, and if it is not there yet Meridian says exactly what is missing.
+- **Fail closed.** Near a legal, financial or regulatory line, or below 80 per cent confidence, it holds and pulls the human in rather than guess.
+- **The human gate.** On the four high-stakes managers, anything to be acted on stops. **"Meridian cannot quietly grade its own work down to skip that."**
+- **The audit record.** Who produced what, from which sources, what the critic found, and the status. Every answer can show its own lineage.
+
+> **"A tool that gives an answer is common. A tool that gives an answer and can show exactly how it reached it, and where it refused to guess, is rare... The floor is not overhead. The floor is the product."**
+
+## ONE ARCHITECTURAL PROPERTY WORTH KNOWING
+
+A new skill *"inherits the grounding, the independent critic, the status label and the human gate for free, just by living inside a manager."* The floor is not re-implemented per skill. That is why the engine can go from 50 to 56 with six pasted lines and no loss of rigour, and it is a genuinely strong answer to anyone who assumes the discipline is manual effort that degrades as scope grows.
 
 ### How to Write a Slice — the seven steps
 
@@ -115,6 +146,6 @@ Both cannot stand. The likely explanation is that the Map's description of Manag
 
 **Recommendation: keep all seven Manager 5 skills in the engine, and retire the description of it as the forward-facing commercial manager.** Manager 6, Business Transformation and Growth, is the better candidate for that role and the Map already calls it *"the most likely entry point for a live matter."* That is a one-line change to the Map, not a change to the engine.
 
-**Consequence for slice 5.** Say-it-to-the-client is placed in Manager 5 *"because this manager already shapes client-ready material."* If Manager 5 comes off the shopfront, that reason goes with it. Say-it-to-the-client is the skill that produces the Decision Brief's client-facing page, so it belongs with Manager 6 or lifted into the orchestrator as genuinely cross-cutting, which document 03 apparently explains how to do.
+**Consequence for slice 5, now resolvable.** Say-it-to-the-client is placed in Manager 5 *"because this manager already shapes client-ready material."* If Manager 5 comes off the shopfront, that reason goes with it. Document 03 gives the answer: cross-cutting skills *"are not added to a manager file; they go into the orchestrator file itself, where the rules that apply to the whole system live."* Both Say-it-to-the-client and Argue-the-other-side are named in the pack as naturally cross-cutting. **Recommendation: apply the six slices as written first, prove them, then lift those two into the orchestrator as a second, separate step.** Do not do both at once, or a failure will be hard to attribute.
 
 *Both flagged for John's decision. Neither actioned.*
