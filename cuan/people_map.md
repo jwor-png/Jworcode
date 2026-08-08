@@ -46,6 +46,13 @@
 - **Structure:** Co-creation channel partner — Velocity AI builds a custom AI sales tool Vinny deploys with his clients
 - **Status:** Completed Transition Intelligence diagnostic profile. Ongoing workstream.
 
+### Dan Ferheny
+- **Network:** Tangible network
+- **Base:** London
+- **Opportunity:** Potential contributor to AI funding across platforms
+- **Action pending:** Introduction to Odin (after weekend)
+- **Status:** Cool list — flagged for Monday follow-up
+
 ---
 
 ## Family
