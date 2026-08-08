@@ -2,11 +2,59 @@
 
 Canonical description of what the Meridian engine is made of.
 
+The Suite is numbered I to III. Documents 01, 02 and 04 are filed. **Document 03 is still missing.**
+
 | File | What it is | Status |
 |---|---|---|
-| `01_Meridian_Map.md` | The anatomy: 7 managers, 50 skills, tiering, and the shared floor beneath all of them. Filed by John, 7 August 2026. | **Canonical** |
-| *Wiring document* | Referenced in the Map as the document explaining the shared floor (grounding, independent critic, status labelling). | **Not yet in repository. Requested from John.** |
-| *Six Slices to Add* | Referenced in the Map. Six further skills, written and ready. Adding them takes the engine from 50 to 56. | **Not yet in repository. Requested from John.** |
+| `01_Meridian_Map.md` | The anatomy: 7 managers, 50 skills, tiering, and the shared floor. | **Canonical** |
+| `02_Meridian_Wiring.pdf` | Suite II of III. How intent becomes a defensible decision: the route, the parallel fan-out, the independent critic, and the four floor rules. Text extract alongside for searching. Co-authored John Webb O'Rourke and Shane McCarthy. | **Canonical** |
+| *Document 03* | Referenced in Six Slices as carrying the seven-step template for adding a skill, and the instruction for lifting a cross-cutting skill into the orchestrator file. | **Missing. Requested from John.** |
+| `04_Six_Slices_to_Add.md` | Six further skills, written and placed, each with the exact line to paste and its home manager. Takes the engine from 50 to 56. | **Canonical, not yet applied** |
+
+All filed by John, 7 August 2026.
+
+---
+
+## THE WIRING — the four floor rules
+
+These are the sharpest defensibility material in the entire body of work.
+
+**Grounding rule.** No statute, figure or fact ships unless it was pulled from its primary source. *"From memory is never fact."*
+
+**Status labels.** Draft, in review, decision-ready. Only decision-ready means it can be relied on, **and the blocker is always named.**
+
+**Fail closed, and the human gate.** Near any line, or **below 80 per cent confidence**, it holds and pulls the human in. **The high-stakes four always stop.**
+
+**Audit trail.** Who produced it, from which sources, what the critic found, at what confidence. **Every answer shows its lineage.**
+
+And the line that carries the whole argument:
+
+> **"The floor is not overhead. It is the product."**
+
+### The flow
+
+One brief in, stated as intent in plain language. Meridian classifies it and routes to every manager it touches. The managers **fan out, not in**, worked in parallel rather than one at a time. **A separate critic agent, running on a stronger model, re-reads the source.** One consolidated, labelled answer out.
+
+### The worked example, which is the best sales illustration on file
+
+> A tight cash brief on a Galway builders' merchant routes to Finance, Business Transformation and Legal at once. Each works it, the critic checks the numbers, and Meridian returns one answer: the true cash position, the two fastest wins, the directors' duties flag, and the succession talk that is coming. One brief in, one defensible answer out.
+
+That is a Decision Brief described end to end, in a sentence an owner-manager would recognise.
+
+---
+
+## THE SIX SLICES — 50 to 56
+
+| # | Skill | Home manager | What it does |
+|---|---|---|---|
+| 1 | **Read-this-for-me** | Legal and Governance | Contract, lease, term sheet or email dropped in. Returns what matters, what bites, what to push back on. Binding items flagged for a qualified solicitor. |
+| 2 | **Meeting-prep brief** | Commercial and Deal | One grounded page before any room: who is being met, their likely position, where the leverage sits, the two or three things that could go wrong. |
+| 3 | **Argue-the-other-side** | Legal and Governance *(cross-cutting)* | Red-teams Meridian's own recommendation, sets out the strongest case against it, names where it would break. |
+| 4 | **What-else scan** | Business Transformation | At the close of any matter, surfaces the adjacent work the client needs next. **Built live 29 July and already running in the master engine.** |
+| 5 | **Say-it-to-the-client** | AI Strategy and Adoption *(cross-cutting)* | Renders any grounded technical output as a clean plain-English page to hand straight to a client, accuracy intact, sources kept. |
+| 6 | **Obligations and deadlines schedule** | Legal and Governance | Every date, statutory clock, filing and obligation into one schedule, with directors' duties and liability flags. |
+
+Three of the six land in Legal and Governance, which is consistent with it being the heaviest manager and closest to John's own instinct as a former solicitor.
 
 The older per-manager notes in `meridian/managers/` predate this Map. Where they differ, **the Map governs.**
 
@@ -51,4 +99,6 @@ Both cannot stand. The likely explanation is that the Map's description of Manag
 
 **Recommendation: keep all seven Manager 5 skills in the engine, and retire the description of it as the forward-facing commercial manager.** Manager 6, Business Transformation and Growth, is the better candidate for that role and the Map already calls it *"the most likely entry point for a live matter."* That is a one-line change to the Map, not a change to the engine.
 
-*Flagged for John's decision. Not actioned.*
+**Consequence for slice 5.** Say-it-to-the-client is placed in Manager 5 *"because this manager already shapes client-ready material."* If Manager 5 comes off the shopfront, that reason goes with it. Say-it-to-the-client is the skill that produces the Decision Brief's client-facing page, so it belongs with Manager 6 or lifted into the orchestrator as genuinely cross-cutting, which document 03 apparently explains how to do.
+
+*Both flagged for John's decision. Neither actioned.*
