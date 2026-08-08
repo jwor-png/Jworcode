@@ -16,6 +16,8 @@ John takes on a business to improve or analyse. A client wants to know where the
 - **Operational improvement** — turns the findings into specific, sequenced operational changes.
 - **Growth roadmap** — assembles the improvements into a costed, sequenced growth plan.
 - **Benchmark analysis** — benchmarks the business against its sector, every comparison grounded.
+- **What-else scan** — at the close of any matter, surfaces the adjacent work, services and follow-on opportunities the client now needs next, so every piece of work opens the next one, and routes any real deal, structure or funding need to Commercial, Legal or Finance.
+- **Support and grant scan** — identifies the State supports, grants and funding offsets a client or a project can actually draw on, from Enterprise Ireland, the Local Enterprise Offices, Skillnet and InterTradeIreland, with eligibility checked to source and anything unconfirmed marked UNVERIFIED.
 
 ## How it works
 This is analysis and opportunity work, so the discipline is on evidence rather than legal authority: benchmarks, market figures and financial claims are grounded to source and tagged, assumptions are named as assumptions. Anything that turns into a deal, a structure or a funding need routes to Commercial, Legal or Finance. The independent check tests the analysis where it will drive a decision.

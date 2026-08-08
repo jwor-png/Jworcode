@@ -80,8 +80,8 @@ AI as an asset class. The numbers are grounded hard; the thesis is marked as jud
 
 ---
 
-**Your system today: 7 managers, 50 skills.**
+**Your system today: 7 managers, 58 skills.** *(Upgraded from 50 on 7 August 2026: the six sanctioned slices, plus two added by Meridian on John's instruction. See `UPGRADE_LOG.md`.)*
 
 Underneath all fifty sits one shared floor: nothing reaches you unless it can show where it came from, every output is re-checked by an independent critic, and every answer carries a status (DRAFT, IN REVIEW, or DECISION-READY) so a draft is never mistaken for ready. The Wiring document explains that floor.
 
-*Six more skills are written and ready in the "Six Slices to Add" document. Adding all six takes you to fifty-six.*
+*The six slices from document 04 are now applied.*

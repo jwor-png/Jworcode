@@ -16,6 +16,7 @@ A deal to evaluate or structure. A partnership or channel arrangement to design.
 - **Competitor analysis** — maps the competitive field and where John's position is strong or exposed.
 - **Pricing strategy** — sets or stress-tests pricing against market, cost and willingness to pay.
 - **Term sheet drafting** — produces a clean term sheet or reads one John has been handed, flagging the terms that matter and the ones that bite.
+- **Meeting-prep brief** — before a meeting, assembles one grounded page: who is being met, their likely position, where the leverage sits, and the two or three things that could go wrong.
 
 ## How it works
 Sub-agents research and draft. Market figures, competitor facts and comparable deals are grounded to primary sources and tagged. Anything that crosses into binding legal terms, directors' duties or regulated activity is routed to Legal & Governance before it leaves. Output is independently checked where it will be acted on.

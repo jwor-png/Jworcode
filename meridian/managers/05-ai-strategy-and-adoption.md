@@ -16,6 +16,7 @@ A client needs an AI governance framework or an EU AI Act compliance brief. A Go
 - **Partner onboarding** — onboards a Golden Generation partner and prepares their client-facing materials.
 - **Governance audit** — audits an organisation's AI governance against the framework.
 - **Roadmap build** — produces a structured AI adoption roadmap, sequenced and costed.
+- **Say-it-to-the-client** — takes any grounded, technical output and renders a clean, plain-English page to hand straight to a client, the accuracy intact and the sources kept.
 
 ## How it works
 EU AI Act obligations and any regulatory provision are grounded to source; the legal interpretation routes to Legal & Governance. This manager is also where Meridian Intelligence's commercial offer takes shape, so its output is built to be client-ready supporting material for John and his partners, while staying on the decision-support side of the line. The independent check applies where the output goes to a client.
