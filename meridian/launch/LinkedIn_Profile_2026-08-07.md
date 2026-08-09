@@ -32,6 +32,32 @@ Meridian's rule is that it informs and never represents, and that anything bindi
 
 **Fifteen years inside a general practice is where a person learns exactly where that line sits.** It is not a policy John adopted for a governance document. It is how he worked for fifteen years, and it should be said that way, because it is the most credible version of the claim available to anyone.
 
+### CONFIRMED 7 AUGUST: THE SUCCESSION CREDENTIAL IS SPECIFIC, NOT GENERAL
+
+**In practice, John handled succession in the farming community. At United Hardware, he is currently working on members' succession planning.**
+
+That moves succession from a credible claim to a demonstrated specialism with a live programme behind it, and it is worth being precise about why.
+
+**Farm succession is the hardest succession there is, and the most underserved.** It is legally technical, with agricultural relief, retirement relief, consanguinity relief and rights of residence all in play. It is emotionally the most difficult, because the asset is the home, the business and the family history at once, and because one child usually gets the land and the others do not. And it is dominated by agricultural advisers and accountants who handle the tax and the transfer, not the commercial future of the enterprise. **Someone who has done the legal side of farm transfers and can also read the business is a very short list.**
+
+**And here is the point that ties it together, which is easy to miss.** United Hardware's members are rural family businesses, second and third generation, largely serving farming communities. **The farm succession work and the members' succession work are not two credentials. They are one market, seen from both sides of the same counter.**
+
+### THE PORTFOLIO CONFLICT, WHICH MUST BE HANDLED BEFORE ANY OF THIS IS PUBLIC
+
+**John is an independent non-executive director and Audit and Risk Committee chair at United Hardware. United Hardware is running a members' succession programme. Meridian sells succession decision briefs.**
+
+Publishing a profile that markets succession advisory while sitting as an INED of a body running a succession programme for its members creates an obvious and reasonable question: **is a board position being used to source private clients?** The answer is almost certainly no. **That is not the point. The point is that the question is available to anyone, and an INED, of all people, cannot afford to have it asked and not already answered.**
+
+Three ways to handle it. The first is not one of them.
+
+1. **Say nothing and hope.** Not available. It is precisely the conflict a chair of an Audit and Risk Committee is expected to spot in others.
+2. **Declare and abstain.** Disclose the Meridian succession position to the UHL board, record it, and take no Meridian work with any UHL member.
+3. **Declare and formalise, which is the better commercial answer.** If United Hardware wants succession support for its members, Meridian is an obvious provider. **But that must be a disclosed related-party arrangement, approved by the board with John recused from the decision**, and recorded as such. Done that way it is an asset. Done informally it is a governance failure by the person least able to afford one.
+
+**Recommendation: option three, taken to the board before the profile changes**, with option two as the fallback if the board prefers distance. Either way the disclosure comes first and the profile follows.
+
+*This is the Portfolio conflict check operating as designed, on its second live matter.*
+
 ### One further question, because it is directly load-bearing for succession
 
 **Did the general practice work include probate and conveyancing?** Probate is succession law. If John has actually administered estates and handled the transfer of property and business assets on death and on retirement, that is not an adjacent credential for the succession positioning, **it is the credential**, and it should be stated explicitly rather than left inside the phrase "general practice."
@@ -71,9 +97,13 @@ Two things occupy me now.
 
 The first is the boardroom and artificial intelligence. The EU AI Act has made AI governance a board obligation with directors' duties attached, and most boards have nobody at the table who understands what that means in practice. I am not a technical specialist and I have no ambition to become one. What I bring is the ability to ask the right questions of the people who are, and to know when an answer is sound and when it is confident but unsupported. I sit on boards, and I am open to further non-executive appointments where that combination is useful.
 
-The second is succession, and it is where the two halves of my career finally meet. Ireland and the UK are entering the largest transfer of business ownership in a generation. Thousands of owners face a decision that is commercial, legal, financial and deeply personal all at once, and most have been putting it off for years because no single adviser covers the whole of it. The accountant sees the tax. The solicitor sees the instrument. Very few people see the business, the family and the paperwork together.
+The second is succession, and it is where the two halves of my career meet.
 
-I have worked in a legal practice and I have sat in the boardroom, and I am roughly the same age as most of the people making the decision. It is a conversation I can have honestly.
+In practice I handled succession in the farming community, which is the hardest version of it. The land, the home and the business are the same asset. One child usually takes it and the others do not. The legal and tax work is technical, and the conversation around the kitchen table is harder than any of it. More recently I have been working on succession planning for the member businesses of United Hardware, which are largely rural, family-owned and into their second and third generation. It is the same market seen from the other side of the counter.
+
+Ireland and the UK are entering the largest transfer of business ownership in a generation. Most owners have been putting the decision off for years, not because they are avoiding it but because no single adviser covers the whole of it. The accountant sees the tax. The solicitor sees the instrument. Very few people see the business, the family and the paperwork together.
+
+I have done the legal side and I have sat in the boardroom, and I am roughly the same age as most of the people making the decision. It is a conversation I can have honestly.
 
 Underneath both is a simple belief. Most leaders do not lack information. They lack a clear, defensible answer at the moment a decision has to be made, and they need to know which parts of it are verified and which are not.
 
@@ -140,4 +170,4 @@ Two items when they exist, and no more:
 
 ---
 
-*Meridian Intelligence · Personal positioning · 7 August 2026 · Private and confidential. Board roles as stated by John and held on the owner profile. F.I.I.L.Ex. and fifteen years in general legal practice confirmed by John, 7 August 2026. The route by which Fellowship was conferred, and whether the practice included probate and conveyancing, remain open and are flagged in the text.*
+*Meridian Intelligence · Personal positioning · 7 August 2026 · Private and confidential. Board roles as stated by John and held on the owner profile. F.I.I.L.Ex., fifteen years in general legal practice, farm succession work in practice, and the United Hardware members' succession programme all confirmed by John, 7 August 2026. **The United Hardware conflict must be disclosed to that board before this profile is published.** The route by which Fellowship was conferred, and whether the practice included probate and conveyancing, remain open and are flagged in the text.*
