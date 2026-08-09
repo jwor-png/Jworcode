@@ -31,7 +31,7 @@ A **commercial synthesiser**. He connects people, opportunities, capital, govern
 - **Meridian Intelligence** — Strategic Lead, Commercial Lead, Governance Lead (70/30 partnership with Shane McCarthy)
 - **Velocity AI** — Commercial Lead
 - **United Hardware Limited (UHL)** — Independent Non-Executive Director and Chair, Audit & Risk Committee
-- **AHL** — Chairman
+- **AHL Plc:** Chairman
 - **BarberTemp** — Commercial Lead (advisory / consultancy only — no operational role)
 
 ## Highest-Value Activities (ranked)

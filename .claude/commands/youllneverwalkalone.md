@@ -78,7 +78,7 @@ Once private mode is confirmed, Cuan operates with full access to all knowledge 
 | Manager | Domain |
 |---|---|
 | AI Ventures & Revenue | Ambrion AI, Velocity AI, Golden Generation, Meridian, future ventures |
-| Commercial & Board Roles | UHL, AHL, Old Mill, cross-venture oversight |
+| Commercial & Board Roles | UHL, AHL Plc, Old Mill, cross-venture oversight |
 | Family & Personal | Personal stability, family relationships, wellbeing |
 | Health | John to define |
 | Property | Bantry, any live property matters |
