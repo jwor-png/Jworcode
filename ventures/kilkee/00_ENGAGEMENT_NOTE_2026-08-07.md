@@ -84,7 +84,13 @@ Run now rather than at the end, because it shapes what is worth building.
 
 **Portfolio conflict check, and this is the outstanding question.** John chairs AHL PLC and chairs the Audit and Risk Committee at United Hardware. Association with a public campaign against a State utility is a position, and it is one he is fully entitled to take, but it should be taken knowingly rather than by drift.
 
-> **The question, asked once and then left with John: what is your own connection to Kilkee?** Property owner, adviser, family, or simply shown this by Jürgen. It changes the attribution answer entirely and it changes what Meridian should put your name near. Work proceeds on everything that does not depend on it.
+**ANSWERED, 7 August 2026.** Two good friends are affected: **Ger Blake**, a holiday home resident, and **Yuksel Kangal**, a house owner. John holds no property in Kilkee and no professional interest in the matter.
+
+**That resolves the attribution question cleanly, and the answer is that John's name goes nowhere near the document.** He is a friend of two affected people, not a party. He has no stake to declare and nothing to gain. Putting a serving PLC chair and audit and risk committee chair on a public campaign document opposing a State utility, on behalf of friends, for no personal interest, is entirely downside. **What he can do without any of that exposure is commission the analysis, introduce a solicitor, and advise privately.** All three are worth more to Ger and Yuksel than a signature would be.
+
+**A correction Meridian owes on its own process.** Prior-decision recall was run on subject matter and returned nothing. It should have returned **Yuksel Kangal**, who is an existing Meridian client through the Export Anatolia seven-manager briefing of 31 July. The skill searched Kilkee, Uisce Éireann and the licence code. It did not search the parties, because the parties were not known at the time. **The lesson is that precedent recall must run again the moment parties are named, not only when the subject is framed.** Recorded here rather than quietly fixed, because a silent correction is the failure the skill exists to prevent.
+
+**And it changes the standing of this engagement.** This is not a favour for a stranger. It is a second matter for an existing client, and it should be run to the same standard as the first.
 
 ---
 
@@ -95,6 +101,19 @@ Run now rather than at the end, because it shapes what is worth building.
 3. **Kilkee's p.e. figure and its treatment status on 1 January 2025.** The entire Directive argument turns on this one fact and it is currently assumed.
 4. **The CPO position.** Whether an order exists, its stage, and whether acquisition is still ahead of it.
 5. **Who the residents are, in a form Meridian can address.** A named group, a committee, or individuals. It determines whether there is one document or two.
+6. **The single most urgent fact, and it is a question for Ger and Yuksel directly: is either property subject to the CPO?** Land, a wayleave or a right of way. **If yes, they are affected owners with hard statutory windows and they need a solicitor this week.** If no, they are objectors and the timeline is the planning and appeal process, which is a different clock entirely. Everything either of them should do this week turns on that one answer, and neither the briefing nor Jürgen's review establishes it.
+
+---
+
+## A TACTICAL RISK IN THE COMPOSITION OF THE GROUP
+
+Stated plainly because it will otherwise be discovered in the room.
+
+Ger Blake is a **holiday home** resident. If the visible opposition is led by second-property and holiday-home owners, the counter-narrative writes itself, and it is a strong one: outsiders protecting a sea view against sewage treatment for the people who actually live there. Humphreys J's proportionality reasoning feeds directly into it, and local and national press will reach for it without being prompted.
+
+**The mitigation is not to hide anyone. It is to order the front rank.** The case is led by permanent residents and framed around the town. Property owners, including holiday-home owners, support it rather than front it. **The argument is not "do not build this", it is "build the plant the town needs, not this one, in this place, on this assumption."**
+
+That framing is also, on the reporting to date, what the town is actually saying. It should be what the document says.
 
 ---
 
