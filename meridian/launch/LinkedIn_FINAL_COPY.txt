@@ -1,5 +1,4 @@
-LINKEDIN - FINAL COPY, 7 August 2026
-Paste as-is.
+LINKEDIN COPY - 7 August 2026
 
 === NAME FIELD ===
 John Webb O'Rourke F.I.I.L.Ex.
@@ -7,28 +6,39 @@ John Webb O'Rourke F.I.I.L.Ex.
 === HEADLINE (194/220) ===
 Chair, AHL PLC · Independent Non-Executive Director and Audit & Risk Committee Chair, United Hardware · Business succession, from the legal and the commercial side · AI governance at board level
 
-=== ABOUT (1921/2600) ===
-Forty years, the first fifteen of them in legal practice. I practised conveyancing and probate, and I am a Fellow of the Irish Institute of Legal Executives. The rest has been spent in and around boardrooms. I chair AHL PLC, and I am an independent non-executive director and chair of the Audit and Risk Committee at United Hardware.
 
-Succession is where those two halves meet. I handled succession in the farming community, which is the hardest version of it. The land, the home and the business are one asset, one child usually takes it and the others do not, and the kitchen table is harder than any of the legal work around it. More recently I have been working on succession planning for the member businesses of United Hardware, rural and family-owned, second and third generation.
+=== ABOUT, OPTION A (1560 chars) ===
+Forty years, the first fifteen in legal practice. Conveyancing and probate, and a Fellow of the Irish Institute of Legal Executives. The rest in and around boardrooms. I chair AHL PLC, and I am an independent non-executive director and chair of the Audit and Risk Committee at United Hardware.
 
-Most owners put it off for years, not from avoidance but because no single adviser covers the whole of it. The accountant sees the tax. The solicitor sees the instrument. Very few see the business, the family and the paperwork together.
+Succession is where those two halves meet. I handled it in the farming community, where the land, the home and the business are one asset, one child usually takes it and the others do not, and the kitchen table is harder than the legal work. More recently, succession planning for United Hardware's member businesses: rural, family-owned, second and third generation.
 
-The other thing occupying me is AI at board level. The EU AI Act has made AI governance a board obligation with directors' duties attached, and most boards have nobody who can tell them where they stand. I am not a technical specialist and have no ambition to become one. What I bring is knowing which questions to ask, and when an answer is sound rather than merely confident.
+Most owners put it off because no single adviser covers the whole of it. The accountant sees the tax. The solicitor sees the instrument. Very few see the business, the family and the paperwork together.
 
-Both come back to the same thing. Leaders rarely lack information. They lack a defensible answer at the moment a decision has to be made. That is why I built Meridian Intelligence: one high-consequence decision, one written position, evidence checked to source, and the things that would change the answer named. It informs; it does not represent.
+The other thing occupying me is AI at board level. The EU AI Act has made AI governance a board obligation with directors' duties attached, and most boards have nobody who can tell them where they stand. I am not a technical specialist. What I bring is knowing which questions to ask, and when an answer is sound rather than merely confident.
+
+Both come back to the same thing. Leaders rarely lack information. They lack a defensible answer at the moment a decision has to be made. That is why I built Meridian Intelligence.
 
 If you are weighing a succession, a decision too expensive to get wrong, or looking for a director who can hold the AI conversation at board level, I am glad to talk.
 
-=== SERVICES (tick only these) ===
-Corporate Governance / Business Consulting / Management Consulting / Financial Advisory
-Leave anything AI-labelled unticked.
+
+=== ABOUT, OPTION B (882 chars, shorter) ===
+Forty years, the first fifteen in legal practice: conveyancing, probate, and a Fellow of the Irish Institute of Legal Executives. The rest in and around boardrooms. I chair AHL PLC, and I am an independent non-executive director and chair of the Audit and Risk Committee at United Hardware.
+
+I work on two things. Succession, which I handled in the farming community in practice and now work on for United Hardware's member businesses. And AI at board level, where the EU AI Act has made governance a board obligation and most boards have nobody who can tell them where they stand.
+
+Leaders rarely lack information. They lack a defensible answer at the moment a decision has to be made. That is why I built Meridian Intelligence.
+
+If you are weighing a succession, a decision too expensive to get wrong, or looking for a director who can hold the AI conversation, I am glad to talk.
+
+
+=== SERVICES ===
+Corporate Governance / Business Consulting / Management Consulting / Financial Advisory. Leave anything AI-labelled unticked.
 
 === EXPERIENCE, TOP THREE ===
 Chair - AHL PLC
 Independent Non-Executive Director and Chair, Audit and Risk Committee - United Hardware Limited
-Founder - Meridian Intelligence (Executive intelligence practice. One high-consequence decision, one written and evidenced position, in days.)
+Founder - Meridian Intelligence
 
 === NOTES ===
-Fellowship: conferred by the Institute in recognition of length of practice. Use the post-nominal, say nothing further, do not describe it as Council service.
-Disclose the succession position to the UHL Chairman and have it minuted. Profile follows that conversation.
+Fellowship: recognition of length of practice. Use the post-nominal, say no more.
+Disclose the succession position to the UHL Chairman first, minuted.
