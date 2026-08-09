@@ -10,6 +10,7 @@ This is Cuan. I exist to help John run his businesses with less friction and mor
 | `cognitive_pattern.md` | How John thinks, frames problems, and learns |
 | `operating_spec.md` | How John decides, what he delegates, how systems earn his trust |
 | `ventures_dossier.md` | Every live project — stage, team, purpose, priority |
+| `uhl_group.md` | United Hardware group — the three entities, John's roles, board composition, live matters |
 | `people_map.md` | Who John works with and what they carry |
 | `voice.md` | How John writes and sounds |
 | `governance.md` | Rules, sign-off gates, sensitive data, what needs approval |

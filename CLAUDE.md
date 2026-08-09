@@ -37,6 +37,7 @@ All context about John is in `cuan/`:
 - `cognitive_pattern.md` — how he thinks
 - `operating_spec.md` — how he works and decides
 - `ventures_dossier.md` — every live project
+- `uhl_group.md` — United Hardware group, John's board roles and live matters
 - `people_map.md` — key people
 - `voice.md` — how he writes and sounds
 - `governance.md` — rules, gates, sensitive data

@@ -15,11 +15,25 @@
 ## Board and Governance Contacts
 
 ### United Hardware Limited
-- **CEO:** Paul Candon
-- **Commercial Director:** David Shakeshaft
 - **John's role:** INED and Chair, Audit & Risk Committee
+- **Chairman:** Eoin McGettigan
+- **CEO:** Paul Candon
+- **CFO:** David Geoghegan
+- **Commercial Director:** David Shakeshaft
+- **Board colleagues:** Michael O'Driscoll (Bandon Co-op, A&RC member), Shane Felle (Shannonside, former Chairman), Eoin Lynch (D Lynch, also an AHL director), James (Keans), Keith Cronin (Cronins Hardware), Eamonn (Ferdia Store), Conall (Quinn Building Supplies)
+- **Also in attendance:** Hang Zhao (finance)
+- **Other executives John deals with:** Linda Kearney (Financial Accountant), Nicola Hegarty McMillan (Finance Manager), Maya Gough (HR Manager)
+- **Auditor:** Forvis Mazars — David Rowan, Loraya Mharvie
 - **Note:** Paul Candon is also listed as Director 1 on MiDentalCare CVL documents. There is also a separate personal matter involving Paul Candon — treat with care.
 - **Cuan notes:** UHL proposals are internal only — not for circulation to UHL contacts without explicit approval.
+
+### Associated Hardware PLC (AHL)
+- **John's role:** Chairman
+- **Fellow director:** Eoin Lynch (also a UHL director). Shane Felle has also signed in a director capacity — status to confirm.
+- **Auditor and company secretarial:** BDO Ireland LLP — Simon Carbery (Partner), Aram Gevorgyan, Tswelopele Sebake, Nell Burke, Michelle Keane
+- **Advisers:** Kevin McHugh (Harvey, valuation), Julie and Jerry Lucey (Tom Phillips + Associates, planning), Mark Doherty (Marsh, insurance), ORS (fire safety and inspection), Conor O'Boyle (share register)
+- **Counterparties on live recoveries:** Ray Smyth (Smyths of Killucan), Mulvey, Michael Reilly (National Hardware)
+- **Cuan notes:** John chairs AHL while chairing Audit & Risk at UHL, and the two companies have live intercompany balances. See the governance note in `uhl_group.md`.
 
 ---
 

@@ -55,15 +55,32 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 - **John's role:** Independent Non-Executive Director and Chair, Audit & Risk Committee
 - **AI engagement:** €10,000 senior executive training programme approved. Two priority use cases: predictive procurement forecasting from member purchase data; automated product marketing for Chinese import lines arriving without collateral.
 - **AI proposal:** A broader AI-native migration strategy framed around Shane's four-phase model (Static Foundation / Bolt-On Trap / Architecture Rebuild / Native Operation). First drafts are for John and Shane only — NOT for circulation to UHL.
-- **Key contacts at UHL:** CEO Paul Candon; Commercial Director David Shakeshaft
+- **Key contacts at UHL:** Chairman Eoin McGettigan; CEO Paul Candon; CFO David Geoghegan; Commercial Director David Shakeshaft
+- **Auditor:** Forvis Mazars (David Rowan)
+- **Audit & Risk Committee:** John (Chair) and Michael O'Driscoll (Bandon Co-op)
+- **FY2025 audit:** Complete. Financial statements approved at the July 2026 board meeting.
 - **Note:** John has a declared family connection to a member store — managed as a declared interest
+- **Full dossier:** `uhl_group.md`
 
 ---
 
-## AHL
-- **John's role:** Chairman
-- **Status:** Active — open loop
-- **Detail:** [ASK — what is AHL and what's the current open item?]
+## AHL — Associated Hardware Public Limited Company
+- **What it is:** A separate PLC, not a UHL subsidiary. Wide legacy shareholder base with no beneficial owner above 25%. Shares finance staff and head office with UHL.
+- **Principal asset:** The premises at 20 Magna Business Park / Unit 20 Magna Drive. Valued at approximately €13.95m (April 2026). Planning being regularised ahead of a possible sale.
+- **History with UHL:** Sold the Homevalue brand to United Hardware for €200,000. Live intercompany balances in both directions.
+- **John's role:** Chairman, and one of only two evidenced directors alongside Eoin Lynch
+- **Auditor:** BDO Ireland LLP (Simon Carbery). Company secretarial also via BDO.
+- **Status:** FY2025 audit still open. BDO issued an 11 item query list on 6 August 2026, two items owned personally by John.
+- **Live recoveries:** Debts owed to AHL by Smyths of Killucan and by Mulvey, plus a settlement with National Hardware.
+- **Full dossier:** `uhl_group.md`
+
+---
+
+## National Hardware (NHL)
+- **What it is:** Third entity alongside UHL and AHL. Appears in intercompany balances and in the combined AHL/NHL/UHL insurance programme.
+- **Contact:** Michael Reilly
+- **John's role:** None evidenced
+- **Detail:** [ASK — what is National Hardware, who owns it, and does John hold any role?]
 
 ---
 
