@@ -214,3 +214,75 @@ None of these can be answered from public sources.
 *Meridian Intelligence · Decision brief · 7 August 2026 · **Status: IN REVIEW, not DECISION-READY.** Public sources only. Business descriptions REPORTED from the businesses' own public material. Population and Garnish Island season VERIFIED. Tourism growth figures REPORTED and undated. All financial matters UNVERIFIED. Meridian informs and does not represent; this is analysis, not advice, and no direction is recommended on this evidence.*
 
 **Sources:** studiosixtyeight.ie · sharonorourkephotography.com · Sharon O'Rourke ShootProof gallery · Visit Glengarriff · Wikipedia Glengarriff (2022 census) · Garnish Island opening season · Irish Examiner and Southern Star on West Cork tourism
+
+---
+
+# ADDENDUM — NEW EVIDENCE, 9 AUGUST 2026
+
+*Two Sunday Independent clippings supplied by John. Filed against the primary decision.*
+
+## WHAT WAS SUPPLIED
+
+**One. A travel feature on Glengarriff.** Names the **Eccles Hotel and Spa** (rooftop spa garden added 2019, cold-plunge barrels, sauna, sessions at €15, pre-booking required), **Bryce House**, **Garinish Island's Harold Peto-designed gardens**, the **Blue Pool**, **Quills** in the former Blue Pool Hotel, **Gigi's** for coffee, the **Glengarriff Nature Reserve**, and the walk to the waterfall. Writer was a guest of the Eccles. The hotel is described as a picturesque wedding location with views over Bantry Bay.
+
+**Two. A profile of Richard Malone**, Irish artist and fashion designer, in the Art section. Central Saint Martins, LVMH scholarship, turned down Louis Vuitton, exhibited at MoMA, a Council of Europe sculpture commission, work worn by Björk, Beyoncé, Lady Gaga, Tilda Swinton and Debbie Harry.
+
+**Both REPORTED from the clippings**, not independently verified.
+
+---
+
+## WHAT THIS CHANGES
+
+### It strengthens the destination reading, and that was the fork
+
+The primary decision was whether Studio Sixty Eight is a **destination** people travel to West Cork for, or the **production base** for the photography business.
+
+The public evidence for the destination side was previously thin: a beautiful location, two hours from Cork, in a village of two hundred people. **This adds national newspaper coverage of Glengarriff as a destination with real infrastructure**, published in the Sunday Independent. Bamboo Park, where the studio sits, is inside that footprint.
+
+That does not settle the decision. **It does move it.**
+
+### The Eccles Hotel is the finding, not the article
+
+The destination thesis has always had one obvious hole: **why would anyone travel two hours for a studio day?** The answer has to be that they can make a trip of it, and a trip requires somewhere to stay.
+
+**The Eccles is a spa hotel with a wedding offer, in the same village, currently attracting national travel coverage.** That is not competition. It is the missing half of the proposition.
+
+Three concrete implications:
+
+1. **A studio day plus a night at the Eccles is a package.** Bare studio hire competes with Cork on price and loses. A destination day, with accommodation and a creative team, competes with nothing, because nowhere else offers it.
+2. **A wedding venue in the same village is a photography pipeline**, and it is adjacent to Sharon's existing family and newborn work rather than a departure from it.
+3. **Brand and product shoots need a place for the client to stay.** An agency bringing a team from Dublin needs beds before it needs backdrops.
+
+> **The single highest-value question this raises is not in the original ten: has Sharon had a conversation with the Eccles?** If she has, the destination route is further along than the public record shows. If she has not, it is the cheapest and most obvious next move available to her, and it costs nothing but a walk down the village.
+
+### What it does not change
+
+**Nothing here answers the economics.** Utilisation, occupancy cost, hire rates and the split between own use and third-party hire remain unknown, and they still decide the answer.
+
+**And it does not touch the winter.** The coverage is August coverage. Garnish closes 1 November to the end of February. A destination proposition still has to answer those four months, and **the strongest counter-argument in the original brief stands: the photography business may fill exactly that window, because newborns, christenings and Christmas sessions have no season.**
+
+---
+
+## ON RICHARD MALONE
+
+The category is right and the individual is probably a long shot.
+
+**The category is right** because an exhibition space in a small village needs exhibitors with a draw of their own. It cannot rely on passing footfall in a place of two hundred people. **The right exhibitor brings their own audience**, and that is a completely different sourcing problem from filling a studio diary.
+
+**The individual is a long shot without a personal connection.** An artist with MoMA, a Council of Europe commission and that client list is not short of exhibition offers, and a cold approach from an unknown space in West Cork most likely goes unanswered. **That is not a reason to dismiss it, it is a reason not to spend the goodwill of a first approach on the least likely name.**
+
+**The better version of the same idea:** identify Irish artists and makers with a genuine West Cork or Munster connection, a real following, and a reason to want a coastal exhibition in summer. There is an established creative community in the region. **Start where the connection already exists rather than where the profile is largest.**
+
+---
+
+## STATUS UNCHANGED
+
+**Still PROCEED SUBJECT TO CONDITIONS. Still IN REVIEW, not DECISION-READY.**
+
+This evidence strengthens one side of the fork. It does not supply a single financial figure, and the recommendation continues to depend on the owner facts, of which **question nine remains the one that decides it.**
+
+**One question added to the ten:** *has there been any conversation with the Eccles Hotel, and is there anything already running between the two?*
+
+---
+
+*Addendum · 9 August 2026 · Sunday Independent clippings REPORTED, not independently verified. Analysis is Meridian's own.*
