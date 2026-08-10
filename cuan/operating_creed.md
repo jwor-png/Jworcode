@@ -5,7 +5,7 @@ its discipline until it is actually closed out — not until it is mentioned onc
 Reviewed by John every day or every second day. Cuan updates this file as work
 happens; nothing gets dropped silently.
 
-Last updated: 29 July 2026 (post board meeting prep, pre-review)
+Last updated: 10 August 2026 (Gmail trawl + Sunday brain dump)
 
 ---
 
@@ -45,6 +45,22 @@ Last updated: 29 July 2026 (post board meeting prep, pre-review)
   August €3,000 monthly amount, balance €9,500 as at 6 August) sent to John
   Lynch 6 August, along with a request for a further payment in early course.
   Awaiting his response/payment.
+- **Julianstown / Old Mill — PLANNING PERMISSION GRANTED, 4 August.** Decision
+  to grant received from Meath County Council via Bronagh Clarke (Ward
+  Consult), 33 conditions attached. John replied same day. Whole design team
+  (Silveroak/Michael, Casana/Malachy, Oppermann, CS Consulting, GCAL, JBA)
+  copied and celebrating. Significant milestone.
+  - **Risk flagged 10 August (Myki/Michael, Silveroak):** likely appeal from
+    Fred Logue — his PR contact (Dave Curtain) has suggested making sure all
+    local councillors receive the Fred Logue submission to MCC re the
+    "Request for Further Information" replies. John replied he'd ask Sharon
+    about speaking with Logue and revert. Logue has backers in Meath who see
+    his objections as a good thing — track record of doing his own thing.
+- **Ambrion AI — UHL training programme schedule correction (dictated 10
+  August):** the session planned for 14 August is NOT happening as
+  previously understood. Corrected schedule: 25 August is now Programme
+  Two, Session One (not a second-programme continuation). 31 August is
+  Programme One, Session Three — concluding Programme One.
 - **Kilmallock Economic Enterprise Development (KEED)** — JJ Craft Brewing (John
   Coughlan) has expressed interest in buying the premises. John to talk to Richard
   Egan this week (Wed/Thu) on where the GVM valuation stands, and to progress a
@@ -61,6 +77,13 @@ Last updated: 29 July 2026 (post board meeting prep, pre-review)
 - **Life Balance exercise** — standing discipline, not a one-off: golf, gardening,
   and protected family time held consistently, every week, not squeezed out by
   venture work.
+- **Car servicing (dictated 10 August)** — Katrina's car booked in with Clinton
+  for Wednesday morning; her car needs dropped in tomorrow, Tuesday evening.
+- **Electric Picnic — Mary Lee (cousin)** — John needs to let Mary Lee know,
+  within 24 hours of 10 August, that he won't be attending Electric Picnic /
+  staying with her.
+- **Personal — book credits** — Spa website credits to use: order the latest
+  Donal Ryan novel and a Jamie Oliver barbecue book, online.
 - **Rugby club sponsorship** — €300 committed, team sponsorship, Friday 28 August,
   4pm, Limerick Golf Club.
 - **Charleville night out** — with Jimmy Conway, Joe O'Flaherty, Dave O'Riegan, Pat
@@ -192,6 +215,18 @@ Last updated: 29 July 2026 (post board meeting prep, pre-review)
     Glynn follow-up already sent).
   - **DONE — 5 August:** John emailed Paul O'Brien with the full wages detail
     on Lisa Doyle this afternoon. Awaiting his reply.
+  - Catriona (telclic.net) is on annual leave since 1 August — for urgent
+    Lisa Doyle matters, contact Sean (sean@telclic.net) or Llewellyn
+    (llewellyn@sremium.com) instead.
+- **MiDentalCare / BOI statements (dictated 10 August)** — John has emailed
+  Paula Bryan at the liquidator's office regarding the Bank of Ireland
+  statements. Sean has gone to Katrina to get what she has. Still needed:
+  the remainder from DSP Accountants, Limerick.
+- **Reply received (dictated 10 August, not yet located by name)** — John
+  says a reply has come in from a contact heard as "Jerb Lake," covering
+  numerous matters previously emailed to him. NAME UNCONFIRMED — nothing
+  matching that name found in a Gmail scan; flagging rather than guessing.
+  John to confirm the correct name/email so this can be picked up properly.
 
 ## 5. PROTECT MY PRESENT RESPONSIBLY
 
@@ -220,6 +255,20 @@ Last updated: 29 July 2026 (post board meeting prep, pre-review)
 - **ODIN / Tairseach fundraising conversations** — ongoing via Malachy and Mark
   Finlay threads above.
 - **Data Centre Ireland conference** — 18-19 November, forward planning item.
+- **Tangible event (dictated 10 August)** — John wants to build an app for the
+  Tangible event and the Collegiate Church visit on Tuesday evening. Has its
+  own session thread ("Tangible Ireland Group") — this content pushed there
+  for that thread to action, not held/actioned here.
+  - Guest outreach to start: Patty Maloney (of the traders, for the Tangible
+    Summer School — text or Instagram message), Ivan Hart (invite to speak
+    on Loch Gur — contact details via Majella), Maureen Lynch, Noel Collins.
+  - Post the event on the "Today" page on Facebook.
+  - Patricia O'Donnell (messaged re the driving show) due to revert tomorrow,
+    Tuesday evening.
+- **AHL — item flagged but unclear (dictated 10 August)** — John mentioned
+  needing to "complete descending of my AHL voice" and referenced "nothing
+  in my AHL session." Transcription unclear — flagging for John to clarify
+  rather than guessing at the action.
 
 ---
 
