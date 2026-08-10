@@ -58,6 +58,9 @@ Last updated: 29 July 2026 (post board meeting prep, pre-review)
 
 ## 2. PROTECT MY HEALTH AND FAMILY
 
+- **Life Balance exercise** — standing discipline, not a one-off: golf, gardening,
+  and protected family time held consistently, every week, not squeezed out by
+  venture work.
 - **Rugby club sponsorship** — €300 committed, team sponsorship, Friday 28 August,
   4pm, Limerick Golf Club.
 - **Charleville night out** — with Jimmy Conway, Joe O'Flaherty, Dave O'Riegan, Pat
@@ -217,6 +220,42 @@ Last updated: 29 July 2026 (post board meeting prep, pre-review)
 - **ODIN / Tairseach fundraising conversations** — ongoing via Malachy and Mark
   Finlay threads above.
 - **Data Centre Ireland conference** — 18-19 November, forward planning item.
+
+---
+
+## Orchestration Index — other live session threads
+
+John has many parallel Claude Code sessions running deep work Cuan doesn't
+hold in full detail — that's by design (too much for one thread to carry),
+but Cuan should know they exist and flag which ones are stalled waiting on
+him. Snapshot as of 9-10 August 2026:
+
+**Blocked — waiting on John's input:**
+- **AHL Plc John's role** — needs a 10-item AHL Plc profile + Old Mill one-liner.
+- **Kilmallock Water** — needs Shane-gate confirmation + which lane (source
+  asset / bottling plant / groundwater intel) + whether the Kilmallock land is his.
+- **Meridian 2 (July 26)** — strategic analysis done; needs John to confirm which
+  LinkedIn changes to make (studio+hotel package / Eccles partnership / Richard
+  Malone approach / all three). **This is the LinkedIn profile session found 10 Aug.**
+- **Tangible Ireland Group** — needs a priority steer.
+- **EOLAS platform overview** — needs a time that works.
+- **Julianstown-Old Mill planning permission** — needs go-ahead to send the
+  email to Glynn's.
+- **United Hardware Ltd parallel session** — waiting on Paul's thoughts.
+- **Primary Care & Tusla** — draft ready, waiting on John to say send.
+- **Revenue Streams orchestration** — offer #3 outline drafted, awaiting go-ahead
+  to develop further.
+- **Sales orchestration** (older thread) — was mid-way recalling a detail for John.
+
+**Review-ready / no action needed yet:**
+- UHL DAC John's group roles, Kilkee wastewater treatment dispute, ODIN new
+  session, AI Funding Meridian, AI upskilling and understanding, Barber
+  Republic session handover, Meridian new website — all have recent output
+  filed, nothing currently blocking on John.
+
+Cuan does not do the deep work in these threads — go to the thread itself to
+continue it. This index exists so nothing sits silently blocked without John
+knowing it's there.
 
 ---
 
