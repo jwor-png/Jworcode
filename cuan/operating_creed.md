@@ -222,11 +222,16 @@ Last updated: 10 August 2026 (Gmail trawl + Sunday brain dump)
   Paula Bryan at the liquidator's office regarding the Bank of Ireland
   statements. Sean has gone to Katrina to get what she has. Still needed:
   the remainder from DSP Accountants, Limerick.
-- **Reply received (dictated 10 August, not yet located by name)** — John
-  says a reply has come in from a contact heard as "Jerb Lake," covering
-  numerous matters previously emailed to him. NAME UNCONFIRMED — nothing
-  matching that name found in a Gmail scan; flagging rather than guessing.
-  John to confirm the correct name/email so this can be picked up properly.
+- **Ger Blake replied (10 August)** — confirmed by John (name corrected from
+  initial dictation "Jerb Lake") — his reply was on the AHL invoice, across
+  the numerous matters John had emailed him about. Not yet independently
+  located in a Gmail scan (search for his email address came up empty) —
+  John to forward or flag the thread if follow-up drafting is needed.
+- **AHL invoice (correction/link — the "AHL voice" note was actually AHL
+  invoice)** — John's August invoice sent 10 August to Dave Geoghegan and
+  Nicola Hegarty-McMillan at United Hardware (cc n.hegarty@hotmail.com),
+  requesting payment and confirmation. Supersedes the July invoice entry
+  above, which was awaiting payment.
 
 ## 5. PROTECT MY PRESENT RESPONSIBLY
 
@@ -265,10 +270,6 @@ Last updated: 10 August 2026 (Gmail trawl + Sunday brain dump)
   - Post the event on the "Today" page on Facebook.
   - Patricia O'Donnell (messaged re the driving show) due to revert tomorrow,
     Tuesday evening.
-- **AHL — item flagged but unclear (dictated 10 August)** — John mentioned
-  needing to "complete descending of my AHL voice" and referenced "nothing
-  in my AHL session." Transcription unclear — flagging for John to clarify
-  rather than guessing at the action.
 
 ---
 
