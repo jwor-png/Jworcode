@@ -222,11 +222,11 @@ Last updated: 10 August 2026 (Gmail trawl + Sunday brain dump)
   Paula Bryan at the liquidator's office regarding the Bank of Ireland
   statements. Sean has gone to Katrina to get what she has. Still needed:
   the remainder from DSP Accountants, Limerick.
-- **Ger Blake replied (10 August)** — confirmed by John (name corrected from
-  initial dictation "Jerb Lake") — his reply was on the AHL invoice, across
-  the numerous matters John had emailed him about. Not yet independently
-  located in a Gmail scan (search for his email address came up empty) —
-  John to forward or flag the thread if follow-up drafting is needed.
+- **Ger Blake (Director, DSB) replied — 10 August, 13:37**, on the Old Mill /
+  Julianstown planning decision thread (routed via his mobile to Producteev,
+  which is why it didn't surface in a direct Gmail search). He's in Kilkee
+  for 2 weeks, glad about the planning news, and is trying to get funding in
+  place to **start Midleton in October — described as "tough going."**
 - **AHL invoice (correction/link — the "AHL voice" note was actually AHL
   invoice)** — John's August invoice sent 10 August to Dave Geoghegan and
   Nicola Hegarty-McMillan at United Hardware (cc n.hegarty@hotmail.com),
