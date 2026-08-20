@@ -1,0 +1,452 @@
+<title>Kilmallock Lectern Card</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Karla:wght@400;500;600;700&display=swap">
+
+<style>
+  :root {
+    --ground: #F7F8F5;
+    --panel: #FFFFFF;
+    --ink: #1F2621;
+    --ink-soft: #566054;
+    --ink-faint: #7C857A;
+    --rule: #C9CEC4;
+    --rule-faint: #E2E6DE;
+    --green: #2F5D45;
+    --green-wash: #EAF0EA;
+    --ochre: #8F6420;
+    --ochre-wash: #F6EEDF;
+
+    --display: "Fraunces", "Iowan Old Style", Georgia, serif;
+    --utility: "Karla", "Helvetica Neue", Arial, sans-serif;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --ground: #141814;
+      --panel: #1B211B;
+      --ink: #E8EDE6;
+      --ink-soft: #A8B2A6;
+      --ink-faint: #838D81;
+      --rule: #384037;
+      --rule-faint: #262D26;
+      --green: #86BFA0;
+      --green-wash: #1E2A22;
+      --ochre: #D9A857;
+      --ochre-wash: #2A2318;
+    }
+  }
+
+  :root[data-theme="dark"] {
+    --ground: #141814;
+    --panel: #1B211B;
+    --ink: #E8EDE6;
+    --ink-soft: #A8B2A6;
+    --ink-faint: #838D81;
+    --rule: #384037;
+    --rule-faint: #262D26;
+    --green: #86BFA0;
+    --green-wash: #1E2A22;
+    --ochre: #D9A857;
+    --ochre-wash: #2A2318;
+  }
+
+  body {
+    background: var(--ground);
+    color: var(--ink);
+    font-family: var(--utility);
+    font-size: 16px;
+    line-height: 1.4;
+    margin: 0;
+    padding: 24px 16px 48px;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .card {
+    background: var(--panel);
+    max-width: 210mm;
+    margin: 0 auto;
+    padding: 14mm 13mm 11mm;
+    border: 1px solid var(--rule-faint);
+    box-sizing: border-box;
+  }
+
+  /* ---------- masthead ---------- */
+
+  .masthead {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 16px;
+    border-bottom: 2px solid var(--green);
+    padding-bottom: 7px;
+  }
+
+  .masthead h1 {
+    font-family: var(--display);
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-size: 31px;
+    line-height: 1;
+    letter-spacing: -0.015em;
+    margin: 0;
+    text-wrap: balance;
+  }
+
+  .masthead .slot {
+    font-size: 11px;
+    line-height: 1.45;
+    color: var(--ink-soft);
+    text-align: right;
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .masthead .slot b {
+    color: var(--green);
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+
+  /* ---------- columns ---------- */
+
+  .columns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0 9mm;
+    margin-top: 8mm;
+  }
+
+  .col {
+    display: flex;
+    flex-direction: column;
+    gap: 6mm;
+    min-width: 0;
+  }
+
+  @media (max-width: 700px) {
+    .columns { grid-template-columns: 1fr; gap: 6mm; }
+    .card { padding: 8mm 6mm; }
+  }
+
+  /* ---------- a beat ---------- */
+
+  .beat {
+    display: grid;
+    grid-template-columns: 13mm 1fr;
+    gap: 0 3mm;
+    align-items: baseline;
+  }
+
+  .beat .time {
+    font-size: 12px;
+    font-weight: 700;
+    color: var(--green);
+    font-variant-numeric: tabular-nums;
+    letter-spacing: 0.02em;
+  }
+
+  .beat h2 {
+    font-family: var(--display);
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-size: 15px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin: 0;
+    color: var(--ink);
+  }
+
+  .beat ul {
+    grid-column: 2;
+    margin: 3px 0 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+  }
+
+  .beat li {
+    font-size: 14.5px;
+    line-height: 1.36;
+    color: var(--ink);
+    padding-left: 9px;
+    border-left: 2px solid var(--rule-faint);
+  }
+
+  .beat li.quiet {
+    color: var(--ink-faint);
+    font-size: 13px;
+    font-style: italic;
+    border-left-color: transparent;
+  }
+
+  .say {
+    font-family: var(--display);
+    font-optical-sizing: auto;
+    font-size: 15px;
+    font-weight: 400;
+    color: var(--green);
+  }
+
+  b.fig {
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    letter-spacing: -0.01em;
+  }
+
+  /* ---------- the payload beat ---------- */
+
+  .beat.payload {
+    background: var(--ochre-wash);
+    padding: 4mm 4mm 4mm 3mm;
+    margin-left: -3mm;
+    margin-right: -3mm;
+    border-top: 2px solid var(--ochre);
+  }
+
+  .beat.payload .time { color: var(--ochre); }
+  .beat.payload h2 { color: var(--ochre); }
+  .beat.payload li { border-left-color: var(--ochre); }
+  .beat.payload .say { color: var(--ochre); font-weight: 600; }
+
+  /* ---------- numbers bar ---------- */
+
+  .numbers {
+    margin-top: 8mm;
+    border-top: 1px solid var(--rule);
+    border-bottom: 1px solid var(--rule);
+    padding: 4mm 0;
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    gap: 3mm;
+  }
+
+  @media (max-width: 700px) {
+    .numbers { grid-template-columns: repeat(4, 1fr); }
+  }
+
+  .numbers .n {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    min-width: 0;
+  }
+
+  .numbers .v {
+    font-family: var(--display);
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 1;
+    color: var(--green);
+    font-variant-numeric: tabular-nums;
+    letter-spacing: -0.02em;
+  }
+
+  .numbers .n.gold .v { color: var(--ochre); }
+
+  .numbers .k {
+    font-size: 9.5px;
+    line-height: 1.25;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+  }
+
+  /* ---------- caution ---------- */
+
+  .caution {
+    margin-top: 5mm;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 0 4mm;
+    align-items: start;
+  }
+
+  .caution .label {
+    font-size: 9.5px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    padding-top: 2px;
+    white-space: nowrap;
+  }
+
+  .caution ol {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px 6mm;
+  }
+
+  .caution li {
+    font-size: 12px;
+    line-height: 1.35;
+    color: var(--ink-soft);
+  }
+
+  .caution li strong { color: var(--ink); font-weight: 700; }
+
+  /* ---------- print ---------- */
+
+  @page { size: A4 portrait; margin: 0; }
+
+  @media print {
+    :root {
+      --ground: #FFFFFF;
+      --panel: #FFFFFF;
+      --ink: #14180F;
+      --ink-soft: #4A5248;
+      --ink-faint: #6E766C;
+      --rule: #B9BFB4;
+      --rule-faint: #DDE1D9;
+      --green: #274E3A;
+      --green-wash: #EDF2EC;
+      --ochre: #79521A;
+      --ochre-wash: #F7F0E2;
+    }
+    body {
+      padding: 0;
+      background: #FFFFFF;
+      font-size: 15px;
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+    .card {
+      border: none;
+      max-width: none;
+      padding: 11mm 12mm;
+      page-break-inside: avoid;
+    }
+    .columns { grid-template-columns: 1fr 1fr; }
+    .beat { page-break-inside: avoid; }
+  }
+</style>
+
+<div class="card">
+
+  <header class="masthead">
+    <h1>Kilmallock &amp; Environs</h1>
+    <p class="slot">
+      <b>Local Update</b><br>
+      Thu 20 Aug 2026 &middot; 10.15am &middot; Deebert House<br>
+      10 minutes &middot; Raymond synthesises at 12.30
+    </p>
+  </header>
+
+  <div class="columns">
+
+    <div class="col">
+
+      <section class="beat">
+        <span class="time">0:00</span>
+        <h2>Open</h2>
+        <ul>
+          <li>Walled medieval town. Under <b class="fig">2,000</b> people. Golden Vale.</li>
+          <li>King John's Castle, Dominican Priory, best merchant house in Ireland.</li>
+          <li class="say">"That is the postcard. Here is the update."</li>
+          <li>Last August: a town with potential. Today: things in the ground.</li>
+        </ul>
+      </section>
+
+      <section class="beat">
+        <span class="time">1:00</span>
+        <h2>Housing</h2>
+        <ul>
+          <li>Ash Hill, off Charleville Road by SuperValu. <b class="fig">42</b> units.</li>
+          <li>Glenfield, by the National School. <b class="fig">28</b> homes, Loquatlane.</li>
+          <li class="say">Condition: individual purchasers only. No funds. Unthinkable five years ago.</li>
+          <li>Third scheme, <b class="fig">31</b> dwellings, validated April. Do not name the road.</li>
+          <li><b class="fig">101</b> in the system. Circa <b class="fig">150</b> with council pipeline.</li>
+          <li>A <b class="fig">15</b> to <b class="fig">20%</b> bigger town. Schools, custom, belonging.</li>
+          <li class="quiet">Honest beat: a town that grows that fast without thinking grows badly.</li>
+        </ul>
+      </section>
+
+      <section class="beat">
+        <span class="time">3:30</span>
+        <h2>Heritage</h2>
+        <ul>
+          <li>Merchant's House, Sarsfield Street. Built <b class="fig">1570s</b>. Empty most of my lifetime.</li>
+          <li><b class="fig">&euro;886,200</b> of a <b class="fig">&euro;1.2m</b> Rural Regeneration allocation.</li>
+          <li>Design team contracted. Louise Cotter leading. Shovel ready.</li>
+          <li>SuperValu <b class="fig">&euro;2.5m</b> job includes medieval town wall repairs.</li>
+          <li class="say">"A supermarket investment that restores a fifteenth century wall."</li>
+        </ul>
+      </section>
+
+      <section class="beat">
+        <span class="time">5:30</span>
+        <h2>Infrastructure</h2>
+        <ul>
+          <li>Business Park at Ardyoul: engineering warehouse, retail warehouse.</li>
+          <li>Fire Service Training Centre, Part 8. A regional facility, here.</li>
+          <li>Charleville Road active travel: identified, <strong>not funded</strong>. Keep pressure on.</li>
+          <li>Railway bridge works ongoing.</li>
+          <li>County wide: five projects unlocking <b class="fig">10,784</b> homes.</li>
+        </ul>
+      </section>
+
+    </div>
+
+    <div class="col">
+
+      <section class="beat payload">
+        <span class="time">7:00</span>
+        <h2>Adare Manor</h2>
+        <ul>
+          <li>Thirty minutes up the road from this hotel.</li>
+          <li>Ryder Cup, <b class="fig">13</b> to <b class="fig">19 September 2027</b>.</li>
+          <li><b class="fig">&euro;58m</b> State investment. Up to <b class="fig">&euro;160m</b> projected return. <b class="fig">1,450</b> jobs.</li>
+          <li>Owned by JP McManus. Lives at Martinstown, four miles from this room.</li>
+          <li>Champion owner sixth year running. Twenty third of his career.</li>
+          <li>Martinstown solar application, decision due end of this month.</li>
+          <li class="say">Not celebrity. The most important commercial fact about this region.</li>
+        </ul>
+      </section>
+
+      <section class="beat">
+        <span class="time">9:00</span>
+        <h2>Close</h2>
+        <ul>
+          <li class="say">"When Tangible comes back in August 2027, we are four weeks out." <em>Let it sit.</em></li>
+          <li>Not the towns with the most capital. The ones that started talking in 2026.</li>
+          <li>Who has beds. Who has capacity. Who has product worth showing.</li>
+          <li>A visitor flies in from Georgia with three days spare either side of the golf.</li>
+          <li>Not a council function. Not a developer function. This room.</li>
+          <li class="say">"Curate opportunities. Do not collect them."</li>
+          <li>Pick two or three things we can be excellent at. Be ready.</li>
+        </ul>
+      </section>
+
+    </div>
+
+  </div>
+
+  <div class="numbers">
+    <div class="n"><span class="v">42</span><span class="k">Ash Hill units</span></div>
+    <div class="n"><span class="v">28</span><span class="k">Glenfield homes</span></div>
+    <div class="n"><span class="v">31</span><span class="k">Third scheme</span></div>
+    <div class="n"><span class="v">&euro;886k</span><span class="k">Merchant's House</span></div>
+    <div class="n"><span class="v">&euro;2.5m</span><span class="k">SuperValu</span></div>
+    <div class="n gold"><span class="v">13&ndash;19</span><span class="k">Sept 2027</span></div>
+    <div class="n gold"><span class="v">&euro;58m</span><span class="k">State in Ryder Cup</span></div>
+    <div class="n gold"><span class="v">1,450</span><span class="k">Jobs</span></div>
+  </div>
+
+  <div class="caution">
+    <span class="label">Hold the line</span>
+    <ol>
+      <li><strong>150</strong> is your local read, never a council figure.</li>
+      <li><strong>Petrol station</strong> unverified. Left out.</li>
+      <li><strong>31 homes</strong> road unconfirmed. Do not name it.</li>
+    </ol>
+  </div>
+
+</div>
