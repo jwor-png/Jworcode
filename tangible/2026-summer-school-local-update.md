@@ -41,7 +41,9 @@ In the last twelve months that changed. The Government allocated over one point 
 
 That money takes the project to shovel ready. The intention is a multi functional space for enterprise and community use.
 
-Sitting alongside it, the SuperValu in the town is going through a two and a half million euro redevelopment this year, and the works package includes repairs to the medieval town wall itself. A supermarket investment that also restores a fifteenth century wall. That is the kind of thing that only happens in a town that has decided what it is.
+Sitting alongside it, Liam Ryan is understood to be putting two and a half million euro into the SuperValu here, part of a wider seven and a half million programme across two Munster stores.
+
+And here is why that matters more than a shop upgrade. When that store was last rebuilt, it was done with archaeologists on site. Three medieval arches were conserved. One medieval arched doorway stands inside the shop today as a feature of the building. That is how this town does commercial development. It builds, and it keeps the fabric. Not many towns manage both.
 
 **(5:30) Infrastructure and enterprise**
 
@@ -96,7 +98,8 @@ External claims and where they come from. Nothing in the talk above is unsourced
 | 31 dwellings, unit mix, validated 30 April 2026 | Limerick City and County Council applications received, 27 April 2026, ref 25/61085 |
 | RRDF funding over 1.2m, 886,200 to Merchant's House | Limerick.ie newsroom, "Limerick Welcomes Over 1.2 Million To Advance Kilmallock and Rathkeale Projects" |
 | Merchant's House design team, Louise Cotter, conservation architect, engineers, QS | Limerick.ie newsroom, "Contracts Signed for Design Team to Lead Redevelopment" |
-| SuperValu Kilmallock 2.5m redevelopment plus medieval wall repairs | ACP Group project page, Kilmallock SuperValu; Irish Examiner on Ryan SuperValu investment |
+| SuperValu Kilmallock, 2.5m of a 7.5m two store programme, scheduled 2026 | Irish Examiner and bizbrief.ie. **WEAK. Search summaries only, both pages blocked, publication date unconfirmed.** |
+| Medieval arches conserved and archaeology during the earlier store rebuild | ACP Group project page, Kilmallock SuperValu. A separate and earlier project, not the 2026 spend |
 | Kilmallock Business Park applications, engineering warehouse and retail warehouse | PlanningAlerts.ie, Site D Ardyoul, Kilmallock Business Park |
 | Fire Service Training Centre Part 8 | Limerick City and County Council consultation portal |
 | Charleville Road active travel, identified not funded | Limerick Post, 30 July 2026 |
@@ -118,7 +121,9 @@ Three things I could not verify. Handle each as noted.
 
 3. **The location of the 31 dwelling scheme.** Confirmed as a Kilmallock application validated 30 April 2026, but I could not confirm which road. The talk deliberately does not name the site. If you know it, say it on the day.
 
-4. **Quarter of a million visitors.** I have used this as a widely quoted Ryder Cup attendance figure but did not source it to a Limerick specific document. Safer alternative if challenged: "a quarter of a million people are expected through the gates across the week." If you want it airtight, drop the number and say "tens of thousands of visitors a day for a week."
+4. **The SuperValu 2.5 million.** Reported by two outlets but I could not open either page, so I have not seen the primary text or its date. Say "understood to be" and you are safe. Do not say the works include medieval wall repairs. That was an error in my first draft, corrected here. The wall and arch conservation belongs to the earlier rebuild of the store, which is a separate project and a genuinely good point in its own right.
+
+5. **Quarter of a million visitors.** I have used this as a widely quoted Ryder Cup attendance figure but did not source it to a Limerick specific document. Safer alternative if challenged: "a quarter of a million people are expected through the gates across the week." If you want it airtight, drop the number and say "tens of thousands of visitors a day for a week."
 
 ## DELIVERY NOTES
 
