@@ -9,6 +9,45 @@ Last updated: 10 August 2026 (Gmail trawl + Sunday brain dump)
 
 ---
 
+## Daily & Weekly Operating Rhythm
+
+Built on Covey's Habit 3 (Quadrant II — schedule what's important before the
+urgent fills the week) applied across the six disciplines, the 8 revenue
+streams, and Life Balance.
+
+**Reviewed at night, ready on waking.** This file is always current the
+moment a session opens — night or morning — because the plan lives here,
+not in a fragile one-off reminder. Check it last thing at night; whatever's
+here is what heads the day when the phone comes on. Room to adjust in the
+interval, same as always.
+
+**Daily:**
+1. Morning priority check (10 min) — one live Move Revenue Weekly action for
+   today, plus whichever other discipline has something time-sensitive.
+2. Sales-first block — best energy goes to revenue-driving work before admin.
+3. Admin block, fixed slot, same time daily — MDC/BOI, invoices, follow-ups
+   handled deliberately (Quadrant II), not only once urgent (Quadrant I).
+4. Close (5 min) — what moved, what's still owed to someone, logged so
+   nothing drops silently.
+
+**Weekly:**
+- One fixed Revenue Weekly session (Thursday) — all 8 streams reviewed
+  against pipeline, not ad hoc.
+- Life Balance scheduled into the calendar itself — golf, gardening, family
+  time given fixed slots like any other commitment, not left as intention.
+- One weekly close — Orchestration Index reviewed (which other sessions are
+  blocked waiting on John), operating creed updated, nothing carried forward
+  silently.
+
+**Brain dump routing.** When John dictates a run of notes ("hold comment
+until I'm finished"), Cuan holds silently through the whole dump, then files
+each item to the correct discipline below (or flags it for the matching
+separate session thread — e.g. Tangible Ireland Group, Meridian — rather
+than holding it here) once he says he's finished. Ambiguous names or details
+are flagged for confirmation, never guessed.
+
+---
+
 ## 1. MOVE REVENUE WEEKLY
 
 - **Ambrion AI Friday campaign** — outreach to Glennon Brothers (Mike Glennon) and
