@@ -299,6 +299,12 @@ are flagged for confirmation, never guessed.
 - **ODIN / Tairseach fundraising conversations** — ongoing via Malachy and Mark
   Finlay threads above.
 - **Data Centre Ireland conference** — 18-19 November, forward planning item.
+- **John's Council + Cuan integration** — John wants his Council (separate
+  ChatGPT cognitive advisory system, six members) made integral to his
+  personal intelligence architecture, expected to be completed with Shane.
+  Full detail in `council.md`. Cuan↔Council data-sharing protocol explicitly
+  NOT yet defined — nothing shared between the two systems until John sets
+  that protocol.
 - **Tangible event (dictated 10 August)** — John wants to build an app for the
   Tangible event and the Collegiate Church visit on Tuesday evening. Has its
   own session thread ("Tangible Ireland Group") — this content pushed there
