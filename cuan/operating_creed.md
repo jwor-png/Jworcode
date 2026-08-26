@@ -15,6 +15,12 @@ Built on Covey's Habit 3 (Quadrant II — schedule what's important before the
 urgent fills the week) applied across the six disciplines, the 8 revenue
 streams, and Life Balance.
 
+**Daily 8am push — LIVE as of [this session].** A scheduled job reads this
+file each morning and pushes John a 2-3 line notification of the highest
+priority items, via Remote Control if connected. Honest limit: this job is
+session-only and auto-expires after 7 days — Cuan must proactively tell
+John before it lapses and re-set it, rather than let it go quiet.
+
 **Reviewed at night, ready on waking.** This file is always current the
 moment a session opens — night or morning — because the plan lives here,
 not in a fragile one-off reminder. Check it last thing at night; whatever's
