@@ -56,6 +56,28 @@ are flagged for confirmation, never guessed.
 
 ## 1. MOVE REVENUE WEEKLY
 
+- **Revenue push update (dictated, back at desk after a week away):**
+  Barber Republic work secured for the next 3 months; further United
+  Hardware training secured — both help cash flow. One orchestration sold
+  (buyer name to confirm — heard as "Paul Kendon," unverified). Target:
+  €30-40k/month coming in while pursuing ODIN and Tairseach funding/
+  investment plus other tech, and to cover travel, meetings, costs, expenses.
+- **Sensai / SMÁCHT — Shane's call with Pádraic Ó Máille went well, plan
+  agreed (Project Plan v2, 25 Aug 2026, go date Wed 26 Aug).** Shane's new
+  venture: **Sensai** is the brain — a personalised intelligence architecture
+  for mindset, habits, behaviours. **SMÁCHT is pillar one**, built as a
+  partnership with Pádraic (domain authority/voice/face to his people; Shane
+  = intelligence architect/builder). Three components: Flow State (product
+  one), Identity Integrity (product two), Orchestrations (the core — AI
+  taking non-genius work off people). Sequence is deliberate:
+  demo live orchestrations → both sides understand → ingestion form sent →
+  Pádraic completes it → then build (building is last, not first). Timeline:
+  understand/ingest this week → Flow State to his first circle by mid
+  October → his first orchestration through end 2026 → compounds into
+  Sensai/across pillars into 2027. Two-week sprint cadence. Commercial terms
+  agreed directly between Shane and Pádraic — not part of John's revenue
+  streams directly, but relevant as a live proof point for the personalised
+  intelligence architecture work feeding John's own orchestration.
 - **Ambrion AI Friday campaign** — outreach to Glennon Brothers (Mike Glennon) and
   3-5 other priority companies from the 24-list. Still needed: Mike Glennon's email
   and confirmed target list.
