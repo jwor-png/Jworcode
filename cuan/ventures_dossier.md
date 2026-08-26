@@ -98,7 +98,7 @@ This is the structural link between the two board roles. AHL Plc is landlord. Un
 | Body | "Hi Nicola & Dave, Please see my [Month] Invoice for your attention and payment. Best regards John" |
 | Billed to | AHL Plc, Magna House, Magna Drive, Citywest Road, Dublin 24 |
 
-**Historic note:** invoices before August 2026 were dated month end regardless of send date. July 2026 went on the 9th dated the 31st. John spotted this on 10 August 2026 and set the rule going forward. July stands as issued since it was processed and paid.
+**Historic note:** invoices before August 2026 were dated month end regardless of send date. July 2026 went on the 9th dated the 31st. John spotted this and set the rule going forward. July stands as issued since it was processed and paid. The August invoice, No. 27, was issued and sent in August 2026.
 
 **Not recorded here by design:** John's IBAN, BIC, tax number and mobile number appear on the invoice document but are deliberately kept out of this repository. They live on the invoice template only.
 
@@ -123,11 +123,69 @@ This is the structural link between the two board roles. AHL Plc is landlord. Un
 - **Monthly accounts:** circulated by Nicola ahead of board meetings
 - [ASK: next board date]
 
-### Live matters as at August 2026
-1. **Planning regularisation of Magna Drive.** Tom Phillips + Associates instructed (John Gannon, Julie). Compliance Report delivered December 2025. Purpose, in John's words to TPA in April 2026, is to regularise planning so that a sale in the coming months is not compromised.
-2. **Possible sale of the property.** Harvey (Kevin McHugh, William Harvey Ltd) produced a property report and valuation, July 2025, used for the audit. Shane Felle has stated he is in favour of a sale. [ASK: is this a live board decision with a timeline, or still exploratory?]
-3. **Fire alarm system upgrade.** Raised by Paul Candon (UHL CEO) April 2026. Securitas Technology Ireland recommended at approximately €99,000 plus VAT. Circulated to AHL directors as owner and landlord. [ASK: resolved or still open?]
-4. **Share transfers.** Jonas (West Cork Building) transfer handled via BDO, with AHL to invoice him personally. A further request came through Nicola from Mark Rice of RBCoogan, February 2026.
+### Live matters, position at 26 August 2026
+
+**1. 2025 audit, the dominant item**
+- Auditor: **BDO Ireland LLP**. Simon Carbery, Partner, Audit, is the lead. Aram Gevorgyan and Tswelopele Sebake on the team. Linda Kearney at United Hardware works the queries with Nicola.
+- BDO were targeting sign off by the end of August. An **AHL audit finalisation Teams meeting** has been called by Simon (invite issued 26 August to Dave Geoghegan, Linda Kearney, Aram and Tswelo, John copied).
+- The audit query list has run since early August. The blocker was board minutes.
+- **Minutes of the 22 April 2026 board meeting** were prepared and sent to Simon on 26 August. That was the last formal board meeting held. A meeting scheduled for 20 May did not proceed.
+- John's stated aim is to finalise the draft accounts, circulate for immediate Board approval, and firm up the AGM.
+
+**2. Fire compliance works at Magna House, now largely done**
+- Replacement of the fire alarm system and associated works came in at **approximately €106,000**.
+- Agreed in consultation with the directors that **AHL, as owner, would carry the cost** so as to bring the building into compliance and secure a new fire certificate.
+- Certification for completion of the works was received in the week to 26 August. A **new compliance inspection has been requested and is awaited**.
+- Originated April 2026 with Paul Candon, Securitas Technology Ireland recommended at circa €99,000 plus VAT.
+- This delay is the main reason the board meeting cadence slipped from May onward.
+
+**3. Possible sale of the premises, live but undecided**
+- Harvey (Kevin McHugh, William Harvey Ltd) produced the property report and valuation. The updated valuation was circulated to directors on receipt and shared with BDO.
+- **A meeting of the member shareholders will be held in conjunction with the AGM** to consider the premises and a possible sale, given interest shown in the property.
+- **No decision to sell has been taken.** The Board's position is that it would want **in the region of 70% of members in favour** before adopting any decision to place the property on the market.
+- Shane Felle has stated he is in favour of a sale.
+- Planning regularisation via Tom Phillips + Associates (John Gannon, Julie) runs alongside this, so that a sale is not compromised by the outstanding condition. Formal drawings of the yard storage area are to be prepared, jointly with United Hardware to maximise the storage opportunity.
+
+**4. Debtors: Smyth and Mulvey**
+- Confirmed to BDO on 25 August that both accounts **will be pursued for collection and therefore remain in debtors** for the year while John works through them with both parties.
+- See the Smyths of Killucan matter below, which is entangled with the Smyth account.
+
+**5. Shannonside credit claim (Shane Felle)**
+- Shane Felle claims an initial overcharge of **approximately €105,000**, of which he says €75,000 is definitely owed.
+- The amount carried in the accounts is significantly less. John is negotiating a compromise figure the Board would accept.
+- AHL does not appear to have recourse against suppliers for the credit refunds claimed.
+- **Voluntarily disclosed to BDO on 25 August** by forwarding Shane's email in full.
+- Note the coincidence: this €105,000 and the €106,000 of fire works are unrelated figures of similar size. John flagged the distinction expressly to Simon.
+
+**6. Share transfers, three separate positions**
+| Party | Position |
+|---|---|
+| Jonas McCarthy, West Cork Building Supplies Ltd, Clonakilty | Has not progressed the previous transfer request. **The matter is at an end.** |
+| Ignatius Cahill, Gort | Acquired the shares previously held by the Liquidator of his former Gort company. Formally requested transfer into his name on 6 August 2026. Wants to proceed. |
+| RB Coogan Ltd | Business acquired by Ulster Builder Providers Ltd. Wants to proceed. |
+
+Both live transfers go to the Board at the next meeting, after which John will obtain a BDO fee quote for the company secretarial work.
+
+**Two inconsistencies to resolve before the register is written up:**
+- The April minutes record Cahill's shares as "transferred back to him by the Liquidator". John's 26 August email to BDO says he "purchased" them, and Cahill's own email says he purchased them from Conor O'Boyle. Purchase and transfer back are different transactions.
+- The RB Coogan contact was recorded as **Mark** Rice in February 2026 and as **Dominic** Rice on 26 August. One is wrong.
+
+**7. Smyths of Killucan product claim**
+- Counterparty: **Ray Smyth**, Smyths of Killucan Homevalue Hardware, T.L O'Callaghan Ltd, Killucan, Mullingar, Co Westmeath. Correspondence runs through accounts@smythskillucan.ie.
+- Long running claim by Smyths' customer for remedial works to his home arising from an allegedly defective product used to create a render.
+- July 2026: John understood the customer sought circa €70,000 and owed Smyths circa €20,000 on account. Ray's reply of 31 July put the settlement figure at **€90,000**.
+- Ray states the customer was assured the claim would be index linked, "a matter that was discussed on a number of occasions with your accountant, Emmet". **Emmet Cooney is an AHL director.** This needs to be checked with Emmet before AHL denies responsibility.
+- **Evidence on the product.** Mark Doherty of Marsh Ireland wrote to Paul Candon on 28 June 2024 in the matter of Conway v Mulvey Homevalue / United Hardware / Northstone. The Sedgwick loss adjuster acting for Northstone stated that the product, white limestone sand, was a proprietary raw material supplied with no stipulation as to end use and no guarantee of fitness for use as a render, that it was not advocated for that purpose, that there is no knowledge of the other ingredients, the mix ratio, who mixed it or the process followed, and that they see no evidence of negligence. Marsh advised United Hardware to extract itself, the product never having been on its premises.
+- **Caveat.** That correspondence concerns the Mulvey matter. Whether it carries across to the Smyth customer claim depends on the product and supply route being the same. To be confirmed before relying on it.
+- A reply to Ray Smyth is drafted and awaiting John's review. Thread subject: Product issues, marked Without Prejudice.
+
+### Governance calendar, updated
+- **AGM: 23 September 2026.** The April board meeting had planned July at the Green Isle Hotel. The date has moved. [ASK: venue confirmed?]
+- **Board meeting to approve the 2025 accounts**, to be convened once the draft is finalised
+- **Board meeting on the morning of the AGM**, 23 September
+- **Members and shareholders meeting** in conjunction with the AGM, on the premises and a possible sale
+- **Audit Committee** remains in place and is likely to need a call
+- Annual return made up to 30 September
 
 ### Open questions [ASK]
 1. CRO number, and confirmation the Plc is unlisted
@@ -135,8 +193,8 @@ This is the structural link between the two board roles. AHL Plc is landlord. Un
 3. Letter of appointment and remuneration terms, signed and in place
 4. D and O insurance, in place and current
 5. Declared interests register, given the landlord and tenant relationship with UHL
-6. Shareholder base and share register status
-7. Next board date
+6. Basis of the Cahill acquisition, and the correct first name for Rice at RB Coogan
+7. Whether Emmet Cooney gave assurances on index linking in the Smyth claim
 
 ### Governance frame Cuan applies
 Derived from `governance.md` and `operating_spec.md`. These are Cuan's standing rules, not facts about AHL Plc.

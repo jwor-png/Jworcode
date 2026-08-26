@@ -18,7 +18,8 @@
 - **CEO:** Paul Candon
 - **Chief Financial Officer:** David Geoghegan (david.geoghegan@unitedhardware.ie). "Dave" in John's invoice and finance correspondence. Authorises and executes AHL Plc payments and holds Sage payroll access.
 - **Commercial Director:** David Shakeshaft (david.shakeshaft@unitedhardware.ie). A different Dave. This is the Ambrion AI conversation, currently a second training programme.
-- **Finance Manager:** Nicola Hegarty McMillan FCCA MIATI (nicola.hegartymcmillan@unitedhardware.ie, n.hegarty@hotmail.com). Prepares AHL Plc monthly accounts and minutes and processes payments. Always use both addresses.
+- **Finance Manager:** Nicola Hegarty McMillan FCCA MIATI (nicola.hegartymcmillan@unitedhardware.ie, n.hegarty@hotmail.com). Prepares AHL Plc monthly accounts and minutes and processes payments. Always use both addresses. Unavailable for an extended period from mid 2026 for personal reasons, see below.
+- **Finance:** Linda Kearney (linda.kearney@unitedhardware.ie), works the AHL audit query list with BDO alongside Nicola
 - **Chair of the UHL board:** Eoin McGettigan (eoin.mcgettigan@gmail.com)
 - **Audit committee colleague:** Michael O'Driscoll (modriscoll@bandoncoop.ie)
 - **External auditor:** Mazars (David Rowan). Not to be confused with BDO, who handle AHL Plc company secretarial.
@@ -30,7 +31,9 @@
 - **John's role:** Chairman
 - **Fellow directors:** Shane Felle (sfelle@shannonside.net and shanefelle1@gmail.com, the first bounces intermittently), Joe Wallace (josephjoewallace@gmail.com), Eoin Lynch (eoin@dlynch.ie), John Smyth (jsmythkillucan@gmail.com), Emmet Cooney (emmetcooney@hotmail.com)
 - **Finance and administration:** Nicola Hegarty McMillan and David Geoghegan, both United Hardware staff (see above)
+- **Auditor:** BDO Ireland LLP — **Simon Carbery**, Partner, Audit (scarbery@bdo.ie), lead on the 2025 audit. Aram Gevorgyan (agevorgyan@bdo.ie) and Tswelopele Sebake (tsebake@bdo.ie) on the team.
 - **Company secretarial:** BDO — Nell Burke, M Keane, CoGovTeam3@bdo.ie
+- **Board changes:** Joe Wallace sat on both the AHL and United Hardware boards until his resignation from the United Hardware board in or around April 2026. He continues as a director of AHL. Shane Felle and Eoin Lynch sit on both boards.
 - **Advisers:** Tom Phillips + Associates on planning (John Gannon, Julie, Jerry Lucey). Harvey on property and valuation (Kevin McHugh)
 - **Cuan notes:** AHL Plc is landlord to United Hardware. John sits on both sides. Treat every cross entity item as a declared interest. See `ventures_dossier.md`.
 
