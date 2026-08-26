@@ -19,6 +19,7 @@ This file is additive. New entries go in the log at the bottom; the alignment ma
 | Shane McCarthy | Technical partner, Meridian co-founder — direct conversations, working sessions, architecture decisions | Ongoing |
 | UHL training | The senior executive AI training programme at United Hardware Limited (see `ventures_dossier.md` — €10,000 programme, approved) | Ongoing |
 | Golden Generation | The Golden Generation partner toolkit / "Other Side of Sixty" content programme (see `ventures_dossier.md`, `meridian/managers/05-ai-strategy-and-adoption.md`) | Ongoing |
+| Anthropic materials | Guides, case studies, and playbooks on AI-native operating models (e.g. Claude Code product documentation) | Ongoing |
 
 ## Alignment Map — Where Learning Should Land
 
@@ -47,8 +48,7 @@ Captured elsewhere in this repo and indexed here so they're not duplicated or lo
 
 Newest entry first. Format: Date | Source | Topic | Key point | Aligns to
 
-*(No dated entries yet — this fills in as John feeds in notes, voice memos, or slide snippets.)*
-
 | Date | Source | Topic | Key point | Aligns to |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| 2026-08-26 | Anthropic — *Claude Code Guide for Startups* (PDF) | "Trust, but verify" governance model | Cainex (medical billing) case: auditor review of every AI-generated code, versioned change logs, back-testing against a "golden set," and the rule "fix the principle, not the example" so corrections generalise rather than accumulate as patches. A ready-made template for responsible, defensible, verifiable AI adoption. | Meridian (`05-ai-strategy-and-adoption.md`); Cuan `governance.md` (Verification Standard) |
+| 2026-08-26 | Anthropic — *Claude Code Guide for Startups* (PDF) | Five rules of AI-native operating models | From 13+ fast-growing startups (ClickHouse, Clay, Harvey, Cognition, Commure, Crosby, Heidi, Cainex, Artemis Security, Omni, and others): (1) Everyone ships — non-technical staff shipping first drafts, kept coherent via shared skills and review cadence; (2) Automate the tedium — agents own the mechanical 80% of the workflow; (3) Trust, but verify — governance and evaluation make automation safe; (4) Build for rebuilding — nothing is precious as model capability shifts; (5) Prototype, dogfood, productionise — internal tools graduate to client-facing product. Working vocabulary: CLAUDE.md, skills, hooks, evals, agent loops, worktrees. | Meridian (`05-ai-strategy-and-adoption.md`) |
