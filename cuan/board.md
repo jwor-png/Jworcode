@@ -10,19 +10,27 @@ Last refreshed: 2026 (rebuilt for phone readability + priority order)
 
 ---
 
-## 🥇 TOP PRIORITY — Meridian Intelligence (70% owned — outcome is directly John's)
+## 🥇 THE BIG BETS — bigger payoff than revenue streams, not day-to-day cash
 
-🟡 Not currently moving. This is the one stream where effort converts most
-directly to John, not a minority stake. Website build is live in its own
-session — needs a status pulled from there. **This should be first thing
-addressed, ahead of minority-stake items below.**
+These are the equity/exit-scale plays, not the monthly-cashflow items below.
+Different rhythm needed: less frequent check-ins, higher-stakes moves.
 
-## Everything else, one line each
+🟡 **Meridian Intelligence** — 70% owned, outcome directly John's, not a
+minority stake. Not currently moving. Website build is in its own session —
+needs a status pulled from there.
+🟢 **ODIN** — funding conversations ongoing (Mark Finlay thread).
+🟡 **Tairseach** — property-specific organism descended from ODIN; funding
+conversations bundled with ODIN's above.
+🟡 **Children (Institutional Architecture)** — separate from the ODIN IP
+estate; status not currently logged here, needs an update from John.
+⚪ **Other tech-for-sale/investment candidates** — flagged as existing but
+not yet itemised; John to name them so they can be tracked individually.
+
+## Revenue streams — cash flow, day-to-day, one line each
 
 🟢 UHL Hardware (AHL) — Aug invoice sent, awaiting payment
 🟢 Ambrion AI — training 25 & 31 Aug confirmed
 🟢 Barber Republic — 3 months secured, MVP with Shane in progress
-🟢 ODIN — funding conversations ongoing
 🟡 Julianstown Mill — statement + payment request sent, awaiting reply
 🔴 Velocity AI — Gmail script fix still outstanding
 ⚪ Golden Generation — nothing live right now
