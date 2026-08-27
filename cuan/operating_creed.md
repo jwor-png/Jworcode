@@ -138,6 +138,28 @@ are flagged for confirmation, never guessed.
   - **Next action:** Shane holding for Johnny's response to the Money Model,
     then putting a consolidated commercial + legal position back to the
     group before anyone opens week one.
+  - **"Working in Parallel" plan (Shane, via Velocity AI, for Johnny &
+    John) — John's objection, flagged directly:** the plan splits work into
+    three tracks — Track One (Johnny: cohort recruitment, craft standard,
+    brand/narrative, distribution — London-based, in-person, week-six
+    visit); Track Two (John: capital raise, legal/compliance, company
+    structure, investor pipeline, tooling); Track Three (together:
+    commercial model, narrative, gameplan). **John does not feel he can
+    fulfil Track Two as drafted** — he's based in Ireland, and it's a
+    serious, heavy ask (raise strategy, counsel coordination, agency-
+    regulation/worker-classification compliance, data protection posture,
+    investor vetting, company/banking setup) **for which he is not being
+    paid** — the only monthly payment in this arrangement is for Shane's
+    build scope. This needs raising directly with Shane before Track Two is
+    treated as agreed.
+  - **New ownership/governance facts (dictated):** Johnny's company (heard
+    as "Barber Barber," name to confirm) will hold the shares, split 50/50
+    with **Morgan Leahy**, who is represented by **Neil Dignam** — Dignam is
+    the actual decision-maker for that company, not Johnny alone. The
+    company borrowed the first £15,000 payment made to Shane. This changes
+    who John is actually negotiating with/for on the commercial model —
+    worth factoring into the consolidated position before it goes back to
+    the group.
 - **SkillNet registration for Velocity AI** — to be actioned, needs company details
   (address, sector, employee numbers).
 - **AHL July invoice** — sent to Nicola/Dave, awaiting payment.

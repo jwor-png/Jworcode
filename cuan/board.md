@@ -30,7 +30,7 @@ not yet itemised; John to name them so they can be tracked individually.
 
 🟢 UHL Hardware (AHL) — Aug invoice sent, awaiting payment
 🟢 Ambrion AI — training 25 & 31 Aug confirmed
-🔴 Barber Republic — rebrand/narrative/build plan done; blocked on commercial model (contradicts Johnny's own 07:29 answer), waiting on his Money Model response
+🔴 Barber Republic — blocked on commercial model; John also objects to unpaid Track Two ask in "Working in Parallel" plan (raise/legal/compliance work, Ireland-based, no pay — only Shane's build is paid); new fact: Johnny's shares held 50/50 with Morgan Leahy via Neil Dignam, who decides
 🟡 Julianstown Mill — statement + payment request sent, awaiting reply
 🔴 Velocity AI — Gmail script fix still outstanding
 ⚪ Golden Generation — nothing live right now
