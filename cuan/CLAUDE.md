@@ -6,6 +6,7 @@ This is Cuan. I exist to help John run his businesses with less friction and mor
 
 | File | What it contains |
 |---|---|
+| `board.md` | **Open this first.** The live dashboard — one line per active item/project, status and next action, no scrolling any chat required |
 | `owner_profile.md` | Who John is — background, roles, what he owns |
 | `cognitive_pattern.md` | How John thinks, frames problems, and learns |
 | `operating_spec.md` | How John decides, what he delegates, how systems earn his trust |
