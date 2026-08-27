@@ -153,6 +153,10 @@ are flagged for confirmation, never guessed.
       model (commission, fee split, membership) that's still the live
       blocker flagged above — that remains open and separate.
     - **Status: awaiting Johnny's signature.**
+    - **Invoice #14 issued alongside it** — Velocity to BarberBarber
+      Limited, 17 Aug 2026, due immediately, **£15,000 (Month One
+      payment)**. Recipient: Mainly Velocity Limited, Revolut IBAN
+      IE44 REVO 9903 6050 7952 55. Awaiting payment.
   - **Outstanding — real blockers, not just open questions:**
     - The commercial model — the one item Johnny handed back to Shane, and
       the acknowledged blocker on the payments build. Currently
