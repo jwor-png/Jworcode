@@ -55,6 +55,13 @@
 - **Property:** John coordinates the Bantry property project (11 Cois Riasc) on her behalf
 - **Cuan notes:** [ASK — further context on family structure relevant to scheduling and priorities]
 
+### Howard Webb
+- **Relationship:** Cousin.
+- **Business:** Newly incorporated company, Websport Horses Limited. John
+  is a director. (Note: session artifact titles seen elsewhere read "Webb
+  Sports Horses" — treat as the same entity, exact company name to confirm
+  from the incorporation documents.)
+
 ### Cuan (grandson)
 - The personal intelligence system is named after him. In Irish: "the little wolf" and "the safe harbour."
 - Born 24 April 2024. As of 12 June 2026, he is 26 months old.

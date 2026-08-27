@@ -310,6 +310,11 @@ are flagged for confirmation, never guessed.
   Board Report. Once formally confirmed at/after the meeting: (1) request Securitas
   completion certificates from Paul Candon, (2) request fresh inspection from ORS
   (Sinead Birmingham) to obtain the new Fire Cert. Both emails drafted and held.
+- **Websport Horses Limited — new directorship.** Newly incorporated company
+  belonging to Howard Webb (John's cousin). John is a director. See
+  `people_map.md`. No further detail yet — flag for John to confirm
+  governance basics (role/duties, other directors, any filings due) when
+  there's time.
 - **AHL Executive Risk Solutions (D&O) policy** — Hang Zhao flagged options on
   6 July (current limit €500k vs increasing). Still outstanding, no reply sent yet.
 
