@@ -120,9 +120,29 @@ are flagged for confirmation, never guessed.
     "republic," keywords/lines picked); 3 of Johnny's 4 build decisions
     answered (taste axis across all tiers; verification as ID + portfolio +
     years; tier naming as Super Pro Classic / Super Pro Modern); a 12-14 week
-    build plan drafted and sequenced (correction: total Phase One fee is
-    **£55,000**, not £42,000 as earlier logged — confirmed by the signed
-    agreement below).
+    build plan drafted and sequenced.
+  - **Build Scope Proposal (Velocity AI/Shane, July 2026) — full document
+    reviewed, original pricing baseline.** Originally quoted **£42,000, up
+    to £50,000** with headroom only drawn if extra compute/tooling is
+    genuinely needed — structured as £14,000/month (£14k upfront, three
+    monthly payments), plus travel/accommodation for two UK visits on top
+    (week 6 mid-build check, and on completion for go-live). Build runs
+    Month One (foundations, architecture/security/data/governance,
+    onboarding & profiles) → Month Two (posting & matching, booking &
+    payments) → Month Three (operator console & hardening, pilot-ready).
+    Platform loop: join & verify → set tier → publish availability → AI
+    matching (must-match rules: availability/approval/tier/distance/rate,
+    then ranked by reliability/ratings/history/urgency) → book & complete →
+    pay & rate. Explicitly built for expansion — barbering first, then the
+    same verified-people/tiers/matching/payment/trust pattern into
+    hairdressing, hospitality, bar & floor, and events once proven. Security/
+    GDPR/regulated payments/full auditability stated as built in from the
+    first line of code.
+  - **NOTE — this £42-50k figure was later revised upward, not an error:**
+    the 17 Aug signed Agreement below supersedes this Build Scope's payment
+    structure with a **£55,000** total. Worth understanding why the price
+    moved (£15k/£15k/£25k in the new structure vs £14k/£14k/£14k here) —
+    flag to Shane if the reason for the increase isn't already clear.
   - **Phase One MVP Development Agreement — 17 Aug 2026, pending Johnny's
     signature (John's message: "this is the agreement which Johnny needs
     to send back signed").** Between Mainly Velocity Limited (Co. 804908,
