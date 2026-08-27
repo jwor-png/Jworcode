@@ -119,8 +119,40 @@ are flagged for confirmation, never guessed.
     sign-off); narrative selections made (Mission 1, Vision 1, "network" for
     "republic," keywords/lines picked); 3 of Johnny's 4 build decisions
     answered (taste axis across all tiers; verification as ID + portfolio +
-    years; tier naming as Super Pro Classic / Super Pro Modern); a 14-week,
-    £42,000 build plan drafted and sequenced.
+    years; tier naming as Super Pro Classic / Super Pro Modern); a 12-14 week
+    build plan drafted and sequenced (correction: total Phase One fee is
+    **£55,000**, not £42,000 as earlier logged — confirmed by the signed
+    agreement below).
+  - **Phase One MVP Development Agreement — 17 Aug 2026, pending Johnny's
+    signature (John's message: "this is the agreement which Johnny needs
+    to send back signed").** Between Mainly Velocity Limited (Co. 804908,
+    Ireland, trading as VelocityAI) and **BarberBarber Limited**, 53 King
+    Street, Manchester M2 4LQ, UK. Key terms:
+    - **Payment: £15,000 / £15,000 (~week 5) / £25,000 (~week 9) = £55,000
+      total**, each payment due before the corresponding development
+      period starts. Covers core build, agreed extra tech/compute/tooling,
+      and Shane's UK travel/expenses.
+    - **Roles, written into the contract:** Shane/Velocity leads tech
+      architecture, development, delivery. Johnny/BarberBarber provides
+      industry/operational input and assembles the barber/shop cohort.
+      **John Webb O'Rourke is named as commercial lead — commercial
+      strategy, funding, and route-to-market development.** No separate
+      fee attaches to John's role in this agreement — the only payment
+      flows to Velocity (of which John holds 30%, per his own correction
+      above). This is the actual contractual basis for the "Working in
+      Parallel" Track Two ask flagged as a concern.
+    - **IP:** ownership of the Barber Republic platform (software, code,
+      design, brand) transfers to BarberBarber only once the full £55k is
+      paid; until then Velocity retains ownership and BarberBarber gets a
+      limited pilot licence. Velocity permanently retains its own
+      pre-existing IP and the underlying marketplace architecture/
+      frameworks — BarberBarber gets a licence to that as embedded, not
+      ownership; any use beyond Barber Republic needs a separate agreement.
+    - **Scope boundary — important:** this agreement covers only the
+      Phase One build fee. It does NOT resolve the ongoing commercial
+      model (commission, fee split, membership) that's still the live
+      blocker flagged above — that remains open and separate.
+    - **Status: awaiting Johnny's signature.**
   - **Outstanding — real blockers, not just open questions:**
     - The commercial model — the one item Johnny handed back to Shane, and
       the acknowledged blocker on the payments build. Currently

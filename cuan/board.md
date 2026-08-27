@@ -30,7 +30,7 @@ not yet itemised; John to name them so they can be tracked individually.
 
 🟢 UHL Hardware (AHL) — Aug invoice sent, awaiting payment
 🟢 Ambrion AI — training 25 & 31 Aug confirmed
-🔴 Barber Republic — blocked on commercial model; John flags Track Two ask (raise/legal/compliance, Ireland-based) isn't separately paid — monthly payment goes to Velocity AI (John's 30% share), unclear if that's meant to cover Track Two too; new fact: Johnny's shares held 50/50 with Morgan Leahy via Neil Dignam, who decides
+🔴 Barber Republic — Phase One agreement (£55k, corrected from £42k) with Johnny/BarberBarber, awaiting his signature; John is contractual commercial lead but not separately paid (only via 30% Velocity share); ongoing commercial model (commission/fee split) still unresolved separately; Johnny's shares 50/50 with Morgan Leahy via Neil Dignam, who decides
 🟡 Julianstown Mill — statement + payment request sent, awaiting reply
 🔴 Velocity AI — Gmail script fix still outstanding
 ⚪ Golden Generation — nothing live right now
