@@ -113,6 +113,31 @@ are flagged for confirmation, never guessed.
 - **Barber Republic — True Global (Silvana) and Hatch (Graham) proposals** — rebrand
   from BarberTemp to Barber Republic agreed in principle. Needed: original Hatch
   intro document and feedback received, to produce revised proposal.
+- **Barber Republic — full status pulled from its session (dictated back,
+  status as of this update):**
+  - **Done:** rebrand to Barber Republic locked (identity system + Johnny's
+    sign-off); narrative selections made (Mission 1, Vision 1, "network" for
+    "republic," keywords/lines picked); 3 of Johnny's 4 build decisions
+    answered (taste axis across all tiers; verification as ID + portfolio +
+    years; tier naming as Super Pro Classic / Super Pro Modern); a 14-week,
+    £42,000 build plan drafted and sequenced.
+  - **Outstanding — real blockers, not just open questions:**
+    - The commercial model — the one item Johnny handed back to Shane, and
+      the acknowledged blocker on the payments build. Currently
+      **contradicts Johnny's own 07:29 answer on who pays what.**
+    - The tech fee has no named payer.
+    - Operator desk and compute costs left blank under a margin claim that
+      will face investors.
+    - Right-to-work gap and the wider agency-regulation/worker-
+      classification read — the build plan puts this on Shane in **week
+      one**, not week eleven as it should logically land.
+    - The narrative and the intelligence subscription are pointing in
+      different directions.
+    - Trade statistics unsourced; Johnny's personal "three shops" figure
+      unconfirmed.
+  - **Next action:** Shane holding for Johnny's response to the Money Model,
+    then putting a consolidated commercial + legal position back to the
+    group before anyone opens week one.
 - **SkillNet registration for Velocity AI** — to be actioned, needs company details
   (address, sector, employee numbers).
 - **AHL July invoice** — sent to Nicola/Dave, awaiting payment.
