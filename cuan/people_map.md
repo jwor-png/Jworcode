@@ -48,6 +48,17 @@
 
 ---
 
+## Meridian Intelligence Clients / Prospects
+
+### Carl Webb
+- **Company:** Webb Sports Horses — Irish sport horse breeding and trading operation (40 horses)
+- **Structure:** Carl is based in the United States while trading in Ireland
+- **Engagement:** Meridian Intelligence prepared a full Executive Intelligence Brief for Carl (July 2026) covering Commercial, Business Growth, AI Strategy, and Investment domains
+- **Status:** Brief delivered/drafted; five recommendations outstanding — stallion stud formalisation, international platform sales, selective retention to age 7, commercial identity build, US investor/syndication conversation
+- **Cuan notes:** Marked Private and Confidential — treat under standard confidentiality handling; no commercial commitment without Shane's alignment if any technical/AI build work follows from this
+
+---
+
 ## Family
 
 ### Niamh Webb O'Rourke

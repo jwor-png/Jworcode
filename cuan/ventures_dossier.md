@@ -102,6 +102,23 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 
 ---
 
+## Webb Sports Horses (Carl Webb — Meridian Intelligence client)
+- **What it is:** A 40-horse Irish sport horse breeding and trading operation. Carl breeds 1 to 3 foals per year and buys the rest to hold 8 to 10 head per age group from foal to 6 years. A stallion was recently added, to stand at public stud from next year.
+- **Structure:** Carl is based in the United States while trading in Ireland — a dual-jurisdiction operation
+- **Engagement type:** Client of Meridian Intelligence — an Executive Intelligence Brief was prepared for Carl (July 2026), Private and Confidential, covering Commercial, Business Growth, AI Strategy, and Investment intelligence
+- **Current valuation estimate:** Asset-based valuation at current scale sits at roughly EUR 850,000 to EUR 1.1 million
+- **Five recommendations made:**
+  1. Formalise the stallion stud programme and license frozen semen for EU/US export before next breeding season
+  2. Place two horses on an international platform (Equideo/Arqana Digital) next sales cycle to test international price discovery
+  3. Retain the best horse per cohort to age 7 to capture the value inflection
+  4. Build a professional commercial identity (sales website, dossiers, video, social)
+  5. Open a US investor/partner conversation around co-ownership syndication
+- **Status:** Brief prepared and delivered; recommendations outstanding, no execution work committed
+- **John's role:** Principal, Meridian Intelligence — advisory brief author
+- **Cuan notes:** This is a Meridian (commercial layer) client engagement, not a Cuan personal venture. No technical or commercial commitment proceeds without Shane's alignment if this turns into build work (e.g. AI gait analysis, data platform).
+
+---
+
 ## LinkedIn / "Other Side of Sixty"
 - **What it is:** LinkedIn content series on experience, technology, and the second half of a working life
 - **System:** JWOR Publishing System — John records voice notes; structured and edited into finished posts
