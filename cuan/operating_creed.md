@@ -149,9 +149,13 @@ are flagged for confirmation, never guessed.
     serious, heavy ask (raise strategy, counsel coordination, agency-
     regulation/worker-classification compliance, data protection posture,
     investor vetting, company/banking setup) **for which he is not being
-    paid** — the only monthly payment in this arrangement is for Shane's
-    build scope. This needs raising directly with Shane before Track Two is
-    treated as agreed.
+    paid directly** — the monthly payment in this arrangement goes to
+    **Velocity AI** (for the build scope), of which John takes **30%** — so
+    he does have an economic interest via Velocity, but nothing separately
+    compensates the Track Two work itself (raise/legal/compliance/investor
+    work). Worth raising directly with Shane whether that 30% is meant to
+    cover Track Two too, or whether Track Two needs its own arrangement,
+    before it's treated as agreed.
   - **New ownership/governance facts (dictated):** Johnny's company (heard
     as "Barber Barber," name to confirm) will hold the shares, split 50/50
     with **Morgan Leahy**, who is represented by **Neil Dignam** — Dignam is
