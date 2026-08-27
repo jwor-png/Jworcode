@@ -48,14 +48,15 @@
 
 ---
 
-## Meridian Intelligence Clients / Prospects
+## Business Partners
 
 ### Carl Webb
-- **Company:** Webb Sports Horses — Irish sport horse breeding and trading operation (40 horses)
+- **Company:** Webb Sports Horses LTD — Irish sport horse breeding and trading operation (40 horses)
 - **Structure:** Carl is based in the United States while trading in Ireland
-- **Engagement:** Meridian Intelligence prepared a full Executive Intelligence Brief for Carl (July 2026) covering Commercial, Business Growth, AI Strategy, and Investment domains
+- **John's role:** Director, Webb Sports Horses LTD — first and foremost a directorship, not just an advisory relationship. John operates a consultation role in the buying and selling of horses on behalf of the company, resulting in sales commissions for the company. Confirmed to Revenue via signed director letter (27 August 2026) for the company's VAT registration.
+- **Engagement:** Meridian Intelligence separately prepared a full Executive Intelligence Brief for Carl (July 2026) covering Commercial, Business Growth, AI Strategy, and Investment domains
 - **Status:** Brief delivered/drafted; five recommendations outstanding — stallion stud formalisation, international platform sales, selective retention to age 7, commercial identity build, US investor/syndication conversation
-- **Cuan notes:** Marked Private and Confidential — treat under standard confidentiality handling; no commercial commitment without Shane's alignment if any technical/AI build work follows from this
+- **Cuan notes:** Marked Private and Confidential — treat under standard confidentiality handling. As a directorship, this now carries formal filing/disclosure obligations (Irish/NI VAT, company records) alongside the Meridian advisory angle. No further commercial or technical commitment without Shane's alignment.
 
 ---
 

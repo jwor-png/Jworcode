@@ -102,20 +102,20 @@ A Venture Orchestrator is noted only as a future consideration, to be agreed bet
 
 ---
 
-## Webb Sports Horses (Carl Webb — Meridian Intelligence client)
+## Webb Sports Horses LTD (Carl Webb)
 - **What it is:** A 40-horse Irish sport horse breeding and trading operation. Carl breeds 1 to 3 foals per year and buys the rest to hold 8 to 10 head per age group from foal to 6 years. A stallion was recently added, to stand at public stud from next year.
-- **Structure:** Carl is based in the United States while trading in Ireland — a dual-jurisdiction operation
-- **Engagement type:** Client of Meridian Intelligence — an Executive Intelligence Brief was prepared for Carl (July 2026), Private and Confidential, covering Commercial, Business Growth, AI Strategy, and Investment intelligence
+- **Structure:** Carl is based in the United States while trading in Ireland — a dual-jurisdiction operation. Horses are based in NI; company registering for VAT in the south on commission income.
+- **John's role:** Director, Webb Sports Horses LTD — first and foremost a directorship. Operates a consultation role in the buying and selling of horses on behalf of the company, resulting in sales commissions for the company. Confirmed in a signed director letter (27 August 2026) for the company's VAT registration application.
+- **Separate engagement:** Meridian Intelligence also prepared an Executive Intelligence Brief for Carl (July 2026), Private and Confidential, covering Commercial, Business Growth, AI Strategy, and Investment intelligence
 - **Current valuation estimate:** Asset-based valuation at current scale sits at roughly EUR 850,000 to EUR 1.1 million
-- **Five recommendations made:**
+- **Five recommendations made (Meridian brief):**
   1. Formalise the stallion stud programme and license frozen semen for EU/US export before next breeding season
   2. Place two horses on an international platform (Equideo/Arqana Digital) next sales cycle to test international price discovery
   3. Retain the best horse per cohort to age 7 to capture the value inflection
   4. Build a professional commercial identity (sales website, dossiers, video, social)
   5. Open a US investor/partner conversation around co-ownership syndication
-- **Status:** Brief prepared and delivered; recommendations outstanding, no execution work committed
-- **John's role:** Principal, Meridian Intelligence — advisory brief author
-- **Cuan notes:** This is a Meridian (commercial layer) client engagement, not a Cuan personal venture. No technical or commercial commitment proceeds without Shane's alignment if this turns into build work (e.g. AI gait analysis, data platform).
+- **Status:** Directorship active and confirmed to Revenue; Meridian brief prepared and delivered, recommendations outstanding, no execution work committed
+- **Cuan notes:** This is a personal directorship (Cuan layer) with a separate Meridian (commercial layer) advisory engagement running alongside it. As a directorship it carries formal filing/disclosure obligations. No technical or commercial commitment proceeds without Shane's alignment if the advisory work turns into build work (e.g. AI gait analysis, data platform).
 
 ---
 
