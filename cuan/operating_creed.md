@@ -231,6 +231,33 @@ are flagged for confirmation, never guessed.
       that if Shane sees his time absorbed into Barber Republic, he won't
       be seen as "deserving" of participating in the ODIN/Tairseach upside
       — directly tying this decision to the ODIN item above.
+    - **Follow-up dictation, same day — funding pressure and a new
+      structural idea:** Shane is under pressure over where the next
+      Velocity payroll/build payment is coming from and wants John handling
+      this. John is speaking to **Andrew Sharkey** this evening about
+      potentially securing investment — John had previously mentioned
+      **£50,000, enough to cover the first three months**. Separately, given
+      Johnny is now getting **letters of intent from barber colleagues**,
+      John thinks Johnny should seriously consider bringing some of those
+      barbers in to help fund the MVP build itself — i.e. an entity where
+      shares sit with BarberBarber (Johnny + Morgan Leahy) **and** a cohort
+      of supporting barbers, before deciding the round-two funding Shane
+      previously proposed (in a separate session not shared here — John's
+      view is there's no need to share it now, it's been superseded).
+    - **The original Agreement still has not been returned by Johnny.**
+      Johnny told John last week that Neil Dignam was going to contact him
+      — John believes this relates to the agreement, but his position is
+      contact isn't what's needed: **the signed agreement itself is what
+      needs to come back.** No Barber Republic company has been
+      incorporated yet, so there's no formal legal entity behind any of
+      this, and Johnny's own solicitors haven't been engaged at all.
+    - **Action:** John is drafting a WhatsApp message (personally, not a
+      revised document) to Johnny directly — laying out what Shane's
+      documents actually require, on what timeline, and assigning clear
+      ownership per outstanding item to Johnny/BarberBarber, Neil Dignam,
+      Scott, and Johnny's (not yet engaged) solicitors — making clear
+      Johnny needs to lead this with his own UK colleagues, not expect
+      John to carry it. Draft below, once produced.
   - **Outstanding — real blockers, not just open questions:**
     - The commercial model — the one item Johnny handed back to Shane, and
       the acknowledged blocker on the payments build. Currently
