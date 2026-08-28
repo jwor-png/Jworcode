@@ -556,6 +556,46 @@ are flagged for confirmation, never guessed.
   **This should now be reflected as the #1 Big Bet on `board.md`,** ahead
   of Meridian, pending John's fuller notes on what "freeing up time" means
   practically (what gets deprioritised to make room).
+- **ODIN — "The Funding Reality" market-evidence pack (Shane, dated 27 Aug
+  2026), given to John after Malachy Harkin questioned the support/
+  foundation behind the ODIN investment document.** John circulated the
+  investment document to several contacts; Malachy (meeting John and Shane
+  Monday) pushed back on its basis. This pack is Shane's sourced answer.
+  Every figure dated, sourced, and stated as adversarially fact-checked.
+  Core argument, in summary:
+  - AI investment is at unprecedented scale ($582bn corporate AI investment
+    2025, up 130%; AI now >70% of all startup capital) but heavily
+    concentrated — OpenAI + Anthropic alone took 43% of every startup
+    dollar raised globally in H1 2026.
+  - Very few AI companies are actually profitable at scale (NVIDIA,
+    Palantir are the clean cases); the frontier labs run enormous audited
+    losses while valuations keep rising (OpenAI: $21.6bn operating loss
+    H1 2026 alone, $852bn valuation).
+  - **"Seed" no longer means what it used to** — rounds from $4m to
+    $1.03bn all currently called "seed"; pre-revenue is now the norm at
+    the top of the market, not a discount. What prices these rounds is
+    **proof of capability**, not revenue — demonstrated ability to build,
+    the density/defensibility of the work, and what it unlocks.
+  - Precedent for funding "labs" (research-first, IP-holding
+    organisations) at large valuations pre-revenue is well established —
+    Isomorphic Labs, Axiom Math, Flagship Pioneering's venture-lab model
+    (which built Moderna and held 19.5% at its IPO). **Explicit relevance
+    to ODIN stated in the pack:** an organisation holding a large,
+    interconnected, working IP estate with demonstrated ongoing capability
+    "reads as a lab," and labs are priced on the volume/quality/
+    defensibility of what they've built — which is the basis for ODIN's
+    valuation argument.
+  - Honest counterweight included deliberately (for use with sceptical
+    investors like Malachy): the "$600bn gap" argument (Sequoia), BIS
+    comparing this to canal/railway mania, and named voices on both sides
+    (Powell defending current valuations as earnings-backed; Covello/
+    Goldman warning FOMO is driving pricing).
+  - **Action:** John wants this taken on board here and specifically fed
+    into Meridian Intelligence's own orchestration, since it's directly
+    relevant to Meridian's market-intelligence remit. Per the established
+    architecture, Cuan cannot push content into Meridian's separate
+    system — John needs to paste this into the Meridian thread directly
+    for it to land there.
 - **Data Centre Ireland conference** — 18-19 November, forward planning item.
 - **John's Council + Cuan integration** — John wants his Council (separate
   ChatGPT cognitive advisory system, six members) made integral to his
