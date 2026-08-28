@@ -446,6 +446,22 @@ are flagged for confirmation, never guessed.
   above.
 - **ODIN / Tairseach fundraising conversations** — ongoing via Malachy and Mark
   Finlay threads above.
+- **ODIN — significant investment offer received (dictated 21 Aug, Friday
+  morning), reported by Shane.** Offer close to **€20 million for 20% of
+  the company.** John's stated top priority as of this morning: **free up
+  his own time to work with Shane on ODIN and complete this raise** — this
+  now sits above other work, ahead of day-to-day revenue-stream chasing.
+  John would participate as a beneficiary. Personal context Shane raised:
+  he asked John directly whether he felt "deserving" of participating —
+  Shane had had a related conversation with his sister Michelle (a
+  psychotherapist), who'd asked him the same question; Shane's answer was
+  that he's ready for it, describing it as life-changing for him and,
+  in John's words, certainly life-changing for John too "in light of
+  everything that has come about over the last number of years." Logged as
+  significant personal/professional context, not just a deal update.
+  **This should now be reflected as the #1 Big Bet on `board.md`,** ahead
+  of Meridian, pending John's fuller notes on what "freeing up time" means
+  practically (what gets deprioritised to make room).
 - **Data Centre Ireland conference** — 18-19 November, forward planning item.
 - **John's Council + Cuan integration** — John wants his Council (separate
   ChatGPT cognitive advisory system, six members) made integral to his
