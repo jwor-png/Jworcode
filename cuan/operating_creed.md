@@ -177,6 +177,60 @@ are flagged for confirmation, never guessed.
       Limited, 17 Aug 2026, due immediately, **£15,000 (Month One
       payment)**. Recipient: Mainly Velocity Limited, Revolut IBAN
       IE44 REVO 9903 6050 7952 55. Awaiting payment.
+  - **John's own position on this, dictated at length 21 Aug (Friday
+    morning) — his read after reviewing every document above:**
+    - **His concern in his own words:** the "Working in Parallel" document
+      effectively has him working "nearly full-time... on a matter in the
+      UK with no resources," with no real expected contribution beyond
+      helping ensure Velocity gets paid — while Johnny shows, in John's
+      view, disregard for his own obligations beyond simply meeting the
+      barbers in person.
+    - **What the documents actually say (John's own read, not yet legally
+      confirmed):** neither the signed Agreement nor the Build Scope
+      formally obligates John to contribute time to Shane outside the
+      build itself. He's named as "commercial lead" in the Agreement, but
+      there is no separate formal agreement covering that role or paying
+      for it.
+    - **What John says he actually did:** worked over recent weeks to get
+      Shane committed to a minimum 3-month build scope — which may not now
+      extend beyond 3 months, given the ODIN developments taking priority.
+      His own contribution so far reflected in getting the first £15,000
+      moving; the obligation for months two and three's payments, and for
+      securing barber-cohort commitments, sits with Johnny/BarberBarber.
+    - **The gap in Johnny's own plan, as John sees it:** Johnny's apparent
+      mental model is "go to London on a Wednesday, meet the barbers, get
+      commitments, that's that" — John believes the truth is more demanding
+      than that: Johnny needs to actually lead this, using his own people —
+      **Neil Dignam** (colleague, actual decision-maker per the earlier
+      ownership note) and **Scott** (Johnny's accountant, who
+      facilitated/helped arrange the loan for the first £15,000 payment,
+      so is aware of the arrangement). The Agreement also provides for
+      "counsel" (i.e. solicitors) to be involved for BarberBarber — John
+      does not believe this has actually been done on Johnny's side yet,
+      and the signed agreement has not yet been sent back at all.
+    - **Two open questions John wants answered:**
+      1. **What are John's own legal obligations here, if any?** — flagged
+         explicitly as a real legal question, not something to infer from
+         reading the documents alone. Cuan's honest position: this needs an
+         actual solicitor's opinion, not a document read — worth raising
+         with Mark Power or another instructed solicitor rather than relying
+         on Cuan's analysis for anything with personal liability exposure.
+      2. **How should John's time be structured if he does stay involved?**
+         His own proposed shape: (a) contribute to the build scope and
+         liaise with Johnny alongside Shane, (b) help ensure months
+         two/three fees actually land, (c) work on the additional funding
+         side — **but only on the condition that Johnny is genuinely in
+         control on his end** (via Dignam/Scott). Shane's own warning to
+         John, as relayed: without that, Johnny "could have the bones of
+         sixty grand spent and just could all fall apart after three
+         months."
+    - **John's conclusion, stated directly:** he is "not the solution" here
+      — based in Kanturk (place name as heard, to confirm) with limited
+      daily time, and his time has to prioritise himself, Meridian, the
+      big-bet items, and Shane's own ODIN/Tairseach work. He is explicit
+      that if Shane sees his time absorbed into Barber Republic, he won't
+      be seen as "deserving" of participating in the ODIN/Tairseach upside
+      — directly tying this decision to the ODIN item above.
   - **Outstanding — real blockers, not just open questions:**
     - The commercial model — the one item Johnny handed back to Shane, and
       the acknowledged blocker on the payments build. Currently
@@ -259,6 +313,12 @@ are flagged for confirmation, never guessed.
 - **Life Balance exercise** — standing discipline, not a one-off: golf, gardening,
   and protected family time held consistently, every week, not squeezed out by
   venture work.
+- **Family travel (dictated 21 August, Friday)** — travelling after lunch to
+  drop mother-in-law Helen to her daughter Shirley (location heard as "Mallow" —
+  to confirm spelling). Wife travelling too (name heard unclear — to confirm).
+  Party going on to see John's mother, Joan, near Bantry — staying overnight,
+  home tomorrow. Also: notification/Apps Script correction work (Ambrion/
+  Velocity Gmail fix) hoped to be done this morning.
 - **Car servicing (dictated 10 August)** — Katrina's car booked in with Clinton
   for Wednesday morning; her car needs dropped in tomorrow, Tuesday evening.
 - **Electric Picnic — Mary Lee (cousin)** — John needs to let Mary Lee know,
@@ -447,18 +507,25 @@ are flagged for confirmation, never guessed.
 - **ODIN / Tairseach fundraising conversations** — ongoing via Malachy and Mark
   Finlay threads above.
 - **ODIN — significant investment offer received (dictated 21 Aug, Friday
-  morning), reported by Shane.** Offer close to **€20 million for 20% of
-  the company.** John's stated top priority as of this morning: **free up
-  his own time to work with Shane on ODIN and complete this raise** — this
-  now sits above other work, ahead of day-to-day revenue-stream chasing.
-  John would participate as a beneficiary. Personal context Shane raised:
-  he asked John directly whether he felt "deserving" of participating —
-  Shane had had a related conversation with his sister Michelle (a
+  morning), reported by Shane. Figures sharpened in a follow-up dictation
+  same morning:** the actual offer on the table is **€19 million for 24%**;
+  Shane's own ask/target is **€20 million for 20%** — implying roughly a
+  **€100 million valuation** of ODIN. John's own rough maths: if he were to
+  hold 1-2% of that, it could be worth a couple of million euros to him
+  personally. John's stated top priority as of this morning: **free up his
+  own time to work with Shane on ODIN and complete this raise** — this now
+  sits above other work, ahead of day-to-day revenue-stream chasing. John
+  would participate as a beneficiary. Personal context Shane raised: he
+  asked John directly whether he felt "deserving" of participating — Shane
+  had had a related conversation with his sister Michelle (a
   psychotherapist), who'd asked him the same question; Shane's answer was
-  that he's ready for it, describing it as life-changing for him and,
-  in John's words, certainly life-changing for John too "in light of
+  that he's ready for it, describing it as life-changing for him and, in
+  John's words, certainly life-changing for John too "in light of
   everything that has come about over the last number of years." Logged as
   significant personal/professional context, not just a deal update.
+  **This directly informs John's Barber Republic time-allocation reasoning
+  below — he's explicit that if Shane sees his time absorbed by Barber
+  Republic, he won't be seen as "deserving" of the ODIN/Tairseach upside.**
   **This should now be reflected as the #1 Big Bet on `board.md`,** ahead
   of Meridian, pending John's fuller notes on what "freeing up time" means
   practically (what gets deprioritised to make room).

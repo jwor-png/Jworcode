@@ -26,10 +26,27 @@
 ## Business and Channel Partners
 
 ### Johnny Shanahan
-- **Role:** Founding industry authority — BarberTemp
-- **Base:** Manchester, with regular London presence
+- **Role:** Founding industry authority — Barber Republic (rebrand from
+  BarberTemp), operating through **BarberBarber Limited** (53 King Street,
+  Manchester M2 4LQ).
+- **Base:** Manchester, with regular London presence.
 - **Dynamic:** John and Shane are advisory only. Johnny is the operator.
-- **Cuan notes:** John and Shane's names do not appear on Johnny-facing documents.
+- **Ownership:** shares in BarberBarber held 50/50 with Morgan Leahy.
+- **Cuan notes:** John and Shane's names do not appear on Johnny-facing
+  documents. As of 21 Aug, John's assessment is that Johnny's own plan for
+  his role is lighter than what's actually required (see `operating_creed.md`
+  Barber Republic entry).
+
+### Neil Dignam
+- **Role:** Represents Morgan Leahy in BarberBarber Limited — the actual
+  decision-maker for the company, not Johnny alone.
+- **Cuan notes:** any consolidated commercial position on Barber Republic
+  may ultimately need his sign-off, not just Johnny's informal agreement.
+
+### Scott
+- **Role:** Johnny Shanahan's accountant. Facilitated/helped arrange the
+  loan for BarberBarber's first £15,000 payment to Velocity — so is aware
+  of the Barber Republic commercial arrangement. Surname not yet known.
 
 ### Padraic O'Maille
 - **Role:** Head of Smacht network — ~300 Irish SMEs
