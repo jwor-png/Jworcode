@@ -622,6 +622,17 @@ are flagged for confirmation, never guessed.
     architecture, Cuan cannot push content into Meridian's separate
     system — John needs to paste this into the Meridian thread directly
     for it to land there.
+- **ODIN — investor identified, deal reportedly agreed (dictated 29 Aug).**
+  Shane has apparently reached agreement with the interested investor —
+  heard as **"BNP Capital,"** described as a widely and highly recognised
+  international organisation. **NAME UNCONFIRMED** — a web search found no
+  distinct entity called "BNP Capital"; only BNP Paribas surfaced, which
+  may or may not be the same organisation. Deal reportedly done in America
+  via a broker representing them; the organisation is said to also do
+  significant business in Ireland. **Action requested:** identify their
+  Irish corporate lawyers (given their Irish presence) and their US
+  corporate/deal lawyers. **Blocked** until John confirms the exact
+  investor name — flagging rather than guessing per standing practice.
 - **Data Centre Ireland conference** — 18-19 November, forward planning item.
 - **John's Council + Cuan integration** — John wants his Council (separate
   ChatGPT cognitive advisory system, six members) made integral to his
