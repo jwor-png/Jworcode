@@ -67,6 +67,10 @@
 
 ## Family
 
+### Majella
+- **Relationship:** John's wife.
+- **Cuan notes:** surname not yet logged.
+
 ### Niamh Webb O'Rourke
 - **Relationship:** Family member (Director 2 in MiDentalCare CVL)
 - **Property:** John coordinates the Bantry property project (11 Cois Riasc) on her behalf

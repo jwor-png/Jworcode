@@ -314,8 +314,8 @@ are flagged for confirmation, never guessed.
   and protected family time held consistently, every week, not squeezed out by
   venture work.
 - **Family travel (dictated 21 August, Friday)** — travelling after lunch to
-  drop mother-in-law Helen to her daughter Shirley (location heard as "Mallow" —
-  to confirm spelling). Wife travelling too (name heard unclear — to confirm).
+  drop mother-in-law Helen to her daughter Shirley in Mallow. Wife Majella
+  travelling too.
   Party going on to see John's mother, Joan, near Bantry — staying overnight,
   home tomorrow. Also: notification/Apps Script correction work (Ambrion/
   Velocity Gmail fix) hoped to be done this morning.
