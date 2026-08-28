@@ -176,7 +176,8 @@ are flagged for confirmation, never guessed.
     - **Invoice #14 issued alongside it** — Velocity to BarberBarber
       Limited, 17 Aug 2026, due immediately, **£15,000 (Month One
       payment)**. Recipient: Mainly Velocity Limited, Revolut IBAN
-      IE44 REVO 9903 6050 7952 55. Awaiting payment.
+      IE44 REVO 9903 6050 7952 55. **PAID — confirmed by John, paid last
+      week (week of 24 Aug).**
   - **John's own position on this, dictated at length 21 Aug (Friday
     morning) — his read after reviewing every document above:**
     - **His concern in his own words:** the "Working in Parallel" document
@@ -257,7 +258,21 @@ are flagged for confirmation, never guessed.
       ownership per outstanding item to Johnny/BarberBarber, Neil Dignam,
       Scott, and Johnny's (not yet engaged) solicitors — making clear
       Johnny needs to lead this with his own UK colleagues, not expect
-      John to carry it. Draft below, once produced.
+      John to carry it. Cuan's draft (scratchpad) shared but John found it
+      too formal for a friend — John typing his own version instead,
+      working from Cuan's draft as reference, will paste the sent version
+      back here afterward.
+    - **John's own framing for his revision (29 Aug):** keep it brief —
+      his experience is short WhatsApp messages land better with Johnny.
+      On working responsibilities: John accepts he's named as supporting
+      commercial lead (commercial strategy, funding, route-to-market) —
+      fine — but is explicit **he is not leading this.** His read, based on
+      experience to date, is that Johnny generally leaves matters in
+      John's hands, whereas responsibility properly sits with Johnny
+      himself, answerable to BarberBarber Limited, his accountant, and his
+      solicitor. This distinction is the core thing the WhatsApp message
+      needs to "box off" clearly. John is sending the unsigned agreement
+      back to Johnny for signature alongside the message.
   - **Outstanding — real blockers, not just open questions:**
     - The commercial model — the one item Johnny handed back to Shane, and
       the acknowledged blocker on the payments build. Currently

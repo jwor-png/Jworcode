@@ -34,7 +34,7 @@ not yet itemised; John to name them so they can be tracked individually.
 
 🟢 UHL Hardware (AHL) — Aug invoice sent, awaiting payment
 🟢 Ambrion AI — training 25 & 31 Aug confirmed
-🔴 Barber Republic — agreement still unsigned by Johnny; John (21 Aug) is now questioning his own involvement — no formal obligation to contribute time beyond the build per the documents, wants his legal position checked with a solicitor, and is conditioning further time on Johnny actually leading (via Dignam/Scott) rather than John carrying it from Ireland — directly weighed against not wanting to jeopardise ODIN "deserving" upside
+🟡 Barber Republic — Month One £15k PAID (confirmed); agreement still unsigned by Johnny; John sending it back with a personal WhatsApp message boxing off that Johnny/BarberBarber (his accountant + solicitor) must lead this, not John
 🟡 Julianstown Mill — statement + payment request sent, awaiting reply
 🔴 Velocity AI — Gmail script fix still outstanding
 ⚪ Golden Generation — nothing live right now
