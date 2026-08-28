@@ -122,6 +122,16 @@ starting with the photographs John is adding after this handover.
 
 ## Log of material added since handover
 
-(New quotations/photos/articles logged here as they come in, each sorted
-into Reinforcement / Challenge / New insight / Action per the framework
-above.)
+- **27 Aug — Unknown/Snámhaí Sásta:** "It's time to stop waiting for your
+  life to be perfect, to enjoy it." — **New insight / Action.** Lands
+  directly against this week's real context: the ODIN offer, the
+  "deserving" question Shane raised, and the sense that a life-changing
+  outcome is close but not yet closed. This quote pushes the other
+  direction from waiting for the deal to land before allowing himself to
+  feel any of it — worth holding alongside "content with the present while
+  still ambitious" as a live tension, not just a nice line.
+- **28 Aug — Ella Fitzgerald:** "Just don't give up trying to do what you
+  really want to do. Where there is love and inspiration I don't think you
+  can go wrong." — **Reinforcement.** Sits with the existing "hope grounded
+  in action" and "resilience and rebuilding" themes — echoes 23 Aug ("once
+  you choose hope") and 17 Aug (Rowling, rebuilding from rock bottom).
