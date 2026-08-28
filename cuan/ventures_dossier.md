@@ -15,6 +15,16 @@ archive for those ventures plus everything not a revenue stream (Bantry,
 MiDentalCare, legacy financial matters, Tairseach, Smacht, LinkedIn content).
 Cuan reads both files in full — nothing here has been deleted or superseded.
 
+## Webb Sports Horses Ltd (Carl Webb, cousin)
+
+John is a **Director**, with a consultation role in horse buying/selling
+for company commissions — not just a Meridian advisory relationship. A
+separate July 2026 Meridian Intelligence brief also exists for this venture.
+27 Aug 2026: signed a director-confirmation letter for the company's VAT
+registration (accountant Gillian Mawhately), sent to Carl via WhatsApp —
+closed out, no outstanding action. Full detail in `operating_creed.md`
+(Protect My Present Responsibly) and `people_map.md`.
+
 ## Priority Stack (as of June 2026)
 1. Ambrion AI — revenue generation (highest urgency, August 2026 anchor)
 2. Meridian Intelligence — strategic development

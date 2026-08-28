@@ -512,11 +512,22 @@ are flagged for confirmation, never guessed.
   Board Report. Once formally confirmed at/after the meeting: (1) request Securitas
   completion certificates from Paul Candon, (2) request fresh inspection from ORS
   (Sinead Birmingham) to obtain the new Fire Cert. Both emails drafted and held.
-- **Websport Horses Limited — new directorship.** Newly incorporated company
-  belonging to Howard Webb (John's cousin). John is a director. See
-  `people_map.md`. No further detail yet — flag for John to confirm
-  governance basics (role/duties, other directors, any filings due) when
-  there's time.
+- **Webb Sports Horses Ltd (Carl Webb, cousin) — role clarified, 27 Aug
+  2026.** Correction: cousin's name is Carl Webb, not Howard Webb as
+  earlier logged; company name confirmed as Webb Sports Horses Ltd, not
+  Websport Horses Limited. John's role: **Director**, with a consultation
+  role in horse buying/selling for company commissions — not just advisory
+  via Meridian. A separate July 2026 Meridian Intelligence brief also
+  exists for this venture; both now reflected in `owner_profile.md`,
+  `people_map.md`, `ventures_dossier.md`.
+  - **Trigger/action, closed out:** Carl's accountant (Gillian Mawhately)
+    needed a signed director-confirmation letter for the company's VAT
+    registration. Drafted, addressed to Revenue "To Whom It May Concern,"
+    signed by hand by John, sent to Carl via WhatsApp same day. **No
+    outstanding action on the letter itself.**
+  - **Next action:** none pending on Cuan's side — watch for any follow-up
+    from Gillian/Revenue on the VAT registration. Treat this directorship
+    as live for any future filing/disclosure obligations.
 - **AHL Executive Risk Solutions (D&O) policy** — Hang Zhao flagged options on
   6 July (current limit €500k vs increasing). Still outstanding, no reply sent yet.
 

@@ -76,12 +76,16 @@
 - **Property:** John coordinates the Bantry property project (11 Cois Riasc) on her behalf
 - **Cuan notes:** [ASK — further context on family structure relevant to scheduling and priorities]
 
-### Howard Webb
-- **Relationship:** Cousin.
-- **Business:** Newly incorporated company, Websport Horses Limited. John
-  is a director. (Note: session artifact titles seen elsewhere read "Webb
-  Sports Horses" — treat as the same entity, exact company name to confirm
-  from the incorporation documents.)
+### Carl Webb
+- **Relationship:** Cousin. (Correction, 27 Aug 2026 — previously logged
+  here as "Howard Webb"; confirmed name is Carl Webb.)
+- **Business:** **Webb Sports Horses Ltd** (confirmed company name).
+  John is a **Director**, with a consultation role in horse buying/selling
+  for company commissions — not just a Meridian advisory relationship.
+  A separate July 2026 Meridian Intelligence brief also exists for this
+  venture; both are now reflected in `owner_profile.md`, this file, and
+  `ventures_dossier.md`.
+- **Accountant:** Gillian Mawhately.
 
 ### Cuan (grandson)
 - The personal intelligence system is named after him. In Irish: "the little wolf" and "the safe harbour."

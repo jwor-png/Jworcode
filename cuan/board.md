@@ -44,12 +44,13 @@ not yet itemised; John to name them so they can be tracked individually.
 AHL Plc profile · Kilmallock Water lane decision · Meridian 2 LinkedIn changes
 · Tangible Ireland priority · EOLAS timing · Julianstown email go-ahead ·
 United Hardware (Paul's thoughts) · Primary Care & Tusla (send?) · Revenue
-Streams offer #3 · Websport Horses Ltd governance basics
+Streams offer #3
 
 ## Done / review-ready (no action needed)
 
 UHL DAC · Kilkee wastewater · ODIN spec · AI Funding Meridian · AI
-upskilling · Barber Republic handover · Meridian new website
+upskilling · Barber Republic handover · Meridian new website · Webb Sports
+Horses Ltd VAT confirmation letter (signed & sent)
 
 ---
 
