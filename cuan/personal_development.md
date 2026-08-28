@@ -120,6 +120,15 @@ A concise, living document to eventually answer:
 Status: **not started** — to be built once enough evidence has accumulated,
 starting with the photographs John is adding after this handover.
 
+## Open thread — Shane's "deserving" question
+
+29 Aug: John confirms he **hasn't yet attempted to answer** Shane's question
+from earlier this week (whether he feels deserving of participating in the
+ODIN upside — see `operating_creed.md`, ODIN entry). John expects to sit
+with it over the next 24-48 hours. Logged here deliberately as unresolved,
+not as something to prompt or chase — this is his own reflection to arrive
+at in his own time, not a task with a deadline.
+
 ## Log of material added since handover
 
 - **27 Aug — Unknown/Snámhaí Sásta:** "It's time to stop waiting for your
