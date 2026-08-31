@@ -339,6 +339,40 @@ are flagged for confirmation, never guessed.
   - **Next action:** Shane holding for Johnny's response to the Money Model,
     then putting a consolidated commercial + legal position back to the
     group before anyone opens week one.
+  - **WhatsApp exchange with Johnny (screenshots reviewed) — what Johnny
+    actually needs for London on Wednesday:**
+    - Johnny confirmed going Wednesday to meet barbers, shops, and
+      **Anthony Laban** (name as heard from group chat, to confirm
+      spelling). Asked in the group (Johnny, Shane, John) for **printable
+      assets: (A) for shops, (B) for barbers, (C) an overview with logo
+      explaining what Barber Republic is and what it hopes to achieve.**
+    - Johnny separately drafted his own positioning copy in the 1:1 with
+      John — offered to write it and let John/Meridian tighten it up.
+      Johnny's own words, worth having verbatim since it's his authentic
+      voice for the trade: Barber Republic is "a two sided intelligent
+      market place where self employed, freelance and mobile barbers can
+      find work when and where they want it, at their rate and in a shop
+      they want to work in that suits their ability, taste and ethos. Make
+      good money without the stress of having to build a clientele." For
+      shops: "a stress free platform that allows you to staff up when you
+      need to, cover days off, holidays or simply tool up for busy weekend
+      or peak days... Trusted, rated barbers at your fingertips." What
+      it's NOT: "not a jobs board, not a recruitment app... an intelligent
+      AI native platform verified by a lifelong barber." His own closing
+      pitch: "Barbering is changing... Traditional recruitment does not
+      work... We have to change, and we have to change NOW! Barber
+      Republic will become the biggest community of barbers and shops in
+      the world... Collaboration is the only way to survive and thrive."
+      Tagline he used: **"Intelligence that builds the industry."**
+    - John (with Shane) confirmed sending a document that morning to plan
+      what's needed for London, and to speak to Johnny again that evening
+      around 6pm on the way home.
+    - **Practical read:** Johnny's asks (A/B/C printable assets) map
+      directly onto material already in progress — the branding/tagline
+      document (with the new logo John mentioned needing to copy in here)
+      and the Money Model's trade-facing summary. Worth checking the
+      branding document, once shared, actually covers all three of
+      Johnny's named assets before Wednesday.
   - **"Working in Parallel" plan (Shane, via Velocity AI, for Johnny &
     John) — John's objection, flagged directly:** the plan splits work into
     three tracks — Track One (Johnny: cohort recruitment, craft standard,
