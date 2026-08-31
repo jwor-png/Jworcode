@@ -15,6 +15,25 @@ archive for those ventures plus everything not a revenue stream (Bantry,
 MiDentalCare, legacy financial matters, Tairseach, Smacht, LinkedIn content).
 Cuan reads both files in full — nothing here has been deleted or superseded.
 
+## Asterial Limited
+
+Confirmed as an **actual incorporated Irish company**, not just the
+conceptual framing discussed with Shane (Institutional Architecture ← ODIN
+→ Asterial — see the architecture note logged earlier: commercial industry
+suites, HR/legal/professional services, doesn't need to sit inside ODIN's
+IP estate, faster-moving sales vehicle).
+- **Company secretarial:** Pat Carroll (accounts3/accounts4@patcarroll.ie),
+  contact Walter Vindas.
+- **Signatories:** John and Shane McCarthy, both signed the **first B1
+  Annual Return** by hand (July 2026) — first B1 implies incorporation
+  was roughly within the prior 6-18 months.
+- **31 Aug 2026:** John forwarded this July correspondence from his
+  Velocity AI email into his personal Gmail — likely wanted it on record/
+  accessible; no new content, just relocated.
+- **Open:** no further detail yet on Asterial's operating status,
+  structure, or what's actually running under it — flag for John to
+  update when there's time.
+
 ## Webb Sports Horses Ltd (Carl Webb, cousin)
 
 John is a **Director**, with a consultation role in horse buying/selling

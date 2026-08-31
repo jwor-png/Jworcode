@@ -29,6 +29,9 @@ conversations bundled with ODIN's above.
 estate; status not currently logged here, needs an update from John.
 ⚪ **Other tech-for-sale/investment candidates** — flagged as existing but
 not yet itemised; John to name them so they can be tracked individually.
+⚪ **Asterial Limited — confirmed real, incorporated company** (John +
+Shane both signatories, company secretarial via Pat Carroll). Operating
+status/structure not yet known — needs an update from John.
 
 ## Revenue streams — cash flow, day-to-day, one line each
 
