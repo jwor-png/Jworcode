@@ -22,17 +22,30 @@ conceptual framing discussed with Shane (Institutional Architecture ← ODIN
 → Asterial — see the architecture note logged earlier: commercial industry
 suites, HR/legal/professional services, doesn't need to sit inside ODIN's
 IP estate, faster-moving sales vehicle).
-- **Company secretarial:** Pat Carroll (accounts3/accounts4@patcarroll.ie),
-  contact Walter Vindas.
-- **Signatories:** John and Shane McCarthy, both signed the **first B1
-  Annual Return** by hand (July 2026) — first B1 implies incorporation
-  was roughly within the prior 6-18 months.
+- **John is Company Secretary of Asterial Limited** (correction/addition,
+  31 Aug — not just a signatory). External company secretarial support via
+  Pat Carroll (accounts3/accounts4@patcarroll.ie), contact Walter Vindas.
+- **Signatories on the first B1 Annual Return:** John and Shane McCarthy,
+  both signed by hand (July 2026) — first B1 implies incorporation was
+  roughly within the prior 6-18 months.
+- **John states Asterial Limited is the company recognised for ODIN.**
 - **31 Aug 2026:** John forwarded this July correspondence from his
   Velocity AI email into his personal Gmail — likely wanted it on record/
   accessible; no new content, just relocated.
-- **Open:** no further detail yet on Asterial's operating status,
-  structure, or what's actually running under it — flag for John to
-  update when there's time.
+
+  **⚠️ Flag — this appears to sit in tension with Shane's own architecture
+  note logged earlier** (Institutional Architecture ← ODIN → Asterial),
+  which described Asterial as the *separate* commercial/sales vehicle —
+  explicitly "doesn't need to be an ODIN asset" — while ODIN itself was to
+  be "protected as its own vehicle rather than becoming inventory for
+  another company." If Asterial Limited is in fact the legal entity ODIN
+  sits under/is recognised through, that's a different structure than the
+  three-way separation previously logged, not just a naming detail. Worth
+  clarifying directly with Shane which is actually correct — is ODIN's IP
+  legally housed in Asterial Limited, or is Asterial only commercially
+  adjacent to ODIN as originally described — rather than assuming either.
+- **Open:** no further detail yet on Asterial's operating status or full
+  structure — flag for John to update when there's time.
 
 ## Webb Sports Horses Ltd (Carl Webb, cousin)
 
