@@ -344,6 +344,16 @@ are flagged for confirmation, never guessed.
       commission + tech fee actually cover the compute/token cost at
       scale, or does that gap only get discovered in the pilot — before
       London, not after.**
+      - **Resolved/clarified by John, same day:** the unknown compute
+        costs are deliberately left vague in the documents for now — they
+        genuinely cannot be determined or understood until pilot testing
+        actually takes place. Consistent with the Money Model's own
+        stated framing ("every number in here is a dial, not a decree").
+        What's happening now (Johnny going to London) is just his
+        introduction to the barber colleagues — not the point at which
+        those costs need to be locked. **No longer treated as an open
+        blocker** — it's an intentional sequencing choice, not a gap in
+        the document.
     - Right-to-work gap and the wider agency-regulation/worker-
       classification read — the build plan puts this on Shane in **week
       one**, not week eleven as it should logically land.
