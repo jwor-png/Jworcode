@@ -329,6 +329,21 @@ are flagged for confirmation, never guessed.
       not yet confirmed as adequate against the margin claim that will
       face investors — still needs the pilot's measured figures, not
       estimates.
+    - **Sharpened, 29 Aug — Shane's own concern, raised this morning:**
+      the £25-35/month shop membership is explicitly **market-set, not
+      cost-set** — the Money Model's own words: "the read is built into
+      every number in this document, the model starts where the trade
+      stands." That figure is what Johnny says shops will bear, not a
+      number calculated against what the platform costs to run. Separately,
+      the always-on intelligence/compute layer (including AI token costs)
+      is only described as "a monthly compute line that grows exactly as
+      the Republic gets smarter" — **no number attached anywhere in the
+      document.** The commission and £1-2 tech fee are pitched as covering
+      per-booking intelligence cost; the compute layer is a distinct,
+      unpriced monthly line. **This needs reconciling — does membership +
+      commission + tech fee actually cover the compute/token cost at
+      scale, or does that gap only get discovered in the pilot — before
+      London, not after.**
     - Right-to-work gap and the wider agency-regulation/worker-
       classification read — the build plan puts this on Shane in **week
       one**, not week eleven as it should logically land.
