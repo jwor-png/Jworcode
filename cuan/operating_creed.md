@@ -273,13 +273,62 @@ are flagged for confirmation, never guessed.
       solicitor. This distinction is the core thing the WhatsApp message
       needs to "box off" clearly. John is sending the unsigned agreement
       back to Johnny for signature alongside the message.
-  - **Outstanding — real blockers, not just open questions:**
-    - The commercial model — the one item Johnny handed back to Shane, and
-      the acknowledged blocker on the payments build. Currently
-      **contradicts Johnny's own 07:29 answer on who pays what.**
-    - The tech fee has no named payer.
-    - Operator desk and compute costs left blank under a margin claim that
-      will face investors.
+  - **"The Money Model" V1 (Shane, Aug 2026) — the commercial model
+    proposal produced, addresses the blocker below, awaiting Johnny's
+    trade-testing and sign-off in London at visit one, before the payments
+    build needs it locked:**
+    - **Commission (the spine):** shop pays on the covered day — Standard
+      10%, Urgent cover 18%, VIP house call 22%. Priced against the
+      value of a saved day (an empty Saturday chair costs a shop £500-700
+      in lost takings), not the software.
+    - **Technology fee:** flat £1-2 per booked day, funds the intelligence
+      layer. Only charged once the platform has already put a full day
+      rate in the barber's pocket — a barber never pays to simply exist
+      on the platform.
+    - **Membership:** **barbers pay £0, always, for staffing** — Johnny's
+      explicit, permanent read of the trade, built into the architecture
+      (supply side is scarce, the Republic pays barbers, never taxes them
+      for existing). Shops pay £25-35/month, starting inside what they
+      already carry today, maturing into a paid "intelligence
+      subscription" (chair pricing, reliability, demand data) once data
+      density exists.
+    - **Cost line, per booking (the ledger facing investors):** Stripe
+      payments ~£2.90/booking + ~£1.60/month per connected barber payout
+      account; intelligence (matching/ranking) pence per booking, metered
+      live from week one, not estimated; verification pence per booking;
+      the operator's desk — a **staffed human function through the
+      pilot** (answering the 8am Saturday call) until the AI carries more
+      weight, costed per pilot city; the always-on demand-mapping layer —
+      a monthly compute cost that is also the second asset (the data
+      itself). **The number tracked above all others: margin on a single
+      covered day** — this is what faces investors.
+    - **Competitive space claimed:** compared directly against Squire,
+      Booksy, Fresha, theCut, Indeed Flex — none of them grade craft, run
+      verified day-cover, or hold an intelligence layer on the trade
+      itself; all of them prove the trade already pays monthly for tech.
+    - **Round Two proof points the pilot is built to produce:** fill rate
+      and speed to fill; margin on a covered day; rebooking rate through
+      the platform; and the engine's reach into adjacent trades
+      (hairdressing, high-end bar staff, anywhere an empty seat costs
+      real money).
+    - **Three questions only Johnny can ask the trade** (privately, owner
+      to owner) to price the dials before code is written: would you pay
+      £30 today to save a £600 Saturday; a couple of pounds on a day
+      you'd never have had; would you pay monthly to know what a chair
+      should cost and who actually shows up.
+    - **Explicit tempo set by Shane:** nothing needs answering this week —
+      test it on the trade, mark what reads wrong, settle the dials
+      together in London at visit one, before the payments build locks
+      them in.
+  - **Outstanding — remaining real blockers not yet resolved by the Money
+    Model above:**
+    - Whether this V1 model actually reconciles with **Johnny's own 07:29
+      answer on who pays what** — worth checking explicitly, not assumed
+      resolved just because a document now exists.
+    - Operator desk and compute costs are priced in principle above, but
+      not yet confirmed as adequate against the margin claim that will
+      face investors — still needs the pilot's measured figures, not
+      estimates.
     - Right-to-work gap and the wider agency-regulation/worker-
       classification read — the build plan puts this on Shane in **week
       one**, not week eleven as it should logically land.
