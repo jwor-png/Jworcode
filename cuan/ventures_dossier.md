@@ -44,8 +44,19 @@ IP estate, faster-moving sales vehicle).
   clarifying directly with Shane which is actually correct — is ODIN's IP
   legally housed in Asterial Limited, or is Asterial only commercially
   adjacent to ODIN as originally described — rather than assuming either.
-- **Open:** no further detail yet on Asterial's operating status or full
-  structure — flag for John to update when there's time.
+- **RESOLVED, 31 Aug — John's clarification:** Shane holds the view, and
+  John agrees it's right, that **the ODIN IP is Shane's personally.**
+  Asterial Limited is the legal vehicle that captures that IP **to Shane's
+  personal benefit** — not a competing claim on it. This resolves the
+  tension flagged above: Asterial isn't separate from or ambiguous
+  relative to ODIN's ownership, it's specifically the structure built
+  around Shane's personal IP position.
+- **TIME-SENSITIVE — ODIN is awaiting a formal investment offer within the
+  next 48 hours** (as of 31 Aug). Given John is Company Secretary of
+  Asterial Limited, this puts him in a live governance role over the
+  vehicle holding Shane's IP right as that offer lands — worth being
+  ready to act quickly on any Asterial-side paperwork/filings the
+  investment triggers, rather than this being purely background context.
 
 ## Webb Sports Horses Ltd (Carl Webb, cousin)
 

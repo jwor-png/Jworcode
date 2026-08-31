@@ -746,6 +746,13 @@ are flagged for confirmation, never guessed.
   Irish corporate lawyers (given their Irish presence) and their US
   corporate/deal lawyers. **Blocked** until John confirms the exact
   investor name — flagging rather than guessing per standing practice.
+- **ODIN — formal investment offer expected within 48 hours (as of 31
+  Aug).** Time-sensitive. See `ventures_dossier.md` — Asterial Limited
+  entry — for the resolved IP/ownership structure (ODIN IP is Shane's
+  personally; Asterial Limited is the legal vehicle capturing it to his
+  benefit; John is Company Secretary of Asterial). Worth having that
+  structure clear and any Asterial paperwork ready before the offer lands,
+  not scrambling once it does.
 - **Data Centre Ireland conference** — 18-19 November, forward planning item.
 - **John's Council + Cuan integration** — John wants his Council (separate
   ChatGPT cognitive advisory system, six members) made integral to his

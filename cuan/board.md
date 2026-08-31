@@ -15,11 +15,11 @@ Last refreshed: 2026 (rebuilt for phone readability + priority order)
 These are the equity/exit-scale plays, not the monthly-cashflow items below.
 Different rhythm needed: less frequent check-ins, higher-stakes moves.
 
-🟢 **ODIN — NEW #1, 21 Aug.** Significant offer received: ~€20m for 20% of
-the company. John's stated top priority: free up his own time to work with
-Shane and complete this raise, ahead of other work. John participates as a
-beneficiary. Awaiting John's fuller notes on what gets deprioritised to
-make room.
+🔴 **ODIN — formal investment offer expected within 48 hours (31 Aug).**
+~€19-20m range discussed. IP is Shane's personally, captured via Asterial
+Limited (John is Company Secretary there) to his benefit. John's top
+priority: free up his own time to work with Shane and complete this raise.
+Be ready to act fast once the offer lands.
 🟡 **Meridian Intelligence** — 70% owned, outcome directly John's, not a
 minority stake. Not currently moving. Website build is in its own session —
 needs a status pulled from there.
@@ -29,9 +29,10 @@ conversations bundled with ODIN's above.
 estate; status not currently logged here, needs an update from John.
 ⚪ **Other tech-for-sale/investment candidates** — flagged as existing but
 not yet itemised; John to name them so they can be tracked individually.
-⚪ **Asterial Limited — confirmed real, incorporated company** (John +
-Shane both signatories, company secretarial via Pat Carroll). Operating
-status/structure not yet known — needs an update from John.
+🟢 **Asterial Limited** — the vehicle capturing Shane's personal ODIN IP
+to his benefit. John is Company Secretary; Pat Carroll handles external
+company secretarial. Structure now clear — see ODIN entry above for the
+live 48-hour offer connection.
 
 ## Revenue streams — cash flow, day-to-day, one line each
 
