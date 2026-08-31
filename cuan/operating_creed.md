@@ -373,6 +373,11 @@ are flagged for confirmation, never guessed.
       and the Money Model's trade-facing summary. Worth checking the
       branding document, once shared, actually covers all three of
       Johnny's named assets before Wednesday.
+    - **DONE:** three print-ready A4 assets built and sent to John —
+      using the real Barber Republic logo (extracted from the Money Model
+      document) and Johnny's own wording throughout: (A) For Shops, (B)
+      For Barbers, (C) Overview ("What it is, what it isn't, why we need
+      it now"). Covers all three items Johnny asked for in the group chat.
   - **"Working in Parallel" plan (Shane, via Velocity AI, for Johnny &
     John) — John's objection, flagged directly:** the plan splits work into
     three tracks — Track One (Johnny: cohort recruitment, craft standard,
