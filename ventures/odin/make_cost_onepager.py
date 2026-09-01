@@ -2,25 +2,24 @@ import sys
 sys.path.insert(0, '/home/user/Jworcode/meridian')
 from make_meridian_pdfs import (build, L, H, SUB, P, B, N, rule, callout,
                                 simple_table, TEAL, BLUE, NAVY, RED, S)
-from reportlab.platypus import Spacer
+from reportlab.platypus import Spacer, PageBreak
 from reportlab.lib.colors import HexColor
 from reportlab.lib.units import mm
 
 # One page only: tighten every style for this document.
-for k, size, lead in (('P', 8.0, 10.4), ('B', 8.0, 10.4), ('CO', 8.0, 10.4),
-                      ('TD', 7.2, 8.9), ('TH', 7.2, 8.9), ('N', 6.1, 7.6)):
+for k, size, lead in (('P', 9.4, 13.0), ('B', 9.4, 13.0), ('CO', 9.4, 13.0),
+                      ('TD', 8.8, 11.6), ('TH', 8.8, 11.6), ('N', 7.0, 9.2)):
     S[k].fontSize = size
     S[k].leading = lead
-S['P'].spaceAfter = 2.5
-S['B'].spaceAfter = 1.6
-S['H'].fontSize = 10
-S['H'].spaceBefore = 6
-S['H'].spaceAfter = 2
-S['L'].fontSize = 13.5
-S['CO'].fontSize = 7.7
-S['CO'].leading = 9.9
+S['P'].spaceAfter = 5
+S['B'].spaceAfter = 4.5
+S['H'].fontSize = 11.5
+S['H'].spaceBefore = 11
+S['H'].spaceAfter = 4
+S['L'].fontSize = 15
 
-OUT = '/home/user/Jworcode/ventures/odin/Asterial_Cost_Schedule_ONE_PAGER_DRAFT.pdf'
+
+OUT = '/home/user/Jworcode/ventures/odin/Asterial_Cost_Schedule_DRAFT.pdf'
 b = []
 
 b += [
@@ -51,15 +50,24 @@ b += [
         ['15', '<b>Irrecoverable VAT at 23%</b> on professional fees. Arrangement fee and insurance are typically exempt. '
                'Recoverable only against taxable supplies &mdash; <b>confirm with accountants</b>', 'Company', '&euro;154,790', '&euro;316,710'],
         ['', '<b>TOTAL COST OF THE TRANSACTION</b>', '', '<b>&euro;832,790</b>', '<b>&euro;2,118,710</b>'],
-    ], [7 * mm, 86 * mm, 17 * mm, 22 * mm, 24 * mm], pad=1.7),
+    ], [7 * mm, 86 * mm, 17 * mm, 22 * mm, 24 * mm], pad=4.2),
 
+    H('THE THREE LINES TO LOOK AT FIRST'),
+    B('<b>Line 1, the arrangement fee.</b> The largest unknown here. Not confirmed, and worth up to &euro;400,000.'),
+    B('<b>Line 3, the origination fee.</b> Real value was delivered and should be paid for. Two per cent is the right '
+      'order for sourcing and closing terms without running the process.'),
+    B('<b>Line 15, VAT.</b> Recoverable only against taxable supplies. If not, it is a hard cash cost of up to &euro;316,710.'),
+
+    PageBreak(),
+    L('WHAT IS LEFT, AND WHAT MUST BE SETTLED'),
+    rule(),
     H('WHAT IS LEFT'),
     simple_table(['', 'Low cost case', 'Central', 'High cost case'], [
         ['Funds raised', '&euro;20,000,000', '&euro;20,000,000', '&euro;20,000,000'],
         ['<i>less</i> founder allocation', '(&euro;2,200,000)', '(&euro;2,200,000)', '(&euro;2,200,000)'],
         ['<i>less</i> total transaction costs', '(&euro;832,790)', '(&euro;1,450,000)', '(&euro;2,118,710)'],
         ['<b>Available to deploy</b>', '<b>&euro;16,967,210</b>', '<b>&euro;16,350,000</b>', '<b>&euro;15,681,290</b>'],
-    ], [50 * mm, 35 * mm, 35 * mm, 36 * mm], pad=1.7),
+    ], [50 * mm, 35 * mm, 35 * mm, 36 * mm], pad=4.2),
 
     callout('<b>The &euro;16.0m to &euro;16.5m working assumption holds in the central case. It does not hold in the '
             'high case.</b> The line that breaks it is item 1. If the funder charges a 2 per cent arrangement fee '
@@ -67,7 +75,7 @@ b += [
             'or 4 per cent, before a single lawyer has been instructed.</b> Establish whether an arrangement fee is '
             'being charged, and at what rate, before the term sheet is agreed.', RED, HexColor('#FBEEEC')),
 
-    H('THE FIVE THINGS THAT MUST BE SETTLED IN THE TERM SHEET, NOT AFTER IT'),
+    H('THE FIVE THINGS THAT BELONG IN THE TERM SHEET, NOT AFTER IT'),
     B('<b>The arrangement fee.</b> Charged or not, at what rate, and deducted at drawdown or invoiced? Deducted at '
       'source, the company receives less than &euro;20m while issuing shares for &euro;20m.'),
     B('<b>A hard cap on the investor&rsquo;s legal costs.</b> A number, not &ldquo;reasonable costs&rdquo;. '
@@ -93,5 +101,5 @@ b += [
 
 build(OUT, b, title='Cost schedule — DRAFT',
       footer='Meridian Intelligence  ·  Asterial transaction cost schedule  ·  DRAFT  ·  Private and confidential',
-      watermark='DRAFT', top=18, bottom=13)
+      watermark='DRAFT', top=22, bottom=17)
 print('written', OUT)
