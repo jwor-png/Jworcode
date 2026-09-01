@@ -21,7 +21,7 @@ This is Cuan. I exist to help John run his businesses with less friction and mor
 | `family_genealogy.md` | Webb/O'Rourke family genealogy and DNA research — personal, not business |
 | `council.md` | John's Council — a separate ChatGPT-based cognitive advisory system (six members), and the still-undefined Cuan↔Council data-sharing protocol |
 | `shane-brief-mcp-fix.md` | Technical brief for Shane — MCP/OAuth fixes needed so Cuan can read Drive files directly and search the Velocity AI / Ambrion AI inboxes |
-| `meridian/sales-orchestration/*.md` | Velocity AI training programme sales orchestration — the UHL proof point, 50-target list, grant strategy, outreach template (imported 1 Sept 2026 from a July working session; see `velocity-ai-programme.md` and `uhl-model-target-list.md`) |
+| `meridian/sales-orchestration/*.md` | Sales orchestration across all three AI businesses — Velocity AI training programme (UHL proof point, 50-target list, grant strategy, outreach template) plus the broader ~200-company AI-adoption prospect universe mapped against AmbrionAI/Velocity AI/Meridian Intelligence (see `velocity-ai-programme.md`, `uhl-model-target-list.md`, `ai-adoption-ireland-prospecting.md`) |
 
 ## Multi-Thread Architecture
 
