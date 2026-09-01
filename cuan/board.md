@@ -34,6 +34,14 @@ to his benefit. John is Company Secretary; Pat Carroll handles external
 company secretarial. Structure now clear — see ODIN entry above for the
 live 48-hour offer connection.
 
+🟡 **Velocity AI training** — €10k/org executive AI orientation, proven at
+UHL. 50-target Irish org list built (`meridian/sales-orchestration/`).
+Priority: apply to Skillnets Ireland as approved training provider
+(unlocks 40-60% funded for client companies) — highest-leverage single
+action for the whole list. John to mark warm contacts on the 50; recover
+"idea 1" content from Shane's original six programme concepts (not yet
+found in repo).
+
 ## Revenue streams — cash flow, day-to-day, one line each
 
 🟢 UHL Hardware (AHL) — Aug invoice sent, awaiting payment

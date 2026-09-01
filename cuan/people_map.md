@@ -16,10 +16,50 @@
 
 ### United Hardware Limited
 - **CEO:** Paul Candon
+- **CFO:** David Geoghegan (david.geoghegan@unitedhardware.ie) — key operational contact.
 - **Commercial Director:** David Shakeshaft
+- **HR Manager:** Maya Gough (maya.gough@unitedhardware.ie) — organised the UHL
+  Leadership & Development Programme; primary internal contact for the Velocity
+  AI training engagement.
+- **Admin (UHL & AHL):** Maria O'Flaherty (maria.oflaherty@unitedhardware.ie) —
+  confirmed AI training session running 21/23 July 2026.
+- **Board member:** Eoin Lynch, D. Lynch & Sons, Portumna, Co. Galway
+  (eoin@dlynch.ie) — internal champion who initiated the Velocity AI
+  engagement with Shane (Jan 2026); reviewed Shane's six programme concepts
+  and selected the foundation content ("idea 1" — content not yet recovered,
+  see `meridian/sales-orchestration/velocity-ai.md`).
+- **Chairman:** Eoin McGettigan — refocused the 29 July board agenda toward
+  future/forward-looking discussion.
+- **Audit & Risk Committee:** Michael O'Driscoll (modriscoll@bandoncoop.ie) —
+  collaborating with John on the audit report/committee note to Forvis
+  Mazars; received the Meridian Intelligence overview 22 July, responded
+  positively, wanted to discuss at the 29 July board meeting — first warm
+  Meridian advisory prospect on record.
+- **Auditors:** Forvis Mazars (distinct from BDO, which audits AHL).
 - **John's role:** INED and Chair, Audit & Risk Committee
 - **Note:** Paul Candon is also listed as Director 1 on MiDentalCare CVL documents. There is also a separate personal matter involving Paul Candon — treat with care.
 - **Cuan notes:** UHL proposals are internal only — not for circulation to UHL contacts without explicit approval.
+
+### AHL
+- **Shane Felle** — former Chairman, current Director (sfelle@shannonside.net
+  / shanefelle1@gmail.com). Primary governance signatory; signs audit
+  engagement letters. BDO Letter of Engagement forwarded to him for
+  signature 3 July 2026 — status unconfirmed, needs chasing.
+- **BDO auditors:** Simon Carbery (scarbery@bdo.ie), Aram Gevorgyan
+  (agevorgyan@bdo.ie) — AHL transitioned to BDO Ireland LLP July 2026.
+- **AGM:** postponed, agreed with BDO for 23 September 2026 (accounts not
+  ready); confirmed to Nicola Hegarty 24 July.
+
+### Rory Smyth (ActionCoach)
+- rorysmyth@actioncoach.com. Runs the broader UHL Leadership & Development
+  Programme within which John and Shane deliver the Velocity AI component.
+  Potential channel partner for replicating the programme to other
+  ActionCoach clients.
+
+### Timothy Cahill
+- Cahill's Homevalue Hardware, Kilmallock (tcjnr@hotmail.com). UHL member
+  store. John forwarded the UHL AI training programme to him March 2026 as
+  a potential replication target.
 
 ---
 
