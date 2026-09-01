@@ -15,8 +15,12 @@ Built on Covey's Habit 3 (Quadrant II — schedule what's important before the
 urgent fills the week) applied across the six disciplines, the 8 revenue
 streams, and Life Balance.
 
-**Three scheduled pushes — LIVE as of this session, modelled on Shane's own
+**Four scheduled sends — LIVE as of this session, modelled on Shane's own
 cadence (morning open, evening report, Sunday week-ahead):**
+- **6:12am daily** — full Operating Creed emailed to jwebborourke@gmail.com
+  (condensed, all six disciplines, nothing dropped) — for reading/printing
+  first thing, per John's explicit request (1 Sept) that it land in his
+  inbox and psyche daily rather than requiring him to visit Cuan.
 - **8am daily** — reads the creed/board, pushes 2-3 highest-priority items.
 - **8:53pm daily** — prompts John for his evening report (what moved, what's
   owed) — a prompt for HIM to report, not a generated summary.
