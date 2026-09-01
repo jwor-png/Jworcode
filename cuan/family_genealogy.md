@@ -176,6 +176,27 @@ Sturner/Sean Webb US line) — worth checking with Gerry Webb whether the
 two threads connect, since both ultimately concern the wider Webb family's
 DNA testing history.
 
+### Follow-up exchange (continuing 1 Sept, into the evening)
+
+John met Gerry Webb as planned but **deliberately held off discussing
+Kirsten with him** — his own words: "wanted to learn more myself and
+have helped you rather than bringing an extra family member into this at
+this time." He mentioned he's an admin of the Webb family tree (unused
+"a couple of years at least") and said he'd look for his own DNA
+results to confirm which service/account he's actually with, still
+prompted by ongoing MyHeritage birthday-alert emails.
+
+Kirsten said she fully understood and trusted his judgement on holding
+back. She's living in East Clare, about an hour from Kilmallock, and
+regularly in Limerick and Dublin (music-related). Open to visiting and
+meeting in person, possibly with John's daughter Niamh too. Nothing new
+on the Sean Webb identity question in this exchange — still unconfirmed,
+still the key open item.
+
+**Status update:** John is keeping this contained to himself for now
+before looping in wider family, consistent with normal caution on a
+still-unconfirmed close relationship. More still to follow from John.
+
 ## Open items
 
 - Confirm whether John has ever completed his own DNA test, and if so,
