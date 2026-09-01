@@ -722,6 +722,30 @@ are flagged for confirmation, never guessed.
     as live for any future filing/disclosure obligations.
 - **AHL Executive Risk Solutions (D&O) policy** — Hang Zhao flagged options on
   6 July (current limit €500k vs increasing). Still outstanding, no reply sent yet.
+- **AHL AGM confirmed — 23 September 2026, Green Isle, 11:30am (Board
+  meets 9:30am).** John booked with Maria O'Flaherty (31 Aug), after
+  attending AI training with her same day. **NOTE: same date as the
+  household insurance renewal deadline (23 Sept)** — worth being aware
+  both land the same day.
+  - **AGM Prep documents from David Geoghegan (31 Aug):** Notice of AGM,
+    Proxy Form, Active Members Letter, plus a PBSE questionnaire (John had
+    texted about this). John replied asking for the forms-to-be-resigned
+    email to be sent separately, said he'd review attachments and revert
+    with approval. **Awaiting John's review/approval.**
+- **AHL Annual Return 2026 — role clarification needed with BDO.** Joanne
+  Mallon (BDO) sent the Annual Return to Shane Felle as main contact;
+  John clarified (28 Aug) that he is **AHL Chairman, succeeding Shane
+  since July 2024**, Nicola (Hegarty-McMillan) is Company Secretary, and
+  Shane is a [role cut off in source — to confirm]. John told Shane Felle
+  to hold off signing until accounts are agreed after the weekend. BDO
+  sent a follow-up (31 Aug) asking John to confirm going forward contact —
+  **that message landed in Trash, may need checking it wasn't sent there
+  in error.** Two Circit e-signature requests from BDO re Associated
+  Hardware PLC: SDRDLT5I (completed) and SDPXHSKG (still pending).
+- **Unit 20 Magna Drive rent review — email sent to David Geoghegan, 31
+  Aug.** Re: lease between Associated Hardware plc (Landlord) and United
+  Hardware (Tenant), rent review provisions under Schedule 4, follow-up to
+  John's original email of 21 October 2024. Awaiting Dave's response.
 
 ## 6. BUILD MY FUTURE DELIBERATELY
 
