@@ -403,6 +403,18 @@ are flagged for confirmation, never guessed.
       document) and Johnny's own wording throughout: (A) For Shops, (B)
       For Barbers, (C) Overview ("What it is, what it isn't, why we need
       it now"). Covers all three items Johnny asked for in the group chat.
+    - **Johnny's pushback (documents sent to him this morning via
+      WhatsApp):** Johnny reviewed and said **barbershops would not be
+      paying commission.** This is a material reopening of the Money
+      Model's core mechanic — commission was explicitly described as "the
+      spine" of the whole earn structure (10/18/22% tiers). If shops don't
+      pay commission, shop-side revenue is left as tech fee (£1-2/booking)
+      + membership (£25-35/month) only — a genuinely different economics,
+      not a wording tweak. Worth Shane's awareness/input before this is
+      treated as settled, not just a document edit.
+    - **Action:** shop document rebuilt with commission excluded, for
+      John to review before sending back to Johnny for further review/
+      acceptance via internal WhatsApp.
   - **"Working in Parallel" plan (Shane, via Velocity AI, for Johnny &
     John) — John's objection, flagged directly:** the plan splits work into
     three tracks — Track One (Johnny: cohort recruitment, craft standard,
