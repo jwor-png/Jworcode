@@ -432,8 +432,36 @@ are flagged for confirmation, never guessed.
       back to the Money Model's own mechanism for this (the three
       questions Shane built for Johnny to ask shop owners directly,
       privately, owner to owner) rather than accepting Johnny's personal
-      read as settled. **Not yet sent to Johnny — awaiting John's
-      confirmation.**
+      read as settled. **SENT — Johnny actually did what was asked.**
+    - **WhatsApp exchange, 1 Sept — real trade input, genuinely split:**
+      Johnny reviewed all three documents. On the Overview, correctly
+      flagged pricing can't be finalised until post-testing (Shane's own
+      position). On the Shop document: "with regards the commission, I
+      think that should fall with the barber not the shop... other than
+      that, all looks good." When challenged (per the sent message) on
+      whether this was shop feedback or his own view, Johnny actually
+      consulted a contact — **John Jones** — who agreed: "the barber has
+      to pay something, it shouldn't all fall with the shop... they will
+      tack it on anyway, not every cover day will be a Saturday... a lot
+      of the time it will be a Tuesday or just a cover day to keep the
+      shop flowing." **But a second contact, Anthony Laban, gave the
+      opposite view — that it should fall with the shop owner.** Real
+      disagreement among the trade itself, not a settled answer.
+      Johnny's own conclusion: **"this won't be nailed down today, it
+      will need proper input from both barbers and shops"** — proposed
+      leaving it as an open question in the document rather than a fixed
+      answer: "As a barber what would you be willing to pay? As a shop
+      owner would you be happy to pay a commission?"
+    - **John's resulting direction (1 Sept):** pricing cannot be shown as
+      fixed numbers to either barbers or shops at tomorrow's **intense
+      London meeting**. Views genuinely differ, so Johnny needs to
+      actually ask barbers and shops what they'd agree to pay, treating
+      it as discovery, not a stated price. **Documents to be rebuilt as
+      text, not numeric boxes** — explaining the fee *categories* (shop
+      monthly fee, tech fee, and the open question of whether barbers pay
+      commission and/or a tech fee too) so Johnny can walk through the
+      one-pager with people and gather real input, rather than presenting
+      settled figures. Rebuild done same day — see board.md for status.
   - **"Working in Parallel" plan (Shane, via Velocity AI, for Johnny &
     John) — John's objection, flagged directly:** the plan splits work into
     three tracks — Track One (Johnny: cohort recruitment, craft standard,
