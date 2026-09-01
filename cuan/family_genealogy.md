@@ -137,17 +137,24 @@ segment 38.3 cM. This is the actual DNA evidence that had been missing —
 John's own DNA match data, surfacing via someone else's account/outreach
 rather than his own results inbox.
 
-**Kirsten's own background, as she told John:** her father Sean died in
-1966 when she was 18 months old; her mother later married Jimmy O'Rourke
-about 4 years afterwards. John's reply flagged the same detail from his
-side — **this is very likely the same Sean Webb (d. 1966) already logged
-as John's father**, which would make Kirsten a half-sibling or very close
-relative on the Webb side, not merely a distant 3rd cousin match — the
-MyHeritage "3rd cousin" estimate may be a wide-margin default given a
-small shared-segment count, not the true relationship. **This needs
-careful, direct confirmation before assuming — flagging rather than
-concluding.** John's message to her raises this cautiously ("always
-mindful even at 61 to wonder what would like have been if Sean lived").
+**Correction:** the "father Sean died in 1966" detail belongs to
+**John's own** background, not Kirsten's — he was sharing his own story
+(his father Sean Webb died 1966, mother Joan remarried Jimmy O'Rourke)
+by way of context, not describing Kirsten's family. Earlier logging here
+mis-attributed this as Kirsten's father; corrected below.
+
+**The actual open question, per the later exchange:** it is **Kirsten's
+own father's identity** that is unconfirmed — MyHeritage shows John as
+her father's 3rd cousin, not Kirsten's own 3rd cousin directly. John
+asked her directly whether her mother's pregnancy might trace to a
+one-off encounter with a Scottish or Welsh man, and where/when that
+might have happened, since the O'Rourke side (via John's mother Joan)
+carries predominantly Scottish/Welsh ancestry per Marion-Jane McCarthy's
+2021 DNA results already logged above. Kirsten replied that she "can't
+believe you're my dad's 3rd cousin" and is hopeful this helps identify
+who her father actually is. **So the mystery here is Kirsten's paternity,
+not a closer Webb-side relationship to John — no half-sibling
+implication.**
 
 **Family contact named:** **Uncle Gerry Webb** — Kirsten's uncle, seeing
 him Tuesday (2 Sept), described as having "a good handle on the family
@@ -189,28 +196,66 @@ prompted by ongoing MyHeritage birthday-alert emails.
 Kirsten said she fully understood and trusted his judgement on holding
 back. She's living in East Clare, about an hour from Kilmallock, and
 regularly in Limerick and Dublin (music-related). Open to visiting and
-meeting in person, possibly with John's daughter Niamh too. Nothing new
-on the Sean Webb identity question in this exchange — still unconfirmed,
-still the key open item.
+meeting in person. John shared a photo of Niamh (his daughter, 31, Office
+Manager at a wellness clinic in Limerick) — Kirsten hadn't met her yet but
+was keen to.
 
 **Status update:** John is keeping this contained to himself for now
 before looping in wider family, consistent with normal caution on a
-still-unconfirmed close relationship. More still to follow from John.
+still-unconfirmed relationship.
+
+### Latest (continuing, same evening) — the actual open question is Kirsten's paternity
+
+John pressed Kirsten directly: "What was your reason for asking about
+Scottish or Welsh relatives? Does your Mam think her one night stand was
+with a Scot or Welsh bloke? Where did this place and was it a certain
+occasion as that might lead to some clues?" — confirming Kirsten's father
+is not known to her, and the DNA search is an active effort to identify
+him, not a case of Kirsten and John being closer relatives than the
+MyHeritage estimate suggests.
+
+John found and cited an email from his step-sister **Marion (O'Rourke)**
+confirming the O'Rourke side carries predominantly Scottish/Welsh genes,
+traced through his mother **Joan** — consistent with Marion-Jane
+McCarthy's 2021 DNA breakdown already logged above (Irish/Scottish/Welsh
+71%, English 13%, East European 12.4%, Scandinavian 2.6%). This is offered
+as a possible thread for narrowing down Kirsten's father's origin, not
+as a Webb-side connection.
+
+John also sent Kirsten the **2013 Webb Surname DNA Project** documents
+(the Sean Webb / Eileen Sturner correspondence already logged above under
+its own heading) — sharing his own family's earlier DNA research effort
+with her, presumably as useful background or a possible cross-reference
+point, though no direct link between that project and Kirsten's father
+search has been established.
+
+He confirmed to Kirsten he'll check which DNA testing provider he
+personally used ("I'll check back in once I see which crowd I did my
+test with, am sure it's Heritage one") — still the same open unresolved
+point about where John's own completed DNA results actually are.
+
+Kirsten confirmed they share DNA specifically on **MyHeritage** ("You
+definitely did the 'MyHeritage' one because you and I share DNA on that
+one, it's the same test I took") — so John's own results, wherever
+logged, are confirmed to exist on MyHeritage at minimum.
+
+John signed off with "That's it" — no more material expected for now on
+this thread.
 
 ## Open items
 
-- Confirm whether John has ever completed his own DNA test, and if so,
-  where the results actually are.
+- Confirm exactly where John's own MyHeritage DNA results/account can be
+  accessed directly (Kirsten's match confirms the results exist on
+  MyHeritage — still need to locate John's own login/results view).
 - Confirm relationship between the new MyHeritage signup (1 Sept 2026) and
   the existing "Webb Web Site" family tree already active on MyHeritage
   (calendar alerts running since at least May 2026).
 - Revisit the Webb Surname DNA Project suggestion — is there a suitable
   Irish Webb relative (not closely related to the US/English strains) who
   could test to help place the Irish Webb line.
-- More material "to follow" from John (1 Sept) — log as it arrives.
-- Confirm whether Kirsten's late father Sean (d. 1966) is the same Sean
-  Webb as John's own father — if so, the relationship is much closer than
-  the MyHeritage "3rd cousin" estimate suggests. Needs direct, careful
-  confirmation, not assumption.
+- The core open question on the Kirsten thread: identify **her** father's
+  identity, likely traced through a Scottish or Welsh connection on the
+  O'Rourke (John's mother Joan's) side — not a Webb-side question.
 - Follow up after John's Tuesday (2 Sept) meeting with Uncle Gerry Webb —
-  expected to bring clarity on the tree and how Kirsten fits.
+  expected to bring clarity on the wider tree, though John held off
+  raising Kirsten with Gerry this time.
