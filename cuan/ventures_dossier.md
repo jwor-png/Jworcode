@@ -173,7 +173,7 @@ closed out, no outstanding action. Full detail in `operating_creed.md`
 
 ---
 
-## BarberTemp
+## BarberTemp / Barber Republic
 - **What it does:** Two-sided labour exchange for the barbering industry (staffing marketplace)
 - **Model parallel:** Workrise (formerly RigUp) — NOT Uber (Uber framing is dangerous for investor credibility)
 - **John's role:** Commercial Lead via Velocity AI / Meridian Intelligence — advisory and consultancy only. No operational role. Will not relocate.
@@ -184,6 +184,34 @@ closed out, no outstanding action. Full detail in `operating_creed.md`
 - **Product layers:** Tiered marketplace by market level, surge pricing for emergency cover, VIP/celebrity barber section, unmanned kiosks, loyalty layer for established barbers
 - **Live priority:** True (true.global) introduction — existing one-pager needs revision before any VC-facing use. Global contacts on hold until IP is protected.
 - **Confidentiality:** John and Shane's names are not on Johnny-facing documents
+
+### Build cost, payments and investors (from Jul–Aug 2026 ChatGPT work)
+- **Shane's build restructured to ~£55,000 over 12 weeks:** £15,000
+  initial, ~£15,000 ~4 weeks later, ~£25,000 around week 9 (incl.
+  travel/expenses).
+- **Velocity Invoice #14, £15,000, issued 17 August 2026** — first
+  payment under this revised scope. Likely the same payment already
+  logged in `board.md` as "Month One £15k PAID" — needs confirming
+  they're one and the same, not two separate £15k payments.
+- Potential **£50,000 investment for 10% equity** discussed (implies
+  £500,000 post-money valuation).
+- John and Shane **rejected** proposals to personally borrow £15,000
+  each to fund the project. Square lending via the Barber Barber
+  businesses explored as an alternative.
+- **Investors approached:** Dave Turley (declined); Ed Lawton (NDA
+  process underway); Andrew Sharkey's retired-investor group (one
+  £50k investor, or ~3 at £17k each).
+- **Shareholding structured through Stay True Limited** (Johnny
+  Shanahan and Morgan Leahy's vehicle).
+- Simple commercial agreement requested between Velocity AI and Barber
+  Barber Ltd (separate from the Money Model/pricing documents already
+  built this session).
+- Coaching identified as a possible later paid service, separate from
+  the core marketplace/commission model.
+- **Document standard confirmed:** clean, black-on-white, larger fonts,
+  highly legible for WhatsApp/investor use — matches the approach
+  already used for the Barber Republic PDFs.
+- Full narrative context in `chatgpt_synopsis_jul_aug_2026.md`.
 
 ---
 
