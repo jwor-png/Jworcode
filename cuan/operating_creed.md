@@ -604,8 +604,13 @@ are flagged for confirmation, never guessed.
   would follow up with Mícheál immediately). **Firm-but-courteous email
   drafted and sent to John** for Mícheál — asks him to confirm directly to
   Paul today, names the three staff, and notes continued delay puts John
-  in a difficult position as company director in the liquidation. Awaiting
-  John sending it and Mícheál's response.
+  in a difficult position as company director in the liquidation.
+  **SENT — 1 Sept, John sent his own slightly edited version.** Received
+  an out-of-office auto-reply: Mícheál is out 24 Aug to 1 Sept inclusive
+  (today is his last day out), urgent queries directed to the office on
+  **061 418518**. Given this is flagged urgent and Paul O'Brien is also
+  waiting, worth calling that number directly rather than waiting for
+  Mícheál to see the email on his return.
 - **Keith Hogan** — €600 fee reminder sent.
 
 - **Mark Power (mpower@powersolicitors.ie)** — asked him 23 June to act personally
