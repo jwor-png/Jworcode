@@ -1,0 +1,46 @@
+MERIDIAN LINKEDIN POST 2 — THE DECISION BRIEF
+Drafted 1 September 2026. Follows the introduction post.
+No numbers, no prices, no client names, no em dashes. Verified and defensible throughout.
+Character count of the post body including hashtags: see foot of file.
+
+---------------- POST STARTS ----------------
+
+Every board I have sat on has faced the same moment. A decision is on the table, everybody has an opinion, and nobody can point to the work that settles it.
+
+That is what a Decision Brief is for.
+
+It takes one specific question with a yes or no at the end of it. Should we buy this business. Should we enter this market. Should we take this money, and on what instrument. Then it puts that single question through the domains that could actually change the answer, rather than the one domain the question happens to arrive in.
+
+There are seven of them. Commercial and deal. Legal and governance. Finance and restructuring. Property and development. AI strategy and adoption. Business transformation and growth. AI equity and investment. A question that looks purely commercial very often turns out to be a legal one, and the value is in finding that before you commit rather than afterwards.
+
+What comes back is a written position you can take into a board meeting. A clear recommendation with the reasoning attached. The risks that would change the answer, stated plainly. Every claim labelled as verified, reported or unverified, so you can see exactly which parts of the case are solid and which are still moving. And the questions you should be able to answer yourself before you commit.
+
+Three things it will not do, and I want to be as clear about those as about the rest.
+
+It will not tell you what you want to hear. Every recommendation is attacked before it leaves, because a position that has not been argued against is not a position, it is a preference.
+
+It will not dress up an assumption as a fact. If the evidence is not there, it says so and tells you what would need to be found.
+
+And it will not represent you. Meridian informs. Anything binding goes to a qualified professional first, and I say that as someone who spent fifteen years in practice and knows exactly where that line sits.
+
+AI does the work that AI is genuinely better at. Reading everything, missing nothing, holding seven perspectives at once without getting tired or attached to a view. The judgment at the end of it is mine, and so is the accountability.
+
+AI driven. Human led. That order matters.
+
+More on the wider Executive Intelligence Review next.
+
+#ArtificialIntelligence #AI #CorporateGovernance #BoardOfDirectors #DecisionMaking #BusinessStrategy #Leadership #DueDiligence #AIGovernance #Ireland
+
+---------------- POST ENDS ----------------
+
+NOTES FOR JOHN
+
+Why this one follows the introduction properly:
+- The introduction named the domains and the reports. This one takes the first report and shows what it actually does, which is the sequence you set.
+- It opens from your own board experience rather than from the product, so it reads as a practitioner writing, not a vendor.
+- The three things it will not do are the strongest part. Nobody else in this space publishes their own limits, and it is the most defensible content available to us.
+- Fifteen years in practice is stated, and it is tied to the boundary rather than used as a credential on its own.
+- No numbers, no prices, no client names, no case studies, nothing that could be challenged as a claim about a result.
+- No em dashes anywhere. Sentence lengths deliberately varied to avoid the stacked short-sentence pattern.
+
+If you want it shorter, the paragraph beginning "AI does the work that AI is genuinely better at" can be cut without losing the argument, because the AI driven, human led line carries it.
