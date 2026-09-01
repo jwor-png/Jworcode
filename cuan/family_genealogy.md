@@ -46,6 +46,22 @@ project's files, and tracing their family tree back might reveal a
 distant link. Sean asked if John knew of "any other Irish Webb that we're
 not related to."
 
+**Fuller detail from Eileen Sturner's reply (WSDP — Webb Surname DNA
+Project — coordinator):** Sean Webb's upgraded results (Y-Refine 12-to-67
+markers, via FamilyTreeDNA/FTDNA, kit N56946, $199, second sample posted
+11 July 2013 after his first was rejected for quality) came back with
+**zero matches at any marker level, including outside his own surname**
+— which Eileen said she'd never seen before. Her read: this doesn't mean
+no connection exists — it means **no one from Sean's specific Webb line
+has ever tested at all**, so there's nothing in the database yet to match
+against. Her suggestions: (1) wait, as more people test over time
+(FTDNA auto-notifies by email when a match appears — worth checking that
+contact email is still monitored); (2) proactively identify likely-related
+Webbs via paper-trail research and enlist them to test; (3) the Family
+Finder autosomal test as a supplement (not a substitute for Y-DNA) — only
+useful for matches within ~150 years, and matches on the Webb line even
+via non-direct-male descendants.
+
 **Status:** old thread (2013), not clear if ever actioned. Worth John
 confirming whether this was ever followed up, especially now that a new
 MyHeritage signup exists.
