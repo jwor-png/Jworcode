@@ -817,6 +817,14 @@ are flagged for confirmation, never guessed.
   benefit; John is Company Secretary of Asterial). Worth having that
   structure clear and any Asterial paperwork ready before the offer lands,
   not scrambling once it does.
+- **Portfolio question raised by John, 1 Sept — Shane's own concern, not
+  just John's:** with the ODIN investment now live, it's on Shane's mind
+  how the *other* businesses (Barber Republic, Ambrion, Velocity, and
+  anything else Shane's involved in) will actually continue to be run and
+  managed once ODIN takes priority for his time. This is a real portfolio-
+  level question, not resolved anywhere yet — worth John and Shane
+  addressing directly rather than letting it surface piecemeal per
+  venture. Flagged here as standing, to revisit.
 - **Data Centre Ireland conference** — 18-19 November, forward planning item.
 - **John's Council + Cuan integration** — John wants his Council (separate
   ChatGPT cognitive advisory system, six members) made integral to his
