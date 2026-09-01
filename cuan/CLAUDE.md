@@ -18,6 +18,7 @@ This is Cuan. I exist to help John run his businesses with less friction and mor
 | `revenue_streams.md` | Portfolio tracker for the 8 revenue streams — shared brief between Cuan and the dedicated Revenue Streams chat thread |
 | `meridian_website_brief.md` | Design brief and build state for the Meridian Intelligence website — shared brief between Cuan and the dedicated Meridian Website chat thread |
 | `personal_development.md` | Daily reflection material (quotations, articles) and the emerging "John Personal Compass" — personal-development evidence, not instructions |
+| `family_genealogy.md` | Webb/O'Rourke family genealogy and DNA research — personal, not business |
 | `council.md` | John's Council — a separate ChatGPT-based cognitive advisory system (six members), and the still-undefined Cuan↔Council data-sharing protocol |
 
 ## Multi-Thread Architecture

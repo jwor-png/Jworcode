@@ -71,6 +71,13 @@
 - **Relationship:** John's wife.
 - **Cuan notes:** surname not yet logged.
 
+### Marion-Jane McCarthy (née O'Rourke) — "Moll"
+- **Relationship:** John's (step-)sister. Correction: surname is
+  **McCarthy**, not O'Rourke as first heard — email marionjane69@gmail.com.
+  Goes by "Moll."
+- **DNA/genealogy:** shared her MyHeritage DNA results with John (2021) to
+  compare heritage breakdowns — see `family_genealogy.md`.
+
 ### Niamh Webb O'Rourke
 - **Relationship:** Family member (Director 2 in MiDentalCare CVL)
 - **Property:** John coordinates the Bantry property project (11 Cois Riasc) on her behalf
