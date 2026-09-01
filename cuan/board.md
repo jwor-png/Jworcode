@@ -39,7 +39,7 @@ live 48-hour offer connection.
 🟢 UHL Hardware (AHL) — Aug invoice sent, awaiting payment
 🟢 Ambrion AI — training 25 & 31 Aug confirmed
 🟢 Barber Republic — Money Model V1 produced (10/18/22% commission, £1-2 tech fee, barbers £0 always, shops £25-35/mo), settles with trade in London visit one; Month One £15k PAID; agreement still unsigned by Johnny; John sending it back with a personal WhatsApp boxing off that Johnny/BarberBarber must lead, not John
-🟡 Julianstown Mill — statement + payment request sent, awaiting reply
+🔴 Julianstown Mill — Fred Logue appeal formally lodged 31 Aug (PL-501978-MH-26), response due 23 Sept; planning grant + John's fees + payments delayed as a result; balancing statement sent, awaiting reply
 🔴 Velocity AI — Gmail script fix still outstanding
 ⚪ Golden Generation — nothing live right now
 

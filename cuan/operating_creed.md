@@ -478,6 +478,41 @@ are flagged for confirmation, never guessed.
     "Request for Further Information" replies. John replied he'd ask Sharon
     about speaking with Logue and revert. Logue has backers in Meath who see
     his objections as a good thing — track record of doing his own thing.
+  - **APPEAL NOW FORMALLY LODGED — 31 August 2026.** Fred Logue's
+    third-party appeal against the MCC grant, confirmed by Bronagh Clarke
+    (Ward Consult). **An Bord Pleanála / Coimisiún reference:
+    PL-501978-MH-26.** His two earlier planning-stage submissions form
+    part of the appeal, plus appendices (Julianstown Village Design
+    Statement, ACA Character Appraisal, MCC Guidelines for Works in ACA,
+    the 2025 SYSTRA "Acceptable Travel Levels" report). Five grounds,
+    unchanged from his original objections: material contravention of
+    zoning, traffic, growth of the settlement, conservation, flooding.
+    **Response deadline: Wednesday 23 September 2026** (ACP letter dated
+    27 Aug). 31 Aug was the final day for any appeal, so other third-party
+    appeals remain possible — design team said they'd update if so.
+    - **Design team's read (civil engineer Gordon Finn, CS Consulting):**
+      nothing new technically — Logue's traffic point isn't disputed in
+      substance (the R132 through Julianstown genuinely is oversaturated,
+      long-standing, won't be fixed until the bypass), but the team's
+      position is the development's own traffic contribution is
+      insignificant next to existing volume. Logue's real argument (that
+      nothing should be built until the bypass exists) is a zoning
+      question that should have been raised at the Development Plan
+      consultation stage, not now. He's pivoted from technical points
+      toward broader zoning/heritage arguments.
+    - **Conservation architect (David Cullivan, GCAL):** nothing new on
+      conservation either. Flagged a genuinely useful angle worth
+      pursuing: checking whether Logue has been on the public record
+      *supporting* the bypass previously — if so, that's usable against
+      his "wait for the bypass" argument. Cullivan asked Bronagh to set up
+      a team meeting to agree the response approach.
+    - **Practical/financial impact, per John (1 Sept):** disappointing —
+      pushes back the actual grant of planning permission by weeks/months
+      pending An Bord Pleanála's decision, which in turn delays John's own
+      fees, and delays payments from a contact heard as **"John Smith"**
+      — name unconfirmed, flagging rather than guessing; could be a
+      mishearing of an existing contact already logged on this matter
+      (e.g. John Lynch). John to confirm who this actually refers to.
 - **Ambrion AI — UHL training programme schedule correction (dictated 10
   August):** the session planned for 14 August is NOT happening as
   previously understood. Corrected schedule: 25 August is now Programme
