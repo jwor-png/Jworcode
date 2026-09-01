@@ -122,6 +122,60 @@ children: Clodagh McCarthy, Roisin McCarthy, Orna McCarthy — this is
 **Marion-Jane McCarthy**, already logged, confirming her married surname
 and family.
 
+## Kirsten (Adele Keady) — new DNA match, surfaced via Instagram (1 Sept 2026)
+
+A new contact, **Kirsten** (Instagram: kirstenadelekeady, 2.2K followers,
+already mutual follows with John — "You both follow groev_music and 12
+others"), reached out first via WhatsApp saved as "Kirsten Cuz," then in
+more detail via Instagram DM. Introduced by **Owen** (John's son), who had
+already spoken to her and told his mother Majella and John about her the
+previous weekend.
+
+**The match:** MyHeritage shows Kirsten and John as **parent's 3rd cousin**
+— DNA match quality 1.0% (72.9 cM shared), across 4 segments, largest
+segment 38.3 cM. This is the actual DNA evidence that had been missing —
+John's own DNA match data, surfacing via someone else's account/outreach
+rather than his own results inbox.
+
+**Kirsten's own background, as she told John:** her father Sean died in
+1966 when she was 18 months old; her mother later married Jimmy O'Rourke
+about 4 years afterwards. John's reply flagged the same detail from his
+side — **this is very likely the same Sean Webb (d. 1966) already logged
+as John's father**, which would make Kirsten a half-sibling or very close
+relative on the Webb side, not merely a distant 3rd cousin match — the
+MyHeritage "3rd cousin" estimate may be a wide-margin default given a
+small shared-segment count, not the true relationship. **This needs
+careful, direct confirmation before assuming — flagging rather than
+concluding.** John's message to her raises this cautiously ("always
+mindful even at 61 to wonder what would like have been if Sean lived").
+
+**Family contact named:** **Uncle Gerry Webb** — Kirsten's uncle, seeing
+him Tuesday (2 Sept), described as having "a good handle on the family
+tree" — there is an existing tree "put together a number of years ago by
+another cousin." Gerry previously spoke to Kirsten by phone and "really
+wanted to help."
+
+**Other names raised:** Morgan and Edward, confirmed as cousins in the
+exchange (context not yet fully clear — likely Kirsten's own relatives,
+possibly linking into the wider Webb tree already logged above).
+
+**John's contact details shared with Kirsten:** mobile 087-2570849,
+personal email jwebborourke@gmail.com — he asked her to send photos of
+her DNA profile and match links so he could look into it and speak to
+Gerry.
+
+**Status:** live, active thread. John was mid-call-scheduling with Kirsten
+(deferred once — "day has gone against me") as of Sunday 14:04, said he'd
+review the family tree material first and message her later. No Scottish
+or Welsh family connections known on John's side; he'll raise it with
+Gerry Tuesday.
+
+**Cross-reference:** this is a separate contact/thread from Marion-Jane
+McCarthy and from the 2013 Webb Surname DNA Project (Eileen
+Sturner/Sean Webb US line) — worth checking with Gerry Webb whether the
+two threads connect, since both ultimately concern the wider Webb family's
+DNA testing history.
+
 ## Open items
 
 - Confirm whether John has ever completed his own DNA test, and if so,
@@ -133,3 +187,9 @@ and family.
   Irish Webb relative (not closely related to the US/English strains) who
   could test to help place the Irish Webb line.
 - More material "to follow" from John (1 Sept) — log as it arrives.
+- Confirm whether Kirsten's late father Sean (d. 1966) is the same Sean
+  Webb as John's own father — if so, the relationship is much closer than
+  the MyHeritage "3rd cousin" estimate suggests. Needs direct, careful
+  confirmation, not assumption.
+- Follow up after John's Tuesday (2 Sept) meeting with Uncle Gerry Webb —
+  expected to bring clarity on the tree and how Kirsten fits.
