@@ -498,6 +498,24 @@ are flagged for confirmation, never guessed.
 - **Family travel (dictated 21 August, Friday)** — travelling after lunch to
   drop mother-in-law Helen to her daughter Shirley in Mallow. Wife Majella
   travelling too.
+- **Household insurance renewal — Campion Insurance, renewal date 23
+  September 2026** (Client-Ref OROJ24001, Unique Pin C3x941t7). Found via
+  Gmail, 1 Sept. Existing insurer (Zurich): €1,011.54. Alternative
+  (RedClick, via Campion): €748.42 — both exclude optional benefits, full
+  breakdown in the attached renewal offer/Zurich renewal terms PDFs.
+  Campion's Tullow office closed to the public from 31 Aug (per separate
+  6 Aug email) — phone contact only now: 059 916 7720 (motor/home/van/
+  commercial), or renew online at campion.com/renew-online-v2 (card only —
+  cannot renew online if paying by Direct Debit). **Must review/reply 10
+  days before 23 Sept if Statement of Fact details are wrong, or terms are
+  treated as confirmed by default.** John to review and decide (Zurich vs
+  RedClick) in the coming days.
+- **Majella's Newcastle West contact ("Majella Boat" — name/spelling to
+  confirm) re: a bank account matter** — John needs to call her back.
+- **Phone voicemail rings too short** — John wants the number of rings
+  before it goes to voicemail increased. Practical/carrier-side fix (not
+  something Cuan can action directly) — logged as a to-do for John to
+  adjust via his phone/carrier settings.
   Party going on to see John's mother, Joan, near Bantry — staying overnight,
   home tomorrow. Also: notification/Apps Script correction work (Ambrion/
   Velocity Gmail fix) hoped to be done this morning.
