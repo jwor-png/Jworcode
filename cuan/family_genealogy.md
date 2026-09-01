@@ -66,6 +66,62 @@ via non-direct-male descendants.
 confirming whether this was ever followed up, especially now that a new
 MyHeritage signup exists.
 
+## The Webb family tree (MyHeritage "Webb Web Site," 864 people, screenshots reviewed 1 Sept 2026)
+
+This is the existing, substantial tree referenced earlier (calendar alerts
+active since at least May 2026) — confirms it's real and detailed, not
+just a stub. Core direct line and immediate branches captured:
+
+**Direct line to John:**
+- Michael J Webb (15 Aug 1873 – 21 Apr 1951) m. Mary Kate Webb (born
+  Kenoy, 1878–1918)
+  - MJ Webb (1 Feb 1909 – 2 Feb 1981) m. Mary K Webb (born Callaghan,
+    1911–1965) — had a large family, ~10 children, born 1936–1958 (see
+    siblings below)
+    - **Sean Webb** (1936 – 3 Dec 1966) m. **Joan O'Rourke** (born Hall,
+      b. 1943) — John's parents
+      - **John Webb O'Rourke** (b. 13 Jan 1965) m. **Majella Webb
+        O'Rourke** (born Cahill) — confirms Majella's maiden name: Cahill
+        - Owen Webb O'Rourke (b. 18 Aug 1992)
+        - Niamh Webb O'Rourke (b. 11 Jan 1995)
+
+**MJ Webb & Mary K's other children (John's aunts/uncles) — Sean's
+siblings:**
+- Mickey Webb (1939 – 9 Nov 1992) m. Carmel Webb (born Synie/Synnie,
+  b. 21 Oct 1939) → children: Judy Webb, Susan Lee (born Webb), Michael
+  Webb, Alan Webb
+- Pat Webb (b. 17 Jan 1943) m. Patricia Webb (born Sheehan, 12 Sep 1942 –
+  22 Jun 1988) → children: Gerrard Webb, Rachel Webb (b. 24 Mar 1972),
+  Sean Webb (b. 8 Jun 1973 — a cousin, different Sean Webb from John's
+  father), Johanne Webb (b. 10 Apr 1978), Patrick Webb (b. 28 May 1980),
+  Zachary Webb (b. 8 Jun 1983), Leah Webb (b. 9 Dec 1985)
+- Teresa Maguire (born Webb, b. 31 May 1941) m. Bill Maguire → children:
+  **Sarah Maguire (b. 1 Sep 1973 — her birthday was showing in the app
+  the day these screenshots were taken, matching the "53rd birthday of
+  Sarah" MyHeritage calendar alert email already logged)**, Simon
+  Maguire, Gerrard Maguire
+- Gabriel Danagher (born Webb, 25 Mar 1945 – 2012) m. Dan Danagher →
+  children: Kieran Danagher, Clodagh Twohig (born Danagher), Morgan
+  Danagher, Shauna Darcy (born Danagher)
+- Fionnuala Canning (born Webb, 1947 – 2007) m. Michael Canning →
+  children: Tara Canning, Ross Canning, Lloyd Canning
+- Claire-ann Rose (born Webb, b. 22 Apr 1952) m. Bob Rose (b. 26 Nov
+  1952) → daughter: Mary Kate Britt Rose (b. 10 Oct 1984)
+- "Best uncle ever" Webb (b. 15 Mar 1954) — nickname used in the tree
+  itself, real name not shown
+- **Tommy Webb** m. Jean Webb → children: Casey Webb, **Carl Webb**
+  (Luke Webb, deceased; Darren Webb, b. 16 Mar 1977) — **this confirms
+  Carl Webb (Webb Sports Horses Ltd, already logged in `people_map.md`
+  and `ventures_dossier.md`) is John's first cousin**, son of Tommy Webb.
+- Bernadette Reardon (born Webb, b. 24 Feb 1958)
+
+**Also on the tree:** William Hall's side (Joan's family) — Jack Hall
+(deceased) m. Hazel Hall (born Mortimer, deceased), connecting to Joan
+O'Rourke (born Hall). Marion McCarthy (born O'Rourke) m. Con McCarthy →
+children: Clodagh McCarthy, Roisin McCarthy, Orna McCarthy — this is
+**Marion-Jane McCarthy**, already logged, confirming her married surname
+and family.
+
 ## Open items
 
 - Confirm whether John has ever completed his own DNA test, and if so,
