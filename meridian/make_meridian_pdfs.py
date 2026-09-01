@@ -96,7 +96,7 @@ def callout(text, bar=TEAL, bg=HexColor('#EAF5F4')):
     return KeepTogether([Spacer(1, 3), t, Spacer(1, 5)])
 
 
-def simple_table(header, rows, widths, header_bg=NAVY):
+def simple_table(header, rows, widths, header_bg=NAVY, pad=4.5):
     data = [[Paragraph(h, S['TH']) for h in header]]
     for r in rows:
         data.append([Paragraph(str(c), S['TD']) for c in r])
@@ -106,8 +106,8 @@ def simple_table(header, rows, widths, header_bg=NAVY):
         ('VALIGN', (0, 0), (-1, -1), 'TOP'),
         ('LEFTPADDING', (0, 0), (-1, -1), 5),
         ('RIGHTPADDING', (0, 0), (-1, -1), 5),
-        ('TOPPADDING', (0, 0), (-1, -1), 4.5),
-        ('BOTTOMPADDING', (0, 0), (-1, -1), 4.5),
+        ('TOPPADDING', (0, 0), (-1, -1), pad),
+        ('BOTTOMPADDING', (0, 0), (-1, -1), pad),
         ('LINEBELOW', (0, 0), (-1, -1), 0.4, LINE),
         ('BOX', (0, 0), (-1, -1), 0.5, LINE),
     ]
@@ -119,11 +119,27 @@ def simple_table(header, rows, widths, header_bg=NAVY):
 
 
 def build(path, flowables, title='Meridian Intelligence',
-          footer='Meridian Intelligence  ·  Private and confidential'):
-    """Render flowables to an A4 PDF with the Meridian header band and footer."""
+          footer='Meridian Intelligence  ·  Private and confidential',
+          watermark=None, top=22, bottom=18, pad=4.5):
+    """Render flowables to an A4 PDF with the Meridian header band and footer.
+
+    watermark: optional text (e.g. 'DRAFT') drawn diagonally behind the content.
+    """
 
     def page(canv, doc):
         canv.saveState()
+        if watermark:
+            canv.saveState()
+            canv.translate(A4[0] / 2.0, A4[1] / 2.0)
+            canv.rotate(52)
+            canv.setFont(BOLD, 96)
+            canv.setFillColor(HexColor('#C9D4DD'))
+            try:
+                canv.setFillAlpha(0.35)
+            except AttributeError:
+                pass
+            canv.drawCentredString(0, -30, watermark)
+            canv.restoreState()
         # header band
         canv.setFillColor(NAVY)
         canv.rect(0, A4[1] - 16 * mm, A4[0], 16 * mm, stroke=0, fill=1)
@@ -145,7 +161,7 @@ def build(path, flowables, title='Meridian Intelligence',
 
     doc = BaseDocTemplate(path, pagesize=A4,
                           leftMargin=21 * mm, rightMargin=21 * mm,
-                          topMargin=22 * mm, bottomMargin=18 * mm,
+                          topMargin=top * mm, bottomMargin=bottom * mm,
                           title=title, author='Meridian Intelligence')
     frame = Frame(doc.leftMargin, doc.bottomMargin, doc.width, doc.height, id='f')
     doc.addPageTemplates([PageTemplate(id='p', frames=[frame], onPage=page)])
