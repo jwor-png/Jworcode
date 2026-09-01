@@ -594,8 +594,18 @@ are flagged for confirmation, never guessed.
 - **Michael Nugent settlement** — €2,460 full and final settlement accepted. Email
   sent confirming payment will follow in August. Split with Paul Candon (€1,230
   each), Paul sending his share to John to pay in full.
-- **Michael Glynn (solicitor) — Glenview staff / TUPE query** — follow-up sent
-  28 July, referencing Paul (Liquidator's office) chasing for a response.
+- **Mícheál Glynn (solicitor, info@michealglynn.ie) — Glenview staff / TUPE
+  query, escalated 31 Aug.** Correction: name is Mícheál Glynn, not
+  "Michael Glynn" as earlier logged. Original request 21 July asked him to
+  confirm TUPE arrangements for three named former Glenview staff (Irene
+  Corr, Claire Keenan, Ruth Bissett) whose DSP redundancy claims are on
+  hold pending this. Paul O'Brien (Butler & Co, liquidator) chased again
+  31 Aug — claims still stuck. John replied to Paul same day (driving,
+  would follow up with Mícheál immediately). **Firm-but-courteous email
+  drafted and sent to John** for Mícheál — asks him to confirm directly to
+  Paul today, names the three staff, and notes continued delay puts John
+  in a difficult position as company director in the liquidation. Awaiting
+  John sending it and Mícheál's response.
 - **Keith Hogan** — €600 fee reminder sent.
 
 - **Mark Power (mpower@powersolicitors.ie)** — asked him 23 June to act personally
