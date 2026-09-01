@@ -404,17 +404,32 @@ are flagged for confirmation, never guessed.
       For Barbers, (C) Overview ("What it is, what it isn't, why we need
       it now"). Covers all three items Johnny asked for in the group chat.
     - **Johnny's pushback (documents sent to him this morning via
-      WhatsApp):** Johnny reviewed and said **barbershops would not be
-      paying commission.** This is a material reopening of the Money
-      Model's core mechanic — commission was explicitly described as "the
-      spine" of the whole earn structure (10/18/22% tiers). If shops don't
-      pay commission, shop-side revenue is left as tech fee (£1-2/booking)
-      + membership (£25-35/month) only — a genuinely different economics,
-      not a wording tweak. Worth Shane's awareness/input before this is
-      treated as settled, not just a document edit.
-    - **Action:** shop document rebuilt with commission excluded, for
-      John to review before sending back to Johnny for further review/
-      acceptance via internal WhatsApp.
+      WhatsApp) — CORRECTED, this is Johnny's own personal opinion, not
+      validated shop feedback.** Johnny said barbershops would not be
+      paying commission — but this is **Johnny speaking as a barber
+      himself**, not something shop owners have actually told him. This
+      is a material reopening of the Money Model's core mechanic —
+      commission was explicitly described as "the spine" of the whole
+      earn structure (10/18/22% tiers). If shops don't pay commission,
+      shop-side revenue is left as tech fee (£1-2/booking, itself
+      unpriced/indicative — see tokenomics flag below) + membership
+      (£25-35/month, explicitly an entry point not a real earner) only —
+      a genuinely different, and likely weaker, economics.
+    - **Tech fee flagged as indicative, not calculated:** John notes the
+      £1-2/booking figure (sourced directly from Shane's Money Model, not
+      invented) has no tokenomics/compute-cost working behind it, and
+      that some AI platforms charge up to £99/month — real doubt whether
+      £1-2/booking covers actual running costs at scale. Needs Shane to
+      do the actual calculation before this number is relied on.
+    - **Action taken:** shop document rebuilt with commission excluded
+      (v2, sent to John for review). A WhatsApp draft was then prepared
+      and sent to John challenging the removal — pressing Johnny on
+      whether this is his own view or actual shop feedback, and pointing
+      back to the Money Model's own mechanism for this (the three
+      questions Shane built for Johnny to ask shop owners directly,
+      privately, owner to owner) rather than accepting Johnny's personal
+      read as settled. **Not yet sent to Johnny — awaiting John's
+      confirmation.**
   - **"Working in Parallel" plan (Shane, via Velocity AI, for Johnny &
     John) — John's objection, flagged directly:** the plan splits work into
     three tracks — Track One (Johnny: cohort recruitment, craft standard,
