@@ -25,6 +25,7 @@ This is Cuan. I exist to help John run his businesses with less friction and mor
 | `logs/intelligence-log.md` | **Automatic capture log — Meridian and Sales Orchestration append here at the end of every substantive session, without being told to.** Append-only. Read this daily to know what those systems have actually been doing. |
 | `logs/daily-update-log.md` | Daily confirmation table, one row per morning, updated automatically by `.github/workflows/cuan-daily-update.yml` |
 | `logs/capture-guide.md` | Protocol document explaining the capture log format to Meridian and Sales Orchestration |
+| `ai_upskilling.md` | John's personal record of what he's learning about AI — from Shane, UHL's training programme, Golden Generation material, Anthropic guides — tagged by source and mapped to which orchestration (Cuan/Meridian/future Sales orchestration) it should feed |
 | `meridian/sales-orchestration/*.md` | Sales orchestration across all three AI businesses — Velocity AI training programme (UHL proof point, 50-target list, grant strategy, outreach template) plus the broader ~200-company AI-adoption prospect universe mapped against AmbrionAI/Velocity AI/Meridian Intelligence (see `velocity-ai-programme.md`, `uhl-model-target-list.md`, `ai-adoption-ireland-prospecting.md`) |
 
 ## Multi-Thread Architecture

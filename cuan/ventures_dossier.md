@@ -57,13 +57,11 @@ Cuan reads both files in full — nothing here has been deleted or superseded.
      validate the whole approach with Shane first?
   4. Whether Codex sits on top of ODIN's existing API, or runs
      independently of it.
-- **Filing note:** the session that produced this asked for it to also
-  be logged in `ai_upskilling.md` — **that file doesn't exist anywhere in
-  this repo.** Flagging rather than guessing at creating one under an
-  assumed structure; John or Shane to confirm whether it's meant to be a
-  new file, or whether this belongs in an existing file under a
-  different name (e.g. `revenue_streams.md`'s Golden Generation
-  upskilling content, which already exists).
+- **Filing note (resolved 2 Sept):** `ai_upskilling.md` has since been
+  built by a separate session and merged to `main` — now pulled into
+  this branch too. See that file for John's own AI-learning log; this
+  ODIN/Codex entry stays here in the ventures dossier rather than being
+  duplicated there.
 
 ---
 

@@ -22,9 +22,7 @@ priority: free up his own time to work with Shane and complete this raise.
 Be ready to act fast once the offer lands. **NEW (2 Sept): "Codex" — a
 new intelligence product build spec'd out this session (85-section
 engineering spec) — is on hold pending John's direction next morning.
-Full detail in `ventures_dossier.md` ODIN/Codex section, incl. an
-`ai_upskilling.md` filing reference that doesn't exist anywhere in this
-repo — needs clarifying.**
+Full detail in `ventures_dossier.md` ODIN/Codex section.**
 🟡 **Meridian Intelligence** — 70% owned, outcome directly John's, not a
 minority stake. Not currently moving. Website build is in its own session —
 needs a status pulled from there.
