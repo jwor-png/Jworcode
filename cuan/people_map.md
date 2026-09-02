@@ -265,6 +265,18 @@
 
 ---
 
+## Personal / Golf
+
+### Nicholas Hayes
+- **Relationship:** Life member, Ballybunion Golf Club. Invited John and
+  Owen as guests for 16 Sept 2026 (12:36pm tee time).
+
+### Ethan Ramsay
+- **Relationship:** Work colleague of Owen's (at Adare Manor context).
+  Regular Thursday golf partner with John and Owen in Kilmallock — likely
+  the fourth in the 16 Sept Ballybunion group. [ASK — surname spelling
+  Ramsay vs Ramsey unconfirmed.]
+
 ## Family
 
 ### Majella

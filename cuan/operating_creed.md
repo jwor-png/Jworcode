@@ -671,6 +671,18 @@ are flagged for confirmation, never guessed.
 - **Life Balance exercise** — standing discipline, not a one-off: golf, gardening,
   and protected family time held consistently, every week, not squeezed out by
   venture work.
+- **Recurring:** golf with Ethan Ramsay (colleague of Owen's, work
+  colleague at their manor/Adare Manor context — spelling "Ramsay" per
+  John, "Ramsey" also used, unconfirmed which is correct) most Thursdays
+  in Kilmallock — John and Owen.
+- **16 September — two fixed diary items, logged 2 Sept (no calendar
+  integration exists yet, this is text-only — see the connector gap
+  already flagged in `shane-brief-mcp-fix.md`):**
+  1. **09:45** — bloods taken, Blossom Medical Centre, the Primary Care
+     Centre in Kilmallock.
+  2. **12:36** — golf, Ballybunion Golf Club. Guests of Nicholas Hayes
+     (a life member) — Nicholas, John, Owen, and likely a fourth: Ethan
+     Ramsay [ASK — surname spelling Ramsay vs Ramsey unconfirmed].
 - **Family travel (dictated 21 August, Friday)** — travelling after lunch to
   drop mother-in-law Helen to her daughter Shirley in Mallow. Wife Majella
   travelling too.
