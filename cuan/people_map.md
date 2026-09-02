@@ -148,27 +148,35 @@
 - **Status:** flagged gap, 2 Sept 2026 — **no prior history held anywhere
   in Cuan.** A WhatsApp exchange was shared in the wrong thread, so only a
   thin read exists so far.
-- **What's known:** connected to "Childen" and Uropharma (spelling per the
-  WhatsApp image — possibly the same UroPharma logged as a separate
-  investment-review thread in `chatgpt_synopsis_jul_aug_2026.md`, ~£3.5m
-  raised/~£500k sought — not confirmed as the same entity, worth checking
-  rather than assuming). His goal: getting Childen and Uropharma onto a
-  world stage — political, diplomatic, business and funding support,
-  building on existing work. Driven by a passion for peace and
-  geopolitical strategy, connected to his Aunt Mary. Combines a Vatican
-  network with EU, British and American contacts. Reacted positively to
-  John's analysis and is open to defining what he wants from the
-  arrangement.
-- **Live thread, confirmed 2 Sept:** this is also the same "Children
-  (Institutional Architecture)" line on `board.md` — corrected there to
-  Childen. John is working the Childen relationship via WeChat, sent
-  forward to Mike, **Lloyd** [ASK — surname/role unconfirmed, new name],
-  and Andrew Sharkey, routing toward the Vatican via **Archbishop Eamon
-  Martin.** Coincidentally, Archbishop Martin is also keynote speaker at
-  the 29 Sept Pope Leo AI encyclical conference John just accepted an
-  invite to (see the Crysta Gunn/Irish Catholic Bishops' Conference
-  thread) — not yet established whether that's the same relationship
-  thread or a separate coincidence.
+- **What Childen actually is (clarified 2 Sept):** a design and
+  architecture for a **child online safety platform** — not built out,
+  not developed. The plan is to **sell that design/architecture to the
+  Vatican**, not build/operate it. Working group: John, Shane, Andrew
+  Sharkey, Mike Molloy, coordinated via a dedicated WhatsApp group —
+  documents shared there, everything channelled through it. No source
+  document logged in Cuan yet — John to paste it across.
+- **Uropharma:** connected to Mike Molloy separately from Childen —
+  spelling per the WhatsApp image, possibly the same UroPharma logged as
+  a separate investment-review thread in
+  `chatgpt_synopsis_jul_aug_2026.md` (~£3.5m raised/~£500k sought) — not
+  confirmed as the same entity, worth checking rather than assuming.
+  Mike's goal for both: getting Childen and Uropharma onto a world stage
+  — political, diplomatic, business and funding support, building on
+  existing work. Driven by a passion for peace and geopolitical
+  strategy, connected to his Aunt Mary. Combines a Vatican network with
+  EU, British and American contacts. Reacted positively to John's
+  analysis and is open to defining what he wants from the arrangement.
+- **Progress, confirmed 2 Sept:** the Childen proposal has already
+  received the support of the Irish hierarchy via **Archbishop Eamon
+  Martin**, secured through Mike's contacts. The 29 Sept Pope Leo AI
+  encyclical conference invitation (Crysta Gunn/Irish Catholic Bishops'
+  Conference) came about **because the Childen proposal was circulated
+  via Mike** — **confirmed the same relationship thread**, not a
+  coincidence.
+- **Lloyd** — also part of the working thread per the earlier WhatsApp
+  share, but not part of the WhatsApp group as newly described (John,
+  Shane, Andrew Sharkey, Mike Molloy) — [ASK] role/surname/whether he's
+  actually part of this or a separate contact, unconfirmed.
 - **Open action:** the correct Meridian thread that actually holds the
   Mike Molloy relationship history needs to log it properly to
   `cuan/logs/intelligence-log.md` — this entry is a placeholder, not the
@@ -182,10 +190,11 @@
 - **Threads he appears in:** (1) Kevin Carr proposal — Shane sent it to
   Andrew for review before Kevin sees it directly; (2) Barber Republic —
   his retired-investor group considered as a funding route (one £50k
-  investor, or ~3 at £17k each — see `ventures_dossier.md`); (3) Childen
-  (Institutional Architecture) — John working this via WeChat, sent
-  forward to Mike Molloy, Lloyd, and Andrew, routing toward the Vatican
-  via Archbishop Eamon Martin.
+  investor, or ~3 at £17k each — see `ventures_dossier.md`); (3)
+  **Childen — confirmed active member of the core four-person working
+  group** (John, Shane, Andrew, Mike Molloy) progressing the Childen
+  child-online-safety design/architecture sale to the Vatican, via a
+  dedicated WhatsApp group.
 - **Cuan notes:** worth confirming this is the same Andrew Sharkey across
   all three threads rather than assuming — the name recurs but the
   contexts (investor group, Vatican-adjacent relationship work, a

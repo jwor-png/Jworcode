@@ -35,18 +35,20 @@ needs a status pulled from there.
 🟡 **Tairseach** — property-specific organism descended from ODIN; funding
 conversations bundled with ODIN's above.
 🟡 **Childen (Institutional Architecture)** — correction, 2 Sept: was
-mistranscribed here as "Children." Same "Childen" already logged under
-Mike Molloy in `people_map.md` — separate from the ODIN IP estate.
-**Live thread (2 Sept):** John working via WeChat, sent forward to Mike,
-Lloyd, and Andrew Sharkey, routing to the Vatican via Archbishop Eamon
-Martin. Mike's goal: getting Childen and Uropharma onto a world stage —
-political, diplomatic, business and funding support, combining a
-Vatican network with EU/British/American contacts. Coincidentally (or
-not), Archbishop Martin is also the keynote speaker at the 29 Sept
-Pope Leo AI encyclical conference John just accepted an invite to — not
-yet established whether these are the same relationship thread or two
-separate ones. Full detail still thin — needs John to define what
-Childen actually is, and who Lloyd is (not yet in `people_map.md`).
+mistranscribed here as "Children." **What it is (clarified 2 Sept):
+Childen is a design and architecture for a child online safety
+platform — not built out, not developed.** The plan is to sell that
+design/architecture to the Vatican, not to build and operate it as a
+going concern. **Working group:** John, Shane, Andrew Sharkey, Mike
+Molloy — coordinated via a dedicated WhatsApp group, documents shared
+there, everything channelled through it. **Progress:** the proposal has
+already received the support of the Irish hierarchy via Archbishop
+Eamon Martin, secured through Mike's contacts — the 29 Sept Pope Leo AI
+encyclical conference invitation (see `people_map.md` Mike Molloy entry)
+came about **because** the Childen proposal was circulated via Mike —
+**confirmed the same relationship thread, not a coincidence.** No source
+document logged yet — John to paste it across. Who Lloyd is still
+unconfirmed.
 ⚪ **Other tech-for-sale/investment candidates** — flagged as existing but
 not yet itemised; John to name them so they can be tracked individually.
 🟢 **Asterial Limited** — the vehicle capturing Shane's personal ODIN IP
