@@ -343,14 +343,237 @@ cross-system check across GitHub, Drive and Gmail. Findings:
 
 ---
 
-## AHL
-- **John's role:** Chairman
-- **Status:** Active — FY2025 accounts finalising with BDO, AGM booked
-  23 Sept at the Green Isle, product-liability question (Mulveys, echoing
-  the earlier Ray Smith issue) open, D&O insurance limit decision pending.
-- **Revenue relevance:** [ASK — unconfirmed whether the Chairman role
-  carries director fees to John personally].
-- **Tracking:** Cuan (board matters, internal-only, per governance.md).
+## AHL Plc
+- **Status:** Active — FY2025 audit dominant item, minutes of 22 April
+  now issued to BDO (was the blocker), AGM 23 Sept, D&O insurance limit
+  decision still pending (see `operating_creed.md`), premises sale live
+  but undecided.
+- **Revenue relevance:** Revenue stream — **resolved:** Chairman's fees
+  €1,667.00/month, invoiced by John to AHL Plc monthly (No. 27 issued
+  Aug 2026), plus a separate Director's fee and an AHL payroll salary
+  slip (Sage, David Geoghegan holds access) — three separate streams,
+  do not conflate.
+- **Tracking:** Cuan (board matters, internal-only, per `governance.md`)
+  — higher gate by default, see governance frame below.
+
+### Identity
+- **Full legal name:** Associated Hardware Public Limited Company.
+  Referred to as AHL Plc, Associated Hardware plc, AHL. Irish public
+  limited company. Registered office/asset: Magna House, 20 Magna Drive,
+  Magna Business Park, Citywest Road, Dublin 24. [Source: BDO corporate
+  governance correspondence, annual return to 30 Sept 2025, AGM
+  documentation, verified 10 Aug 2026]
+
+### What AHL Plc does
+The **property-owning company** for Magna House, leased to United
+Hardware who trade from it. John's own words to John Gannon (Tom
+Phillips + Associates), 16 Oct 2025: "The property is owned by AHL of
+which I am the Chair/Chief Exec and it's leased to Utd Hardware who
+trade from there." This is the structural link between John's two board
+roles — AHL Plc is landlord, UHL is tenant. See the governance frame's
+conflict note below.
+
+### John's role
+- **Title:** Chairman. [ASK — "Chair/Chief Exec" used once in the Oct
+  2025 email above; unconfirmed whether the executive element is a
+  formal appointment or shorthand — matters for disclosure and D&O
+  cover.]
+
+### The monthly invoice routine
+Monthly, dated the day it's sent (rule set by John, 10 Aug 2026 — before
+that, invoices were dated month-end regardless of send date; July 2026
+went on the 9th dated the 31st, John spotted it and fixed going forward,
+July stands as issued since already processed/paid). Sequential
+numbering — Aug 2026 was No. 27. €1,667.00, "Agreed fee as the AHL
+Chairman, period from [start] to [end]." To
+nicola.hegartymcmillan@unitedhardware.ie **and** n.hegarty@hotmail.com
+(both, every time), cc david.geoghegan@unitedhardware.ie (added from
+June 2026). **Not recorded here by design:** John's IBAN, BIC, tax
+number and mobile appear on the invoice template only, deliberately kept
+out of this repo.
+
+### Board
+John Webb-O'Rourke (Chairman), Shane Felle (sfelle@shannonside.net,
+shanefelle1@gmail.com — shannonside bounces intermittently, use both),
+Joe Wallace (josephjoewallace@gmail.com), Eoin Lynch (eoin@dlynch.ie),
+John Smyth (jsmythkillucan@gmail.com), Emmet Cooney
+(emmetcooney@hotmail.com). **Finance/admin:** Nicola Hegarty McMillan
+(Finance Manager, UHL — prepares AHL accounts/minutes, processes
+payments), David Geoghegan (CFO, UHL — authorises/executes payments,
+payroll access). **Company secretarial:** BDO, contacts Nell Burke and
+M Keane, CoGovTeam3@bdo.ie.
+
+### Governance calendar
+AGM 23 Sept 2026 (moved from the April meeting's planned July date at
+the Green Isle Hotel — [ASK: venue confirmed?]). Annual return made up
+to 30 Sept. Board meetings roughly quarterly plus calls — known dates
+30 July 2025, 30 Sept 2025 (AGM), 22 April 2026. A meeting scheduled for
+20 May 2026 did not proceed. Board meeting to approve 2025 accounts once
+draft finalised; board meeting the morning of the AGM; members/
+shareholders meeting in conjunction with the AGM re: the premises sale;
+Audit Committee likely needs a call.
+
+### Live matters (position at 26 Aug 2026, carried forward)
+
+**1. 2025 audit — the dominant item.** Auditor BDO Ireland LLP, lead
+Simon Carbery (Partner, Audit), with Aram Gevorgyan and Tswelopele
+Sebake; Linda Kearney (UHL) works queries with Nicola. BDO targeting
+end-of-August sign-off. Query list running since early August — **the
+blocker was board minutes**: minutes of the 22 April 2026 meeting
+(the last formal board meeting — 20 May didn't proceed) were prepared,
+worked through item by item, executed and issued as PDF to BDO on 26
+Aug, unblocking the audit. A covering email to Simon Carbery explained
+the meeting gap, the written reporting trail, the €106,000 fire works,
+and the three meetings ahead; Simon came back on the Jonas McCarthy
+shares question, answered by John.
+
+**2. Fire compliance works — largely done.** Fire alarm replacement and
+associated works, ~€106,000, agreed AHL (as owner) would carry the cost
+to bring the building into compliance and secure a new fire cert.
+Certification for completed works received the week to 26 Aug; a new
+compliance inspection requested and awaited. Originated April 2026 with
+Paul Candon, Securitas Technology Ireland recommended at ~€99,000 + VAT.
+This delay is the main reason the board meeting cadence slipped from May.
+
+**3. Possible sale of the premises — live, undecided.** Harvey (Kevin
+McHugh, William Harvey Ltd) produced the property report/valuation,
+circulated to directors and shared with BDO. A members' shareholders
+meeting will be held with the AGM to consider a possible sale, given
+interest shown. **No decision to sell has been taken** — the Board wants
+~70% of members in favour before placing the property on the market.
+Shane Felle has stated he's in favour of a sale. Planning regularisation
+(Tom Phillips + Associates, John Gannon/Julie) runs alongside, so a sale
+isn't compromised by the outstanding condition; formal yard-storage
+drawings to be prepared jointly with UHL to maximise the opportunity.
+
+**4. Debtors: Smyth and Mulvey.** Confirmed to BDO 25 Aug that both
+accounts will be pursued for collection and remain in debtors for the
+year while John works through them with both parties. The Smyth account
+is entangled with the Smyths of Killucan matter below.
+
+**5. Shannonside credit claim (Shane Felle).** Shane claims an initial
+overcharge of ~€105,000, of which he says €75,000 is definitely owed —
+the amount carried in the accounts is significantly less, John
+negotiating a compromise the Board would accept. AHL doesn't appear to
+have recourse against suppliers for the credit refunds claimed.
+Voluntarily disclosed to BDO 25 Aug (Shane's email forwarded in full).
+**Note the coincidence:** this €105,000 and the €106,000 fire works are
+unrelated figures of similar size — John flagged the distinction
+expressly to Simon.
+
+**6. Share transfers — three separate positions.** Jonas McCarthy (West
+Cork Building Supplies Ltd, Clonakilty) — hasn't progressed the previous
+transfer request, **matter is at an end**. Ignatius Cahill, Gort —
+acquired shares previously held by the Liquidator of his former Gort
+company, formally requested transfer 6 Aug 2026, wants to proceed. RB
+Coogan Ltd — business acquired by Ulster Builder Providers Ltd, wants to
+proceed. Both live transfers go to the Board at the next meeting, then
+John obtains a BDO fee quote for the company secretarial work. **Two
+inconsistencies to resolve before the register is written up:** the
+April minutes record Cahill's shares as "transferred back to him by the
+Liquidator," John's 26 Aug email to BDO says he "purchased" them, and
+Cahill's own email says purchased from Conor O'Boyle — purchase and
+transfer-back are different transactions. Separately, the RB Coogan
+contact was recorded as **Mark** Rice in Feb 2026 and **Dominic** Rice on
+26 Aug — one is wrong. Simon is writing the share capital disclosure now
+and asked John a two-line note on both points.
+
+**7. Smyths of Killucan product claim.** Counterparty **Ray Smyth**,
+Smyths of Killucan Homevalue Hardware, T.L O'Callaghan Ltd, Killucan,
+Mullingar (accounts@smythskillucan.ie). Long-running claim by Smyths'
+customer for remedial works arising from an allegedly defective product
+used to create a render. July 2026: John understood the customer sought
+~€70,000 and owed Smyths ~€20,000 on account; Ray's reply 31 July put
+the settlement figure at **€90,000**. Ray states the customer was
+assured the claim would be index-linked, "a matter that was discussed on
+a number of occasions with your accountant, Emmet" — **Emmet Cooney is
+an AHL director**, needs checking with Emmet before AHL denies
+responsibility. **Evidence on the product:** Mark Doherty (Marsh
+Ireland) wrote to Paul Candon, 28 June 2024, re Conway v Mulvey
+Homevalue/United Hardware/Northstone — the Sedgwick loss adjuster for
+Northstone stated the product (white limestone sand) was a proprietary
+raw material with no stipulation as to end use, no guarantee of fitness
+as a render, not advocated for that purpose, no knowledge of other
+ingredients/mix ratio/who mixed it, and no evidence of negligence.
+Marsh advised UHL to extract itself, the product never having been on
+its premises. **Caveat: that correspondence concerns the Mulvey matter**
+— whether it carries across to the Smyth claim depends on the product
+and supply route being the same, to be confirmed before relying on it.
+A reply to Ray Smyth is drafted, awaiting John's review — **John wants to
+speak to Emmet Cooney before it goes.** Thread marked Without Prejudice.
+
+### Open questions [ASK]
+1. CRO number, confirmation the Plc is unlisted.
+2. Chair only, or Chair and Chief Executive as a formal appointment.
+3. Letter of appointment and remuneration terms, signed and in place.
+4. D&O insurance, in place and current (cross-ref the separate live
+   Hang Zhao D&O limit thread already logged in `operating_creed.md`).
+5. Declared interests register, given the landlord/tenant relationship
+   with UHL.
+6. Basis of the Cahill acquisition, and the correct first name for Rice
+   at RB Coogan.
+7. Whether Emmet Cooney gave assurances on index-linking in the Smyth
+   claim.
+
+### Governance frame Cuan applies
+Derived from `governance.md` and `operating_spec.md` — Cuan's standing
+rules, not facts about AHL Plc.
+- **Board and governance matters are John only.** Cuan flags, tracks,
+  prepares decision inputs, drafts — it does not commit and does not
+  answer governance questions in John's name.
+- **The chairmanship carries more exposure than the UHL seat.** At UHL
+  John is an INED chairing Audit & Risk. At AHL Plc he chairs the board —
+  accountability sits with him for board conduct, agenda, and process,
+  not only oversight. Cuan treats AHL Plc items at the higher gate by
+  default.
+- **Shane Alignment Gate still applies** — any technical/commercial
+  commitment from AHL Plc goes to Shane before it proceeds. The
+  chairmanship creates no exception.
+- **Anything AHL Plc-facing is external circulation** — John approves
+  before it leaves, Cuan confirms no confidentiality rule is triggered
+  first.
+- **Landlord/tenant conflict — the material one.** AHL Plc owns Magna
+  House, UHL leases it. John chairs the landlord and sits INED/Audit &
+  Risk chair of the tenant. Every matter touching the lease, rent,
+  property condition, fire alarm upgrade, or a sale puts him on both
+  sides — a standing declared interest, not case-by-case. Cuan flags any
+  item crossing the two entities before it moves.
+- **Shared personnel.** Nicola Hegarty McMillan and David Geoghegan are
+  UHL staff who also administer AHL Plc finances, and John's chairman's
+  fees route through them — ordinary for a group this shape, worth
+  stating plainly in the interests register rather than left implicit.
+- **Cross-directorship watch.** John also holds a directorship in
+  MiDentalCare Limited (CVL). Plc disclosure obligations are stricter
+  than private company ones — any overlap of counterparties, suppliers,
+  or personnel gets declared and logged, not handled informally.
+- **Personal financial matters stay out** — Legacy financial resolution
+  and the MiDentalCare CVL are sensitive categories, don't surface in an
+  AHL Plc commercial/board context.
+
+### Next action
+1. John answers the seven open questions above.
+2. Cuan stands up an AHL Plc board tracker: meeting dates, papers due,
+   open board actions, the seven live matters, declared interests
+   register.
+3. Monthly invoice becomes a standing Cuan task on the 9th/10th of each
+   month, prepared for John's review and send.
+
+---
+
+## Julianstown Old Mill
+- **Status:** Active — planning granted 4 Aug, third-party appeal by
+  Fred Logue lodged 31 Aug (An Bord Pleanála ref PL-501978-MH-26,
+  response due 23 Sept), **sale to John Lynch now explicitly pending the
+  appeal outcome**, Glynn's Solicitors gone quiet on closing prep.
+- **Revenue relevance:** Revenue stream (John's fees + sale proceeds,
+  both currently delayed by the appeal).
+- **Tracking:** Cuan only.
+- **Note:** full detail lives in `operating_creed.md` (Julianstown
+  entries) and `board.md`, not duplicated here — this entry exists so
+  the venture isn't missed from a ventures_dossier-only read, since a
+  separate session (2 Sept) reported it had "no entry anywhere in the
+  knowledge base," which wasn't quite right (it just wasn't in this
+  particular file).
 
 ---
 

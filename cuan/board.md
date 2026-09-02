@@ -61,7 +61,12 @@ them.
 
 ## Revenue streams — cash flow, day-to-day, one line each
 
-🟢 UHL Hardware (AHL) — Aug invoice sent, awaiting payment
+🟢 UHL Hardware (AHL) — Aug Chairman's invoice (No. 27) sent to Nicola &
+Dave. **22 April board minutes issued to BDO — unblocks the 2025 audit.**
+Reply to Ray Smyth (Smyths of Killucan product claim) drafted, sitting on
+a conversation with Emmet Cooney first. Two-line note owed to Simon
+Carbery on the Cahill share basis and the correct Rice first name at RB
+Coogan.
 🟢 Ambrion AI — training 25 & 31 Aug confirmed
 🟢 Barber Republic — commission split genuinely disputed among Johnny's own contacts (John Jones: barber pays; Anthony Laban: shop pays) — no fixed numbers now shown to trade; A/B docs rebuilt as open questions for Johnny to actually ask in London tomorrow; agreement still unsigned by Johnny; Month One £15k PAID. **NEW (2 Sept): Shane sent Johnny + Neil "Working in Parallel" — the founder-track plan for the 12-14wk build (raise, story, pilot, week-6 London visit as the hinge). John reviewing in detail today, monitoring not driving.**
 🔴 Julianstown Mill — Fred Logue appeal formally lodged 31 Aug (PL-501978-MH-26), response due 23 Sept; **sale completion to John Lynch now explicitly pending the appeal outcome, not just fees**; Glynn's Solicitors gone quiet on closing prep — needs chasing; updated balancing statement drafted, awaiting reply

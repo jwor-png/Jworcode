@@ -38,8 +38,13 @@
 
 ### United Hardware Limited
 - **CEO:** Paul Candon
-- **CFO:** David Geoghegan (david.geoghegan@unitedhardware.ie) — key operational contact.
+- **CFO:** David Geoghegan (david.geoghegan@unitedhardware.ie) — "Dave"
+  in John's AHL invoice/finance correspondence. Authorises/executes AHL
+  Plc payments, holds Sage payroll access.
 - **Commercial Director:** David Shakeshaft
+  (david.shakeshaft@unitedhardware.ie) — **a different Dave**, the
+  Ambrion AI training conversation. Two Daves at UHL — do not conflate,
+  correction confirmed 2 Sept to avoid misrouting.
 - **HR Manager:** Maya Gough (maya.gough@unitedhardware.ie) — organised the UHL
   Leadership & Development Programme; primary internal contact for the Velocity
   AI training engagement.
@@ -57,20 +62,45 @@
   Mazars; received the Meridian Intelligence overview 22 July, responded
   positively, wanted to discuss at the 29 July board meeting — first warm
   Meridian advisory prospect on record.
-- **Auditors:** Forvis Mazars (distinct from BDO, which audits AHL).
+- **Auditors:** Forvis Mazars, contact David Rowan (distinct from BDO,
+  which audits AHL Plc, and distinct from both UHL Daves above).
 - **John's role:** INED and Chair, Audit & Risk Committee
 - **Note:** Paul Candon is also listed as Director 1 on MiDentalCare CVL documents. There is also a separate personal matter involving Paul Candon — treat with care.
 - **Cuan notes:** UHL proposals are internal only — not for circulation to UHL contacts without explicit approval.
 
-### AHL
+### AHL Plc
+- **John's role:** Chairman.
 - **Shane Felle** — former Chairman, current Director (sfelle@shannonside.net
-  / shanefelle1@gmail.com). Primary governance signatory; signs audit
-  engagement letters. BDO Letter of Engagement forwarded to him for
-  signature 3 July 2026 — status unconfirmed, needs chasing.
-- **BDO auditors:** Simon Carbery (scarbery@bdo.ie), Aram Gevorgyan
-  (agevorgyan@bdo.ie) — AHL transitioned to BDO Ireland LLP July 2026.
-- **AGM:** postponed, agreed with BDO for 23 September 2026 (accounts not
-  ready); confirmed to Nicola Hegarty 24 July.
+  / shanefelle1@gmail.com — shannonside bounces intermittently, use
+  both). Primary governance signatory; signs audit engagement letters.
+  BDO Letter of Engagement forwarded to him for signature 3 July 2026 —
+  status unconfirmed, needs chasing. Also holds a live Shannonside credit
+  claim against AHL (~€105,000, ~€75,000 he says definitely owed —
+  unrelated coincidence to the ~€106,000 fire works figure).
+- **Joe Wallace** (josephjoewallace@gmail.com) — Director.
+- **Eoin Lynch** (eoin@dlynch.ie) — Director (also the UHL board contact
+  above — same person, both roles).
+- **John Smyth** (jsmythkillucan@gmail.com) — Director.
+- **Emmet Cooney** (emmetcooney@hotmail.com) — Director. Also the person
+  John needs to check with before replying to Ray Smyth on the Smyths of
+  Killucan product claim (see `ventures_dossier.md`).
+- **Finance/admin:** Nicola Hegarty McMillan (Finance Manager, UHL —
+  prepares AHL accounts/minutes, processes payments), David Geoghegan
+  (CFO, UHL — see above, authorises AHL payments, payroll access).
+- **Company secretarial:** BDO, contacts Nell Burke and M Keane
+  (CoGovTeam3@bdo.ie).
+- **BDO auditors:** Simon Carbery (scarbery@bdo.ie, Partner, Audit —
+  lead), Aram Gevorgyan (agevorgyan@bdo.ie), Tswelopele Sebake — AHL
+  transitioned to BDO Ireland LLP July 2026. Linda Kearney (UHL) works
+  queries with Nicola.
+- **AGM:** 23 September 2026 (moved from an earlier planned July date at
+  the Green Isle Hotel — venue for 23 Sept not yet confirmed); confirmed
+  to Nicola Hegarty 24 July.
+- **Ray Smyth** — Smyths of Killucan Homevalue Hardware, T.L O'Callaghan
+  Ltd, Killucan, Mullingar (accounts@smythskillucan.ie). Counterparty on
+  a long-running product-liability claim, not an AHL board member — see
+  `ventures_dossier.md` for full detail. Reply drafted, awaiting John's
+  review pending a conversation with Emmet Cooney first.
 
 ### Rory Smyth (ActionCoach)
 - rorysmyth@actioncoach.com. Runs the broader UHL Leadership & Development

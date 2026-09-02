@@ -17,6 +17,19 @@
 
 ---
 
+## Session note, 2 September 2026 (AHL Plc session)
+
+A separate Cuan session had Gmail **read-only** and Drive **closed
+entirely** — every deliverable that session produced (the August
+Chairman's invoice, the drafted reply to Ray Smyth, the 22 April board
+minutes) had to be handed back to John to attach and send by hand,
+rather than sent directly. John's own framing: "Opening those two
+connectors turns each of those from a conversation into an instruction.
+It is a settings job, not a technical one." Worth doing when not against
+a deadline — same underlying fix as below, just confirming the gap is
+still live as of 2 Sept and costing real back-and-forth on ordinary
+tasks, not just blocking Drive document reads.
+
 ## Where the fix happens
 
 This has nothing to do with Gmail the app or Google Drive the app. It happens inside the **Claude Code configuration** -- the system settings that control what Cuan can connect to.
