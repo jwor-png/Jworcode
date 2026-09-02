@@ -1480,6 +1480,75 @@ over 6-12 months to find out whether there is a business at all.**
   source-tagged in the talk file. Nothing sent, published externally, or
   circulated on John's behalf.
 
+### The 2026 Summer School — notes and network mapping (2 Sept, ongoing)
+John's own words: his handwritten daily notes from the Summer School are
+"a little bit all over the place, hard to make sense of." **Plan agreed:
+revisit the photographed notes every few days so John can dictate and
+explain them properly, session by session**, rather than trying to
+capture everything in one go. This section will be built out
+incrementally as that happens.
+
+**Why Tangible matters to John, in his own framing (2 Sept):** it
+connected him to Mike Molloy; it reconnected him with Shane in 2025;
+that reconnection is what ultimately led to Shane connecting with Mike,
+which resulted in Childen's approach to the Vatican (see `childen.md`).
+John wants to build "a tapestry" capturing this whole network effect —
+the full web of connections Tangible has generated, not just the
+individual relationships in isolation. Not yet built — this is a stated
+intent, not a document that exists yet.
+
+**Raymond Sexton holds the archive:** recordings and detail from past
+sessions. John wants to factor in Raymond's own children, and
+Tangible's wider circle of current and past Summer School/Ambassador
+participants, into what this network looks like going forward.
+
+**The 2024-25 Tangible Strategy Workshop group — found and confirmed via
+Gmail (this resolves several names from the original dictation that
+came through unclear):**
+- **Raymond Sexton** (sextonpery@gmail.com) — convenor.
+- **Pat McGrath** (pat@mcgrathstrategia.com) — Chartered Engineer &
+  Chartered Director, McGrath Management & Consultancy Services,
+  facilitated the workshop series.
+- **Paul Finnegan** (paul@shantalla.space) — Founder/CEO, Shantalla.
+- **Adrian Rush** (amrush200@gmail.com) — this resolves "Adrian Rosh"
+  from the original note.
+- **Victor Perton** (victor@victorperton.com).
+- **Catherina Casey** (catherinacasey@msn.com).
+- **Sean O'Sullivan** (osulliv.sean@gmail.com) — this resolves "John
+  Sullivan" from the original note; the actual first name is Sean.
+- **John Webb-O'Rourke.**
+- **Hugh Sexton** (hugh.sexton@tangible.ie) — joined the group from
+  November 2024 onward.
+
+The group grew from a discussion opened at the **15th Ambassador Summer
+School (August 2024)** on where Tangible should go in the coming years,
+formalised into a workshop series (Workshops #1-3+ ran Nov 2024-March
+2025) with Pat McGrath drafting Purpose/Vision-type output documents
+from the sessions.
+
+**"WILDCARD" — confirmed real, not a mishearing:** Tangible runs a
+recurring event format literally called "WILDCARD" (e.g. "Tangible
+WILDCARD — King's Island," a themed roundtable, going back to at least
+2021). John mentioned a wellness-themed WILDCARD event later this month
+(Sept 2026) and asked his daughter to see if someone from her workplace
+would contribute — **the specific September 2026 invite wasn't found in
+this Gmail pass**, only historical WILDCARD threads from 2021. Needs
+either a fresh search with better search terms or John to point at the
+actual invite directly.
+
+**Genuinely unresolved from the original dictation — flagged rather than
+guessed:**
+- **"Tony McQ"** — does not match any name in the confirmed 2024-25
+  workshop group list above. Could be a different Tangible contact
+  entirely, or a mishearing of one of the names already confirmed.
+- **A contact "who came over from Belgium"** connected to a "Sexton" —
+  unclear whether this is a relative of Raymond/Hugh Sexton or a
+  separate person; not found in Gmail.
+- **"Shannon aged four was rimmed on Tuesday"** — could not be parsed
+  into anything meaningful. Not guessed at.
+- The exact planned shape of "the tapestry" John wants built — described
+  as an intent, not yet defined as a deliverable.
+
 ---
 
 ## Legacy Financial Matters

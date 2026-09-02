@@ -200,7 +200,34 @@
 
 ### Hugh Sexton
 - **Role:** Tangible Ireland Group — second name on the organisation.
-  hugh.sexton@tangible.ie.
+  hugh.sexton@tangible.ie. Joined the 2024-25 Tangible Strategy Workshop
+  group from November 2024. [ASK — John's dictation placed him in New
+  York; not independently confirmed.]
+
+### Pat McGrath
+- **Role:** Chartered Engineer & Chartered Director, McGrath Management
+  & Consultancy Services (pat@mcgrathstrategia.com). Facilitated the
+  2024-25 Tangible Strategy Workshop series, drafted the Purpose/Vision
+  output documents from it.
+
+### Adrian Rush
+- **Role:** Tangible Strategy Workshop group member (amrush200@gmail.com).
+
+### Sean O'Sullivan
+- **Role:** Tangible Strategy Workshop group member
+  (osulliv.sean@gmail.com).
+
+### Victor Perton
+- **Role:** Tangible Strategy Workshop group member
+  (victor@victorperton.com).
+
+### Catherina Casey
+- **Role:** Tangible Strategy Workshop group member
+  (catherinacasey@msn.com).
+
+### Paul Finnegan
+- **Role:** Founder/CEO, Shantalla (paul@shantalla.space). Tangible
+  Strategy Workshop group member.
 
 ### Clair Ducie
 - **Role:** Staff Officer, Office of the Mayor, Limerick City and County
