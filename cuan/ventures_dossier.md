@@ -48,6 +48,36 @@ Cuan reads both files in full — nothing here has been deleted or superseded.
   Multi-environment, multi-user foundation with workspace isolation.
   Emphasis on epistemic integrity, verification independence, strategic
   memory, and relationship intelligence.
+- **ODIN, full name confirmed (AI Funding session, 2 Sept):** Orchestrated
+  Distributed Intelligence Network — a studio built around a single
+  living organism of AI intellectual property, rather than a standalone
+  engine. The moat is the interconnection itself. Governance and
+  compliance is the largest single concentration in the build, which
+  positions it well as the EU AI Act lands.
+- **Dan Ferheny — prospect, AI Funding session (2 Sept):** logged as a
+  prospect contact via the Tangible network (see `ventures_dossier.md`
+  Tangible Ireland Group entry). Based in London, fintech background.
+  **Flagged for introduction to ODIN after the weekend, Monday morning
+  reminder set** — see open loops below.
+  - **Two-track prospect brief built for Dan:**
+    - **Track one — Kilmallock Water as the tangible entry point:** a
+      capital-intensive regulated business that fits his fintech
+      background directly. See the Kilmallock Water Project entry
+      already logged in `chatgpt_synopsis_jul_aug_2026.md` — Shane
+      completed a feasibility study (April 2025) identifying water
+      sources and site recommendations in Kilmallock, built on
+      geological, historical and hydrological research. Ballyhoura
+      Development and Limerick County Council already engaged at an
+      early stage. **The open gap: capital for the plant and a route to
+      market** — exactly what Dan's introduction is meant to address.
+    - **Track two — ODIN as the strategic layer once he's engaged:**
+      positions Dan as both investor and potential purchaser of governed
+      AI systems for regulated environments.
+  - **Open loop:** the Monday morning reminder for the ODIN introduction
+    needs a durable trigger, not just a note in this file — flag to
+    John/Shane whether a Routine/scheduled reminder has actually been
+    set outside this session, since a git-logged note alone won't fire
+    on its own on Monday morning.
 - **Outstanding clarifications needed before Codex proceeds:**
   1. Build scope — is Codex a personal tool for John, a customer-facing
      product, or an internal ODIN interface? Not yet decided.
@@ -344,17 +374,83 @@ cross-system check across GitHub, Drive and Gmail. Findings:
 ---
 
 ## AHL Plc
-- **Status:** Active — FY2025 audit dominant item, minutes of 22 April
-  now issued to BDO (was the blocker), AGM 23 Sept, D&O insurance limit
-  decision still pending (see `operating_creed.md`), premises sale live
-  but undecided.
-- **Revenue relevance:** Revenue stream — **resolved:** Chairman's fees
-  €1,667.00/month, invoiced by John to AHL Plc monthly (No. 27 issued
-  Aug 2026), plus a separate Director's fee and an AHL payroll salary
-  slip (Sage, David Geoghegan holds access) — three separate streams,
-  do not conflate.
+- **Status:** Active — FY2025 audit **not closed**, 11 BDO queries
+  outstanding from 6 Aug; two items John personally committed to BDO "in
+  days ahead" on 7 Aug (debtors/creditors position, board minutes since
+  Sept 2025) still owed; D&O limit asked 6 July, no reply evidenced;
+  premises sale live, now valued ~€13.95m; AGM 23 Sept.
+- **Revenue relevance:** Revenue stream — Chairman's fees €1,667.00/month
+  (three separate streams, don't conflate — see below).
 - **Tracking:** Cuan (board matters, internal-only, per `governance.md`)
   — higher gate by default, see governance frame below.
+
+### Structural finding (2 Sept 2026) — three companies, not one
+John operates across **three** distinct hardware-group companies, not
+one, and they are not a parent/subsidiary structure:
+1. **United Hardware Limited (UHL)** — John is INED and Chair, Audit &
+   Risk Committee.
+2. **Associated Hardware Public Limited Company (AHL Plc)** — John is
+   Chairman, one of two directors alongside Eoin Lynch. **AHL is not a
+   UHL subsidiary** — separate shareholders, separate auditor (BDO,
+   against Mazars at UHL), owns 20 Magna Business Park. AHL sold the
+   Homevalue brand to United Hardware for €200,000, and **that balance
+   is still live/outstanding** — a real intercompany debt, not a closed
+   historical transaction.
+3. **National Hardware** — **was nowhere in Cuan's files until this
+   session.** John appears to hold no role there. It is nonetheless the
+   subject of one of the three live AHL recoveries (see below) — worth
+   establishing what National Hardware actually is and why AHL is
+   recovering from it, given John holds no apparent role there. [ASK]
+
+**The DAC question (this session was named for it, still open):**
+nothing in Cuan's records shows any group entity as a Designated
+Activity Company. Best current reading: a conversion of Associated
+Hardware PLC itself — would fit a non-trading PLC holding one property
+with a wide legacy shareholder base. **One line from John confirms this
+and lets Cuan build the rest out.** [ASK — awaiting John's confirmation]
+
+### Where things stand (2 Sept 2026)
+- **UHL FY2025 audit is closed** — the Board thanked John formally on
+  5 August.
+- **AHL FY2025 is not closed** — 11 BDO queries outstanding as of 6 Aug.
+- **Three recoveries into AHL are live:** Smyths (Smyths of Killucan —
+  see the product claim already logged below), Mulvey, and **National
+  Hardware** (see structural finding above — this is likely the thread
+  that will explain what National Hardware actually is).
+- **Premises sale preparation:** valued ~€13.95m (updated figure — see
+  the sale-position detail already logged below, ~70% member approval
+  still the Board's threshold before listing).
+
+### Three items to move on first
+1. **The two AHL audit items John owned personally** — debtors/creditors
+   position, and board minutes since September 2025 — both committed to
+   BDO "in days ahead" on 7 August. Still outstanding.
+2. **The AHL D&O limit** — asked 6 July (the Hang Zhao thread already
+   logged in `operating_creed.md`), no reply evidenced, and John chairs
+   the company carrying the policy.
+3. **The Smyths claim** — John told them on 31 July it would go to the
+   AHL Board "next week." Track whether it actually did.
+
+### Two judgement items, not admin
+- **Intercompany/audit dependency:** John chairs Audit & Risk at UHL and
+  chairs AHL, and those two companies have live intercompany balances
+  (the €200,000 Homevalue brand sale balance above) with an audit
+  dependency currently running in one direction. Both boards know it.
+  John should have the answer ready before someone asks for it — this
+  isn't a drafting task Cuan can do for him.
+- **Michael O'Driscoll / Meridian:** Michael sits on John's own UHL
+  Audit & Risk Committee (see `people_map.md`) and wants to talk about
+  Meridian commercially. That may be entirely fine — but **it should be
+  a decision, not a drift**, and per governance it does not move without
+  Shane's alignment first (Shane Alignment Gate, `governance.md`).
+
+### Twelve consolidated questions
+A full list of twelve open questions from this session sits behind the
+DAC question (first on the list) — the seven `[ASK]` items already
+logged below overlap with several of these. **Not yet transcribed in
+full here** — the source file this session referenced wasn't attached to
+the paste; if it exists as a standalone file, point Cuan at it directly
+so the full twelve can be logged rather than reconstructed from summary.
 
 ### Identity
 - **Full legal name:** Associated Hardware Public Limited Company.
@@ -514,6 +610,18 @@ speak to Emmet Cooney before it goes.** Thread marked Without Prejudice.
    at RB Coogan.
 7. Whether Emmet Cooney gave assurances on index-linking in the Smyth
    claim.
+8. **The DAC question (top of the 2 Sept twelve-question list) —
+   confirm whether Associated Hardware PLC has converted to/should be a
+   Designated Activity Company.**
+9. What National Hardware actually is, and why AHL has a live recovery
+   against it, given John holds no apparent role there.
+10. The €200,000 Homevalue brand sale balance (AHL to UHL) — current
+    outstanding amount and settlement timeline.
+11. Status of the two personally-owned AHL audit items committed to BDO
+    "in days ahead" on 7 Aug (debtors/creditors position, board minutes
+    since Sept 2025).
+12. Whether the Smyths claim actually went to the AHL Board as told to
+    them on 31 July ("next week").
 
 ### Governance frame Cuan applies
 Derived from `governance.md` and `operating_spec.md` — Cuan's standing

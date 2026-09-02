@@ -61,7 +61,11 @@
   collaborating with John on the audit report/committee note to Forvis
   Mazars; received the Meridian Intelligence overview 22 July, responded
   positively, wanted to discuss at the 29 July board meeting — first warm
-  Meridian advisory prospect on record.
+  Meridian advisory prospect on record. **Judgement flag (2 Sept):**
+  Michael sits on John's own UHL Audit & Risk Committee and wants to
+  talk Meridian commercially — may be entirely fine, but should be a
+  decision, not a drift, and per governance does not move without
+  Shane's alignment first (Shane Alignment Gate).
 - **Auditors:** Forvis Mazars, contact David Rowan (distinct from BDO,
   which audits AHL Plc, and distinct from both UHL Daves above).
 - **John's role:** INED and Chair, Audit & Risk Committee
@@ -189,6 +193,16 @@
 ### Martin Forrest
 - **Role:** Social innovation speaker, Tangible Ireland, via Raymond
   Sexton.
+
+### Dan Ferheny
+- **Role:** Prospect contact, via the Tangible Ireland network. Based in
+  London, fintech background.
+- **Cuan notes:** two-track prospect brief built — Kilmallock Water as
+  the tangible/regulated entry point, ODIN as the strategic layer once
+  engaged. Flagged for an ODIN introduction after the weekend of 2 Sept,
+  with a Monday morning reminder said to be set — worth confirming that
+  reminder actually fired/exists outside this git log. See
+  `ventures_dossier.md` ODIN/Codex section.
 
 ### Padraic O'Maille
 - **Role:** Head of Smacht network — ~300 Irish SMEs
