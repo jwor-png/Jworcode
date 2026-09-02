@@ -1185,12 +1185,23 @@ over 6-12 months to find out whether there is a business at all.**
 - **Revenue relevance:** Not yet determined — the PCC site component had
   "no status" as of May 2026, not formally secured/progressed.
 - **Tracking:** Cuan only, with Ger Blake as the working contact.
-- **What it is:** A broader landholding position at Croom, Co. Limerick,
-  with a PCC site component connected to the Thomond/Ilex portfolio
-  above. The HSE (via Property Manager Sandra Sheehan, then via Sandra
-  Sheahan on the live Sept thread — same role, name spelling
-  inconsistent across sources, worth confirming which is correct)
-  separately bought part of the lands from Limerick County Council.
+- **What it is (clarified 2 Sept):** John, Ger Blake, and **Yuksel
+  Kangal** together own/hold an ~8-acre landholding at Croom, Co.
+  Limerick, adjacent to the hospital and to the rear of the **existing
+  Croom Primary Care Centre**, which John's group built some years ago.
+  Yuksel forwarded the funds to purchase these 8 acres. Talks are
+  ongoing to get the **HSE** to place a project on this land. The HSE
+  has separately already bought a smaller portion of the wider
+  landholding — bought from **Limerick County Council**, who owned it —
+  and it's specifically that HSE-owned portion that is being fenced off
+  from the main 8 acres, on-site **Monday (8 Sept)**. Exact acreage of
+  the HSE's separately-owned portion not confirmed — heard as "circa X
+  acres," figure unclear from dictation. [ASK — confirm exact acreage]
+- **Yuksel Kangal, identified (2 Sept):** a good friend of John's, a
+  fellow participant in the PCC projects, and **Ger Blake's
+  brother-in-law**. Runs a company with operations in **Turkey and
+  Italy** — full company detail not yet shared with Cuan. See
+  `people_map.md`.
 - **May 2026:** HSE sought access to fence off their section; John kept
   Ger looped in and confirmed no access issue via the PCC site itself.
   John separately asked Ger "any movement generally on the broader plans
@@ -1226,9 +1237,10 @@ over 6-12 months to find out whether there is a business at all.**
   personal relationship** — flagged rather than assumed either way.
   [Source: Gmail, "Croom Medical" thread, 25 Mar 2025]
 - **Open items:** (1) confirm Sandra Sheehan/Sheahan spelling; (2)
-  confirm who Yuksel Kangal is and their role; (3) confirm whether the
-  6 August item with Ger was ever resolved outside email; (4) any
-  movement generally on the broader plans for the lands since May 2026.
+  confirm the exact acreage of the HSE's own portion (heard as "circa X
+  acres," unclear); (3) confirm whether the 6 August item with Ger was
+  ever resolved outside email; (4) full detail on Yuksel Kangal's
+  company in Turkey/Italy, not yet shared with Cuan.
 
 ---
 

@@ -27,9 +27,11 @@
   Thomond/Ilex portfolio, though Ger remains the working contact there.
 
 ### Yuksel Kangal
-- **Role:** [ASK — unconfirmed]. Copied by John on the live HSE Croom
-  site thread alongside Ger Blake, 2 Sept 2026 (yuksel@yukselkangal.com).
-  Not previously logged anywhere in Cuan.
+- **Role, clarified 2 Sept:** good friend of John's, fellow participant
+  in the PCC projects, and **Ger Blake's brother-in-law**. Runs a
+  company with operations in Turkey and Italy — full detail not yet
+  shared. Forwarded the funds to purchase the ~8-acre Croom Lands
+  holding (see `ventures_dossier.md`). yuksel@yukselkangal.com.
 
 ### Katie Duggan (Tusla)
 - Captured as a contact via Captio on 14 May 2021: "Katie Duggan,

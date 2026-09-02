@@ -75,7 +75,8 @@ contact. Dormant, not dead.
 2 Sept), not just a Thomond/Ilex sub-item. HSE site meeting live again
 this week (contact "Fran," 086 2546036); Ger Blake sending David +
 another professional rather than John attending — "sensitive stage."
-New name: Yuksel Kangal, role unconfirmed. Separate unresolved thread:
+8-acre Croom Lands holding is John + Ger Blake + Yuksel Kangal (Ger's
+brother-in-law, funded the purchase). Separate unresolved thread:
 a 6 Aug email to Ger got only his OOO auto-reply, nothing since —
 worth confirming with Ger directly whether it was ever addressed.
 ⚪ **AI Adoption in Ireland prospecting** — broader ~200-company prospect
