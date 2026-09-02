@@ -60,7 +60,7 @@ John is the bottleneck at the commercial decision layer — not because he is sl
 ## Confidentiality Rules
 - UHL proposals are not for circulation to UHL — internal only
 - "Transition Intelligence" must never appear in any Mairead-facing or external document
-- Named individuals (John, Shane) are kept off Johnny-facing BarberTemp documents
+- Named individuals (John, Shane) are kept off Johnny-facing Barber Republic documents
 - Jurgen (legal AI) lives inside Meridian — not surfaced externally as a standalone
 - Cuan is the personal layer; Meridian is the commercial layer — they are separate systems
 

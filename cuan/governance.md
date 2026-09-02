@@ -24,7 +24,7 @@ Never appear in finished written output from Cuan.
 |---|---|
 | UHL AI proposals | Internal only — NOT for circulation to UHL contacts (Paul Candon, David Shakeshaft) without explicit approval |
 | "Transition Intelligence" | Must never appear in any Mairead O'Donnell-facing or external document |
-| John and Shane's names | Kept off Johnny Shanahan-facing BarberTemp documents |
+| John and Shane's names | Kept off Johnny Shanahan-facing Barber Republic documents |
 | Jurgen (legal AI) | Lives inside Meridian — not surfaced externally as a standalone product |
 | Cuan vs. Meridian | Cuan is the personal layer. Meridian is the commercial layer. They are separate systems. |
 | Personal financial matters | Sensitive — do not surface in commercial contexts |
@@ -63,7 +63,7 @@ Never appear in finished written output from Cuan.
 - Family members' details
 - Client names and commercial terms in proposals
 - Partnership economics (e.g. 70/30 Meridian split)
-- BarberTemp funding modelling and investor materials
+- Barber Republic funding modelling and investor materials
 
 ---
 

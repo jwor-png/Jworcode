@@ -449,7 +449,7 @@ leads.
   Malachy's own angle/interest ("lens") is in it, as a possible opportunity.
   John to follow up on this directly.
 
-## 8. Barber Republic (rebrand of BarberTemp)
+## 8. Barber Republic
 - **What it does:** Two-sided labour exchange for the barbering industry
   (staffing marketplace). Model parallel: Workrise (formerly RigUp) — NOT Uber
   (dangerous framing for investor credibility).

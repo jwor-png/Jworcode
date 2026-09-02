@@ -68,16 +68,34 @@ registration (accountant Gillian Mawhately), sent to Carl via WhatsApp —
 closed out, no outstanding action. Full detail in `operating_creed.md`
 (Protect My Present Responsibly) and `people_map.md`.
 
-## Priority Stack (as of June 2026)
+## Priority Stack (as of June 2026, Barber Republic added 2 Sept)
 1. Ambrion AI — revenue generation (highest urgency, August 2026 anchor)
 2. Meridian Intelligence — strategic development
 3. Board / chairmanship opportunities (UHL, AHL)
-4. Legacy financial resolution
-5. Selective property and healthcare — only where highly aligned and near-term
+4. Barber Republic — advisory/consultancy income, pre-funding stage
+5. Legacy financial resolution
+6. Selective property and healthcare — only where highly aligned and near-term
+
+## Standard fields (added 2 Sept 2026)
+Every venture entry below now carries three fields where applicable, so
+the same system applies across the whole dossier rather than just to
+Barber Republic:
+- **Status** — current state.
+- **Revenue relevance** — Revenue stream / Channel / Not revenue (board,
+  personal, family).
+- **Tracking** — Cuan + Meridian (named manager) for commercial ventures;
+  Cuan only for personal, family, or confidentiality-boundary matters
+  (MiDentalCare, Legacy Financial Matters, the Paul Candon matter stay
+  Cuan-only per `governance.md`).
+Gaps are marked `[ASK]` rather than guessed, consistent with the
+dossier's existing convention.
 
 ---
 
 ## Ambrion AI
+- **Status:** Active — primary revenue vehicle, campaign live.
+- **Revenue relevance:** Revenue stream.
+- **Tracking:** Cuan + Meridian (AI Strategy & Adoption).
 - **What it does:** John's primary AI company. Governance advisory and EU AI Act compliance for Irish SMEs.
 - **Current focus:** Tiered done-for-you EU AI Act compliance offering, positioned against software-only platforms
 - **Key channels:** Smacht network (300 Irish SMEs via Padraic O'Maille), professional referral partners (accountants, solicitors)
@@ -227,6 +245,10 @@ cross-system check across GitHub, Drive and Gmail. Findings:
 ---
 
 ## Tairseach (Shane McCarthy — separate from Meridian/Ambrion)
+- **Status:** Active — raise live, introductions in progress.
+- **Revenue relevance:** Channel (John is introducer only, not a revenue
+  line to him directly).
+- **Tracking:** Cuan + Meridian (Commercial & Deal).
 - **What it is:** Property intelligence company — ten verticals (site sourcing, derelict property, inspection & repairs, sales & conversion, energy/data-centre land live; commercial/institutional, residential/portfolio, recovery, tenant/covenant risk, latent value in build) on one shared "spine" intelligence
 - **Traction:** €50,000+ in sales through a partner; 3 property partners live on site-sourcing output; live derelict-property pilot in Ireland; ranked Ireland's best data-centre site from public data
 - **The ask:** €1m–€1.5m raise for 20% equity; €6m pre-money / €7.5m post-money
@@ -238,6 +260,13 @@ cross-system check across GitHub, Drive and Gmail. Findings:
 ---
 
 ## Velocity AI
+- **Status:** [ASK — no confirmed status recorded; the entity is
+  clearly active (it holds the Barber Republic and UHL training work,
+  issues invoices) but no explicit status line has been agreed with John].
+- **Revenue relevance:** Revenue stream (Velocity training + Barber
+  Republic advisory income run through it).
+- **Tracking:** Cuan + Meridian (Commercial & Deal; AI Strategy &
+  Adoption for the UHL training programme).
 - **What it does:** [Part of John's AI entity stack — serves as the vehicle for partner and channel relationships]
 - **Key relationships:** Mairead O'Donnell (Claochlu Consulting), Vinny Leonard (Sales Process Advisors)
 - **Constraint:** Internal product name "Transition Intelligence" must never appear in any client-facing or external document
@@ -245,6 +274,15 @@ cross-system check across GitHub, Drive and Gmail. Findings:
 ---
 
 ## United Hardware Limited (UHL)
+- **Status:** Active — board role live, Velocity AI training engagement
+  live, Meridian Specialist Affiliate Group brief with Paul Candon
+  awaiting reply.
+- **Revenue relevance:** [ASK — unconfirmed whether the INED/Chair role
+  carries director fees to John personally; the Velocity AI training
+  income is separately a revenue stream under Velocity AI, not UHL
+  itself].
+- **Tracking:** Cuan (board matters, internal-only) + Meridian
+  (Commercial & Deal for the Specialist Affiliate Group brief).
 - **What it does:** Irish buying and marketing group, operates the Homevalue brand
 - **Scale:** ~130 member stores across 32 counties (incl. Northern Ireland); combined member turnover ~€350M (2025); ~2,000 people across network; ~40 at Dublin HQ and warehouse at Magna Park
 - **John's role:** Independent Non-Executive Director and Chair, Audit & Risk Committee
@@ -257,12 +295,23 @@ cross-system check across GitHub, Drive and Gmail. Findings:
 
 ## AHL
 - **John's role:** Chairman
-- **Status:** Active — open loop
-- **Detail:** [ASK — what is AHL and what's the current open item?]
+- **Status:** Active — FY2025 accounts finalising with BDO, AGM booked
+  23 Sept at the Green Isle, product-liability question (Mulveys, echoing
+  the earlier Ray Smith issue) open, D&O insurance limit decision pending.
+- **Revenue relevance:** [ASK — unconfirmed whether the Chairman role
+  carries director fees to John personally].
+- **Tracking:** Cuan (board matters, internal-only, per governance.md).
 
 ---
 
-## BarberTemp / Barber Republic
+## Barber Republic (renamed from BarberTemp)
+- **Status:** Active, pre-funding — IP protection pending before global
+  contacts (True/true.global) progress.
+- **Revenue relevance:** Revenue stream (advisory/consultancy income to
+  Velocity AI — see the Invoice #14/£15,000 payment above).
+- **Tracking:** Cuan + Meridian (Commercial & Deal; Finance &
+  Restructuring for the raise/funding work) — single point of continuity,
+  work picked up through Cuan rather than scattered across sessions.
 - **What it does:** Two-sided labour exchange for the barbering industry (staffing marketplace)
 - **Model parallel:** Workrise (formerly RigUp) — NOT Uber (Uber framing is dangerous for investor credibility)
 - **John's role:** Commercial Lead via Velocity AI / Meridian Intelligence — advisory and consultancy only. No operational role. Will not relocate.
@@ -397,6 +446,12 @@ document.
 ---
 
 ## LinkedIn / "Other Side of Sixty"
+- **Status:** [ASK — no confirmed status recorded; substantial August
+  positioning work has happened (see `chatgpt_synopsis_jul_aug_2026.md`)
+  but not clear if the content series itself has actually launched].
+- **Revenue relevance:** Channel (positioning/lead-gen for Meridian,
+  Ambrion, Velocity — not itself a revenue line).
+- **Tracking:** Cuan only.
 - **What it is:** LinkedIn content series on experience, technology, and the second half of a working life
 - **System:** JWOR Publishing System — John records voice notes; structured and edited into finished posts
 - **Recommended:** Title bank of 10 titles per series before launch
@@ -405,11 +460,17 @@ document.
 ---
 
 ## Bantry Property
+- **Status:** [ASK — no confirmed current status recorded].
+- **Revenue relevance:** Not revenue (family).
+- **Tracking:** Cuan only.
 - **What it is:** John coordinates a property project at 11 Cois Riasc, Bantry, Co. Cork on behalf of a family member
 
 ---
 
 ## MiDentalCare Limited
+- **Revenue relevance:** Not revenue (confidentiality boundary — CVL
+  matter).
+- **Tracking:** Cuan only, per `governance.md`.
 - **Status:** Creditors' Voluntary Liquidation under Companies Act 2014
 - **Liquidator:** Michael Butler (proposed)
 - **John's connection:** Director
@@ -420,10 +481,14 @@ document.
 
 ## Legacy Financial Matters
 - **Status:** Open — resolution is a top-3 personal priority
+- **Revenue relevance:** Not revenue (personal).
+- **Tracking:** Cuan only, per `governance.md`.
 - **Detail:** [ASK — what does resolution require? Is there a timeline?]
 
 ---
 
 ## Paul Candon Matter
 - **Status:** Open loop — unresolved personal matter (separate from UHL CEO role)
+- **Revenue relevance:** Not revenue (personal, confidentiality boundary).
+- **Tracking:** Cuan only, per `governance.md`.
 - **Detail:** [ASK]
