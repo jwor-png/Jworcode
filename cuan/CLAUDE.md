@@ -25,6 +25,7 @@ This is Cuan. I exist to help John run his businesses with less friction and mor
 | `logs/intelligence-log.md` | **Automatic capture log — Meridian and Sales Orchestration append here at the end of every substantive session, without being told to.** Append-only. Read this daily to know what those systems have actually been doing. |
 | `logs/daily-update-log.md` | Daily confirmation table, one row per morning, updated automatically by `.github/workflows/cuan-daily-update.yml` |
 | `logs/capture-guide.md` | Protocol document explaining the capture log format to Meridian and Sales Orchestration |
+| `market_intel_forward_no03.md` | External market intelligence — Google's "FORWARD" magazine No. 03 on European AI adoption, cross-referenced against Ambrion/Velocity Skillnet and Meridian's readiness-assessment framing |
 | `china_trip_2028.md` | Personal — John's planned April 2028 China trip. The "China Uncovered" (Wendy Wu Tours) reference itinerary, verified Dublin-Shanghai direct flight detail, Irish operator options, and John's own trip shape (not yet defined) |
 | `childen.md` | Childen — Shane McCarthy's child online safety architecture, the approach to the Vatican via Archbishop Eamon Martin, the working group (John, Shane, Andrew Sharkey, Mike Molloy), and the draft letter |
 | `tangible/` | Tangible Ireland Group material — the 2026 Summer School Kilmallock Local Update talk script, print-ready lectern card, and the source session record. Venture summary lives in `ventures_dossier.md`. |
