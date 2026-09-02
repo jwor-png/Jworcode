@@ -15,6 +15,11 @@ Last refreshed: 2026 (rebuilt for phone readability + priority order)
 These are the equity/exit-scale plays, not the monthly-cashflow items below.
 Different rhythm needed: less frequent check-ins, higher-stakes moves.
 
+🟢 **Intelligence Concierge — first sale landed, Paul Candon, €5,000
+founding rate.** The productized, sellable version of Cuan itself —
+€5k for the first 10 commissions, €10k after, built-and-owned-outright
+per client. John's stated priority: roll out in the days ahead. Full
+detail in `ventures_dossier.md`.
 🔴 **ODIN — formal investment offer expected within 48 hours (31 Aug).**
 ~€19-20m range discussed. IP is Shane's personally, captured via Asterial
 Limited (John is Company Secretary there) to his benefit. John's top

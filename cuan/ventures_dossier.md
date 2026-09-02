@@ -15,6 +15,71 @@ archive for those ventures plus everything not a revenue stream (Bantry,
 MiDentalCare, legacy financial matters, Tairseach, Smacht, LinkedIn content).
 Cuan reads both files in full — nothing here has been deleted or superseded.
 
+## Intelligence Concierge
+- **Status:** Active — first customer secured. **Paul Candon buying one
+  at €5,000** (the founding-ten rate, reduced from €10,000 thereafter).
+  John's stated priority: concentrate on rolling this out in the days
+  ahead.
+- **Revenue relevance:** Revenue stream — new, first sale just landed.
+- **Tracking:** Cuan (this is literally what Intelligence Concierge
+  productizes — see the note below) + presumably Velocity AI as the
+  commercial vehicle, though that's not confirmed. [ASK — which entity
+  actually bills for this?]
+- **What it is, per John (2 Sept): "Intelligence Concierge is, in fact,
+  the personal intelligence orchestration"** — i.e. this is the
+  productized, sellable version of exactly what Cuan is for John
+  himself. Branded "IntelligenceConcierge.ai," "Personalised
+  Intelligence Orchestrations," by Shane McCarthy.
+- **The pitch:** "Everyone has AI now. Almost nobody has one built
+  around them." Positioned for chairs, chief executives, partners,
+  founders, MDs, fund/investment professionals, consultants, specialists
+  — anyone using generic AI tools that "know nothing about their role,
+  their market, or what they are trying to win."
+- **The category, per the document:** "An Orchestration Engine is not a
+  better chat. It is a team that works only for you." Lives in a single
+  folder on the client's own laptop, own account — "it serves you and
+  nobody else." No shared workspace, no pooled data, no platform holding
+  the client's material.
+- **Six advantages claimed:** arrive knowing the other side (counterparty
+  research done in advance); your week runs ahead of you (a morning read
+  + evening close, composed fresh each time); nothing agreed is dropped
+  (every follow-up/deadline/commitment tracked); you stay in command (no
+  email/message/calendar invite leaves without you pressing send — drafts,
+  doesn't send); depth you couldn't staff for (research/prep/analysis/
+  drafting at a standard that would take several capable people); shaped
+  to how you work, not the reverse.
+- **Verification built in:** "every engine carries a second, independent
+  pass on a different model whose job is to knock down what the first one
+  produced" — same governance pattern already logged for Meridian
+  (independent check) and EOLAS (two-model verification). Consistent
+  standard across Shane's whole product chain.
+- **Commercial structure — built and owned outright, not a subscription:**
+  four-step commissioning (a 20-25 min discovery form; a signed
+  specification of exactly what it will/won't do, agreed before any money
+  changes hands; payment then build; delivery as a single folder,
+  installs itself, plain English from then on). **Pricing: €5,000 for
+  the first ten commissions, €10,000 thereafter — ten places or 30 days,
+  whichever comes first.** 90 days of changes/care included, no monthly
+  fee "because there is no platform to pay for."
+- **Ownership split, worth being precise about (parallels the
+  Tairseach/ODIN correction above):** "the design and the intelligence
+  architecture beneath every engine remain his [Shane's]; the engine
+  itself, and the full run of it, belongs to you [the client]." So each
+  client owns their own instance/output, Shane retains the underlying
+  architecture IP.
+- **Track record claimed:** over 50 built, 25 running today inside
+  Shane's own businesses; others run for professionals across law,
+  finance, media, sales, executive management. Any of the 25 internal
+  ones can be shown working live; a client's engine is never shown to
+  anyone else, "which is the same rule that will protect yours."
+- **Open items:** confirm which entity bills/contracts for this (Velocity
+  AI, or a standalone Intelligence Concierge vehicle); confirm Paul
+  Candon's build has actually been scoped/started, not just agreed in
+  principle; clarify John's own role in "rolling this out" — sales,
+  delivery, or both.
+
+---
+
 ## ODIN / Codex
 
 - **Status:** DRAFT — new session opened 2 Sept 2026, John deferred
