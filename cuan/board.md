@@ -23,6 +23,12 @@ Be ready to act fast once the offer lands. **NEW (2 Sept): "Codex" — a
 new intelligence product build spec'd out this session (85-section
 engineering spec) — is on hold pending John's direction next morning.
 Full detail in `ventures_dossier.md` ODIN/Codex section.**
+🟡 **EOLAS (Shane's platform)** — reviewed 2 Sept, assessed as
+sooner-to-revenue than Meridian's build, verified intelligence foundation
+for Meridian + regulatory anchor for Ambrion. John holding overnight,
+reconvening with Shane to align strategy — key open question:
+standalone product or Meridian infrastructure. Full detail in
+`ventures_dossier.md`.
 🟡 **Meridian Intelligence** — 70% owned, outcome directly John's, not a
 minority stake. Not currently moving. Website build is in its own session —
 needs a status pulled from there.

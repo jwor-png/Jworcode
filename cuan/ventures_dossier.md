@@ -95,6 +95,65 @@ Cuan reads both files in full — nothing here has been deleted or superseded.
 
 ---
 
+## EOLAS
+- **Status:** Reviewed, DRAFT — John reviewed Shane's one-pager 2 Sept,
+  **decided to hold all analysis and questions until reviewing overnight,
+  reconvene the following day to align strategy with Shane.** No further
+  work until then.
+- **Revenue relevance:** Revenue stream, potentially — **assessed as
+  sooner-to-revenue than the Meridian build timeline.**
+- **Tracking:** Cuan + Meridian (feeds AI Strategy & Adoption for
+  Ambrion; feeds Commercial & Deal / AI Equity & Investment on the
+  standalone-product-vs-infrastructure question).
+- **What it is:** Shane's platform — "Capability Catalogue: Twenty-One
+  Ways to Use the Intelligence." A tiered, verified intelligence
+  service, positioned as **board-defensible knowledge run as a service.**
+  Clients pick a tier (3, 5, 8, 12, or all 21 capabilities), which sets
+  pricing. Always-on monitoring re-runs the chosen capability set on a
+  cadence and alerts on movement.
+- **Core differentiator — two-model verification:** one model generates,
+  a second model on a different tier tests every material claim against
+  a minimum of 2 primary sources, claim by claim, before it reaches the
+  client. The last three capabilities (named-person or specific-claim
+  items) carry a heavier gate — a human signs off before it leaves the
+  building. This is structurally the same verification standard already
+  built into Meridian's own governance floor (grounding rule,
+  VERIFIED/REPORTED/UNVERIFIED tags, independent check — see the
+  Meridian Intelligence entry above).
+- **Twenty-one capabilities, six knowledge domains:**
+  1. Know Your Field (#1-4) — competitive/market/buyer intelligence.
+  2. Know Yourself (#5-8) — opportunity mapping, risk register,
+     defensibility, governance.
+  3. Know the Rules and the Money (#9-12) — regulatory, funding, M&A,
+     vendor intelligence.
+  4. Know How You Are Built (#13-14) — innovation/product,
+     systems/architecture.
+  5. Know What Is Coming (#15-16) — scenario/foresight, talent/capability.
+  6. The Spine That Pulls It Together (#17-18) — strategic combined
+     picture, evidence pack/board summary.
+  7. Know Who You Are Dealing With (#19-21) — principal/counterparty
+     diligence, relationship intelligence, claim verification.
+- **Strategic assessment (John's read, 2 Sept):** fits directly into the
+  existing ecosystem — a **verified intelligence foundation for Meridian
+  operationalisation**, and a **regulatory knowledge anchor for Ambrion
+  compliance work.** Board-ready positioning aligns with John's own
+  operating language. Assessed as reaching revenue sooner than the
+  Meridian build timeline.
+- **Critical unknowns held for the Shane conversation (not yet
+  resolved):**
+  1. GTM strategy and first customer profile.
+  2. Whether EOLAS is a **standalone product**, or **Meridian
+     infrastructure** — this is the single question everything else
+     hangs off.
+  3. Operational capacity at scale, post-launch.
+  4. Timing impact on the August 2026 Ambrion revenue target.
+- **Cross-reference:** already flagged as needing a scheduling slot in
+  `operating_creed.md` ("EOLAS platform overview — needs a time that
+  works") and in `board.md`'s waiting-on-John list ("EOLAS timing") —
+  this entry is the substance behind both of those placeholders.
+
+---
+
 ## Asterial Limited
 
 Confirmed as an **actual incorporated Irish company**, not just the
