@@ -51,6 +51,29 @@ Last updated: 2 September 2026 (morning brain dump, three-part)
   the general UHL member/stock-list, not confirmed as the AHL shareholder
   list specifically) — needs John to confirm the correct list before
   anything goes out to that many external recipients.
+  - **RESOLVED, 2 Sept — the AGM notice itself has already gone out**,
+    separately from this planned email. David Geoghegan sent it 1 Sept
+    17:17 (subject "Associated Hardware plc - Notice of AGM 2026," John
+    cc'd): Letter to Members, Notice of Meeting, Proxy Form, Minutes of
+    2025 AGM, and Audited FY2025 Financial Statements. **This is David's
+    formal admin notice, not John's own planned email about the Magna
+    premises sale being on the agenda** — that one is still outstanding,
+    still blocked on confirming the correct distribution list.
+- **Prep for the AGM on the possibility of an AHL sale** — dictated
+  2 Sept, no further detail yet. Connects to the premises-sale item
+  already logged in `ventures_dossier.md` (AHL Plc — Board wants ~70%
+  member approval before listing).
+- **BDO fee quote for the two live share transfers** — dictated 2 Sept:
+  (1) Ignatius Cahill, and (2) RB Coogan Ltd, acquired by **Ulster
+  Builder Providers Ltd** (already logged in `ventures_dossier.md`).
+  Same open item already flagged there: RB Coogan's contact first name
+  is inconsistent across records — **Mark** (Feb 2026) vs **Dominic**
+  (26 Aug) — worth resolving before BDO's disclosure work relies on it.
+- **Andrew Sharkey WhatsApp, this morning (re: Kevin Carr)** —
+  screenshot referenced but not shared with Cuan yet. John "in two
+  minds" whether to share the Kevin/Andrew conversation with Shane —
+  personal judgement call, not something Cuan can weigh in on without
+  seeing the actual content. No action taken.
 - **AHL directors — rooms booked, meeting in the morning:** straightforward
   once the Green Isle booking (above) is fully confirmed by Maria — ready
   to draft once John gives the go-ahead / final numbers.
