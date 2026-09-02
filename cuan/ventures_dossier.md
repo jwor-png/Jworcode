@@ -91,9 +91,30 @@ closed out, no outstanding action. Full detail in `operating_creed.md`
 ---
 
 ## Meridian Intelligence
-- **What it does:** AI advisory and intelligence system built around a three-tier architecture
-- **Architecture:** Meridian as orchestrator / 7 specialist managers / 7 agents each (49 agents total). Modelled on a law-firm analogy.
-- **Seven Executive Intelligence Domains** (settled external-facing term, 1 Aug 2026 — "managers" is internal architecture language only, never used externally): Commercial & Transaction; Legal & Governance; Finance & Restructuring; Property & Development; AI Strategy & Governance; Business Growth & Transformation; Investment & AI Equity
+- **What it does:** AI advisory and intelligence system. Produces decision-support material for John, amplifying ~40 years of frontline experience across law, finance, property, business development, restructuring and AI investment. **Meridian informs; it does not represent.**
+- **Architecture:** Three-tier. Meridian as orchestrator (single point of contact) / 7 specialist managers / sub-agents beneath each (originally modelled at 7 agents each, 49 total — law-firm analogy). Full system files live at `meridian/`.
+- **How Meridian runs:** Classify → Route → Consolidate → Return. Meridian directs; it does no specialist work itself.
+- **Two operating modes:**
+  - **Fast grounded answer (default)** — one pass, key sources, hard time budget, 5-10 minutes.
+  - **Deep verified opinion (opt-in)** — full chain, broader retrieval, full independent check. Used only when output will be relied on, acted on, or taken to a client, or when John asks for it.
+- **Seven Executive Intelligence Domains** (settled external-facing term, 1 Aug 2026 — "managers" is internal architecture language only, never used externally), each with a risk tier:
+  1. **Commercial & Deal** (Standard) — transactions, partnerships, channel development, revenue models, deal evaluation, term sheets
+  2. **Legal & Governance** (High-stakes) — Irish law, corporate governance, directors' duties, contracts, employment, insolvency, regulatory compliance, EU AI Act, WRC
+  3. **Finance & Restructuring** (High-stakes) — cash flow, P&L, fundraising, tax structuring, distressed business, CVL, investor materials
+  4. **Property & Development** (High-stakes) — residential and commercial property, title, planning, development feasibility, asset structuring
+  5. **AI Strategy & Adoption** (Standard) — EU AI Act compliance for clients, AI governance frameworks, adoption roadmaps, Meridian Partners programme, Golden Generation toolkit. **Most directly tied to Meridian's own revenue.**
+  6. **Business Transformation & Growth** (Standard) — business analysis, value left on the table, new products, systems, growth roadmaps
+  7. **AI Equity & Investment** (High-stakes, frontier caveat) — AI as an asset class, equity structuring, equity-for-AI-capability arrangements (a priority sub-build John has flagged), AI-driven valuations, investment analysis. Thesis marked as professional judgement, not established fact.
+- **Governance floor (every output runs through this):**
+  - **Grounding rule:** no statute, case, ruling, figure, or valuation appears unless retrieved from its primary source. Citations from memory are UNVERIFIED and never reach John as fact. A citation that won't resolve fails closed.
+  - **Confidence tag** on every authority and hard number: VERIFIED / REPORTED / UNVERIFIED — only VERIFIED is load-bearing.
+  - **Independent check:** every high-stakes output checked by an agent independent of the one that produced it.
+  - **Status label** on every output: DRAFT (not for use) / IN REVIEW / DECISION-READY (only this means John can rely on it).
+  - **Confidence freeze:** below 80% checked confidence, work freezes and John is told why.
+  - **Fail-closed:** near any legal, financial or regulatory line, default is to hold and escalate — timeliness never overrides this.
+  - **Mandatory human gate:** anything in the four high-stakes verticals that will be acted on; anything creating a binding obligation; novel or unsettled law/structure; conflict of interest; anything below confidence threshold.
+  - **Audit record:** append-only log at `meridian/logs/audit.md` — every output can show its own lineage. (Status as of 2 Sept 2026: this log is empty — no logged output from any live brief yet, see the Session Record note below.)
+- **The boundary:** Meridian informs John. It does not represent John, his clients, or Meridian Intelligence to the outside world. Anything to be filed, signed, or relied on by a client goes to the appropriate qualified professional before John acts.
 - **Also includes:** Golden Generation Partner Programme
 - **Partnership:** 70/30 — John (70%) / Shane McCarthy (30%)
 - **Meridian team emails (Google Workspace) — set up in progress via Niamh
@@ -159,6 +180,40 @@ findings.
   with the feasibility project, or hold it as a validated option for
   future consideration. Running as a separate Meridian/UHL workstream,
   parallel to the main Cuan flows.
+
+### Cuan/Meridian/Sales Orchestration connection check (2 Sept 2026)
+A separate Cuan session (branch `claude/vibrant-galileo-a12in6`) did a
+cross-system check across GitHub, Drive and Gmail. Findings:
+- **Google Drive:** a "Cuan Intelligence Hub" folder was created 25 July
+  2026, containing a Daily Update Log and an Intelligence Log — **both
+  still empty, "awaiting first run."**
+- **Meridian audit log** (`meridian/logs/audit.md`) is empty — no logged
+  output from any live brief yet, despite the Specialist Affiliate Group
+  brief for Paul Candon (above) having actually been produced and sent.
+  Worth reconciling — either the audit log needs to start being used, or
+  it's tracking something narrower than "any Meridian output."
+- **Sales Orchestration:** referenced in the Drive log headers as an
+  expected feed into Cuan, but **not found built anywhere in this repo.**
+  Given `meridian/sales-orchestration/*.md` already exists and holds
+  substantial material (Velocity AI programme, UHL target list, AI
+  adoption prospecting — see above), this is likely just a naming/
+  location mismatch rather than genuinely missing work — worth confirming
+  with John rather than assuming either way.
+- **UHL audit report (24-25 July):** finalised with Michael O'Driscoll,
+  approved, sent to Eoin McGettigan, forwarded to David Geoghegan for the
+  board pack. Mazars (David Rowan) provided materiality clarifications.
+  Thread closed.
+
+**Open questions flagged to John, not yet answered:**
+1. Is Sales Orchestration built in a separate system, or still to be
+   built? (Cuan's own read: likely already partly here under
+   `meridian/sales-orchestration/`, worth confirming rather than
+   duplicating effort.)
+2. Has Meridian actually been run against any live briefs, or is it still
+   at architecture stage? (Cuan's own read: at least one live brief has
+   been produced and sent — the Specialist Affiliate Group brief above —
+   so the honest status is probably "running, but not yet logging to the
+   audit trail," not "architecture only.")
 
 ### Market Intelligence Log (from press clippings, 28 July 2026)
 - **Property & Development:** Planning granted for a mixed-use amusement/gaming arcade in Midleton despite objections on antisocial behaviour and public safety grounds — approved subject to 12 conditions including noise restrictions. Useful precedent for clients navigating amenity-based planning objections.
