@@ -46,6 +46,17 @@ this becomes "an architecture rather than an aspiration":
 **Status: undefined. Do not assume any data-sharing between Cuan and the
 Council until John (with Shane) sets this protocol explicitly.**
 
+## Daily discipline (2 Sept 2026)
+
+John's stated intent: consult the Council daily, considering things that
+might improve his personal development. Cadence heard as **"12pm every
+day"** [ASK — dictation was unclear, "zero mark for twelve PM," worth
+confirming the exact intended time]. **Not done today (2 Sept) — flagged
+by John himself as a slip, busy day.** Logged here as a standing personal
+discipline to track adherence against, not as something Cuan can do on
+his behalf — the Council is a separate ChatGPT system Cuan has no access
+to.
+
 ## Architecture principle flagged by the Council
 
 "That could become a very powerful system if Shane builds **interfaces

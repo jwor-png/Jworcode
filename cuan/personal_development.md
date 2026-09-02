@@ -144,6 +144,10 @@ at in his own time, not a task with a deadline.
   can go wrong." — **Reinforcement.** Sits with the existing "hope grounded
   in action" and "resilience and rebuilding" themes — echoes 23 Aug ("once
   you choose hope") and 17 Aug (Rowling, rebuilding from rock bottom).
+- **31 Aug — Unknown/Snámhaí Sásta:** "You have the ability to overcome
+  hard times. Believe that there are better days ahead." — **Reinforcement.**
+  Same register as 27 Aug and 23 Aug — lands the day before the AHL
+  D&O/audit push and the ODIN 48-hour window began.
 - **29 Aug — June Curtin/Snámhaí Sásta:** "Nothing in this world that's
   worth having comes easy." — **Reinforcement.** Same author's voice
   recurring through this calendar (15, 22, 23, 24 Aug already logged) —
