@@ -41,6 +41,10 @@ Priority: apply to Skillnets Ireland as approved training provider
 action for the whole list. John to mark warm contacts on the 50; recover
 "idea 1" content from Shane's original six programme concepts (not yet
 found in repo).
+⚪ **Thomond/Ilex — Midleton PCC** — funding stalled since PHP declined
+28 Apr, no movement since. Open questions for Ger Blake: Kendrick
+Properties link, Axis Health Care Assets connection, Leriathan, Tusla
+contact, Croom Lands. Dormant, not dead.
 ⚪ **AI Adoption in Ireland prospecting** — broader ~200-company prospect
 universe across AmbrionAI/Velocity AI/Meridian Intelligence (opened
 6 Aug). Narrowed toward specific companies/decisions (Studio Sixty Eight,

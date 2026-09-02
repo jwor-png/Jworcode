@@ -479,6 +479,120 @@ document.
 
 ---
 
+## Thomond Healthcare Holdings Ltd / Ilex — Primary Care Centre (PCC) Portfolio
+- **Status:** THH wound down (Liquidation, 25 June 2026). "Ilex" is
+  active as John's current vehicle/framing for new healthcare property
+  opportunities with Ger Blake — Midleton is the one live open item,
+  stalled since PHP declined funding 28 April 2026, no movement since.
+- **Revenue relevance:** Revenue stream (property/healthcare, selective —
+  see Priority Stack item 5/6) if Midleton or a successor site revives;
+  currently dormant.
+- **Tracking:** Cuan only — pre-commercial/exploratory with Ger Blake,
+  not yet a Meridian-routed workstream.
+- **What it was:** A multi-site Primary Care Centre (PCC) development and
+  funding venture — sourcing, negotiating and forward-funding GP/HSE/
+  pharmacy co-located premises. John was a registered employee of Thomond
+  Healthcare Holdings Ltd (THH), company no. 624668. [Source: Gmail,
+  "Thomond Healthcare Holdings Ltd" thread, 19 Jan 2026; SoloCheck alert,
+  25 Jun 2026]
+- **THH wind-down:** SoloCheck status changed to Liquidation on 25 June
+  2026; John and Ger Blake exchanged relief at the closure ("took their
+  time liquidating it....good riddance!" / "I thought you might say that
+  Ger") on 5 June 2026. John's own THH employment had already ended
+  around April 2021. [Source: Gmail, "Thomond filing" thread, 5 Jun 2026;
+  "Thomond Healthcare Holdings Ltd" thread, 19 Jan 2026]
+- **Key advisor:** Ger Blake, Director at DSB (advisory firm, offices in
+  Limerick — 98 Henry Street — and Ballincollig, Cork; dsb.ie) — John's
+  long-running deal, funding and financial advisor across this portfolio,
+  and also on the separate MiDentalCare liquidation (above).
+- **Sites in the pipeline (2020-2026, per email record):** Dooradoyle /
+  South Court (Limerick, ~€4.0-4.3m purchase target, Sept 2020),
+  Sixmilebridge (Co. Clare, HSE/GP/pharmacy shared building), Killaloe,
+  Clones, Kilbeggan, Croom Lands (Co. Limerick — see below), Midleton
+  (Co. Cork — see below). Also referenced as three "Hudson" / "Project H"
+  sites (Jul-Aug 2020).
+- **Croom Lands detail:** A broader landholding position at Croom, Co.
+  Limerick, with a PCC site component that as of May 2026 had "no
+  status" per Ger — not yet formally secured/progressed. The HSE (via
+  Property Manager Sandra Sheehan) separately bought part of the lands
+  from Limerick County Council and, in May 2026, sought access to fence
+  off their section; John kept Ger looped in and confirmed no access
+  issue via the PCC site itself. John separately asked Ger "any movement
+  generally on the broader plans for the lands or discussions with the
+  HSE" (22 May 2026) — still open, unanswered as of that exchange.
+  [Source: Gmail, "Croom Lands" thread, 21-22 May 2026]
+- **Croom Medical (adjacent, separate operator):** A private GP practice
+  at Croom owned and run by Paddy Byrnes and his son Patrick Byrnes,
+  beside the Croom soccer pitch and expanding as of March 2025. John
+  personally helped broker their efforts with Limerick County Council to
+  acquire the LCC-owned soccer pitch grounds once the club relocates
+  across the road, and flagged Croom Medical's open roles to his son Owen
+  as a possible job lead (25 Mar 2025, cc'd Majella). **Not established
+  whether Croom Medical is formally part of the THH/Ilex portfolio or a
+  separate personal relationship** — flagged rather than assumed either
+  way. [Source: Gmail, "Croom Medical" thread, 25 Mar 2025]
+- **Funding partners:** PHP (Primary Health Properties plc) — the primary
+  forward-funder relationship, negotiated by Ger Blake with a contact
+  referred to in correspondence only as "JB" [ASK — full name/role
+  unconfirmed]. Aedifica (Belgian healthcare REIT) considered as an
+  alternative in March 2026 but ruled out on yield grounds.
+- **Midleton — the live open item:** Cork County Council granted planning
+  for the Midleton PCC at Market Green on 8 July 2025 (ref 24/06172,
+  applicant Kendrick Properties Ltd — 5,250 sqm four-storey building, HSE
+  facilities + 2 GP suites, 123 parking spaces; link to John/Ger's group
+  not confirmed by email, but the site/scope match is exact). No
+  commencement notice or construction start found in public sources as of
+  Aug 2026. **JB/PHP declined to fund Midleton, 28 April 2026** — Ger:
+  "hugely disappointing... I had always assumed this was the fall back
+  plan... back to the drawing board with no credible back up right now."
+  No further Midleton correspondence found since — over three months of
+  apparent silence on this thread as of Sept 2026.
+- **Axis Health Care Assets Ltd — not established as connected to
+  Midleton.** Axis is a Cork developer with a long-term Development
+  Pipeline Agreement with PHP (signed alongside PHP's Jan 2023
+  acquisition of Axis Technical Services; PHP holds first option on
+  Axis's ~€50m Irish PCC pipeline). An initial read (5 Aug 2026, via a
+  Google AI Overview) suggested Axis had filed a further application
+  (ref 24/04318) on the Midleton site in July 2026, raising a concern
+  that PHP had routed around Kendrick/Ger's group via its own Axis
+  pipeline. **That reading is now considered unreliable** — 24/04318
+  more likely pertains to **Youghal**, a separate, already-active
+  Axis/HSE PCC project (HSE selected Axis directly there under a
+  developer-led model; construction confirmed underway by HSE South
+  West). Could not independently verify the exact site for 24/04318 via
+  public search (Cork County Council's planning portal blocks automated
+  access). **Net effect: no confirmed evidence Axis has taken the
+  Midleton site** — but Axis's broader PHP relationship, and what other
+  sites (if any) they're circling, is worth digging into further given
+  how the Midleton funding fell through.
+- **"Ilex":** John's current framing/vehicle for exploring new healthcare
+  property opportunities, distinct from THH — e.g. "Could we in Ilex look
+  at getting into this area" (Dec 2025), discussing the trend of
+  HSE/private operators leasing and adapting existing premises as PCCs.
+- **"Leriathan":** An expense-claims entity referenced by Ger Blake/DSB
+  (Aug 2021) via MC2 Accountants, tied to David Lehane's mileage/expense
+  claims. Relationship to THH/Ilex not established from the email record.
+  [ASK — John to clarify what Leriathan was/is]
+- **Related people:** David Lehane (davidlehane.ie — financial
+  appraisals), William van Helden (project appraisals; also Zest
+  Healthcare), Kieran O'Regan (Director, Zest Healthcare — referenced in
+  a 2021 thread implying he had died, "Kieran RIP").
+- **Tusla connection:** Unconfirmed — flagged, not established. The only
+  source found is a single contact captured via the Captio scanning app
+  on 14 May 2021: "Katie Duggan, National Director of Services, Tusla."
+  No further correspondence found showing the substance of any Tusla
+  involvement in this portfolio, or whether it ties to any specific site
+  (Croom, Midleton, or elsewhere). [ASK — John to clarify]
+- **Open items to chase with Ger Blake:** (1) where Midleton actually
+  stands — is Kendrick Properties Ltd John/Ger's vehicle, and is there
+  any live route back into it now JB/PHP have said no; (2) what, if
+  anything, connects Axis Health Care Assets to any of these sites; (3)
+  what "Leriathan" is and how it relates to THH/Ilex; (4) what the Katie
+  Duggan/Tusla contact was about and whether it ties to a specific site;
+  (5) broader Croom Lands position — any movement since May 2026.
+
+---
+
 ## Legacy Financial Matters
 - **Status:** Open — resolution is a top-3 personal priority
 - **Revenue relevance:** Not revenue (personal).
