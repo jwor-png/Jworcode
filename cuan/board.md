@@ -111,10 +111,13 @@ sign-off on hosting choice and the DNS change window.
 
 ## Waiting on John (across separate sessions — ask each for a fresh status)
 
-AHL Plc profile · Kilmallock Water lane decision · Meridian 2 LinkedIn changes
-· Tangible Ireland priority · EOLAS timing · Julianstown email go-ahead ·
-United Hardware (Paul's thoughts) · Primary Care & Tusla (send?) · Revenue
-Streams offer #3
+Meridian → LinkedIn changes (beyond the launch post series already logged
+in `ventures_dossier.md`) · United Hardware "Paul's thoughts" (unclear what
+this refers to — needs naming) · Revenue Streams offer #3 (which offer —
+needs naming). Also genuinely stale, never resolved: **Velocity AI's own
+status** (the entity itself, not the work it holds), **LinkedIn/"Other
+Side of Sixty"** (launched or not?), **Bantry Property** (no status ever
+recorded) — all three sit as `[ASK]` in `ventures_dossier.md`.
 
 ## Done / review-ready (no action needed)
 
