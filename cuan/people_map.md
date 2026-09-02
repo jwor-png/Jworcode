@@ -177,6 +177,17 @@
   share, but not part of the WhatsApp group as newly described (John,
   Shane, Andrew Sharkey, Mike Molloy) — [ASK] role/surname/whether he's
   actually part of this or a separate contact, unconfirmed.
+- **Corroborating context, 2 Sept — [REPORTED, not independently
+  verified]:** RTÉ News, "Archbishop Martin meets with OpenAI
+  representatives over Pope's letter,"
+  https://www.rte.ie/news/ireland/2026/0730/1585701-archbishop-ai/
+  (dated 30 July 2026 per the URL). Could not be fetched directly in
+  this session — RTÉ is blocked at the network egress level — so this
+  is logged from the headline/URL only, not the article content. John
+  flagged it as "apt timing" given the Childen/Archbishop Martin thread
+  above. Worth John confirming the actual article content before relying
+  on it as evidence of anything specific about OpenAI's Vatican
+  engagement, rather than assuming the headline tells the full story.
 - **Open action:** the correct Meridian thread that actually holds the
   Mike Molloy relationship history needs to log it properly to
   `cuan/logs/intelligence-log.md` — this entry is a placeholder, not the
