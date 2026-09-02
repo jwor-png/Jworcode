@@ -63,6 +63,23 @@ at network egress level), logged from headline/URL only. John flagged
 it as "apt timing." Worth confirming the actual article content before
 relying on it as evidence of anything specific.
 
+### Progression, confirmed 2 Sept — response awaited
+The material has gone via Mike Molloy → Archbishop Eamon Martin (Irish
+hierarchy) → the Vatican's office. **An invitation to travel to meet
+the Pope, or the Pope's representatives, is expected** — not yet
+received as of 2 Sept, but anticipated on the strength of this route.
+
+**New name — "Paul Tay" (Rome), described as having helped write the
+Pope's document.** [ASK — near-certain this is a mishearing of **Fr.
+Paolo Benanti**, the Vatican's prominent AI ethics advisor: the earlier
+Meridian revision notes on the six-pager explicitly referenced writing
+Section VII "in front of the technical advisers... this tells the
+Benanti-level reader this is their principle engineered, not quoted" —
+strongly suggesting Benanti is already the intended technical-adviser
+audience for this document. Flagging the likely match rather than
+asserting it as fact — John to confirm the name before it's treated as
+settled.]
+
 ## The documents (received 2 Sept 2026) — one-pager, two-pager, six-pager
 
 Three-document set, all authored by Shane McCarthy, "© 2026 Shane

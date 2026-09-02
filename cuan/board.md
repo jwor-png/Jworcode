@@ -36,8 +36,11 @@ needs a status pulled from there.
 conversations bundled with ODIN's above.
 🟡 **Childen** — child online safety architecture, **Shane McCarthy sole
 owner**. Ask: not a purchase, the Church convenes funding/partners and
-holds the standard in trust. Draft letter to the Vatican (2 Sept) not
-yet sent. Working group: John, Shane, Andrew Sharkey, Mike Molloy, via
+holds the standard in trust. Route already run: Mike Molloy →
+Archbishop Eamon Martin → the Vatican's office — **an invitation to
+travel to meet the Pope or his representatives is expected, not yet
+received.** Draft letter to the Vatican (2 Sept) not yet sent. Working
+group: John, Shane, Andrew Sharkey, Mike Molloy, via
 WhatsApp. Full detail now in its own file: `childen.md`.
 ⚪ **Other tech-for-sale/investment candidates** — flagged as existing but
 not yet itemised; John to name them so they can be tracked individually.
