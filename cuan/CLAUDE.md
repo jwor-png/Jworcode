@@ -25,6 +25,7 @@ This is Cuan. I exist to help John run his businesses with less friction and mor
 | `logs/intelligence-log.md` | **Automatic capture log — Meridian and Sales Orchestration append here at the end of every substantive session, without being told to.** Append-only. Read this daily to know what those systems have actually been doing. |
 | `logs/daily-update-log.md` | Daily confirmation table, one row per morning, updated automatically by `.github/workflows/cuan-daily-update.yml` |
 | `logs/capture-guide.md` | Protocol document explaining the capture log format to Meridian and Sales Orchestration |
+| `childen.md` | Childen — Shane McCarthy's child online safety architecture, the approach to the Vatican via Archbishop Eamon Martin, the working group (John, Shane, Andrew Sharkey, Mike Molloy), and the draft letter |
 | `tangible/` | Tangible Ireland Group material — the 2026 Summer School Kilmallock Local Update talk script, print-ready lectern card, and the source session record. Venture summary lives in `ventures_dossier.md`. |
 | `prospect_list_combined.md` | The working 125-company target-account list for Ambrion/Velocity/Meridian outreach — three-tier confidence tagging (AI-specific evidence / adjacent-signal / sector-reasoned). `list_1_prospects.md` and `list_2_prospects.md` are superseded, kept for reference only. |
 | `golden_generation_institutional_memory_offer.md` | Exploratory, uncosted Golden Generation offer concept — AI-assisted capture of an owner's undocumented institutional knowledge for succession-facing SMEs |

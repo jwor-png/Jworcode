@@ -145,54 +145,22 @@
   of the Barber Republic commercial arrangement. Surname not yet known.
 
 ### Mike Molloy
-- **Status:** flagged gap, 2 Sept 2026 — **no prior history held anywhere
-  in Cuan.** A WhatsApp exchange was shared in the wrong thread, so only a
-  thin read exists so far.
-- **What Childen actually is (clarified 2 Sept):** a design and
-  architecture for a **child online safety platform** — not built out,
-  not developed. The plan is to **sell that design/architecture to the
-  Vatican**, not build/operate it. Working group: John, Shane, Andrew
-  Sharkey, Mike Molloy, coordinated via a dedicated WhatsApp group —
-  documents shared there, everything channelled through it. No source
-  document logged in Cuan yet — John to paste it across.
-- **Uropharma:** connected to Mike Molloy separately from Childen —
-  spelling per the WhatsApp image, possibly the same UroPharma logged as
-  a separate investment-review thread in
-  `chatgpt_synopsis_jul_aug_2026.md` (~£3.5m raised/~£500k sought) — not
-  confirmed as the same entity, worth checking rather than assuming.
-  Mike's goal for both: getting Childen and Uropharma onto a world stage
-  — political, diplomatic, business and funding support, building on
-  existing work. Driven by a passion for peace and geopolitical
-  strategy, connected to his Aunt Mary. Combines a Vatican network with
-  EU, British and American contacts. Reacted positively to John's
-  analysis and is open to defining what he wants from the arrangement.
-- **Progress, confirmed 2 Sept:** the Childen proposal has already
-  received the support of the Irish hierarchy via **Archbishop Eamon
-  Martin**, secured through Mike's contacts. The 29 Sept Pope Leo AI
-  encyclical conference invitation (Crysta Gunn/Irish Catholic Bishops'
-  Conference) came about **because the Childen proposal was circulated
-  via Mike** — **confirmed the same relationship thread**, not a
-  coincidence.
-- **Lloyd** — also part of the working thread per the earlier WhatsApp
-  share, but not part of the WhatsApp group as newly described (John,
-  Shane, Andrew Sharkey, Mike Molloy) — [ASK] role/surname/whether he's
-  actually part of this or a separate contact, unconfirmed.
-- **Corroborating context, 2 Sept — [REPORTED, not independently
-  verified]:** RTÉ News, "Archbishop Martin meets with OpenAI
-  representatives over Pope's letter,"
-  https://www.rte.ie/news/ireland/2026/0730/1585701-archbishop-ai/
-  (dated 30 July 2026 per the URL). Could not be fetched directly in
-  this session — RTÉ is blocked at the network egress level — so this
-  is logged from the headline/URL only, not the article content. John
-  flagged it as "apt timing" given the Childen/Archbishop Martin thread
-  above. Worth John confirming the actual article content before relying
-  on it as evidence of anything specific about OpenAI's Vatican
-  engagement, rather than assuming the headline tells the full story.
+- **Role:** core member of the Childen working group (John, Shane, Andrew
+  Sharkey, Mike Molloy — see `childen.md`) — his contacts secured Irish
+  hierarchy support via Archbishop Eamon Martin, and the 29 Sept
+  conference invitation came about because he circulated the Childen
+  proposal.
+- **Uropharma:** connected to Mike separately from Childen — spelling per
+  a WhatsApp image, possibly the same UroPharma logged as a separate
+  investment-review thread in `chatgpt_synopsis_jul_aug_2026.md` (~£3.5m
+  raised/~£500k sought) — not confirmed as the same entity. Mike's goal
+  for both Childen and Uropharma: onto a world stage — political,
+  diplomatic, business and funding support. Driven by a passion for
+  peace and geopolitical strategy, connected to his Aunt Mary. Combines a
+  Vatican network with EU, British and American contacts.
 - **Open action:** the correct Meridian thread that actually holds the
-  Mike Molloy relationship history needs to log it properly to
-  `cuan/logs/intelligence-log.md` — this entry is a placeholder, not the
-  full picture. John to define what Childen actually is, and confirm
-  who Lloyd is.
+  full Mike Molloy relationship history still needs to log it to
+  `cuan/logs/intelligence-log.md` — this entry remains partial.
 
 ### Andrew Sharkey
 - **Role:** Recurring contact across multiple threads, no single entry

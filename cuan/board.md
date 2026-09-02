@@ -34,21 +34,11 @@ minority stake. Not currently moving. Website build is in its own session —
 needs a status pulled from there.
 🟡 **Tairseach** — property-specific organism descended from ODIN; funding
 conversations bundled with ODIN's above.
-🟡 **Childen (Institutional Architecture)** — correction, 2 Sept: was
-mistranscribed here as "Children." **What it is (clarified 2 Sept):
-Childen is a design and architecture for a child online safety
-platform — not built out, not developed.** The plan is to sell that
-design/architecture to the Vatican, not to build and operate it as a
-going concern. **Working group:** John, Shane, Andrew Sharkey, Mike
-Molloy — coordinated via a dedicated WhatsApp group, documents shared
-there, everything channelled through it. **Progress:** the proposal has
-already received the support of the Irish hierarchy via Archbishop
-Eamon Martin, secured through Mike's contacts — the 29 Sept Pope Leo AI
-encyclical conference invitation (see `people_map.md` Mike Molloy entry)
-came about **because** the Childen proposal was circulated via Mike —
-**confirmed the same relationship thread, not a coincidence.** No source
-document logged yet — John to paste it across. Who Lloyd is still
-unconfirmed.
+🟡 **Childen** — child online safety architecture, **Shane McCarthy sole
+owner**. Ask: not a purchase, the Church convenes funding/partners and
+holds the standard in trust. Draft letter to the Vatican (2 Sept) not
+yet sent. Working group: John, Shane, Andrew Sharkey, Mike Molloy, via
+WhatsApp. Full detail now in its own file: `childen.md`.
 ⚪ **Other tech-for-sale/investment candidates** — flagged as existing but
 not yet itemised; John to name them so they can be tracked individually.
 🟢 **Asterial Limited** — the vehicle capturing Shane's personal ODIN IP
