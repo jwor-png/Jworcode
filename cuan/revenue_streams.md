@@ -363,6 +363,38 @@ leads.
 - **Ambrion AI four-member Zoom call** — Thursday next week, time to be
   confirmed (either 4-5pm or 4.30-5.30pm). Attendees: Shane, Tom Stapleton, Pat
   McGrath, John. Invitation already sent.
+- **Prospect list build (Ambrion/Velocity/Meridian target accounts) — PAUSED,
+  as of 3 Aug 2026, waiting on Shane's response.** Built a target-account
+  programme of real, verified Irish mid-market/regional businesses,
+  deliberately excluding large multinational subsidiaries and anything with
+  in-house AI capability (not a fit for a two-person team). Rebuilt on a
+  three-tier confidence standard (AI-specific evidence / adjacent-signal /
+  sector-reasoned) after the original tagging was flagged as too generous.
+  Collated into `cuan/prospect_list_combined.md` — **125 companies** (97 from
+  the original sweep, 22 from a CeADAR-focused pass, 6 more from a
+  CeADAR-ecosystem widening pass). Target reframed from "100+100 over two
+  weeks" to a rolling 200+ over coming weeks. Next sourcing avenues
+  identified but not yet run: LEO AI/Innovation voucher lists, Skillnet
+  Ireland AI cohorts, Chambers Ireland/regional award shortlists (proven
+  source), Enterprise Ireland client-success pages, or asking CeADAR
+  directly for their member list. **Framing rule:** outreach must not name
+  Ambrion or Meridian — describe the offer as Shane and John's
+  expertise/tools instead. Delivery: John sent the list to Shane directly; a
+  Gmail draft (To: shane@velocityai.ie) still sits as backup in John's
+  drafts. `cuan/list_1_prospects.md` and `cuan/list_2_prospects.md` are
+  superseded, kept for reference only.
+- **Golden Generation: Institutional Memory offer — exploratory, not
+  validated.** Sparked by a YC Summer 2026 Request for Startups carousel.
+  Concept: AI-assisted capture of an owner's undocumented institutional
+  knowledge into a living, queryable knowledge base for succession-facing
+  family/founder-owned SMEs (Capture → Structure → Governance-upsell into
+  Ambrion). Full writeup: `cuan/golden_generation_institutional_memory_offer.md`.
+  Explicitly not costed or committed — rests on inference, not confirmed
+  demand. Recommended next step: test in 2-3 real prospect conversations.
+  Possible architectural overlap with a separate Strategic Opportunity
+  Intelligence System spec Shane sent (see the ODIN/Codex entry in
+  `ventures_dossier.md`) — that overlap belongs in the Meridian
+  orchestration, flagged for John to raise with Shane directly.
 
 ## 4. Meridian Intelligence
 - **This stream connects to Meridian's own separate, dedicated system** — full

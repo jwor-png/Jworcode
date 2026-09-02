@@ -860,6 +860,121 @@ document.
 
 ---
 
+## Kilmallock Water
+- **Status:** Early exploration, 2 Sept 2026 session. **No commitments
+  made, no spend authorised.**
+- **Revenue relevance:** Not yet determined — see "three tangled
+  businesses" below, choosing one parks the other two.
+- **Tracking:** Cuan only. **Decision taken 2 Sept: water is a standalone
+  lane — not part of Ambrion, Meridian, or any of the AI businesses, and
+  not to be routed through them.**
+- **Correction to earlier optimistic framing:** the "Kilmallock Water
+  opportunity" entry logged in `chatgpt_synopsis_jul_aug_2026.md` and the
+  brief John used in the Tangible Ireland Group 2026 Summer School talk
+  (`tangible/2026-summer-school-local-update.md`) both drew on the same
+  underlying feasibility study. **This session's close read found that
+  study has no revenue line at all** — no price per litre, no volume
+  assumption, no gross margin, no breakeven. It is a cost estimate, not
+  a feasibility study. Nobody can call this feasible on the current
+  document. Both papers reviewed appear AI-generated, and one email
+  thread in the source material contains an AI asserting it did not
+  hallucinate — not a source, and nothing in the material is verified.
+  Treat the earlier framing as superseded by this entry.
+
+### Contradictions found between the two source papers
+- **"Geologically proven" must come out.** The site paper calls
+  Knocksouna Springs "geologically proven"; the feasibility study says
+  nothing moves until flow rate is confirmed. Nobody has drilled
+  anything.
+- **Site vs. costing mismatch.** Costings assume 1-3 acres of zoned
+  light industrial land at €50k-€150k. The recommended site
+  (Knocksouna) is rural greenfield, unzoned and unserviced. The costing
+  and the recommendation point at different places.
+- **Undefined core asset.** "Approximately 28,800 cubic metres" has no
+  time unit. Per year, that's ~79,000 litres/day and triggers the
+  abstraction licence threshold. Per day, it's a different business
+  entirely. The central asset is currently undefined.
+
+### The issue neither source paper spotted
+The obvious move is to take water at Knocksouna and build the plant at
+Deebert (brownfield, road, former rail, services). **EU rules for
+natural mineral water and spring water require bottling at source**,
+which likely blocks this. The actual choice: premium label on a hard
+site with no services, or generic bottled water on an easy site at
+Deebert with no brand story. **This is the first real decision in the
+project — verify with the FSAI before anything else is spent.**
+
+### Claims requiring a source or removal
+28,800 cubic metres (no unit); 15.6°C geothermal; €436.6m Irish
+production 2025; €85bn EU market by 2030; $674.8bn global by 2033 at
+7.5% CAGR; UN 40% water-scarce by 2035; Castik and Waterlogic at €260m;
+Ballygowan €6m 2023; "geologically proven." None currently sourced.
+
+### Document defect
+Executive summary still reads "Prepared for: John [Surname]" —
+placeholder never filled. **Fix before anyone external sees the file.**
+
+### Costs that are wrong
+- Source development at €10,000-€21,500 is a farm-borehole budget, not a
+  commercial food-grade source — order of magnitude low.
+- Build at €350k-€700k for 500-2,000 sqm is under €200/sqm at the bottom
+  — food-grade build doesn't happen at that number.
+- **Missing entirely:** Deposit Return Scheme producer fees on every PET
+  bottle, packaging resin cost, ESB industrial grid connection,
+  wastewater discharge licence, planning appeal risk, working capital.
+- The 12-18 month timeline does not survive the FSAI source-monitoring
+  requirement.
+
+### Grant aid overstated
+LEO supports are for businesses under 10 employees; the plant is
+specced at 10-15. Enterprise Ireland is uncertain fit for commodity
+food/drink against their innovation and internationally-traded tests.
+Bord Bia is the more natural door. Horizon Europe, Water4All and EIC
+fund research, not bottling plants. The €500k-€1.5m of stacked grant
+aid as written is not achievable.
+
+### Strategic position — three separate businesses tangled and costed as one
+1. **Source asset** — prove the water, secure rights, licence or sell to
+   a bottler. Smallest capital, cleanest exit, no manufacturing.
+2. **Bottling plant** — €1.5m-€3m, commodity margin, needs an anchor
+   customer signed before construction.
+3. **Groundwater intelligence layer** — asset-light, data/trust play,
+   long sale into state and industry.
+
+These are **not stages of one thing** — choosing one parks the other
+two. Export thesis is weak: bottled water is heavy and cheap, freight
+against unit value kills volume export to southern Europe (which has
+its own capacity) — only premium, low-volume, high-price export works,
+and that's business 3, not 2. ESG treated as tailwind is backwards for
+an investor — single-use plastic water in the EU is under pressure, not
+favour.
+
+### Next steps, in order
+1. **Site control** — who owns Knocksouna and Deebert; groundwater
+   rights follow the landowner, neither paper mentions ownership. Free,
+   do this first.
+2. **Desk hydrogeology** — Geological Survey of Ireland aquifer maps,
+   well card database, warm spring records for the townland. Confirms or
+   kills the 28,800 figure. One day, no cost.
+3. **FSAI conversation** on label classification and source-monitoring
+   period. Free, sets the entire timeline.
+4. **Paid hydrogeologist opinion** before any drilling. Low five figures.
+5. **Only then** LEO Limerick, subject to the eligibility check above.
+
+**The real go/no-go spend is not €1.5m-€3m — it's roughly €50k-€100k
+over 6-12 months to find out whether there is a business at all.**
+
+### Open questions [ASK]
+1. Which of the three lanes is this?
+2. Is the Kilmallock land John's, or someone he knows? This changes
+   everything about question 1.
+3. Does the Shane Alignment Gate apply to water, given it sits outside
+   the AI partnership? **Assumed not applicable, pending confirmation.**
+4. Who is "John's team" here? No entity, no roles, no cap table defined
+   anywhere in the source documents.
+
+---
+
 ## Thomond Healthcare Holdings Ltd / Ilex — Primary Care Centre (PCC) Portfolio
 - **Status:** THH wound down (Liquidation, 25 June 2026). "Ilex" is
   active as John's current vehicle/framing for new healthcare property

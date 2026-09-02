@@ -121,6 +121,12 @@ Mark Finlay). New: a clean black-text-on-white version was requested,
 same document-legibility standard as Barber Republic.
 
 ### Kilmallock Water Project
+**SUPERSEDED, 2 Sept 2026 — see the full "Kilmallock Water" entry in
+`ventures_dossier.md`.** A close read of the underlying feasibility
+study found it has no revenue line, contains unverified claims, and
+both source papers appear AI-generated. The optimistic framing below is
+retained for history but should not be relied on.
+
 Substantial standalone thread — natural-water bottling plant feasibility
 in Kilmallock; strategic water-sourcing/site material; historical wells
 investigated. Corrections made to historical narrative: Murphy's of Cork

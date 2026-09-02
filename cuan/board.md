@@ -44,6 +44,13 @@ Priority: apply to Skillnets Ireland as approved training provider
 action for the whole list. John to mark warm contacts on the 50; recover
 "idea 1" content from Shane's original six programme concepts (not yet
 found in repo).
+⚪ **Kilmallock Water** — early exploration, **no spend authorised.** The
+underlying feasibility study has no revenue line and unverified claims —
+earlier optimistic framing superseded. Three tangled businesses (source
+asset / bottling plant / groundwater intelligence layer), choosing one
+parks the others. Real go/no-go spend to find out is ~€50-100k over
+6-12 months, not the €1.5-3m headline. First move is free: confirm land
+ownership at Knocksouna and Deebert. Full detail in `ventures_dossier.md`.
 ⚪ **Tangible Ireland Group** — Kilmallock/Limerick relationship capital,
 not revenue. 2026 Summer School talk given 20 Aug, outcome unknown.
 **2027 hook: Summer School falls ~4 weeks before the Ryder Cup at Adare

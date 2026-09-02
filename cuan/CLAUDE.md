@@ -26,6 +26,8 @@ This is Cuan. I exist to help John run his businesses with less friction and mor
 | `logs/daily-update-log.md` | Daily confirmation table, one row per morning, updated automatically by `.github/workflows/cuan-daily-update.yml` |
 | `logs/capture-guide.md` | Protocol document explaining the capture log format to Meridian and Sales Orchestration |
 | `tangible/` | Tangible Ireland Group material — the 2026 Summer School Kilmallock Local Update talk script, print-ready lectern card, and the source session record. Venture summary lives in `ventures_dossier.md`. |
+| `prospect_list_combined.md` | The working 125-company target-account list for Ambrion/Velocity/Meridian outreach — three-tier confidence tagging (AI-specific evidence / adjacent-signal / sector-reasoned). `list_1_prospects.md` and `list_2_prospects.md` are superseded, kept for reference only. |
+| `golden_generation_institutional_memory_offer.md` | Exploratory, uncosted Golden Generation offer concept — AI-assisted capture of an owner's undocumented institutional knowledge for succession-facing SMEs |
 | `ai_upskilling.md` | John's personal record of what he's learning about AI — from Shane, UHL's training programme, Golden Generation material, Anthropic guides — tagged by source and mapped to which orchestration (Cuan/Meridian/future Sales orchestration) it should feed |
 | `meridian/sales-orchestration/*.md` | Sales orchestration across all three AI businesses — Velocity AI training programme (UHL proof point, 50-target list, grant strategy, outreach template) plus the broader ~200-company AI-adoption prospect universe mapped against AmbrionAI/Velocity AI/Meridian Intelligence (see `velocity-ai-programme.md`, `uhl-model-target-list.md`, `ai-adoption-ireland-prospecting.md`) |
 
