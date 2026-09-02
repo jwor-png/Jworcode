@@ -213,6 +213,77 @@ closed out, no outstanding action. Full detail in `operating_creed.md`
   already used for the Barber Republic PDFs.
 - Full narrative context in `chatgpt_synopsis_jul_aug_2026.md`.
 
+### "Working in Parallel" — Shane's founder plan for Johnny & Neil (sent 2 Sept 2026)
+Shane (Velocity AI) sent a document titled **"Barber Republic: Working in
+Parallel"** to Johnny "Baba" Shanahan and Neil Dignam, for them to work to
+— John is to **monitor**, and said he needs to review it in more detail
+today (2 Sept). Distinct from the Money Model/pricing documents already
+built this session — this is the founder workstream plan, not a pricing
+document.
+
+**Core premise:** the product is built over 12-14 weeks by Shane's team;
+this document is what Johnny and Neil (as founders) need to drive in
+parallel over those same weeks so the raise, investors, pilot and story
+are ready the moment the product lands — "momentum compounds," a round
+is a relationship built over weeks, not a meeting booked at the end.
+
+**The raise — begin now:**
+- Decide funding route early — likely angels/private network at this
+  stage, venture probably too early.
+- Build the investor list and open conversations now (weeks to warm up).
+- Define exactly what each investor needs to see proven, so the pilot is
+  built to produce precisely that.
+- Keep one tidy pack building throughout: numbers, terms, legal position,
+  tech — so a "yes" becomes money in days, not a scramble.
+- Name the backers who'd support a business like this and whether the
+  route in is private-network or professional; warm introductions early.
+
+**The story and the pilot:**
+- Sharpen the investor narrative: problem, edge, market size, upside
+  beyond barbering into any trade that staffs itself the same way.
+- Lead with **why now**: barbers going independent in growing numbers,
+  the coming change to contractor taxation, and the trust-and-data gap
+  no one has filled.
+- Know comparable models — who's tried this before and why it didn't
+  stick — and rehearse counter-answers to hard questions in advance.
+- Design the pilot around the single busiest need (one or two peak days,
+  one tight area), bring in more barbers than shops so real matches
+  happen. Agree the numbers to capture from day one — bookings,
+  engagement, fill-rate, repeat rate, gross figures, issues — and agree
+  the success bar up front.
+- **The week-six London visit is described as the hinge of the whole
+  pilot:** cohort confirmed with real people, product calibrated with
+  Johnny, commercial terms closed in person, in that room.
+- Route to market: how the pilot reaches the cohort and how the first
+  barbers/shops are brought on — explicitly founder work, not build work.
+
+**Team, legals, structure:**
+- Investors back people — be clear on roles: who owns operations, who
+  answers an urgent Saturday-8am cover request, and the plan to scale
+  past the pilot.
+- Legal/compliance ground, platform status, terms, and data position to
+  be settled with counsel early so nothing stalls launch or the round.
+- Company structure and commercial terms to be locked so the raise has
+  something clean to invest into.
+
+**The gameplan (rhythm):**
+- By week 2: pipeline warming, cohort recruitment started, counsel
+  engaged.
+- By week 4: funding route chosen, pilot terms agreed, story sharpened.
+- Week 6: cohort confirmed and commercials closed, in person, at the
+  London visit.
+- Weeks 8-10: pitch/materials ready, investor conversations live, pack
+  built.
+- Weeks 12-14: pilot running, numbers coming in, ready to convert
+  conversations into a round.
+- **The one thing that matters most, per the document: pace** — the work
+  isn't hard so much as time-sensitive; founders who move early and
+  deliberately are the ones ready when the moment comes.
+
+**Status:** just sent to Johnny and Neil by Shane; John reviewing in
+detail today (2 Sept), monitoring rather than driving this particular
+document.
+
 ---
 
 ## Smacht Network / Padraic O'Maille

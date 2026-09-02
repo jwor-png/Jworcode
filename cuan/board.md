@@ -52,7 +52,7 @@ them.
 
 🟢 UHL Hardware (AHL) — Aug invoice sent, awaiting payment
 🟢 Ambrion AI — training 25 & 31 Aug confirmed
-🟢 Barber Republic — commission split genuinely disputed among Johnny's own contacts (John Jones: barber pays; Anthony Laban: shop pays) — no fixed numbers now shown to trade; A/B docs rebuilt as open questions for Johnny to actually ask in London tomorrow; agreement still unsigned by Johnny; Month One £15k PAID
+🟢 Barber Republic — commission split genuinely disputed among Johnny's own contacts (John Jones: barber pays; Anthony Laban: shop pays) — no fixed numbers now shown to trade; A/B docs rebuilt as open questions for Johnny to actually ask in London tomorrow; agreement still unsigned by Johnny; Month One £15k PAID. **NEW (2 Sept): Shane sent Johnny + Neil "Working in Parallel" — the founder-track plan for the 12-14wk build (raise, story, pilot, week-6 London visit as the hinge). John reviewing in detail today, monitoring not driving.**
 🔴 Julianstown Mill — Fred Logue appeal formally lodged 31 Aug (PL-501978-MH-26), response due 23 Sept; planning grant + John's fees + payments delayed as a result; balancing statement sent, awaiting reply
 🔴 Velocity AI — Gmail script fix still outstanding
 ⚪ Golden Generation — nothing live right now
