@@ -22,9 +22,8 @@ Cuan reads both files in full — nothing here has been deleted or superseded.
   ahead.
 - **Revenue relevance:** Revenue stream — new, first sale just landed.
 - **Tracking:** Cuan (this is literally what Intelligence Concierge
-  productizes — see the note below) + presumably Velocity AI as the
-  commercial vehicle, though that's not confirmed. [ASK — which entity
-  actually bills for this?]
+  productizes — see the note below). **Commercial vehicle confirmed
+  2 Sept: Velocity AI** bills/contracts for this.
 - **What it is, per John (2 Sept): "Intelligence Concierge is, in fact,
   the personal intelligence orchestration"** — i.e. this is the
   productized, sellable version of exactly what Cuan is for John
@@ -72,11 +71,9 @@ Cuan reads both files in full — nothing here has been deleted or superseded.
   finance, media, sales, executive management. Any of the 25 internal
   ones can be shown working live; a client's engine is never shown to
   anyone else, "which is the same rule that will protect yours."
-- **Open items:** confirm which entity bills/contracts for this (Velocity
-  AI, or a standalone Intelligence Concierge vehicle); confirm Paul
-  Candon's build has actually been scoped/started, not just agreed in
-  principle; clarify John's own role in "rolling this out" — sales,
-  delivery, or both.
+- **Open items:** confirm Paul Candon's build has actually been
+  scoped/started, not just agreed in principle; clarify John's own role
+  in "rolling this out" — sales, delivery, or both.
 
 ---
 
