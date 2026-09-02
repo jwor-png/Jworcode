@@ -425,13 +425,59 @@ consolidation pass rather than merged speculatively.
 - **Revenue relevance:** Channel (John is introducer only, not a revenue
   line to him directly).
 - **Tracking:** Cuan + Meridian (Commercial & Deal).
-- **What it is:** Property intelligence company — ten verticals (site sourcing, derelict property, inspection & repairs, sales & conversion, energy/data-centre land live; commercial/institutional, residential/portfolio, recovery, tenant/covenant risk, latent value in build) on one shared "spine" intelligence
-- **Traction:** €50,000+ in sales through a partner; 3 property partners live on site-sourcing output; live derelict-property pilot in Ireland; ranked Ireland's best data-centre site from public data
-- **The ask:** €1m–€1.5m raise for 20% equity; €6m pre-money / €7.5m post-money
-- **Presented by:** Shane McCarthy, architect/owner of the technology
-- **John's role:** Introducer only — passing the one-pager to potential investor contacts via Velocity AI channel
-- **Live thread (27 July 2026):** One-pager sent from john@velocityai.ie to Malachy Harkin, requesting contacts and proposing a 3-way Zoom call Thursday to cover Tairseach plus the ongoing Data Centre / residential markets conversation
-- **Separate thread:** Mark Finlay — Zoom call requested for 5pm Tuesday, scope is the ODIN investment document, NOT Tairseach (to be confirmed with Shane before broadening scope)
+- **What it is:** Property intelligence company. Tagline: **"Already
+  built, and already selling."** Ten verticals, each its own intelligence
+  doing a different job for people who own or trade property at scale —
+  from sourcing sites and derelict buildings to finding money leaking out
+  of a portfolio and the value an owner already sits on. They run on
+  **one shared intelligence ("the spine")** — every component feeds what
+  it learns back into the same core, so every job makes every other job
+  smarter.
+- **The ten verticals, by status (per the 2 Sept one-pager):**
+  - **Five live/earning:** Inspection and repairs (EARNING — a paying
+    customer in Ireland "came back to expand," the one part that makes
+    its own data); Sales and conversion (IN SALES — proven on real
+    buyers, €50k+ in sales through a partner); Site sourcing (LIVE —
+    three property partners work from its output today); Energy and
+    data-centre land (SHIPPED — ranked Ireland's best data-centre site
+    from public data); Derelict property (LIVE PILOT — a live pilot in
+    Ireland, first building already named).
+  - **Five in build:** Commercial and institutional (an eight-agent
+    system for institutional owners); Residential and portfolio
+    (portfolio, lease and planning intelligence on the same core);
+    Recovery (finds money leaking from assets an owner holds,
+    "checkable in week one"); Tenant and covenant risk (which tenants
+    hold what costs, and who replaces them); Latent value (ranks every
+    unexploited unlock with a euro number and the route to it).
+- **Reach:** conversations already open in America, Australia, the
+  Middle East, and Germany, alongside Ireland/UK.
+- **The ask:** raising €1m-€1.5m — "one thing this briefing asks: a
+  conversation," pitched at investors who want a position in property
+  intelligence early, "while the layer underneath the market is still
+  being built."
+- **Preferred structure:** €1.5m raise, 20% equity, €6m pre-money, €7.5m
+  post-money. "The right investor brings more than capital: a network,
+  access to live and potential clients, and a market that fits what this
+  company does. Where that comes with the cheque, it is reflected in the
+  terms."
+- **Governance note, worth cross-referencing against Meridian/EOLAS:**
+  "Governance, safety and security are designed into every part from
+  version one. Ownership is fully documented" — same "AI driven, human
+  led" tagline used across Shane's other product one-pagers (Meridian,
+  EOLAS). Worth noting as a consistent house style across Shane's
+  positioning work, not unique to Tairseach.
+- **Presented by:** Shane McCarthy, architect and owner of the
+  technology. "Introductions come through the bearer of this brief" —
+  i.e. through John.
+- **John's role:** Introducer only — passing the one-pager to potential
+  investor contacts via Velocity AI channel.
+- **Live thread (27 July 2026):** One-pager sent from john@velocityai.ie
+  to Malachy Harkin, requesting contacts and proposing a 3-way Zoom call
+  Thursday to cover Tairseach plus the ongoing Data Centre / residential
+  markets conversation.
+- **Separate thread:** Mark Finlay — Zoom call requested for 5pm Tuesday,
+  scope is the ODIN investment document, NOT Tairseach (to be confirmed
+  with Shane before broadening scope).
 
 ---
 
