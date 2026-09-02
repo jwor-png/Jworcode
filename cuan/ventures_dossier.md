@@ -463,9 +463,15 @@ consolidation pass rather than merged speculatively.
 - **Governance note, worth cross-referencing against Meridian/EOLAS:**
   "Governance, safety and security are designed into every part from
   version one. Ownership is fully documented" — same "AI driven, human
-  led" tagline used across Shane's other product one-pagers (Meridian,
-  EOLAS). Worth noting as a consistent house style across Shane's
-  positioning work, not unique to Tairseach.
+  led" tagline appears across Meridian, EOLAS and Tairseach's
+  positioning. **Correction, per John (2 Sept): "human led" is a
+  deliberate, fundamental thread running across the whole chain of
+  products, not just a Shane house style — but ownership across that
+  chain is not uniform.** Meridian is **John's** (70% John / 30% Shane —
+  see the Meridian Intelligence entry above). Tairseach and ODIN are
+  **Shane's**, where John holds a minority/introducer role. Don't
+  conflate "shared positioning language" with "shared ownership" — the
+  tagline is consistent across the portfolio; who owns what is not.
 - **Presented by:** Shane McCarthy, architect and owner of the
   technology. "Introductions come through the bearer of this brief" —
   i.e. through John.
