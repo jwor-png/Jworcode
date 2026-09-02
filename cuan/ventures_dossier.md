@@ -381,6 +381,43 @@ cross-system check across GitHub, Drive and Gmail. Findings:
 - **Golden Generation / Workforce Upskilling:** Skillnet Ireland 2025 annual report — 3,100 businesses used Skillnet networks, 81,300 upskilling training days delivered in Cork alone, 84,515 workers upskilled nationally, 52% training uptake among 30-39 age group. Strong validating data point for the Velocity AI Skillnet registration and the Golden Generation upskilling offering generally.
 - **Legal & Governance / Finance & Restructuring:** Personal Insolvency Arrangement case — Celtic Tiger-era developer had €14m NAMA debt written off for a €37,000 payment to creditors via a High Court-approved PIA, retaining his €750k family home. Strong precedent case for personal insolvency / NAMA-era debt resolution conversations — mechanically close to John's own legacy debt resolution work (BOI/Nugent).
 
+### Meridian LinkedIn Launch Series
+Content committed to `meridian/launch/` — profile positioning, a launch
+weekend pack (31 July 2026), and a numbered post series. **Post 02 —
+"Decision Brief"** (2,390 characters, within LinkedIn's 3,000 limit, no
+em dashes, committed at
+`meridian/launch/LinkedIn_Post_02_Decision_Brief.txt`): opens from
+John's own board experience rather than the product, walks through what
+a Meridian Decision Brief actually is (one yes/no question run through
+however many of the seven domains could change the answer), what comes
+back (written position, recommendation with reasoning, risks that would
+change the answer, every claim tagged VERIFIED/REPORTED/UNVERIFIED,
+questions John should answer himself before committing), and — the
+strongest section, deliberately — **three things it will not do**: won't
+tell you what you want to hear (every recommendation is attacked before
+it leaves), won't dress up an assumption as fact, and won't represent
+John (Meridian informs, anything binding goes to a qualified professional
+first). Closes on "AI driven. Human led." Ends with a note pointing to
+next: the wider Executive Intelligence Review. No numbers, prices, client
+names, or claimed results in it — deliberately nothing that needs
+defending. **If shortened further, cut the "AI does the work that AI is
+genuinely better at" paragraph — the "AI driven, human led" line carries
+that point alone.**
+
+**Files in `meridian/launch/`:** `LinkedIn_FINAL_COPY.txt`,
+`LinkedIn_Post_02_Decision_Brief.txt`, `LinkedIn_Profile_2026-08-07.md`,
+`LinkedIn_Weekend_Copy_2026-07-31.md`,
+`Meridian_Launch_Weekend_Pack_2026-07-31.md`, `Meridian_LinkedIn_Banner.png`.
+
+**Note:** these were pulled in from a separate session branch
+(`claude/youllneverwalkalone-7ryal1`) that also holds substantial
+additional Meridian material not yet reconciled into this branch —
+pricing PDFs, an EOLAS-vs-Meridian read, an EU AI Act Ireland brief, an
+ECB uncertainty/AI investment brief, logo files, and an updated
+`meridian-orchestrator.md`. Only the launch content was pulled in this
+pass since that's what was asked for; the rest is flagged for a future
+consolidation pass rather than merged speculatively.
+
 ---
 
 ## Tairseach (Shane McCarthy — separate from Meridian/Ambrion)
