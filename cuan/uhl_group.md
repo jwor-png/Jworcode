@@ -18,6 +18,48 @@ Nothing in this file is inferred and presented as fact. Where a pattern is visib
 
 ---
 
+## Session Handover — 9 August 2026
+
+**United Hardware and Associated Hardware now run through Cuan.** This file is the standing record. The session that built it is closed and will not be reopened.
+
+### Where this came from
+Built in one pass from John's Gmail plus the existing Cuan knowledge base. Before this, the knowledge base held UHL at summary level only and carried AHL as an unanswered `[ASK — what is AHL]`. That is now closed.
+
+### What changed in the knowledge base
+- AHL identified as **Associated Hardware Public Limited Company**, a separate PLC with its own shareholders and its own auditor, not a UHL subsidiary
+- **National Hardware (NHL)** recorded as a third entity, previously absent entirely
+- UHL board composition and Audit & Risk Committee membership captured
+- AHL board membership captured, with one unreconciled point flagged
+- Eleven live matters recorded with dates and sources
+
+### State of play at handover
+- **UHL FY2025 audit: closed.** Statements approved. John delivered the A&RC report. Board thanked him formally on 5 August.
+- **AHL FY2025 audit: open.** Eleven BDO queries outstanding from 6 August, two owned personally by John.
+- **AHL premises:** being prepared for possible sale. Planning regularisation in train.
+- **Three recoveries into AHL live:** Smyths of Killucan, Mulvey, National Hardware.
+
+### The three John should move on first
+1. **AHL audit items 6 and 9**, the debtors and creditors position and the board minutes since September 2025. John committed these to BDO on 7 August "in days ahead".
+2. **AHL D&O limit.** Hold at €500k or increase. Asked 6 July, no reply evidenced. Oldest open loop in this file.
+3. **Smyths claim to the AHL Board.** John told Smyths on 31 July it would go to the Board "next week". No outcome recorded.
+
+### Standing watch for Cuan
+Carry these forward without being asked again:
+- The AHL audit query list until BDO signs off
+- The AHL D&O decision
+- Paul Candon's response on the affiliate group proposal
+- The Smyths, Mulvey and National Hardware recoveries
+- Board and committee dates as they land
+
+### Two things Cuan holds as judgement items, not admin
+- **The role overlap.** John chairs Audit & Risk at UHL and chairs AHL. The two companies have live intercompany balances and an audit dependency running right now. Both boards know it. It still needs an answer John can give unprompted. See the governance note below.
+- **The Meridian thread.** Michael O'Driscoll is a fellow UHL director, sits on John's own Audit & Risk Committee, and wants to discuss Meridian commercially. Nothing moves there without Shane McCarthy's alignment.
+
+### Unresolved and blocking nothing else
+The session was opened as "UHL DAC". No group entity is constituted as a Designated Activity Company in anything reviewed. The question is held open below rather than guessed at. It needs one line from John.
+
+---
+
 ## Open Question at the Top: "DAC"
 
 John opened this session as "UHL DAC". Cuan searched the knowledge base and Gmail and found **no evidence of any group entity constituted as a Designated Activity Company**. Every "DAC" hit in Gmail was BDO's standard email footer referring to BDO's own subsidiaries, not to a United Hardware entity. `[EMAIL: tsebake@bdo.ie, 23 Jul 2026, footer boilerplate]`
