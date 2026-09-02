@@ -126,6 +126,40 @@ closed out, no outstanding action. Full detail in `operating_creed.md`
 - **Priority targets for future engagement:** BVP, Foresight, Quintas Capital
 - **Action:** 2025 IBI material is dated (healthcare roll-up origin) — should be updated into a dedicated "Irish AI Funding Landscape" briefing reflecting the current AI investment environment.
 
+### "The Specialist Affiliate Group" — Meridian brief for Paul Candon (UHL), 2 Sept 2026
+A verified Meridian Intelligence brief (dated 5 Aug 2026) proposing a
+specialist affiliate buying group for independent paint/decorating
+retailers in Ireland — reviewed and agreed as defensible by John on
+2 Sept, email drafted/sent to Paul Candon as a follow-up to his earlier
+findings.
+- **Assessment:** real opportunity, proven model (ALLPRO in the US, NMBS
+  in the UK), legal structure viable — but **not launch-ready**. Status is
+  a validated hypothesis, not yet a business case.
+- **The load-bearing question:** does UHL's purchasing scale actually move
+  supplier terms? Only answerable with UHL's internal data and real
+  supplier conversations — everything else depends on this.
+- **Addressable market:** 250-450 genuinely recruitable independents
+  (near-term core 150-250).
+- **Supplier leverage:** Fleetwood, General Paints/Colourtrend, and Dulux
+  all structurally dependent on the independent channel.
+- **Legal position:** lawful if designed correctly — 15% soft safe harbour
+  on combined market share, three hard lines with no safe harbour. Needs
+  formal competition-law advice before any launch.
+- **Recommendation:** a bounded 6-8 week feasibility project against 8
+  specific questions before any launch decision — supplier discovery
+  conversations (incremental spend scenarios), a named/graded/
+  conflict-screened account map from UHL reps, a 5-year financial model
+  on UHL's real cost base, switching-question research with independents,
+  and formal competition-law advice plus member agreement drafting.
+- **Context:** Paul Candon is UHL CEO, a good friend of John's. Shane and
+  EOLAS have already reviewed Meridian's work on this. UHL post-Expert
+  Hardware acquisition (June 2026): ~200 stores, €500m+ turnover, 600+
+  supplier relationships.
+- **Status:** awaiting Paul's response on the brief and whether to proceed
+  with the feasibility project, or hold it as a validated option for
+  future consideration. Running as a separate Meridian/UHL workstream,
+  parallel to the main Cuan flows.
+
 ### Market Intelligence Log (from press clippings, 28 July 2026)
 - **Property & Development:** Planning granted for a mixed-use amusement/gaming arcade in Midleton despite objections on antisocial behaviour and public safety grounds — approved subject to 12 conditions including noise restrictions. Useful precedent for clients navigating amenity-based planning objections.
 - **Property & Development / Investment:** SCSI survey — 92% of estate agents call current prices expensive/very expensive; national prices forecast +5% this year (up from +4% six months ago); affordability gap for a couple earning €113k is up to €25k in the Dublin commuter belt (Kildare/Wicklow/Meath), while Cork remains affordable.

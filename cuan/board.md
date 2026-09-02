@@ -57,6 +57,11 @@ them.
 🔴 Velocity AI — Gmail script fix still outstanding
 ⚪ Golden Generation — nothing live right now
 
+🟡 **Meridian → UHL: Specialist Affiliate Group brief** — paint/decorating
+independent buying group concept sent to Paul Candon 2 Sept, John's
+assessment "real opportunity, not launch-ready." Awaiting Paul's reply on
+whether to greenlight a 6-8wk feasibility project.
+
 ## Waiting on John (across separate sessions — ask each for a fresh status)
 
 AHL Plc profile · Kilmallock Water lane decision · Meridian 2 LinkedIn changes
