@@ -1480,6 +1480,96 @@ over 6-12 months to find out whether there is a business at all.**
   source-tagged in the talk file. Nothing sent, published externally, or
   circulated on John's behalf.
 
+### History
+Tangible's Ambassador Summer School started **August 2010** at
+Ballyhoura Holiday Cabins, moved to the Deebert House Hotel, Kilmallock
+after two years, and has run every year since except two pandemic years
+(convened via Zoom instead). Aim: meeting face to face once a year
+builds much deeper, more engaged, wider-ranging conversation than the
+Zoom sessions alone allow, increasing participants' knowledge of each
+other's abilities and leading to better collaborations and mutually
+beneficial partnerships.
+
+### 2026 Summer School — full programme (18-20 Aug, Deebert House Hotel, Kilmallock)
+In-person and Zoom hybrid. Full three-day schedule now logged:
+
+**Day One — Tuesday 18 Aug:** 2pm informal registration; 2.10pm
+Introduction/Overview/Objectives (Raymond Sexton); 2.20pm Tangible
+Check-in — "Where Are You At?"; 3pm Three Heroes of 2026 — videos &
+discussion; 3.45pm local tour — return to the Abbey, John Webb O'Rourke
+and/or Ben O'Sullivan; 4.30pm Open Forum — "Throw in the Ball!"; 5.30pm
+close, quiet time; 7pm Leadership Dinner at Deebert House Hotel; 10pm
+#tangiblezoom Session One (10pm Irish time) — Tangible Listening Post,
+Open Forum & Tangible Strategy Discussion; 10.45pm close.
+
+**Day Two — Wednesday 19 Aug:** 9.15am registration/introductions;
+9.30am Tangible Nugget (Raymond Sexton, convenor); 9.45am Birth Mothers
+Alliance — Anna Kavanagh, Co-Founder, Crusader One; 10am "Growing a
+Business Organically" — Anne Maher, Urban Co-Op, Crusader Two; 10.20am
+"Making an Impact in Palestine" — Michelle Farrel, jewellery maker,
+Crusader Three, via Zoom; 10.40am Tangible Café; **Session Two:** 11am
+Mid-Western Cancer Foundation — John Lawlor, Chairperson; 11.20am Kune
+Tech-World@Peace etc. — Sean O'Sullivan, Information Technologist;
+11.40am "Artificial Intelligence — The Pope & the Guru" — Shane
+McCarthy; 12.15pm "Nod to Malachy McCourt" video clip; 12.30pm Tangible
+Lunch; **Session Three:** 1.45pm "Traveling with Pope Leo" — Mike
+Molloy; 2.10pm "Cultural Leadership Among Irish Diaspora" — Peter Power
+Hynes; 2.30pm "A Neutral Question" — Anna Sexton; 3pm Radio
+Lurgan-Donagh McKeown via Zoom; 3.15pm update from GAA Palestine via
+Zoom; 3.40pm Tangible Café; **Session Four:** 4pm "The Fearless
+Regulator" — Dr. Kelley Mondesire via Zoom; 4.30pm "Developing
+Resilience in Challenging Times — A Personal Perspective" — Wayne
+Dignam; 5pm "Smiles Better!" — Martin Forrest, Black Belt & Social
+Innovator; 5.30pm close, quiet time; **BBQ & Music Session:** 6.30pm
+Tangible BBQ & Music Session; special guest Brian Houston, "The Belfast
+Troubadour"; 7.30pm minutes' silence & toast to Tangibles We Have Lost;
+**10pm #tangiblezoom Session Five (10pm Irish time):** "Irish America
+250 & Transatlantic Endeavours" — Hilary Beirne; miscellaneous
+contributions from the Tangible Network; 11.15pm close.
+
+**Day Three — Thursday 20 Aug:** **Session One:** 9.15am Tangible
+Nugget — Raymond Sexton; 9.30am "Reel to Revolution" — short film
+showcasing traditional music as a medium of engagement; 10.15am Local
+Update — Kilmallock & Environs, John Webb O'Rourke et al (**this is
+John's own 10-minute slot**); 10.40am Tangible Café; **Session Two:**
+11am "Philanthropy — Dundalk to the Dorchester!" — Sheila Baily via
+Zoom; 11.30am "Finding Forrester & Yourself!" — Martin Forrest, Black
+Belt & Social Innovator; 12pm Wild Cards — to be confirmed; 12.30pm
+Reflections & Synthesis — Raymond Sexton; 12.45pm close out & farewells;
+1pm Tangible Lunch; Final Farewells; END.
+
+**Notable name confirmed on the programme itself: Mike Molloy** spoke
+1.45pm Day Two, "Traveling with Pope Leo" — **this is the same Mike
+Molloy already logged under Childen** (see `childen.md`), confirming
+the Tangible connection to the Vatican thread runs even deeper than
+previously logged — his own Summer School talk was literally about
+travelling with Pope Leo, months before/alongside the Childen approach.
+Worth noting as significant context, not coincidence.
+
+**New names from the programme, not previously logged:** John Lawlor
+(Mid-Western Cancer Foundation, Chairperson), Anna Kavanagh (Birth
+Mothers Alliance, Co-Founder), Anne Maher (Urban Co-Op), Michelle
+Farrel (jewellery maker, Palestine impact talk), Peter Power Hynes
+(Irish diaspora cultural leadership), Anna Sexton (likely a Sexton
+family relative — relationship to Raymond/Hugh unconfirmed), Donagh
+McKeown (Radio Lurgan), Dr. Kelley Mondesire ("The Fearless Regulator"),
+Wayne Dignam (resilience talk), Martin Forrest (Black Belt & Social
+Innovator, two sessions), Brian Houston ("The Belfast Troubadour,"
+special guest musician), Hilary Beirne (Irish America 250/
+Transatlantic Endeavours), Sheila Baily (philanthropy talk, already
+logged in `people_map.md`), Ben O'Sullivan (local tour co-lead,
+possibly related to Sean O'Sullivan — unconfirmed).
+
+**Next Tangible events confirmed (per the closing programme page):**
+Wild Card! — Mystery Location & The World, **24 Sept 2026**; Good
+Climate! — Sydney & The World, **22 Oct 2026**; Leadership Thames! —
+London & The World, **19 Nov 2026**. 2027 dates still to be advised.
+Ongoing series branded #tangible26 aka Tangible Leadership Series 2026.
+Donations via Tangible DONATE button on Facebook/Mailchimp/website.
+Thanks credited on the programme to Donagh McKeown, Adrian Rush
+(spelled "Adrian Rush" here, confirming the earlier Gmail-sourced
+correction), and Margaret Atalla and the Deebert House Hotel team.
+
 ### The 2026 Summer School — notes and network mapping (2 Sept, ongoing)
 John's own words: his handwritten daily notes from the Summer School are
 "a little bit all over the place, hard to make sense of." **Plan agreed:
