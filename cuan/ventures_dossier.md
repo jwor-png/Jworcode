@@ -1103,16 +1103,9 @@ over 6-12 months to find out whether there is a business at all.**
   Clones, Kilbeggan, Croom Lands (Co. Limerick — see below), Midleton
   (Co. Cork — see below). Also referenced as three "Hudson" / "Project H"
   sites (Jul-Aug 2020).
-- **Croom Lands detail:** A broader landholding position at Croom, Co.
-  Limerick, with a PCC site component that as of May 2026 had "no
-  status" per Ger — not yet formally secured/progressed. The HSE (via
-  Property Manager Sandra Sheehan) separately bought part of the lands
-  from Limerick County Council and, in May 2026, sought access to fence
-  off their section; John kept Ger looped in and confirmed no access
-  issue via the PCC site itself. John separately asked Ger "any movement
-  generally on the broader plans for the lands or discussions with the
-  HSE" (22 May 2026) — still open, unanswered as of that exchange.
-  [Source: Gmail, "Croom Lands" thread, 21-22 May 2026]
+- **Croom Lands — cross-reference only, now tracked as its own project
+  below** (John's explicit instruction, 2 Sept): see the standalone
+  "Croom Lands" entry after this Thomond/Ilex section.
 - **Croom Medical (adjacent, separate operator):** A private GP practice
   at Croom owned and run by Paddy Byrnes and his son Patrick Byrnes,
   beside the Croom soccer pitch and expanding as of March 2025. John
@@ -1180,8 +1173,62 @@ over 6-12 months to find out whether there is a business at all.**
   any live route back into it now JB/PHP have said no; (2) what, if
   anything, connects Axis Health Care Assets to any of these sites; (3)
   what "Leriathan" is and how it relates to THH/Ilex; (4) what the Katie
-  Duggan/Tusla contact was about and whether it ties to a specific site;
-  (5) broader Croom Lands position — any movement since May 2026.
+  Duggan/Tusla contact was about and whether it ties to a specific site.
+
+---
+
+## Croom Lands
+- **Status:** Active — recorded 2 Sept 2026, per John's explicit
+  instruction, as **his own project** (not simply a sub-item of the
+  Thomond/Ilex PCC portfolio, though it originated there and remains
+  connected to it).
+- **Revenue relevance:** Not yet determined — the PCC site component had
+  "no status" as of May 2026, not formally secured/progressed.
+- **Tracking:** Cuan only, with Ger Blake as the working contact.
+- **What it is:** A broader landholding position at Croom, Co. Limerick,
+  with a PCC site component connected to the Thomond/Ilex portfolio
+  above. The HSE (via Property Manager Sandra Sheehan, then via Sandra
+  Sheahan on the live Sept thread — same role, name spelling
+  inconsistent across sources, worth confirming which is correct)
+  separately bought part of the lands from Limerick County Council.
+- **May 2026:** HSE sought access to fence off their section; John kept
+  Ger looped in and confirmed no access issue via the PCC site itself.
+  John separately asked Ger "any movement generally on the broader plans
+  for the lands or discussions with the HSE" (22 May 2026) — unanswered
+  as of that exchange. [Source: Gmail, "Croom Lands" thread, 21-22 May
+  2026]
+- **Live thread, September 2026:** the HSE Croom site is now active
+  again — Sandra Sheahan (HSE) confirmed a site meeting on-site at 12pm,
+  contact "Fran" (086 2546036); John forwarded to Ger Blake and **Yuksel
+  Kangal** (yuksel@yukselkangal.com — new name, not previously logged,
+  role unconfirmed). Ger's reply (2 Sept): he'll send David and "the
+  appropriate professional" instead of John attending in person — "very
+  sensitive stage now with the HSE, we need to be careful." [Source:
+  Gmail, "HSE Croom site" thread, 1-2 Sept 2026]
+- **Separate, unresolved thread (early August):** John emailed Ger 6 Aug
+  referencing the Julianstown Old Mill planning decision (a touching-base
+  FYI, not Croom-specific) and received only Ger's **automatic
+  out-of-office reply** — Ger was away until 17 August. No substantive
+  reply from Ger has been found in Gmail since his return, and no other
+  correspondence between them exists until the September Croom Lands
+  thread above. **Worth John confirming directly with Ger whether that
+  6 August item was ever actually addressed** — it may have been handled
+  by phone/WhatsApp rather than email, or may still be genuinely
+  outstanding.
+- **Croom Medical (adjacent, separate operator):** A private GP practice
+  at Croom owned and run by Paddy Byrnes and his son Patrick Byrnes,
+  beside the Croom soccer pitch and expanding as of March 2025. John
+  personally helped broker their efforts with Limerick County Council to
+  acquire the LCC-owned soccer pitch grounds once the club relocates
+  across the road, and flagged Croom Medical's open roles to his son Owen
+  as a possible job lead (25 Mar 2025, cc'd Majella). **Not established
+  whether Croom Medical is formally part of this project or a separate
+  personal relationship** — flagged rather than assumed either way.
+  [Source: Gmail, "Croom Medical" thread, 25 Mar 2025]
+- **Open items:** (1) confirm Sandra Sheehan/Sheahan spelling; (2)
+  confirm who Yuksel Kangal is and their role; (3) confirm whether the
+  6 August item with Ger was ever resolved outside email; (4) any
+  movement generally on the broader plans for the lands since May 2026.
 
 ---
 

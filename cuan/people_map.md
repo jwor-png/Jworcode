@@ -22,7 +22,14 @@
   portfolio (see `ventures_dossier.md`), the MiDentalCare liquidation,
   and various property matters (Croom Lands, etc.).
 - **Cuan notes:** first point of contact for anything touching the PCC
-  portfolio, THH wind-down, or MiDentalCare liquidation.
+  portfolio, THH wind-down, or MiDentalCare liquidation. Croom Lands is
+  now tracked as its own project (2 Sept), separate from the wider
+  Thomond/Ilex portfolio, though Ger remains the working contact there.
+
+### Yuksel Kangal
+- **Role:** [ASK — unconfirmed]. Copied by John on the live HSE Croom
+  site thread alongside Ger Blake, 2 Sept 2026 (yuksel@yukselkangal.com).
+  Not previously logged anywhere in Cuan.
 
 ### Katie Duggan (Tusla)
 - Captured as a contact via Captio on 14 May 2021: "Katie Duggan,

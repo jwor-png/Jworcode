@@ -70,7 +70,14 @@ Manor** — raised, not yet progressed with Raymond Sexton.
 ⚪ **Thomond/Ilex — Midleton PCC** — funding stalled since PHP declined
 28 Apr, no movement since. Open questions for Ger Blake: Kendrick
 Properties link, Axis Health Care Assets connection, Leriathan, Tusla
-contact, Croom Lands. Dormant, not dead.
+contact. Dormant, not dead.
+🟡 **Croom Lands** — now tracked as its own project (John's instruction,
+2 Sept), not just a Thomond/Ilex sub-item. HSE site meeting live again
+this week (contact "Fran," 086 2546036); Ger Blake sending David +
+another professional rather than John attending — "sensitive stage."
+New name: Yuksel Kangal, role unconfirmed. Separate unresolved thread:
+a 6 Aug email to Ger got only his OOO auto-reply, nothing since —
+worth confirming with Ger directly whether it was ever addressed.
 ⚪ **AI Adoption in Ireland prospecting** — broader ~200-company prospect
 universe across AmbrionAI/Velocity AI/Meridian Intelligence (opened
 6 Aug). Narrowed toward specific companies/decisions (Studio Sixty Eight,
