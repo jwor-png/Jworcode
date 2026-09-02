@@ -5,7 +5,100 @@ its discipline until it is actually closed out — not until it is mentioned onc
 Reviewed by John every day or every second day. Cuan updates this file as work
 happens; nothing gets dropped silently.
 
-Last updated: 10 August 2026 (Gmail trawl + Sunday brain dump)
+Last updated: 2 September 2026 (morning brain dump, three-part)
+
+## Short-term action list — 2 September 2026 morning
+
+### Actioned this session
+- **AHL AGM logistics (Maria O'Flaherty):** already handled by John directly
+  this morning (10:15am) before this session — confirmed Green Isle Hotel
+  booking, 23 Sept, Board 9.30am/AGM 11.30am, 5 bedrooms. Maria confirmed
+  back 10:34am. Closed.
+- **Julianstown — updated balancing statement to John Lynch:** drafted (not
+  sent) in Gmail, replying to the 7 Aug thread. Balance confirmed at
+  €9,500 as at 6 Aug with no further payment since; draft applies the
+  requested pressure while acknowledging his WhatsApp message that he's
+  awaiting funds himself. **Note:** if a further monthly amount should be
+  added on top of the €9,500 for August/September, that needs confirming
+  before sending — didn't want to invent a figure.
+
+### Needs John's decision/input before Cuan can act
+- **D&O insurance (Hang Zhao, UHL/AHL, thread of 6 July):** the broker
+  raised whether to keep the current €500k Executive Risk Solutions limit
+  or increase it — John replied "I will review and revert" and never did.
+  This is the "director and officer insurance from a number of weeks ago"
+  item. Cuan can't decide the limit — needs John's call before a reply can
+  be drafted.
+- **Building insurance survey (Hang Zhao, 31 Aug):** separate, live thread
+  — insurance inspector needs confirmation of composite panel type used in
+  upper wall/roof construction (e.g. Kingspan) at Magna Drive. Needs a
+  factual answer from whoever holds that building spec — not something
+  Cuan can supply.
+- **Paul Candon — confirm D&O cover accurate for officers/directors:**
+  follow-up connects directly to the Hang Zhao D&O thread above — likely
+  makes more sense to resolve the limit question first, then follow up
+  with Paul in the same conversation rather than two separate threads.
+- **Ray Smith draft (AHL):** John asked for this "called up" to send this
+  morning — searched Gmail thoroughly, **no draft or thread involving Ray
+  Smith found.** This is the same Ray Smith referenced in the July/August
+  ChatGPT synopsis re: a prior AHL product-liability issue. If the draft
+  exists, it's likely in ChatGPT/Word, not Gmail — John to locate or
+  resend the content so Cuan can create the actual Gmail draft.
+- **AHL shareholders — AGM notification / Magna premises email:** John
+  wants an email out to shareholders who received the AGM notice, flagging
+  that the Magna premises will be discussed. No confirmed AHL shareholder
+  distribution list found in Gmail (the large list found in searches was
+  the general UHL member/stock-list, not confirmed as the AHL shareholder
+  list specifically) — needs John to confirm the correct list before
+  anything goes out to that many external recipients.
+- **AHL directors — rooms booked, meeting in the morning:** straightforward
+  once the Green Isle booking (above) is fully confirmed by Maria — ready
+  to draft once John gives the go-ahead / final numbers.
+- **AHL board minutes — Monday call (accounts approved):** needs John's
+  notes/recollection of what was covered and agreed on the call before
+  Cuan can draft minutes — Cuan wasn't on the call.
+- **ORS — follow up on fire cert inspection:** John emailed ORS directly
+  in August to arrange inspection (a couple of weeks out at the time) —
+  ORS's direct contact email wasn't found in this Gmail search. Needs
+  John to confirm ORS's email or forward the original correspondence so
+  Cuan can follow up directly.
+
+### Personal / Family — logged, no Gmail action needed
+- **Tairseach — investor runner:** John needs to speak to Shane directly;
+  Shane is looking for someone to run the investor process. Action is a
+  conversation, not something Cuan can progress by email. Cross-ref
+  `ventures_dossier.md` Tairseach section.
+- **Team order additions:** water pots (for the base of a pond), neutral
+  liquid shoe polish (hard to find in shops), Adare Manor pen refills —
+  medium nib (current ones write too thin). Personal shopping list only.
+- **Condolences — Mrs Laffan (rip.ie notice):** John wants to send
+  condolences; "lafanrip.ie" is almost certainly a dictation artefact for
+  a RIP.ie death notice for a Mrs Laffan, not an email address. Needs
+  John to confirm the actual notice/family contact details before Cuan
+  can draft anything.
+- **Jer / crew lens:** John mentioned emailing "Jer... on the crew lens" —
+  unclear reference, flagged rather than guessed. Needs clarification.
+- **Text to Georgia (Paul's wife):** condolences on the passing of her
+  father-in-law/Paul's brother a couple of months ago. This needs to go
+  by text, not email — Cuan has no SMS capability, so this is John's to
+  send directly. Logged so it isn't dropped.
+- **Fund transfer to Michael Nugent (MiDentalCare):** John needs to
+  transfer funds today in relation to MiDentalCare work, following
+  Candon's payment to him. Cuan cannot execute bank transfers — this is
+  John's action directly. (Note: Gmail shows a "Michael Nugent & Co"
+  solicitors thread on MiDentalCare/Boot Road matters — worth confirming
+  this is the same Michael Nugent before transferring, given the name was
+  given verbally as "Nudgeon.")
+- **"Own soup" — sell for an agreed sum:** genuinely unclear what this
+  refers to — possibly a mishearing of a name or asset. Flagged rather
+  than guessed; needs John to clarify what/who this is before it can be
+  actioned or logged properly.
+- **Blood tests / consultant follow-up:** Majella at GP getting bloods
+  done and checking on an appointment for John's own bloods; John also
+  needs to arrange his post-consultant checkup. Personal, logged only.
+
+Last updated: 10 August 2026 (Gmail trawl + Sunday brain dump) — see new
+2 September entry above for the latest.
 
 ---
 
