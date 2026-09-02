@@ -130,6 +130,36 @@
   `cuan/logs/intelligence-log.md` — this entry is a placeholder, not the
   full picture.
 
+### Raymond Sexton
+- **Role:** Founder, Tangible Ireland Group (see `ventures_dossier.md`).
+  raymond.sexton@tangible.ie, sextonpery@gmail.com, +61 406 850 709
+  (Australian number, based or dual).
+- **Cuan notes:** runs the Tangible Leadership Series and annual Summer
+  School in Kilmallock. Convenor, not a commercial counterparty. The 2027
+  Summer School/Ryder Cup timing ask is live with him — see ventures
+  dossier.
+
+### Hugh Sexton
+- **Role:** Tangible Ireland Group — second name on the organisation.
+  hugh.sexton@tangible.ie.
+
+### Clair Ducie
+- **Role:** Staff Officer, Office of the Mayor, Limerick City and County
+  Council. mayor@limerick.ie.
+- **Cuan notes:** gatekeeper for Mayoral attendance at Tangible events —
+  handled the 2026 Summer School invitation.
+
+### Brian Houston
+- **Role:** Musician, Belfast. Recurring Tangible Ireland guest, via
+  Raymond Sexton — "travelling troubadour."
+
+### Sheila Baily
+- **Role:** Philanthropy speaker, Tangible Ireland (via Zoom).
+
+### Martin Forrest
+- **Role:** Social innovation speaker, Tangible Ireland, via Raymond
+  Sexton.
+
 ### Padraic O'Maille
 - **Role:** Head of Smacht network — ~300 Irish SMEs
 - **Opportunity:** Key warm channel for Ambrion AI compliance offering and Meridian partner model
@@ -138,7 +168,14 @@
 ### Mairead O'Donnell
 - **Company:** Claochlu Consulting
 - **Structure:** Stays front-facing to her own clients; Velocity AI provides the AI toolkit architecture behind the scenes
-- **Cuan notes:** Never use the name "Transition Intelligence" in any document that could reach Mairead's clients.
+- **Cuan notes:** Never use the name "Transition Intelligence" in any document that could reach Mairead's clients. On the Tangible Ireland Group distribution list (see `ventures_dossier.md`) — one of several points of overlap between that network and John's existing venture contacts, worth mapping properly.
+
+### Colm O'Brien
+- **[ASK]** Referenced (2 Sept) as "already in the map" and on the
+  Tangible Ireland distribution, but no prior entry for this name exists
+  anywhere in this file — flagging the discrepancy rather than assuming
+  who this is. John to confirm identity/role before this entry can be
+  completed properly.
 
 ### Vinny Leonard
 - **Company:** Sales Process Advisors

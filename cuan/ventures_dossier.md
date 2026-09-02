@@ -643,6 +643,130 @@ document.
 
 ---
 
+## Tangible Ireland Group
+- **Status:** Active — 2026 Summer School held 18-20 Aug in Kilmallock,
+  John gave the Local Update slot (Thu 20 Aug, 10.15am, 10 minutes).
+  Outcome of the talk and whether the 2027 ask landed unknown as of
+  2 Sept — needs confirming.
+- **Revenue relevance:** Not revenue — relationship capital and local
+  standing. Sits below the Ambrion/Meridian stack commercially, but is a
+  channel into Limerick civic and business life nothing else in the
+  portfolio reaches. Treat as network infrastructure.
+- **Tracking:** Cuan only.
+- **What it is:** A leadership and networking community — monthly themed
+  virtual sessions (the Tangible Leadership Series, by Zoom, each themed
+  and anchored to a place) plus an annual Ambassador Summer School each
+  August in Kilmallock. John's ambition: a networking platform on that
+  rhythm.
+- **Founder and principal:** Raymond Sexton (raymond.sexton@tangible.ie,
+  sextonpery@gmail.com, +61 406 850 709 — Australian number). Also
+  active: Hugh Sexton (hugh.sexton@tangible.ie).
+- **Entity:** Tangible Ireland, Castle Business Centre, 4 Castle Street,
+  Dublin 2. tangible.ie. General info@tangible.ie, event
+  ambassador@tangible.ie. Mailchimp list plus a manual CC distribution of
+  roughly 100 names.
+- **Format:** Monthly by Zoom, sessions start 10pm Irish time to catch
+  Australia and North America. Standing Zoom room 811 087 6349. 2026
+  themes: Winds of Change (Howth, Jan), Melting Pot (Melbourne, Jan),
+  Pivoting (Belfast, Feb), Bards of Thomond (Limerick, Mar), Succession
+  (New York, Apr), Inner Strength (Crossmaglen, May), Positive Vibes
+  (Dunolly, Jun), Rapid Transit (SF Bay Area, Jul).
+- **2026 Summer School:** 18-20 Aug, Deebert House Hotel, Kilmallock.
+  Hybrid, ninth session of the year, not all sessions on Zoom. Raymond
+  closed with Reflections and Synthesis at 12.30.
+- **John's role:** Local anchor and ambassador for Kilmallock and
+  Environs.
+- **Reach:** Genuinely global — Ireland, Australia, North America, UK.
+  Distribution includes the Office of the Mayor of Limerick, Department
+  of Foreign Affairs, Western Development Commission, and Global Irish,
+  alongside a wide commercial/community spread. Mairead O'Donnell, Colm
+  O'Brien (both already in `people_map.md`), and Shane McCarthy's
+  marketing address are all on the distribution — overlap between the
+  Tangible network and the existing venture network is significant and
+  worth mapping properly.
+- **The 2027 hook — the single most exploitable piece of local timing:**
+  the 2027 Summer School in Kilmallock would fall roughly four weeks
+  before the **Ryder Cup at Adare Manor (13-19 Sept 2027, 30 minutes from
+  Kilmallock — €58m state investment, ~€160m projected return, ~1,450
+  jobs)**. Put to the room as an open ask; not yet progressed with
+  Raymond.
+- **Local intelligence gathered (Kilmallock/south Limerick), retained
+  independently of the talk:**
+  - **Housing:** three live schemes, 101 units in the planning system —
+    Ash Hill (42 units, off Charleville Rd), Glenfield (28 homes,
+    conditional permission restricting sale to individual purchasers,
+    excluding corporate entities), a third 31-dwelling scheme validated
+    30 April 2026 (road not identified). Cappamore Kilmallock district
+    social housing target was 251 units by end 2026, pipeline reported
+    at 123.65% as of Nov 2024. Vienna Housing Model flagged as a 2026
+    priority but stalled at Department level as of Jan 2026.
+  - **Heritage:** Merchant's House, Sarsfield Street (built 1570s) —
+    €886,200 allocated from a €1.2m Rural Regeneration and Development
+    Fund award (Minister Dara Calleary). Design team: Louise Cotter
+    (Cotter and Naessens) with a Grade I conservation architect, PUNCH,
+    Delap and Waller (engineers), Tom McNamara and Partners (QS). Target:
+    shovel ready, multi-functional enterprise/community space.
+  - **Enterprise/infrastructure:** Kilmallock Business Park, Ardyoul —
+    applications for an engineering warehouse and a retail warehouse;
+    Limerick Fire Service Training Centre proposed for the same park via
+    Part 8. Charleville Road footpath/lighting identified for active
+    travel funding but not funded — district allocation tight. Railway
+    bridge works ongoing (updates sought July 2026). County-wide: five
+    infrastructure projects announced June 2026 unlocking land for
+    10,784 homes, mostly city-side (Mungret, Colbert Quarter).
+  - **JP McManus / Martinstown:** resides four miles from Kilmallock,
+    owns Adare Manor (purchased 2015, Fazio redesign 2017). Champion
+    National Hunt owner for the sixth consecutive year (May 2026), 23rd
+    of his career. Application lodged by Noreen McManus for ~336 solar
+    panels at Martinstown Stud, decision due 27 Aug 2026.
+- **Governance note (verification caught by John, not at source):** a
+  first-draft claim conflated a reported €2.5m Liam Ryan SuperValu
+  redevelopment with an unrelated, earlier ACP Group conservation project
+  (three medieval arches, archaeology by Frank Coyne of Aegis
+  Archaeology) from a previous store rebuild. Corrected in both
+  deliverables — the €2.5m figure is now carried as "understood to be"
+  since neither source page could be opened directly and the publication
+  date couldn't be confirmed; the arch conservation is stated separately
+  as an earlier project. Pattern worth remembering: a construction firm's
+  projects page describes completed work, and legacy URL formats on
+  local news sites signal old stories — both should trigger a date check
+  before a claim is used.
+- **Work produced:** `tangible/2026-summer-school-local-update.md` (full
+  10-minute talk script, ~1,450 words, source table + flagged items),
+  `tangible/lectern-card.html` (print-ready A4 lectern card, published
+  privately at
+  https://claude.ai/code/artifact/f24c8325-cfea-42b1-925b-5dfa44d6972b),
+  `tangible/cuan-session-record.md`.
+- **Open loops:** promotion push (LinkedIn/Facebook/email/local texts) —
+  not started, overtaken by talk prep; new petrol station/forecourt —
+  could not be verified in planning records or local media, excluded
+  from the talk, needs operator/site name from John; road location of
+  the 31-dwelling scheme — unconfirmed; outcome of the Local Update and
+  whether the 2027 ask was picked up — unknown; 2027 Summer School
+  positioning against the Ryder Cup — raised, not progressed.
+- **People to add** (see also `people_map.md`): Clair Ducie (Staff
+  Officer, Office of the Mayor, Limerick — mayor@limerick.ie, gatekeeper
+  for Mayoral attendance, handled the Summer School invitation), Brian
+  Houston (musician, Belfast, recurring Tangible guest via Raymond),
+  Sheila Baily (philanthropy speaker, "Dundalk to the Dorchester"),
+  Martin Forrest (social innovation, "Finding Forrester and Yourself").
+- **Recommended next actions:** (1) confirm whether the talk was
+  delivered and how the 2027 ask landed — everything downstream depends
+  on this; (2) if it landed, open the 2027 conversation with Raymond
+  while warm — four weeks before the Ryder Cup is a positioning asset
+  with a shelf life; (3) supply the petrol station detail; (4) decide
+  whether Tangible warrants a standing entry in the venture review
+  rhythm or stays as background relationship capital.
+- **Filing note:** the source session record is dated 2 Sept but the
+  material was prepared for 18-20 Aug — date discrepancy needs
+  reconciling, flagged rather than resolved by assumption.
+- **Gates:** nothing in this work triggered the Shane alignment gate — no
+  commercial/technical commitment made or proposed. All external claims
+  source-tagged in the talk file. Nothing sent, published externally, or
+  circulated on John's behalf.
+
+---
+
 ## Legacy Financial Matters
 - **Status:** Open — resolution is a top-3 personal priority
 - **Revenue relevance:** Not revenue (personal).

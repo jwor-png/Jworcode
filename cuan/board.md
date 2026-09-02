@@ -44,6 +44,10 @@ Priority: apply to Skillnets Ireland as approved training provider
 action for the whole list. John to mark warm contacts on the 50; recover
 "idea 1" content from Shane's original six programme concepts (not yet
 found in repo).
+⚪ **Tangible Ireland Group** — Kilmallock/Limerick relationship capital,
+not revenue. 2026 Summer School talk given 20 Aug, outcome unknown.
+**2027 hook: Summer School falls ~4 weeks before the Ryder Cup at Adare
+Manor** — raised, not yet progressed with Raymond Sexton.
 ⚪ **Thomond/Ilex — Midleton PCC** — funding stalled since PHP declined
 28 Apr, no movement since. Open questions for Ger Blake: Kendrick
 Properties link, Axis Health Care Assets connection, Leriathan, Tusla
