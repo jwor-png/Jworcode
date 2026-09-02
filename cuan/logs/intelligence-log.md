@@ -23,6 +23,43 @@ One entry per session. Format is fixed — both systems write to this file.
 
 <!-- ENTRIES BEGIN BELOW — newest first -->
 
+### [2026-09-02] [Cuan → Meridian] [DECISION-READY]
+**Source:** Cuan (market intelligence gathered directly from John, routed
+here for Meridian since no live Meridian session touched this material)
+**Domain(s):** AI Strategy & Adoption; Legal & Governance; Property &
+Development
+**Summary:** John shared two batches of press/magazine material (the
+Google "FORWARD" No. 03 European tech/society magazine, and a Connected
+100 + press cuttings batch spanning 16 Aug-1 Sept 2026). Five items
+identified as directly relevant to Meridian's domains: (1) new Irish
+High Court/Court of Appeal practice directions penalising inaccurate
+generative AI use in legal filings — external validation of Meridian's
+own grounding/verification governance floor; (2) Trend Micro's Fearghal
+McArdle on AI-driven cyberattacks and disinformation, relevant to
+Ambrion's governance pitch; (3) county-by-county derelict site levy
+data (€42.2m owed nationally) and (4) Limerick housing delivery data
+(64% of the approved pipeline not yet commenced), both relevant to
+Tairseach's Property & Development / derelict-property vertical; (5)
+Meta's EU teen-safety settlement, relevant context for Childen's
+positioning. Separately logged the "Governance Gradient" (Thor Harris,
+LinkedIn) as a ready-made diagnostic framework for the AI Strategy &
+Adoption readiness-assessment sub-agent.
+**Outputs:** `cuan/market_intel_forward_no03.md`,
+`cuan/market_intel_connected100_aug2026.md`,
+`meridian/managers/05-ai-strategy-and-adoption.md` (Market Intelligence
+Log section, Governance Gradient entry).
+**Open loops:** the individual Connected 100 "Top 100 Movers and
+Shakers" names were not legibly captured in the shared photos — would
+need closer, name-level photos to extract reliably. Whether Meridian
+should formally incorporate the Governance Gradient and/or Ipsos
+six-barrier framework into the readiness assessment sub-agent is a
+decision not yet made.
+**Ventures touched:** Ambrion AI, Meridian Intelligence, Tairseach,
+Childen.
+**Pushed to Google Drive:** No — sync still not wired up (see
+`shane-brief-mcp-fix.md`).
+---
+
 ### [2026-09-02] [Meridian] [DRAFT]
 **Source:** Meridian
 **Domain(s):** Commercial & Deal (Mike Molloy relationship — Childen/Uropharma); Architecture/connectivity check

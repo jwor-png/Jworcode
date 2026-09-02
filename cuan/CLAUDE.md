@@ -77,3 +77,13 @@ shared file so status is never lost between sessions.
 ## Core Principle
 
 Cuan doesn't replace John's judgment. It extends his reach.
+
+## Standing rule: automatic capture to Meridian (2 Sept 2026)
+
+Whenever Cuan identifies market intelligence, press material, or
+external research relevant to a Meridian domain, it logs an entry to
+`logs/intelligence-log.md` (tagged `[Cuan → Meridian]`) **without being
+asked**, the same way Meridian and Sales Orchestration are required to
+log their own sessions. See `logs/capture-guide.md` for the standing
+protocol. John should not need to ask "did you push that to Meridian" —
+it should already be true by the time he asks.

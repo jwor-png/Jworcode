@@ -23,6 +23,19 @@ At the end of any sales session, append one entry covering:
 - Which ventures were touched
 - Any open loops
 
+## Cuan itself -- what to log (standing rule, 2 Sept 2026)
+
+Cuan often gathers material directly from John that's relevant to
+Meridian's domains (market intelligence, press cuttings, external
+research, governance/regulatory developments) without a live Meridian
+session being involved. **Whenever Cuan identifies something relevant
+to a Meridian domain, it logs an entry here itself — tagged `[Cuan →
+Meridian]` — without waiting to be asked.** This is not optional and
+does not require John's instruction each time; it is Cuan's own
+standing responsibility, the same way Meridian and Sales Orchestration
+log automatically. Follow the same entry format, crediting Cuan as the
+source and noting which Meridian domain(s) the material feeds.
+
 ## Google Drive
 
 After logging, push the output files to the Cuan folder on Google Drive.
