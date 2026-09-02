@@ -650,6 +650,42 @@ are flagged for confirmation, never guessed.
       the original 31 August target. Needs chasing — worth a direct
       follow-up given how much now depends on this closing actually
       happening once (if) the appeal resolves in the site's favour.
+    - **New batch, dictated 2 Sept — not yet actioned:**
+      - **Pay [ASK — heard as "consurgent," most likely Michael Nugent
+        again]:** matches the priority item already logged earlier this
+        session ("pay Michael Nugent from the PTSB account for
+        MiDentalCare fees") — treating as the same outstanding action,
+        not a new one, unless John says otherwise.
+      - **Advise John Lynch and [ASK — heard as "Michael Durkin," not
+        previously logged on this matter] on the [ASK — heard as
+        "bishop position," most likely a mishearing of "sale position"
+        or "current position"] for Julianstown Old Mill.** Michael
+        Durkin/Durkan — possibly the same "Michael Durkan Sr" already
+        logged as a Meridian test contact in
+        `chatgpt_synopsis_jul_aug_2026.md`, but that's a different
+        context (Meridian prospecting, not Julianstown) — flagging
+        rather than assuming it's the same person.
+      - **Check whether any third-party appeals exist beyond Fred
+        Logue's** — the 31 Aug deadline for appeals has passed, and the
+        design team said they'd update if others emerged (already
+        logged above) — this is a follow-up check on that, not new
+        information.
+      - **Update [ASK — heard as "Chan Kilgan, the center," name and
+        role unconfirmed]** that Fred Logue has appealed.
+      - **Suggestion: meet with [ASK — heard as "medical council,"
+        almost certainly a mishearing of Meath County Council (MCC),
+        who granted the original permission] and ask them to make a
+        submission against Logue's appeal** — MCC already has a stated
+        interest in the grant standing, so this reads as plausible if
+        the name is MCC; flagging rather than assuming to avoid
+        approaching the wrong body.
+      - **Send the Ray Smyth email, in John's capacity as AHL
+        Chairman** — this is the reply already logged as drafted in
+        `ventures_dossier.md` (AHL Plc, Smyths of Killucan claim), which
+        was explicitly contingent on John speaking to Emmet Cooney
+        first about the index-linking assurance question. No record of
+        that conversation having happened yet — worth confirming it
+        took place before treating the email as ready to go.
 - **Ambrion AI — UHL training programme schedule correction (dictated 10
   August):** the session planned for 14 August is NOT happening as
   previously understood. Corrected schedule: 25 August is now Programme
