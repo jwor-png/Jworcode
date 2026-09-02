@@ -15,6 +15,58 @@ archive for those ventures plus everything not a revenue stream (Bantry,
 MiDentalCare, legacy financial matters, Tairseach, Smacht, LinkedIn content).
 Cuan reads both files in full — nothing here has been deleted or superseded.
 
+## ODIN / Codex
+
+- **Status:** DRAFT — new session opened 2 Sept 2026, John deferred
+  further work until the following morning. Ready to proceed on
+  direction once he gives it.
+- **Revenue relevance:** Revenue stream (the Big Bet — see `board.md`,
+  awaiting the formal investment offer already logged there).
+- **Tracking:** Cuan + Meridian (AI Equity & Investment — frontier
+  caveat tier).
+- **What ODIN is (per Shane's Investor Memorandum, 22 pages, prepared by
+  Shane McCarthy):** described as **not aspirational — Shane's
+  already-built living organism.** 2,000+ systems, 96% interconnected in
+  one mesh, 7 live commercial model types currently running. Spine
+  architecture: Governance (228 systems), AI Systems (125), Media &
+  Journalism (113), Autonomy & Monetisation (108), Engines (100),
+  Infrastructure (82), Property/Real Estate (78). 56% of systems run at
+  top autonomy tiers, 75% at deployment-adjacent layers. Value
+  proposition framed as the organism compounding through compounding,
+  mutation, and spawning.
+- **Business model:** intent down, defensible IP up, proven, then
+  acquired — the Studio (John/Shane) runs the ODIN organism and routes
+  IP to buyers; the return path is acquisition of hardened, proven
+  assets. Consistent with the Asterial Limited structure already logged
+  below (Asterial captures Shane's personal ODIN IP to his benefit).
+- **Codex — the new build:** a Codex Engineering Specification was
+  produced this session (85 sections, ~12,000 words) — described as a
+  complete product constitution for a **Strategic Opportunity
+  Intelligence System**. Non-negotiable principles: intelligence before
+  automation, human authority, evidence before confidence. 14-phase
+  build sequence from architecture foundation to a "world-class product."
+  Multi-environment, multi-user foundation with workspace isolation.
+  Emphasis on epistemic integrity, verification independence, strategic
+  memory, and relationship intelligence.
+- **Outstanding clarifications needed before Codex proceeds:**
+  1. Build scope — is Codex a personal tool for John, a customer-facing
+     product, or an internal ODIN interface? Not yet decided.
+  2. Timeline and team structure — has Shane's involvement in
+     architecture review been confirmed?
+  3. Immediate entry point — start Phase 0 architecture directly, or
+     validate the whole approach with Shane first?
+  4. Whether Codex sits on top of ODIN's existing API, or runs
+     independently of it.
+- **Filing note:** the session that produced this asked for it to also
+  be logged in `ai_upskilling.md` — **that file doesn't exist anywhere in
+  this repo.** Flagging rather than guessing at creating one under an
+  assumed structure; John or Shane to confirm whether it's meant to be a
+  new file, or whether this belongs in an existing file under a
+  different name (e.g. `revenue_streams.md`'s Golden Generation
+  upskilling content, which already exists).
+
+---
+
 ## Asterial Limited
 
 Confirmed as an **actual incorporated Irish company**, not just the
