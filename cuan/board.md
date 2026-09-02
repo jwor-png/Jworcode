@@ -34,8 +34,19 @@ minority stake. Not currently moving. Website build is in its own session —
 needs a status pulled from there.
 🟡 **Tairseach** — property-specific organism descended from ODIN; funding
 conversations bundled with ODIN's above.
-🟡 **Children (Institutional Architecture)** — separate from the ODIN IP
-estate; status not currently logged here, needs an update from John.
+🟡 **Childen (Institutional Architecture)** — correction, 2 Sept: was
+mistranscribed here as "Children." Same "Childen" already logged under
+Mike Molloy in `people_map.md` — separate from the ODIN IP estate.
+**Live thread (2 Sept):** John working via WeChat, sent forward to Mike,
+Lloyd, and Andrew Sharkey, routing to the Vatican via Archbishop Eamon
+Martin. Mike's goal: getting Childen and Uropharma onto a world stage —
+political, diplomatic, business and funding support, combining a
+Vatican network with EU/British/American contacts. Coincidentally (or
+not), Archbishop Martin is also the keynote speaker at the 29 Sept
+Pope Leo AI encyclical conference John just accepted an invite to — not
+yet established whether these are the same relationship thread or two
+separate ones. Full detail still thin — needs John to define what
+Childen actually is, and who Lloyd is (not yet in `people_map.md`).
 ⚪ **Other tech-for-sale/investment candidates** — flagged as existing but
 not yet itemised; John to name them so they can be tracked individually.
 🟢 **Asterial Limited** — the vehicle capturing Shane's personal ODIN IP

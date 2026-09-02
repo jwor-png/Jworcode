@@ -159,10 +159,38 @@
   network with EU, British and American contacts. Reacted positively to
   John's analysis and is open to defining what he wants from the
   arrangement.
+- **Live thread, confirmed 2 Sept:** this is also the same "Children
+  (Institutional Architecture)" line on `board.md` — corrected there to
+  Childen. John is working the Childen relationship via WeChat, sent
+  forward to Mike, **Lloyd** [ASK — surname/role unconfirmed, new name],
+  and Andrew Sharkey, routing toward the Vatican via **Archbishop Eamon
+  Martin.** Coincidentally, Archbishop Martin is also keynote speaker at
+  the 29 Sept Pope Leo AI encyclical conference John just accepted an
+  invite to (see the Crysta Gunn/Irish Catholic Bishops' Conference
+  thread) — not yet established whether that's the same relationship
+  thread or a separate coincidence.
 - **Open action:** the correct Meridian thread that actually holds the
   Mike Molloy relationship history needs to log it properly to
   `cuan/logs/intelligence-log.md` — this entry is a placeholder, not the
-  full picture.
+  full picture. John to define what Childen actually is, and confirm
+  who Lloyd is.
+
+### Andrew Sharkey
+- **Role:** Recurring contact across multiple threads, no single entry
+  until now despite appearing repeatedly. Described as a mutual friend
+  and mentor to Kevin Carr (`operating_creed.md`).
+- **Threads he appears in:** (1) Kevin Carr proposal — Shane sent it to
+  Andrew for review before Kevin sees it directly; (2) Barber Republic —
+  his retired-investor group considered as a funding route (one £50k
+  investor, or ~3 at £17k each — see `ventures_dossier.md`); (3) Childen
+  (Institutional Architecture) — John working this via WeChat, sent
+  forward to Mike Molloy, Lloyd, and Andrew, routing toward the Vatican
+  via Archbishop Eamon Martin.
+- **Cuan notes:** worth confirming this is the same Andrew Sharkey across
+  all three threads rather than assuming — the name recurs but the
+  contexts (investor group, Vatican-adjacent relationship work, a
+  personal mentorship) are different enough to warrant a check rather
+  than treating it as obviously one relationship.
 
 ### Raymond Sexton
 - **Role:** Founder, Tangible Ireland Group (see `ventures_dossier.md`).
