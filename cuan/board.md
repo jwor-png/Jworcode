@@ -67,6 +67,13 @@ this relationship anywhere in Cuan before now. WhatsApp shared in the
 wrong thread. Needs the correct Meridian thread to log the full history
 to `cuan/logs/intelligence-log.md`.
 
+🔴 **Meridian website + email launch** — site built (branch
+`claude/meridian-new-website-s043eq`), unhosted. Google Workspace stalled
+since 1 July payment failure. Both touch the same domain's DNS — sequenced
+plan now in `meridian_website_brief.md`: recover admin account → fix
+payment → decide hosting → one coordinated DNS change. Needs John's
+sign-off on hosting choice and the DNS change window.
+
 ## Waiting on John (across separate sessions — ask each for a fresh status)
 
 AHL Plc profile · Kilmallock Water lane decision · Meridian 2 LinkedIn changes

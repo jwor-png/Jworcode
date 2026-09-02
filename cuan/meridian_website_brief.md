@@ -4,7 +4,11 @@ Shared brief between **Cuan** and the dedicated **Meridian Website** chat thread
 Cuan holds this in full; the website thread reads it, builds against it, and
 writes decisions back here so nothing is lost between sessions.
 
-Status: initial prototype built 1 August 2026. Awaiting real logo/branding.
+Status: full site built on branch `claude/meridian-new-website-s043eq`
+(2 Sept 2026) — matches the design below, circuit-M logo added to nav/
+favicon (low-res, phone screenshot source, fine for small use only).
+**Not deployed anywhere. No hosting or domain decision made.** See
+"Launch sequencing" below — this is the current blocker, not branding.
 
 ---
 
@@ -121,6 +125,58 @@ Domains" consistently on the website and in any new client-facing material.
 externally.
 
 ---
+
+## Launch sequencing — website + Google Workspace email, same domain (2 Sept 2026)
+
+Both the site launch and the Google Workspace switch-over touch DNS on
+**meridianintelligence.ie** (registered with Hosting Ireland, currently
+pointed entirely at Hosting Ireland — mail and hosting, no Google records
+present). They must be sequenced together or one breaks the other.
+
+**Current state:**
+- Google Workspace Business Starter trial started 11 June under admin
+  `jwor@meridianintelligence.ie`, converted to paid ~25 June, hit a
+  **payment failure 1 July never confirmed resolved.**
+- Niamh tried to help set it up but got redirected into Google's "new
+  signup" flow — she isn't signed in as the actual admin account.
+- Separate, unrelated: a Hosting Ireland invoice (€14.70, "Cloud Lite
+  Plus") for the existing hosting package is due 11 August.
+
+**Recommended sequence — do not run these two workstreams in parallel:**
+1. **Recover access to `jwor@meridianintelligence.ie`** — password reset,
+   most likely via John's Gmail as the recovery address. Nothing else can
+   proceed until this account is actually accessible.
+2. **Fix the failed payment method** on the Workspace subscription once
+   logged in, and add Shane as the second user.
+3. **Decide where the website will actually be hosted** before touching
+   any DNS — the site currently exists only in the GitHub repo, unhosted.
+   Needs a hosting decision (e.g. Vercel/Netlify/Hosting Ireland itself)
+   before step 4 can be planned concretely.
+4. **Update DNS at Hosting Ireland once, as a single coordinated change**
+   covering: MX/SPF/DKIM records pointed at Google (for mail), and
+   whatever A/CNAME records the chosen host needs for the site (root
+   domain and/or a subdomain — e.g. does the site sit on the root domain
+   or on `www`, and does that clash with where mail expects to land).
+   Doing mail and site DNS changes separately, on different days, is what
+   risks one breaking the other — same change window, reviewed together.
+5. **Pay the outstanding Hosting Ireland invoice (€14.70, due 11 Aug)**
+   regardless of the above — it's for the existing hosting package and
+   unrelated to the Workspace/DNS decision, no reason to let it lapse.
+
+**Needs John's sign-off before anything is actioned:**
+- Confirming `jwor@meridianintelligence.ie` recovery goes to his Gmail
+  (verify that's still the correct recovery address before relying on it).
+- The actual hosting choice for the site (step 3) — this is a real
+  decision, not just a technical default.
+- Final go-ahead on the single DNS change window (step 4), since a
+  mistake here risks live email going down, not just the website.
+
+**Not yet resolved — flagged rather than assumed:**
+- Whether the site should sit on the root domain or a subdomain relative
+  to where mail needs to route — depends on the hosting choice in step 3.
+- No original high-resolution Meridian logo file exists yet — the
+  low-res phone-screenshot version in the site nav/favicon is fine for
+  now but will need replacing before any serious print/large-format use.
 
 ## Open decisions for John
 
