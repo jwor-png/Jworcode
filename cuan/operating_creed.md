@@ -634,6 +634,22 @@ are flagged for confirmation, never guessed.
       — name unconfirmed, flagging rather than guessing; could be a
       mishearing of an existing contact already logged on this matter
       (e.g. John Lynch). John to confirm who this actually refers to.
+    - **RESOLVED, 2 Sept — "John Smith" was John Lynch all along**,
+      confirmed via Gmail: the balancing statement thread (6 Aug, balance
+      €9,500) is with johnpalynch@gmail.com. Same person as the earlier
+      confirmed "John Smith" flag — no separate contact exists.
+    - **Sale completion now explicitly pending the appeal outcome (2
+      Sept)** — the site sale to John Lynch cannot complete until An
+      Bord Pleanála rules on the Fred Logue appeal (due 23 Sept, though
+      appeals routinely run past their stated deadline). This is the
+      mechanism behind the payment delays already logged above — not
+      just John's fees being delayed, but the underlying sale itself.
+    - **Glynn's Solicitors — unresponsive on closing prep (2 Sept).**
+      Handling the conveyancing/closing side of the sale; have gone quiet
+      despite the appeal now extending the timeline significantly past
+      the original 31 August target. Needs chasing — worth a direct
+      follow-up given how much now depends on this closing actually
+      happening once (if) the appeal resolves in the site's favour.
 - **Ambrion AI — UHL training programme schedule correction (dictated 10
   August):** the session planned for 14 August is NOT happening as
   previously understood. Corrected schedule: 25 August is now Programme
