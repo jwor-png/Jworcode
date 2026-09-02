@@ -88,6 +88,26 @@
   loan for BarberBarber's first £15,000 payment to Velocity — so is aware
   of the Barber Republic commercial arrangement. Surname not yet known.
 
+### Mike Molloy
+- **Status:** flagged gap, 2 Sept 2026 — **no prior history held anywhere
+  in Cuan.** A WhatsApp exchange was shared in the wrong thread, so only a
+  thin read exists so far.
+- **What's known:** connected to "Childen" and Uropharma (spelling per the
+  WhatsApp image — possibly the same UroPharma logged as a separate
+  investment-review thread in `chatgpt_synopsis_jul_aug_2026.md`, ~£3.5m
+  raised/~£500k sought — not confirmed as the same entity, worth checking
+  rather than assuming). His goal: getting Childen and Uropharma onto a
+  world stage — political, diplomatic, business and funding support,
+  building on existing work. Driven by a passion for peace and
+  geopolitical strategy, connected to his Aunt Mary. Combines a Vatican
+  network with EU, British and American contacts. Reacted positively to
+  John's analysis and is open to defining what he wants from the
+  arrangement.
+- **Open action:** the correct Meridian thread that actually holds the
+  Mike Molloy relationship history needs to log it properly to
+  `cuan/logs/intelligence-log.md` — this entry is a placeholder, not the
+  full picture.
+
 ### Padraic O'Maille
 - **Role:** Head of Smacht network — ~300 Irish SMEs
 - **Opportunity:** Key warm channel for Ambrion AI compliance offering and Meridian partner model

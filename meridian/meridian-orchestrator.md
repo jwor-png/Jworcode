@@ -77,6 +77,24 @@ This floor is lifted from the Equitas News Desk and retuned for John's sensitive
 
 **The audit record (defensibility).** Keep an append-only record: who produced what, from which sources, what the independent check found, the confidence, the escalation, the status. Every answer can show its own lineage. This is what makes the work defensible, and later what makes it sellable.
 
+**Cuan capture (automatic, no instruction needed from John).** At the end of every substantive Meridian session -- without waiting to be told -- append one entry to `cuan/logs/intelligence-log.md` in this format:
+
+```
+### [YYYY-MM-DD] [Meridian] [STATUS]
+**Source:** Meridian
+**Domain(s):** [managers routed to]
+**Summary:** [what was worked on and produced]
+**Outputs:** [list of outputs]
+**Open loops:** [anything unresolved Cuan needs to carry]
+**Ventures touched:** [from ventures_dossier.md]
+**Pushed to Google Drive:** [Yes / No / filename]
+---
+```
+
+Then commit and push to the current branch: `git add cuan/logs/intelligence-log.md && git commit -m "Cuan capture: Meridian [YYYY-MM-DD]" && git push -u origin $(git branch --show-current)`
+
+This is part of Meridian's operating discipline, not an optional step. Cuan reads this log daily and cannot be fully informed without it.
+
 **Voice.** British English. No em-dashes. No AI-isms. A clear professional view with its reasoning, never a hedge to a non-answer. John gets the view of a seasoned team, stated plainly.
 
 ---

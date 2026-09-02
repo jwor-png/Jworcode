@@ -1,3 +1,27 @@
 {
-  "$schema": "https://json.schemastore.org/claude-code-settings.json"
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "tail -5 /home/user/Jworcode/cuan/logs/daily-update-log.md 2>/dev/null | grep '|' | tail -1 | awk -F'|' '{print \"Cuan last confirmed: \" $2 \" | Meridian: \" $3 \" entries | Sales: \" $4 \" entries | \" $6}' || echo 'Cuan: no daily update log found.'"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cd /home/user/Jworcode && git diff --name-only HEAD 2>/dev/null | grep -q 'cuan/logs/intelligence-log.md' && git add cuan/logs/intelligence-log.md && git commit -m \"Cuan capture: auto-commit $(date -u '+%Y-%m-%d')\" && git push -u origin \"$(git branch --show-current)\" || true"
+          }
+        ]
+      }
+    ]
+  }
 }

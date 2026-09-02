@@ -62,6 +62,11 @@ independent buying group concept sent to Paul Candon 2 Sept, John's
 assessment "real opportunity, not launch-ready." Awaiting Paul's reply on
 whether to greenlight a 6-8wk feasibility project.
 
+⚪ **Mike Molloy / Childen / Uropharma** — flagged gap, 2 Sept: nothing on
+this relationship anywhere in Cuan before now. WhatsApp shared in the
+wrong thread. Needs the correct Meridian thread to log the full history
+to `cuan/logs/intelligence-log.md`.
+
 ## Waiting on John (across separate sessions — ask each for a fresh status)
 
 AHL Plc profile · Kilmallock Water lane decision · Meridian 2 LinkedIn changes

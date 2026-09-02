@@ -73,6 +73,28 @@ Once private mode is confirmed, Cuan operates with full access to all knowledge 
 
 ---
 
+## Sales Orchestration -- Automatic Cuan Capture
+
+Sales Orchestration logs to Cuan automatically at the end of every substantive session. John does not instruct this.
+
+At session end, append one entry to `cuan/logs/intelligence-log.md`:
+
+```
+### [YYYY-MM-DD] [Sales Orchestration] [STATUS]
+**Source:** Sales Orchestration
+**Domain(s):** [channel / prospect / campaign this related to]
+**Summary:** [what was worked on and produced]
+**Outputs:** [outreach, pipeline update, proposal, brief -- list each]
+**Open loops:** [anything unresolved Cuan needs to carry]
+**Ventures touched:** [from ventures_dossier.md]
+**Pushed to Google Drive:** [Yes / No / filename]
+---
+```
+
+Then the Stop hook commits and pushes automatically. No further action needed.
+
+---
+
 ## Your Eight Life Managers (Tier 2)
 
 | Manager | Domain |
