@@ -144,3 +144,31 @@ at in his own time, not a task with a deadline.
   can go wrong." — **Reinforcement.** Sits with the existing "hope grounded
   in action" and "resilience and rebuilding" themes — echoes 23 Aug ("once
   you choose hope") and 17 Aug (Rowling, rebuilding from rock bottom).
+- **29 Aug — June Curtin/Snámhaí Sásta:** "Nothing in this world that's
+  worth having comes easy." — **Reinforcement.** Same author's voice
+  recurring through this calendar (15, 22, 23, 24 Aug already logged) —
+  a plain, effort-over-ease framing that sits well against the AHL audit
+  slog and the ODIN wait, both genuinely hard rather than smooth.
+- **30 Aug — Unknown/Snámhaí Sásta:** "There comes a day when you realise
+  turning the page is the best feeling in the world, because you realise
+  there's so much more to the book than the page that you were stuck
+  on." — **New insight.** A direct counter to being stuck on any one
+  page — worth holding against whichever single item (AHL audit,
+  Julianstown appeal, Kilmallock Water reality check) feels like it's
+  currently the whole book rather than one page of it.
+- **1 Sept — Elizabeth Gilbert:** "You need to learn how to select your
+  thoughts just the same way you select your clothes every day. This is
+  a power you can cultivate. If you want to control things in your life
+  so bad, work on the mind. That's the only thing you should be trying
+  to control." — **New insight / Action.** A genuinely different register
+  from the rest of this calendar — not encouragement but a practice:
+  thought-selection as a daily, deliberate act, not something that
+  happens to you. Worth testing directly against the "matters vs. merely
+  occupies my mind" filter already logged above — this quote gives that
+  filter an actual mechanism (select, don't just notice).
+- **2 Sept — June Curtin/Snámhaí Sásta:** "You will never get this day
+  again. Make it count." — **Reinforcement.** Plain urgency line, same
+  author as 29 Aug and the earlier-logged entries — lands on the day of
+  the AHL "three things to move on first" and the Childen Vatican
+  progress, both genuinely once-off, time-sensitive days rather than
+  routine ones.
