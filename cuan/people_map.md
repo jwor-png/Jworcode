@@ -9,6 +9,11 @@
 - **The rule:** No technical or commercial commitment proceeds without Shane's alignment. This is absolute.
 - **Dynamic:** John is commercial/governance/relationships. Shane is technical/execution. The combination is stronger than either individually.
 - **Cuan notes:** Surface Shane on anything technical. Copy or loop in for any proposal that has commercial binding. Keep his name off external Barber Republic documents.
+- **3 Sept 2026 — speaking engagement.** Standing in for **Glen Mulcahy**
+  (unable to attend owing to family illness) at **NomadÉire Fest Week
+  2026**, Merits Coworking & Innovation Hub, Naas, Co. Kildare, 5pm
+  today. Topic: **"Hidden Dangers of AI."** Last-minute substitution —
+  not appearing on any published event schedule.
 
 ---
 
