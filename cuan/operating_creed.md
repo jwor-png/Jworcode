@@ -673,6 +673,26 @@ are flagged for confirmation, never guessed.
       the original 31 August target. Needs chasing — worth a direct
       follow-up given how much now depends on this closing actually
       happening once (if) the appeal resolves in the site's favour.
+    - **3 Sept update, John spoke with Malachy Harkin.** Design team
+      **Teams call confirmed for 9:30–10am, 4 Sept** (invite issued by
+      Bronagh Clarke/Ward Consult) to agree strategy and the proposed
+      reply/submission to An Bord Pleanála/Coimisiún on the Fred Logue
+      appeal. **Confirmed by Bronagh:** the 18-week determination period
+      runs from **26 August** (date ACP received the appeal), and is a
+      statutory objective, not a mandatory deadline — in her firm's
+      experience the Coimisiún rarely meets it. John also updated
+      Malachy on what he needs to do with **Senator Sharon Keoghan** —
+      sending her the detail by email. Separately, John wants **Malachy
+      Harkin and [name — "John"/possibly Michael Heather, unconfirmed
+      which] to learn more locally** about local attitudes to the
+      appeal now going to An Bord Pleanála/Coimisiún: what the local
+      community actually said and agreed with Fred Logue during the
+      Meath County Council planning process, given the community had
+      previously said they wanted the Old Mill site developed. Open
+      question John wants answered locally: does the community support
+      Logue's appeal, or are they unhappy he's escalating it, given it's
+      delaying a development they said they wanted. **Action: John to
+      talk to Michael and John again** on this.
     - **New batch, dictated 2 Sept — not yet actioned:**
       - **Pay [ASK — heard as "consurgent," most likely Michael Nugent
         again]:** matches the priority item already logged earlier this
