@@ -304,6 +304,16 @@ Tax Manager EY and BDO Simpson Xavier).
   audition-style capacity question — it's framed as division of
   labour, not a test. **Next action:** Cuan to help draft the separate
   outreach emails to Jerry and Fintan once John confirms.
+- **SENT, 3 Sept** — outreach emails sent to both: **Fintan Shine**
+  (fintan@fintax.ie, 13:25) and **Jerry Sheehan** (sheehanj@sheehanlaw.ie,
+  13:31), each asking for a 30-minute Zoom with Shane on Friday afternoon,
+  framed as advice to Shane directly (Fintan on taxation for his founder
+  holdco, Jerry as an initial consulting call within his firm). Jerry's
+  current partner bio (sheehanlaw.ie/jerry-sheehan/) lists "Corporate
+  Agreements and Commercial property" among his specialisms — more
+  encouraging than the original desk-research assessment suggested,
+  though his firm's own site was not directly browsable to confirm
+  further (network egress blocked). **Awaiting replies from both.**
 
 ## Webb Sports Horses Ltd (Carl Webb, cousin)
 
