@@ -176,3 +176,10 @@ at in his own time, not a task with a deadline.
   the AHL "three things to move on first" and the Childen Vatican
   progress, both genuinely once-off, time-sensitive days rather than
   routine ones.
+- **3 Sept — Unknown/Snámhaí Sásta:** "There is only one way to avoid
+  criticism... Do nothing, say nothing and be nothing." Posted a day
+  late (John caught up on 3 Sept's calendar page after the fact) —
+  lands squarely on a day defined by taking positions that invite
+  pushback rather than avoiding them: the Ray Smyth/Edel Smyth reply
+  standing firm on the Mulvey reference rather than softening it, and
+  sending the Jerry Sheehan/Fintan Shine outreach rather than waiting.
