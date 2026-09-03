@@ -93,10 +93,13 @@
 - **Joe Wallace** (josephjoewallace@gmail.com) — Director.
 - **Eoin Lynch** (eoin@dlynch.ie) — Director (also the UHL board contact
   above — same person, both roles).
-- **John Smyth** (jsmythkillucan@gmail.com) — Director.
-- **Emmet Cooney** (emmetcooney@hotmail.com) — Director. Also the person
-  John needs to check with before replying to Ray Smyth on the Smyths of
-  Killucan product claim (see `ventures_dossier.md`).
+- **John Smyth** (jsmythkillucan@gmail.com) — Director. **Confirmed:
+  Ray Smyth's son** (Smyths of Killucan, see below) — a direct conflict
+  of interest given the live Smyths product-liability claim against AHL;
+  he is involved in the family business at Smyths of Killucan.
+- **Emmet Cooney** (emmetcooney@hotmail.com) — Director. **Not** the
+  "Emmet" referenced in the Smyths of Killucan index-linking question —
+  see Emott Walsh below.
 - **Finance/admin:** Nicola Hegarty McMillan (Finance Manager, UHL —
   prepares AHL accounts/minutes, processes payments), David Geoghegan
   (CFO, UHL — see above, authorises AHL payments, payroll access).
@@ -112,8 +115,18 @@
 - **Ray Smyth** — Smyths of Killucan Homevalue Hardware, T.L O'Callaghan
   Ltd, Killucan, Mullingar (accounts@smythskillucan.ie). Counterparty on
   a long-running product-liability claim, not an AHL board member — see
-  `ventures_dossier.md` for full detail. Reply drafted, awaiting John's
-  review pending a conversation with Emmet Cooney first.
+  `ventures_dossier.md` for full detail. **His son John Smyth is an AHL
+  director** — a live conflict of interest. Reply drafted; the draft is
+  in John's own Gmail for him to finalise and send.
+- **Emott Walsh** (emott.walsh@ahl.ie) — former AHL Finance Manager, left
+  United Hardware/AHL roughly 18 months before Sept 2026 (last board
+  correspondence found ~April 2025). Previously dealt with Ray Smyth on
+  the Smyths of Killucan account before leaving — Ray's email refers to
+  discussing index-linking "with your accountant, Emmet," meaning Emott,
+  **not** Emmet Cooney. John's position: he won't dispute or confirm
+  what Emott may have said — treating it as hearsay, not investigating
+  further. See `ventures_dossier.md` (AHL Plc, Smyths of Killucan claim)
+  for full detail.
 
 ### Rory Smyth (ActionCoach)
 - rorysmyth@actioncoach.com. Runs the broader UHL Leadership & Development

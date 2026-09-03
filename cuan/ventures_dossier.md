@@ -792,9 +792,23 @@ used to create a render. July 2026: John understood the customer sought
 ~€70,000 and owed Smyths ~€20,000 on account; Ray's reply 31 July put
 the settlement figure at **€90,000**. Ray states the customer was
 assured the claim would be index-linked, "a matter that was discussed on
-a number of occasions with your accountant, Emmet" — **Emmet Cooney is
-an AHL director**, needs checking with Emmet before AHL denies
-responsibility. **Evidence on the product:** Mark Doherty (Marsh
+a number of occasions with your accountant, Emmet."
+
+**Correction, 3 Sept — this is NOT Emmet Cooney.** The "Emmet" Ray
+refers to is **Emott Walsh** (emott.walsh@ahl.ie), AHL's former Finance
+Manager, on AHL board correspondence through at least April 2025, who
+finished with United Hardware/AHL roughly 18 months before this session
+(2 Sept 2026) — i.e. around early-to-mid 2025, consistent with the last
+correspondence found. Emott would have dealt with Ray Smyth on the
+Smyths account to AHL/UHL directly, before leaving. **John's position:**
+he won't dispute or confirm what Emott may have said to Ray — "I can't
+deny or consider it because it's hearsay, and I'm not going to get into
+that conversation right now." AHL should be careful not to be
+compromised by whatever Emott said, but this isn't being investigated
+further at this point — the plan is to send the reply and see the
+response first.
+
+**Evidence on the product:** Mark Doherty (Marsh
 Ireland) wrote to Paul Candon, 28 June 2024, re Conway v Mulvey
 Homevalue/United Hardware/Northstone — the Sedgwick loss adjuster for
 Northstone stated the product (white limestone sand) was a proprietary
@@ -805,8 +819,25 @@ Marsh advised UHL to extract itself, the product never having been on
 its premises. **Caveat: that correspondence concerns the Mulvey matter**
 — whether it carries across to the Smyth claim depends on the product
 and supply route being the same, to be confirmed before relying on it.
-A reply to Ray Smyth is drafted, awaiting John's review — **John wants to
-speak to Emmet Cooney before it goes.** Thread marked Without Prejudice.
+
+**Related, from the account history (found 3 Sept):** Smyths' account
+balance was ~€100k as of July 2025 tied to "the ongoing insurance
+claim," with a credit note already issued at some point (basis unclear
+— John asked Nicola for the recorded detail grounding that credit
+amount, 10 July 2025). Separately, Smyths were also seeking ~€25k as
+their share of a rebate/profit distribution — a different matter,
+raised with Simon Carbery (BDO) 14 July 2025, not to be conflated with
+the product claim.
+
+**Reply drafted and updated, 3 Sept — sitting in John's own Gmail for
+him to review, make final changes, and send himself.** Cuan is not
+sending this; John will send it directly and the sent copy will be
+picked up afterward. Removed from the draft, per John's explicit
+instruction: the €70k→€90k escalation point (Ray likely hasn't
+registered the change, and it's immaterial to the underlying issue
+anyway) and the separate-AHL-account paragraph (the two matters are
+genuinely separate and shouldn't be raised together in this letter).
+Thread marked Without Prejudice.
 
 ### Open questions [ASK]
 1. CRO number, confirmation the Plc is unlisted.
@@ -818,8 +849,11 @@ speak to Emmet Cooney before it goes.** Thread marked Without Prejudice.
    with UHL.
 6. Basis of the Cahill acquisition, and the correct first name for Rice
    at RB Coogan.
-7. Whether Emmet Cooney gave assurances on index-linking in the Smyth
-   claim.
+7. ~~Whether Emmet Cooney gave assurances on index-linking in the Smyth
+   claim~~ — **RESOLVED/superseded, 3 Sept: not Emmet Cooney, it was
+   Emott Walsh (former AHL Finance Manager, left ~18 months ago). John
+   is deliberately not investigating what Emott said to Ray further —
+   treating it as hearsay he won't confirm or deny for now.
 8. **The DAC question (top of the 2 Sept twelve-question list) —
    confirm whether Associated Hardware PLC has converted to/should be a
    Designated Activity Company.**

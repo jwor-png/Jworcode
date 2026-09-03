@@ -12,13 +12,20 @@ Killucan, Mullingar, Co. Westmeath), raised by **Ray Smyth**
 
 **The claim:** Smyths' customer alleges remedial works to his home were
 needed due to a defective product supplied via Smyths — a render made
-with white limestone sand. Ray's figure moved from an informally
-discussed €70,000 (a few weeks prior) to a formal €90,000 in his email
-of 31 July 2026, with — per John's own account — no supporting detail
-or justification for the increase. Ray states the customer was assured
-the claim would be index-linked, "a matter that was discussed on a
-number of occasions with your accountant, Emmet" — **Emmet Cooney is an
-AHL director**, and this assurance has not yet been checked with him.
+with white limestone sand. Ray states the customer was assured the
+claim would be index-linked, "a matter that was discussed on a number
+of occasions with your accountant, Emmet." **Correction, 3 Sept: this
+is not Emmet Cooney (current AHL director).** The "Emmet" Ray refers to
+is **Emott Walsh** (emott.walsh@ahl.ie), AHL's former Finance Manager,
+who left United Hardware/AHL roughly 18 months before this session
+(last board correspondence found ~April 2025) and would have dealt
+with Ray Smyth on the Smyths account directly before leaving. **John's
+position:** he won't dispute or confirm what Emott may have said to
+Ray — "I can't deny or consider it because it's hearsay, and I'm not
+going to get into that conversation right now." AHL should be careful
+not to be compromised by whatever Emott said, but this is not being
+investigated further — the plan is to send the reply and see the
+response first.
 
 **The separate debt:** Smyths owe AHL **~€100,000** on their own
 account (Mulveys separately owe AHL ~€40,000). John's 4 August email to
@@ -42,30 +49,33 @@ route being the same, which has not been independently confirmed.**
 
 ## Flag requiring resolution before this proceeds — conflict of interest
 
-**John Smyth, AHL board director** (jsmythkillucan@gmail.com), signs
-his own emails **"John, Smyths Killucan."** This surname and business
-name match — Smyths of Killucan — is the same business Ray Smyth is
-making this claim on behalf of. **Whether John Smyth (director) and Ray
-Smyth (claimant) are the same person, family, or business is not
-established from the email record and needs direct confirmation before
-any Board position is finalised or communicated.** If there is a
-connection, this is a live conflict of interest inside AHL's own board
-that should be addressed as its own governance matter, separate from
-the substance of the claim.
+**Confirmed, 3 Sept: John Smyth, AHL board director**
+(jsmythkillucan@gmail.com), **is Ray Smyth's son** and is involved in
+the family business at Smyths of Killucan — the same business making
+this claim. This is a live conflict of interest inside AHL's own board
+that should be treated as its own governance matter, separate from the
+substance of the claim.
 
 ## What has NOT happened yet
 
 - No legal review by Jürgen or Meridian's Legal & Governance capability.
 - No independent verification that the Marsh/Mulvey precedent legally
   extends to this specific product/supply route.
-- No confirmation with Emmet Cooney on the index-linking assurance
-  question.
-- No resolution of the John Smyth / Ray Smyth relationship question.
+- Emott Walsh's index-linking assurance is being treated as hearsay,
+  not confirmed or investigated (John's explicit decision, 3 Sept).
+- John Smyth / Ray Smyth relationship now confirmed (father/son) but
+  not yet formally addressed as a board governance matter.
 
-## Draft reply (sitting in Gmail as a draft, NOT sent)
+## Draft reply — status update, 3 Sept: now in John's own Gmail
 
-Drafted by Cuan, replying to Ray's 31 July email, marked Without
-Prejudice:
+**Cuan is no longer sending or finalising this email — John is
+reviewing, editing, and sending it himself.** He instructed: do not
+reference the €70k→€90k figure movement (he doesn't believe Ray
+realises the figure moved, and considers it immaterial to the overall
+issue), and remove the paragraph linking the reply to the separate AHL
+account balance (they are separate matters and should not be
+conflated in this letter). The draft below is the version as it stood
+before Cuan handed it to John's Gmail — the sent version may differ:
 
 > Without Prejudice
 >
@@ -96,10 +106,10 @@ Prejudice:
 > Best regards
 > John
 
-**This draft was written by Cuan (general-purpose assistant), not by
-any legal-competent system.** It has not been checked against the
-actual product/supply facts, the John Smyth conflict question, or the
-Emmet Cooney assurance question.
+**This draft was originally written by Cuan (general-purpose
+assistant), not by any legal-competent system.** It has since been
+handed to John to finalise and send in his own words — John has taken
+ownership of the final wording and the decision to send.
 
 ## Questions for Jürgen / Meridian's Legal & Governance review
 
@@ -107,19 +117,17 @@ Emmet Cooney assurance question.
    stipulation as to end use) actually extend to the Smyth claim on the
    facts available, or is that an assumption that needs its own
    verification?
-2. Is there legal risk in AHL denying liability in writing before the
-   John Smyth conflict-of-interest question is resolved?
-3. Does linking the denial of liability to the separate €100k debt (as
-   the draft does, by mentioning both in one letter) create any risk of
-   the two being read as connected/retaliatory, even though the letter
-   states they're separate?
-4. Is "Without Prejudice" marking sufficient here, or does this need a
+2. Is there legal risk in AHL denying liability in writing given the
+   now-confirmed John Smyth (director) / Ray Smyth (claimant) father-son
+   conflict of interest?
+3. Is "Without Prejudice" marking sufficient here, or does this need a
    formal legal letter rather than an email from the Chairman directly?
-5. Should Emmet Cooney's index-linking question be resolved *before*
-   this goes, given his assurance (if made) could materially affect
-   AHL's position?
+4. Does treating Emott Walsh's alleged index-linking assurance as
+   unconfirmed hearsay (John's chosen approach, 3 Sept) create any
+   downstream risk if it later turns out he did make that assurance?
 
-**Recommendation to John (from Cuan):** do not send the draft until at
-least questions 2 and 5 above are answered — the conflict-of-interest
-question and the Emmet Cooney question are both things that could
-change the letter's content, not just its tone.
+**Note, 3 Sept:** John has reviewed this himself and decided to send
+the reply without resolving questions 2 and 4 further at this stage —
+he wants to send the reply and see the response before going further.
+This file remains available for Jürgen/Meridian review if John wants a
+second opinion at any point.

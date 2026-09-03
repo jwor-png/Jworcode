@@ -704,11 +704,13 @@ are flagged for confirmation, never guessed.
         approaching the wrong body.
       - **Send the Ray Smyth email, in John's capacity as AHL
         Chairman** — this is the reply already logged as drafted in
-        `ventures_dossier.md` (AHL Plc, Smyths of Killucan claim), which
-        was explicitly contingent on John speaking to Emmet Cooney
-        first about the index-linking assurance question. No record of
-        that conversation having happened yet — worth confirming it
-        took place before treating the email as ready to go.
+        `ventures_dossier.md` (AHL Plc, Smyths of Killucan claim). This
+        entry originally noted it as contingent on speaking to Emmet
+        Cooney; **correction, 3 Sept: that was a misattribution — the
+        "Emmet" in question is Emott Walsh, former AHL Finance Manager,
+        not Emmet Cooney.** John has decided not to pursue confirmation
+        with Emott (treating it as hearsay) and the draft is now in his
+        own Gmail for him to finalise and send.
 - **Ambrion AI — UHL training programme schedule correction (dictated 10
   August):** the session planned for 14 August is NOT happening as
   previously understood. Corrected schedule: 25 August is now Programme
