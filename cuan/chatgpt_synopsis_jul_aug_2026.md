@@ -215,6 +215,12 @@ American/private-tour visitors around Ireland. Objective: understand both
 the official Ryder Cup transport route and private premium-golf-visitor
 work as a possible part-time interest.
 
+**3 Sept update:** still no word on the volunteer decision — expected
+during August per the original application, now overdue. John sent a
+reminder email over the weekend (~30-31 Aug) and hasn't had a reply,
+which he finds disappointing. Logged so it isn't dropped — worth
+following up again if nothing comes through soon.
+
 ### Majella — support socks
 Evaluation of compression/support sock options Majella was considering
 from Boots/McCabes — suitability, price, online availability,
