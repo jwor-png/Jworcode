@@ -350,6 +350,30 @@
 
 ---
 
+## MiDentalCare Liquidation — Legal Contacts
+
+- **Mícheál Glynn** (info@michealglynn.ie, 061 418518) — John's own
+  solicitor, handled the Glenview Clinic purchase/TUPE on John's side.
+  Currently the bottleneck on the Glenview staff redundancy claims
+  (see `operating_creed.md`) — repeatedly chased since 21 July, still
+  hasn't produced the TUPE documentation the Dept. of Social Protection
+  requires.
+- **John Connellan** (john@bclaw.ie, Partner, BC Law LLP, 32 Merrion
+  Street, Dublin 2, D02KW80) — solicitor for **Wendy Munroe**, who sold
+  the Glenview Dental practice to MiDentalCare (~2024). Separately
+  pursuing costs against John personally (Wendy Munroe v John, an
+  unrelated litigation matter). John believes Connellan sent a Business
+  Transfer Agreement to Mícheál Glynn around the Glenview completion
+  (~Aug 2024) confirming the transfer of the three Glenview staff —
+  not yet located in Gmail, may only exist in John's midentalcare.ie
+  inbox (no current access).
+- **Michael Butler** (michael@butlerandco.ie, 086 255 6603) —
+  Liquidator, MiDentalCare Ltd (In Liquidation).
+- **Paul O'Brien** (paul@butlerandco.ie) — Butler & Co, handling the
+  Glenview staff redundancy claims day-to-day.
+
+---
+
 ## To Map
 [ASK: Who else is in John's regular orbit — advisors, investors, lawyers, accountants, other board contacts?]
 [ASK: Who are the key personal relationships Cuan should be aware of for scheduling and prioritisation?]

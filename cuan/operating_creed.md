@@ -892,6 +892,27 @@ are flagged for confirmation, never guessed.
   **061 418518**. Given this is flagged urgent and Paul O'Brien is also
   waiting, worth calling that number directly rather than waiting for
   Mícheál to see the email on his return.
+- **Glenview TUPE — escalated further, 2-3 Sept.** Michael Butler
+  (liquidator) confirmed the DSP has now refused to process the three
+  staff claims until the actual TUPE/transfer documentation is
+  produced, because each employee's registered start date predates
+  MiDentalCare's incorporation. John chased Mícheál Glynn again and
+  told Butler that if Mícheál can't produce it, **John Connellan of
+  BC Law** (john@bclaw.ie — confirmed address), solicitor for Wendy
+  Munroe (the seller), may be able to help via Wendy, who has a good
+  relationship with the staff and would want them paid. **Cuan searched
+  Gmail extensively (Connellan, bclaw.ie, TUPE, Glenview, Munroe, named
+  staff, July–Dec 2024) and could not locate the actual Business
+  Transfer Agreement or TUPE document in this account** — likely only
+  ever lived in John's midentalcare.ie inbox, which he doesn't
+  currently have access to. **Draft prepared and sent by John, 3 Sept,
+  11:28**, to Michael Butler (cc Paul O'Brien): gives Connellan's email
+  address, and — per John's own recollection, added when he amended
+  the draft — states there was a Business Transfer Agreement sent from
+  Connellan to Mícheál Glynn around the Glenview completion (~Aug
+  2024) that he recalls confirming the transfer of the three staff,
+  and suggests Wendy Munroe/Connellan may be able to help unblock the
+  delay. **Awaiting Michael Butler's response.**
 - **Keith Hogan** — €600 fee reminder sent.
 
 - **Mark Power (mpower@powersolicitors.ie)** — asked him 23 June to act personally
