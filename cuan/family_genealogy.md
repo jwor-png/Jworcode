@@ -133,12 +133,27 @@ siblings:**
   and `ventures_dossier.md`) is John's first cousin**, son of Tommy Webb.
 - Bernadette Reardon (born Webb, b. 24 Feb 1958)
 
-**Also on the tree:** William Hall's side (Joan's family) — Jack Hall
-(deceased) m. Hazel Hall (born Mortimer, deceased), connecting to Joan
-O'Rourke (born Hall). Marion McCarthy (born O'Rourke) m. Con McCarthy →
-children: Clodagh McCarthy, Roisin McCarthy, Orna McCarthy — this is
-**Marion-Jane McCarthy**, already logged, confirming her married surname
-and family.
+**Also on the tree:** William Hall's side (Joan's family) — confirmed
+another generation back: **William Hall** m. Add mother (unconfirmed) →
+**Jack Hall** (deceased) m. **Hazel Hall** (born Mortimer, deceased) →
+**Joan O'Rourke** (born Hall). Marion McCarthy (born O'Rourke) m. Con
+McCarthy → children: Clodagh McCarthy, Roisin McCarthy, Orna McCarthy —
+this is **Marion-Jane McCarthy**, already logged, confirming her
+married surname and family. Also shown: **Aaron O'Rourke**, alongside
+the McCarthy children — relationship not yet confirmed (likely another
+of Marion's or Jimmy O'Rourke's grandchildren).
+
+**Jimmy O'Rourke's own family (3 Sept, new branch) — confirms Jimmy
+O'Rourke is John's stepfather** (Joan remarried him after Sean Webb's
+death in 1966, per the Kirsten thread already logged below). **Jimmy
+O'Rourke** (d. 7 Jul 2013) had his own children, shown as a separate
+branch on the tree: **Brian O'Rourke** m. Unknown O'Rourke → children
+Molly O'Rourke, Rena O'Rourke, Alya O'Rourke; and **Paul O'Rourke** m.
+Unknown O'Rourke → child Jimmy O'Rourke (a younger namesake). Separately
+on the tree: **John Gerard Hall** (b. 28 Feb 1954) m. **Marion Hall**
+(born Pendergast) — relationship to Joan O'Rourke (born Hall) not yet
+confirmed, likely a sibling given the shared surname and generation on
+the tree.
 
 ## Kirsten (Adele Keady) — new DNA match, surfaced via Instagram (1 Sept 2026)
 
