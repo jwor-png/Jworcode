@@ -690,7 +690,9 @@ are flagged for confirmation, never guessed.
         group — deliberately high-level, not itemising Logue's
         individual points, since the group hasn't asked for that level
         of detail. Draft message prepared for John to send himself
-        (Cuan has no WhatsApp send capability).
+        (Cuan has no WhatsApp send capability). **Sent, 3 Sept, 12:17**
+        to the "Julianstown - Old Mill etc" WhatsApp group (John Pa,
+        Michael, John).
       - **Advise John Lynch and [ASK — heard as "Michael Durkin," not
         previously logged on this matter] on the [ASK — heard as
         "bishop position," most likely a mishearing of "sale position"
