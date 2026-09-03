@@ -260,11 +260,59 @@ logged, are confirmed to exist on MyHeritage at minimum.
 John signed off with "That's it" — no more material expected for now on
 this thread.
 
+## John's own DNA test — working theory, 3 Sept
+
+John's own account, piecing this together: he believes he may have
+purchased his DNA test kit through a **competitor to MyHeritage** (kit
+likely arrived by post), while his **MyHeritage login is for the "Webb
+Web Tree"** (his spelling: "web web tree") specifically, not
+necessarily where his DNA results live. His working theory: he logs
+into MyHeritage expecting to find his DNA results there via the tree,
+but they may actually sit on a **different platform**, tied to his
+usual jwebborourke@gmail.com address — he suspects he just needs to
+reset the password on that other account to access them directly.
+Confirmed as of 2013 (email to Sean Webb, 18 Oct 2013): as of that date
+John had **not yet been tested** ("I have not taken any action yet to
+be tested etc") — so the actual test happened sometime after.
+
+**Cuan's search, 3 Sept:** searched Gmail broadly for DNA purchase/kit/
+results confirmations from Ancestry, 23andMe, Living DNA, and
+FamilyTreeDNA — **found no purchase confirmation or results email from
+any competing service** in this Gmail account. Only found: a 2017
+"Win a Living DNA kit" newsletter contest (not a purchase), and
+repeated MyHeritage marketing emails since 2018 that specifically say
+"Taken a DNA test with another service? Upload your DNA data to
+MyHeritage" — consistent with John's theory that MyHeritage may not be
+where the original test itself was taken. **Not resolved** — the
+account/platform holding the actual DNA results still hasn't been
+identified. Worth checking other email addresses John has used over
+the years (jwor@ambrion.ai, john@zesthealthcare.ie, the old
+cahillshw.com address) in case the original test was registered under
+one of those instead of jwebborourke@gmail.com.
+
+John also separately confirmed **Sean Webb sent him further Webb-family
+DNA/project updates by email over the years**, which "should all be
+stored" in jwebborourke@gmail.com. Confirmed found in this search: the
+full Webb Surname DNA Project thread with Eileen Sturner (already
+logged above) and multiple forwarded "WSDP WEBB BULLETIN" newsletters
+from Sean Webb (2013, forwarded/re-sent several times through
+2015-2026) — these are Webb
+Surname DNA Project community bulletins, not John's personal results.
+
+John's plan: continue piecing this together, and separately look at
+the **Ross side and Hall side** of the tree by logging into MyHeritage
+again later.
+
 ## Open items
 
-- Confirm exactly where John's own MyHeritage DNA results/account can be
-  accessed directly (Kirsten's match confirms the results exist on
-  MyHeritage — still need to locate John's own login/results view).
+- Confirm exactly where John's own DNA results/account can be accessed
+  directly — Kirsten's match shows they exist somewhere on MyHeritage
+  (either directly or via upload), but John's working theory is his
+  original test was with a **different provider**, tied to
+  jwebborourke@gmail.com, needing a password reset — no purchase
+  confirmation found for any provider in this Gmail account yet. Worth
+  checking other email addresses John has used (jwor@ambrion.ai,
+  john@zesthealthcare.ie, the old cahillshw.com address).
 - Confirm relationship between the new MyHeritage signup (1 Sept 2026) and
   the existing "Webb Web Site" family tree already active on MyHeritage
   (calendar alerts running since at least May 2026).
