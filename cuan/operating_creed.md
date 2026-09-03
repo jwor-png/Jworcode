@@ -679,6 +679,18 @@ are flagged for confirmation, never guessed.
         session ("pay Michael Nugent from the PTSB account for
         MiDentalCare fees") — treating as the same outstanding action,
         not a new one, unless John says otherwise.
+      - **RESOLVED, 3 Sept — the two Old Mill owners are John Lynch and
+        Michael Durkan** (confirmed by John). 3 Sept: Martin Tiernan
+        (Oppermann) emailed the design team's rebuttal of the Fred Logue
+        appeal (nothing new raised, points largely traffic-related,
+        addressed by the future bypass; zoning/car numbers/Old Mill
+        treatment points all already covered in the FI submission and
+        design statement). John asked Cuan to summarise this into a
+        WhatsApp message to the John Lynch/Michael Durkan Old Mill
+        group — deliberately high-level, not itemising Logue's
+        individual points, since the group hasn't asked for that level
+        of detail. Draft message prepared for John to send himself
+        (Cuan has no WhatsApp send capability).
       - **Advise John Lynch and [ASK — heard as "Michael Durkin," not
         previously logged on this matter] on the [ASK — heard as
         "bishop position," most likely a mishearing of "sale position"
