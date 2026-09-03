@@ -66,16 +66,19 @@ substance of the claim.
 - John Smyth / Ray Smyth relationship now confirmed (father/son) but
   not yet formally addressed as a board governance matter.
 
-## Draft reply — status update, 3 Sept: now in John's own Gmail
+## Reply sent, 3 Sept 2026, 11:12
 
-**Cuan is no longer sending or finalising this email — John is
-reviewing, editing, and sending it himself.** He instructed: do not
-reference the €70k→€90k figure movement (he doesn't believe Ray
-realises the figure moved, and considers it immaterial to the overall
-issue), and remove the paragraph linking the reply to the separate AHL
-account balance (they are separate matters and should not be
-conflated in this letter). The draft below is the version as it stood
-before Cuan handed it to John's Gmail — the sent version may differ:
+**John sent this himself** (thread `1a066c9f156ec0f7`, Without
+Prejudice). Final sent text: AHL does not accept responsibility or
+culpability for the claim; references the Mulvey precedent (proprietary
+raw material, no stipulation as to end use/fitness); asks Ray to
+correct AHL if the customer is in fact formally suing Smyths; offers to
+discuss further at the 23 Sept Board meeting. No reference to the
+€70k→€90k figure movement, the separate AHL account balance, or Emott
+Walsh/index-linking — all per John's instruction to leave those out.
+**Now awaiting Ray's response.** The draft below is the earlier
+Cuan-authored version, kept for reference only — it does not match
+what was actually sent:
 
 > Without Prejudice
 >

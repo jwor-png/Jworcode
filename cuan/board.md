@@ -103,11 +103,9 @@ unconfirmed if it happened. DAC conversion question open — one line
 from John resolves it. Full detail + 12 questions in `ventures_dossier.md`.
 🟢 UHL Hardware — Aug Chairman's invoice (No. 27) sent to Nicola & Dave.
 FY2025 audit closed, Board thanked John 5 Aug. 22 April AHL board
-minutes issued to BDO. Reply to Ray Smyth drafted, now in John's own
-Gmail for him to finalise and send himself (correction, 3 Sept: the
-"Emmet" in the claim is Emott Walsh, former AHL Finance Manager, not
-Emmet Cooney — John is treating it as hearsay, not investigating
-further).
+minutes issued to BDO. **Reply to Ray Smyth sent 3 Sept 2026** (Without
+Prejudice, denying liability, referencing Mulvey precedent, offering
+to discuss at 23 Sept Board meeting) — now awaiting Ray's response.
 🟢 Ambrion AI — training 25 & 31 Aug confirmed
 🟢 Barber Republic — commission split genuinely disputed among Johnny's own contacts (John Jones: barber pays; Anthony Laban: shop pays) — no fixed numbers now shown to trade; A/B docs rebuilt as open questions for Johnny to actually ask in London tomorrow; agreement still unsigned by Johnny; Month One £15k PAID. **NEW (2 Sept): Shane sent Johnny + Neil "Working in Parallel" — the founder-track plan for the 12-14wk build (raise, story, pilot, week-6 London visit as the hinge). John reviewing in detail today, monitoring not driving.**
 🔴 Julianstown Mill — Fred Logue appeal formally lodged 31 Aug (PL-501978-MH-26), response due 23 Sept; **sale completion to John Lynch now explicitly pending the appeal outcome, not just fees**; Glynn's Solicitors gone quiet on closing prep — needs chasing; updated balancing statement drafted, awaiting reply

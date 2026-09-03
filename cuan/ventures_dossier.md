@@ -808,6 +808,17 @@ compromised by whatever Emott said, but this isn't being investigated
 further at this point — the plan is to send the reply and see the
 response first.
 
+**Reply sent, 3 Sept 2026, 11:12** (thread `1a066c9f156ec0f7`, subject
+"Re: Product issues - \"Without Prejudice\""). John sent it himself,
+Without Prejudice. Final text: AHL does not accept responsibility or
+culpability for the claim; references the Mulvey precedent position
+(proprietary raw material, no stipulation as to end use/fitness);
+asks Ray to correct AHL if the customer is in fact suing Smyths
+formally; offers to discuss further at the 23 Sept Board meeting. No
+mention of the €70k→€90k figure movement, no reference to the separate
+AHL account balance, and no reference to Emott Walsh/index-linking —
+all per John's instruction. **Now awaiting Ray's response.**
+
 **Evidence on the product:** Mark Doherty (Marsh
 Ireland) wrote to Paul Candon, 28 June 2024, re Conway v Mulvey
 Homevalue/United Hardware/Northstone — the Sedgwick loss adjuster for
