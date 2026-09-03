@@ -259,6 +259,52 @@ IP estate, faster-moving sales vehicle).
   ready to act quickly on any Asterial-side paperwork/filings the
   investment triggers, rather than this being purely background context.
 
+**Legal/tax adviser assessment for ODIN holdco structuring, 3 Sept.**
+Two pieces of work: (1) ODIN's group structure ahead of the €20m raise,
+(2) Shane's founder holdco ahead of a future sale. Candidates: **Jerry
+Sheehan** (Sheehan & Company LLP, "Property Law People," 1 Clare
+Street, Dublin 2, owner/senior partner since 1982 — John's direct
+working history with him from the primary care centres) and **Fintan
+Shine CTA** (sole practitioner since Feb 2017; previously Group Tax
+Manager Sepam Group, Tax Director Moore Stephens Patrick McNamara,
+Tax Manager EY and BDO Simpson Xavier).
+- **Jerry Sheehan** — well suited to holdco formation, share exchange,
+  shareholders' agreement, and judgement/negotiation on structure.
+  Practice has no visible corporate/M&A department or IP/tech
+  practice, so a precedent-heavy €20m round's actual drafting/pace
+  is a real question — flagged as the item to ask him directly.
+  Cyber Essentials + LQSI Q3000 accredited (real diligence signal).
+- **Fintan Shine** — better aligned to founder holdco/reorganisation
+  reliefs, capital tax planning, retirement/entrepreneur relief.
+  Gaps to probe: KEEP share schemes, R&D tax credit/knowledge
+  development box. Sole practitioner — capacity is the open question,
+  not competence.
+- **Sequencing:** group structure first, founder holdco second —
+  the founder position only makes sense once the investable entity is
+  defined. Founder holdcos need to be in place before the round
+  closes/before a term sheet lands, since a reorg after institutional
+  money is in becomes a valuation event requiring investor consent.
+- **Conflict flag:** if Jerry acts for ODIN on the raise and for Shane
+  personally on his holdco, those are two clients whose interests can
+  diverge (founder warranties, leaver provisions, vesting) — better
+  raised at the outset than discovered at signing.
+- **RESOLVED, 3 Sept — engagement approach decided.** Rather than
+  testing Jerry and Fintan's capacity for the transaction phase on the
+  call (which risks putting them on the back foot), John's decision:
+  reach out to **Jerry and Fintan separately**, framed from the outset
+  as structuring-phase engagement only, on the explicit basis that
+  they won't run the live transaction phase themselves but would stay
+  on in a **supervisory/advisory capacity** once transaction-phase
+  counsel is brought in. Concretely: **Fintan** to advise **Shane**
+  directly on the taxation side of his founder holdco — what to watch
+  out for. **Jerry**, if available, to give Shane initial advice as a
+  consultant within his firm. This removes the conflict-flag tension
+  (Jerry's mandate for Shane is bounded and advisory, not the same
+  engagement as any ODIN-side work) and avoids the awkwardness of an
+  audition-style capacity question — it's framed as division of
+  labour, not a test. **Next action:** Cuan to help draft the separate
+  outreach emails to Jerry and Fintan once John confirms.
+
 ## Webb Sports Horses Ltd (Carl Webb, cousin)
 
 John is a **Director**, with a consultation role in horse buying/selling
