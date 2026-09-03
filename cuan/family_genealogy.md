@@ -12,16 +12,23 @@ there is no order confirmation or results email in this inbox. Possible
 explanations: taken under a different email/account, or results arrived
 by another channel. **Still unconfirmed — John to clarify.**
 
-**3 Sept update:** John is texting with **Kirsten Keady** (spelled
-K-I-R-S-T-E-N K-E-A-D-Y), who appears to share DNA with family members
-on the website and on the **Ancestry** side (not MyHeritage) — reports
-show her as a **second or third cousin** to John. He's helping her, and
-it's prompted him to want to properly understand his own DNA again —
-possibly taking a **new DNA test**, since the original test/results
-still can't be located (see above). He has access to his heritage
-material and photographs, and wants to **build up the family tree
-properly** — sharing photographs and adding detail for his own family
-to complete it. No specific next action yet beyond this intent.
+**3 Sept — screenshots confirm the Kirsten thread (see full detail
+below) is continuing on Instagram, platform confirmed as MyHeritage**
+(not Ancestry — corrects an earlier verbal mention). Kirsten's profile:
+Instagram @kirstenadelekeady, 2.2K followers. MyHeritage relationship
+estimate shown as "2nd cousin" with a note "Parent's 2nd cousin,
+Parent's 3rd cousin" — consistent with the 1.0% (72.9 cM) shared DNA
+match already logged below. Screenshots also reconfirmed the full Webb
+family tree exactly as already captured below (no new individuals),
+and John's DNA ethnicity results (Irish/Scottish/Welsh 71.0%, East
+European 12.4%, English 13.0%, Scandinavian 2.6%) match the figures
+already logged from **Marion (O'Rourke) McCarthy** — signs herself
+"**Moll**" — confirming this is the same person as "Marion-Jane
+McCarthy" logged below, and confirming she is John's **step-sister**
+(matches her position on the Webb tree as a sibling to John under
+Sean Webb/Joan O'Rourke). One more DNA match still to come: John's
+step-sister Marion's own separate DNA results, plus family tree detail
+— **hold, more to follow.**
 
 ### Marion-Jane McCarthy's results (shared with John, 7 April 2021)
 
