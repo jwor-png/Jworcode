@@ -314,6 +314,23 @@ Tax Manager EY and BDO Simpson Xavier).
   encouraging than the original desk-research assessment suggested,
   though his firm's own site was not directly browsable to confirm
   further (network egress blocked). **Awaiting replies from both.**
+- **Structuring question raised by John, 3 Sept — cost base for Shane's
+  IP contribution.** John's reasoning: the value in ODIN isn't just the
+  existence of the IP, it's Shane's time/AI expertise plus the actual
+  token/compute spend incurred building it (Claude, ChatGPT usage). If
+  quantified and evidenced, this could establish a **cost base** for the
+  IP Shane contributes into the holding company (in exchange for
+  shares), which would then offset against the gain when those shares
+  are sold as part of the €20m round — potentially reducing the taxable
+  gain rather than the full value being treated as gain from a nil
+  base. John also wants this run through **Jürgen (Meridian's legal AI)**
+  for structured review. **To raise directly with Fintan Shine** on the
+  Friday call — this is squarely his territory (capital tax planning).
+  **Practical task, can start now regardless of the tax answer:** pull
+  together actual evidence of Shane's time and token/API spend on ODIN
+  — the earlier this is reconstructed the more defensible it will be.
+  John notes there are "a lot of questions" still open on the overall
+  structure — this is one thread, not a resolved plan.
 
 ## Webb Sports Horses Ltd (Carl Webb, cousin)
 
