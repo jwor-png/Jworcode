@@ -12,6 +12,17 @@ there is no order confirmation or results email in this inbox. Possible
 explanations: taken under a different email/account, or results arrived
 by another channel. **Still unconfirmed — John to clarify.**
 
+**3 Sept update:** John is texting with **Kirsten Keady** (spelled
+K-I-R-S-T-E-N K-E-A-D-Y), who appears to share DNA with family members
+on the website and on the **Ancestry** side (not MyHeritage) — reports
+show her as a **second or third cousin** to John. He's helping her, and
+it's prompted him to want to properly understand his own DNA again —
+possibly taking a **new DNA test**, since the original test/results
+still can't be located (see above). He has access to his heritage
+material and photographs, and wants to **build up the family tree
+properly** — sharing photographs and adding detail for his own family
+to complete it. No specific next action yet beyond this intent.
+
 ### Marion-Jane McCarthy's results (shared with John, 7 April 2021)
 
 Sent so John could compare against his own results and work out which

@@ -1180,10 +1180,28 @@ document.
 ---
 
 ## Bantry Property
-- **Status:** [ASK — no confirmed current status recorded].
+- **Status:** RESOLVED, 3 Sept — **extension works completed last
+  month (Aug 2026).** Cork County Council funding came through to
+  John's mother today (3 Sept), who transferred payment to the
+  builder — she's very happy with the result. Closed out, no further
+  action needed.
 - **Revenue relevance:** Not revenue (family).
 - **Tracking:** Cuan only.
-- **What it is:** John coordinates a property project at 11 Cois Riasc, Bantry, Co. Cork on behalf of a family member
+- **What it is:** John coordinates a property project at 11 Cois Riasc, Bantry, Co. Cork on behalf of a family member — his mother, who lives there.
+
+## New — Home property, planning for family housing sites (3 Sept)
+- **Status:** ⚪ Early — John to speak with **Christy Crowley**, architect
+  (offices in Bantry), about land at the back of John's own home
+  property (name given as "Portansk, Camelic," unconfirmed spelling,
+  needs verifying), which **[ASK — heard as "Mugell," name/spelling
+  unconfirmed]** is inheriting.
+- **What's being explored:** getting planning permission for one or
+  more sites on that land, to provide housing options for **Niamh,
+  Owen, and Dervila** (Owen's wife).
+- **Revenue relevance:** Not revenue (family).
+- **Tracking:** Cuan only.
+- **Open items:** confirm correct place name/spelling; get the call
+  with Christy Crowley scheduled.
 
 ---
 
