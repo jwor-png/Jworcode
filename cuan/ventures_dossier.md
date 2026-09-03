@@ -892,6 +892,17 @@ mention of the €70k→€90k figure movement, no reference to the separate
 AHL account balance, and no reference to Emott Walsh/index-linking —
 all per John's instruction. **Now awaiting Ray's response.**
 
+**Edel's follow-up, 3 Sept 14:06** — separately from the Mulvey
+clarification exchange, Edel Kane (Edel@smythskillucan.ie) asked to
+"arrange a meeting before September 23rd... to discuss **Mr Faulkner's
+case**" (the customer's actual name — not previously captured). John
+replied 14:31: away today, will revert tomorrow. **John's plan for the
+reply (4 Sept, ~12pm):** propose a Zoom call as the initial meeting;
+think through separately how to engage on the ~€100k AHL account debt
+(kept apart from the claim, as agreed); consult **Shane Felle** first
+(past Chairman, familiar with the matter) and invite him onto the
+initial Teams/Zoom call. Reminder scheduled for ~12pm 4 Sept.
+
 **Evidence on the product:** Mark Doherty (Marsh
 Ireland) wrote to Paul Candon, 28 June 2024, re Conway v Mulvey
 Homevalue/United Hardware/Northstone — the Sedgwick loss adjuster for
