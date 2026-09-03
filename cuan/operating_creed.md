@@ -688,11 +688,20 @@ are flagged for confirmation, never guessed.
       appeal now going to An Bord Pleanála/Coimisiún: what the local
       community actually said and agreed with Fred Logue during the
       Meath County Council planning process, given the community had
-      previously said they wanted the Old Mill site developed. Open
-      question John wants answered locally: does the community support
-      Logue's appeal, or are they unhappy he's escalating it, given it's
-      delaying a development they said they wanted. **Action: John to
-      talk to Michael and John again** on this.
+      previously said they wanted the Old Mill site developed. **RESOLVED
+      — confirmed via WhatsApp, 3 Sept 16:21:** the two people John is
+      asking are **John Lynch and Michael Durkan**, the Old Mill site
+      owners (same "Julianstown - Old Mill etc" WhatsApp group). John's
+      message to them: he has a design-team/purchasers'-reps call in the
+      morning (the 9:30am Teams call) to agree the submission steps
+      responding to Logue's appeal; separately he's briefed **Senator
+      Sharon Keoghan** on the appeal detail and asked her to get MCC to
+      make a submission in support of the grant; and he's asked John
+      Lynch and Michael Durkan to speak to the local community directly,
+      tell them about the appeal, and find out their attitude to it now
+      that it's delaying the site development and new
+      infrastructure/residential/commercial provision — suggesting they
+      might even speak to Logue themselves.
     - **New batch, dictated 2 Sept — not yet actioned:**
       - **Pay [ASK — heard as "consurgent," most likely Michael Nugent
         again]:** matches the priority item already logged earlier this
