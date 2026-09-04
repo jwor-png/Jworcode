@@ -1418,7 +1418,17 @@ over 6-12 months to find out whether there is a business at all.**
 - **"Leriathan":** An expense-claims entity referenced by Ger Blake/DSB
   (Aug 2021) via MC2 Accountants, tied to David Lehane's mileage/expense
   claims. Relationship to THH/Ilex not established from the email record.
-  [ASK — John to clarify what Leriathan was/is]
+  [ASK — John to clarify what Leriathan was/is] **Likely correct
+  spelling: Leratian Investments Limited** — SoloCheck filing alert,
+  4 Sept 2026, shows Leratian filed a Form B1c Annual Return, Financial
+  Statement, and Financial Statement Certificate, all dated 2 Sept 2026.
+  Worth pulling the actual filed accounts (€6+VAT via SoloCheck) before
+  raising with Ger, given fresh filings just landed.
+- **Kendrick Properties Limited — fresh filing, 28 Aug 2026 SoloCheck
+  alert.** Filed a Form B1c Annual Return and a Financial Statement,
+  dated 1 Jul 2026. Same open question as below on whether this is
+  John/Ger's vehicle — worth pulling the accounts before the Ger Blake
+  conversation.
 - **Related people:** David Lehane (davidlehane.ie — financial
   appraisals), William van Helden (project appraisals; also Zest
   Healthcare), Kieran O'Regan (Director, Zest Healthcare — referenced in
