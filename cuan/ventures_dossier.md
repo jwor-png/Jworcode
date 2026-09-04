@@ -1142,6 +1142,82 @@ is a relationship built over weeks, not a meeting booked at the end.
 detail today (2 Sept), monitoring rather than driving this particular
 document.
 
+### London trip, 3 Sept 2026 — positive, per WhatsApp with Johnny Shanahan
+
+Johnny went to London and met **John Jones** and **Anthony Laban**.
+John's own framing to Cuan: "positive trip... good feedback."
+
+**John Jones meeting:**
+- Wants a full **investor pack ASAP** to share with his own contacts
+  ("a few that may be interested").
+- Separately raised a live opportunity: through his wife, he has access
+  to the **concession barbershop in Liberty London, Carnaby Street**.
+  His suggestion: open it as a **standalone Barber Republic shop — the
+  London base**, staffed fully via the app, with John Jones covering
+  all setup/running costs **in exchange for equity in Barber Republic**,
+  and running it day-to-day so Johnny "wouldn't be distracted."
+  **Johnny's own read:** "That all sounds excellent."
+
+**Anthony Laban meeting:**
+- Agreed to help recruit barbers/shops for the pilot, lending his
+  industry standing and contacts.
+- Plan: build interest via clips/shorts on his channel, then a podcast
+  post-launch where he publicly backs Barber Republic ("pin his flag to
+  the mast") — Johnny notes this "will carry a lot of weight," plus
+  Anthony is soon launching his own podcast in multiple languages.
+- Anthony will also work with Johnny on the **day-to-day running of
+  Barber Republic**.
+- **His ask in return:** if the pilot leads to full funding and
+  success, an **equity stake, amount to be decided once the cap table
+  is finalised.** If it doesn't work out: "we shake hands and move on,
+  nothing ventured, nothing gained."
+- Johnny's assessment of both men: "proper men, know business and hard
+  work."
+
+**John's response to Johnny (same day):** measured, not swept up —
+**"it all needs to be measured against the commercial modelling on
+income and the funding modelling per Shane's documents from last
+month, I need to look at it all."** Explicitly did not commit to either
+equity offer on the spot.
+
+**Investor pack — John's pushback, 4 Sept:** Johnny asked for the
+investor pack before the weekend. John's reply: can't build a genuine
+investor pack without the actual monthly revenue income from
+barbershops/barbers being available yet — that figure doesn't exist
+now, so something else is needed in the interim, "along the lines of
+what was there for Dave" (an earlier document/precedent, name as
+given). **On funding structure:** the modelling is currently built
+around £50k in the first 3 months, then further rounds per the existing
+documents. **Johnny's instruction: drop the £50k tranche entirely** —
+"don't think we have the time to fuck around with that" — and instead
+push to raise the other £35k through the business itself directly. John
+acknowledged and said he'd work to that.
+
+**Also from the wider WhatsApp group (27 Aug – 4 Sept):** Johnny
+requested printable assets for the London trip (for shops, for barbers,
+and an overview/logo explaining what Barber Republic is). John
+circulated **"Barber Republic - The Money Model.pdf"** (5 pages),
+described as the "SFD" (shitty first draft) — a starting point for
+discussion on the business model and scalability, not a finished
+document. Separately, John shared a brief overview deck ("This is what
+I'm doing... been working it for the last year, almost ready to go")
+with **Ben Vowles**, described as one of the top freelancers in London,
+who responded positively: "I think this could be a really good option
+for barbershops! Perfect for holiday, pat leave, transitions in full
+time staff. And a great way for freelancers to..." — Johnny called this
+exactly the validation he'd hoped for, matching how he sees freelancers
+using Barber Republic.
+
+**Open items:** (1) John still needs to review Johnny's requests against
+Shane's actual commercial/funding modelling before committing to
+anything — not yet done as of this exchange; (2) the John Jones
+(Liberty London/Carnaby St equity-for-costs) and Anthony Laban
+(equity-for-support) offers are both live and unresolved — no
+percentage or terms agreed on either; (3) confirm who "Dave" is/was
+regarding the precedent investor document Johnny referenced; (4) an
+interim investor document (short of a full pack, since real revenue
+data doesn't exist yet) still needs to be built.
+
 ---
 
 ## Smacht Network / Padraic O'Maille
