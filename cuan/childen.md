@@ -261,3 +261,51 @@ supplied phrasing/register guidance directly). Not yet sent as of
   undisclosed by design, per the documents' own stated policy (Section
   IX) — this file will likely never hold that detail, and shouldn't try
   to reconstruct it from what's deliberately withheld.
+
+## Market intelligence — Irish Independent, "Inadequate online child
+## protection makes a mockery of rules" (2 Sept 2026)
+
+**[Cuan → Meridian]** Editorial + report coverage, directly relevant to
+Childen's positioning. Key points:
+- **CyberSafeKids report, "The year little changed"** — Roblox flagged
+  as a specific concern: nearly 70% of 8-12 year-olds use it, but it
+  isn't in the highest-risk regulatory tier. 58% of children aged 8-12
+  in a CyberSafeKids study had accounts even though the platform's own
+  age limit is 13. One in four children have negative experiences
+  online.
+- **Report's core finding:** EU regulation (the Online Safety Code,
+  created by Coimisiún na Meán, covering Instagram, Facebook, TikTok
+  and X) is not keeping pace with actual platform behaviour and new
+  features rolled out faster than safety protocols.
+- **Quote used in the piece, from Sinéad McSweeney** (former managing
+  director of Twitter's international HQ in Dublin), speaking at the
+  **Kennedy Summer School in Wexford**: "The question is no longer
+  whether technology is part of childhood — it clearly is — but whether
+  we have the right protections, education, regulation and
+  responsibilities in place to ensure children can benefit from
+  technology without being exposed to unacceptable harm." She also
+  argued the "era of self-regulation for Big Tech is over," and
+  questioned whether repeated promises from politicians/regulators
+  across Ireland and Europe have actually translated into real change.
+- **A 12-year-old quoted in the CyberSafeKids report:** described
+  receiving death/self-harm threats ("I will kill myself if you don't
+  do this") used as a manipulation tactic against them online —
+  concrete, sharp evidence of exactly the harm category Childen is
+  designed to prevent (real-time, targeted psychological coercion of a
+  named/known child).
+
+**Why this matters for Childen/Meridian:** this is exactly the kind of
+external, source-tagged evidence that strengthens the case Shane's
+letter is making to the Vatican — independent confirmation that
+current regulation (EU Online Safety Code) is structurally lagging
+platform behaviour, from a credible former industry insider (Sinéad
+McSweeney) speaking at a respected public forum (Kennedy Summer
+School), not just Childen's own framing. Worth having in hand if the
+Vatican letter or any follow-up conversation needs to cite external
+validation that the current international standard isn't working.
+Also directly relevant to Meridian's own AI governance/regulatory
+positioning more broadly (see `meridian/managers/05-ai-strategy-and-adoption.md`
+Market Intelligence Log). **REPORTED** — sourced from a physical
+newspaper clipping (Irish Independent, photographed by John), not
+independently re-verified against the original CyberSafeKids report or
+McSweeney's actual remarks.

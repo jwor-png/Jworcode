@@ -69,3 +69,24 @@ Childen.
 **Ventures touched:** None yet formally in `ventures_dossier.md` — Childen and Uropharma are new names, not previously tracked. UroPharma appears once before, in `chatgpt_synopsis_jul_aug_2026.md`, as a separate investment-review thread (~£3.5m raised, ~£500k sought) — worth checking whether that's the same UroPharma Mike Molloy is connected to, or a different one, rather than assuming.
 **Pushed to Google Drive:** No (sync not yet wired up — see open loop 1)
 ---
+
+### [2026-09-04] [Cuan → Meridian] [REPORTED]
+**Source:** Cuan (standing rule, no live Meridian session)
+**Domain(s):** AI Strategy & Adoption / Regulatory & Governance; Childen positioning
+**Summary:** John shared photographs of an Irish Independent piece
+("Inadequate online child protection makes a mockery of rules," 2 Sept
+2026) reporting on CyberSafeKids' "The year little changed" report —
+covers EU Online Safety Code gaps, Roblox age-limit/regulatory-tier
+concerns (58% of 8-12 year-olds with accounts despite a 13+ platform
+limit), and a quote from Sinéad McSweeney (ex-Twitter international MD,
+speaking at the Kennedy Summer School, Wexford) arguing the "era of
+self-regulation for Big Tech is over." Directly relevant external
+validation for Childen's positioning to the Vatican, and to Meridian's
+broader AI governance/regulatory framing.
+**Outputs:** `cuan/childen.md` (new "Market intelligence" section).
+**Open loops:** Not independently re-verified against the original
+CyberSafeKids report or McSweeney's actual remarks — sourced from a
+physical newspaper clipping only.
+**Ventures touched:** Childen, Meridian Intelligence.
+**Pushed to Google Drive:** No (sync not yet wired up).
+---
