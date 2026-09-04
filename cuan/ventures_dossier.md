@@ -1434,19 +1434,34 @@ consultancy), **Ilex Healthcare Email**, and **info@dsb.ie** (Ger
 Blake/DSB). **John's own words: "This is a project I didn't know about"**
 — he doesn't recall the outcome of a "NICE" proposal he recalls being
 submitted for a Naas Community Centre and doesn't know if it was
-selected. **Cuan searched publicly (Naas Community Centre + primary
-care/Kildare, and + planning/architect) and found no clear match** —
-the closest public result (a Naas Community Church community hall
-conversion, ABA Architects, filed June 2026) does not match on
-architect, scope, or any named party here, so it's very unlikely to be
-the same project. **Open questions for John/Ger/David Lehane
-directly:** what the Naas Community Centre project actually was, who
-"NICE" refers to in this context (a company name, not yet identified),
-whether it proceeded, and whether John/Ilex Healthcare carries any
-exposure on the unpaid Easibuild invoice given the cc chain suggests
-some level of involvement or visibility. **Not yet linked to any other
-entity in the David Lehane/Ger Blake web above** — flagging as a
-standalone new thread pending clarification.
+selected. **CORRECTED, 4 Sept — John clarifies this is actually the
+Navan Community Centre** (not Naas). **Confirmed publicly: Navan
+Primary Care Centre, Balmoral, Kells Road, Navan, Co. Meath** — a
+landmark seven-storey development, sod turned by the Minister for
+Health (Jennifer Carroll MacNeill) on 23 July 2026, estimated
+completion Q3 2028. This is a live, high-profile, publicly-confirmed
+project — good news relative to the earlier "no match found" state.
+Still open: whether John/Ilex Healthcare's group is the developer
+behind this (the sod-turning coverage doesn't name the private
+development partner), who "NICE" refers to, and whether there's any
+exposure on the unpaid Easibuild invoice (#1875, 46+ days overdue as
+of the last chase, referred to Easibuild's recovery agents) given the
+cc chain (Ilex Healthcare, DSB/Ger Blake) suggests some level of
+involvement.
+
+**Also raised, 4 Sept — two more sites, not yet confirmed:** John
+recalls the group was **selected for PCC sites in Longford and
+Sligo** as well. Cuan searched publicly — no confirmation found of
+who won either. Live public activity in both counties: **Longford**
+— Edgeworthstown PCC already has a preferred bidder appointed (design
+phase, planning targeted Q2 2025, developer not named publicly);
+separately a **Ballymahon, Co. Longford** HSE develop-and-lease tender
+is active. **Sligo** — Tubbercurry PCC is at tender stage (on the HSE
+Capital Plan); Collooney is only under local consideration, not yet on
+the Capital Plan. None of these public sources confirm your group as
+the successful bidder. **[ASK — John to confirm which specific sites
+in Longford/Sligo, and clarify "toddler site" — likely a mishearing,
+possibly a place name or "tender" — not resolved from context.]**
 - **"Leriathan" / Kendrick — RESOLVED, 4 Sept 2026, via SoloCheck company
   reports and abridged accounts (Clodar, Leratian, Kendrick) John
   purchased and shared.** Full synopsis below.
