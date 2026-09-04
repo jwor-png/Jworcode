@@ -1579,6 +1579,20 @@ conversation:**
    was about and whether it ties to a specific site — neither surfaced
    in these filings, both still need a direct question to Ger.
 
+**PAUSED, 4 Sept — John to return to this in the days ahead.** Next
+steps when he does: (1) further SoloCheck/CRO searches to complete the
+picture on David Lehane's cross-directorships (Brienross Property,
+Bellblue Nominees Trust's beneficial owner, and any others not yet
+pulled) — see the priority list already given; (2) a directorship
+search on **Yuksel Kangal** (Ger Blake's brother-in-law, Croom Lands
+co-funder) to check for any overlap with this web; (3) **John intends
+to obtain the Barpat Pharma Limited liquidation papers** himself
+(confirmed liquidation ~18 months ago, already logged above) — worth
+adding to Cuan once he has them, to see if the liquidator's report
+adds anything (creditor list, cause, connected-party detail) beyond
+what the Kendrick accounts already show (the €35k debt fully repaid
+before liquidation).
+
 ---
 
 ## Croom Lands
