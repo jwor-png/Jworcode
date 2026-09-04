@@ -50,10 +50,28 @@ John did the Golden Generation course but has no active daily/weekly
 habit keeping him current on AI since — his own words: "really doing
 nothing to keep on top of it." He wants to coordinate this into his
 work and habits, daily and weekly, not leave it as a one-off course.
-No specific cadence decided yet — worth raising as a concrete discipline
-to add to `operating_creed.md` (alongside the existing 12pm Council
-check-in) once John decides what the actual habit should look like
-(e.g. a regular reading slot, a standing prompt, a weekly review).
+**Weekly cadence, drafted 4 Sept — proposed, not yet confirmed as
+adopted:**
+- **Daily (low-effort, already happening by default):** whenever John
+  shares an article, clipping, or something Shane/UHL/Golden Generation
+  sends him, Cuan logs it here immediately, tagged by source and mapped
+  to which orchestration it feeds — no separate action needed from John
+  beyond sharing it, as he already does.
+- **Weekly, fixed slot — 15-30 minutes, day/time John to pick (Friday
+  afternoon is a candidate, same day the board/creed already gets a
+  natural weekly look):** John reviews the week's new entries in this
+  log's "Learning Log" table, and asks one question of each: does this
+  change anything about how I run Ambrion/Velocity/Meridian, or is it
+  just interesting? Anything that clears that bar gets flagged to Shane
+  or moved into the relevant Meridian manager file; anything that
+  doesn't stays here as background.
+- **Cuan's role in the weekly slot:** print/summarise the week's new
+  entries on request (e.g. "show me this week's AI upskilling") so John
+  isn't hunting through the log himself.
+- **Not yet decided:** the actual day/time, and whether this becomes a
+  line item in `operating_creed.md` alongside the 12pm Council
+  check-in. Both need John's confirmation before treating this as an
+  adopted discipline rather than a draft.
 
 ## Learning Log
 
