@@ -1415,6 +1415,38 @@ over 6-12 months to find out whether there is a business at all.**
   property opportunities, distinct from THH — e.g. "Could we in Ilex look
   at getting into this area" (Dec 2025), discussing the trend of
   HSE/private operators leasing and adapting existing premises as PCCs.
+  **New, 4 Sept — "Ilex" has its own email address ("Ilex Healthcare
+  Email"), confirmed as a live cc recipient on a David Lehane project
+  email alongside info@dsb.ie (Ger Blake/DSB)** — so Ilex Healthcare is
+  a real, named, functioning entity/inbox, not just John's informal
+  shorthand. Worth confirming its exact legal status/registration.
+
+### New, unresolved — Naas ("Nas") Community Centre / Easibuild invoice dispute (4 Sept 2026)
+
+John forwarded himself an email chain from his Outlook Healthcare
+inbox: **Easibuild** chasing **David Lehane** over **Invoice #1875**
+("Re: 26-01 [project ref] ... Architect/Landscape"), stated as **46
+days overdue** as of the most recent chase (8 Jul 2026), with a follow-
+up (21 Aug) warning the matter is "now being referred to our agents"
+and recovery action will start unless cleared within 7 days. Cc'd on
+the thread: **Leeane Kearney** (leeane@lkdesignspace.com — a design
+consultancy), **Ilex Healthcare Email**, and **info@dsb.ie** (Ger
+Blake/DSB). **John's own words: "This is a project I didn't know about"**
+— he doesn't recall the outcome of a "NICE" proposal he recalls being
+submitted for a Naas Community Centre and doesn't know if it was
+selected. **Cuan searched publicly (Naas Community Centre + primary
+care/Kildare, and + planning/architect) and found no clear match** —
+the closest public result (a Naas Community Church community hall
+conversion, ABA Architects, filed June 2026) does not match on
+architect, scope, or any named party here, so it's very unlikely to be
+the same project. **Open questions for John/Ger/David Lehane
+directly:** what the Naas Community Centre project actually was, who
+"NICE" refers to in this context (a company name, not yet identified),
+whether it proceeded, and whether John/Ilex Healthcare carries any
+exposure on the unpaid Easibuild invoice given the cc chain suggests
+some level of involvement or visibility. **Not yet linked to any other
+entity in the David Lehane/Ger Blake web above** — flagging as a
+standalone new thread pending clarification.
 - **"Leriathan" / Kendrick — RESOLVED, 4 Sept 2026, via SoloCheck company
   reports and abridged accounts (Clodar, Leratian, Kendrick) John
   purchased and shared.** Full synopsis below.
