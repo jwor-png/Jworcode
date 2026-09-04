@@ -183,3 +183,18 @@ at in his own time, not a task with a deadline.
   pushback rather than avoiding them: the Ray Smyth/Edel Smyth reply
   standing firm on the Mulvey reference rather than softening it, and
   sending the Jerry Sheehan/Fintan Shine outreach rather than waiting.
+- **4 Sept — razvanfotia (Threads), Jocko Willink's principles shared
+  via a social thread John screenshotted.** Extreme Ownership (own
+  results, mistakes, even the team's failures — blame gives away the
+  power to fix it); Discipline Equals Freedom; "Good" (reframe every
+  setback as an opening); Prioritize and Execute (handle chaos one
+  clear decision at a time); Default Aggressive (move toward the
+  problem, don't wait to feel ready); Detachment (step back, see the
+  whole board, then decide — calm beats emotional); Dichotomy of
+  Leadership (every strength taken too far becomes a weakness — hold
+  confidence/humility and discipline/flexibility in balance). **Lands
+  the same week as live, real decisions requiring exactly this
+  register** — holding steady on the Ray Smyth/Mulvey position, not
+  over-committing to either Barber Republic equity offer (Jones,
+  Laban) on the spot, and the Kendrick/Leratian company-web digging
+  (Prioritize and Execute, one company at a time, then pause).
