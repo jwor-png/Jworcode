@@ -1517,8 +1517,11 @@ conversation:**
    business is remains unstated in the abridged accounts (abridged
    filings don't disclose turnover/P&L detail, only the balance sheet).
 3. **New: a second Ger Blake shareholding surfaced — Barpat Pharma
-   Limited** — not previously on Cuan's radar at all. Worth asking Ger
-   directly what this is.
+   Limited.** **Update, 4 Sept — John confirms he already knows this
+   one: Barpat Pharma Limited went into liquidation roughly 18 months
+   ago** (i.e. around early-to-mid 2025). Consistent with the accounts
+   showing its €35,000 debt to Kendrick fully repaid to €0 by end of
+   2025. No longer an open question on identity — closed, historical.
 4. **Kendrick's financial position is genuinely stretched** (negative
    net assets, growing debt, deteriorating year-on-year) — relevant
    context if John is going to discuss Midleton or any related funding
