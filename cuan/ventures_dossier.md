@@ -1415,36 +1415,119 @@ over 6-12 months to find out whether there is a business at all.**
   property opportunities, distinct from THH — e.g. "Could we in Ilex look
   at getting into this area" (Dec 2025), discussing the trend of
   HSE/private operators leasing and adapting existing premises as PCCs.
-- **"Leriathan":** An expense-claims entity referenced by Ger Blake/DSB
-  (Aug 2021) via MC2 Accountants, tied to David Lehane's mileage/expense
-  claims. Relationship to THH/Ilex not established from the email record.
-  [ASK — John to clarify what Leriathan was/is] **Likely correct
-  spelling: Leratian Investments Limited** — SoloCheck filing alert,
-  4 Sept 2026, shows Leratian filed a Form B1c Annual Return, Financial
-  Statement, and Financial Statement Certificate, all dated 2 Sept 2026.
-  Worth pulling the actual filed accounts (€6+VAT via SoloCheck) before
-  raising with Ger, given fresh filings just landed.
-- **Kendrick Properties Limited — fresh filing, 28 Aug 2026 SoloCheck
-  alert.** Filed a Form B1c Annual Return and a Financial Statement,
-  dated 1 Jul 2026. Same open question as below on whether this is
-  John/Ger's vehicle — worth pulling the accounts before the Ger Blake
-  conversation.
-- **Related people:** David Lehane (davidlehane.ie — financial
-  appraisals), William van Helden (project appraisals; also Zest
-  Healthcare), Kieran O'Regan (Director, Zest Healthcare — referenced in
-  a 2021 thread implying he had died, "Kieran RIP").
-- **Tusla connection:** Unconfirmed — flagged, not established. The only
-  source found is a single contact captured via the Captio scanning app
-  on 14 May 2021: "Katie Duggan, National Director of Services, Tusla."
-  No further correspondence found showing the substance of any Tusla
-  involvement in this portfolio, or whether it ties to any specific site
-  (Croom, Midleton, or elsewhere). [ASK — John to clarify]
-- **Open items to chase with Ger Blake:** (1) where Midleton actually
-  stands — is Kendrick Properties Ltd John/Ger's vehicle, and is there
-  any live route back into it now JB/PHP have said no; (2) what, if
-  anything, connects Axis Health Care Assets to any of these sites; (3)
-  what "Leriathan" is and how it relates to THH/Ilex; (4) what the Katie
-  Duggan/Tusla contact was about and whether it ties to a specific site.
+- **"Leriathan" / Kendrick — RESOLVED, 4 Sept 2026, via SoloCheck company
+  reports and abridged accounts (Clodar, Leratian, Kendrick) John
+  purchased and shared.** Full synopsis below.
+
+### SYNOPSIS — David Lehane / Ger Blake company web (for Ger Blake conversation)
+
+**The connecting figure is David Lehane**, a Limerick-based company
+director/promoter (b. April 1972, Ladys Road, Barringtons Bridge,
+Limerick), director of a wide portfolio including Kendrick Properties,
+Leratian Investments, Brienross Property, Bartra Pharmacy Holdings,
+Ridgeback Retail Enterprises, Darclo Investments Holdings, Dunlicky
+View Residential Holdings, L.E. Prints DAC, and the brand-new (Jan
+2026) Clodar Enterprise Operations & Investments Holdings. **Confirmed:
+David Lehane was previously a director of Thomond Healthcare Holdings
+Limited itself (1 May 2018 – 12 May 2021, now in Liquidation)** — this
+directly links him to the origin of the THH/Ilex portfolio, not just to
+adjacent entities. No director disqualifications or past insolvencies
+recorded against him.
+
+**Kendrick Properties Limited (699358)** — incorporated 1 Jul 2021,
+registered at 3rd Floor, 98 Henry Street, Limerick. Principal activity:
+property development and construction (Industry code 4110). **Owned
+50/50 by David Lehane and Gerard Blake** (confirmed via the CRO
+Shareholders record, Annual Return effective 1 Jul 2026) — Ger is not
+just company secretary here, he is a direct half-owner. Accountants:
+HDS, Limerick. Bank: Bank of Ireland, O'Connell St, Limerick.
+- **Financials, FY2025:** Work-in-progress stock jumped to €402,217
+  (from €90,759 in 2024) — consistent with live construction activity,
+  plausibly the Midleton site given the planning application match
+  already noted below. Long-term loans doubled to €400,000 (from
+  €200,000), now carrying €20,000 interest (none in 2024). **Net
+  liabilities €(79,010)**, worse than 2024's €(43,514) — negative
+  equity, deteriorating. Going-concern note explicitly flags this,
+  relying on "the full support of its directors and other creditors."
+- **SoloCheck credit score: 68/100, Amber "Fair Trade Risk," €500
+  credit limit.** Score history shows real volatility — dropped to
+  "Caution High Risk" (20-39) in Dec 2024 when accounts were overdue,
+  recovered once filed (Mar 2025), current score since 27 Aug 2026.
+  Probability of failure estimated at 1% (below the 1.5% average for
+  Irish companies) despite the negative net worth — SoloCheck's own
+  model reads this as a going, if stretched, concern rather than a
+  failure risk.
+- **Related-party web (from the accounts' own disclosure):**
+  Kendrick advanced €56,110 working capital to **Brienross Property
+  Limited** during the year (owed €56,260 at year-end) — "David Lehane
+  is a director of both companies." Kendrick is owed €5,571 by
+  **Leratian Investments Limited** (unchanged from 2024) — same David
+  Lehane link. Kendrick was owed €35,000 by **Barpat Pharma Limited**
+  in 2024 (repaid to €0 by 2025) — the note explicitly states **"Ger
+  Blake is a shareholder of both companies"** — a second confirmed Ger
+  Blake equity stake, beyond Kendrick and Leratian.
+
+**Leratian Investments Limited (677047)** — incorporated with David
+Lehane as sole director since 24 May 2023. **Ger Blake appointed
+Company Secretary 1 January 2026**, replacing Mary Seymour. Registered
+at 3rd Floor, 98 Henry Street, Limerick (same building as Clodar and
+Kendrick). Accountants: MC2 Accountants, Cork. Bank: Bank of Ireland,
+Patrick St, Cork.
+- **Financials, FY2025:** Net Assets €256,397 (positive, unlike
+  Kendrick) — Current assets €312,253 less creditors €52,896 less
+  accruals €2,960. **But accumulated losses carried forward: €293,703**
+  (€208,264 brought forward + €85,439 loss this year) — the company is
+  asset-backed but has never turned a profit on the numbers filed.
+  Exceptional item: wrote off a **€31,000 related-party balance** owed
+  by Hudson Property Holdings Limited, now dissolved (David Lehane was
+  also Secretary there before it dissolved Oct 2024).
+- **Share structure:** David Lehane holds the only **Ordinary shares
+  (100)** — i.e. control. Four others hold Convertible Redeemable
+  Preference Shares (investor-type capital, no control): Patrick
+  Maguire (35,000), Paul Neary (150,000), Paul Coburn (90,000), and
+  **Bellblue Nominees Trust Limited** (275,000 — a nominee vehicle,
+  underlying beneficial owner not disclosed on this filing). Total
+  issued share capital €550,100. Ger Blake does not appear to hold
+  shares in Leratian itself (unlike Kendrick and Barpat Pharma) — his
+  role here reads as secretarial/administrative, appointed this year.
+
+**Clodar Enterprise Operations & Investments Holdings Limited
+(806530)** — brand new, incorporated 20 Jan 2026, registered at 98
+Henry Street, Limerick. Director: David Lehane; Secretary: **Darragh
+Lehane** (b. May 2004 — almost certainly David's son). Authorised
+capital €1,000,000, no accounts filed yet (too new), no
+mortgages/charges, no liquidators/receivers. No Ger Blake role visible
+on this one. Given the name ("Enterprise Operations & Investments
+Holdings") and timing, this reads as a newer holding-company vehicle
+David Lehane has set up for himself — not obviously connected to the
+THH/Ilex portfolio specifically, though worth asking Ger directly
+whether it has any bearing.
+
+**What this resolves, and what's still open for the Ger Blake
+conversation:**
+1. **Kendrick Properties IS confirmed as Ger Blake's own vehicle
+   (50% ownership with David Lehane)** — not just adjacent to him.
+   Whether it's specifically the entity carrying the Midleton PCC
+   planning application (24/06172) is still not confirmed by direct
+   correspondence, but the site/scope match already noted, combined
+   with the WIP jump in these accounts, makes it highly plausible.
+2. **"Leriathan" is Leratian Investments Limited** — confirmed spelling
+   and structure; Ger's role there (Secretary, appointed Jan 2026) is
+   now clear, though why he's involved and what Leratian's actual
+   business is remains unstated in the abridged accounts (abridged
+   filings don't disclose turnover/P&L detail, only the balance sheet).
+3. **New: a second Ger Blake shareholding surfaced — Barpat Pharma
+   Limited** — not previously on Cuan's radar at all. Worth asking Ger
+   directly what this is.
+4. **Kendrick's financial position is genuinely stretched** (negative
+   net assets, growing debt, deteriorating year-on-year) — relevant
+   context if John is going to discuss Midleton or any related funding
+   ask with Ger, since Kendrick itself may not be in a position to
+   self-fund without further borrowing.
+5. **Still unresolved:** what connects Axis Health Care Assets to any
+   of these sites; what the Katie Duggan/Tusla contact (14 May 2021)
+   was about and whether it ties to a specific site — neither surfaced
+   in these filings, both still need a direct question to Ger.
 
 ---
 
