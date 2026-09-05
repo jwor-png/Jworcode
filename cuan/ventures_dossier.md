@@ -107,6 +107,54 @@ Cuan reads both files in full — nothing here has been deleted or superseded.
   Intelligence System**. Non-negotiable principles: intelligence before
   automation, human authority, evidence before confidence. 14-phase
   build sequence from architecture foundation to a "world-class product."
+
+### "The Funding Reality" — ODIN market-evidence pack (shared 5 Sept 2026)
+
+A 10-page ODIN-branded document ("Estate Intelligence · Market
+Evidence"), compiled and verified 27 Aug 2026, built to answer the
+valuation/funding-reality question a serious investor will raise —
+every figure sourced, dated, and stated as adversarially fact-checked.
+Key content, for reference when this comes up with investors (M&G
+contact, Jerry Sheehan/Fintan Shine, or anyone else):
+
+- **The scale of the market:** $582bn global corporate AI investment in
+  2025 (+130% YoY); AI took 61% of all global VC in 2025, >70% of all
+  startup capital by Q2 2026; $510bn global startup funding in H1 2026
+  alone — more than all of 2025. Concentration is extreme: OpenAI +
+  Anthropic took 43% of every startup dollar raised on earth in H1 2026.
+- **Core argument for ODIN's own positioning — pre-revenue is not a
+  discount, it's the norm at the top of this market.** Documented seed
+  rounds of $100m+ closed at zero revenue: Thinking Machines ($2bn seed
+  at $12bn), Ineffable Intelligence ($1.1bn at $5.1bn), AMI Labs
+  ($1.03bn, explicitly no revenue plans), Safe Superintelligence ($1bn
+  → $2bn → $5bn more, no shipped product ever). What actually prices
+  these rounds: proof of capability, not revenue — "what it would cost
+  to recreate and what it unlocks."
+- **"The lab as the asset" — the framing most directly relevant to
+  ODIN.** A research-first company with a large, interconnected,
+  working body of IP and a demonstrated capability to keep producing it
+  is priced as a **lab**, not an early-stage product startup lacking
+  revenue — precedents: Goodfire ("neolabs" term, $1.25bn, no
+  revenue/customers), Isomorphic Labs ($2.1bn, no drug in trials yet),
+  Flagship Pioneering/Moderna and Sutter Hill/Snowflake as the
+  venture-lab lineage with SEC-filing-grade proof. **This is the exact
+  argument for ODIN's own valuation** — 2,000+ systems, 96%
+  interconnected, is a body of work, not a pitch deck.
+- **The honest counterweight, included deliberately:** median seed is
+  still $4-5m: exceptional pre-revenue rounds only go to teams whose
+  capability the market already believes. Named sceptic voices included
+  for balance (Sequoia's "$600bn question," BIS comparing the AI
+  buildout to canal/railway mania, Goldman's Covello: "at some point
+  you've got to make money") alongside the counter-case (Fed Chair
+  Powell: today's leaders "actually have earnings"). **The document's
+  own conclusion:** the bar for the exception is real, and "the proof
+  does the pricing" — candour about weaknesses (audited losses,
+  contested quarters) is itself what makes a data room credible in this
+  market.
+- **Use case:** this is explicitly the answer-bank for the valuation/
+  bubble question a serious investor conversation will raise — worth
+  having in hand (or sending ahead) for exactly that kind of
+  conversation, including the planned outreach to Zachary Webb at M&G.
   Multi-environment, multi-user foundation with workspace isolation.
   Emphasis on epistemic integrity, verification independence, strategic
   memory, and relationship intelligence.
