@@ -198,3 +198,24 @@ at in his own time, not a task with a deadline.
   over-committing to either Barber Republic equity offer (Jones,
   Laban) on the spot, and the Kendrick/Leratian company-web digging
   (Prioritize and Execute, one company at a time, then pause).
+- **4 Sept — pooravbolar (Threads), "How to Fall in Love with Your
+  Life."** Eight-point list, practical/behavioural rather than
+  motivational: (1) Sleep before midnight — "you don't need a new life,
+  you need to stop sleepwalking through the one you already have"; (2)
+  One screen-free meal a day, fully present; (3) Text someone you miss
+  — "not a paragraph or an explanation, just 'hey, it's been a long
+  time'" — loneliness quietly runs dissatisfaction and connection fixes
+  almost everything; (4) Walk outside without headphones — unstructured
+  time for the brain to untangle problems on its own; (5) Write down
+  three things that held today — facts, not gratitude journaling — to
+  manually counter the brain's threat-scanning bias, for two weeks; (6)
+  Finish one avoided thing today, the smallest one (an email, a form, a
+  conversation) — avoidance is "a compounding tax," closing one loop
+  changes how you feel about yourself now, not later; (7) Stop waiting
+  to feel ready to enjoy it — enjoyment is a practice you start before
+  you're ready, not a reward earned after fixing everything; (8) Start
+  where you are, with what you have — "the life you're waiting to fall
+  in love with is already here, buried under the weight of waiting."
+  **Practical, not just inspirational** — pairs well with the existing
+  "matters vs. merely occupies my mind" filter and the Elizabeth
+  Gilbert "select your thoughts" quote already logged above.
