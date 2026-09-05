@@ -21,7 +21,9 @@ founding rate.** The productized, sellable version of Cuan itself —
 per client. John's stated priority: roll out in the days ahead. Full
 detail in `ventures_dossier.md`.
 🔴 **ODIN — formal investment offer expected within 48 hours (31 Aug).**
-~€19-20m range discussed. IP is Shane's personally, captured via Asterial
+**Confirmed via the actual Business Plan (5 Sept): €20m round, €100m
+pre-money valuation**, John's role stated in-document as "Head of
+Investments." IP is Shane's personally, captured via Asterial
 Limited (John is Company Secretary there) to his benefit. John's top
 priority: free up his own time to work with Shane and complete this raise.
 Be ready to act fast once the offer lands. **NEW (2 Sept): "Codex" — a

@@ -108,6 +108,92 @@ Cuan reads both files in full — nothing here has been deleted or superseded.
   automation, human authority, evidence before confidence. 14-phase
   build sequence from architecture foundation to a "world-class product."
 
+### ODIN Business Plan (the actual investor document, July 2026, 18 pages + cover, prepared by Shane McCarthy)
+
+**Confirmed, precise figures — supersede the earlier "~€19-20m range
+discussed" placeholder:**
+- **The round: €20m. Pre-money valuation: €100m.** 2,600+ IP assets
+  built. 36-month plan.
+- **John's role, as stated in the document itself: "Head of
+  Investments."** Description: "the senior operator beside the founder
+  — judgement runs across law, finance, property and restructuring...
+  holds the capital relationships and the senior access that put this
+  round in front of the right people... his seat owns the investment
+  relationships and the strategic doors ODIN moves through."
+- **Shane's role: Founder, CEO & Chief Architect** — 13 years building
+  toward this, 15 months building ODIN itself, personally designed
+  every one of the 2,600+ IP assets.
+- **Institutional layer planned for round one:** a delivery-focused
+  CTO, an orchestration/agent architecture lead, a governance lead, and
+  senior commercial executors — 13-14 senior humans by end of year two,
+  each amplified by "personalised intelligence infrastructure" and a
+  synthetic workforce of 30+ continuous agents beneath them.
+- **The core thesis:** "Most AI companies build products. ODIN builds
+  the factory that creates them." Positioned as production
+  infrastructure — assembly lines for agents/multi-agent systems, not a
+  single product — with governance as the floor the whole factory
+  stands on (relevant given the EU AI Act's first obligations land
+  August 2026, high-risk regime through 2027-28).
+- **Traction already earning, pre-round (figures the document states as
+  real, client identities withheld pending consent):** ~€135k in the
+  bank, ~€70k contracted-but-unpaid, €400k+ near-term pipeline, live
+  demand across 7 of 9 tracked "edges." Explicitly framed as **"pre-
+  scale, not pre-revenue."** Named (anonymised) engagements include a
+  Gulf property/media platform (€50k), an Enterprise Ireland-funded AI
+  programme (~€50k), **"a national hardware retail group" — almost
+  certainly UHL/Velocity AI, already logged separately in this
+  dossier** (€20k, board-grade AI governance + EU AI Act strategy +
+  leadership programme), a major UK legal matter (€10k — likely the
+  same "verification that did what four legal teams before it could
+  not" case highlighted on the evidence page), and a statutory property
+  inspection system (€4k).
+- **Revenue model, 3 lines, explicitly excluding any acquisition
+  events:** client engagements, IP licensing & platform, subsidiary
+  revenue share. Projected: **Year 1 €2.5m, Year 2 €16.0m (operating
+  break-even), Year 3 €40.0m** — stated as "the floor," with acquisition
+  upside "above it" (one illustrative example: a single spun-out
+  subsidiary exiting at an ordinary multiple could alone return
+  €40-60m).
+- **Capital deployment of the €20m:** Tokens & API capacity 31% (called
+  "the synthetic workforce, running day and night" — a deliberate
+  inversion of the usual 60-70%-into-headcount studio/consultancy
+  model), People 26%, Tooling & infrastructure 11%, Contingency 10%,
+  Operations 8%, Legal/IP/subsidiaries 7%, Market presence 5%, Runway
+  buffer 2%.
+- **Milestone schedule:** Months 1-3 institutional spine live (CTO +
+  orchestration lead hired); Months 4-12 full senior wave hired, Year 1
+  revenue €2.5m; Months 13-24 10-12 engagements running, two
+  subsidiaries generating revenue, Year 2 €16m + break-even; Months
+  25-36 Year 3 €40m, subsidiary events maturing, positioned for exit.
+- **Stated exit range: €550m-€800m** (€40m Year 3 revenue at 14-20x
+  AI-native multiples), implying a **5.5x-8.0x return for round-one
+  investors** across that range, before any acquisition events (which
+  the document says land "above these figures").
+- **Succession/key-person answer (a standard institutional-investor
+  question, addressed directly in the document):** the founder's
+  knowledge is stated as already externalised into a "Governance suite,
+  Verification gate, Orchestration standards, Build & mutation
+  methodology, the orchestration blueprint, and an operating manual for
+  intelligence creation" — described as "inventory rather than
+  intention... enforced by machine rather than memory."
+- **Defensibility argument (6 layers cited):** accumulated IP (2,600+
+  interconnecting assets), methodology (15 months of build doctrine),
+  governance floor (ahead of EU regulation), compounding speed, client
+  switching costs, and externalised founder knowledge.
+- **Evidence section highlights** (see also `childen.md`/People Map for
+  overlapping detail): a UK legal matter where ODIN's verification did
+  "what four legal teams before it could not"; the world's first fully
+  female AI news desk (34 journalists); VANTA in use across 14
+  countries; AIMES (AI Migration Education System) running the Golden
+  Generation programme; 40+ live orchestrations; 2,600+ IP assets held.
+
+**Why this matters for the Zachary Webb/M&G outreach:** this document,
+alongside "The Funding Reality" evidence pack above, is the actual pair
+to send — one makes ODIN's own case (this one), the other pre-empts the
+market-reality/valuation scepticism a serious institutional contact
+would raise. Both are now confirmed as real files John holds, not
+placeholders.
+
 ### "The Funding Reality" — ODIN market-evidence pack (shared 5 Sept 2026)
 
 A 10-page ODIN-branded document ("Estate Intelligence · Market
@@ -155,9 +241,6 @@ contact, Jerry Sheehan/Fintan Shine, or anyone else):
   bubble question a serious investor conversation will raise — worth
   having in hand (or sending ahead) for exactly that kind of
   conversation, including the planned outreach to Zachary Webb at M&G.
-  Multi-environment, multi-user foundation with workspace isolation.
-  Emphasis on epistemic integrity, verification independence, strategic
-  memory, and relationship intelligence.
 - **ODIN, full name confirmed (AI Funding session, 2 Sept):** Orchestrated
   Distributed Intelligence Network — a studio built around a single
   living organism of AI intellectual property, rather than a standalone
