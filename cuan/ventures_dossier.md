@@ -1907,6 +1907,15 @@ before liquidation).
 - **John's role:** Local anchor and ambassador for Kilmallock and
   Environs.
 - **Reach:** Genuinely global — Ireland, Australia, North America, UK.
+- **New outreach, 7 Sept:** John wants to reach out to **[ASK — heard
+  as "Ashland Thompson," name unconfirmed]** regarding a Tangible
+  online event for wellness — possibly a new/upcoming theme in the
+  monthly series, not yet matched against the 2026 themes list above.
+  Separately, wants to speak to **Sharon**, described as **John
+  McNamara's wife**, re **[ASK — heard as "Elymic," unclear — could be
+  a place, event, or organisation name]**. None of these names match
+  anyone already logged for Tangible or elsewhere — flagging rather
+  than guessing.
   Distribution includes the Office of the Mayor of Limerick, Department
   of Foreign Affairs, Western Development Commission, and Global Irish,
   alongside a wide commercial/community spread. Mairead O'Donnell, Colm
