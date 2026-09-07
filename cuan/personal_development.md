@@ -219,3 +219,9 @@ at in his own time, not a task with a deadline.
   **Practical, not just inspirational** — pairs well with the existing
   "matters vs. merely occupies my mind" filter and the Elizabeth
   Gilbert "select your thoughts" quote already logged above.
+- **5 Sept — June Curtin/Snámhaí Sásta:** "Do more of the things that
+  make you happy."
+- **6 Sept — Robert Tew/Snámhaí Sásta:** "Trust yourself. You've
+  survived a lot and you'll survive whatever is coming."
+- **7 Sept — Mel Robbins/Snámhaí Sásta:** "There will always be someone
+  who can't see your worth. Don't let it be you."
