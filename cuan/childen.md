@@ -309,3 +309,63 @@ Market Intelligence Log). **REPORTED** — sourced from a physical
 newspaper clipping (Irish Independent, photographed by John), not
 independently re-verified against the original CyberSafeKids report or
 McSweeney's actual remarks.
+
+## Market intelligence — Alex Cooney (CEO, CyberSafeKids) op-ed,
+## "Laws to protect children online are failing. Big Tech must be held
+## to account" (newspaper clipping shared 7 Sept 2026)
+
+**[Cuan → Meridian]** Follow-up op-ed from the same CyberSafeKids report
+referenced above ("The Year That Little Changed: More Regulation, More
+AI, Same Old Problems"), this time specifically on **AI chatbots**, by
+CyberSafeKids' own CEO. Directly on-point for Childen and its Vatican
+positioning:
+- **The core new finding:** AI chatbot use among children has risen
+  eleven-fold in two years — from 5% to **55% of primary school
+  children** (based on 6,000+ responses within a wider 7,300-child
+  sample). For secondary students (12-15), usage is **76%**.
+- **Why it's happening, per Cooney:** chatbots are "highly accessible,"
+  embedded in apps children already use (Snapchat, WhatsApp, Roblox)
+  and in search engines, not just standalone apps (ChatGPT, Google
+  Gemini). They're designed to be "endlessly empathetic and affirming,"
+  never challenge the user, and function "a bit like a therapist, but
+  without the qualifications... and the fact they're not actually
+  human." 10% of younger children and 16% of older children said they
+  find it easier to chat with a bot than people they know in real life.
+- **The regulatory gap, stated plainly:** chatbots are **not classed as
+  high-risk under the EU AI Act** because chat-based interaction isn't
+  among the Act's specific high-risk use cases, "regardless of how
+  sophisticated the underlying model is" — they're categorised as
+  "limited risk," meaning the only real obligation on providers is to
+  tell users they're talking to AI. No requirement to test for risks to
+  children before reaching market. The Digital Services Act "barely
+  touches them" either — its Article 28 minor protections apply to
+  platforms under the DSA, and standalone chatbots "largely fall
+  outside that framework altogether."
+- **Cited harm:** "recent and tragic cases in both the US and the UK
+  where children are alleged to have taken their own lives after
+  seeking advice from chatbots."
+- **One positive note:** a Digital Omnibus amendment to the AI Act did
+  ban AI systems that generate/manipulate non-consensual sexually
+  explicit imagery of an identifiable person, or generate CSAM —
+  effective December 2026, not yet in force. Linked to the Grok AI
+  "nudification" scandal earlier in the year.
+- **Cooney's closing argument:** "We need to stop playing catch-up by
+  regulating harm only after it's happened... Big Tech should be forced
+  to undergo standards and compliance checks before its products reach
+  the market, and certainly before they reach children." Explicitly
+  frames this as not about banning children from the online world, but
+  about safe, age-appropriate, well-regulated spaces and real corporate
+  accountability for harm.
+
+**Why this matters for Childen specifically:** this is a much sharper,
+more targeted piece of evidence than the 2 Sept clipping — it's about
+**AI chatbots specifically** (Childen's exact domain), names the exact
+regulatory gap (chat-based AI sitting outside both the EU AI Act's
+high-risk tier and the DSA's minor protections), and comes from the CEO
+of the organisation that ran the underlying research, not a secondary
+report. Directly usable in the Vatican letter or any follow-up: current
+regulation demonstrably does not classify conversational AI aimed at or
+reachable by children as high-risk, which is precisely the gap Childen
+is built to close. **REPORTED** — sourced from a physical newspaper
+clipping, not independently re-verified against CyberSafeKids' full
+report or the EU AI Act/Digital Omnibus text.

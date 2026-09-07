@@ -90,3 +90,24 @@ physical newspaper clipping only.
 **Ventures touched:** Childen, Meridian Intelligence.
 **Pushed to Google Drive:** No (sync not yet wired up).
 ---
+
+### [2026-09-07] [Cuan → Meridian] [REPORTED]
+**Source:** Cuan (standing rule, no live Meridian session)
+**Domain(s):** AI Strategy & Adoption / Regulatory & Governance; Childen positioning
+**Summary:** John shared a newspaper clipping of an op-ed by Alex
+Cooney, CEO of CyberSafeKids ("Laws to protect children online are
+failing. Big Tech must be held to account"), drawn from the same "The
+Year That Little Changed" report as the 4 Sept entry but focused
+specifically on AI chatbots. Key finding: chatbot use among primary
+school children rose elevenfold in two years (5% to 55%); 76% among
+secondary students (12-15). Names the exact regulatory gap Childen is
+built to close: conversational AI is classed "limited risk" under the
+EU AI Act (not high-risk, regardless of model sophistication) and
+largely falls outside the DSA's minor-protection provisions too.
+**Outputs:** `cuan/childen.md` (new market intelligence section).
+**Open loops:** Not independently re-verified against CyberSafeKids'
+full report or the EU AI Act/Digital Omnibus text — sourced from a
+physical newspaper clipping only.
+**Ventures touched:** Childen, Meridian Intelligence.
+**Pushed to Google Drive:** No (sync not yet wired up).
+---
