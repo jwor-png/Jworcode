@@ -237,3 +237,23 @@ at in his own time, not a task with a deadline.
   Shane/Cuan matter to him beyond simple process — having a second
   read on a decision may be a genuine confidence lever, not just good
   governance practice.
+- **7 Sept — The Revenue Coaches / Chris Donnelly (Instagram):** Three
+  founder-stage infographics shared for the personal development
+  knowledge base, and flagged by John as also relevant to Barber
+  Republic and Meridian Intelligence: (1) "Life of a Founder" — full
+  lifecycle framework, Idea/Pre-Seed (0-1yr) through Exit/Founder 2.0
+  (8+yrs), one focus block per stage (e.g. Pre-Seed: "talk to customers
+  before investors," "sell it yourself before anyone else can"; Series
+  A: "prove you can close deals without you in the room every time";
+  Exit: "build leadership that doesn't depend on you"); (2) "Life of a
+  Pre-Seed Founder" — a zoomed-in 0-12 month version (Problem to Prove →
+  Customer Discovery → Demand Test → MVP + First Customers → the
+  Pre-Seed goal: validate a real customer problem, get the MVP into
+  users' hands, get a customer to commit time or money); (3) Chris
+  Donnelly, "How To Actually Build A Business" — a contrarian
+  doesn't-matter/does-matter list: vanity metrics, follower count,
+  outside investment, a polished launch and a fancy logo don't matter;
+  what does is fixing the product first, making your own role
+  unnecessary, one favour a day for years, meeting 30-50 new people a
+  month, over-delivering even on booked revenue, and raising prices
+  when demand outstrips delivery capacity.

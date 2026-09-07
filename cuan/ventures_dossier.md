@@ -1412,6 +1412,16 @@ regarding the precedent investor document Johnny referenced; (4) an
 interim investor document (short of a full pack, since real revenue
 data doesn't exist yet) still needs to be built.
 
+**Stage framework cross-reference (7 Sept, The Revenue Coaches/Chris
+Donnelly infographics, logged in full in `personal_development.md`):**
+Barber Republic reads as squarely Idea/Pre-Seed stage against the "Life
+of a Founder" framework — the "Life of a Pre-Seed Founder" checklist
+(validate a real customer problem, get the MVP into users' hands, get a
+customer to commit time or money) maps closely onto where John still
+has Johnny's requests and the two equity offers (John Jones, Anthony
+Laban) unresolved pending Shane's real commercial modelling. Useful
+outside check on pacing rather than new information.
+
 ---
 
 ## Smacht Network / Padraic O'Maille

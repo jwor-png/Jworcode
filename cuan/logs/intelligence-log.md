@@ -25,6 +25,35 @@ One entry per session. Format is fixed — both systems write to this file.
 
 ### [2026-09-07] [Cuan → Meridian] [REPORTED]
 **Source:** Cuan (standing rule, no live Meridian session)
+**Domain(s):** Commercial & Deal (founder-stage/funding framing); Barber Republic
+**Summary:** John shared three Instagram infographics from The Revenue
+Coaches / Chris Donnelly — "Life of a Founder" (full lifecycle,
+Idea/Pre-Seed through Exit/Founder 2.0, one focus checklist per stage),
+"Life of a Pre-Seed Founder" (zoomed-in 0-12 month version: Problem to
+Prove, Customer Discovery, Demand Test, MVP + First Customers), and
+"How To Actually Build A Business" (a contrarian list distinguishing
+vanity signals — followers, outside investment, a polished launch —
+from what actually compounds: fixing the product first, making your
+own role unnecessary, one favour a day for years, over-delivering on
+booked revenue, raising prices when demand outstrips delivery). John
+flagged these for his personal development knowledge base and as
+relevant to Barber Republic and Meridian Intelligence specifically.
+Cross-referenced against Barber Republic's current pre-seed position —
+the "validate problem / get MVP into users' hands / get a customer to
+commit" checklist lines up with where John still has Johnny Shanahan's
+requests and the John Jones/Anthony Laban equity offers unresolved
+pending Shane's real commercial modelling.
+**Outputs:** `cuan/personal_development.md` (new dated entry),
+`cuan/ventures_dossier.md` (Barber Republic section — stage-framework
+cross-reference).
+**Open loops:** None new — reference material applied against an
+already-tracked open item (Barber Republic funding-model review).
+**Ventures touched:** Barber Republic, Meridian Intelligence.
+**Pushed to Google Drive:** No (sync not yet wired up).
+---
+
+### [2026-09-07] [Cuan → Meridian] [REPORTED]
+**Source:** Cuan (standing rule, no live Meridian session)
 **Domain(s):** AI Strategy & Adoption; Golden Generation
 **Summary:** John shared a Business Post interview (6 Sept 2026, Kate
 Hodge) with Winston Weinberg, CEO of Harvey, the AI legal-tech firm
