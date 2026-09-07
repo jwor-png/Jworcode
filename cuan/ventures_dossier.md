@@ -785,6 +785,69 @@ consolidation pass rather than merged speculatively.
 - **Key contacts at UHL:** CEO Paul Candon; Commercial Director David Shakeshaft
 - **Note:** John has a declared family connection to a member store — managed as a declared interest
 
+### Risk register / cybersecurity, GDPR and AI review — reopened 7 Sept 2026
+- **Trigger:** John shared five Business Post articles (6 Sept 2026) on
+  AI-driven cyber threats and everyday AI use, and asked to revisit UHL's
+  risk register in light of this, tying back to a commitment made at the
+  July 2026 board meeting.
+- **What the Gmail record actually shows:**
+  - The **draft Risk Register and a new Group Risk Review Framework**
+    were raised in John's own 22 July note to Michael O'Driscoll (Audit &
+    Risk Committee) as items he proposed the committee review separately
+    **before any board adoption**, since both had items needing
+    completion first — a session for this was to be set after the 29
+    July board meeting. No evidence found yet that this separate
+    committee review actually took place.
+  - The **Mazars (Forvis Mazars) FY2025 Audit Results Report** (reviewed
+    by John using Claude Code, per his 22 July note) flagged five control
+    observations (owners/remediation dates being tracked at committee
+    level), a "severe systems disruption" the company experienced at the
+    start of January 2026 (checked against subsequent-events note 23),
+    and revisions to the preliminary risk assessment since planning. The
+    thread text found does **not** contain an explicit GDPR or AI-specific
+    finding — those may be in the full Audit Results Report PDF
+    attachment (not machine-readable via Gmail) or a different document
+    John has separately. **[ASK — need the actual Mazars report PDF or
+    the specific page/section John is recalling for the GDPR/AI content.]**
+  - **"Michael"** = **Michael O'Driscoll** (Bandon Co-op, Retail Manager),
+    John's fellow Audit & Risk Committee member — confirmed, not a new
+    person.
+  - A **"United Hardware Risk Assessment Files"** attachment set was
+    forwarded to John by Niamh (23 Jan 2026), which John then circulated
+    to Joe Wallace and Michael O'Driscoll ahead of a Dec 2025 board
+    meeting reference — this predates the July audit cycle and is a
+    distinct, earlier risk-assessment document set. Also a "Risk Register
+    & Audit Plan 2025 Review" Teams meeting took place 20 March 2026.
+  - July 2026 UHL board meeting: board report and pack circulated 25 July
+    by CFO David Geoghegan ahead of the 29 July meeting (large attachment,
+    contents not read in detail this pass).
+- **Action:** Review is live, not closed. Next step is for John to locate
+  the actual Mazars Audit Results Report attachment (or confirm which
+  document carries the GDPR/AI findings) so the specific commitments can
+  be checked off against the current risk register position, rather than
+  reconstructing from email summaries alone.
+- **Market intelligence feeding this review (Business Post, 6 Sept
+  2026, via Cuan → Meridian):**
+  - Jan Bervar (Conscia) — "Irish firms must embrace always-on cyber
+    defence": argues perimeter-based security is obsolete, advocates an
+    "assume breach" MDR/XDR posture with continuous monitoring.
+  - Paul Delahunty (Stryve) — "AI is escalating threat tactics but
+    security basics still remain key": AI is accelerating attacker
+    sophistication (phishing, social engineering) but fundamentals
+    (patching, MFA, backups) remain the most effective defence; frames
+    security as a DORA/NIS2 business-continuity issue, not just IT.
+  - Adrian Kelly (Landmark Technologies, commercial profile) — "The
+    hidden cyber risk inside everyday AI use": 87% of Irish office
+    workers now use AI tools at work; roughly 1-in-10 admit entering
+    confidential/company data into unapproved/unsanctioned AI tools —
+    a live shadow-AI/data-leakage exposure directly relevant to any
+    company (including UHL) without a clear AI acceptable-use policy.
+  - **Direct relevance:** UHL's own risk register review should
+    explicitly test for an AI acceptable-use policy (given the Landmark
+    Technologies shadow-AI stat) alongside the existing five control
+    observations and NIS2/DORA-style continuity framing Stryve and
+    Conscia argue for.
+
 ---
 
 ## AHL Plc

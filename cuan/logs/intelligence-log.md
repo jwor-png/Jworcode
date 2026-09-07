@@ -23,6 +23,41 @@ One entry per session. Format is fixed — both systems write to this file.
 
 <!-- ENTRIES BEGIN BELOW — newest first -->
 
+### [2026-09-07] [Cuan → Meridian] [REPORTED]
+**Source:** Cuan (standing rule, no live Meridian session)
+**Domain(s):** AI Strategy & Adoption / Cybersecurity & Governance; UHL board/risk register
+**Summary:** John shared five Business Post articles (6 Sept 2026) on
+AI-driven cybersecurity risk — Jan Bervar (Conscia) on "assume breach"
+MDR/XDR posture replacing perimeter defence; Paul Delahunty (Stryve) on
+AI escalating attacker tactics while security fundamentals (patching,
+MFA, backups) remain the most effective defence, framed as a DORA/NIS2
+business-continuity issue; and Adrian Kelly (Landmark Technologies) on
+"the hidden cyber risk inside everyday AI use" — 87% of Irish office
+workers now use AI at work, roughly 1-in-10 admit entering confidential
+data into unapproved AI tools. John tied this directly to reopening
+United Hardware's (UHL) risk register review, referencing a July 2026
+board commitment to strengthen its risk register/policy position, a
+Mazars (Forvis Mazars) FY2025 audit report review, and a document from
+UHL's internal team copied to "Michael" (confirmed as Michael
+O'Driscoll, Audit & Risk Committee colleague). Gmail search confirmed
+the draft UHL Risk Register and a new Group Risk Review Framework were
+flagged by John on 22 July 2026 as needing a separate committee review
+before board adoption — no evidence yet that review happened. The
+Mazars audit thread confirms five control observations and a "severe
+systems disruption" in early January 2026, but no explicit GDPR/AI
+finding text was found in the searchable email body — likely sits in
+the full PDF audit report, not yet located.
+**Outputs:** `cuan/ventures_dossier.md` (new "Risk register /
+cybersecurity, GDPR and AI review" section under UHL).
+**Open loops:** Locate the actual Mazars Audit Results Report PDF (or
+confirm the right document) to check the GDPR/AI-specific findings John
+is recalling; confirm whether the post-29-July committee session on the
+Risk Register/Group Risk Review Framework actually took place.
+**Ventures touched:** United Hardware Limited (UHL), Meridian
+Intelligence.
+**Pushed to Google Drive:** No (sync not yet wired up).
+---
+
 ### [2026-09-02] [Cuan → Meridian] [DECISION-READY]
 **Source:** Cuan (market intelligence gathered directly from John, routed
 here for Meridian since no live Meridian session touched this material)
