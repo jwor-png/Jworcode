@@ -225,3 +225,15 @@ at in his own time, not a task with a deadline.
   survived a lot and you'll survive whatever is coming."
 - **7 Sept — Mel Robbins/Snámhaí Sásta:** "There will always be someone
   who can't see your worth. Don't let it be you."
+- **7 Sept — Dave Sheahan (Instagram, davesheahanhighperformance.com):**
+  "Slay fear and move forward, or become another one of its regretful
+  victims." **John's own note attached — a genuine self-observation,
+  not just a shared quote:** he says he "does suffer from a lack of
+  confidence on matters when left on his own." Worth treating as a real
+  data point rather than routine material — it names something specific
+  (decisions made alone, without someone else to check against) rather
+  than a general mood. Cross-reference: this may be part of why the
+  Council's daily discipline (`council.md`) and running things past
+  Shane/Cuan matter to him beyond simple process — having a second
+  read on a decision may be a genuine confidence lever, not just good
+  governance practice.
