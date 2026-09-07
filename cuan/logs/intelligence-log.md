@@ -25,6 +25,31 @@ One entry per session. Format is fixed — both systems write to this file.
 
 ### [2026-09-07] [Cuan → Meridian] [REPORTED]
 **Source:** Cuan (standing rule, no live Meridian session)
+**Domain(s):** AI Strategy & Adoption; Golden Generation
+**Summary:** John shared a Business Post interview (6 Sept 2026, Kate
+Hodge) with Winston Weinberg, CEO of Harvey, the AI legal-tech firm
+(~$1bn valuation, OpenAI technical partner, ~200,000 lawyers using it
+across firms including A&O Shearman, Slaughter and May, DLA Piper, and
+in-house teams at HSBC, Microsoft and PwC). Weinberg's positioning —
+AI absorbs repetitive junior-level work so senior professionals spend
+time on judgement and client relationships, framed explicitly as
+"liberate, not replace" — is a named, evidenced case study matching the
+AI-adoption/human-judgement framing already used in Golden Generation
+and Meridian's AI Strategy & Adoption work. Notable adoption-pattern
+detail: uptake is generational (younger lawyers already treat it as
+normal; senior partners more anxious about billable-hour economics) —
+a useful reference point for how UHL's senior executives may respond
+to its own AI training programme.
+**Outputs:** `cuan/ai_upskilling.md` (new Learning Log entry).
+**Open loops:** None — logged as reference material, not an open
+question.
+**Ventures touched:** Meridian Intelligence, Golden Generation, United
+Hardware Limited (AI training programme, comparative context only).
+**Pushed to Google Drive:** No (sync not yet wired up).
+---
+
+### [2026-09-07] [Cuan → Meridian] [REPORTED]
+**Source:** Cuan (standing rule, no live Meridian session)
 **Domain(s):** AI Strategy & Adoption / Cybersecurity & Governance; UHL board/risk register
 **Summary:** John shared five Business Post articles (6 Sept 2026) on
 AI-driven cybersecurity risk — Jan Bervar (Conscia) on "assume breach"
