@@ -2162,6 +2162,28 @@ guessed:**
 - **Tracking:** Cuan only, per `governance.md`.
 - **Detail:** [ASK — what does resolution require? Is there a timeline?]
 
+## End-of-life planning (7 Sept 2026, new)
+- **Status:** ⚪ Not started — stated intent only.
+- **Revenue relevance:** Not revenue (personal).
+- **Tracking:** Cuan only.
+- **What John wants to do:**
+  1. Start planning for his own funeral, to have arrangements in place.
+  2. Open/review his **Will** and **Enduring Power of Attorney** —
+     unclear from this whether these already exist and need opening/
+     reviewing, or need to be created from scratch. [ASK — confirm
+     which]
+  3. Make a small bequest to the **RNLI** (Royal National Lifeboat
+     Institution) as part of the Will.
+- **Open items:** confirm current status of Will/EPA (existing vs new),
+  identify a solicitor to handle it if not already in place.
+
+## Personal — mobile phone account (7 Sept 2026)
+- John paid his monthly bill with **[ASK — heard as "four to four,"
+  provider name unclear]** and logged into their website to check
+  whether he can upgrade to an improved account/plan and get a new
+  phone. Personal item, no action needed from Cuan unless he wants
+  help comparing plans once the provider is confirmed.
+
 ---
 
 ## Paul Candon Matter
