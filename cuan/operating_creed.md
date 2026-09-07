@@ -738,9 +738,9 @@ are flagged for confirmation, never guessed.
         it stated plainly this time), dated 7 Sept 2026, addressed from
         Spittal House, Portauns, Kilmallock, Co. Limerick, V35 W965.
         States in strong terms continued optimism that permission will
-        be granted on appeal, given MCC's own decision to grant. **For
-        John to print, sign and scan to John Lynch this afternoon** —
-        not yet confirmed sent.
+        be granted on appeal, given MCC's own decision to grant.
+        **SENT, 7 Sept — John confirms the letter was sent to John
+        Lynch.** Closed out ahead of his 8 Sept court date.
       - **Advise John Lynch and [ASK — heard as "Michael Durkin," not
         previously logged on this matter] on the [ASK — heard as
         "bishop position," most likely a mishearing of "sale position"
@@ -1251,3 +1251,28 @@ each is traceable to a specific item above.
 3. **Meridian and Ambrion email infrastructure is a recurring blocker** (Workspace
    billing, POP auth) — worth a single session with whoever manages hosting/IT for
    both domains to resolve properly, rather than solving each symptom individually.
+
+---
+
+## 7 September — new items dictated
+
+- **United Hardware — signed letter for new UK bank account.** John
+  signed a letter to open a new UK bank account for United Hardware.
+  No further detail given (which bank, why a new UK account is needed)
+  — flag to confirm purpose/urgency if it resurfaces.
+- **Personal errands, not yet done:** visit the Spar Rewards Club to
+  check points balance and get a voucher; order books from **Eason's**
+  (confirmed spelling — dictated as "Isens/Easons").
+- **A personal "master plan," John's own idea:** build a plan for
+  himself based on `operating_creed.md`, driven specifically by sales
+  orchestration and generating business through **Meridian
+  Intelligence**. Not yet started — no shape or timeline given yet,
+  worth returning to when he's ready to define it.
+- **Ger Blake — proposed Meridian partnership discussion.** John wants
+  to consult Ger Blake about bringing **Meridian into partnership with
+  [ASK — heard as "Carol Consulting," name/spelling unconfirmed]**,
+  described as Ger's own business. Not yet raised with Ger. Worth
+  confirming the actual company name before this goes further — no
+  match found yet against anything already logged for Ger Blake (DSB,
+  Zest Healthcare, Leratian/Kendrick as director/secretary roles — this
+  reads as a different, not-yet-logged entity).
