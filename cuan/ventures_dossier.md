@@ -1399,9 +1399,10 @@ data doesn't exist yet) still needs to be built.
 ## New — Home property, planning for family housing sites (3 Sept)
 - **Status:** ⚪ Early — John to speak with **Christy Crowley**, architect
   (offices in Bantry), about land at the back of John's own home
-  property (name given as "Portansk, Camelic," unconfirmed spelling,
-  needs verifying), which **[ASK — heard as "Mugell," name/spelling
-  unconfirmed]** is inheriting.
+  property — **confirmed, 7 Sept: Portauns, Kilmallock, Co. Limerick,
+  V35 W965** (Spittal House, John's home address, already correctly on
+  file in `owner_profile.md`) — which **[ASK — heard as "Mugell,"
+  name/spelling unconfirmed]** is inheriting.
 - **What's being explored:** getting planning permission for one or
   more sites on that land, to provide housing options for **Niamh,
   Owen, and Dervila** (Owen's wife).

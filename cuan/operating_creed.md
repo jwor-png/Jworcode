@@ -722,6 +722,25 @@ are flagged for confirmation, never guessed.
         (Cuan has no WhatsApp send capability). **Sent, 3 Sept, 12:17**
         to the "Julianstown - Old Mill etc" WhatsApp group (John Pa,
         Michael, John).
+      - **John Lynch — court letter, 7 Sept.** John Lynch has a court
+        date on 8 Sept (his Mars Capital matter — see the "You and Mars
+        Capital - Court 27/04" thread, April 2026, and the original
+        supporting letter sent then, "Lynch Letter 17April2026.docx.pdf"
+        via johnpalynch@gmail.com, for him to forward to his solicitor
+        Clare). Given the material change since April (planning
+        permission decision to grant issued 4 Aug, Fred Logue's appeal
+        lodged 31 Aug, now with An Coimisiún Pleanála ref
+        PL-501978-MH-26), John asked for an updated version. **Drafted,
+        establishes John's role explicitly as Project Manager for the
+        Julianstown Old Mill development, engaged by site owners John
+        Lynch and Michael Durkan** (per John's instruction — his
+        designation wasn't clear from the original letter and he wanted
+        it stated plainly this time), dated 7 Sept 2026, addressed from
+        Spittal House, Portauns, Kilmallock, Co. Limerick, V35 W965.
+        States in strong terms continued optimism that permission will
+        be granted on appeal, given MCC's own decision to grant. **For
+        John to print, sign and scan to John Lynch this afternoon** —
+        not yet confirmed sent.
       - **Advise John Lynch and [ASK — heard as "Michael Durkin," not
         previously logged on this matter] on the [ASK — heard as
         "bishop position," most likely a mishearing of "sale position"
