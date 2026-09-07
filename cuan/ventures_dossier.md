@@ -1907,15 +1907,18 @@ before liquidation).
 - **John's role:** Local anchor and ambassador for Kilmallock and
   Environs.
 - **Reach:** Genuinely global — Ireland, Australia, North America, UK.
-- **New outreach, 7 Sept:** John wants to reach out to **[ASK — heard
-  as "Ashland Thompson," name unconfirmed]** regarding a Tangible
-  online event for wellness — possibly a new/upcoming theme in the
-  monthly series, not yet matched against the 2026 themes list above.
-  Separately, wants to speak to **Sharon**, described as **John
-  McNamara's wife**, re **[ASK — heard as "Elymic," unclear — could be
-  a place, event, or organisation name]**. None of these names match
-  anyone already logged for Tangible or elsewhere — flagging rather
-  than guessing.
+- **New Tangible online event, 24th (month unconfirmed, likely Sept
+  2026) — Wellness theme, via Zoom.** John to consult three people
+  ahead of it: **[ASK — heard as "Ashland Thompson," name unconfirmed]**;
+  **Sharon**, described as John McNamara's wife; and a third **[ASK —
+  heard as "the needs employers," unclear who/what this refers to]**.
+  None of these three match anyone already logged for Tangible — names
+  not previously on file, flagging rather than guessing spellings.
+- **Karl Daly (K-A-R-L, D-A-L-Y) — new contact, 7 Sept.** Limerick-based,
+  with **[ASK — heard as "Nemara Accountants," name/spelling
+  unconfirmed]**, operating in the wellness area — John thought of him
+  as relevant to the Tangible wellness event above. Not previously
+  logged anywhere in Cuan.
   Distribution includes the Office of the Mayor of Limerick, Department
   of Foreign Affairs, Western Development Commission, and Global Irish,
   alongside a wide commercial/community spread. Mairead O'Donnell, Colm
