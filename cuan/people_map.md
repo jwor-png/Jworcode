@@ -355,6 +355,23 @@
 
 ---
 
+## Tangible Ireland Group — Members
+
+### Anna Kavanagh
+- Co-founder and convenor of the **Alliance of Birth Mothers
+  Campaigning for Justice**. Spoke at Tangible's 2026 Summer School in
+  Kilmallock a few weeks before 7 Sept.
+- Active in an Oireachtas All-Party Group on Family Court Reform —
+  met Minister for Justice Jim O'Callaghan (Sept 2026) on custody/
+  family court issues: parental alienation, court transparency,
+  judicial continuity, use of expert reports. Described in press
+  coverage (Irish Mail on Sunday, 6 Sept 2026) as "Advocate for
+  Dignity."
+- Flagged by John after reading that coverage — logged for relationship/
+  network purposes via Tangible, see `ventures_dossier.md`.
+
+---
+
 ## MiDentalCare Liquidation — Legal Contacts
 
 - **Mícheál Glynn** (info@michealglynn.ie, 061 418518) — John's own

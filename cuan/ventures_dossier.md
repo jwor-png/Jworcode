@@ -1919,6 +1919,17 @@ before liquidation).
   unconfirmed]**, operating in the wellness area — John thought of him
   as relevant to the Tangible wellness event above. Not previously
   logged anywhere in Cuan.
+- **Anna Kavanagh — Tangible member, spoke at the 2026 Summer School in
+  Kilmallock a few weeks ago.** John flagged an Irish Mail on Sunday
+  article (6 Sept 2026) featuring her: co-founder/convenor of the
+  Alliance of Birth Mothers Campaigning for Justice, part of an
+  Oireachtas All-Party Group on Family Court Reform that met Minister
+  for Justice Jim O'Callaghan on custody/family court reform (parental
+  alienation allegations, transparency, judicial continuity, use of
+  expert reports). Described in the piece as "Advocate for Dignity."
+  Cross-reference `people_map.md` for a proper entry. **[Cuan →
+  Meridian]** not applicable here (not an AI/governance domain topic) —
+  logged as relationship/network intelligence for Tangible only.
   Distribution includes the Office of the Mayor of Limerick, Department
   of Foreign Affairs, Western Development Commission, and Global Irish,
   alongside a wide commercial/community spread. Mairead O'Donnell, Colm
