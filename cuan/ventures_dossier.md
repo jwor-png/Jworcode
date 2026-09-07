@@ -2185,6 +2185,40 @@ guessed:**
 - **Tracking:** Cuan only, per `governance.md`.
 - **Detail:** [ASK — what does resolution require? Is there a timeline?]
 
+## Personal — health insurance renewal (7 Sept 2026, new)
+- **Status:** Ongoing annual review — flagged by John after reading a
+  Sunday newspaper piece on rising health insurance costs.
+- **Confirmed via Gmail:** Insurer is **Irish Life Health**, Policy
+  number **VIVW779336**, Member number 4247232. **Renewal date is
+  30 June each year** (confirmed renewed 29 June 2026). Broker/adviser
+  is **Cornmarket Group Financial Services Ltd** (health@cornmarket.ie,
+  Enda O'Rourke, Manager — Healthcare Division), part of the Irish Life
+  Group — **corrects John's own recollection of "Hallmark Insurances,"
+  which does not appear anywhere in Gmail; Cornmarket is almost
+  certainly what he meant.** Cornmarket sends the annual "review your
+  plan" prompt ahead of the Irish Life Health renewal pack each year.
+- **Article context (Irish Mail on Sunday, "Your Money," Bill Tyson,
+  6 Sept 2026):** health insurance premiums have risen 2.75% just last
+  month, following bigger increases last March — Laya and Irish Life
+  Health both raising prices multiple times a year, insurer Dermot
+  Goode says the cumulative annual increase can be closer to 6-7%.
+  Consumers advised to actively shop around every year rather than
+  auto-renew — Plan A (VHI) and Plan B (currently rated one of the best
+  value no-frills plans) are cited as the cheapest options across
+  insurers, with a comparison table of VHI/Laya/Irish Life/Level Health
+  plans by price tier (cheapest, mid-range, upper-range). Article
+  separately flags: waiting periods reset when switching to a *higher*
+  level of cover (but not when switching insurer for the same/lower
+  level); joint replacement co-payments can leave a shortfall of
+  ~40%+ on some plans; a private hip replacement in Ireland now costs
+  ~€15,000 (up to €6,000 more with some insurers) versus ~€2,000-4,000
+  for equivalent treatment in Poland/Lithuania.
+- **Next step:** John to revisit the annual review with Cornmarket
+  ahead of the June 2027 renewal (or sooner if he wants to check for a
+  mid-year switch), given the article's advice that loyalty pricing
+  tends to lag what's available on the open market. No decision made
+  yet — this is a "worth reviewing" flag, not an action taken.
+
 ## End-of-life planning (7 Sept 2026, new)
 - **Status:** ⚪ Not started — stated intent only.
 - **Revenue relevance:** Not revenue (personal).
