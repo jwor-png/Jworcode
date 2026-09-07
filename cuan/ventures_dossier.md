@@ -1408,8 +1408,11 @@ data doesn't exist yet) still needs to be built.
   Owen, and Dervila** (Owen's wife).
 - **Revenue relevance:** Not revenue (family).
 - **Tracking:** Cuan only.
-- **Open items:** confirm correct place name/spelling; get the call
-  with Christy Crowley scheduled.
+- **Status update, 7 Sept:** John is now ready to make contact — plans
+  to get on to **Christy Crowley and Bantry** to start work on planning
+  for the land at the back of the Portauns home.
+- **Open items:** confirm who is actually inheriting the land (heard as
+  "Mugell," unconfirmed); make the call to Christy Crowley.
 
 ---
 
