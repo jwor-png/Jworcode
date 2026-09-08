@@ -113,6 +113,12 @@ to discuss at 23 Sept Board meeting) — now awaiting Ray's response.
 🔴 Julianstown Mill — Fred Logue appeal formally lodged 31 Aug (PL-501978-MH-26), response due 23 Sept; **sale completion to John Lynch now explicitly pending the appeal outcome, not just fees**; Glynn's Solicitors gone quiet on closing prep — needs chasing; updated balancing statement drafted, awaiting reply
 🔴 Velocity AI — Gmail script fix still outstanding
 ⚪ Golden Generation — nothing live right now
+🟡 **Legacy Financial Matters — historic debts tracker (new, 8 Sept).**
+BOI Finance pursuing the MiDentalCare Serona dental chair lease
+(€3,201.60 balance) against the liquidated company and against Niamh
+as guarantor; redirect letter to liquidator drafted, awaiting John's
+send. Plus pre-existing BOI loan thread, Milltown personal fees owed,
+Lisa Doyle wages claim. Full list in `ventures_dossier.md`.
 
 🟡 **Meridian → UHL: Specialist Affiliate Group brief** — paint/decorating
 independent buying group concept sent to Paul Candon 2 Sept, John's

@@ -2252,11 +2252,56 @@ guessed:**
 
 ---
 
-## Legacy Financial Matters
-- **Status:** Open — resolution is a top-3 personal priority
-- **Revenue relevance:** Not revenue (personal).
+## Legacy Financial Matters — Historic Debts / Liabilities Tracker
+- **Status:** Open — resolution is a top-3 personal priority. John's
+  explicit instruction (8 Sept 2026): keep this list live so no
+  individual liability gets lost against the others — this is now the
+  standing tracker, not a one-line stub.
+- **Revenue relevance:** Not revenue (personal/legacy exposure).
 - **Tracking:** Cuan only, per `governance.md`.
-- **Detail:** [ASK — what does resolution require? Is there a timeline?]
+
+### Live liabilities
+
+1. **MiDentalCare Ltd (In Liquidation) — BOI Finance lease, Serona
+   Intego Dental Chair.** Customer No. 10146010, Contract No.
+   000710009817141. Balance €3,201.60, arrears €1,969.00 (excl. VAT on
+   lease balances). BOI Finance (Robert O'Reilly) is pursuing both the
+   liquidated company (at an outdated address) and **Niamh Webb
+   O'Rourke as guarantor**. John's position, per the 8 Sept letter
+   drafted and cc'd to liquidator Michael Butler: redirect BOI to the
+   liquidator for the company debt and equipment collection, without
+   conceding Niamh's guarantee in writing. **Unresolved fallback, not
+   yet offered to BOI:** if BOI insists on pursuing Niamh directly,
+   John will personally look at paying the debt down as her father.
+   Full detail: `operating_creed.md` (8 September entry), `people_map.md`
+   (Niamh Webb O'Rourke; MiDentalCare Liquidation — Legal Contacts).
+   **Status: letter drafted, awaiting John's send/sign-off; BOI's
+   response not yet received.**
+2. **[Broader MiDentalCare/BOI loan thread — pre-existing]** — separate
+   from the lease above: follow-up correspondence already logged under
+   `operating_creed.md` § 4 "Resolve My Past Professionally" (9-10 July
+   2026 emails, Niamh's call raised, solicitor-instruction warning
+   given, awaiting BOI response). [ASK — confirm whether this is the
+   same underlying BOI relationship as the lease above, or a genuinely
+   separate loan.]
+3. **Fees owed to personal contacts from MiDentalCare Milltown work** —
+   Nigar Roach, Keith Hogan, Nigel/Nigar Roche (electrician, name
+   unconfirmed), Michael Nugent. John is handling personally, pending
+   his own income coming in first. Full detail: `operating_creed.md`
+   § 4.
+4. **MiDentalCare — Lisa Doyle wages/holiday pay claim** (liquidator's
+   office, via Paul O'Brien) — wage-record assembly in progress,
+   awaiting outstanding earlier-period detail (Maria, DSP Accountants
+   Limerick). Full detail: `operating_creed.md` § 4.
+
+### How this tracker works
+- Each liability gets its own numbered entry here with a live status
+  line, cross-referenced to the fuller detail already logged in
+  `operating_creed.md` and `people_map.md` rather than duplicated in
+  full.
+- New historic debts John mentions get added here as their own numbered
+  item, not folded silently into a general note — the point is that
+  none of them quietly drop out of view against the others.
 
 ## Personal — health insurance renewal (7 Sept 2026, new)
 - **Status:** Ongoing annual review — flagged by John after reading a
