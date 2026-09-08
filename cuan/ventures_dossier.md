@@ -1551,6 +1551,79 @@ to John directly rather than silently blended together.
   success and correctness" per its own close — awaiting John's word to
   open the build thread and start Week 1.
 
+### "The Money Model" (V1, Velocity AI, August 2026) — the actual source document, shared 8 Sept 2026
+
+John shared the real prior document behind all of the above — **"Barber
+Republic: The Money Model"** (Phase One, The Commercial Frame),
+prepared by Velocity AI for Johnny Shanahan & John Webb O'Rourke,
+August 2026, internal to Johnny/John/Shane. This predates and directly
+informs the 8 Sept WhatsApp exchange and the Build Plan — logging in
+full since it materially refines several figures already in this file.
+
+- **Framing:** "every number in here is a dial, not a decree" — deliberately
+  provisional, to be settled with the trade and finalised at the Week 6
+  London visit ("visit one"), before the payments build locks them.
+- **Competitor benchmark (the real market context for the take rate):**
+  Squire ($50-250/month per shop), Booksy ($29.99/month + $20 per
+  extra team member + 30% of the first marketplace booking), Fresha
+  ($15-20/month + 20% new-client fee + ~1.2-1.4% card processing),
+  theCut (2.7% on in-app payment + $10 per new client), Indeed Flex
+  (a margin on top of the worker's pay, priced privately). **None of
+  them grade craft, run verified day cover, or hold an intelligence
+  layer on the trade** — named as the actual white space Barber
+  Republic is built for. This is the real evidence behind the "10-12%
+  is low for what we're carrying" observation already logged above.
+- **Commission — refines the flat "10-12%" figure into three tiers by
+  urgency, not a single number:**
+  - Standard: **10%**
+  - Urgent cover: **18%**
+  - VIP house call: **22%**
+  - Framed explicitly as "pricing the day saved, not the software
+    used" — an empty Saturday chair costs a shop £500-700 in lost
+    takings, so the premium tiers price against that loss, not against
+    the barber's earnings.
+- **The technology fee (this is "Shane's tech charge" from the 8 Sept
+  WhatsApp/Build Plan, already sketched here in August, not yet tested
+  or locked):** £1-2 per booked day, "the Uber mechanic" — funds the
+  intelligence that made the match, charged on a day the platform has
+  already paid for. Explicitly "tested with the trade before it's set."
+- **Membership:** barbers pay **£0, always, for staffing** — permanent,
+  architectural, because barbers are the scarce side and the Republic
+  pays them rather than taxing them for existing. Shops pay **£25-35 a
+  month** (refines the earlier "£25-30" figure), starting as a plain
+  membership and maturing into a genuine "intelligence subscription"
+  (what a chair should cost on a Saturday in this postcode, who's
+  reliable, where demand is moving) once data density supports it.
+- **Cost line (the actual unit economics behind a covered day), on a
+  £180 day:** Stripe payments ~£2.90/booking (1.5% + 20p) plus ~£1.60/
+  month per barber's connected payout account; the matching/ranking/
+  reasoning intelligence at pence per booking, metered live from
+  pilot week one; identity verification at pence per booking; the
+  operator's desk as a staffed human function through the pilot
+  (costed per pilot city); the always-on demand-mapping/rate-
+  intelligence layer as a growing monthly compute line — explicitly
+  named as **the second asset**, i.e. the data itself.
+- **The number that faces investors:** margin on a single covered day —
+  named as the one metric to track from the first live booking, and
+  the thing that lets an investor fund with confidence once it's a
+  measured figure rather than a projection.
+- **Johnny's own three field-test questions**, to be asked privately,
+  owner-to-owner, before any payment code is written: (1) would you
+  pay £30 today to save a £600 Saturday; (2) a couple of pounds on a
+  day you'd never have had, fair or not; (3) would you pay monthly to
+  know what a chair should cost and who actually shows up.
+- **What Round Two needs (the pilot's job):** four measured facts —
+  fill rate and speed to fill; margin on a covered day; rebooking rate
+  through the platform; and the engine's reach into adjacent trades
+  (hairdressing, high-end bar staff, anywhere an empty seat costs real
+  money). "Barbering proves the machine... the machine is the
+  investment."
+- **Cross-reference to the pricing note to Johnny (below):** the note's
+  "10-12%" language is a simplification of what this document actually
+  specifies as three urgency-based tiers (10/18/22%) — worth Johnny
+  confirming which framing to carry forward once he's reviewed it,
+  rather than treating "10-12%" as the final word.
+
 ### Pricing note to Johnny — drafted, iterated, sent 8 Sept 2026
 
 Following the WhatsApp exchange above, drafted a revenue/pricing review
