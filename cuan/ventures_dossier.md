@@ -1422,6 +1422,81 @@ has Johnny's requests and the two equity offers (John Jones, Anthony
 Laban) unresolved pending Shane's real commercial modelling. Useful
 outside check on pacing rather than new information.
 
+### Pricing model clarification — WhatsApp with Johnny Shanahan, 8 Sept 2026
+
+**Source:** WhatsApp exchange, 16:29-17:05, 8 Sept 2026. **Context:**
+input to a draft document for "JJ" — **[assumed = John Jones, the
+Liberty London/Carnaby St investor already asking for a full investor
+pack — not yet confirmed with John; flag before the document's wording
+latitude is finalised, since a prospective-investor document and an
+internal/shareholder document carry very different disclosure
+standards].**
+
+**1. Question put to Johnny:** excluding Shane's tech charge, is
+revenue still to come from barber shops and barbers separately, and
+what are the current amounts/percentages?
+
+**2. Johnny's answer:**
+- Shop subscription: £25-£30/month per shop, listed regardless of
+  usage.
+- Barber commission: 10-12% on barber earnings.
+- **Explicit caveat from Johnny:** these are cold "what would you pay
+  in theory" conversations — not tested or committed pricing. His view:
+  once the platform is live and delivering value, the rate can and will
+  be pushed upward.
+
+**3. Commission incidence (follow-up):** asked whether the commission
+sits on top (barber nets £150) or is deducted from the £150. Johnny:
+the barber sets their own day rate (£150-£200+), the market will settle
+this quickly, and barbers may price up to absorb the commission — so
+the shop indirectly bears it, but the deduction comes out of the
+barber's day rate.
+
+**4. Implications for the document:**
+- **Revenue treatment:** the platform is not principal in the
+  transaction. Revenue is commission plus subscription only — day-rate
+  flow is not revenue. Correct, conservative; avoids GMV-as-revenue
+  framing.
+- Only the shop subscription is genuinely predictable, and it's
+  immaterial at this price — roughly 500 shops needed for ~£165k ARR at
+  a £27.50 average.
+- Commission is the real revenue line: at 11% of a £150 day, ~£16.50
+  per placement day. One barber working 3 days/week is worth ~£200/month
+  — roughly 7x the shop subscription.
+- **Tension with the approved tier structure:** the existing plan sets
+  Barber £120 / Barber Pro £150 / Super Pro £180, but Johnny now
+  describes barber-set rates with the market deciding. **Needs a
+  decision — should not be left ambiguous in the document:** fixed
+  tiers with predictable per-placement revenue, or quality bands with
+  indicative rate guidance and variable revenue per booking.
+- A 10-12% take rate is low for a labour marketplace carrying matching,
+  vetting and payment risk — a plan stating the floor with no stated
+  path upward reads as under-considered.
+- The shop fee may be doing the wrong job: too small to matter as
+  revenue, possibly large enough to deter sign-up. Consider free at
+  entry, monetised later via tiering.
+
+**5. Risks to address before the JJ document:**
+- **Charging the scarce side** — barbers are the supply constraint, and
+  a £15-£18 deduction is visible on every booking.
+- **Disintermediation** — shop and barber meet once through the
+  platform, then transact directly and both save. Primary threat to
+  the predictability claim.
+
+**6. Open items:**
+- **Material and unresolved:** does the money flow through the
+  platform? If the day rate is processed and commission netted off
+  before payment to the barber, revenue is collectable and leakage is
+  contained. If the shop pays the barber directly and the platform
+  invoices afterward, there's both a collection problem and a leakage
+  problem — "predictable" becomes hard to justify in writing.
+- Decision needed: fixed tiers vs. market-set rates with quality bands.
+- **Wording standard for the document:** "indicative pricing derived
+  from industry consultation" is defensible; anything implying
+  committed or validated pricing is not.
+- Shane's tech charge was excluded from this exchange and still needs
+  factoring in.
+
 ---
 
 ## Smacht Network / Padraic O'Maille
