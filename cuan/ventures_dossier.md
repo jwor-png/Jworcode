@@ -1562,10 +1562,15 @@ Iterated per John's direction: full prose rather than short bullet
 lines; removed the £50k/£35k funding-split reference (Johnny already
 knows this); corrected an error — the MVP is **not** built yet, it's
 ~3 weeks into a 12-14 week build; reflects Stripe Connect/locked-
-commission mechanism from the Build Plan. **Explicitly confirmed with
-John: no document has been drafted for John Jones** — that will be a
-separate, lighter, non-specific investor-facing document once Johnny
-has replied, since the actual pricing isn't confirmed yet.
+commission mechanism from the Build Plan. **Second correction (8 Sept,
+important): all wording framing this document itself as "going to John
+Jones" was removed** — John was explicit that this note never goes to
+JJ under any framing. It exists purely for John and Johnny to agree the
+pricing/revenue detail between themselves. Only once that's agreed does
+the confirmed detail become source material for a **second, separate**
+document — a simpler investor-proposal structure for John Jones that
+does include pricing modelling, but only the figures actually settled
+between John and Johnny, not the open questions.
 
 Branded per `barber_republic_brand_spec.md` (Collective Matrix
 identity, colour tokens, letterspaced wordmark) — the actual Collective
