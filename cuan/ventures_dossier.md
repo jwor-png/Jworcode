@@ -1573,6 +1573,21 @@ Matrix vector mark has not been supplied to this session, so the
 document uses the colour/type treatment only with the mark left as an
 explicit placeholder, per the spec's own rule against redrawing it.
 
+**Document sequencing, confirmed by John (8 Sept 2026) — do not
+collapse these into one document:**
+1. **This note → Johnny.** He reviews it, comments, and John and Johnny
+   agree any changes to the pricing/revenue detail together.
+2. **Only once agreed** does the confirmed detail from step 1 become
+   the source material for a **second, separate document → John
+   Jones.** JJ's version is described as a simple investor-proposal
+   structure that does include the pricing modelling — but only the
+   figures John and Johnny have actually settled on, not the
+   still-open ones flagged in step 1.
+3. Nothing gets drafted for John Jones until step 1 closes. This has
+   already been asked and confirmed once (8 Sept) — do not restart
+   drafting for JJ without an explicit signal that Johnny has replied
+   and the two of them have agreed the numbers.
+
 ---
 
 ## Smacht Network / Padraic O'Maille
