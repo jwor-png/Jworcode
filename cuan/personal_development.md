@@ -237,6 +237,9 @@ at in his own time, not a task with a deadline.
   Shane/Cuan matter to him beyond simple process — having a second
   read on a decision may be a genuine confidence lever, not just good
   governance practice.
+- **8 Sept — June Curtin/Snámhaí Sásta:** "At the end of the day remind
+  yourself that you did the best you could today. That is more than
+  enough."
 - **7 Sept — The Revenue Coaches / Chris Donnelly (Instagram):** Three
   founder-stage infographics shared for the personal development
   knowledge base, and flagged by John as also relevant to Barber
