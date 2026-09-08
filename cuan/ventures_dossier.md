@@ -1425,12 +1425,12 @@ outside check on pacing rather than new information.
 ### Pricing model clarification — WhatsApp with Johnny Shanahan, 8 Sept 2026
 
 **Source:** WhatsApp exchange, 16:29-17:05, 8 Sept 2026. **Context:**
-input to a draft document for "JJ" — **[assumed = John Jones, the
-Liberty London/Carnaby St investor already asking for a full investor
-pack — not yet confirmed with John; flag before the document's wording
-latitude is finalised, since a prospective-investor document and an
-internal/shareholder document carry very different disclosure
-standards].**
+input to a draft document for **John Jones (confirmed by John, 8 Sept)**
+— the Liberty London/Carnaby St contact already asking Johnny for a
+full investor pack. **This is a prospective-investor document, not an
+internal/shareholder one — the "indicative pricing, not committed"
+wording standard below is not optional and needs to be explicit and
+defensible on its face.**
 
 **1. Question put to Johnny:** excluding Shane's tech charge, is
 revenue still to come from barber shops and barbers separately, and
