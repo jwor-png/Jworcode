@@ -1646,10 +1646,32 @@ does include pricing modelling, but only the figures actually settled
 between John and Johnny, not the open questions.
 
 Branded per `barber_republic_brand_spec.md` (Collective Matrix
-identity, colour tokens, letterspaced wordmark) — the actual Collective
-Matrix vector mark has not been supplied to this session, so the
-document uses the colour/type treatment only with the mark left as an
-explicit placeholder, per the spec's own rule against redrawing it.
+identity, colour tokens, letterspaced wordmark). The actual Collective
+Matrix mark was subsequently found and extracted directly from page 1
+of "The Money Model" PDF (see below) — a raster crop embedded as a real
+image, since no vector master file has been supplied to this session.
+
+**Third revision (8 Sept, after "The Money Model" was shared) —
+rebuilt around the actual settled figures rather than the WhatsApp
+shorthand:** once the August "Money Model" document surfaced (see
+next section), the note was restructured to open with an explicit
+"what's been discussed so far, and why this version is different"
+section — recapping the WhatsApp exchange, explaining that the Money
+Model supersedes it as the real reference point, and flagging every
+place the two disagree rather than silently picking one. Content
+changes: the flat "10-12% commission" was replaced with the actual
+three-tier structure (Standard 10% / Urgent cover 18% / VIP house call
+22%), explicitly flagged against Johnny's WhatsApp answer ("barber sets
+their own rate, market decides") as needing his confirmation; the
+technology fee is now framed as an already-sketched £1-2/day figure
+from August awaiting trade-testing, not a total unknown; the
+competitor benchmark (Squire, Booksy, Fresha, theCut, Indeed Flex) was
+added as evidence for why the take rate isn't actually low; and the
+"margin on a single covered day" was added as the metric to track from
+the pilot's first booking. The two open items narrowed from a general
+"tiers vs market rate" question to two specific confirmations: does
+the three-tier commission structure still hold, and does £1-2/day still
+hold for the tech fee.
 
 **Document sequencing, confirmed by John (8 Sept 2026) — do not
 collapse these into one document:**
