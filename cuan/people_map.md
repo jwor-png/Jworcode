@@ -324,9 +324,19 @@
   compare heritage breakdowns — see `family_genealogy.md`.
 
 ### Niamh Webb O'Rourke
-- **Relationship:** Family member (Director 2 in MiDentalCare CVL)
+- **Relationship:** Family member (Director 2 in MiDentalCare CVL) — John's daughter
 - **Property:** John coordinates the Bantry property project (11 Cois Riasc) on her behalf
 - **Cuan notes:** [ASK — further context on family structure relevant to scheduling and priorities]
+- **8 Sept 2026 — Bank of Ireland Finance guarantor pursuit:** BOI
+  Finance (Robert O'Reilly, Customer Services) wrote to Niamh at
+  Portauns, Kilmallock, as guarantor on the MiDentalCare Ltd lease for
+  a Serona Intego Dental Chair (Customer No. 10146010, Contract No.
+  000710009817141), seeking €1,969.00 in arrears (total balance
+  €3,201.60). John's position: not conceding the guarantee — redirect
+  BOI to liquidator Michael Butler first, per the letter drafted this
+  session. John's fallback if BOI insists on pursuing Niamh directly:
+  he will personally look at paying down the debt as her father, but
+  this has not been offered to BOI in writing.
 
 ### Carl Webb
 - **Relationship:** Cousin. (Correction, 27 Aug 2026 — previously logged
@@ -393,6 +403,17 @@
   Liquidator, MiDentalCare Ltd (In Liquidation).
 - **Paul O'Brien** (paul@butlerandco.ie) — Butler & Co, handling the
   Glenview staff redundancy claims day-to-day.
+- **Robert O'Reilly** (Bank of Ireland Finance, Customer Services,
+  Group Customer Operations, PO Box 10844, Dublin 18, tel. 01-5233048)
+  — signed the 3 Sept 2026 letters chasing the Serona Intego Dental
+  Chair lease (Customer No. 10146010, Contract No. 000710009817141):
+  a termination/arrears letter sent to MiDentalCare's old Unit H14,
+  Block H, Citywest address (no longer correct — should go to the
+  liquidator), and a guarantor demand letter to Niamh Webb O'Rourke.
+  John emailed BOI Finance previously to notify them of the
+  liquidation and got no response; a follow-up letter by post,
+  redirecting them to Michael Butler and addressing the Niamh
+  guarantor demand, was drafted 8 Sept 2026.
 
 ---
 

@@ -1276,3 +1276,36 @@ each is traceable to a specific item above.
   match found yet against anything already logged for Ger Blake (DSB,
   Zest Healthcare, Leratian/Kendrick as director/secretary roles — this
   reads as a different, not-yet-logged entity).
+
+## 8 September — MiDentalCare / Bank of Ireland Finance guarantor letter
+
+- **Trigger:** John shared four Bank of Ireland Finance letters, all
+  dated 3 Sept 2026, signed by Robert O'Reilly (Customer Services,
+  Group Customer Operations): (1) a general arrears-support/MABS
+  information page; (2) a termination letter to "MiDentalCare Limited
+  In Liquidation" at Unit H14, Block H, Citywest Business Park —
+  no longer a correct address — re a Serona Intego Dental Chair lease
+  (Customer No. 10146010, Contract No. 000710009817141), demanding
+  return of the equipment and payment of €1,969.00 arrears; (3) a
+  continuation page confirming balance €3,201.60 / arrears €1,969.00;
+  (4) a **guarantor demand letter to Niamh Webb O'Rourke** at Portauns,
+  Kilmallock, seeking the same arrears as guarantor.
+- **John's account:** he'd previously emailed BOI Finance to notify
+  them MiDentalCare was going into liquidation and received no reply —
+  this is now the second unanswered attempt at the correct routing.
+  John wants to write as former director, redirect BOI to liquidator
+  Michael Butler (Butler & Co) for both the equipment collection and
+  the debt, and address the fact that Niamh is being pursued directly
+  — without conceding the guarantee in writing. His stated fallback,
+  not yet offered to BOI: if they insist on pursuing Niamh, he will
+  personally look at paying down the debt as her father.
+- **Action taken:** drafted a letter to Robert O'Reilly (posted, not
+  emailed, since email got no response) — delivered via SendUserFile
+  for John's review/signature before sending.
+- **Outputs:** `cuan/people_map.md` (Niamh Webb O'Rourke entry updated
+  with the guarantor pursuit; Robert O'Reilly added to the MiDentalCare
+  Liquidation — Legal Contacts section).
+- **Open loop:** confirm the letter's wording before it's sent; confirm
+  whether BOI Finance already holds Michael Butler's details from any
+  prior liquidation notification correspondence, or whether this letter
+  is the first time they're being given the liquidator's contact.
