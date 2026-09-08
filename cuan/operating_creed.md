@@ -1300,8 +1300,9 @@ each is traceable to a specific item above.
   not yet offered to BOI: if they insist on pursuing Niamh, he will
   personally look at paying down the debt as her father.
 - **Action taken:** drafted a letter to Robert O'Reilly (posted, not
-  emailed, since email got no response) — delivered via SendUserFile
-  for John's review/signature before sending.
+  emailed, since email got no response), cc'd to Michael Butler per
+  John's confirmation — delivered via SendUserFile for John's
+  review/signature before sending.
 - **Outputs:** `cuan/people_map.md` (Niamh Webb O'Rourke entry updated
   with the guarantor pursuit; Robert O'Reilly added to the MiDentalCare
   Liquidation — Legal Contacts section).
