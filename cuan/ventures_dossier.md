@@ -1497,6 +1497,82 @@ barber's day rate.
 - Shane's tech charge was excluded from this exchange and still needs
   factoring in.
 
+### Shane's team Build Plan (V2, Velocity AI) — received 8 Sept 2026, resolves part of the above
+
+John shared the actual **"Barber Republic: The Build Plan" (V2, after
+review)**, prepared by Velocity AI for Shane McCarthy & John Webb
+O'Rourke, London Pilot 2026. This is the authoritative build document
+and **partially contradicts Johnny's WhatsApp answer above** — flagged
+to John directly rather than silently blended together.
+
+- **Timeline:** 12-14 weeks, three payments of £14,000 at the start of
+  each month (~£42k total build cost). **[ASK — reconcile against
+  Johnny's separate "£50k first tranche / £35k through the business"
+  framing (2-4 Sept); unclear whether this is the same funding
+  conversation described two ways or a genuinely different figure.]**
+- **Two London visits:** Week 6 (2-3 days, "calibration, not
+  construction" — Johnny tests the match experience live, and
+  **commission, fee split and membership are explicitly closed at
+  this visit**, described as "the payments blocker"); Weeks 12-14
+  (3-4 days, "activation, not build" — onboarding the real cohort,
+  final sign-off, go-live).
+- **Money model — settles part of the pricing ambiguity:** "Shop pays,
+  barber is the paid party. Phase One settles a fixed day-rate plus
+  the urgent premium only. 'A cut of the takings' is out of scope and
+  a known off-platform leak." This points toward the existing tiered
+  structure (Barber £120 / Pro £150 / Super Pro £180) — **not** the
+  fully open "barber sets their own rate, market decides" picture
+  Johnny described on WhatsApp the same day. Not yet reconciled with
+  Johnny — flagged to him directly in the pricing note (see below).
+- **Payment flow — resolves the "does money flow through the platform"
+  open question:** Stripe Connect, shop as payer, barber as the paid
+  account, KYC front-loaded, "the commission locked at the visit
+  applied." Revenue is collectable, no off-platform leakage — this is
+  the good-case scenario flagged as open in the WhatsApp note above.
+- **Still genuinely open per the plan itself:** the actual commission
+  percentage, fee split, and whether there's a membership layer — all
+  three explicitly deferred to the Week 6 visit, not decided in the
+  document.
+- **Named exposures (plan's own words):** privileged paths bypassing
+  row-level security on matching/console/payment webhooks (separate
+  named control + pen-test target); the money/liability model
+  (chargebacks after payout, negative balances, cancellation money)
+  needs deciding before Week 7, not discovered during it; automated
+  decision-making affecting livelihoods (tiering + reliability scoring
+  + matching) needs a formal impact assessment and human-review/appeal
+  path from Week 1, not Week 11.
+- **Standing risks named in the plan:** liquidity (small pilot cohort
+  may not generate enough matches to prove density); key-person risk
+  (Johnny's own eye grades quality, his network supplies the cohort);
+  founding-cohort bias (hand-picked network won't generalise to open
+  market); launch timing (14-week build lands near December, peak
+  demand, least forgiving window).
+- **Status:** plan is "ready for the independent verifiers to align on
+  success and correctness" per its own close — awaiting John's word to
+  open the build thread and start Week 1.
+
+### Pricing note to Johnny — drafted, iterated, sent 8 Sept 2026
+
+Following the WhatsApp exchange above, drafted a revenue/pricing review
+note **for Johnny only** (not John Jones) — asking him to confirm the
+pricing detail and, after the Build Plan surfaced the discrepancy
+above, to reconcile his "market sets the rate" answer against what
+Shane's team has already built the plan around (fixed day-rate tiers).
+Iterated per John's direction: full prose rather than short bullet
+lines; removed the £50k/£35k funding-split reference (Johnny already
+knows this); corrected an error — the MVP is **not** built yet, it's
+~3 weeks into a 12-14 week build; reflects Stripe Connect/locked-
+commission mechanism from the Build Plan. **Explicitly confirmed with
+John: no document has been drafted for John Jones** — that will be a
+separate, lighter, non-specific investor-facing document once Johnny
+has replied, since the actual pricing isn't confirmed yet.
+
+Branded per `barber_republic_brand_spec.md` (Collective Matrix
+identity, colour tokens, letterspaced wordmark) — the actual Collective
+Matrix vector mark has not been supplied to this session, so the
+document uses the colour/type treatment only with the mark left as an
+explicit placeholder, per the spec's own rule against redrawing it.
+
 ---
 
 ## Smacht Network / Padraic O'Maille

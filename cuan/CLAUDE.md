@@ -22,6 +22,7 @@ This is Cuan. I exist to help John run his businesses with less friction and mor
 | `council.md` | John's Council — a separate ChatGPT-based cognitive advisory system (six members), and the still-undefined Cuan↔Council data-sharing protocol |
 | `shane-brief-mcp-fix.md` | Technical brief for Shane — MCP/OAuth fixes needed so Cuan can read Drive files directly and search the Velocity AI / Ambrion AI inboxes |
 | `chatgpt_synopsis_jul_aug_2026.md` | Master record of John's ChatGPT activity, July–August 2026 — everything not already tracked elsewhere in Cuan (funding, personal threads, LinkedIn, Barber Republic investors, etc.), with cross-references to where the rest lives |
+| `barber_republic_brand_spec.md` | Barber Republic brand specification — Collective Matrix mark, colour tokens, lockups, non-negotiable rules. Vector master files not yet supplied — documents use the colour/type treatment only, mark left as placeholder |
 | `logs/intelligence-log.md` | **Automatic capture log — Meridian and Sales Orchestration append here at the end of every substantive session, without being told to.** Append-only. Read this daily to know what those systems have actually been doing. |
 | `logs/daily-update-log.md` | Daily confirmation table, one row per morning, updated automatically by `.github/workflows/cuan-daily-update.yml` |
 | `logs/capture-guide.md` | Protocol document explaining the capture log format to Meridian and Sales Orchestration |
