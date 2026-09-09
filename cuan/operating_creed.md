@@ -798,6 +798,12 @@ are flagged for confirmation, never guessed.
   colleague at their manor/Adare Manor context — spelling "Ramsay" per
   John, "Ramsey" also used, unconfirmed which is correct) most Thursdays
   in Kilmallock — John and Owen.
+- **Wanted, 9 Sept 2026: a golf practice net for the back yard at
+  Portauns**, prompted by a backyard-practice-net ad John saw on
+  Threads (thenetreturn_eu, "Backyard practice is always a great
+  alternative," thenetreturneurope.com). Not yet purchased — logged as
+  a want, ties into the Life Balance golf discipline above (practice
+  at home on days he can't get to Ballyneety/Kilmallock).
 - **16 September — two fixed diary items, logged 2 Sept (no calendar
   integration exists yet, this is text-only — see the connector gap
   already flagged in `shane-brief-mcp-fix.md`):**
