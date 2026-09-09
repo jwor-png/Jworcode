@@ -140,3 +140,28 @@ Success is simply: John keeps brain-dumping exactly as he does now,
 and what comes back to him each time is already sorted with the
 revenue-generating, Shane-related work named first, without him having
 to ask for that or organise it himself.
+
+---
+
+## Addition, 9 Sept 2026 — retirement and new-career planning now in scope
+
+John's instruction: from today, this master plan also covers planning
+forward for **his own retirement and his new career**, sitting mainly
+under discipline 6 (Build My Future Deliberately) but also touching
+discipline 5 (Protect My Present Responsibly) and discipline 4
+(Resolve My Past Professionally). Specifically flagged as part of this:
+- A **personal solvency practitioner** and a new solicitor, name given
+  as **[ASK — heard as "Marrick Power," spelling/name unconfirmed]** —
+  John said he'd come back to this in a later note, so holding rather
+  than logging further detail yet.
+- Broader retirement/new-career shape not yet defined — to be built out
+  as John brings more of this forward, not assumed in advance.
+
+## Addition, 9 Sept 2026 — life balance disciplines named alongside the six
+
+John listed these explicitly this morning as part of the operating
+creed frame, alongside the six disciplines: **exercise consistently,
+golf, gardening, participation, and protecting family time.** Logging
+here so they're part of the standing frame this master plan sorts
+against, not just a one-off mention.
+

@@ -847,6 +847,31 @@ consolidation pass rather than merged speculatively.
     Technologies shadow-AI stat) alongside the existing five control
     observations and NIS2/DORA-style continuity framing Stryve and
     Conscia argue for.
+- **Action set, 9 Sept 2026 (John's own instruction, to be actioned in
+  the next couple of days):**
+  1. **Disclose a conflict of interest**, re: the Velocity AI training
+     already delivered to UHL's executive management team and now
+     starting with the commercial team — John holds this as an active
+     item to disclose. **[ASK — who exactly this disclosure goes to;
+     the dictated note named a recipient that didn't transcribe
+     clearly ("on as mentioned previously") — needs John to confirm
+     rather than guessed. Likely candidates already on file: the UHL
+     board generally, Eoin McGettigan as Chairman, or the Audit & Risk
+     Committee — not assumed.]**
+  2. **Go back to Hang (Hang Zhao, UHL Admin/Finance — confirmed
+     contact in `people_map.md`) on the risk register** — continuing
+     the thread already logged above (the "United Hardware Risk
+     Assessment Files" set she forwarded via Niamh, 23 Jan 2026).
+  3. **Engage a fellow Audit & Risk Committee member to do this work
+     properly** — the dictated note was unclear on the mechanism
+     ("engage you would make a logistical..."). Most likely referring
+     to **Michael O'Driscoll**, John's existing Audit & Risk Committee
+     colleague already central to this whole thread — but not assumed;
+     **[ASK — confirm it's Michael, and what "make a logistical..."
+     was meant to say — possibly "make a logistical [request/ask]" cut
+     off in dictation.]**
+  - **Timeline:** John wants this actioned within the next couple of
+    days, not left open-ended like the rest of this review.
 
 ---
 
