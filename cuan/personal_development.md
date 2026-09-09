@@ -16,6 +16,57 @@ development material.
 
 ---
 
+## Standing instruction, 9 Sept 2026 — daily newsletter/Substack review
+
+John receives a steady stream of self-improvement/wisdom-style
+newsletters (e.g. The Economist's "Off The Charts," mindful-living,
+neurosciencewellness, and similar Substacks) which he scans but, in his
+own words, doesn't read closely enough to judge whether there's
+anything genuinely good in them. **Standing instruction: whenever Cuan
+is in Gmail for other work, also check for these newsletters and
+actually read them properly** — not just note that they arrived — and
+flag anything worth his attention here, the same way desk-calendar
+quotes and articles already get logged.
+
+- **Bar for flagging:** something that would clear the same test
+  already used for AI upskilling material (`ai_upskilling.md`) — does
+  this change anything about how he thinks or works, or genuinely
+  resonate, versus just being pleasant-but-forgettable content. Don't
+  log every newsletter that arrives; only the ones with something
+  actually worth surfacing.
+- **This is a standing daily habit, not a one-off request** — same
+  pattern as the market-intelligence capture rule already in
+  `CLAUDE.md`, just aimed at personal development instead of Meridian.
+
+### First pass, 9 Sept 2026 — worth flagging
+
+- **"Happiness Cannot Survive Direct Attention"** (mindful-living
+  newsletter, 5 Sept). Core idea: happiness isn't a substance you can
+  check on mid-experience — asking "am I enjoying this?" mid-moment
+  is what flattens the moment, because contentment depends on the
+  self-monitoring narrator staying quiet, and the question switches
+  the narrator back on. Contrast: pain, anger and dread all get
+  louder under close inspection; contentment is the opposite —
+  it only survives at the edge of attention, like faint starlight
+  astronomers learn to see with peripheral vision rather than staring
+  directly at it. The practical shift it recommends: stop rating
+  your day/mood in the moment; instead review on a long cadence (a
+  season, a quarter) and ask evidence-based questions instead of
+  feeling-based ones — what did I lose track of time inside, what did
+  I return to without being pushed, what did I stop dreading. **Why
+  it's worth John's attention specifically:** it connects directly to
+  his own 7 Sept self-observation about lacking confidence "when left
+  on his own" and to today's opening comment about his mind being
+  "dysregulated" the last few days — this piece argues that
+  in-the-moment self-monitoring itself can be the thing producing that
+  dysregulated feeling, not just a symptom of it.
+- **Scanned but held, not flagged as essential:** "7 Lessons From
+  Ancient Greek Philosophers About Mental Health" (neurosciencewellness,
+  9 Sept) and "Alzheimer's Doesn't Begin in Old Age" (Paddy Barrett,
+  5 Sept) — both reasonable, neither had a genuinely new idea strong
+  enough to log in full on a first pass. Available to revisit if John
+  wants a deeper look at either.
+
 ## Material gathered (13-25 August 2026, Snámhaí Sásta desk calendar + articles)
 
 - **13 Aug — Mary Shelley:** "There is only one solution to the intricate
