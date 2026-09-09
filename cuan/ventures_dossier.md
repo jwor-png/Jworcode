@@ -2594,14 +2594,17 @@ guessed:**
    receipt and that the matter is concluded. No further action. Kept
    here as a record of resolution, not as a live item.
 
-**New item spotted 9 Sept while scanning recent Gmail per John's
-request — not yet raised with him, flagging rather than assuming:**
-a "Monthly Statement — Webbor Consultants Limited" email (4 Sept
-2026, from jcorden@hds.ie, cc'd to ger@dsb.ie) references a company
-name — **Webbor Consultants Limited** — not previously recorded
-anywhere in this dossier or `people_map.md`. **[ASK — confirm what
-this entity is and whether it belongs in this tracker, in
-`ventures_dossier.md` proper, or is something else entirely.]**
+6. **Webbor Consultants Limited — HDS fees owed.** Confirmed by John
+   9 Sept 2026: his own company, which went into liquidation. Work was
+   done on it by the firm **HDS**, engaged at the request of **Ger
+   Blake** on John's behalf at the time. The bill from HDS is
+   outstanding — John needs to pay it in time, no deadline given.
+   **Principal contact at HDS:** **[ASK — heard as "Louise Maxwini,"
+   her married name — spelling unconfirmed]**, described by John as a
+   friend. Monthly statements come from jcorden@hds.ie
+   (cc ger@dsb.ie) — see the 4 Sept 2026 email that surfaced this.
+   Flagged by John as something to address in the future, not
+   immediate.
 
 ### How this tracker works
 - Each liability gets its own numbered entry here with a live status

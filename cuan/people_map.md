@@ -419,6 +419,19 @@
 
 ---
 
+## HDS (Webbor Consultants Limited fees)
+
+- **[ASK — heard as "Louise Maxwini," married name, spelling
+  unconfirmed]** — principal contact at HDS, described by John (9 Sept
+  2026) as a friend. HDS did work on Webbor Consultants Limited (John's
+  own company, since liquidated), engaged at Ger Blake's request on
+  John's behalf. Monthly statements from jcorden@hds.ie, cc
+  ger@dsb.ie. Fee outstanding, John intends to pay, no deadline given.
+  Full detail: `ventures_dossier.md`, Legacy Financial Matters tracker,
+  item 6.
+
+---
+
 ## To Map
 [ASK: Who else is in John's regular orbit — advisors, investors, lawyers, accountants, other board contacts?]
 [ASK: Who are the key personal relationships Cuan should be aware of for scheduling and prioritisation?]
