@@ -133,6 +133,12 @@ spot — not just a one-off search miss — in case there's a fix (e.g.
 making sure Producteev-routed mail lands in a searchable label/thread)
 rather than relying on John to screenshot every time.
 
+**Resolved at the root, 9 Sept 2026:** John has deleted Producteev from
+his iPhone contacts, so replies should stop routing through it going
+forward. This closes the gap for new correspondence — historic
+Producteev-routed threads already sent remain unfindable via Gmail
+search and would still need a screenshot if ever referenced again.
+
 ## Time required
 
 Drive fix: 10 minutes
