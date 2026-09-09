@@ -2083,14 +2083,23 @@ figures, now safe to carry into the John Jones document: three-tier
 commission **10% (Standard) / 18% (Urgent cover) / 22% (VIP house
 call, conditioned on £80-£100 pricing)**; technology fee £1-2/booked
 day; Stripe payment/payout fees passed through; shop membership
-£25-35/month; barbers pay £0 for staffing. **Still not John/Johnny-
-settled and therefore still excluded from the JJ document:** whether
-commission sits on a fixed day-rate tier structure or a market-set
-rate (the Build Plan vs. Johnny's earlier WhatsApp answer) — Johnny's
-9 Sept reply endorses "the tiered structure," which reads as
-resolving this in favour of the fixed-tier model, but worth an
-explicit one-line confirmation from Johnny before treating it as
-fully closed.
+£25-35/month; barbers pay £0 for staffing.
+
+**Final confirmation, same evening, 9 Sept 2026 — the fixed-tier vs.
+market-set-rate question is now fully closed.** John sent Johnny a
+direct follow-up asking him to confirm explicitly whether commission
+works as fixed tiers or the barber sets their own rate with the market
+deciding. Johnny's reply resolves it precisely, and clarifies how the
+two ideas fit together rather than contradicting each other: **"%
+commission is fine, the barber sets his own day rate not commission"**
+and **"10, 18, and 22% is good."** — i.e. **the barber freely sets
+their own day rate (the price for the work), but the platform's
+commission percentage on top of that rate is fixed at 10/18/22%, not
+itself negotiable or market-set.** This is the correct, final reading
+of "the tiered structure looks right" from the earlier message, now
+stated unambiguously. **No open items remain on the commission
+structure** — the John Jones document's commercial model section is
+fully consistent with this and requires no further changes.
 
 ### Recruited-barber testimonial and platform traction, 9 Sept 2026
 
@@ -2140,10 +2149,13 @@ document for John Jones was drafted and sent to John for review:
   £35k-through-the-business framing stays internal, not JJ-facing);
   the Liberty London/Carnaby Street equity-for-costs offer (JJ's own
   live proposal — a separate conversation, not folded into the general
-  investor document); the open "fixed tiers vs. market-set rate"
-  question, since Johnny's "the tiered structure looks right" reply is
-  treated as resolving this but not yet given as an explicit standalone
-  confirmation.
+  investor document).
+- **Fixed-tiers vs. market-set rate — now fully resolved (same
+  evening, 9 Sept), see above.** Johnny explicitly confirmed the
+  barber sets their own day rate, but the platform's 10/18/22%
+  commission is fixed on top of it, not itself market-set. The
+  document's commercial model table already reflects this correctly
+  and needs no revision.
 - **Status:** drafted and sent to John for review. Not yet sent to
   John Jones. **Could not visually render/proof the document in this
   session** — LibreOffice conversion failed environment-wide (even on
