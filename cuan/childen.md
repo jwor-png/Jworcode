@@ -56,6 +56,38 @@ Eamon Martin**. The 29 Sept Pope Leo AI encyclical conference invitation
 came about *because* the Childen proposal was circulated via Mike —
 confirmed the same relationship thread, not a coincidence.
 
+**Full thread read, 9 Sept 2026** (forwarded by John from his
+velocityai.ie inbox to Gmail, as it had been sitting outside the
+account Cuan can search): confirms and completes the picture above.
+
+- **Event:** CCO's (Irish Catholic Bishops' Conference Communications
+  Office) half-day conference on Pope Leo's AI encyclical, referred to
+  in Crysta's email as **"Magnificent Humanity"** (her own English
+  rendering — the documents' formal Latin title, "Magnifica
+  Humanitas," is confirmed correct and unchanged, see Open Items
+  below).
+- **Date/venue:** **Tuesday 29 September 2026**, Renehan Hall, St
+  Patrick's College, Maynooth, concluding with lunch. **John's own
+  dictation just now said "the first of October" — that's a date slip
+  on his side, not a change in the record; the confirmed date from the
+  actual email is 29 September, not 1 October. Flagged back to him
+  rather than silently corrected.**
+- **Keynote:** Archbishop Eamon Martin — the same figure at the centre
+  of the whole Vatican route.
+- **Panel:** a reacting panel featuring **Niamh Smyth TD** (Minister
+  for AI), **Emma Redmond** (Head of OpenAI Ireland), and an
+  unnamed academic.
+- **How it reached John:** Crysta Gunn's original invite (1 Sept)
+  states explicitly: **"Your colleague Mike asked me to pass on an
+  invite to you"** — direct written confirmation that this is the Mike
+  Molloy channel working as intended, not inferred.
+- **John's reply (2 Sept, from john@velocityai.ie):** accepted the
+  invitation, asked whether he needs to register on the day or whether
+  that's handled for him.
+- **Crysta's reply (2 Sept):** confirms she's registering him, and
+  asks whether he has any dietary restrictions for the post-event
+  lunch — **this question is still unanswered as of 9 Sept.**
+
 **Corroborating context (2 Sept), REPORTED not verified:** RTÉ News,
 "Archbishop Martin meets with OpenAI representatives over Pope's letter,"
 dated 30 July 2026 — could not be fetched in this session (RTÉ blocked
@@ -242,6 +274,12 @@ supplied phrasing/register guidance directly). Not yet sent as of
 
 ## Open items
 
+- **Reply owed to Crysta Gunn:** she asked (2 Sept) whether John has
+  any dietary restrictions for the lunch after the 29 Sept conference
+  — still unanswered as of 9 Sept. Small, but sitting open in a
+  Vatican-adjacent relationship thread worth closing promptly.
+- **Date correction for John's own records:** the conference is
+  **29 September**, not 1 October as said in this morning's dictation.
 - [ASK] Who is Lloyd, and is he actually part of this working group.
 - [ASK] Confirm the letter's addressee — presumed Archbishop Eamon
   Martin but not named in the letter text itself.

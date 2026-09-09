@@ -209,6 +209,19 @@
   personal mentorship) are different enough to warrant a check rather
   than treating it as obviously one relationship.
 
+### Crysta Gunn
+- **Role:** Senior Communications Officer, Irish Catholic Bishops'
+  Conference (crysta.gunn@catholicbishops.ie). Organising contact for
+  the **29 Sept 2026 CCO half-day conference on Pope Leo's AI
+  encyclical** ("Magnifica Humanitas"), Renehan Hall, St Patrick's
+  College, Maynooth — keynote Archbishop Eamon Martin, panel featuring
+  Niamh Smyth TD (Minister for AI) and Emma Redmond (Head of OpenAI
+  Ireland). Confirmed the invite was passed to her to send to John by
+  "your colleague Mike" (Mike Molloy) — direct written confirmation of
+  the Childen route working as intended. John accepted 2 Sept; her
+  follow-up question about dietary restrictions for the post-event
+  lunch is still unanswered as of 9 Sept. See `childen.md`.
+
 ### Raymond Sexton
 - **Role:** Founder, Tangible Ireland Group (see `ventures_dossier.md`).
   raymond.sexton@tangible.ie, sextonpery@gmail.com, +61 406 850 709
