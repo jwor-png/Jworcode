@@ -2599,10 +2599,12 @@ guessed:**
    done on it by the firm **HDS**, engaged at the request of **Ger
    Blake** on John's behalf at the time. The bill from HDS is
    outstanding — John needs to pay it in time, no deadline given.
-   **Principal contact at HDS:** **[ASK — heard as "Louise Maxwini,"
-   her married name — spelling unconfirmed]**, described by John as a
-   friend. Monthly statements come from jcorden@hds.ie
-   (cc ger@dsb.ie) — see the 4 Sept 2026 email that surfaced this.
+   **Principal contact at HDS: Louise McSweeney** (married name,
+   confirmed 9 Sept), a friend of John's, married to Donal McSweeney —
+   a friend of John's and good friend of Ger Blake's, golf professional
+   at Ballyneety and Lahinch golf clubs. Monthly statements come from
+   jcorden@hds.ie (cc ger@dsb.ie) — see the 4 Sept 2026 email that
+   surfaced this.
    Flagged by John as something to address in the future, not
    immediate.
 

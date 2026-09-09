@@ -434,14 +434,19 @@
 
 ## HDS (Webbor Consultants Limited fees)
 
-- **[ASK — heard as "Louise Maxwini," married name, spelling
-  unconfirmed]** — principal contact at HDS, described by John (9 Sept
-  2026) as a friend. HDS did work on Webbor Consultants Limited (John's
-  own company, since liquidated), engaged at Ger Blake's request on
-  John's behalf. Monthly statements from jcorden@hds.ie, cc
+- **Louise McSweeney** (married name — confirmed by John 9 Sept 2026,
+  corrects the earlier dictation heard as "Louise Maxwini") — principal
+  contact at HDS, a friend of John's. **Married to Donal McSweeney**
+  (see below) — a friend of John's and a good friend of Ger Blake's,
+  they holiday together. HDS did work on Webbor Consultants Limited
+  (John's own company, since liquidated), engaged at Ger Blake's
+  request on John's behalf. Monthly statements from jcorden@hds.ie, cc
   ger@dsb.ie. Fee outstanding, John intends to pay, no deadline given.
   Full detail: `ventures_dossier.md`, Legacy Financial Matters tracker,
   item 6.
+- **Donal McSweeney** — friend of John's and a good friend of Ger
+  Blake's (they holiday together). Golf professional at **Ballyneety**
+  and **Lahinch** golf clubs. Married to Louise McSweeney (above).
 
 ---
 
