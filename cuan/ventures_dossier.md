@@ -1926,26 +1926,22 @@ earlier thin entry.
   Sensai across future pillars. Cadence: two-week sprints.
 - **Goal stated in the document:** "Built toward a real, acquirable
   outcome."
-- **[ASK — reconciling with the pre-existing entry below]:** the
-  earlier record here described "Smacht Network" as a ~300-SME Irish
-  network, a channel to bring Meridian/Golden Generation/Ambrion to a
-  warm audience — a materially different description from this
-  mindset/habits/neurodivergence coaching product. Given the exact
-  name match (Smacht/SMÁCHT) and the same contact (Padraic O'Maille/
-  Pádraic Ó Máille), this is very likely the same relationship having
-  evolved or been described two different ways at two different
-  points — but not assumed. Worth confirming with John whether the
-  300-SME network is a separate, still-live thread alongside SMÁCHT,
-  or whether SMÁCHT superseded it.
+- **Confirmed by John, 9 Sept: SMÁCHT is Padraic O'Maille's own group**
+  — same relationship as the "Smacht Network" entry below, not a
+  separate thread. The ~300-SME network description and the SMÁCHT/
+  Sensai mindset-and-habits product are the same underlying
+  relationship, evolved/described at different points — not two
+  competing things to track separately.
 - **John's own instruction, 9 Sept:** this belongs in the active
   sales-orchestration coordination push (see `master_plan.md`) —
   something Shane and John have discussed but not been actively
   driving.
 
-**Prior entry (context, may now be superseded — see ASK above):**
-Network of ~300 Irish SMEs, all early-stage AI adopters. Opportunity:
-bring Meridian Intelligence, Golden Generation partner model, and
-Ambrion ecosystem to a warm network. Galway meeting with Padraic was
+**Prior entry (same relationship, confirmed — context only, not a
+separate thread):** Network of ~300 Irish SMEs, all early-stage AI
+adopters. Opportunity: bring Meridian Intelligence, Golden Generation
+partner model, and Ambrion ecosystem to a warm network. Galway meeting
+with Padraic was
 upcoming as of June 2026. Priority: High — key channel for Ambrion
 compliance offering.
 

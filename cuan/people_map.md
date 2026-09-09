@@ -314,11 +314,11 @@
   members as the pillar's first users. Go date 26 Aug 2026, Phase One
   (Flow State live to his first circle) due mid-October 2026. Full
   detail: `ventures_dossier.md`, "SMÁCHT / Sensai."
-- **Prior/possibly related role:** previously logged as Head of the
-  "Smacht" network — ~300 Irish SMEs, a warm channel for Ambrion AI
-  compliance and Meridian's partner model, Galway meeting upcoming as
-  of June 2026. **[ASK — not confirmed whether this is the same
-  relationship evolved, or a separate thread alongside SMÁCHT.]**
+- **Confirmed by John, 9 Sept: this is the same relationship as
+  SMÁCHT.** Also previously logged as Head of the "Smacht" network —
+  ~300 Irish SMEs, a warm channel for Ambrion AI compliance and
+  Meridian's partner model, Galway meeting upcoming as of June 2026 —
+  same group, same person, not a separate thread.
 
 ### Mairead O'Donnell
 - **Company:** Claochlu Consulting
