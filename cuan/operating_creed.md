@@ -1263,11 +1263,16 @@ each is traceable to a specific item above.
 - **Personal errands, not yet done:** visit the Spar Rewards Club to
   check points balance and get a voucher; order books from **Eason's**
   (confirmed spelling — dictated as "Isens/Easons").
-- **A personal "master plan," John's own idea:** build a plan for
-  himself based on `operating_creed.md`, driven specifically by sales
-  orchestration and generating business through **Meridian
-  Intelligence**. Not yet started — no shape or timeline given yet,
-  worth returning to when he's ready to define it.
+- **A personal "master plan," John's own idea — built 9 Sept 2026,
+  see `master_plan.md`.** Not a template for John to follow (he was
+  explicit he brain-dumps unstructured every morning and won't work
+  to a form) — instead a standing priority order Cuan applies when
+  triaging whatever he dumps, so revenue-generating, Shane-related
+  work (Meridian, ODIN, EOLAS, Ambrion, Velocity AI, Barber Republic)
+  gets surfaced back to him first every day, without him having to
+  organise it himself. Sits above `operating_creed.md`'s six
+  disciplines and `revenue_streams.md`'s 8-stream tracker as the daily
+  ordering logic, not a replacement for either.
 - **Ger Blake — proposed Meridian partnership discussion.** John wants
   to consult Ger Blake about bringing **Meridian into partnership with
   [ASK — heard as "Carol Consulting," name/spelling unconfirmed]**,
