@@ -804,6 +804,23 @@ are flagged for confirmation, never guessed.
   alternative," thenetreturneurope.com). Not yet purchased — logged as
   a want, ties into the Life Balance golf discipline above (practice
   at home on days he can't get to Ballyneety/Kilmallock).
+- **Mental reset alongside physical — 9 Sept 2026.** John flagged a
+  Karl Henry "Reset, Refocus and Get Back on Track" wellness column
+  (Irish Country Living, 5 Sept 2026) — not as a prompt to take up a
+  new physical activity (he was explicit: not about "taking up running
+  again or anything like that"), but because the **"reset, refocus,
+  get back on track"** framing resonated mentally as much as
+  physically. His own words: his mind was "fragmented over the
+  holidays," and this is the discipline he wants applied to that, not
+  just to exercise/golf/gardening (already logged above) or protected
+  family time. Karl Henry's five practical tips, for reference: set
+  small weekly goals rather than one big goal; build them into a
+  written schedule rather than leaving them to chance; surround
+  yourself with people who help make it happen; build the routine
+  around your own personality/strengths rather than fighting them; use
+  a goal-reward system to reinforce progress. Logged as a mental
+  as well as physical life-balance discipline — no specific action
+  attached beyond the reflection itself.
 - **Future travel with Majella — aspiration logged, 9 Sept 2026.**
   John shared a Sunday Times Travel piece, "48 Hours in Arles"
   (Provence, France — Roman ruins, the Luma art complex, Les

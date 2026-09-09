@@ -221,6 +221,37 @@ itself, already live with Paul Candon at €5k founding rate — see
   John ideas on these streams proactively rather than waiting for John
   to remember them.
 
+## Addition, 9 Sept 2026 (end of day) — analysis day, sales orchestration
+tomorrow, and a future-career plan to build in
+
+John's own end-of-day self-assessment: today was a genuinely
+productive **analysis** day (knowledge-base building, market
+intelligence, correspondence, governance items) but **not** a day of
+being "on the front foot as regards generating sales." His explicit
+instruction: today's work is done and complete; **tomorrow he wants to
+get back into active sales orchestration** (see the "actively
+coordinate sales orchestration" addition above — Golden Generation,
+Meridian Intelligence, Ambrion AI, Velocity AI, Intelligence
+Concierge).
+
+He also wants a **future-career plan built out — explicitly "with
+Shane and without Shane"** — i.e. two distinct tracks to think through:
+what his next chapter looks like continuing to work alongside Shane
+across the current AI ventures, and separately, what it could look
+like if that partnership weren't the frame. This connects directly to
+the retirement/new-career planning section above (his own future in
+the AI space, tied to the Mediaplanet supplement/yourcareer.ie) — **not
+a new item, but a sharpening of it**: the plan needs to explicitly
+cover both scenarios, not just one general direction. **Not yet built
+out — flagged as the next real piece of work on this thread**, to be
+developed once John brings more of it forward, not assumed or drafted
+speculatively here.
+
+**[ASK]** — John mentioned signing off today to "be available for
+meeting [name unclear, heard as 'Coon'] if he's coming over." Not
+confirmed who this is — flagged rather than guessed. If this recurs,
+worth clarifying and logging properly in `people_map.md`.
+
 ## Addition, 9 Sept 2026 (evening) — reminders spaced through the day, with time allocated
 
 John's instruction: knowing something is logged in `operating_creed.md`
