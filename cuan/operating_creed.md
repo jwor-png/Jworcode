@@ -920,6 +920,14 @@ are flagged for confirmation, never guessed.
 
 ## 3. ACT WITH INTEGRITY
 
+- **Clinton Tiernan (mechanic, new contact 9 Sept 2026)** — services
+  John's cars. Running account currently at **€80 owed**, plus a
+  further invoice still outstanding for a recent service to
+  **[ASK — heard as "Nieves'" car, near-certainly Niamh's car given
+  family context, but not assumed]** — invoice not yet received from
+  Clinton, so the total owed isn't final. Separately, John bought
+  several litres of oil to top up his own Range Rover Evoque — a
+  personal purchase, not part of the Clinton Tiernan account.
 - **Michael Nugent settlement** — €2,460 full and final settlement accepted. Email
   sent confirming payment will follow in August. Split with Paul Candon (€1,230
   each), Paul sending his share to John to pay in full.
