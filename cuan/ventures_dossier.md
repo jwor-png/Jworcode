@@ -3028,6 +3028,34 @@ guessed:**
    O'Brien again as the correct contacts for arranging access. **Status:
    handled — awaiting the liquidator's office to actually arrange
    access**, not a John action item beyond this reply.
+8. **Birmingham City Council — historic council tax debt, Equita
+   enforcement (UK).** Three letters from **Equita Ltd** (Birkenhead,
+   Wirral — England/Wales civil enforcement agent, Ref No. 24888360,
+   Council/Client Ref 5062862952, all dated 1 Sept 2026) addressed to
+   John at Portauns, Kilmallock. Headed **"REMOVAL ACTION — IMMEDIATE
+   CONTACT REQUIRED," balance due £1,373.62**, in respect of
+   **Apartment 189, 10 Hall Street, Birmingham, B18 6BY**. Letters
+   state an enforcement agent already attended "the property" (the
+   Birmingham address, not Portauns) to collect payment, the case has
+   been referred to Equita's Removal Team, and goods/vehicles may be
+   taken and sold if unresolved. Removal Team contact: 07485 985 225;
+   automated payment line 03300 084 470.
+   **John's own instruction, 9 Sept:** he can do nothing about this
+   right now — it goes into this Legacy Financial Matters tracker
+   under "Resolve My Past Professionally," alongside his other
+   historic debts, and he flagged needing to **take legal advice** on
+   it and to **engage with a PIP** (Personal Insolvency Practitioner —
+   see the "[ASK — heard as Marrick Power]" personal-solvency-
+   practitioner/solicitor item already open in `master_plan.md`,
+   9 Sept "retirement and new-career planning" addition; not yet
+   confirmed whether that's the same PIP John means here).
+   **Not yet independently verified:** the underlying Birmingham
+   tenancy/liability itself (whose apartment, what period, why John is
+   the named debtor) has not been established via Gmail or any other
+   record this session — logged from the physical letters only, as
+   REPORTED. **Status: no action taken. Held pending legal advice and
+   PIP engagement, per John's explicit instruction not to act on it
+   himself right now.**
 
 ### How this tracker works
 - Each liability gets its own numbered entry here with a live status
