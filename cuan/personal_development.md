@@ -38,6 +38,27 @@ rather than something borrowed, it carries more weight as evidence of
 "what principles should guide my decisions" than any external quote
 logged in this file.
 
+## Daily prayer John reads alongside the mantra above (logged 9 Sept 2026)
+
+A second printed page John keeps and reads daily, titled "A Prayer You
+Must Say Every Day" — a gratitude-and-faith prayer addressed to God as
+Heavenly Father. Full text as photographed:
+
+> Heavenly Father, I may not always say it, but my heart is full of
+> gratitude. For the blessings I see and the ones I've overlooked. For
+> the mornings You woke me up, the nights You carried me through, and
+> the countless ways You've shown up in between. Thank You for staying
+> close when I was distant, and for never giving up on me when I
+> almost gave up on myself. You've given me more than I asked for and
+> forgiven me more than I deserve. Even in my lowest places, Your love
+> never left. Every good thing in my life leads back to You. God, I
+> love You, [text continues beyond the photographed portion].
+
+Logged as a companion piece to the mantra above — both are things John
+reads daily, not one-off quotes, and both belong together as primary
+evidence for the eventual Personal Compass (faith and gratitude sit
+alongside the action/positivity framing already logged).
+
 ## Standing instruction, 9 Sept 2026 — daily newsletter/Substack review
 
 John receives a steady stream of self-improvement/wisdom-style
