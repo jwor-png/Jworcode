@@ -851,19 +851,17 @@ consolidation pass rather than merged speculatively.
   the next couple of days):**
   1. **Disclose a conflict of interest**, re: the Velocity AI training
      already delivered to UHL's executive management team and now
-     starting with the commercial team. **Sequence confirmed by John:**
-     he emails a first contact to explain the conflict and seek
-     guidance (cc unclear); he expects the reply will be that it needs
-     formal disclosure to **David Geoghegan, in his capacity as UHL
-     Company Secretary** — a role for David not previously recorded in
-     `people_map.md` (he's on file there as CFO) — logged here as
-     John's own statement, not yet independently verified, and worth
-     cross-checking against the CRO record when convenient. **[ASK —
-     still unconfirmed: who the initial email actually goes to, and
-     who's copied. Two dictation passes haven't transcribed the name
-     cleanly enough to log with confidence — please just type or spell
-     it rather than dictate it, to avoid a wrong name going in the
-     record.]**
+     starting with the commercial team. **Confirmed 9 Sept (spelled
+     out by John): John emails Eoin McGettigan, Chairman of United
+     Hardware** (matches existing `people_map.md` record — "Chairman:
+     Eoin McGettigan, refocused the 29 July board agenda") to explain
+     the conflict and seek guidance. Cc still unconfirmed. John expects
+     Eoin's reply will be that it needs formal disclosure to **David
+     Geoghegan, in his capacity as UHL Company Secretary** — a role for
+     David not previously recorded in `people_map.md` (he's on file
+     there as CFO) — logged as John's own statement, not yet
+     independently verified, worth cross-checking against the CRO
+     record when convenient.
   2. **Go back to Hang (Hang Zhao, UHL Admin/Finance — confirmed
      contact in `people_map.md`) on the risk register** — but only
      as the last step in a sequence, not immediately (see below).
