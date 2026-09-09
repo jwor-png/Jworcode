@@ -108,6 +108,50 @@ Cuan reads both files in full — nothing here has been deleted or superseded.
   automation, human authority, evidence before confidence. 14-phase
   build sequence from architecture foundation to a "world-class product."
 
+### "Model B" term sheet + cap table — educational examples from Shane, 9 Sept 2026
+
+John shared two documents explicitly as **teaching material** ("examples
+of the documents that Shane has sent me to understand" what a term
+sheet is) — **not a live offer, and not to be conflated with the
+confirmed €20m/€100m Business Plan figures below.** Both dated 8 Sept
+2026, "CONFIDENTIAL — PARTNER REVIEW."
+
+- **"Model B | €30m at 25%, then €400m at 20%"** — an illustrative,
+  non-binding founder-side counter-draft term sheet plus matching cap
+  table, showing a *different, larger* two-round scenario than the
+  confirmed Business Plan: Round 1 €30m for 25% at €120m post-money
+  (€90m pre); a purely illustrative "strategic Round 2 context" of
+  €400m for 20% at €2.0bn post-money (€1.6bn pre) — explicitly labelled
+  as modelling only, not a commitment from either side.
+- **New name surfaced: "Diarmuid," "Strategic Partner"** — shown in the
+  pre-financing cap table at 10% (Shane 80%, Diarmuid 10%, employee
+  option pool 10%). **[ASK — not previously recorded anywhere in this
+  dossier or `people_map.md`. Need to confirm who Diarmuid is: a real
+  ODIN co-founder/strategic partner, or a placeholder name Shane used
+  for illustration purposes. Not assumed either way.]**
+- **What the documents actually teach (worth noting since John asked
+  for this specifically to understand the mechanics):** a permanent
+  30% hard ceiling on any single investor group's stake regardless of
+  vehicle/affiliate/secondary; founder-class 10:1 super-voting with no
+  financing-based sunset; no investor board seat at Closing; 1x
+  non-participating liquidation preference; broad-based weighted-average
+  anti-dilution only (no full ratchet); no automatic right for a lead
+  investor to take an entire future round — any excess must go to a
+  genuinely independent second investor; a worked example of why a
+  cap table should always be checked for hidden pre-money option-pool
+  top-ups; and the Irish inward-investment screening trigger at 25%+
+  foreign ownership (AI flagged as a "critical technology" in current
+  guidance) as a real regulatory check-point, separate from the
+  commercial ceiling.
+- **End-state comparison in the documents:** regardless of which model
+  (A or B) is used, both land at the same final split after a Round 2 —
+  Shane 48%, Diarmuid 6%, employee pool 6%, lead investor 30%, a second
+  independent investor 10% — the difference being only the capital
+  raised and valuation path to get there.
+- **Status:** reference/educational only. No action needed unless John
+  wants this cross-referenced against the actual live ODIN raise terms
+  once/if a real term sheet arrives.
+
 ### ODIN Business Plan (the actual investor document, July 2026, 18 pages + cover, prepared by Shane McCarthy)
 
 **Confirmed, precise figures — supersede the earlier "~€19-20m range
