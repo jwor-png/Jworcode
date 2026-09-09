@@ -1010,9 +1010,13 @@ normally in this account):
   was with **Howarth Bastow, Limerick**, and helped John's own Cahill's
   Homevalue Hardware (Kilmallock) in a prior role, "over a year or
   more" before this point.
-- **Open item carried forward:** John still needs a ready response/plan
-  for the undistributed rebates question ahead of the 23 Sept AGM, per
-  Simon's flag — not yet drafted.
+- **Decided, 9 Sept 2026:** John's approach to the undistributed
+  rebates question is to have **Simon Carbery (BDO) deal with it
+  directly at the AGM**, rather than John preparing his own response/
+  plan — a different call than Simon's original suggestion (that John
+  should have a plan ready). **Not yet actioned** — John hasn't asked
+  Simon to take this on; needs to be raised with him before 23 Sept,
+  ideally not last-minute given Simon flagged being away 4-7 Sept.
 
 ### Structural finding (2 Sept 2026) — three companies, not one
 John operates across **three** distinct hardware-group companies, not
