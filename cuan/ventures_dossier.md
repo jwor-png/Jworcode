@@ -1329,6 +1329,12 @@ rules, not facts about AHL Plc.
   separate session (2 Sept) reported it had "no entry anywhere in the
   knowledge base," which wasn't quite right (it just wasn't in this
   particular file).
+- **Balancing statement to John Lynch, updated 9 Sept 2026 (drafted,
+  not sent):** balance carried forward end of July was €9,500 (per
+  7 Aug email); September's €3,000 monthly amount became due 1 Sept,
+  bringing it to €12,500; John Lynch paid €1,500 on 1 September 2026
+  (date confirmed by John), reducing the balance to **€11,000**. Draft
+  saved in Gmail, awaiting John's review and send.
 
 ---
 

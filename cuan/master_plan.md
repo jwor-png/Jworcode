@@ -176,11 +176,13 @@ Concierge** (the productised, personal-orchestration version of Cuan
 itself, already live with Paul Candon at €5k founding rate — see
 `ventures_dossier.md`).
 
-- **[ASK — one item genuinely unclear, not guessed]:** John mentioned
-  a venture/product name that didn't transcribe cleanly — heard as
-  **"Sensai"** paired with **"powdery remolia"** — no confident match
-  against anything already on file. Needs John to type or spell this
-  rather than dictate it again.
+- **Resolved, 9 Sept:** "powdery remolia" was **Padraic O'Maille**, the
+  existing Smacht Network contact (~300 Irish SME network, early-stage
+  AI adopters — see `ventures_dossier.md`). John wants **"Sensai"**
+  (spelling as given, S-E-N-S-A-I) coordinated with Padraic as part of
+  this active sales-orchestration push — **[ASK — confirm what
+  "Sensai" itself is: a new product/venture name not yet on file, or a
+  mishearing of something else. Not assumed.]**
 - **[ASK — also unclear]:** an earlier reference to needing to look at
   "ash doors... mentioned this morning" — not clear what this refers
   to; flagged rather than assumed.
