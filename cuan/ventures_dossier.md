@@ -1010,6 +1010,12 @@ nicola.hegartymcmillan@unitedhardware.ie **and** n.hegarty@hotmail.com
 June 2026). **Not recorded here by design:** John's IBAN, BIC, tax
 number and mobile appear on the invoice template only, deliberately kept
 out of this repo.
+- **September 2026 invoice (No. 28) drafted 9 Sept 2026**, per John's
+  instruction, period 1-30 September, €1,667.00. Delivered as a docx
+  for John to add his IBAN/BIC/tax number (not stored here) before
+  attaching to an email to Nicola (both addresses) and Dave. **Status:
+  drafted, not yet sent** — awaiting John to complete payment details
+  and send.
 
 ### Board
 John Webb-O'Rourke (Chairman), Shane Felle (sfelle@shannonside.net,
