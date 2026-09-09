@@ -2168,8 +2168,10 @@ document for John Jones was drafted and sent to John for review:
 
 John corrected the Team section directly:
 - **Johnny Shanahan is Founder & Chairman**, operating via **Barber
-  Barber Ltd** — not John. Johnny's role now also explicitly covers
-  **investor relationships** (previously shown under John).
+  Barber UK Ltd** (corrected by John, 9 Sept — initially given as
+  "Barber Barber Ltd," then corrected to add "UK") — not John. Johnny's
+  role now also explicitly covers **investor relationships** (previously
+  shown under John).
 - **John's own role is commercial oversight only** — "happy to
   oversee the commercial model," not styled as Chairman in this
   document.
@@ -2180,11 +2182,10 @@ John corrected the Team section directly:
   unchanged.
 
 Document rebuilt and resent to John with these corrections; commercial
-model section untouched (already fully settled, see above). **Note:**
-"Barber Barber Ltd" is used exactly as John gave it — worth confirming
-this is the correct/final legal entity name if it's ever referenced
-again outside this document, since it's a new detail not previously
-logged anywhere else in this dossier.
+model section untouched (already fully settled, see above). **Barber
+Barber UK Ltd** is the confirmed legal entity name for Johnny's side of
+the business — worth using this exact name in any future document
+referencing him.
 
 ---
 
