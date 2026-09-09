@@ -15,6 +15,16 @@
   today. Topic: **"Hidden Dangers of AI."** Last-minute substitution —
   not appearing on any published event schedule.
 
+### Diarmuid Hudner
+- **Role, confirmed 9 Sept 2026:** a real, current link on the ODIN
+  funding side — named as "Strategic Partner" (10% pre-financing) in
+  Shane's "Model B" term sheet/cap table, a template Shane drafted for
+  himself to understand what he might receive from a real term sheet,
+  not drawn from an actual live negotiation. **Not the same person as
+  "Diarmaid," Majella's sibling** who inherits land at Portauns — a
+  coincidental name similarity only (different spelling too). See
+  `ventures_dossier.md`, ODIN/Codex section.
+
 ---
 
 ## Advisors

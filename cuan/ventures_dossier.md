@@ -123,12 +123,19 @@ confirmed €20m/€100m Business Plan figures below.** Both dated 8 Sept
   (€90m pre); a purely illustrative "strategic Round 2 context" of
   €400m for 20% at €2.0bn post-money (€1.6bn pre) — explicitly labelled
   as modelling only, not a commitment from either side.
-- **New name surfaced: "Diarmuid," "Strategic Partner"** — shown in the
-  pre-financing cap table at 10% (Shane 80%, Diarmuid 10%, employee
-  option pool 10%). **[ASK — not previously recorded anywhere in this
-  dossier or `people_map.md`. Need to confirm who Diarmuid is: a real
-  ODIN co-founder/strategic partner, or a placeholder name Shane used
-  for illustration purposes. Not assumed either way.]**
+- **"Diarmuid," "Strategic Partner" — confirmed 9 Sept 2026: Diarmuid
+  Hudner**, a real, current link on the ODIN funding side (not a
+  placeholder). Shown in the pre-financing cap table at 10% (Shane
+  80%, Diarmuid 10%, employee option pool 10%). **Not the same person**
+  as "Diarmaid," Majella's sibling inheriting the field at Portauns
+  (see Home property section) — confirmed a coincidence of similar
+  names, not the same individual; spelling also differs (Diarmuid vs
+  Diarmaid). **Also clarified: this whole "Model B" document is a
+  template Shane drafted for himself, to get familiar with the shape
+  of what he might actually receive from a real term sheet** — not
+  drawn from an actual live negotiation with Diarmuid Hudner or anyone
+  else. Reinforces the "educational, not a live offer" framing already
+  logged above.
 - **What the documents actually teach (worth noting since John asked
   for this specifically to understand the mechanics):** a permanent
   30% hard ceiling on any single investor group's stake regardless of
@@ -2037,10 +2044,11 @@ compliance offering.
   and the field directly to its rear. The rectangular field to the
   north of that goes to **Diarmaid**, a sibling of Majella's ("Diarmaid
   is getting the other field," per John's own May 2025 email to Owen).
-  Not a new "Diarmaid" — worth checking whether this is the same
-  Diarmaid named as "Strategic Partner" in the ODIN Model B cap table
-  (see ODIN/Codex section) or a different person entirely — **[ASK —
-  do not assume these are the same Diarmaid]**.
+  **Confirmed 9 Sept: this is a different person from "Diarmuid" in the
+  ODIN Model B cap table** — that Diarmuid is Diarmuid Hudner, a real
+  contact on the current ODIN funding side, coincidentally similar
+  name (different spelling too), not the same individual as Majella's
+  sibling.
 - **Family context confirmed:** the land came from John's late
   father-in-law **Tim Cahill** (died ~2020), whose wife **Helen** (87)
   is the beneficial owner of the existing house and lives with John and
@@ -2077,8 +2085,6 @@ compliance offering.
      worth a short, courteous email letting him know the family has
      decided to proceed with someone else, and settling the €200 if it
      was never paid, rather than leaving it hanging indefinitely.
-  2. Confirm whether "Diarmaid" here is the same person as "Diarmaid"
-     in the ODIN Model B document, or a coincidence.
 
 ---
 
