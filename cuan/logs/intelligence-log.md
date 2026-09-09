@@ -322,3 +322,27 @@ no findings/decision yet, site not independently reviewed by Cuan.
 **Ventures touched:** Golden Generation, Meridian Intelligence.
 **Pushed to Google Drive:** No (sync not yet wired up).
 ---
+
+### [2026-09-09] [Cuan → Meridian] [REPORTED]
+**Source:** Cuan (standing rule, no live Meridian session)
+**Domain(s):** AI Strategy & Adoption; Agribusiness sector lens; Golden Generation
+**Summary:** John shared a batch of 12 newspaper clippings across two
+sessions for the knowledge base, with no specific action requested.
+Logged as two new files: (1) an FT piece independently analysing
+Anthropic's rumoured October 2026 IPO, its ~$100bn 2026 revenue
+estimate, and named business risks (compute costs, competitive
+pricing, political/regulatory friction) — useful balance to more
+favourable AI-adoption material already on file, given Cuan itself
+runs on Claude; (2) a six-item batch from the Irish Farmers Journal/
+Irish Country Living (5 Sept 2026) covering farm pension/tax planning,
+a Teagasc AI-literacy quote directly usable for Ambrion/Velocity
+outreach, and CAO data showing agricultural science first preferences
+falling 7% against a 42% rise in veterinary medicine — a talent-
+pipeline signal relevant to Golden Generation's succession thesis.
+Also logged a Healthcare Abroad advertisement for completeness (no
+venture relevance identified).
+**Outputs:** `cuan/market_intel_anthropic_ipo_ft_sept2026.md` (new); `cuan/market_intel_farmers_journal_batch_sept2026.md` (new).
+**Open loops:** None — pure knowledge-base capture, no dictated follow-up.
+**Ventures touched:** Meridian Intelligence, Ambrion AI, Velocity AI, Golden Generation.
+**Pushed to Google Drive:** No (sync not yet wired up).
+---
