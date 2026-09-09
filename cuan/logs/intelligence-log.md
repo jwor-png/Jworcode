@@ -363,3 +363,23 @@ allocation) succession material already on file.
 **Ventures touched:** Golden Generation, Meridian Intelligence.
 **Pushed to Google Drive:** No (sync not yet wired up).
 ---
+
+### [2026-09-09] [Cuan → Meridian] [REPORTED]
+**Source:** Cuan (standing rule, no live Meridian session)
+**Domain(s):** Golden Generation
+**Summary:** John shared an Irish Independent article on ~116,000
+households with someone aged 70+ missing out on the Household Benefits
+Package (up to €580/year, automatic for over-70s but purely
+self-service to claim). John explicitly framed this as a possible
+business opportunity ("the opportunity to deal with the people"), not
+just reference material — a Golden Generation-linked offer helping
+older people/families navigate and claim entitlements they qualify for
+but aren't receiving. Logged as an open opportunity worth its own
+conversation, and flagged to review alongside the existing
+Age-Friendly AI entry once John reviews that site.
+**Outputs:** `cuan/market_intel_over70s_unclaimed_benefits_sept2026.md` (new); `cuan/ventures_dossier.md` (Golden Generation section updated).
+**Open loops:** Not yet decided or scoped whether/how John wants to
+pursue this — flagged, not actioned.
+**Ventures touched:** Golden Generation, Meridian Intelligence.
+**Pushed to Google Drive:** No (sync not yet wired up).
+---

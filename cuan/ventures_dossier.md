@@ -2118,6 +2118,26 @@ to log what the site actually contains and whether there's a concrete
 next step (partnership approach, content citation, or a distinct
 commercial angle).
 
+### Market intelligence — over-70s missing out on unclaimed state
+### energy benefits, possible opportunity flagged (shared 9 Sept 2026)
+
+**[Cuan → Meridian]** John shared an Irish Independent article (Charlie
+Weston, 7 Sept 2026) on the Household Benefits Package (up to €580/
+year: electricity/gas credit + free TV licence, automatic for over-70s
+but widely unclaimed — a Department of Social Protection FOI analysis
+suggests as many as 116,000 households with someone aged 70+ are
+missing out). John's own framing was explicit: this isn't just
+reference reading — he sees **"the opportunity to deal with the
+people"**, i.e. a possible Golden Generation-linked offer helping
+older people (and their families) navigate and claim entitlements they
+qualify for but aren't getting, given the scheme is entirely
+self-service (MyGovID/paper form, no proactive outreach). Full detail
+in `market_intel_over70s_unclaimed_benefits_sept2026.md`. **Not yet
+decided or scoped** — flagged as a live opportunity worth its own
+conversation, and worth reviewing together with the Age-Friendly AI
+entry above once John has looked at agefriendlyai.ie, in case there's
+a natural combined angle.
+
 ### Market intelligence — "Dear Miriam" family-business succession
 ### letter (Irish Farmers Journal, shared 9 Sept 2026)
 **[Cuan → Meridian]** John flagged this directly as important
