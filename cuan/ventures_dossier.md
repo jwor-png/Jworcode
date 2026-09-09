@@ -245,6 +245,20 @@ market-reality/valuation scepticism a serious institutional contact
 would raise. Both are now confirmed as real files John holds, not
 placeholders.
 
+### Funding-source screening — Claret Capital ruled out, 9 Sept 2026
+
+John shared a newspaper article on Claret Capital Partners closing its
+Fund IV at €575m and asked for a fit analysis against ODIN's raise.
+**Finding: not a fit for the current round.** Claret is a growth-debt
+(venture debt) lender — it lends as "an alternative to raising money
+by selling shares," which requires a borrower able to service debt
+from existing revenue. ODIN's raise is €20m equity at a €100m
+pre-money valuation, pre-revenue. Full analysis, including a possible
+later-stage fit once ODIN has revenue, in
+`market_intel_claret_capital_odin_fit_sept2026.md`. **Recommendation:
+do not approach Claret for the current round** — keep on file as a
+post-revenue debt option only.
+
 ### "The Funding Reality" — ODIN market-evidence pack (shared 5 Sept 2026)
 
 A 10-page ODIN-branded document ("Estate Intelligence · Market

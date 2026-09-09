@@ -262,3 +262,24 @@ two days.
 **Ventures touched:** Meridian Intelligence, Ambrion AI, Velocity AI.
 **Pushed to Google Drive:** No (sync not yet wired up).
 ---
+
+### [2026-09-09] [Cuan → Meridian] [REPORTED]
+**Source:** Cuan (standing rule, no live Meridian session)
+**Domain(s):** AI Funding / ODIN raise
+**Summary:** John shared a newspaper article on Claret Capital Partners
+closing Fund IV at €575m and asked for a fit analysis against ODIN's
+live raise. Finding: Claret is a growth-debt lender (loans as an
+alternative to selling equity), which requires the borrower to service
+debt from existing revenue. ODIN's raise is €20m equity at a €100m
+pre-money valuation and is pre-revenue — a structural mismatch on
+instrument type, not just appetite. Recommended not approaching Claret
+for the current round; flagged as a possible post-revenue debt option
+later, and noted Claret's own portfolio shows real AI/tech sector
+appetite (32% of Fund III into AI/tech-enabled ops, incl. EdgeTier).
+**Outputs:** `cuan/market_intel_claret_capital_odin_fit_sept2026.md` (new); `cuan/ventures_dossier.md` (ODIN section updated).
+**Open loops:** Confirm with John whether to drop Claret from
+consideration entirely for now, or keep contact details on file for a
+future post-revenue debt conversation.
+**Ventures touched:** ODIN/Codex, Meridian Intelligence.
+**Pushed to Google Drive:** No (sync not yet wired up).
+---
