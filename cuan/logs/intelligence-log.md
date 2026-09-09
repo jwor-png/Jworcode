@@ -457,3 +457,25 @@ survey snippet visible on the same page for completeness.
 **Ventures touched:** Meridian Intelligence, Barber Republic.
 **Pushed to Google Drive:** No (sync not yet wired up).
 ---
+
+### [2026-09-09] [Cuan → Meridian] [REPORTED]
+**Source:** Cuan (standing rule, no live Meridian session)
+**Domain(s):** AI Strategy & Adoption (Meridian domain 5) - agribusiness vertical
+**Summary:** John asked for the Teagasc "Farming in the Future" AI-literacy
+article (already logged as general market intel) to be pulled forward
+specifically for Meridian, with concrete direction/tips for positioning
+Meridian's AI Strategy & Adoption domain to the farming community. Built
+out five specific positioning recommendations (lead with "AI as second
+opinion", tie to concrete farm decisions, foreground the governance
+floor as a trust answer, structure a pitch around the three existing
+sourced agri scenarios - skills/AI literacy, capital allocation,
+succession risk - and enter via institutions like Teagasc rather than
+direct-to-farmer marketing) directly into the Meridian section of the
+dossier.
+**Outputs:** `cuan/ventures_dossier.md` (Meridian Intelligence section - new "AI Strategy & Adoption - farming community vertical" subsection).
+**Open loops:** Not yet decided whether this becomes a distinct
+sub-offer, a standalone pitch document, or just standing framing -
+flagged as a live direction, not a commitment.
+**Ventures touched:** Meridian Intelligence.
+**Pushed to Google Drive:** No (sync not yet wired up).
+---

@@ -618,6 +618,83 @@ dossier's existing convention.
 - **Confidentiality:** All documents marked confidential and internal. Client and network references removed from external-facing versions.
 - **Current status:** Building — partner model active
 
+### AI Strategy & Adoption — farming community vertical (9 Sept 2026)
+
+John's instruction, 9 Sept: within Meridian's AI Strategy & Adoption
+domain (domain 5 above), he wants a specific focus on **helping the
+farming community understand and adopt AI**, and asked for direction/
+tips/advice drawn from the Teagasc "Farming in the Future" article
+(Dr Anne-Marie Butler, Head of Education, Teagasc — full source detail
+in `market_intel_farmers_journal_batch_sept2026.md`, item 4). This is
+the same article, now pulled forward specifically for Meridian's use,
+not duplicate market-intel logging.
+
+**Teagasc's own framing of what farmers need — the direct input to
+build Meridian's positioning against:**
+- Farmers don't need to become AI experts. They need to **understand
+  how to use AI appropriately and critically** — recognise what's
+  accurate, what's real, and know when AI is the right tool and when
+  it isn't.
+- AI is explicitly framed as **complementing existing agricultural
+  knowledge, not replacing it** — Teagasc is careful never to suggest
+  technology substitutes for traditional farming skill/judgement.
+- Digital, data and sustainability skills are described as
+  "increasingly embedded" in mainstream agricultural education
+  (Teagasc courses) — i.e. the demand signal is already institutional,
+  not just anecdotal.
+- Business-management literacy (costs, income, production figures,
+  fertiliser requirements, environmental considerations) is treated as
+  inseparable from AI/data literacy — farmers are expected to use
+  better information to make better decisions, not to run AI in
+  isolation from the rest of the business.
+- Practical, hands-on skill remains "fundamental" and consistently
+  farmers'/students' favourite area — any AI positioning that reads as
+  replacing hands-on farming knowledge, rather than supporting it, will
+  land badly with this audience.
+
+**Direction and tips for Meridian's positioning, drawn from this:**
+1. **Lead with "AI as a second opinion, not a replacement for
+   judgement."** Teagasc's own language ("recognise what's accurate...
+   be mindful of when you can use AI and when not to") is close to
+   ready-made messaging Meridian can adopt directly for a farming
+   audience — it matches Meridian's own "informs, does not replace
+   judgement" positioning almost exactly.
+2. **Tie AI literacy to concrete farm decisions, not abstract
+   technology.** Teagasc frames AI/data skills through costs, income,
+   fertiliser, production figures — Meridian's agribusiness pitch
+   should do the same: AI as a tool for a specific decision (a capital
+   allocation choice, a succession question, a compliance requirement)
+   rather than "AI adoption" as a standalone topic.
+3. **Address the trust/credibility gap directly.** Farmers are
+   explicitly taught to question AI output ("assess its accuracy") —
+   Meridian's governance floor (VERIFIED/REPORTED/UNVERIFIED tagging,
+   grounding rule, independent check) is a genuine, differentiated
+   answer to that exact concern, worth foregrounding rather than
+   treating as internal-only process detail.
+4. **Use the existing three-piece agri evidence base together.** This
+   Teagasc piece (skills/AI literacy), the dairy-farmer investment
+   piece (capital allocation, `market_intel_dairy_farmer_investment_sept2026.md`),
+   and the estate-dispute piece (succession/legal risk,
+   `market_intel_farming_estate_dispute_sept2026.md`) collectively
+   cover the three decision types a Meridian agribusiness engagement
+   would actually touch — worth structuring any farming-sector pitch
+   deck or one-pager around these three real, sourced scenarios rather
+   than generic "AI for farmers" language.
+5. **Entry point via existing institutions, not direct-to-farmer
+   marketing.** Given Teagasc is already embedding digital/AI literacy
+   into its own courses, a partnership or thought-leadership
+   relationship with Teagasc (or similar bodies — ag colleges, Macra na
+   Feirme, farm co-ops) is likely a far more credible route into this
+   audience than a standalone Meridian campaign — consistent with the
+   "build relationships via engagement and thought leadership first"
+   strategic recommendation already logged in the Funding Landscape
+   Intelligence section below.
+
+**Not yet decided:** whether this becomes a distinct sub-offer within
+domain 5, a standalone agribusiness pitch document, or simply the
+framing Meridian uses whenever an agribusiness-sector conversation
+comes up. Flagged as a live direction, not a commitment.
+
 ### Funding Landscape Intelligence (added July 2026)
 - **Source:** IBI Corporate Finance / DC Advisory funding note (originally prepared April 2025 by James Doody for MiDentalCare), reassessed July 2026 in a briefing note prepared for John.
 - **Irish funding landscape map (April 2025 IBI/DC Advisory deck):** Six capital types on the risk/return curve — Conventional Debt (AIB, Bank of Ireland, ptsb), Specialist Credit Funds (BVP, BDO, Proventus, Hayfin, Beechbrook, Rothschild, Quintas, Elkstone), EIIS, Venture Debt (Claret Capital, Beach Point, Melior, CapitalStep, Kreos, Irelandia, WildTribe, Columbia Lake Partners, Renatus, Causeway, Foresight, Quintas), Private Equity (MML, Cardinal, BGF), Venture Equity (Delta Partners, Act, Frontline, tribal.vc).
