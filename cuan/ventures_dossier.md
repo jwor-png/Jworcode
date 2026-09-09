@@ -2057,6 +2057,100 @@ collapse these into one document:**
    still-open ones flagged in step 1.
 3. Nothing gets drafted for John Jones until step 1 closes. This has
    already been asked and confirmed once (8 Sept) — do not restart
+
+### Step 1 CLOSED — Johnny confirms the pricing structure, 9 Sept 2026
+
+WhatsApp exchange, 8-9 Sept, screenshots shared with Cuan. Johnny
+reviewed the pricing note (`Barber_Republic_Pricing_-Note_for_Johnny_
+8Sept20...docx`) and replied:
+
+- **"10 to 18% is ok as I was leaning to 10 to 15 straight anyway."**
+  — confirms the Standard/Urgent tiers.
+- **On the 22% VIP tier:** "22% reads as a lot only because a
+  competent barber will be considering his tax implication as well as
+  what he has to pay us. In saying that, if the house calls are priced
+  correctly and only geared towards VIP and wealthier clients and the
+  service is at the high end of the scale eg £80 to £100, then the
+  22% would be a justified %." — **confirms the 22% tier, explicitly
+  conditioned on VIP house calls being priced at the high end (£80-
+  £100), not applied to standard bookings.**
+- **On the tech fee and Stripe booking/payout fees:** "absolutely
+  fine, they need to be considered regardless." — confirms both.
+- **Confirmed, verbatim:** "the tiered structure looks right."
+
+**This closes step 1 of the sequencing rule above.** The settled
+figures, now safe to carry into the John Jones document: three-tier
+commission **10% (Standard) / 18% (Urgent cover) / 22% (VIP house
+call, conditioned on £80-£100 pricing)**; technology fee £1-2/booked
+day; Stripe payment/payout fees passed through; shop membership
+£25-35/month; barbers pay £0 for staffing. **Still not John/Johnny-
+settled and therefore still excluded from the JJ document:** whether
+commission sits on a fixed day-rate tier structure or a market-set
+rate (the Build Plan vs. Johnny's earlier WhatsApp answer) — Johnny's
+9 Sept reply endorses "the tiered structure," which reads as
+resolving this in favour of the fixed-tier model, but worth an
+explicit one-line confirmation from Johnny before treating it as
+fully closed.
+
+### Recruited-barber testimonial and platform traction, 9 Sept 2026
+
+Johnny forwarded a testimonial from **Dale Ted Watkins** — trained at
+Vidal Sassoon (Brook Street), session work spanning Paris Fashion
+Week, the Mercury Prize, Pinewood Studios and London Fashion Week
+(LCM); clients including Guy Ritchie, Sacha Baron Cohen, Isla Fisher
+and Vicky McClure; qualified teacher and founder of his own training
+company, **CITYBOY**, taught internationally (Russia, Holland, Greece,
+Italy). Dale's own line, usable directly: "Barber Republic shall be a
+groundbreaking and vital tool within the industry connecting Shop and
+Barber in a manner never seen before. Allowing a craftsman and
+freelancer like myself access to work opportunities in a manner never
+seen before." Johnny's framing: "arguably the best men's haircutter in
+the world."
+
+**Additional traction, same exchange:** Johnny reports two more
+barbers have agreed to join the platform, with letters of intent
+pending.
+
+**Relevance to the John Jones document:** Dale's testimonial is
+genuine, named, high-credibility social proof — usable as a pull-quote
+in the investor document. The traction note (2 more barbers, LOIs
+pending) is a live, dated data point worth including as evidence of
+early pipeline momentum, distinct from and additional to Anthony
+Laban's earlier recruitment commitment already logged above.
+
+### John Jones document — DRAFTED, 9 Sept 2026 (step 2 of the sequencing rule)
+
+With step 1 closed (Johnny's confirmation above), the second, separate
+document for John Jones was drafted and sent to John for review:
+`Barber_Republic_John_Jones_Introduction_9Sept2026.docx`.
+
+- **Content, deliberately limited to settled figures only:** the idea
+  and the gap in the market (competitor benchmark — Squire, Booksy,
+  Fresha, theCut, Indeed Flex — none grade craft, run verified cover,
+  or hold an intelligence layer); pilot status (~3 weeks into the
+  12-14 week Velocity AI build, Stripe Connect payment architecture);
+  the Dale Ted Watkins testimonial plus the two-more-barbers/LOI
+  traction; the confirmed three-tier commission (10%/18%/22%,
+  VIP tier explicitly conditioned on £80-£100 pricing), the tech fee
+  (£1-2/day), shop membership (£25-35/month), and barbers paying £0 —
+  all matching Johnny's 9 Sept confirmation exactly; the team (Johnny,
+  John, Shane/Velocity AI, Anthony Laban).
+- **Deliberately excluded, per the sequencing rule and John's earlier
+  instruction:** any specific funding ask or figure (the £50k tranche/
+  £35k-through-the-business framing stays internal, not JJ-facing);
+  the Liberty London/Carnaby Street equity-for-costs offer (JJ's own
+  live proposal — a separate conversation, not folded into the general
+  investor document); the open "fixed tiers vs. market-set rate"
+  question, since Johnny's "the tiered structure looks right" reply is
+  treated as resolving this but not yet given as an explicit standalone
+  confirmation.
+- **Status:** drafted and sent to John for review. Not yet sent to
+  John Jones. **Could not visually render/proof the document in this
+  session** — LibreOffice conversion failed environment-wide (even on
+  a trivial test file and a previously-successful document), not
+  specific to this file; the document's underlying XML validated
+  cleanly and its text content was checked directly. Worth a visual
+  check before it goes external, if the rendering issue is a one-off.
    drafting for JJ without an explicit signal that Johnny has replied
    and the two of them have agreed the numbers.
 
