@@ -38,6 +38,16 @@
   shared. Forwarded the funds to purchase the ~8-acre Croom Lands
   holding (see `ventures_dossier.md`). yuksel@yukselkangal.com.
 
+### Stephen O'Flaherty
+- **Role:** BDO Corporate Finance & Recovery Partner (soflaherty@bdo.ie).
+  Long-standing contact — John previously asked him for help securing
+  Non-Executive Director roles (2025) and other business matters back
+  to 2021. **9 Sept 2026:** John asked Simon Carbery (BDO's AHL audit
+  partner) to consider bringing Stephen in to advise John personally
+  on AHL matters — the specific email exchange with Simon proposing
+  this hasn't yet been located in Gmail. See `ventures_dossier.md`,
+  AHL Plc section.
+
 ### Katie Duggan (Tusla)
 - Captured as a contact via Captio on 14 May 2021: "Katie Duggan,
   National Director of Services, Tusla."

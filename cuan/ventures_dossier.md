@@ -935,14 +935,17 @@ the right lead before both are engaged in parallel.
 ### BDO / AHL audit — Simon Carbery reply outstanding, 9 Sept 2026
 John says Simon Carbery (BDO) emailed him "last Thursday or Friday"
 (4-5 Sept) about the AGM, and John replied asking Simon to consider
-using **"Steven of Clarity"** (BDO) to advise John personally on AHL
-matters. **Could not locate this specific exchange in Gmail** — search
-for Simon Carbery's emails in that date range and for "Steven"/"Clarity"
-both came up empty. **[ASK — please resend or point to the exact
-thread; possible this is in a different account (velocity/ambrion) not
-yet forwarded, or the name/timing is slightly off.]** Needs following
-up once located — John flagged this as outstanding and needing
-follow-up.
+using **Stephen O'Flaherty** (soflaherty@bdo.ie, BDO Corporate Finance
+& Recovery Partner — name confirmed by John 9 Sept, corrects the
+earlier mishearing "Steven of Clarity") to advise John personally on
+AHL matters. Stephen is an existing contact — John previously asked
+him for help securing NED roles (2025) and on other business matters
+going back to 2021 (BDO's announcement of his appointment as Corporate
+Finance & Recovery Partner). **The specific 4-5 Sept exchange with
+Simon Carbery proposing this still hasn't turned up in Gmail search**
+— worth John pointing to the exact thread or resending if it needs
+following up, since the name is now confirmed but the actual
+email/reply isn't yet located.
 
 ### Structural finding (2 Sept 2026) — three companies, not one
 John operates across **three** distinct hardware-group companies, not
