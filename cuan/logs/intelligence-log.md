@@ -438,3 +438,22 @@ ownership currently in play.
 **Ventures touched:** Golden Generation (background only).
 **Pushed to Google Drive:** No (sync not yet wired up).
 ---
+
+### [2026-09-09] [Cuan → Meridian] [REPORTED]
+**Source:** Cuan (standing rule, no live Meridian session)
+**Domain(s):** Meridian advisory positioning; Barber Republic
+**Summary:** John shared a "Dear Vicki" business-advisory column on
+whether a demanding-but-loyal customer is worth the operational cost.
+Logged the columnist's diagnostic framework (net cost vs. turnover,
+five questions before walking away) and a sharp, directly quotable
+insight on founder-dependency risk ("you may be unintentionally
+training your clients to rely on you rather than respecting your
+team's role and boundaries"), directly usable for Meridian's own
+advisory positioning and relevant to Barber Republic's scaling-past-
+founder questions. Also logged a partial Techies Go Green energy-cost
+survey snippet visible on the same page for completeness.
+**Outputs:** `cuan/market_intel_demanding_customers_dear_vicki_sept2026.md` (new).
+**Open loops:** None - pure knowledge-base capture, no action requested.
+**Ventures touched:** Meridian Intelligence, Barber Republic.
+**Pushed to Google Drive:** No (sync not yet wired up).
+---
