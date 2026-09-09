@@ -69,8 +69,10 @@
   engagement with Shane (Jan 2026); reviewed Shane's six programme concepts
   and selected the foundation content ("idea 1" — content not yet recovered,
   see `meridian/sales-orchestration/velocity-ai.md`).
-- **Chairman:** Eoin McGettigan — refocused the 29 July board agenda toward
-  future/forward-looking discussion.
+- **Chairman:** Eoin McGettigan (eoin.mcgettigan@gmail.com, confirmed
+  via Gmail board correspondence) — refocused the 29 July board agenda
+  toward future/forward-looking discussion. Recipient for John's Sept
+  2026 conflict-of-interest disclosure re: Velocity AI training at UHL.
 - **Audit & Risk Committee:** Michael O'Driscoll (modriscoll@bandoncoop.ie) —
   collaborating with John on the audit report/committee note to Forvis
   Mazars; received the Meridian Intelligence overview 22 July, responded
