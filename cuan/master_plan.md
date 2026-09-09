@@ -157,6 +157,18 @@ discipline 5 (Protect My Present Responsibly) and discipline 4
 - Broader retirement/new-career shape not yet defined — to be built out
   as John brings more of this forward, not assumed in advance.
 
+**Major addition, 9 Sept 2026 (end of day):** John asked for a full
+personal plan template — a 4-year horizon to **age 66**, covering
+resolving legacy financial concerns, actively driving revenue, and
+estate/end-of-life planning (will, Enduring Power of Attorney, a
+named funeral director, a complete asset/liability register including
+beneficially-held shares not in his own name). Drafted as a standalone
+template in **`personal_estate_retirement_plan.md`** rather than
+folded into this file — it's substantial enough to need its own
+document, cross-referenced from here. **John explicitly said he'll
+revisit this tomorrow** — nothing in it is finalised; it's a structure
+to populate together, not a completed plan.
+
 **Addition, 9 Sept 2026:** John confirmed the retirement/new-career
 planning above should specifically include **his own future career in
 the AI space** — not just winding down existing roles, but what he
