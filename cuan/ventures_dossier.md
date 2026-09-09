@@ -2883,6 +2883,23 @@ guessed:**
    surfaced this.
    Flagged by John as something to address in the future, not
    immediate.
+7. **MiDentalCare — CapitalFlow leased equipment recovery.** Confirmed
+   9 Sept 2026: **Milltown (Dublin 6) and Glenview (Dublin 24) are two
+   separate former MiDentalCare clinic locations** — not the same
+   premises, do not conflate. The CapitalFlow-leased equipment (a
+   UNI-JET 75 Aspiration Unit and a Suction/Separation Unit) is at
+   **Glenview**. **Rachel Counihan**, QT Investigations
+   (info@qtinvestigations.com), acting for CapitalFlow, is trying to
+   recover it. John first routed her to the liquidator on 24 July 2026
+   (forwarded to Paul O'Brien, Butler & Co, who confirmed Michael
+   Butler had already been chasing the landlord side — "Bohan Hyland"
+   — for access). Rachel called again 9 Sept, still looking for access,
+   prompting some confusion over the location name. **Reply drafted and
+   sent 9 Sept**, clarifying Milltown vs Glenview, confirming the
+   equipment is at Glenview, and redirecting her to Michael Butler/Paul
+   O'Brien again as the correct contacts for arranging access. **Status:
+   handled — awaiting the liquidator's office to actually arrange
+   access**, not a John action item beyond this reply.
 
 ### How this tracker works
 - Each liability gets its own numbered entry here with a live status
