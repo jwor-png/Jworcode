@@ -157,6 +157,19 @@ discipline 5 (Protect My Present Responsibly) and discipline 4
 - Broader retirement/new-career shape not yet defined — to be built out
   as John brings more of this forward, not assumed in advance.
 
+**Addition, 9 Sept 2026:** John confirmed the retirement/new-career
+planning above should specifically include **his own future career in
+the AI space** — not just winding down existing roles, but what he
+does next. He linked this directly to the Mediaplanet "Your Future
+Career" supplement he shared today (see
+`market_intel_your_future_career_sept2026.md`) and its source site
+**yourcareer.ie** — he wants that material, and that site as an
+ongoing source, treated as useful input to this conversation, not just
+filed as generic market intelligence. No specific direction picked out
+yet on what his own next AI-space role looks like — flagged as the
+open conversation to have as part of this master plan, not assumed or
+guessed at here.
+
 ## Addition, 9 Sept 2026 — life balance disciplines named alongside the six
 
 John listed these explicitly this morning as part of the operating

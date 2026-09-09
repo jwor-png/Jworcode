@@ -142,6 +142,21 @@ rather than data — noted for completeness, no direct cross-reference.
   argument, alongside the FORWARD magazine adoption stats already
   logged in `market_intel_forward_no03.md`.
 
+## John's own use of this material, 9 Sept 2026
+John clarified there's nothing specific he wants pulled out for his
+own career from this particular supplement — but he wants this
+material, and **yourcareer.ie** as an ongoing source, folded into his
+own retirement/new-career planning (see `master_plan.md`, "retirement
+and new-career planning" section), specifically the question of **his
+own future career in the AI space**. He also wants this feeding both
+Meridian Intelligence's knowledge base and the Cuan orchestration
+generally, not treated as a one-off clipping. No specific next-role
+direction named yet — this is logged as context to draw on when that
+conversation happens, not a decision in itself.
+
 ## Open items
-None requiring action — pure market-intelligence capture, no dictated
-follow-up from John on this one.
+- John's own AI-space career/retirement conversation — see
+  `master_plan.md` addition, 9 Sept 2026. Not yet had; nothing to
+  action until John brings it forward.
+- Treat yourcareer.ie as a standing source worth checking back on for
+  Meridian/Cuan knowledge-base purposes, per John's instruction today.
