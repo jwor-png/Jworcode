@@ -54,6 +54,19 @@
   seen with some of Ger Blake's emails. See `ventures_dossier.md`,
   AHL Plc section, for the full exchange.
 
+### Kilmallock Economic Enterprise Development Ltd (KEDL) contacts
+- **Richard Egan** (richard@ree.ie) — John's colleague on KEDL,
+  coordinates works/contractors (fencing, fire safety compliance).
+- **Dominic Macken** (dominic@greenhillsgroup.com, formerly
+  dmacken@gleneng.com) — Financial Controller, day-to-day payments/
+  invoices, liaises with FDC.
+- **Ger Owens** (gerowens@fdc.ie) / **Michelle O'Connor**
+  (michelleoconnor@fdc.ie) — FDC, KEDL's accountants.
+- **Susan** (susan@clanncredo.ie) — Clann Credo, KEDL's lender.
+- **John Coughlan** (jcoughlaj@eircom.net / info@jjscraftbrewing.ie) —
+  tenant/JJ Craft Brewing, in discussions to purchase the KEDL
+  premises. See `ventures_dossier.md`.
+
 ### Katie Duggan (Tusla)
 - Captured as a contact via Captio on 14 May 2021: "Katie Duggan,
   National Director of Services, Tusla."

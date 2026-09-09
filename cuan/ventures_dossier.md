@@ -1886,6 +1886,42 @@ collapse these into one document:**
 
 ---
 
+## Kilmallock Economic Enterprise Development Ltd (KEDL) / JJ Craft Brewing — new, 9 Sept 2026
+
+- **What it is:** John is an officer/director of **Kilmallock Economic
+  Enterprise Development Company Ltd (KEDL/KEED)**, which owns a
+  premises in Kilmallock leased to **JJ Craft Brewing** (John
+  Coughlan). Current annual rent ~€35,000 (confirmed March 2025).
+  Long-running relationship — fencing, fire safety compliance
+  (Falcon Fire/Amber Safety) and rent-arrears letters going back to
+  2021 all sit in this same thread.
+- **Key people:** **Richard Egan** (richard@ree.ie) — John's colleague
+  on KEDL, coordinates works/contractors. **Dominic Macken**
+  (dominic@greenhillsgroup.com, formerly dmacken@gleneng.com) —
+  Financial Controller, handles day-to-day payments/invoices and
+  liaises with the accountants. **Accountants: FDC** (Ger Owens,
+  gerowens@fdc.ie; Michelle O'Connor, michelleoconnor@fdc.ie) — handle
+  KEDL's accounts and VAT. **Loan:** Clann Credo (contact Susan,
+  susan@clanncredo.ie) — a KEED loan account, balance ~€230,970 as of
+  2021 (capital + interest), current balance not confirmed.
+  **Tenant/purchaser:** **John Coughlan** (jcoughlaj@eircom.net /
+  info@jjscraftbrewing.ie), JJ Craft Brewing — has been discussing
+  terms to purchase the building from KEDL since at least 2020
+  (solicitors Lees, Kilmallock, on KEDL's side; Binchy's, Charleville,
+  on his).
+- **9 Sept 2026 — current position, per John:**
+  1. **A tax liability is due to be paid this month, and KEDL does not
+     have the funds.**
+  2. **Richard Egan needs to get a valuation of the premises.**
+  3. **John Coughlan (JJ Craft Brewing) is waiting to start discussing
+     possible terms for the tenants to purchase the property** —
+     picking back up a conversation that goes back years.
+- **Status:** John asked to be reminded of the accounts arrangement and
+  where things stand — accountants are **FDC**, day-to-day handled by
+  **Dominic Macken**. No action taken yet this session beyond logging;
+  next steps are the tax liability funding gap, Richard's valuation,
+  and re-engaging John Coughlan on purchase terms.
+
 ## SMÁCHT / Sensai (Shane McCarthy & Pádraic Ó Máille) — resolves "Sensai," 9 Sept 2026
 
 **"Sensai" (heard as such in this morning's dictation, correct spelling
@@ -2003,7 +2039,18 @@ compliance offering.
   to get on to **Christy Crowley and Bantry** to start work on planning
   for the land at the back of the Portauns home.
 - **Open items:** confirm who is actually inheriting the land (heard as
-  "Mugell," unconfirmed); make the call to Christy Crowley.
+  "Mugell," unconfirmed).
+- **9 Sept update:** John had previously been scheduling a call with a
+  **Kevin Heffernan, architect**, on this same matter — could not
+  locate that email in Gmail despite a thorough search (by name and by
+  architect/planning/Portauns keywords); may be sitting in the
+  velocityai.ie or ambrion.ai inbox this session can't search, or the
+  name may not be quite right. **John's decision, 9 Sept: proceed with
+  Christy Crowley instead** — engaging him directly and giving him the
+  initial instruction on the matter, rather than waiting to resolve
+  the Kevin Heffernan thread first. Kevin Heffernan left open as a loop
+  to close out later if it matters (e.g. formally letting him know the
+  matter is proceeding with someone else).
 
 ---
 
