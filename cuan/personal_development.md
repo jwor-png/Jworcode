@@ -59,6 +59,12 @@ reads daily, not one-off quotes, and both belong together as primary
 evidence for the eventual Personal Compass (faith and gratitude sit
 alongside the action/positivity framing already logged).
 
+## 9 Sept — Elaine Mulcahy (Instagram story, shared 26 Aug)
+"Re-set, re-adjust, re-start, re-focus... As many times as you need
+to." Fits the same theme as the shaving-mirror mantra above ("tomorrow
+is a chance to change things for the better") — permission to begin
+again rather than treating a slip as final.
+
 ## Standing instruction, 9 Sept 2026 — daily newsletter/Substack review
 
 John receives a steady stream of self-improvement/wisdom-style
