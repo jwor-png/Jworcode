@@ -794,8 +794,16 @@ consolidation pass rather than merged speculatively.
   `childen.md`), then travelling to Dublin that evening with a room
   booked at the Green Isle Hotel overnight, ready for the AGM the next
   morning.
-- **Second Velocity AI training session at UHL: 25 September 2026,
-  9:30am** — confirmed by John, 9 Sept.
+- **Velocity AI training at UHL — Group 2, Sessions 2 and 3 confirmed
+  by email, 9 Sept 2026** (Maya Gough, HR Manager, to Shane McCarthy,
+  cc John): **24 September and 15 October, both 9:30am-1pm.** This
+  corrects John's own verbal date a short time earlier (he'd said
+  "25 September") — the actual confirmed date from Maya's email is
+  the 24th. Implies at least two training groups running (Group 2
+  named here) — Group 1's own schedule not separately confirmed in
+  this thread. Maya is inviting "Alan" to join at this stage — new
+  name, not yet on file; **[ASK — confirm who Alan is if relevant
+  to track]**.
 
 ### Risk register / cybersecurity, GDPR and AI review — reopened 7 Sept 2026
 - **Trigger:** John shared five Business Post articles (6 Sept 2026) on

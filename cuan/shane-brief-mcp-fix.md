@@ -86,6 +86,39 @@ Think of it like this: each connection (Gmail, Drive, etc.) needs a one-time per
 
 ---
 
+## Session note, 9 September 2026 — this is the "conflict" John meant
+
+John referred today to "a conflict that's stopping emails being passed
+directly over to Gmail" from his other accounts — this is exactly Fix 2
+above, still not done. Today's workaround worked fine (John manually
+forwarded three emails from john@velocityai.ie and jwor@ambrion.ai to
+his Gmail, and Cuan picked them up from there), but it's manual effort
+on John's side every time something lands in one of the other two
+inboxes — including two genuinely important items today: the Pope Leo
+AI encyclical conference invite (Childen-relevant, via velocityai.ie)
+and the UHL Velocity AI training date confirmation (via ambrion.ai).
+Both would have been missed entirely without John remembering to
+forward them.
+
+## Fix 3 — Google Calendar (raised by John, 9 Sept 2026)
+
+**Problem:** John wants his diary/calendar properly managed by Cuan,
+with all information flowing in — right now this is entirely manual:
+John dictates diary items, or Cuan finds them buried in Gmail (golf
+bookings, AGM invitations, training confirmations), and everything is
+tracked as text in `operating_creed.md`/`ventures_dossier.md` rather
+than against an actual calendar. No calendar integration exists today.
+
+**What this would need:** a Google Calendar MCP connector, same pattern
+as the Gmail/Drive fixes above — John's calendar(s) connected so Cuan
+can read scheduled events directly rather than relying on him to
+dictate them or on them surfacing incidentally in email searches.
+
+**Not yet scoped in detail** — worth a proper conversation with Shane
+on what "properly managed" should look like once the connector exists
+(does Cuan just read the calendar, or also propose/create entries?),
+rather than assuming the answer here.
+
 ## Time required
 
 Drive fix: 10 minutes
