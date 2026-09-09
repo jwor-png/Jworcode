@@ -2163,8 +2163,28 @@ document for John Jones was drafted and sent to John for review:
   specific to this file; the document's underlying XML validated
   cleanly and its text content was checked directly. Worth a visual
   check before it goes external, if the rendering issue is a one-off.
-   drafting for JJ without an explicit signal that Johnny has replied
-   and the two of them have agreed the numbers.
+
+### Team section corrected, 9 Sept 2026 — role clarifications from John
+
+John corrected the Team section directly:
+- **Johnny Shanahan is Founder & Chairman**, operating via **Barber
+  Barber Ltd** — not John. Johnny's role now also explicitly covers
+  **investor relationships** (previously shown under John).
+- **John's own role is commercial oversight only** — "happy to
+  oversee the commercial model," not styled as Chairman in this
+  document.
+- **Shane McCarthy/Velocity AI's role restated as present-tense and
+  specific:** currently building and testing the MVP — not a general
+  "platform architecture" description.
+- Anthony Laban's role (industry advocate, recruitment/visibility)
+  unchanged.
+
+Document rebuilt and resent to John with these corrections; commercial
+model section untouched (already fully settled, see above). **Note:**
+"Barber Barber Ltd" is used exactly as John gave it — worth confirming
+this is the correct/final legal entity name if it's ever referenced
+again outside this document, since it's a new detail not previously
+logged anywhere else in this dossier.
 
 ---
 
