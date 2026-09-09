@@ -1031,6 +1031,47 @@ normally in this account):
   anything from John in advance. **Status: drafted, awaiting John's
   review/send.**
 
+### Magna premises — proposed sale to shareholder membership, 9 Sept 2026
+
+John's instruction: draft an email to all AHL member shareholders
+(both "active" and "restricted" categories) regarding the Magna
+Business Park premises, to go out ahead of a proposed meeting held
+shortly after the 23 September AGM.
+
+- **Recipient list — found but not readable directly.** Located the
+  source email John meant: **"AHL Shareholders Listing"** from David
+  Geoghegan (CFO, UHL), 27 Aug 2026, thread `1a04282f6fb28167`, to
+  scarbery@bdo.ie and jwebborourke@gmail.com. It carries two
+  spreadsheet attachments — **"Shareholder Details AGM 2022 -
+  Active.xlsx"** and **"Shareholder Details AGM 2022 -
+  Restricted.xlsx"** — plus the prior "Active Member letter.pdf" /
+  "Restricted Member Letter.docx" templates and the AHL amended
+  constitution (19 June 2023). **Cuan cannot open .xlsx/.docx
+  attachment content directly** (no Drive/attachment-content tool
+  available this session — see `shane-brief-mcp-fix.md`), so the
+  actual name/address list has **not** been extracted. John will need
+  to open those two spreadsheets himself to build the send list, or
+  forward them so the addresses can be typed in.
+- **Content point John was explicit about:** the email must state
+  plainly, for the first time to shareholders, that **the Board has
+  already discussed this and decided to consult the membership, and is
+  in favour of a sale if shareholders are willing to support it** —
+  this has not been communicated to shareholders before now.
+- **Other content:** no debt on the property; United Hardware remains
+  as tenant, no change to that; strong market conditions cited as
+  rationale for timing; sale (if it proceeds) via **Kevin McHugh,
+  Harvey** on the open market with an agreed marketing campaign;
+  current valuation **c.€13.95m** (Kevin McHugh's report, per John's
+  6 May 2026 email to Simon Carbery); request to attend the post-AGM
+  meeting (23 Sept), or if unable, to reply stating so, raise any
+  questions, and signify support (or not) for a sale.
+- **Status:** full draft written and saved as a Gmail draft (message
+  `1a086eb52c7b3164`), currently addressed to John's own inbox as a
+  placeholder since the real distribution list isn't extractable yet.
+  **Not sent.** Once John supplies the actual active/restricted
+  recipient addresses from the two spreadsheets, the draft needs its
+  "To" field replaced with the real list before going out.
+
 ### Structural finding (2 Sept 2026) — three companies, not one
 John operates across **three** distinct hardware-group companies, not
 one, and they are not a parent/subsidiary structure:
