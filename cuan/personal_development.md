@@ -16,6 +16,28 @@ development material.
 
 ---
 
+## John's own daily mantra — posted where he shaves each morning (logged 9 Sept 2026)
+
+Not a collected quote — **John's own written words**, printed and
+stuck up at his sink/shaving mirror as a daily self-reminder. He asked
+Cuan to hold this and remind him of it in case he forgets to read it
+himself, so treat this as a standing reference to surface back to him
+periodically, not a one-off log entry.
+
+> Tomorrow is a chance to change things for the better!
+> To do the right thing is never wrong.
+> Be positive always, no problems, only solutions.
+> Action is the antidote to anxiety.
+> All will be well! 🙏💪
+> Don't fret over something that hasn't happened yet.
+> The harder the conflict, the greater the success.
+
+This is a strong, direct source for the future **John Personal
+Compass** (see below) — since it's his own self-authored framing
+rather than something borrowed, it carries more weight as evidence of
+"what principles should guide my decisions" than any external quote
+logged in this file.
+
 ## Standing instruction, 9 Sept 2026 — daily newsletter/Substack review
 
 John receives a steady stream of self-improvement/wisdom-style
