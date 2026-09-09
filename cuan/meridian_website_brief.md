@@ -126,6 +126,15 @@ externally.
 
 ---
 
+## John's reinforcement, 9 Sept 2026 — money being spent on nothing live
+
+John flagged this again directly: he's paying the **Hosting Ireland
+invoice every month** for a website that isn't set up or live, and he
+wants to complete the email and website setup properly rather than
+keep paying for an unused package. No new facts, but explicitly
+reinforces this is not a "someday" item — it's live spend against
+nothing delivered, every month it stays unresolved.
+
 ## Launch sequencing — website + Google Workspace email, same domain (2 Sept 2026)
 
 Both the site launch and the Google Workspace switch-over touch DNS on

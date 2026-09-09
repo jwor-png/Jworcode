@@ -948,6 +948,9 @@ consolidation pass rather than merged speculatively.
 ---
 
 ## AHL Plc
+- **9 Sept 2026:** John sending the June accounts to the AHL board of
+  directors himself, no draft needed from Cuan — logged for the record
+  only.
 - **Status:** Active — FY2025 audit **not closed**, 11 BDO queries
   outstanding from 6 Aug; two items John personally committed to BDO "in
   days ahead" on 7 Aug (debtors/creditors position, board minutes since
@@ -2948,6 +2951,16 @@ guessed:**
   and entered a new contract with **Vodafone**. He now needs a new
   phone cover and a new microphone for dictation, both wanted
   promptly ("like, now"). Personal errand, not yet actioned.
+- **9 Sept, phone case research:** confirmed the model is an **iPhone
+  17 Pro Max**, and John wants to compare Amazon options against the
+  Otterbox (which he finds expensive). Quick web check turned up
+  reasonable-value alternatives worth a look: **TORRAS Crystal Clear**
+  (budget, clear, basic protection), **SUPFINE Magnetic Case**
+  (magnetic/MagSafe-style, sleeker), **Spigen Tough Armor** (closer to
+  Otterbox-level drop protection, still slimmer/cheaper). Genuinely a
+  personal purchase decision — logged as reference, not a recommendation
+  to buy any specific one. Sources: Macworld's 2026 iPhone 17 case
+  roundup, Dropguys, and Cornford and Cross's 2026 case reviews.
 
 ---
 

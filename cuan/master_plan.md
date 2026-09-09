@@ -208,3 +208,33 @@ itself, already live with Paul Candon at €5k founding rate — see
   John ideas on these streams proactively rather than waiting for John
   to remember them.
 
+## Addition, 9 Sept 2026 (evening) — reminders spaced through the day, with time allocated
+
+John's instruction: knowing something is logged in `operating_creed.md`
+isn't enough on its own — he wants to actually be **reminded of open
+items through the day**, not just once each morning, and he wants each
+item **allocated a specific time/slot** so everything on his plate
+actually gets attended to rather than sitting logged-but-untouched.
+
+**What this looks like in practice, given no calendar integration
+exists yet (see `shane-brief-mcp-fix.md`, Fix 3):**
+- Where John gives a specific "tonight" / "this afternoon" / "by
+  Friday" type deadline on an item, Cuan should use
+  `send_later`/scheduled reminders to actually ping him at a sensible
+  point before that deadline, rather than relying on him remembering —
+  as already done tonight for the investor document.
+- On a longer, unstructured list of open items (like this evening's
+  batch), Cuan's job is to help **allocate them to a time of day**
+  when handing the list back — e.g. "these three fit into tomorrow
+  morning, this one needs an evening slot, this one's a two-minute
+  task you could do right now" — rather than just listing everything
+  flat with no sense of when it actually gets done.
+- This doesn't replace the daily/every-second-day operating creed
+  review — it sits underneath it, as the mechanism that actually gets
+  creed items *done* during the day rather than just reviewed.
+- **Real limitation to be upfront about:** without calendar access,
+  Cuan cannot see John's actual free/busy time, so "allocating a time"
+  is a suggestion for him to accept or override, not a scheduled
+  calendar event. Fix 3 (Google Calendar) would close this gap
+  properly.
+
