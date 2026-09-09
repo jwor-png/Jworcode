@@ -42,11 +42,17 @@
 - **Role:** BDO Corporate Finance & Recovery Partner (soflaherty@bdo.ie).
   Long-standing contact — John previously asked him for help securing
   Non-Executive Director roles (2025) and other business matters back
-  to 2021. **9 Sept 2026:** John asked Simon Carbery (BDO's AHL audit
-  partner) to consider bringing Stephen in to advise John personally
-  on AHL matters — the specific email exchange with Simon proposing
-  this hasn't yet been located in Gmail. See `ventures_dossier.md`,
-  AHL Plc section.
+  to 2021. Before BDO, was with **Howarth Bastow, Limerick**, where he
+  helped John's own **Cahill's Homevalue Hardware (Kilmallock)** in a
+  prior role.
+- **9 Sept 2026, resolved via John's own screenshots:** Simon Carbery
+  (BDO's AHL audit partner) raised the question of the AHL/UHL share
+  separation and John named Stephen as the person he'd welcome
+  speaking to on it. The exchange doesn't appear in a normal Gmail
+  search because it was **routed via Producteev** (a task-routing
+  app) rather than sent as ordinary Gmail — the same pattern already
+  seen with some of Ger Blake's emails. See `ventures_dossier.md`,
+  AHL Plc section, for the full exchange.
 
 ### Katie Duggan (Tusla)
 - Captured as a contact via Captio on 14 May 2021: "Katie Duggan,

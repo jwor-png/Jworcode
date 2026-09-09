@@ -932,20 +932,43 @@ was previously handling Fire Cert/DACS review and had been asked to
 get an ORS quote — worth checking whether Chris or Julie is actually
 the right lead before both are engaged in parallel.
 
-### BDO / AHL audit — Simon Carbery reply outstanding, 9 Sept 2026
-John says Simon Carbery (BDO) emailed him "last Thursday or Friday"
-(4-5 Sept) about the AGM, and John replied asking Simon to consider
-using **Stephen O'Flaherty** (soflaherty@bdo.ie, BDO Corporate Finance
-& Recovery Partner — name confirmed by John 9 Sept, corrects the
-earlier mishearing "Steven of Clarity") to advise John personally on
-AHL matters. Stephen is an existing contact — John previously asked
-him for help securing NED roles (2025) and on other business matters
-going back to 2021 (BDO's announcement of his appointment as Corporate
-Finance & Recovery Partner). **The specific 4-5 Sept exchange with
-Simon Carbery proposing this still hasn't turned up in Gmail search**
-— worth John pointing to the exact thread or resending if it needs
-following up, since the name is now confirmed but the actual
-email/reply isn't yet located.
+### BDO / AHL audit — Stephen O'Flaherty separation advice, resolved 9 Sept 2026
+Full picture now confirmed via John's own screenshots (the exchange
+never showed up in Gmail search because, like several of Ger Blake's
+emails, it was **routed via Producteev** — a task-routing app — rather
+than sent as a normal Gmail message, so it doesn't thread or search
+normally in this account):
+
+- **Simon Carbery's email, 3 Sept 2026, 2:27pm** (in the "Associated
+  Hardware plc - Notice of AGM 2026 Sale of property" thread,
+  `1a0625b3fad7c400`, continuing on from the Timothy Cahill exchange
+  already logged above): raises two points for John to consider ahead
+  of the AGM — (1) **the value of AHL's shares held in UHL** needs a
+  considered/agreed position on what happens to them if the property
+  is sold or the company liquidated (they carry rights and hold value,
+  likely only realised on UHL's liquidation) — Simon pushed back
+  specifically on John's earlier framing that "it's hard to see how
+  the AHL investment in UHL will be recovered," warning that language
+  could read badly to members and imply a potential impairment in
+  AHL's books; (2) as auditor, Simon will stay independent of AHL's
+  commercial/shareholder decisions, but can introduce John to someone
+  in BDO for winding-down options if wanted; (3) Simon flagged that
+  John should have a response/plan ready for **undistributed rebates**,
+  since it's very likely to come up at the AGM.
+- **John's reply** (routed via Producteev, hence not found in normal
+  search): thanks Simon, agrees he should speak to "your colleague" on
+  the separation question, and names **Stephen O'Flaherty** directly —
+  "I'd happen to know Stephen O'Flaherty quite well, Stephen in a
+  former role helped us in Cahill's Kilmallock over a year or more when
+  he was with Howarth Bastow, Limerick" — and says he'd welcome Stephen
+  being the person to speak to.
+- **New detail on Stephen O'Flaherty's background:** before BDO, he
+  was with **Howarth Bastow, Limerick**, and helped John's own Cahill's
+  Homevalue Hardware (Kilmallock) in a prior role, "over a year or
+  more" before this point.
+- **Open item carried forward:** John still needs a ready response/plan
+  for the undistributed rebates question ahead of the 23 Sept AGM, per
+  Simon's flag — not yet drafted.
 
 ### Structural finding (2 Sept 2026) — three companies, not one
 John operates across **three** distinct hardware-group companies, not

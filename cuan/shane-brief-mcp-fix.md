@@ -119,6 +119,20 @@ on what "properly managed" should look like once the connector exists
 (does Cuan just read the calendar, or also propose/create entries?),
 rather than assuming the answer here.
 
+## Known gap 2 — emails routed via Producteev don't surface in search
+
+Confirmed twice now (Ger Blake's emails previously; a Simon Carbery/
+Stephen O'Flaherty exchange, 9 Sept 2026): when a reply is routed
+through **Producteev** (a task-routing app John or a correspondent
+uses on mobile) rather than sent as ordinary Gmail, it doesn't show up
+in a normal Gmail thread search from this session, even though it's
+technically "in" the account. John has had to resolve these by
+screenshotting the actual messages rather than Cuan finding them
+directly. Worth Shane understanding this is a real, recurring blind
+spot — not just a one-off search miss — in case there's a fix (e.g.
+making sure Producteev-routed mail lands in a searchable label/thread)
+rather than relying on John to screenshot every time.
+
 ## Time required
 
 Drive fix: 10 minutes
