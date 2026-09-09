@@ -851,25 +851,28 @@ consolidation pass rather than merged speculatively.
   the next couple of days):**
   1. **Disclose a conflict of interest**, re: the Velocity AI training
      already delivered to UHL's executive management team and now
-     starting with the commercial team — John holds this as an active
-     item to disclose. **[ASK — who exactly this disclosure goes to;
-     the dictated note named a recipient that didn't transcribe
-     clearly ("on as mentioned previously") — needs John to confirm
-     rather than guessed. Likely candidates already on file: the UHL
-     board generally, Eoin McGettigan as Chairman, or the Audit & Risk
-     Committee — not assumed.]**
+     starting with the commercial team. **Sequence confirmed by John:**
+     he emails a first contact to explain the conflict and seek
+     guidance (cc unclear); he expects the reply will be that it needs
+     formal disclosure to **David Geoghegan, in his capacity as UHL
+     Company Secretary** — a role for David not previously recorded in
+     `people_map.md` (he's on file there as CFO) — logged here as
+     John's own statement, not yet independently verified, and worth
+     cross-checking against the CRO record when convenient. **[ASK —
+     still unconfirmed: who the initial email actually goes to, and
+     who's copied. Two dictation passes haven't transcribed the name
+     cleanly enough to log with confidence — please just type or spell
+     it rather than dictate it, to avoid a wrong name going in the
+     record.]**
   2. **Go back to Hang (Hang Zhao, UHL Admin/Finance — confirmed
-     contact in `people_map.md`) on the risk register** — continuing
-     the thread already logged above (the "United Hardware Risk
-     Assessment Files" set she forwarded via Niamh, 23 Jan 2026).
-  3. **Engage a fellow Audit & Risk Committee member to do this work
-     properly** — the dictated note was unclear on the mechanism
-     ("engage you would make a logistical..."). Most likely referring
-     to **Michael O'Driscoll**, John's existing Audit & Risk Committee
-     colleague already central to this whole thread — but not assumed;
-     **[ASK — confirm it's Michael, and what "make a logistical..."
-     was meant to say — possibly "make a logistical [request/ask]" cut
-     off in dictation.]**
+     contact in `people_map.md`) on the risk register** — but only
+     as the last step in a sequence, not immediately (see below).
+  3. **Confirmed: engage Michael O'Driscoll first.** John drafts a
+     response, Michael reviews it, and once the two of them agree it
+     between them, **only then** does it go back to Hang to progress
+     with UHL. This resolves the earlier uncertainty over the garbled
+     "engage you would make a logistical..." line — it was Michael
+     O'Driscoll, sequenced draft-then-agree-then-escalate.
   - **Timeline:** John wants this actioned within the next couple of
     days, not left open-ended like the rest of this review.
 
