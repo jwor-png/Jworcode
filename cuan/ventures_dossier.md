@@ -2076,6 +2076,48 @@ compliance offering.
 - **Recommended:** Title bank of 10 titles per series before launch
 - **Also called:** Golden Generation content programme
 
+### Market intelligence — "Older people asked for their say in how AI
+### is used" (regional paper, Cork, shared 9 Sept 2026)
+
+**[Cuan → Meridian]** John shared this directly for Golden Generation
+relevance — how the target audience itself can access/engage with AI,
+and a possible business opportunity. Key facts:
+- **Age-Friendly AI initiative**, led by **TU Dublin** and the
+  **Research Ireland Adapt centre** (AI-driven digital content
+  technology research centre) — a national AI-literacy initiative
+  aimed at informing future research and policy.
+- **"AI Opinions" campaign** — currently running an open call across
+  Cork specifically, inviting older people to give their views via a
+  short, anonymous form regardless of their existing relationship with
+  AI ("enthusiastic... concerned... curious... or don't use it at all
+  — we want to hear from them," per Laura Grehan, Head of Education,
+  Engagement and Societal Impact, Research Ireland Adapt centre).
+  Explicit aim: use those views as evidence for research and to shape
+  future AI policy/practice.
+- **Website:** **agefriendlyai.ie** — hosts the anonymous opinion form.
+  **John's own action item:** he intends to visit the site himself
+  tonight (9 Sept) to review its content directly before deciding
+  anything further.
+- Supported by "leading age-advocacy organisations" (unnamed in the
+  clipping) — worth identifying by name once the site is reviewed, in
+  case any are a natural Golden Generation partner or channel.
+
+**Why this matters for Golden Generation:** this is a live, funded,
+academically-backed national initiative speaking directly to Golden
+Generation's exact target demographic and exact theme (older people's
+relationship with AI) — worth reviewing for (a) any partner
+organisations or research findings Golden Generation could cite or
+align with, and (b) whether there's a genuine business opportunity
+(e.g. a commercial AI-literacy/upskilling offering positioned
+alongside or informed by this academic/policy initiative), per John's
+own framing. **Not yet reviewed** — John to visit agefriendlyai.ie
+tonight; no findings or decisions to log until then.
+
+**Open item:** revisit this entry after John reviews agefriendlyai.ie,
+to log what the site actually contains and whether there's a concrete
+next step (partnership approach, content citation, or a distinct
+commercial angle).
+
 ---
 
 ## Bantry Property

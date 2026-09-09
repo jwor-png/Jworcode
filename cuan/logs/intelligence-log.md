@@ -303,3 +303,22 @@ re-verified against the full CyberSafeKids report.
 **Ventures touched:** Childen, Meridian Intelligence.
 **Pushed to Google Drive:** No (sync not yet wired up).
 ---
+
+### [2026-09-09] [Cuan → Meridian] [REPORTED]
+**Source:** Cuan (standing rule, no live Meridian session)
+**Domain(s):** Golden Generation
+**Summary:** John shared a regional (Cork) newspaper clipping on the
+Age-Friendly AI initiative (TU Dublin + Research Ireland Adapt centre)
+running an "AI Opinions" campaign inviting older people to give views
+on AI via an anonymous form, to inform national research/policy.
+Logged as directly relevant to Golden Generation's target demographic
+and theme, and as a possible business-opportunity signal per John's
+own framing. John intends to review agefriendlyai.ie himself tonight
+before any next step is decided.
+**Outputs:** `cuan/ventures_dossier.md` (new Golden Generation market
+intelligence section).
+**Open loops:** Revisit after John reviews agefriendlyai.ie tonight —
+no findings/decision yet, site not independently reviewed by Cuan.
+**Ventures touched:** Golden Generation, Meridian Intelligence.
+**Pushed to Google Drive:** No (sync not yet wired up).
+---
