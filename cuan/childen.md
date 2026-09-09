@@ -274,12 +274,18 @@ supplied phrasing/register guidance directly). Not yet sent as of
 
 ## Open items
 
-- **Reply owed to Crysta Gunn:** she asked (2 Sept) whether John has
-  any dietary restrictions for the lunch after the 29 Sept conference
-  — still unanswered as of 9 Sept. Small, but sitting open in a
-  Vatican-adjacent relationship thread worth closing promptly.
-- **Date correction for John's own records:** the conference is
-  **29 September**, not 1 October as said in this morning's dictation.
+- **Reply to Crysta Gunn — DONE, per John (9 Sept):** he confirms he
+  already replied to her with no dietary requirements. Sent from
+  john@velocityai.ie, so it doesn't appear in Gmail search from this
+  session — logged on John's own confirmation, not independently
+  verified in this account.
+- **Date confirmed, 9 Sept — John corrected his own earlier slip:** the
+  conference is **29 September** (not 1 October, as he'd said that
+  morning). He's now travelling from the Maynooth conference straight
+  to Dublin that evening, with a room booked at the **Green Isle
+  Hotel** for the night of 29 Sept, ready for the **UHL DAC AGM the
+  following morning, 30 September**, at the same venue — see UHL
+  Hardware section in `ventures_dossier.md` for the AGM detail itself.
 - [ASK] Who is Lloyd, and is he actually part of this working group.
 - [ASK] Confirm the letter's addressee — presumed Archbishop Eamon
   Martin but not named in the letter text itself.

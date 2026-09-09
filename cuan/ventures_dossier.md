@@ -784,6 +784,18 @@ consolidation pass rather than merged speculatively.
 - **AI proposal:** A broader AI-native migration strategy framed around Shane's four-phase model (Static Foundation / Bolt-On Trap / Architecture Rebuild / Native Operation). First drafts are for John and Shane only — NOT for circulation to UHL.
 - **Key contacts at UHL:** CEO Paul Candon; Commercial Director David Shakeshaft
 - **Note:** John has a declared family connection to a member store — managed as a declared interest
+- **UHL DAC AGM: confirmed 30 September 2026, Green Isle Hotel, Dublin**
+  — per David Geoghegan's invitation email, 7 Sept 2026 ("Invitation to
+  Annual General Meeting - 30 September 2026"). Distinct from the AHL
+  Plc AGM, 23 September (see AHL Plc section below) — two separate
+  AGMs, roughly a week apart, do not conflate.
+  **Travel plan (confirmed by John, 9 Sept):** he's at the Pope Leo AI
+  encyclical conference in Maynooth the day before (29 Sept — see
+  `childen.md`), then travelling to Dublin that evening with a room
+  booked at the Green Isle Hotel overnight, ready for the AGM the next
+  morning.
+- **Second Velocity AI training session at UHL: 25 September 2026,
+  9:30am** — confirmed by John, 9 Sept.
 
 ### Risk register / cybersecurity, GDPR and AI review — reopened 7 Sept 2026
 - **Trigger:** John shared five Business Post articles (6 Sept 2026) on
@@ -1003,8 +1015,14 @@ payroll access). **Company secretarial:** BDO, contacts Nell Burke and
 M Keane, CoGovTeam3@bdo.ie.
 
 ### Governance calendar
-AGM 23 Sept 2026 (moved from the April meeting's planned July date at
-the Green Isle Hotel — [ASK: venue confirmed?]). Annual return made up
+**AGM confirmed Wednesday 23 September 2026** — per David Geoghegan's
+"Associated Hardware plc - Notice of AGM 2026" email, 1 Sept 2026
+(moved from the April meeting's planned July date at the Green Isle
+Hotel — venue for 23 Sept itself still not separately confirmed in
+that email; note the Green Isle Hotel is confirmed as the UHL DAC AGM
+venue, 30 Sept, a different meeting entirely — see UHL section above).
+John confirmed 9 Sept: **board meeting the same morning of the AGM.**
+Annual return made up
 to 30 Sept. Board meetings roughly quarterly plus calls — known dates
 30 July 2025, 30 Sept 2025 (AGM), 22 April 2026. A meeting scheduled for
 20 May 2026 did not proceed. Board meeting to approve 2025 accounts once
