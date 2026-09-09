@@ -419,3 +419,22 @@ financial decisions.
 **Ventures touched:** Golden Generation.
 **Pushed to Google Drive:** No (sync not yet wired up).
 ---
+
+### [2026-09-09] [Cuan → Meridian] [REPORTED]
+**Source:** Cuan (standing rule, no live Meridian session)
+**Domain(s):** General reference; Golden Generation background
+**Summary:** John shared a Dublin City Council Starter Home Purchase
+Scheme notice (Oscar Traynor Woods, Dublin 17) for the knowledge base,
+specifically to understand how this type of scheme works generally
+around the country. Logged the general shared-equity mechanism
+(Affordable Dwelling Purchase Arrangement - the council takes an
+equity share equal to the market-value/price-paid gap, redeemable
+later), the income-linked pricing formula, and priority/eligibility
+rules, alongside the Dublin-specific worked figures. Paired with the
+earlier parents-selling-homes article as the two main routes into home
+ownership currently in play.
+**Outputs:** `cuan/market_intel_starter_home_purchase_scheme_sept2026.md` (new).
+**Open loops:** None - pure knowledge-base capture, no action requested.
+**Ventures touched:** Golden Generation (background only).
+**Pushed to Google Drive:** No (sync not yet wired up).
+---
