@@ -220,3 +220,24 @@ readiness-assessment framing.
 **Ventures touched:** Ambrion AI, Velocity AI, Golden Generation, Meridian Intelligence.
 **Pushed to Google Drive:** No (sync not yet wired up).
 ---
+
+### [2026-09-09] [Cuan → Meridian] [REPORTED]
+**Source:** Cuan (standing rule, no live Meridian session)
+**Domain(s):** Agribusiness/Food/Retail/Co-op sector lens; Golden Generation succession thesis
+**Summary:** John shared an Irish Independent Farming Independent legal
+Q&A (8 Sept 2026, Mary Frances Fahy) on an executor conflict-of-
+interest case — a mother, as sole executor, allegedly willing to sell
+estate land to one sibling below market value without the other
+beneficiaries' consent. Logged as a concrete worked example for
+Meridian's agribusiness sector lens and as a negative case study for
+Golden Generation's succession thesis. John also flagged a new,
+previously unlogged idea: potentially advising directly in the
+AI-agri space himself — not yet clarified whether this sits inside
+Meridian's existing structure or as a separate personal offer.
+**Outputs:** `cuan/market_intel_farming_estate_dispute_sept2026.md` (new).
+**Open loops:** Clarify with John whether "advising on the AI-agri
+space" means new Meridian content or a distinct personal advisory
+angle — not assumed.
+**Ventures touched:** Meridian Intelligence, Golden Generation.
+**Pushed to Google Drive:** No (sync not yet wired up).
+---
