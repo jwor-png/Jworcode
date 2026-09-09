@@ -402,3 +402,20 @@ picture.
 **Ventures touched:** Meridian Intelligence, ODIN/Codex.
 **Pushed to Google Drive:** No (sync not yet wired up).
 ---
+
+### [2026-09-09] [Cuan → Meridian] [REPORTED]
+**Source:** Cuan (standing rule, no live Meridian session)
+**Domain(s):** Golden Generation; personal reference
+**Summary:** John shared an Irish Independent article on parents
+selling family homes directly to adult children (often below market
+value) to help them onto the property ladder while releasing equity to
+downsize themselves - a "bank of mum and dad" shift, with tax/gift and
+early-inheritance-planning implications flagged by brokers. Logged as
+a parallel comparator to the existing Portauns family land planning
+material and general Golden Generation background on intergenerational
+financial decisions.
+**Outputs:** `cuan/market_intel_parents_selling_homes_property_ladder_sept2026.md` (new).
+**Open loops:** None - pure knowledge-base capture, no action requested.
+**Ventures touched:** Golden Generation.
+**Pushed to Google Drive:** No (sync not yet wired up).
+---
