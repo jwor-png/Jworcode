@@ -413,3 +413,68 @@ reachable by children as high-risk, which is precisely the gap Childen
 is built to close. **REPORTED** — sourced from a physical newspaper
 clipping, not independently re-verified against CyberSafeKids' full
 report or the EU AI Act/Digital Omnibus text.
+
+## Market intelligence — Ksenia Samotiy, "We must arm children with
+## the tools they need to manage their online lives" (Irish
+## Independent Comment, 8 Sept 2026, shared 9 Sept 2026)
+
+**[Cuan → Meridian]** Comment-page op-ed, again drawing on
+**CyberSafeKids' 10th annual "The Year Little Changed" report**. A
+third, independent piece of evidence for the same case — this one
+argues from the parenting/lived-experience side rather than the
+regulatory side, and makes a case Childen is built to answer directly.
+- **Headline stats repeated/reinforced:** children's first accounts on
+  social platforms (Instagram, TikTok, Tumblr) now start well before
+  the platforms' own minimum age — the piece cites an 8-year-old
+  opening "The Year Little Changed" report; 70% of children aged 8-12
+  have exposure to sexual content; a 10-year-old declaring "self-
+  declared birthdays" (i.e. lying about age) to get onto age-restricted
+  apps "as a curious 16" is described as normalised, not exceptional.
+- **Author's central argument — direct rebuttal of "age
+  verification/parental control" as a sufficient answer:** age
+  verification "doesn't take a genius to understand that if you're a
+  robot, remains just a box you tick" — i.e. current age gates are
+  trivially defeatable and don't actually protect anyone. Locking a
+  device or gatekeeping installation is "not a qualification exactly,
+  but it does put a lever slap another sign circling back to the same
+  conversation keeps circling back to the same needs."
+- **First-person account (a mother, unnamed within the clipping)
+  reinforcing why after-the-fact policing doesn't work:** she describes
+  sitting beside her child rather than lecturing or banning outright —
+  "a conversation, not a lecture or ban" — and catching a repeated
+  pattern across different platforms/accounts where an algorithm
+  "knows me uncomfortably well" and kept resurfacing content that
+  distressed her child, even after she flagged it as inappropriate.
+  Her own conclusion: "the internet does not respect the boundaries of
+  a household, a school, or a country's age-verification law." She
+  argues judgment, not bans, is "still the thing doing the work," but
+  that this is exhausting and unsustainable to do manually, one child
+  and one household at a time — "slower than a ban, and I'd argue more
+  durable... but it's a mother's job" alone right now, with no tooling
+  support.
+- **Closing line, directly usable:** "We keep trying to build a better
+  lock. Perhaps what we owe the next generation is better tools, rather
+  than what's behind the door" — i.e. the whole "watch and gatekeep
+  from outside" model (age checks, device locks, content bans) is the
+  wrong architecture; children need to be equipped and the environment
+  itself needs to be built safe, not policed after the fact.
+
+**Why this matters for Childen specifically — John's own framing, 9
+Sept:** John flagged this himself as important evidence for "what I'm
+doing with [Shane] and the Vatican." This op-ed independently arrives,
+from a parent's lived experience rather than Childen's own design
+document, at the **exact same conclusion Section III/IV of the
+six-pager states as Childen's core design principle**: "instead of
+watching the child's environment from outside, build the environment
+itself, with safety in its foundations." The author's own closing
+line — "better tools, rather than what's behind the door" — is close
+enough to Childen's founding thesis that it reads as independent
+corroboration, not paraphrase. Combined with the 2 Sept (regulatory
+lag) and 7 Sept (AI chatbot-specific regulatory gap) clippings, this
+now gives three independently-sourced, dated pieces of external
+evidence supporting Childen's core argument — age verification and
+after-the-fact content policing don't work; judgement/protection has
+to be built into the environment itself. Strong material to have in
+hand for the Vatican conversation.
+**REPORTED** — sourced from a physical newspaper clipping, not
+independently re-verified against the full CyberSafeKids report.
