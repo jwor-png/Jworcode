@@ -804,6 +804,22 @@ are flagged for confirmation, never guessed.
   alternative," thenetreturneurope.com). Not yet purchased — logged as
   a want, ties into the Life Balance golf discipline above (practice
   at home on days he can't get to Ballyneety/Kilmallock).
+- **Future travel with Majella — aspiration logged, 9 Sept 2026.**
+  John shared a Sunday Times Travel piece, "48 Hours in Arles"
+  (Provence, France — Roman ruins, the Luma art complex, Les
+  Rencontres de la Photographie festival), as the kind of short,
+  city-break-style trip he wants to start taking with **Majella** in
+  the years ahead. **Not possible right now** — Majella's elderly
+  mother, **Helen** (see the Portauns family land planning section in
+  `ventures_dossier.md` — Helen, 87, beneficial owner of the family
+  home, lives with John and Majella full-time), needs her care, and
+  John is explicit this is "totally understandable," not a complaint.
+  This is logged as **forward-looking personal planning** — something
+  to start actively considering options for as circumstances allow,
+  not an immediate action item. Sits alongside the "protected family
+  time" discipline above and the retirement/new-career planning thread
+  in `master_plan.md` as part of John's own life-balance picture, not
+  a venture or business matter.
 - **16 September — two fixed diary items, logged 2 Sept (no calendar
   integration exists yet, this is text-only — see the connector gap
   already flagged in `shane-brief-mcp-fix.md`):**
