@@ -165,3 +165,37 @@ golf, gardening, participation, and protecting family time.** Logging
 here so they're part of the standing frame this master plan sorts
 against, not just a one-off mention.
 
+## Addition, 9 Sept 2026 — actively coordinate sales orchestration across the revenue streams
+
+John's instruction: he wants to **actively use sales orchestration to
+generate the revenue streams in a coordinated fashion**, rather than
+leaving ideas he and Shane have already discussed sitting unactioned.
+He named the streams he wants this applied to: **Golden Generation,
+Meridian Intelligence, Ambrion AI, Velocity AI, and the Intelligence
+Concierge** (the productised, personal-orchestration version of Cuan
+itself, already live with Paul Candon at €5k founding rate — see
+`ventures_dossier.md`).
+
+- **[ASK — one item genuinely unclear, not guessed]:** John mentioned
+  a venture/product name that didn't transcribe cleanly — heard as
+  **"Sensai"** paired with **"powdery remolia"** — no confident match
+  against anything already on file. Needs John to type or spell this
+  rather than dictate it again.
+- **[ASK — also unclear]:** an earlier reference to needing to look at
+  "ash doors... mentioned this morning" — not clear what this refers
+  to; flagged rather than assumed.
+- **Confirmed, needs Shane's attention specifically:** one of these
+  streams has a piece that **needs to be developed by Shane for Paul
+  Candon of United Hardware.** Most likely candidate already on file
+  is the Meridian → UHL Specialist Affiliate Group brief (paint/
+  decorating buying group concept, sent to Paul 2 Sept, awaiting his
+  reply on a 6-8wk feasibility project — see `ventures_dossier.md`),
+  but John didn't explicitly confirm it's that one — **not assumed,
+  needs confirmation** before treating them as the same thing.
+- **Standing action:** this reinforces the Tier 1 priority order
+  already set in this file (Meridian, ODIN, EOLAS, Ambrion, Velocity
+  AI, Barber Republic) — the instruction today is to move from
+  "tracked" to "actively coordinated," i.e. surface unactioned Shane/
+  John ideas on these streams proactively rather than waiting for John
+  to remember them.
+

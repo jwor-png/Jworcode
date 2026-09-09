@@ -804,6 +804,13 @@ consolidation pass rather than merged speculatively.
   this thread. Maya is inviting "Alan" to join at this stage — new
   name, not yet on file; **[ASK — confirm who Alan is if relevant
   to track]**.
+- **Reminder set, 9 Sept:** John needs to check whether UHL paid one or
+  two outstanding invoices last weekend — for the last session of the
+  management team training and the first session of the commercial
+  team training. To check via the **Ambrion AI** inbox (jwor@ambrion.ai),
+  which Cuan cannot search directly in this session (see
+  `shane-brief-mcp-fix.md`, Fix 2) — John to check himself or forward
+  the relevant emails.
 
 ### Risk register / cybersecurity, GDPR and AI review — reopened 7 Sept 2026
 - **Trigger:** John shared five Business Post articles (6 Sept 2026) on
@@ -906,6 +913,36 @@ consolidation pass rather than merged speculatively.
   (three separate streams, don't conflate — see below).
 - **Tracking:** Cuan (board matters, internal-only, per `governance.md`)
   — higher gate by default, see governance frame below.
+
+### Fire safety certificate — premises, 9 Sept 2026
+John had asked ORS a couple of weeks ago to revisit the Magna Business
+Park premises to inspect the completed fire alarm works, intending
+that to lead into a new Fire Safety Certificate application. On
+reflection, John believes ORS aren't actually the right people to
+obtain the certificate itself — that's likely **Julie Costello**
+(julie@tpa.ie, Tom Phillips + Associates), who has done the AHL
+planning compliance work at this premises before (Compliance Report,
+17 Dec 2025; prior "regularise before a possible sale" planning
+correspondence, April 2026). **Draft email created in Gmail (not yet
+sent)** to Julie: informs her the new fire alarm system is installed
+and ORS have re-inspected, asks her to arrange the new Fire Safety
+Certificate now the works are done, and asks for a fee quote. Separate
+contact **Chris Ryan** (chrisryan@totarch.ie, TOTP/O'Toole Partnership)
+was previously handling Fire Cert/DACS review and had been asked to
+get an ORS quote — worth checking whether Chris or Julie is actually
+the right lead before both are engaged in parallel.
+
+### BDO / AHL audit — Simon Carbery reply outstanding, 9 Sept 2026
+John says Simon Carbery (BDO) emailed him "last Thursday or Friday"
+(4-5 Sept) about the AGM, and John replied asking Simon to consider
+using **"Steven of Clarity"** (BDO) to advise John personally on AHL
+matters. **Could not locate this specific exchange in Gmail** — search
+for Simon Carbery's emails in that date range and for "Steven"/"Clarity"
+both came up empty. **[ASK — please resend or point to the exact
+thread; possible this is in a different account (velocity/ambrion) not
+yet forwarded, or the name/timing is slightly off.]** Needs following
+up once located — John flagged this as outstanding and needing
+follow-up.
 
 ### Structural finding (2 Sept 2026) — three companies, not one
 John operates across **three** distinct hardware-group companies, not
@@ -1154,6 +1191,22 @@ think through separately how to engage on the ~€100k AHL account debt
 (kept apart from the claim, as agreed); consult **Shane Felle** first
 (past Chairman, familiar with the matter) and invite him onto the
 initial Teams/Zoom call. Reminder scheduled for ~12pm 4 Sept.
+
+**Edel's escalation, 8 Sept 2026, 12:49pm** (same thread) — rejects the
+Zoom proposal from 4 Sept, now asks explicitly: **"Can we arrange a
+meeting in person please, to discuss this matter. Have you Emmet
+file on this?"** ("Emmet" here is her own shorthand/typo for the same
+Emott Walsh, confirmed by John 9 Sept — not a new person). **Emott's
+file location, per John's own Feb 2026 email to David Geoghegan
+(cc Nicola): the filing cabinet that held Emott's files is in the room
+he shared with Nicola at the Magna Business Park office** — no reply
+confirming it was ever actually retrieved is on record; still an open
+recovery task. **John's plan, 9 Sept:** reply to Edel agreeing to an
+in-person meeting (not Zoom, since she's now explicit about wanting
+one), proposed for **after the 23 September AHL AGM** — logistically
+convenient since John will already be travelling for AHL business
+around then. Reply not yet drafted — John said this can be done later
+in this session or a subsequent one, not urgent today.
 
 **Evidence on the product:** Mark Doherty (Marsh
 Ireland) wrote to Paul Candon, 28 June 2024, re Conway v Mulvey
@@ -2698,12 +2751,15 @@ guessed:**
 - **Open items:** confirm current status of Will/EPA (existing vs new),
   identify a solicitor to handle it if not already in place.
 
-## Personal — mobile phone account (7 Sept 2026)
+## Personal — mobile phone account (7 Sept 2026, updated 9 Sept)
 - John paid his monthly bill with **[ASK — heard as "four to four,"
   provider name unclear]** and logged into their website to check
   whether he can upgrade to an improved account/plan and get a new
-  phone. Personal item, no action needed from Cuan unless he wants
-  help comparing plans once the provider is confirmed.
+  phone.
+- **9 Sept update:** resolved — John has ordered a new **iPhone 17**
+  and entered a new contract with **Vodafone**. He now needs a new
+  phone cover and a new microphone for dictation, both wanted
+  promptly ("like, now"). Personal errand, not yet actioned.
 
 ---
 
