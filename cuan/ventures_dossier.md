@@ -2118,6 +2118,22 @@ to log what the site actually contains and whether there's a concrete
 next step (partnership approach, content citation, or a distinct
 commercial angle).
 
+### Market intelligence — "Dear Miriam" family-business succession
+### letter (Irish Farmers Journal, shared 9 Sept 2026)
+**[Cuan → Meridian]** John flagged this directly as important
+knowledge-base material, "particularly for Succession Planning." A
+first-person advice-column letter from a family-business employee in
+their late 20s, torn between duty to the business and their own
+independent life, whose attempts to set a boundary were read by the
+family as disloyalty rather than a reasonable need. The columnist's
+core diagnosis — the real issue is "a lack of commitment" being
+wrongly projected onto a normal desire for independence — supplies the
+relational/human layer underneath the legal and financial succession
+material already logged (`market_intel_farming_estate_dispute_sept2026.md`,
+`market_intel_dairy_farmer_investment_sept2026.md`). Full detail in
+`market_intel_family_business_agony_aunt_sept2026.md`. No action
+requested — pure knowledge-base capture.
+
 ---
 
 ## Bantry Property

@@ -346,3 +346,20 @@ venture relevance identified).
 **Ventures touched:** Meridian Intelligence, Ambrion AI, Velocity AI, Golden Generation.
 **Pushed to Google Drive:** No (sync not yet wired up).
 ---
+
+### [2026-09-09] [Cuan → Meridian] [REPORTED]
+**Source:** Cuan (standing rule, no live Meridian session)
+**Domain(s):** Golden Generation succession thesis; Meridian agribusiness sector lens
+**Summary:** John shared an Irish Farmers Journal "Dear Miriam" advice
+column and flagged it directly as important for Succession Planning. A
+family-business employee describes being read as disloyal for wanting
+a boundary/independent life; the columnist's core diagnosis is that
+this reflects "a lack of commitment" being wrongly projected onto a
+normal need for independence. Logged as the relational/human layer
+underneath the legal (estate dispute) and financial (capital
+allocation) succession material already on file.
+**Outputs:** `cuan/market_intel_family_business_agony_aunt_sept2026.md` (new); `cuan/ventures_dossier.md` (Golden Generation section updated).
+**Open loops:** None — pure capture, no dictated follow-up.
+**Ventures touched:** Golden Generation, Meridian Intelligence.
+**Pushed to Google Drive:** No (sync not yet wired up).
+---
