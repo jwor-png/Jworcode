@@ -383,3 +383,22 @@ pursue this — flagged, not actioned.
 **Ventures touched:** Golden Generation, Meridian Intelligence.
 **Pushed to Google Drive:** No (sync not yet wired up).
 ---
+
+### [2026-09-09] [Cuan → Meridian] [REPORTED]
+**Source:** Cuan (standing rule, no live Meridian session)
+**Domain(s):** AI Strategy & Adoption; Meridian positioning; ODIN
+**Summary:** John shared a Grit Young (EY Ireland Partner/TMT Leader)
+opinion piece arguing AI investment should be read as a strategic
+asset (resilience, autonomy, insurance against uncertainty) rather
+than through a traditional ROI lens, and that Ireland's highest-value
+AI opportunity is capital-allocation/risk-management/governance
+expertise rather than data-centre hosting. Logged as directly usable,
+independently-sourced backing for Meridian's own "seven domains, one
+point of accountability" positioning, and paired with the earlier FT
+Anthropic piece for a fuller macro-vs-company-specific investment
+picture.
+**Outputs:** `cuan/market_intel_ai_investment_ireland_ey_sept2026.md` (new).
+**Open loops:** None — pure knowledge-base capture, no action requested.
+**Ventures touched:** Meridian Intelligence, ODIN/Codex.
+**Pushed to Google Drive:** No (sync not yet wired up).
+---
