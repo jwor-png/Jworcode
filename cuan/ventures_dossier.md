@@ -2027,33 +2027,58 @@ compliance offering.
 - **What it is:** John coordinates a property project at 11 Cois Riasc, Bantry, Co. Cork on behalf of a family member — his mother, who lives there.
 
 ## New — Home property, planning for family housing sites (3 Sept)
-- **Status:** ⚪ Early — John to speak with **Christy Crowley**, architect
-  (offices in Bantry), about land at the back of John's own home
-  property — **confirmed, 7 Sept: Portauns, Kilmallock, Co. Limerick,
-  V35 W965** (Spittal House, John's home address, already correctly on
-  file in `owner_profile.md`) — which **[ASK — heard as "Mugell,"
-  name/spelling unconfirmed]** is inheriting.
-- **What's being explored:** getting planning permission for one or
-  more sites on that land, to provide housing options for **Niamh,
-  Owen, and Dervila** (Owen's wife).
+- **Status:** Active thread going back to 2025 — full detail now found
+  via Gmail, resolving several long-standing [ASK] flags at once.
+- **Location: confirmed Portauns, Kilmallock, Co. Limerick, V35 W965**
+  (Spittal House, John's home address, already correctly on file in
+  `owner_profile.md`).
+- **"Mugell" resolved — it's Majella, and the inheritance is now fully
+  clear:** John's wife **Majella** will inherit the house (V35 W965)
+  and the field directly to its rear. The rectangular field to the
+  north of that goes to **Diarmaid**, a sibling of Majella's ("Diarmaid
+  is getting the other field," per John's own May 2025 email to Owen).
+  Not a new "Diarmaid" — worth checking whether this is the same
+  Diarmaid named as "Strategic Partner" in the ODIN Model B cap table
+  (see ODIN/Codex section) or a different person entirely — **[ASK —
+  do not assume these are the same Diarmaid]**.
+- **Family context confirmed:** the land came from John's late
+  father-in-law **Tim Cahill** (died ~2020), whose wife **Helen** (87)
+  is the beneficial owner of the existing house and lives with John and
+  Majella full-time. **Niamh** lives upstairs in Helen's house; **Owen,
+  Dervila, and their son (also named Cuan)** live on the ground floor —
+  temporary, and the existing house won't suit either long-term. Lands
+  are agricultural zoning; access is via a passageway that would need
+  widening (piping in a stream) for proper development.
+- **What's being explored:** planning permission for one or more sites
+  on the Majella-inherited field, to provide housing for Niamh and
+  potentially Owen/Dervila, taking advantage of nearby Glengrove estate
+  development creeping closer (mains sewer/water there vs. septic
+  tank/mains water for the existing houses).
+- **The actual architect contact, found via Gmail: Kevin Flanagan**
+  (Architect MRIAI, flakevin@gmail.com, 087-8879752) — **not** "Kevin
+  Heffernan" as earlier dictated. First approached August 2025 (Owen
+  copied throughout); Kevin requested a **€200 consultation fee**
+  (IBAN IE02AIBK93709622010027) and set up a site visit/Teams call for
+  Thursday 28 Aug 2025 to look at the Kilmallock lands. **John postponed
+  that call due to a forgotten medical appointment and said he'd revert
+  "next week to reschedule... after discharging the fee."** Kevin
+  replied "No problem, let me know when you're ready" (27 Aug 2025) —
+  and the thread goes quiet after that. **No evidence the €200 fee was
+  ever paid, or that the matter was ever formally closed out with
+  Kevin.**
 - **Revenue relevance:** Not revenue (family).
 - **Tracking:** Cuan only.
-- **Status update, 7 Sept:** John is now ready to make contact — plans
-  to get on to **Christy Crowley and Bantry** to start work on planning
-  for the land at the back of the Portauns home.
-- **Open items:** confirm who is actually inheriting the land (heard as
-  "Mugell," unconfirmed).
-- **9 Sept update:** John had previously been scheduling a call with a
-  **Kevin Heffernan, architect**, on this same matter — could not
-  locate that email in Gmail despite a thorough search (by name and by
-  architect/planning/Portauns keywords); may be sitting in the
-  velocityai.ie or ambrion.ai inbox this session can't search, or the
-  name may not be quite right. **John's decision, 9 Sept: proceed with
-  Christy Crowley instead** — engaging him directly and giving him the
-  initial instruction on the matter, rather than waiting to resolve
-  the Kevin Heffernan thread first. Kevin Heffernan left open as a loop
-  to close out later if it matters (e.g. formally letting him know the
-  matter is proceeding with someone else).
+- **9 Sept 2026 decision: John is proceeding with Christy Crowley**
+  (architect, Bantry, a friend) instead of picking the Kevin Flanagan
+  thread back up — engaging Christy directly and giving him the
+  initial instruction on the matter.
+- **Open items:**
+  1. **The €200 fee to Kevin Flanagan and the loose thread with him** —
+     worth a short, courteous email letting him know the family has
+     decided to proceed with someone else, and settling the €200 if it
+     was never paid, rather than leaving it hanging indefinitely.
+  2. Confirm whether "Diarmaid" here is the same person as "Diarmaid"
+     in the ODIN Model B document, or a coincidence.
 
 ---
 

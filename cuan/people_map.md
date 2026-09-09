@@ -67,6 +67,21 @@
   tenant/JJ Craft Brewing, in discussions to purchase the KEDL
   premises. See `ventures_dossier.md`.
 
+### Kevin Flanagan
+- **Role:** Architect MRIAI (flakevin@gmail.com, 087-8879752). Engaged
+  by John in August 2025 re planning permission for family housing on
+  the land at the rear of the Portauns home. Requested a €200
+  consultation fee, never confirmed paid; thread went quiet after a
+  postponed call. **9 Sept 2026: John is proceeding with Christy
+  Crowley instead** — Kevin's thread needs a courteous close-out,
+  including settling the €200 if outstanding. See `ventures_dossier.md`.
+
+### Majella (Webb O'Rourke) — John's wife
+- Will inherit the family home at Portauns (V35 W965) and the field to
+  its rear, from her late father Tim Cahill. Her sibling **Diarmaid**
+  inherits the adjoining field to the north. See `ventures_dossier.md`,
+  Home property/planning section.
+
 ### Katie Duggan (Tusla)
 - Captured as a contact via Captio on 14 May 2021: "Katie Duggan,
   National Director of Services, Tusla."
