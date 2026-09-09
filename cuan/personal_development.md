@@ -260,3 +260,10 @@ at in his own time, not a task with a deadline.
   unnecessary, one favour a day for years, meeting 30-50 new people a
   month, over-delivering even on booked revenue, and raising prices
   when demand outstrips delivery capacity.
+- **9 Sept — Unknown/Snámhaí Sásta:** "Get into the habit of asking
+  yourself does this support the life I'm trying to create." John
+  flagged this one specifically as relevant to the Cuan orchestration
+  work he's doing today — building the master plan, the revenue-first
+  tiering, and the retirement/new-career planning all being about
+  actively designing the life he wants rather than defaulting into
+  whatever's loudest that day.
