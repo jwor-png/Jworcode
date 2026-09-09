@@ -186,14 +186,18 @@ itself, already live with Paul Candon at €5k founding rate — see
 - **[ASK — also unclear]:** an earlier reference to needing to look at
   "ash doors... mentioned this morning" — not clear what this refers
   to; flagged rather than assumed.
-- **Confirmed, needs Shane's attention specifically:** one of these
-  streams has a piece that **needs to be developed by Shane for Paul
-  Candon of United Hardware.** Most likely candidate already on file
-  is the Meridian → UHL Specialist Affiliate Group brief (paint/
-  decorating buying group concept, sent to Paul 2 Sept, awaiting his
-  reply on a 6-8wk feasibility project — see `ventures_dossier.md`),
-  but John didn't explicitly confirm it's that one — **not assumed,
-  needs confirmation** before treating them as the same thing.
+- **Clarified, 9 Sept — NOT the Specialist Affiliate Group brief.**
+  John confirmed this is a separate, distinct item: **an orchestration
+  Shane has to develop for Paul Candon specifically, in his capacity
+  as CEO of United Hardware.** Almost certainly the same line as the
+  **Intelligence Concierge** — the productised personal-orchestration
+  version of Cuan — since Paul Candon is already named as its first
+  landed sale (€5,000 founding rate, see `ventures_dossier.md` and
+  `board.md`). **[ASK — confirm this is the Intelligence Concierge
+  build for Paul specifically, not a third, separate thing — not
+  assumed.]** Either way, this is a live, Shane-dependent build with a
+  paying customer already committed, so it belongs at the top of the
+  Tier 1 coordination push, not left to sit.
 - **Standing action:** this reinforces the Tier 1 priority order
   already set in this file (Meridian, ODIN, EOLAS, Ambrion, Velocity
   AI, Barber Republic) — the instruction today is to move from
