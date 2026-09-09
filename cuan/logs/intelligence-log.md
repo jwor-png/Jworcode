@@ -200,3 +200,23 @@ physical newspaper clipping only.
 **Ventures touched:** Childen, Meridian Intelligence.
 **Pushed to Google Drive:** No (sync not yet wired up).
 ---
+
+### [2026-09-09] [Cuan → Meridian] [REPORTED]
+**Source:** Cuan (standing rule, no live Meridian session)
+**Domain(s):** AI Strategy & Adoption / Talent & Training; Ambrion/Velocity, Golden Generation
+**Summary:** John shared a Mediaplanet "Your Future Career" supplement
+(yourcareer.ie, Sept 2026), photographed across 8 pages. Key findings
+logged: Ireland needs 22,300 additional engineers over the next
+decade (Engineers Ireland); gradireland reports employers now hiring
+for skills/potential over specific degrees; KCETB argues the "one
+qualification for a 40-year career" model is obsolete; Great Place to
+Work Ireland data shows materially higher trust scores at Best
+Workplaces vs the national average, tied to resilience under
+uncertainty. Cross-referenced against the existing Ambrion/Velocity
+training pitch, Golden Generation's succession thesis, and Meridian's
+readiness-assessment framing.
+**Outputs:** `cuan/market_intel_your_future_career_sept2026.md` (new).
+**Open loops:** None — pure capture, no dictated follow-up.
+**Ventures touched:** Ambrion AI, Velocity AI, Golden Generation, Meridian Intelligence.
+**Pushed to Google Drive:** No (sync not yet wired up).
+---
