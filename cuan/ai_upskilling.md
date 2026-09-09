@@ -73,6 +73,55 @@ adopted:**
   check-in. Both need John's confirmation before treating this as an
   adopted discipline rather than a draft.
 
+## IoD Ireland review, 9 Sept 2026 — full scrape back to Jan 2025
+
+John asked for a full review of Institute of Directors Ireland emails
+back to 2025 to identify anything genuinely beneficial, rather than
+letting them sit unread. Scraped via Gmail search — mostly a recurring
+pattern of workshop promotions (roughly weekly/fortnightly) plus a
+monthly newsletter, since roughly January 2025. **John is not currently
+a paying member** — these are the free newsletter-subscriber emails;
+the most recent membership push was a €395/year "end of year" offer
+(11 Dec 2025), still open as far as this scrape shows.
+
+**Directly relevant to live work, worth prioritising:**
+- **"AI Governance: Board Oversight and Accountability"** — a
+  recurring workshop (has run and been re-promoted multiple times;
+  most recently flagged for 24 Sept 2026). Directly matches the AI
+  upskilling gap John flagged himself (4 Sept entry above) and the
+  live UHL risk register/AI governance review already underway.
+- **"Cyber Security and Data Protection Governance"** (next running
+  3 Nov 2026) and **"Digital and AI for Boards: Mastering the
+  Essentials"** (13 Oct 2026) — both line up directly with the UHL
+  risk register/cybersecurity review reopened 7-9 Sept
+  (`ventures_dossier.md`, UHL section).
+- **"The Audit and Risk Committee – An Introduction"** — directly
+  relevant to John's own role chairing Audit & Risk at both UHL and
+  AHL.
+- **"D&O Insurance Demystified"** webinar (30 Apr 2026, may have
+  already passed) — directly relevant to the still-open AHL D&O limit
+  question (asked of BDO 6 July, no reply — see `ventures_dossier.md`).
+- **"The Risk Exchange: A Director Forum"** — general risk-governance
+  peer forum, relevant given the amount of live risk/audit work across
+  UHL and AHL right now.
+
+**Pattern worth noting:** John has already been self-selecting and
+forwarding some of these to the Ambrion team (Pat McGrath, Shane
+McCarthy) when they looked relevant — e.g. the AI Governance workshop
+(12 Jan 2026), Boardroom Dynamics (13 Mar 2026), Remuneration & Nomination
+Committee (27 Aug 2026) — so this isn't a cold list, it's confirming
+the instinct he's already acting on.
+
+**Everything else** (the fortnightly newsletter editions, generic
+"discover IoD membership" pushes, D&O/finance/charity-governance
+workshops with no direct tie to current work) — scanned, nothing else
+stood out as worth flagging individually.
+
+**Open question for John, not assumed:** given how much of the
+governance-workshop content directly overlaps live UHL/AHL work, is
+the €395/year membership worth taking up now rather than continuing
+to read the free promotional emails piecemeal?
+
 ## Learning Log
 
 Newest entry first. Format: Date | Source | Topic | Key point | Aligns to
