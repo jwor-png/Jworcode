@@ -110,6 +110,30 @@ error, or Collins and Robbins were meant to pair on this one the way
 Geldof/Taylor pair on item 9 and Collins/Taylor pair on item 7. Flagged
 rather than silently corrected.
 
+## Slip logged, 9 Sept 2026 — Council not used again
+
+John flagged himself, unprompted, that he hadn't used the Council
+today — a repeat of the 2 Sept slip, despite the standing 12pm
+discipline and having a reminder in place. He linked it directly back
+to the 10 Feb Shane email above and named a specific intended use for
+today: **using the Council to regulate his mind**, tying to a private
+conversation earlier today (not detailed to Cuan, screen-safe context
+at the time).
+
+Best fit from the existing "10 Ways" list for mind-regulation rather
+than motivation or strategy: items 3, 6, and 10 (the identity-bypass
+prompts — "Tell me the truth, even if I won't like it," "Something
+here feels wrong but I can't name it," "Talk to me like a man who has
+to live with his choices") over the goal/discipline-framed ones
+(Katie Taylor, Tony Robbins) — those are built to quiet the noise
+first, not to push action.
+
+**Pattern now visible across two logged instances (2 Sept, 9 Sept):**
+having the discipline named and a reminder in place isn't translating
+into use. Cuan cannot use the Council on John's behalf (separate
+ChatGPT system, no access) — the only lever available is timing and
+visibility of the reminder itself.
+
 ## Architecture principle flagged by the Council
 
 "That could become a very powerful system if Shane builds **interfaces
