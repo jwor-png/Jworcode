@@ -928,9 +928,17 @@ are flagged for confirmation, never guessed.
   Clinton, so the total owed isn't final. Separately, John bought
   several litres of oil to top up his own Range Rover Evoque — a
   personal purchase, not part of the Clinton Tiernan account.
-- **Michael Nugent settlement** — €2,460 full and final settlement accepted. Email
-  sent confirming payment will follow in August. Split with Paul Candon (€1,230
-  each), Paul sending his share to John to pay in full.
+- **Michael Nugent settlement — CLOSED, confirmed 9 Sept 2026.**
+  Clarified via Gmail: Michael Nugent is a solicitor (Nugent
+  Solicitors, info@nugentsolicitors.com) who had done legal work for
+  both John and Paul Candon relating to MiDentalCare and a loan
+  agreement — the dispute was over his invoice, not a personal fee to
+  a friend (distinct from Nigar Roach/Keith Hogan/Nigel Roche below).
+  €2,460 full and final settlement agreed, split €1,230 each with Paul
+  Candon (Paul transferred his share to John, John paid the full
+  amount 2 Sept). **Nugent Solicitors confirmed receipt 9 Sept 2026:
+  "I confirm that this concludes matters between us."** No further
+  action needed — matter closed.
 - **Mícheál Glynn (solicitor, info@michealglynn.ie) — Glenview staff / TUPE
   query, escalated 31 Aug.** Correction: name is Mícheál Glynn, not
   "Michael Glynn" as earlier logged. Original request 21 July asked him to

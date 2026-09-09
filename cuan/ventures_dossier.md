@@ -2578,13 +2578,30 @@ guessed:**
    separate loan.]
 3. **Fees owed to personal contacts from MiDentalCare Milltown work** —
    Nigar Roach, Keith Hogan, Nigel/Nigar Roche (electrician, name
-   unconfirmed), Michael Nugent. John is handling personally, pending
-   his own income coming in first. Full detail: `operating_creed.md`
-   § 4.
+   unconfirmed). John is handling personally, pending his own income
+   coming in first. Full detail: `operating_creed.md` § 4. (Michael
+   Nugent, previously listed alongside these, is a **separate,
+   different-in-kind matter — a solicitor's invoice dispute, not a
+   personal favour owed — and is now CLOSED, confirmed 9 Sept 2026,
+   see item 5 below.)
 4. **MiDentalCare — Lisa Doyle wages/holiday pay claim** (liquidator's
    office, via Paul O'Brien) — wage-record assembly in progress,
    awaiting outstanding earlier-period detail (Maria, DSP Accountants
    Limerick). Full detail: `operating_creed.md` § 4.
+5. **Michael Nugent (Nugent Solicitors) invoice dispute — CLOSED, 9
+   Sept 2026.** €2,460 full and final settlement, split €1,230 each
+   with Paul Candon, paid 2 Sept 2026. Nugent Solicitors confirmed
+   receipt and that the matter is concluded. No further action. Kept
+   here as a record of resolution, not as a live item.
+
+**New item spotted 9 Sept while scanning recent Gmail per John's
+request — not yet raised with him, flagging rather than assuming:**
+a "Monthly Statement — Webbor Consultants Limited" email (4 Sept
+2026, from jcorden@hds.ie, cc'd to ger@dsb.ie) references a company
+name — **Webbor Consultants Limited** — not previously recorded
+anywhere in this dossier or `people_map.md`. **[ASK — confirm what
+this entity is and whether it belongs in this tracker, in
+`ventures_dossier.md` proper, or is something else entirely.]**
 
 ### How this tracker works
 - Each liability gets its own numbered entry here with a live status
