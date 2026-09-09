@@ -576,6 +576,40 @@ dossier's existing convention.
 - **John's care level:** Highest — primary revenue vehicle for next 3 years
 - **Strategic position:** AI as an asset class in Ireland — unclaimed white space
 
+### Client engagement — "SPOIN" / DSB.ie (surfaced 9 Sept 2026)
+Found among ~288 historic Ambrion emails forwarded to John's personal
+Gmail 9 Sept 2026 (see the AI upskilling note in `ai_upskilling.md` for
+the full batch). A real, apparently already-underway Ambrion client
+engagement, not previously logged in this dossier:
+- **17 Feb 2026 email, John (jwor@ambrion.ai) to ger@dsb.ie, cc Shane
+  McCarthy:** "Please see attached SPOIN 2, which focuses on DSB. It
+  captures the intent from SPOIN 1 and turns that intent into action.
+  It structures implementation, oversight, and review so that AI use
+  remains aligned with governance, risk, and business outcomes."
+  Attachment: "SPOIN - Phase 2 - DSB.ie.pdf" (PDF content not readable
+  in this session — only the covering email text, see
+  `shane-brief-mcp-fix.md` for the Drive/attachment-reading gap).
+- **Contacts named:** **Ger** (ger@dsb.ie) as the primary contact, and
+  a second contact referred to only as **"Will"** ("please also share
+  this with Will for further discussion") — **[ASK] surname/role for
+  Will not established.**
+- **A related, earlier thread** ("Cape Clear Distillery - SPOIN 2," 16
+  Feb 2026, forwarded from john@velocityai.ie) suggests SPOIN may be a
+  named methodology/framework Ambrion applies across more than one
+  client (DSB.ie and, separately, Cape Clear Distillery) rather than a
+  one-off engagement — **not confirmed**, worth clarifying what SPOIN
+  stands for and its intended scope next time this comes up.
+- **DSB.ie** — not yet identified in the dossier as a company; possibly
+  connected to Ger Blake (whose email address `ger@dsb.ie` appears
+  elsewhere in this dossier re Kendrick Properties/Leratian
+  Investments — see the Kendrick section) — **[ASK] confirm whether
+  this Ger is the same Ger Blake already tracked, or a different
+  contact who happens to share a first name and domain.**
+- **Status:** REPORTED from historic correspondence only — not yet
+  raised with John directly; no action taken, logged for completeness
+  as a real Ambrion client thread that predates this dossier's current
+  Ambrion tracking.
+
 ---
 
 ## Meridian Intelligence

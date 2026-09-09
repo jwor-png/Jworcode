@@ -247,6 +247,60 @@ purchase" line present exactly once each, deliberately not laboured.
 Both now confirmed consistent with the (not yet seen by Cuan) one-pager
 as "one voice."
 
+## Earlier source narrative — "The story as I see it... our 'sales
+## message' to the church" (found 9 Sept 2026, forwarded from
+## jwor@ambrion.ai, originally circulated in-group earlier)
+
+Surfaced when ~288 historic Ambrion emails were forwarded to John's
+personal Gmail (9 Sept 2026, via ChatGPT/Ambrion access — see the
+"AI upskilling" note below for the full batch). Two versions of the
+same document found:
+
+**Original ("A." — likely Andrew Sharkey, per the four-person working
+group already logged above; not confirmed, flagged rather than
+assumed):** a plain-language narrative pitch for Childen, distinct in
+style from the formal two-pager/six-pager already logged — written to
+"capture interest" rather than as a Holy See-facing document. Covers:
+the core child-protection problem (platforms' business model requires
+data extraction/ad-targeting, structurally incompatible with genuine
+protection — cites social media firms earning **$11 billion in 2023
+from ads targeting minors**); Childen's solution (institutional
+verification via a trusted organisation — school, church, community
+group — rather than biometric checks; no ad-targeting; no data sold);
+confirms **the technical preparatory work has been completed by the
+team at Ambrion AI**, with an open question in the draft itself
+("Velocity?") over which entity actually built it; the "why the
+church" argument (no equity holders, no fiduciary duty to maximise
+returns, existing safeguarding infrastructure, moral positioning).
+This version references **"His Holiness Pope Francis"** — an earlier
+draft than the encyclical material, since Pope Leo XIV's *Magnifica
+Humanitas* (25 May 2026) postdates Pope Francis's papacy; this is an
+older or unrevised source document, not a contradiction of the
+confirmed facts elsewhere in this file.
+
+**Revised version ("Mike with changes" — Mike Molloy, per the same
+working group):** corrects "Pope Francis" to **"Pope Leo"**, adds the
+line "this will put Algorethics into action" (matching the
+technical-adviser language already logged from the six-pager's Section
+VII), and sharpens the "why the church" section with an explicit
+Convenor framing: "The Church's great power is as a Convenor bringing
+together funds to achieve humanity's most important work" and "The
+people behind this want their Church to be the moral Convenor at the
+centre of this once in a lifetime opportunity to transform child
+protection online" — language that lines up closely with the
+two-pager/six-pager's own "Convenor point" already logged above,
+confirming this narrative and the formal documents evolved together
+rather than separately.
+
+**Why this matters:** this is earlier working material behind the
+polished two-pager/six-pager, useful for understanding how the
+"Convenor" framing and the Pope Leo/Algorethics language developed,
+and for anyone drafting future plain-language versions of the pitch
+(e.g. for a less formal audience than the Holy See directly). Not a
+new decision or action — REPORTED, sourced from historic internal
+correspondence, not independently verified beyond the email content
+itself.
+
 ## Draft letter (2 Sept 2026) — status: DRAFT, not sent
 
 Addressed "Your Excellency" — presumed Archbishop Eamon Martin, not
