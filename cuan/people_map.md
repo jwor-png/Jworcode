@@ -305,10 +305,20 @@
   reminder actually fired/exists outside this git log. See
   `ventures_dossier.md` ODIN/Codex section.
 
-### Padraic O'Maille
-- **Role:** Head of Smacht network — ~300 Irish SMEs
-- **Opportunity:** Key warm channel for Ambrion AI compliance offering and Meridian partner model
-- **Status:** Relationship active; Galway meeting upcoming as of June 2026
+### Padraic O'Maille (Pádraic Ó Máille)
+- **Role, updated 9 Sept 2026:** Specialist & Voice for **SMÁCHT**,
+  Pillar One of Shane McCarthy's **Sensai** product (personalised AI
+  architecture for mindset, habits and behaviours) — a direct build
+  partnership with Shane, commercial terms agreed between the two of
+  them directly. Domain authority in his own vertical; brings his own
+  members as the pillar's first users. Go date 26 Aug 2026, Phase One
+  (Flow State live to his first circle) due mid-October 2026. Full
+  detail: `ventures_dossier.md`, "SMÁCHT / Sensai."
+- **Prior/possibly related role:** previously logged as Head of the
+  "Smacht" network — ~300 Irish SMEs, a warm channel for Ambrion AI
+  compliance and Meridian's partner model, Galway meeting upcoming as
+  of June 2026. **[ASK — not confirmed whether this is the same
+  relationship evolved, or a separate thread alongside SMÁCHT.]**
 
 ### Mairead O'Donnell
 - **Company:** Claochlu Consulting

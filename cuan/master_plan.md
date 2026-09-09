@@ -176,13 +176,16 @@ Concierge** (the productised, personal-orchestration version of Cuan
 itself, already live with Paul Candon at €5k founding rate — see
 `ventures_dossier.md`).
 
-- **Resolved, 9 Sept:** "powdery remolia" was **Padraic O'Maille**, the
-  existing Smacht Network contact (~300 Irish SME network, early-stage
-  AI adopters — see `ventures_dossier.md`). John wants **"Sensai"**
-  (spelling as given, S-E-N-S-A-I) coordinated with Padraic as part of
-  this active sales-orchestration push — **[ASK — confirm what
-  "Sensai" itself is: a new product/venture name not yet on file, or a
-  mishearing of something else. Not assumed.]**
+- **Fully resolved, 9 Sept**, via the actual project plan PDF John
+  shared: **Sensai** is a real, named Shane McCarthy product — a
+  personalised AI intelligence architecture for mindset, habits and
+  behaviours — with **SMÁCHT** (built with Pádraic Ó Máille, "powdery
+  remolia") as its first pillar. Full detail now in `ventures_dossier.md`
+  under "SMÁCHT / Sensai." Go date was 26 Aug 2026; two-week sprint
+  cadence; Phase One (Flow State to Padraic's first circle) due mid-
+  October 2026. This is a live, active build already underway, not
+  just an idea sitting unactioned — belongs in the Tier 1 coordination
+  push at full priority.
 - **[ASK — also unclear]:** an earlier reference to needing to look at
   "ash doors... mentioned this morning" — not clear what this refers
   to; flagged rather than assumed.

@@ -1877,11 +1877,71 @@ collapse these into one document:**
 
 ---
 
-## Smacht Network / Padraic O'Maille
-- **What it is:** Network of ~300 Irish SMEs, all early-stage AI adopters
-- **Opportunity:** Bring Meridian Intelligence, Golden Generation partner model, and Ambrion ecosystem to a warm network
-- **Status:** Galway meeting with Padraic was upcoming as of June 2026
-- **Priority:** High — key channel for Ambrion compliance offering
+## SMÁCHT / Sensai (Shane McCarthy & Pádraic Ó Máille) — resolves "Sensai," 9 Sept 2026
+
+**"Sensai" (heard as such in this morning's dictation, correct spelling
+confirmed via the actual project plan PDF John shared) and Padraic
+O'Maille are the same thread as the earlier "Smacht Network" entry
+below** — full detail now available and logged here in place of the
+earlier thin entry.
+
+- **What it is, per "SMÁCHT, Pillar One — Project Plan V2" (Shane
+  McCarthy & Pádraic Ó Máille, dated 25 Aug 2026, go date 26 Aug 2026):**
+  **Sensai** is the overarching brand — "the brain," a personalised
+  intelligence architecture for mindset, habits and behaviours.
+  **SMÁCHT is Pillar One**, the first vehicle running through it,
+  aimed at freeing "brilliant, often neurodivergent minds" from
+  non-genius work and into flow state. Three components: **Flow
+  State** (awareness of when genius happens and what steals it),
+  **Identity Integrity** (closing the gap between who someone is and
+  how they act), and **Orchestrations** (the AI core that takes
+  non-genius work off people and hands hours back to flow). Everything
+  a pillar learns flows up into Sensai and compounds across future
+  pillars.
+- **Roles:** **Shane McCarthy** — Intelligence Architect, Sensai; owns
+  and designs the whole architecture, builds products/orchestrations
+  in two-week sprints, leads. **Pádraic Ó Máille** — Specialist & Voice,
+  SMÁCHT (Pillar One partner); domain authority in his vertical, brings
+  his own members as the first people the pillar serves, completes an
+  "ingestion" (structured intake capturing his domain, voice and
+  people) and validates every model in his own voice, is the face to
+  his people but never touches the tech/admin. **Commercial terms
+  agreed directly between Shane and Padraic** — not routed through
+  Cuan/John.
+- **Sequencing — understanding before building, deliberately:** (1)
+  show Padraic live orchestrations already built elsewhere; (2) he
+  understands both sides; (3) send him the ingestion form; (4) he
+  completes it; (5) only then is his first orchestration and Flow
+  State actually built.
+- **Timeline:** Now (this week) — understand & ingest. Phase One (to
+  mid-October) — build and launch Flow State to Padraic's first circle
+  (6-10 trusted members). Phase Two (through end 2026) — build his
+  first orchestration. Phase Three (into 2027) — compounds up into
+  Sensai across future pillars. Cadence: two-week sprints.
+- **Goal stated in the document:** "Built toward a real, acquirable
+  outcome."
+- **[ASK — reconciling with the pre-existing entry below]:** the
+  earlier record here described "Smacht Network" as a ~300-SME Irish
+  network, a channel to bring Meridian/Golden Generation/Ambrion to a
+  warm audience — a materially different description from this
+  mindset/habits/neurodivergence coaching product. Given the exact
+  name match (Smacht/SMÁCHT) and the same contact (Padraic O'Maille/
+  Pádraic Ó Máille), this is very likely the same relationship having
+  evolved or been described two different ways at two different
+  points — but not assumed. Worth confirming with John whether the
+  300-SME network is a separate, still-live thread alongside SMÁCHT,
+  or whether SMÁCHT superseded it.
+- **John's own instruction, 9 Sept:** this belongs in the active
+  sales-orchestration coordination push (see `master_plan.md`) —
+  something Shane and John have discussed but not been actively
+  driving.
+
+**Prior entry (context, may now be superseded — see ASK above):**
+Network of ~300 Irish SMEs, all early-stage AI adopters. Opportunity:
+bring Meridian Intelligence, Golden Generation partner model, and
+Ambrion ecosystem to a warm network. Galway meeting with Padraic was
+upcoming as of June 2026. Priority: High — key channel for Ambrion
+compliance offering.
 
 ---
 
