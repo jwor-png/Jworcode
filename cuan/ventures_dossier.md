@@ -1197,6 +1197,39 @@ shortly after the 23 September AGM.
   recipient addresses from the two spreadsheets, the draft needs its
   "To" field replaced with the real list before going out.
 
+### Sent to the AHL Board, 10 Sept — Joe Wallace objects, send to
+### shareholders HELD pending Monday's Board call
+
+The finalised letter (post-AGM meeting time now fixed at **1.15pm**)
+was circulated to the full AHL Board (Shane Felle, Joe Wallace, Eoin
+Lynch, John Smyth, Emmet Cooney) at 3.33pm, 10 Sept, with John noting
+he was still waiting on the actual shareholder email addresses from
+Magna House before sending it on to members.
+
+**Joe Wallace objected, same evening (7.43pm):** he says the line "The
+Board is in favour of proceeding with a sale if shareholders are
+willing to support this course of action" reads as the Board already
+wanting to sell, and that he doesn't recall agreeing to that framing.
+His position: before any vote, the Board should agree what % support
+it actually requires, and the shareholder-facing statement should be
+**more neutral** — inviting opinions and discussion rather than
+stating a Board preference. He asked directly, "Am I alone on this?"
+
+**John's reply (8.01pm):** did not concede the substance — restated
+that the Board had previously agreed to take this to shareholders on
+the basis that the Board favours a sale, seeking **significant support
+around the 75% mark** — but agreed the language "can be tempered," and
+proposed a **Teams call Monday at 12pm** to talk it through.
+
+**Decision, confirmed by John 10 Sept: hold sending the letter to the
+actual shareholders until after Monday's Board call.** The letter has
+only gone to the Board so far, not to the membership, so nothing needs
+to be walked back — the timing works in John's favour here. **Open
+item for Monday:** resolve (1) whether the Board's "in favour of a
+sale" framing stays, softens, or goes neutral per Joe's objection, and
+(2) formally confirm the ~75% support threshold John cited, since that
+figure hasn't been stated anywhere else in this dossier before now.
+
 ### Structural finding (2 Sept 2026) — three companies, not one
 John operates across **three** distinct hardware-group companies, not
 one, and they are not a parent/subsidiary structure:
