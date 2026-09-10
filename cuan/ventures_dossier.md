@@ -729,6 +729,42 @@ domain 5, a standalone agribusiness pitch document, or simply the
 framing Meridian uses whenever an agribusiness-sector conversation
 comes up. Flagged as a live direction, not a commitment.
 
+### CONFIRMED PRIORITY, 10 Sept 2026 — Agri as a standing Meridian
+### focus, "every angle"
+
+John's own instruction, direct and unambiguous: he wants to **focus in
+on Agri going forward for Meridian, from every angle** — this moves
+the agribusiness work above from "a live direction, not yet a
+commitment" to an actual standing priority for the business, not just
+a positioning exercise limited to domain 5 (AI Strategy & Adoption).
+
+**What "every angle" means, based on everything already logged in
+this dossier — not to be treated as an exhaustive final list, but as
+the current known angles to build out:**
+- **AI Strategy & Adoption (domain 5)** — the Teagasc AI-literacy
+  positioning work above.
+- **Succession/legal risk** — the estate-dispute case study
+  (`market_intel_farming_estate_dispute_sept2026.md`).
+- **Capital allocation/investment** — the dairy-farmer piece
+  (`market_intel_dairy_farmer_investment_sept2026.md`).
+- **The relational/human layer of succession** — the "Dear Miriam"
+  family-business piece (`market_intel_family_business_agony_aunt_sept2026.md`).
+- **Talent pipeline/workforce** — the CAO veterinary-vs-agriculture
+  data and Teagasc skills material
+  (`market_intel_farmers_journal_batch_sept2026.md`).
+- **Relationship/network building** — the National Ploughing
+  Championships 2027 day out, confirmed same evening as a genuine
+  Meridian opportunity, not just personal (see `operating_creed.md`).
+- **John's own possible personal advisory angle** in the AI-agri
+  space, flagged earlier as still needing clarification on whether it
+  sits inside Meridian or separately (see
+  `market_intel_farming_estate_dispute_sept2026.md` open items).
+
+**Status:** confirmed as a priority direction by John; not yet built
+into a formal Meridian workstream, pitch document, or resourcing plan.
+Next real step would be turning this from "priority noted" into an
+actual plan with Shane — not assumed or drafted speculatively here.
+
 ### Funding Landscape Intelligence (added July 2026)
 - **Source:** IBI Corporate Finance / DC Advisory funding note (originally prepared April 2025 by James Doody for MiDentalCare), reassessed July 2026 in a briefing note prepared for John.
 - **Irish funding landscape map (April 2025 IBI/DC Advisory deck):** Six capital types on the risk/return curve — Conventional Debt (AIB, Bank of Ireland, ptsb), Specialist Credit Funds (BVP, BDO, Proventus, Hayfin, Beechbrook, Rothschild, Quintas, Elkstone), EIIS, Venture Debt (Claret Capital, Beach Point, Melior, CapitalStep, Kreos, Irelandia, WildTribe, Columbia Lake Partners, Renatus, Causeway, Foresight, Quintas), Private Equity (MML, Cardinal, BGF), Venture Equity (Delta Partners, Act, Frontline, tribal.vc).
