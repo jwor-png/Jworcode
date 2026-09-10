@@ -1035,7 +1035,10 @@ are flagged for confirmation, never guessed.
   and professionally going forward. He replied 24 June confirming availability.
   John never replied until now. REPLY DRAFTED 5 August, sitting in Gmail
   Drafts, confirming instruction and asking to set up the initial call
-  (including the BOI/MyDentalCare position). Ready to review and send.
+  (including the BOI/MyDentalCare position). **John's decision, 10 Sept
+  2026: do NOT send this draft.** Left as-is in Drafts, not deleted —
+  holding rather than actioning, no reason given, not to be sent
+  without a fresh instruction.
 - **AHL insurance gap** — Paul Candon sent an email flagging no insurance cover
   referred to. John needs to reply pointing out to a contact named "Smith" that
   there is no insurance cover and AHL will not pick up the tab. Needs the actual

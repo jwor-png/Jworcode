@@ -156,12 +156,14 @@ discipline 5 (Protect My Present Responsibly) and discipline 4
   and professionally going forward; Mark confirmed availability 24
   June. A reply was drafted 5 August (confirming instruction, asking
   to set up an initial call, including the BOI/MiDentalCare position)
-  and is still sitting unsent in Gmail Drafts. **This is very likely
-  the professional who should also handle the will/EPA work in
-  `personal_estate_retirement_plan.md`** — worth confirming with Mark
+  and is still sitting unsent in Gmail Drafts. **John's decision, 10
+  Sept 2026: do not send that draft.** This is very likely the
+  professional who should also handle the will/EPA work in
+  `personal_estate_retirement_plan.md` — worth confirming with Mark
   directly whether he covers both personal insolvency and general
   estate planning, or whether a second solicitor is needed for the
-  will/EPA side specifically.
+  will/EPA side specifically — **but not now, per John's instruction
+  to hold rather than engage him at this time.**
 - Broader retirement/new-career shape not yet defined — to be built out
   as John brings more of this forward, not assumed in advance.
 
