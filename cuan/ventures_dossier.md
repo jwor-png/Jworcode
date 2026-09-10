@@ -3416,3 +3416,36 @@ guessed:**
 - **Revenue relevance:** Not revenue (personal, confidentiality boundary).
 - **Tracking:** Cuan only, per `governance.md`.
 - **Detail:** [ASK]
+
+---
+
+## Evening batch, 10 Sept 2026 — AHL share transfers, UHL invoices, sales orchestration follow-ups
+
+### AHL — share transfer quotes needed (BDO)
+Two live share-transfer requests to instruct BDO on, for a fee quote:
+- **Ignatius Cahill** (igncahill@yahoo.com) — confirmed thread "AHL Shares," ongoing since June 2026. Ignatius purchased AHL shares from **Conor O'Boyle** and wants them transferred into his name; the liquidator has agreed. John told him 25 Aug the fee quote from BDO was being sought — **still not actually instructed to BDO as of this session**, per the search. Action: instruct BDO for the quote now.
+- **Dominic Rice** — **[ASK] no matching email found in this Gmail account under this name.** John referenced "as per the Gmails to me" — flagged rather than guessed; worth checking if this is under a different name/spelling, or in one of the other inboxes (Ambrion/Velocity) not fully searched this session.
+- Separately still open from the audit: **Jonas McCarthy shares** (West Cork Building Supplies Ltd, Clonakilty) — Simon Carbery/BDO asked for clarification on these for the 2025 financial statements; John confirmed the shareholding detail 26 Aug but Jonas has not progressed the transfer request. Related but distinct from the two new transfer instructions above.
+- **BDO — Joanne, missing documents:** John referenced a recent email from Joanne at BDO about missing documents needing a reply. **Not located in this search** — worth a direct check next session, possibly under a different BDO sender (Joanne Mallon, jmallon@bdo.ie, has been in contact re AHL's Annual Return separately).
+
+### UHL / Ambrion AI training — invoice status confirmed
+John asked whether Shane issued one or two invoices to UHL recently. **Confirmed: two.**
+1. **Session 2 Invoice** (29 July 2026, via Maya Gough) — payment confirmed arranged by Hang Zhao (UHL AP), 4 Aug 2026.
+2. **Session 3 / "Senior Team Final AI Session Invoice"** (2 Sept 2026, via Maya Gough) — this was the final session in the batch ("practical usage and industry-specific use cases aligning to roles and departments"). **Payment status not confirmed in this search** — worth checking directly with Hang Zhao/David Geoghegan.
+
+**John's instruction, 10 Sept:** photos/footage taken at the last Paul Candon session need to be used to promote what Ambrion's training actually delivers — testimonials and material from that session should be pulled together and discussed with Shane to get this moving as a sales asset.
+
+### Sales orchestration — where things stand, John's own words, 10 Sept
+- **Barber Republic** — progressing the MVP build; John is currently acting as the commercial lead on it day-to-day.
+- **UHL / Paul Candon orchestration** — progressing; ties to the invoice/testimonial point above.
+- **SMÁCHT / Padraic O'Maille** — John's plan: once Shane confirms **Padraic O'Maille has "got his orchestration"** (i.e. Shane's build/product for Padraic is in a state Padraic can actually use), John and Shane can go back to Padraic and the Smacht network to agree a joint business strategy. Not yet actioned — waiting on Shane's status update first.
+- **Ambrion AI strategy** — John flagged needing to look specifically at Ambrion's own strategy as a business (distinct from the training-delivery work above) — no further detail yet, to be developed with Shane.
+- **Board Intelligence** — John wants to revisit a "board intelligence" capability seen at Ambrion some months ago, to assess whether it can be developed into a sales opportunity in its own right. **[ASK] — not otherwise documented in this dossier; needs its own investigation next time this comes up**, since no prior reference to it exists here.
+- **Andrew Sharkey / "Kevin Carr taught"** — John has moved a call with Andrew Sharkey regarding **[ASK — heard as "Kevin Carr taught," name/subject unclear]** to tomorrow, Friday.
+- **Mark Findley** — John needs to go back to Mark Findley on a recent email from him. **[ASK] — no matching thread found in this Gmail account; may be under a different name/spelling, or in a different inbox.**
+- **Gerry Sheen** — John owes Gerry Sheen a courtesy reply regarding Shane and ODIN. **[ASK] — no matching thread found in this Gmail account; check spelling or other inboxes.**
+
+### Personal items, 10 Sept
+- **Vodafone pay-as-you-go number 087 384 6403** — deactivated; John spent time today trying to get it reactivated online without success (can still be used for WhatsApp). Plan: call Vodafone directly tomorrow. Separately considering registering this number specifically for Ambrion AI use once reactivated.
+- **Turkey/cash payment owed to "Zenya"** — gave a tour of the collegiate church on the Tuesday of the recent Tangible Ireland Summer School. **[ASK — name as heard, "Zenya," not otherwise confirmed]**; John needs to arrange payment/thanks.
+- **Personal call — Joe Webb (John's cousin)** — needs to phone Joe regarding **"Kerston"**, who is looking for her father. **[ASK — "Kerston" name as heard, not otherwise identified]; purely personal, logged for completeness only, not a business matter.**
