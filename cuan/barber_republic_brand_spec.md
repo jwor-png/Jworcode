@@ -107,6 +107,20 @@ and the correct tagline, with the Collective Matrix mark itself left
 as an explicit placeholder pending the real vector file — per rule 1
 above, it must not be redrawn or approximated.
 
+**Exception, 10 Sept 2026 (John Jones investor document):** John
+shared a screenshot of the actual mark (from "The Money Model" PDF
+cover) and asked for it to be included visually. **A recreation was
+built from that screenshot** (a raster PNG, 3x4 grid of bronze dots
+and dashes) and embedded on the document's cover — this is a
+deliberate, John-requested exception to rule 1 above, made because no
+vector master or original raster file was available in this session,
+not a change to the standing rule itself. **This recreation is a
+placeholder, not the true asset** — it should be replaced with the
+real vector mark (or the original raster crop, if that file can be
+recovered) the moment either becomes available in a session again, and
+should not be treated as the source of truth for any other document
+going forward.
+
 ## 9. Open items
 
 - Typography is not specified in the master asset guide. The wordmark
