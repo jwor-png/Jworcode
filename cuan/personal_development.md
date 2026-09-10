@@ -370,3 +370,55 @@ at in his own time, not a task with a deadline.
 - **10 Sept — Nelson Mandela/Snámhaí Sásta:** "May your choices reflect
   your hopes, not your fears." John flagged this for his own personal
   development.
+- **10 Sept — "8 simple ways to reset your wellbeing this September"**
+  (Lisa Salmon, The Echo, Wednesday) — flagged by John for his own
+  personal development, and ties directly to his 9 Sept reflection on
+  the Karl Henry "reset, refocus" column already logged in
+  `operating_creed.md` (discipline 2). Eight practical tips, from
+  wellbeing experts Steven Buchwald (Manhattan Mental Health
+  Counseling), Lisa Winn (health and wellbeing coach), and Nicola
+  Twiston Davies (founder, Game Plan Life Coaching):
+  1. **Personal wellbeing audit** — for one week, note when you feel
+     most energised, anxious, irritable or mentally drained, to see
+     which commitments/environments/relationships are affecting you.
+  2. **Get outside every day** — even a 10-minute walk helps regulate
+     the nervous system; don't wait for good weather.
+  3. **Savour the moment** — slow down deliberately, notice senses,
+     and "bottle" good moments (what tastes, smells, sensations stand
+     out) to revisit later when needed.
+  4. **Identify early warning signs of stress** — procrastination,
+     impatience, withdrawal, disrupted sleep, or relying on food/
+     alcohol/scrolling to switch off. Naming repeated stress triggers
+     lets you actually remove or bound them (switch off notifications,
+     protect an evening, set clearer boundaries).
+  5. **Notice your breathing** — check if you're breathing quickly,
+     shallowly, or holding your breath (common while texting/typing or
+     concentrating); build in micro-pauses of slow conscious breaths
+     between meetings or after emails.
+  6. **Plan connection before you feel isolated** — arrange a regular
+     social touchpoint (walk, meal, class, phone call) now, before
+     winter motivation dips, so it's already part of the routine.
+  7. **Find your rhythm** — a personal "anthem" tune for energy, and
+     conscious end-of-day savouring (what you saw/heard/felt) without
+     staring at a screen while doing it.
+  8. **Create a winter support plan** — while motivated now, note the
+     habits and people/resources that help when struggling, and the
+     early warning signs that mean it's time to seek additional
+     support.
+  **Closing line worth keeping:** "A useful wellbeing reset shouldn't
+  give you more things to complete — it should help you understand
+  what drains you, what restores you, and what support you need when
+  life becomes more demanding." Choosing one or two targeted changes
+  in September is framed as enough to build a real foundation for
+  winter, not a full overhaul.
+
+**John's stated intent, 10 Sept:** he wants to put an actual plan in
+place from this material — small daily actions and routines, not just
+reading and logging. **Not yet built** — flagged as the next real step
+on this thread rather than assumed or drafted speculatively here.
+Natural starting point given the "choose one or two" advice above and
+his own existing life-balance items (exercise, golf, gardening,
+protected family time, already in `operating_creed.md`): pick 1-2 of
+the eight (the personal wellbeing audit and the daily outdoor walk are
+the two most concrete/lowest-friction to start) rather than trying to
+adopt all eight at once.
