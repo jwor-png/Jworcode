@@ -150,10 +150,18 @@ forward for **his own retirement and his new career**, sitting mainly
 under discipline 6 (Build My Future Deliberately) but also touching
 discipline 5 (Protect My Present Responsibly) and discipline 4
 (Resolve My Past Professionally). Specifically flagged as part of this:
-- A **personal solvency practitioner** and a new solicitor, name given
-  as **[ASK — heard as "Marrick Power," spelling/name unconfirmed]** —
-  John said he'd come back to this in a later note, so holding rather
-  than logging further detail yet.
+- **RESOLVED, 10 Sept 2026:** the solicitor is **Mark Power**
+  (mpower@powersolicitors.ie) — already found in
+  `operating_creed.md` § 4: John asked him 23 June to act personally
+  and professionally going forward; Mark confirmed availability 24
+  June. A reply was drafted 5 August (confirming instruction, asking
+  to set up an initial call, including the BOI/MiDentalCare position)
+  and is still sitting unsent in Gmail Drafts. **This is very likely
+  the professional who should also handle the will/EPA work in
+  `personal_estate_retirement_plan.md`** — worth confirming with Mark
+  directly whether he covers both personal insolvency and general
+  estate planning, or whether a second solicitor is needed for the
+  will/EPA side specifically.
 - Broader retirement/new-career shape not yet defined — to be built out
   as John brings more of this forward, not assumed in advance.
 

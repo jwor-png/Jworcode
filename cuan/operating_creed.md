@@ -1369,3 +1369,64 @@ each is traceable to a specific item above.
   whether BOI Finance already holds Michael Butler's details from any
   prior liquidation notification correspondence, or whether this letter
   is the first time they're being given the liquidator's contact.
+
+## 10 Sept 2026 (evening) — tomorrow's follow-ups, and the backlog-management question
+
+**Tomorrow's calls/follow-ups, dictated 10 Sept:**
+- **Sharon** — follow up with her regarding the Tangible event next week.
+  She's referred to as **"John Mac's wife"** — **[ASK] full name/
+  surname and which John Mac this refers to, not otherwise identified
+  in this dossier.**
+- **A former art teacher**, described as living/based at **the convent
+  in Kilmallock** — **[ASK] name not given; flagged rather than
+  guessed.**
+- **"Neves" business** — a wellness centre. John is wondering whether
+  there are one or two orders (unclear exactly what this refers to —
+  possibly outstanding orders/bookings). **[ASK] "Neves" as heard,
+  spelling/full name unconfirmed.**
+- **Maria** — John also wants to speak with her, in connection with
+  the above (likely Maria O'Flaherty at United Hardware, given the
+  Tangible/event-logistics context, but **not confirmed** — could
+  also be a different Maria; flagged rather than assumed).
+
+**The bigger question John raised: how to manage the operating_creed
+backlog itself.** John's own framing: he knows there's a significant
+number of personal calls/emails/contacts sitting logged across this
+file, and wants a way to actually prioritise and action them rather
+than have them sit as a growing list he reviews but doesn't clear.
+
+A representative pull of what's actually sitting open right now
+(not exhaustive — this file is long and reviewed only line-by-line
+grep this session):
+- **Mark Power** (mpower@powersolicitors.ie) — reply drafted 5 Aug,
+  never sent. See resolved note in `master_plan.md`.
+- **Majella's Newcastle West contact ("Majella Boat," name/spelling
+  to confirm)** — a bank account matter, John needs to call her back.
+- **AHL insurance gap / "Smith"** — Paul Candon flagged no insurance
+  cover on something; John needs to reply pointing out to a contact
+  named "Smith" that AHL won't pick up the tab. Needs Candon's actual
+  email located and Smith's details confirmed first.
+- **Sean Tolton Senior enquiry** — asked John to contact his Aunt Mary
+  Gallagher re "Ant" Doggan/Evelyn.
+- **Dermot Flanagan SC** and **Billy Joe Padden** — personal
+  relationship-capital outreach, flagged as wanted but not done.
+- **Mike Mulvehill** — contact re AI interest / Golden Generation
+  cohort inclusion.
+- Health insurance renewal decision (Zurich vs RedClick) — needs
+  review/reply before the 10-day pre-23-Sept deadline.
+- Phone voicemail ring-count — practical carrier fix, John's own
+  action.
+
+**Proposed approach, for John to accept or reject rather than
+assumed here:** a standing **"Tomorrow's Calls & Emails"** section
+kept at the very top of this file (or as its own short file), rebuilt
+each session by pulling forward every open personal contact/reply
+item from across the whole creed into one short, dated list — so
+John sees a small, actionable set each day rather than having to
+re-scan the full document to find what's still open. Items drop off
+the pull-forward list only when John confirms they're actually done,
+not when they're simply mentioned again. This is the same mechanism
+already agreed in principle in `master_plan.md`'s "reminders spaced
+through the day" addition — this would be the concrete version of it
+applied specifically to the personal-contact backlog. **Not built
+yet — flagged for John's decision on whether to set this up.**
