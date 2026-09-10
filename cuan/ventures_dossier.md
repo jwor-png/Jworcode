@@ -977,6 +977,20 @@ consolidation pass rather than merged speculatively.
 - **Key relationships:** Mairead O'Donnell (Claochlu Consulting), Vinny Leonard (Sales Process Advisors)
 - **Constraint:** Internal product name "Transition Intelligence" must never appear in any client-facing or external document
 
+### Mark Finlay — resolved, 10 Sept 2026 (was flagged "Mark Findley")
+**Mark J. Finlay** (markjfinlay@icloud.com) — a Velocity AI contact.
+John and Shane had a Zoom call with him 28 July 2026 ("John & Shane
+with Mark," invite sent from john@velocityai.ie). Per John, 10 Sept:
+Mark is **a good US contact for ODIN and other tech**, and **wants a
+personal orchestration** (i.e. his own Intelligence Concierge/Cuan-
+style build, the same productised offering already sold once to Paul
+Candon — see the Intelligence Concierge entry above). **John needs to
+discuss with Shane and then revert to Mark** — not yet actioned.
+**Open items:** what Mark's actual background/role is (not yet
+established beyond "good US contact"); what specifically he needs
+from ODIN/John and Shane on the tech side; timing for the
+Shane conversation and the reply to Mark.
+
 ---
 
 ## United Hardware Limited (UHL)
@@ -3511,7 +3525,7 @@ John asked whether Shane issued one or two invoices to UHL recently. **Confirmed
 - **Ambrion AI strategy** — John flagged needing to look specifically at Ambrion's own strategy as a business (distinct from the training-delivery work above) — no further detail yet, to be developed with Shane.
 - **Board Intelligence** — John wants to revisit a "board intelligence" capability seen at Ambrion some months ago, to assess whether it can be developed into a sales opportunity in its own right. **[ASK] — not otherwise documented in this dossier; needs its own investigation next time this comes up**, since no prior reference to it exists here.
 - **Andrew Sharkey / "Kevin Carr taught"** — John has moved a call with Andrew Sharkey regarding **[ASK — heard as "Kevin Carr taught," name/subject unclear]** to tomorrow, Friday.
-- **Mark Findley** — John needs to go back to Mark Findley on a recent email from him. **[ASK] — no matching thread found in this Gmail account; may be under a different name/spelling, or in a different inbox.**
+- **Mark Findley** — **RESOLVED, same evening: this is Mark Finlay** (markjfinlay@icloud.com), a Velocity AI/ODIN US contact who wants a personal orchestration build. Full detail moved to the Velocity AI section above.
 - **Gerry Sheen** — John owes Gerry Sheen a courtesy reply regarding Shane and ODIN. **[ASK] — no matching thread found in this Gmail account; check spelling or other inboxes.**
 
 ### Personal items, 10 Sept
