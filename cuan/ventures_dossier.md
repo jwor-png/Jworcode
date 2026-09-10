@@ -2270,6 +2270,39 @@ Barber UK Ltd** is the confirmed legal entity name for Johnny's side of
 the business — worth using this exact name in any future document
 referencing him.
 
+### Johnny's review of the John Jones document, 10 Sept 2026 — approved
+### with two changes
+
+Johnny reviewed the document overnight ("Morning, all looks good") and
+gave two specific edits, both actioned and resent to John:
+1. **Add John Jones as a second Industry Advocate, alongside Anthony
+   Laban.** Full credits given: **Anthony Laban — The Noble Barber
+   podcast**; **John Jones — Offcut Barbers, London**. Both now listed
+   together in the Team table and the traction bullets. **Worth
+   flagging directly: this document is intended to go TO John Jones
+   himself** (per the sequencing rule above) — Johnny including him as
+   a named advocate *within* his own introductory document is
+   unusual and worth John confirming this is deliberate (e.g. JJ has
+   already agreed to be positioned this way) before it's sent, rather
+   than an oversight.
+2. **Soften the barber-recruitment traction language.** Johnny said
+   "2 more under way" reads weak — the actual position is heavier
+   interest than that ("we have a lot of interest and even a couple
+   more last night"), so the wording was changed to "several/multiple"
+   barbers with letters of intent in progress, explicitly flagging
+   heavy, ongoing trade interest rather than a specific small count.
+
+**Separately, from the wider BarberRepublic WhatsApp group (Johnny +
+Shane McCarthy, this week):** Shane confirms he's "full swing on
+build" and enjoyed designing the architecture; a barber-recruitment
+Instagram post (BarberHero_uk, "an empty chair shouldn't mean lost
+income") was shared as evidence the wider market has the same problem
+Barber Republic is built to solve — Johnny's own read: "it shows again
+what the market is thinking," and John's reply in that thread: "The
+message through the industry is that it has a big problem that needs
+solving." Consistent with, not contradicting, everything already
+logged on market timing/pain point.
+
 ---
 
 ## Kilmallock Economic Enterprise Development Ltd (KEDL) / JJ Craft Brewing — new, 9 Sept 2026
