@@ -2278,13 +2278,13 @@ gave two specific edits, both actioned and resent to John:
 1. **Add John Jones as a second Industry Advocate, alongside Anthony
    Laban.** Full credits given: **Anthony Laban — The Noble Barber
    podcast**; **John Jones — Offcut Barbers, London**. Both now listed
-   together in the Team table and the traction bullets. **Worth
-   flagging directly: this document is intended to go TO John Jones
-   himself** (per the sequencing rule above) — Johnny including him as
-   a named advocate *within* his own introductory document is
-   unusual and worth John confirming this is deliberate (e.g. JJ has
-   already agreed to be positioned this way) before it's sent, rather
-   than an oversight.
+   together in the Team table and the traction bullets. **Resolved,
+   10 Sept:** confirmed deliberate, not an oversight — **John Jones
+   himself wants to send this document on to others** (his own
+   contacts, consistent with his original London-trip request for a
+   pack to share — see the "London trip, 3 Sept 2026" entry above), so
+   being named as an advocate within the document he's also
+   circulating is the intended positioning, not a mistake.
 2. **Soften the barber-recruitment traction language.** Johnny said
    "2 more under way" reads weak — the actual position is heavier
    interest than that ("we have a lot of interest and even a couple
