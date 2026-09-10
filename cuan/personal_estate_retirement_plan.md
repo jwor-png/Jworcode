@@ -152,6 +152,69 @@ answers/decisions.
   enjoy retirement) but not yet a *figure* — worth putting a number on
   it once Track 2's revenue picture is clearer.
 
+### 3.7 — Delaying retirement itself as a lever (Sinéad Ryan, Irish
+### Independent Indo Money, shared 10 Sept 2026)
+John shared this article specifically because it agrees with and
+reinforces the age-66 planning already underway here. Key facts,
+relevant directly to his own position:
+- **Context:** over-65s are Ireland's fastest-growing workforce
+  demographic (CSO) — seniors still working up nearly a third since
+  2022; those 55+ now account for one in five workers. No legal
+  mandatory retirement age for PAYE or self-employed workers — 65 is
+  the norm, but employment contracts govern the actual date, and since
+  **9 June 2026** the Employment (Contractual Retirement Ages) Act
+  2025 gives eligible employees a new right to request working to the
+  State Pension age (66) where their contract sets a lower one.
+- **Deferring the State Pension (Contributory)** — currently €299.30/
+  week if taken at 66. Deferring to 67 raises it to €313.40/week; to
+  age 70 (the maximum), an extra €733.20/year. **Counterpoint flagged
+  by Brendan Costello (Talk Financial):** "I see no financial benefit
+  in deferring the state pension. You need to live well into your 80s
+  just to break even" — and continuing to work while drawing it can
+  push someone into a higher tax bracket, since **all income is
+  assessed for tax regardless of source** (a common myth is that
+  pension income is tax-free — it isn't, it's simply that most
+  pensioners don't earn enough to be charged).
+- **Deferring an occupational/workplace pension** — Bryan Harvey
+  (WealthPlan): a **Defined Benefit (DB)** scheme will not normally be
+  backdated if not activated on the normal retirement date — real risk
+  of losing months of payments. A **Defined Contribution (DC)** pension
+  is just a pot of money — deferring lets the fund value rise or fall
+  further, "benefiting or hurting your final values." Some employers
+  allow continued contributions past 65 if scheme rules permit.
+- **Ramping up AVCs (Additional Voluntary Contributions)** while still
+  working — tax relief at marginal rate, so every €600 contributed by
+  a higher-rate taxpayer effectively becomes €1,000. Age-banded
+  contribution limits (Revenue): a 50-year-old can invest up to 30% of
+  income; **age 60+ can invest up to 40%** of income into a pension
+  (John's own bracket now) — "the surest way to add extra into your
+  pot and give yourself maximum choices at retirement age and beyond."
+  Salary cap for relief purposes: €115,000/year (matches the figure
+  already logged in `market_intel_farmers_journal_batch_sept2026.md`).
+- **"Supercharge your PRSI"** — the State Pension (Contributory) is
+  PRSI-linked; need 520 contributions (10 years) minimum, more for the
+  maximum rate. Gaps (working abroad, career breaks, illness) can be
+  made up with **voluntary PRSI contributions** if applied for within
+  5 years of your last full contribution year — contact the
+  Department of Social Protection's Voluntary Contribution Section
+  (0818 690 690, mywelfare.ie) to find the applicable rate/class.
+- **Tax reality check:** over-65s can earn €18,000/year (€36,000 for a
+  couple) from all sources before being taxed — but working past 66
+  while drawing the State Pension adds that pension income to the
+  total, so the whole amount becomes taxable once the threshold is
+  crossed. Deferring part of that income until fully retired may help,
+  "but only with independent financial advice."
+
+**Why John flagged it:** direct validation of the master-plan approach
+already under way here — actively planning finances now (Track 2:
+drive revenue; Track 3: estate/tax planning) rather than treating 66
+as a fixed cliff-edge date. Reinforces that the AVC/pension
+contribution decision (§3.6 above) is time-sensitive and worth
+sizing properly with a financial adviser given the 40%-of-income
+tax-free ceiling now available to him at his age, and that any
+"work past 66" scenario needs the same independent-advice check this
+article recommends before assuming it's automatically a good move.
+
 ---
 
 ## What "done" looks like for this plan
