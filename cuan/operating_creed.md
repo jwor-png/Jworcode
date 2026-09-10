@@ -837,6 +837,21 @@ are flagged for confirmation, never guessed.
   time" discipline above and the retirement/new-career planning thread
   in `master_plan.md` as part of John's own life-balance picture, not
   a venture or business matter.
+- **National Ploughing Championships 2027 — aspiration logged, 10 Sept
+  2026.** John saw the Irish Farmers Journal's "Ploughing 2026"
+  supplement (National Ploughing Championships, Tullamore, Co Offaly,
+  15-17 Sept 2026) and wants to plan to attend **next year (2027)**
+  for a day. Forward-looking personal item, no date fixed yet —
+  worth a reminder closer to when 2027 dates are announced. **Possible
+  secondary angle, not yet raised by John, flagged for consideration
+  only:** given the agribusiness sector-lens material already logged
+  for Meridian (`market_intel_dairy_farmer_investment_sept2026.md`,
+  `market_intel_farming_estate_dispute_sept2026.md`,
+  `market_intel_farmers_journal_batch_sept2026.md`) and his own AI-agri
+  advisory idea, the Ploughing Championships could double as a
+  networking opportunity if he wants — but this is Cuan's own
+  observation, not something John has said, and shouldn't be assumed
+  into the plan without him raising it.
 - **16 September — two fixed diary items, logged 2 Sept (no calendar
   integration exists yet, this is text-only — see the connector gap
   already flagged in `shane-brief-mcp-fix.md`):**
