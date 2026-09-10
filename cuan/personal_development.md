@@ -367,3 +367,6 @@ at in his own time, not a task with a deadline.
   tiering, and the retirement/new-career planning all being about
   actively designing the life he wants rather than defaulting into
   whatever's loudest that day.
+- **10 Sept — Nelson Mandela/Snámhaí Sásta:** "May your choices reflect
+  your hopes, not your fears." John flagged this for his own personal
+  development.
