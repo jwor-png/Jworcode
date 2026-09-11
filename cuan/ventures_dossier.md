@@ -994,21 +994,23 @@ Shane conversation and the reply to Mark.
 ### Kevin Carr — Intelligence Concierge / personal orchestration
 ### prospect, update 11 Sept 2026
 
-**Kevin Carr** — likely **Carr Communications** (a well-established
-Irish communications/PR firm) — **[ASK] full name of the firm not
-confirmed, flagged rather than assumed from the phonetic "car
-communications" John gave].** Aged 50. Strong in the **crisis/reputation
-protection space for financial houses**, with strong industry contacts.
+**Kevin Carr** — his own business is in **communications** —
+**confirmed by John, 11 Sept: NOT the established Irish firm Carr
+Communications**, a different, unrelated business that happens to
+share the same word. **[ASK] actual business/company name still not
+established — only that it's a communications business.** Aged 50.
+Strong in the **crisis/reputation protection space for financial
+houses**, with strong industry contacts.
 **Andrew Sharkey** (already logged in `people_map.md`) has known Kevin
 for **20 years** and is the connecting relationship/gatekeeper — same
 Andrew already logged for the Childen working group and the Barber
 Republic investor-group thread.
 
-**Personal context, per John:** someone close to Kevin — **[ASK — not
-established who; John's own dictation was unclear, possibly a parent —
-not to be assumed]** — has died recently, and Kevin is currently making
-funeral arrangements. Logged for context/sensitivity only, not a
-business matter.
+**Personal context, per John, confirmed 11 Sept:** **Kevin's father**
+has died recently, and Kevin is currently making the funeral
+arrangements. Logged for context/sensitivity only, not a business
+matter — worth bearing in mind re: timing/tone of any approach to
+Kevin in the near term.
 
 **The proposal:** the earlier plan (already logged in
 `operating_creed.md`, late July) was for Shane to build Kevin a
