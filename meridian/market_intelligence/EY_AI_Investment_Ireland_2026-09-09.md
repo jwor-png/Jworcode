@@ -106,3 +106,21 @@ It also carries an implication worth sitting with. If Ireland's opportunity is t
 ---
 
 *Meridian Intelligence · Market intelligence capture · 9 September 2026 · Private and confidential. All content above is as published by the named author on the date stated and is REPORTED and attributed, not independently verified. The author is a partner in a firm that sells advisory services into this market, and the column is opinion. Commercial read is Meridian's own analysis and is separated from the reported content.*
+
+---
+
+## CORRECTION AND SOURCING NOTE — 11 SEPTEMBER 2026
+
+A parallel Cuan session (Sonnet, branch `claude/trusting-volta-8gtmab`) logged the same clipping as `cuan/market_intel_ai_investment_ireland_ey_sept2026.md` and marked it **VERIFIED**. Three corrections.
+
+**1. The publication is not established.** That session stated in chat that the clipping came from "the Financial Times / Business Post". **No masthead is visible in the photograph.** The page shows the column, the byline, and an adjacent unrelated Irish property or tourism story. The publication is therefore **UNVERIFIED** and must not be named in any output. Its own file correctly recorded only "Opinion/Business"; the publication claim was made in conversation and not on the file.
+
+**2. Reading the clipping does not make the contents VERIFIED.** Reading the primary artefact establishes **that Grit Young wrote these words**. It does not establish that the claims inside are true. The correct position is:
+
+- **VERIFIED:** authorship and title. Grit Young, EY Ireland Partner and TMT Leader, wrote this column. Confirmed from the byline in the photographed clipping, and it closes the 7 August spelling query.
+- **REPORTED:** every substantive assertion in the column, including the $2.9tn / €2.5tn figure, the strategic-asset framing, and the Ireland capability list. These are the opinions of a partner in a firm that sells advisory services into this market.
+- **UNVERIFIED:** the publication, the publication date, and the $2.9tn figure's underlying source.
+
+**3. The file is stranded.** It sits on a session branch rather than on the home branch, contrary to the standing persistence rule. It is not lost, and this note records where it is.
+
+**Why this matters beyond housekeeping.** Meridian sells verification discipline. A capture marked VERIFIED on the strength of having read a photograph, carrying a publication name nobody could see, is exactly the failure the discipline exists to prevent, and it happened inside our own house. Recorded openly rather than corrected silently.
