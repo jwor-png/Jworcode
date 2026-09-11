@@ -71,11 +71,14 @@ substance, not small print:
 - **Fail-closed near legal/financial/regulatory lines** — timeliness
   never overrides caution.
 
+**[VERIFIED — read directly from the original clipping, not secondhand]**
 Recently, an independent EY Ireland opinion piece (Grit Young, EY
-Partner/TMT Leader) argued Ireland's highest-value AI opportunity isn't
-hosting data centres — it's **expertise in capital allocation, risk
-management, regulation and governance**. That's an external, credible
-validation of exactly what Meridian is positioned to be, worth having
+Partner/TMT Leader; full detail logged in
+`market_intel_ai_investment_ireland_ey_sept2026.md`) argued Ireland's
+highest-value AI opportunity isn't hosting data centres — it's
+**expertise in capital allocation, risk management, regulation and
+governance**. That's an external, credible validation of exactly what
+Meridian is positioned to be, worth having
 in mind for messaging (not necessarily quoted directly on-site).
 
 ---
