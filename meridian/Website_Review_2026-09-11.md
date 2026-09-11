@@ -1,12 +1,20 @@
 # WEBSITE REVIEW — meridianintelligence.ie
 
-*11 September 2026. Reviewed from screenshots supplied by John. Partial: five screens seen, more to follow. Status: IN REVIEW.*
+*11 September 2026. Reviewed from nine screenshots supplied by John. Review now complete for the pages supplied. Status: IN REVIEW.*
 
-**Recommendation: do not promote the site on LinkedIn until items 1 and 2 are fixed.** Both are ten-minute jobs.
+**Recommendation: do not promote the site on LinkedIn until items 0, 1 and 2 are fixed, and item 4 is settled with Shane.**
 
 ---
 
 ## STOP ITEMS
+
+### 0. The browser is flagging the site as not secure
+
+The homepage screenshot shows a **red warning icon in the address bar**. On other screens it shows the information icon. Both indicate the connection is not being served over a valid certificate.
+
+**On any site this is bad. On this one it is worse than bad.** The entire proposition is verification, grounding and trust. A visitor arriving from LinkedIn meets a browser warning before they read a word, and a share of them will never get to the Governance Floor page at all.
+
+**Fix: confirm HTTPS is enabled with a valid certificate and that every page redirects to the https address.** Most hosting platforms provide this free and it takes minutes. **Do not drive traffic to the site until the warning is gone.** This cannot be verified from here because the domain is blocked by the network proxy, so check it in a browser directly.
 
 ### 1. An internal instruction is published on the live site
 
@@ -49,7 +57,25 @@ The block currently reads as UNVERIFIED external commentary with no source. As o
 
 ---
 
-## 4. TWO GOVERNANCE POINTS THAT ARE NOT WEBSITE FAULTS
+## 4. THE AMBRION COLLISION IS NOW PUBLIC, AND IT NEEDS SHANE BEFORE THE SITE IS PROMOTED
+
+Domain 05, AI Strategy and Adoption, is published as:
+
+> "**EU AI Act compliance**, AI governance frameworks, adoption roadmaps, **the Meridian Partners programme**, **the Golden Generation toolkit**."
+
+Three problems, in order of seriousness.
+
+**EU AI Act compliance is Ambrion's product.** Ambrion exists to sell AI Act compliance and has been running a campaign on it since 2 August. Meridian's website now sells the same thing under a different brand owned by the same person. **In front of the same Irish mid-market buyer, that is one person selling AI Act compliance twice.** The brand boundary work in August moved exactly this kind of offering to Ambrion; the website has put it back.
+
+**The Meridian Partners programme and the Golden Generation toolkit are named as live offerings.** Both need to be confirmed as Meridian's rather than Ambrion's, and confirmed as actually existing in a form a buyer could purchase. A named programme on a website is a representation.
+
+**"Current engagements include AI adoption work in the agribusiness and farming sector."** This is a claim about live client work. It is non-identifying, which is right, but it must be accurate and the client should be content for the sector to be named.
+
+**Recommendation.** Either remove EU AI Act compliance from Meridian's domain list and let Ambrion own it, or state the split explicitly so a reader can see which brand does what. **This is not a decision Meridian takes alone.** It requires Shane's alignment under the standing rule, and it should be settled before the site is promoted rather than after a client asks why two of John's companies sell the same service.
+
+---
+
+## 5. TWO GOVERNANCE POINTS THAT ARE NOT WEBSITE FAULTS
 
 ### Shane is named publicly as partner
 
@@ -69,7 +95,26 @@ Both are accurate and there is nothing wrong with stating them. But the site now
 
 ---
 
-## 5. SMALLER OBSERVATIONS
+## 6. ONE CLAIM THAT WILL BE TESTED
+
+> "A single engagement reaches **the full breadth of a top-tier advisory practice**, personally accountable to one adviser."
+
+The second half is true and it is the strongest thing Meridian can say. The first half is a comparative claim against named competitors who are not named, and it is the one sentence on the site that a sceptical reader or a competitor will go after. It also sits awkwardly beside the grounding rule, because it is precisely the kind of assertion Meridian would tag if a client made it.
+
+**Suggested rewrite:** "A single engagement reaches across all seven domains at once, personally accountable to one adviser." Same claim, fully defensible, and it loses nothing.
+
+---
+
+## 7. WHAT IS GENUINELY GOOD, AND SHOULD NOT BE CHANGED
+
+- **The homepage boundary statement is excellent.** *"Meridian never signs, files, or acts on a client's behalf: that always goes to the appropriate qualified professional."* That is the clearest statement of the boundary anywhere in the material, better than the internal wording, and it fully supports the drafted LinkedIn post.
+- **Domain 07 carries the frontier caveat in public.** *"Not established fact: Meridian's own professional judgement, offered as such."* Publishing that against your own most speculative domain is the single most credible thing on the site.
+- **"How Meridian Works" is clean.** Brief, route and verify, John directs and you decide. Three steps, no jargon, and step three names the human gate.
+- **"Brief John a Challenge"** is a better call to action than "contact us", because it describes the transaction.
+
+---
+
+## 8. SMALLER OBSERVATIONS
 
 - **The footer line is right.** "Meridian informs; it does not represent" plus "Meridian does not provide legal, tax or investment advice" is the correct pairing and matches the engine.
 - **The Governance Floor page is the best thing on the site.** Grounding rule, independent check, confidence tagging, status labelling and fail-closed, laid out plainly. No competitor publishes this. Once items 1 and 2 are fixed it is the page to send people to.
@@ -78,11 +123,19 @@ Both are accurate and there is nothing wrong with stating them. But the site now
 
 ---
 
-## 6. WHAT THIS MEANS FOR THE LAUNCH POST
+## 9. WHAT THIS MEANS FOR THE LAUNCH POST
 
 The drafted post says the site states what Meridian will not do. **That is true and the Governance Floor page carries it well.** The post can go out as written, but only after items 1 and 2 are corrected, because the post drives traffic directly at the page where both faults appear.
 
-**Sequence: fix the two placeholders, upgrade or remove the EY block, confirm Shane has seen the partner line, make the United Hardware disclosure, then post.**
+**Sequence before posting:**
+1. Fix the certificate so the browser warning is gone.
+2. Delete the do-not-publish line and the engagement count placeholder.
+3. Upgrade or remove the EY block.
+4. Settle the AI Act boundary with Shane, and confirm he has seen the partner line.
+5. Make the United Hardware disclosure.
+6. Then post.
+
+Items 1 and 2 are yours alone and take minutes. Item 4 is the one that needs somebody else and should be raised tonight.
 
 ---
 
