@@ -2352,6 +2352,67 @@ message through the industry is that it has a big problem that needs
 solving." Consistent with, not contradicting, everything already
 logged on market timing/pain point.
 
+### Johnny's strategic thinking — grey-economy risk and a kiosk
+### opportunity, 11 Sept 2026
+
+From the same WhatsApp group, Johnny raised what he called "the main
+question people are going to ask":
+
+**The risk he named:** how does Barber Republic keep barbers using the
+app rather than falling back into the grey economy — i.e. what stops a
+barber and a shop simply agreeing a booking directly, off-platform,
+once they've been introduced through the app once? (This is the
+"disintermediation" risk already flagged in the WhatsApp pricing
+exchange logged earlier — Johnny naming it independently reinforces
+that it's a real, recognised concern, not just something raised in
+review.)
+
+**His proposed opportunity, in response — kiosk placements:** in time,
+Barber Republic could place barbers into **kiosk locations — hotels,
+clubs, and similar venues** (referencing Google/Amazon-style kiosk
+concepts as the model). Structure as sketched by Johnny:
+- Barbers keep most of the day's revenue earned at a kiosk, **minus a
+  platform take of ~25% of the day's revenue** (materially higher than
+  the standard 10/18/22% commission tiers already agreed, reflecting
+  the higher-value/more curated placement).
+- **Access is gated**: only "5-star super pro" barbers with a proven
+  track record qualify to work these kiosk placements.
+- Barbers who want access to this tier would **also pay a monthly
+  subscription** on top of the per-day take — a second revenue line
+  specific to this premium tier, separate from the core platform
+  economics already logged.
+- Johnny flagged this as "loose for now," not a finished model.
+
+**A named real contact behind this idea: Emlyn Brown** — a long-time
+customer of Johnny's and **Head of Leisure for the Accor group
+worldwide** (the international hotel group). Emlyn approached Johnny
+years ago about placing a barbershop in one of Accor's London hotels;
+Johnny declined at the time because he couldn't staff it. With Barber
+Republic's matching model now in build, that same opportunity becomes
+addressable — worth revisiting with Emlyn once the platform is live.
+
+**Shane's reaction:** "very interesting... as a distribution model or
+partnership model" — said he'd respond properly within a few hours,
+after a scheduled 2-hour Barber Republic build session at 11:30. No
+further response visible in the screenshots shared.
+
+**Competitor awareness, same thread:** Johnny separately flagged
+**Trim** (trimworldwide.co.uk — "book barbers across the UK," free
+customer app for iOS/Android), spotted via an Instagram ad, as another
+player in the space. His own assessment: **"nobody will take this
+seriously, despite what it says on the website, it was built from
+outside the industry"** — i.e. he doesn't see it as a credible
+competitive threat, but flags it as a second piece of evidence (after
+the earlier BarberHero_uk post) that the market is actively producing
+solutions to this exact problem, reinforcing timing rather than
+undermining Barber Republic's positioning.
+
+**Status:** all of the above is early strategic thinking shared in the
+founder WhatsApp group, not a decision or commitment — logged for
+completeness. The kiosk/Emlyn Brown thread in particular is worth
+tracking as a distinct, real, named future opportunity once the core
+platform is live, separate from the founding-cohort pilot itself.
+
 ---
 
 ## Kilmallock Economic Enterprise Development Ltd (KEDL) / JJ Craft Brewing — new, 9 Sept 2026
