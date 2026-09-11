@@ -248,7 +248,9 @@
 ### Andrew Sharkey
 - **Role:** Recurring contact across multiple threads, no single entry
   until now despite appearing repeatedly. Described as a mutual friend
-  and mentor to Kevin Carr (`operating_creed.md`).
+  and mentor to Kevin Carr (`operating_creed.md`), whom he has known
+  for **20 years** — full detail on Kevin now in `ventures_dossier.md`
+  (Intelligence Concierge / personal orchestration prospects section).
 - **Threads he appears in:** (1) Kevin Carr proposal — Shane sent it to
   Andrew for review before Kevin sees it directly; (2) Barber Republic —
   his retired-investor group considered as a funding route (one £50k

@@ -991,6 +991,53 @@ established beyond "good US contact"); what specifically he needs
 from ODIN/John and Shane on the tech side; timing for the
 Shane conversation and the reply to Mark.
 
+### Kevin Carr — Intelligence Concierge / personal orchestration
+### prospect, update 11 Sept 2026
+
+**Kevin Carr** — likely **Carr Communications** (a well-established
+Irish communications/PR firm) — **[ASK] full name of the firm not
+confirmed, flagged rather than assumed from the phonetic "car
+communications" John gave].** Aged 50. Strong in the **crisis/reputation
+protection space for financial houses**, with strong industry contacts.
+**Andrew Sharkey** (already logged in `people_map.md`) has known Kevin
+for **20 years** and is the connecting relationship/gatekeeper — same
+Andrew already logged for the Childen working group and the Barber
+Republic investor-group thread.
+
+**Personal context, per John:** someone close to Kevin — **[ASK — not
+established who; John's own dictation was unclear, possibly a parent —
+not to be assumed]** — has died recently, and Kevin is currently making
+funeral arrangements. Logged for context/sensitivity only, not a
+business matter.
+
+**The proposal:** the earlier plan (already logged in
+`operating_creed.md`, late July) was for Shane to build Kevin a
+personal orchestration (same category as Mark Finlay's, above, and the
+productised Intelligence Concierge already sold to Paul Candon), at
+**€1,000/month starting.** On today's call, **Andrew suggested Kevin
+could pay €1,000-€1,500/month starting** instead. **John's own
+condition, made clear to Andrew:** the payment needs to actually cover
+Shane's costs for Shane to even consider taking it on — **[ASK — one
+phrase in John's dictation was unclear here ("gonna distribute the
+payment for the cost to be covered if China's even to consider it")
+— read as "for Shane to even consider it," not confirmed word for
+word].**
+
+**Kevin's own stated plan:** wants to retire within the next 5 years,
+then become a personal consultant/advisor to the companies he
+currently works with, in a management/advisory capacity.
+
+**Next step, per John's own suggestion to Andrew:** when John travels
+to London in the coming weeks with **Johnny Shanahan** (the Barber
+Republic pilot trip), arrange to also meet **Kevin Carr and Andrew
+Sharkey** in London while there — combining the two trips rather than
+a separate visit.
+
+**Status:** live relationship-development conversation, nothing
+committed. Cross-reference `people_map.md` (Andrew Sharkey entry) and
+`operating_creed.md` (Kevin Carr proposal, late July) for prior
+detail.
+
 ---
 
 ## United Hardware Limited (UHL)
