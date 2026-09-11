@@ -166,3 +166,64 @@ In order.
 ---
 
 *Meridian Intelligence · Domain response · 11 September 2026 · Private and confidential. Status IN REVIEW, mandatory human gate engaged on Legal and Governance and on Finance. Prepared in response to Jürgen's concept paper of the same date, whose factual content is REPORTED and attributed. Irish and EU legal references are general and are not legal advice. Meridian informs. It never represents. A qualified solicitor is required before incorporation, any data protection design, or any liability structure.*
+
+
+---
+
+# ADDENDUM — WHERE THIS SITS, AND THE INSURER ROUTE
+
+*Added 11 September 2026 in answer to John's two questions: where does this sit within what he and Shane do together, and is selling the undeveloped technology to an insurer the way forward.*
+
+## A. WHERE IT SITS: NOT AS A SEVENTH BRAND
+
+Count what already exists between John and Shane: **Meridian, Ambrion, Velocity, EOLAS, Asterial and ODIN, and Tairseach.** The boundary conversation flagged on 7 August, when EOLAS made it four-way, **has still not been held.** Ambrion and Meridian are, as of this week, both selling EU AI Act compliance on public websites.
+
+**Adding a seventh vehicle to an unresolved six is the wrong move, and it would be the wrong move even if the idea were perfect.**
+
+Three viable homes, in order of preference.
+
+**1. A capability inside Meridian, now.** The likeness and synthetic media advisory is Meridian work today. It uses the existing domains, needs no capital, no partner and no new company, and it is sellable this quarter against the December 2026 date. **This is the recommended home and it requires nothing from anybody.**
+
+**2. A venture, but only after two gates pass.** Insurability, and a named buyer who will pay. Until both clear, incorporating is premature and it creates a governance object with an ownership question attached, which is the last thing this portfolio needs.
+
+**3. Inside Asterial.** Possible, and it may not be optional. If the Asterial term sheet carries field-of-use or IP assignment language, this may already belong there whether anyone intends it or not. **That has to be read before a choice is made.**
+
+**What it is not:** a new company started this month. Not while a €20m raise is live, the group boundary is unsettled, and Meridian has no signed client.
+
+## B. THE INSURER ROUTE: RIGHT INSTINCT, WRONG TRANSACTION
+
+**Insurers do not buy undeveloped technology.** They buy or fund things that let them write business they cannot currently write, or reduce claims on business they already have. A concept without a product, a licence or a book has nothing for an insurer to acquire.
+
+**But the underlying instinct is correct, because insurers have four other reasons to engage, and all four are better than a sale.**
+
+**1. Anchor customer or design partner.** The strongest opening. An insurer says what it would need in order to rely on an attestation. That defines the product, and it is free.
+
+**2. Underwriter.** Somebody has to insure the reliance liability. That is the gating item identified above. An insurer conversation is required for the venture to exist at all, so it happens anyway.
+
+**3. Corporate venture investment.** Several large insurers run venture arms. That is a funding route, not a sale, and it comes later.
+
+**4. And the one that is genuinely commercial.** The product an insurer actually wants here is **not the registry. It is the underwriting data.** Synthetic media and likeness misuse is a liability line insurers cannot price today because there is no loss history and no way to assess whether an insured holds valid consent. **A verified attestation layer is a risk-selection tool: it tells an underwriter which insureds can prove consent and which cannot.** That is a reason for an insurer to fund it, not merely to buy it.
+
+**That reframing should lead the conversation.** Not "we have built a registry for the deceased". Rather: "you are being asked to write synthetic media liability and you have no way to price it. Here is how you would."
+
+## C. ON AVIVA SPECIFICALLY
+
+**Use the relationship, but know what it is.** Aviva is a strong door and a serious name, and a warm introduction is worth more than ten cold approaches. **It is also predominantly a general and life insurer.** The people who write media, entertainment, technology errors and omissions and emerging liability lines sit mostly in the specialty market: Lloyd's syndicates and carriers such as Beazley, Hiscox, CFC, Chubb and Tokio Marine Kiln, and with the specialty brokers who place that business.
+
+**Practical sequence.**
+
+1. **Use the Aviva contact for the market read, not the pitch.** Ask what it would take for an underwriter to rely on a consent attestation, and who in the market is looking at synthetic media liability. That is a generous, low-cost question and people answer it.
+2. **Go to a specialty broker second.** A broker sees the whole market, knows who is writing what, and can tell you in one meeting whether this risk is placeable and roughly at what cost. **This is the cheapest and fastest of the two gates and should happen first in practice.**
+3. **Only then approach a carrier with a proposition.**
+
+## D. THE HONEST SUMMARY
+
+**The idea is good. The category is real. The timing on the advisory is now.** The venture is a two-gate proposition and neither gate has been tested, and both can be tested in a fortnight for the price of two conversations.
+
+**What would make this go wrong is not the idea. It is starting a seventh vehicle with an unstated ownership position during a live raise, inside a group whose brand boundaries are already colliding in public.**
+
+**So: sell the advisory under Meridian now. Run the two gates in parallel. Settle ownership in the first conversation with Shane, before anything else is discussed. Then decide.**
+
+---
+
+*Addendum · Meridian Intelligence · 11 September 2026 · Private and confidential. Status IN REVIEW. Insurance market observations are Meridian's own commercial judgement and are not a placement recommendation; a qualified broker is required. Meridian informs. It never represents.*
