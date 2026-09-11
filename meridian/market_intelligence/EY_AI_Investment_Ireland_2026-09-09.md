@@ -113,14 +113,38 @@ It also carries an implication worth sitting with. If Ireland's opportunity is t
 
 A parallel Cuan session (Sonnet, branch `claude/trusting-volta-8gtmab`) logged the same clipping as `cuan/market_intel_ai_investment_ireland_ey_sept2026.md` and marked it **VERIFIED**. Three corrections.
 
-**1. The publication is not established.** That session stated in chat that the clipping came from "the Financial Times / Business Post". **No masthead is visible in the photograph.** The page shows the column, the byline, and an adjacent unrelated Irish property or tourism story. The publication is therefore **UNVERIFIED** and must not be named in any output. Its own file correctly recorded only "Opinion/Business"; the publication claim was made in conversation and not on the file.
+**1. The publication, resolved 11 September.** No masthead is visible in the photograph, so it could not be read off the image. **John, who took the photograph, confirms with certainty that it is the Financial Times.** That is direct testimony from the person who made the capture and it is the best evidence available. Recorded as **the Financial Times, attributed to John as the capturing witness**. To move to fully VERIFIED requires the masthead, the page and the publication date, or the article located online. The earlier parallel-session statement pairing it with "Business Post" was an assertion beyond what anyone had checked, and that pairing is withdrawn.
 
 **2. Reading the clipping does not make the contents VERIFIED.** Reading the primary artefact establishes **that Grit Young wrote these words**. It does not establish that the claims inside are true. The correct position is:
 
 - **VERIFIED:** authorship and title. Grit Young, EY Ireland Partner and TMT Leader, wrote this column. Confirmed from the byline in the photographed clipping, and it closes the 7 August spelling query.
 - **REPORTED:** every substantive assertion in the column, including the $2.9tn / €2.5tn figure, the strategic-asset framing, and the Ireland capability list. These are the opinions of a partner in a firm that sells advisory services into this market.
-- **UNVERIFIED:** the publication, the publication date, and the $2.9tn figure's underlying source.
+- **ATTRIBUTED TO JOHN:** the publication, the Financial Times, on the testimony of the person who photographed it.
+- **UNVERIFIED:** the publication date, the page reference, and the $2.9tn figure's underlying source.
 
 **3. The file is stranded.** It sits on a session branch rather than on the home branch, contrary to the standing persistence rule. It is not lost, and this note records where it is.
 
 **Why this matters beyond housekeeping.** Meridian sells verification discipline. A capture marked VERIFIED on the strength of having read a photograph, carrying a publication name nobody could see, is exactly the failure the discipline exists to prevent, and it happened inside our own house. Recorded openly rather than corrected silently.
+
+## INDEPENDENT CORROBORATION OF THE AUTHOR AND THE ARGUMENT — 11 September 2026
+
+Open-source check run against EY Ireland's own published material.
+
+- **Author confirmed independently of the clipping.** EY Ireland's own site lists **Grit Young as EY-Parthenon Partner and EY Ireland Technology, Media and Entertainment and Telecommunications Industry Leader**, in post since 2024, a chartered accountant specialising in valuations and mergers and acquisitions. Source: ey.com/en_ie/people/grit-young.
+- **The Ireland argument is not a one-off.** In EY Ireland newsroom material she argues that long-term success will belong to countries that develop **the skills, talent, governance, financing expertise and trusted institutions** needed to make AI work for society and the economy, and that Ireland already has or is actively building many of those capabilities. That is the same thesis as the column, published separately by EY.
+
+**Effect.** The author's identity and standing are now VERIFIED against a primary source that is not the clipping. The substance of the argument is corroborated as her consistent published position rather than a single newspaper opinion. The column's own specific claims remain REPORTED opinion.
+
+**Note for use.** The EY newsroom phrasing is arguably stronger for Meridian than the column, because it names **governance and financing expertise and trusted institutions** as the national capability, and it is quotable from EY's own website rather than from a photographed clipping.
+
+---
+
+## CAPTURE STANDARD FOR NEWSPAPER SOURCES — adopted 11 September 2026
+
+Applies to every clipping entering the knowledge base from now on.
+
+**A capture is only fully VERIFIED when three things are held:** the **masthead**, the **date**, and the **page or section**. A photograph of the column alone verifies authorship and wording, nothing more.
+
+**Practical rule when photographing:** one extra shot of the masthead and date line, or the front page of that day's edition, converts an attributed capture into a verified one and takes two seconds.
+
+**Where only the column is captured:** grade authorship VERIFIED, the contents REPORTED, and the publication either UNVERIFIED or ATTRIBUTED to the person who took the photograph. Never assert a masthead nobody has seen.
