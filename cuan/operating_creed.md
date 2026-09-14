@@ -851,14 +851,32 @@ are flagged for confirmation, never guessed.
   `market_intel_farmers_journal_batch_sept2026.md`). Worth thinking
   ahead of the day about who/what to specifically look for once dates
   are set — not planned in detail yet.
-- **16 September — two fixed diary items, logged 2 Sept (no calendar
+- **16 September — diary items, logged 2 Sept (no calendar
   integration exists yet, this is text-only — see the connector gap
   already flagged in `shane-brief-mcp-fix.md`):**
-  1. **09:45** — bloods taken, Blossom Medical Centre, the Primary Care
-     Centre in Kilmallock.
+  1. ~~**09:45** — bloods taken, Blossom Medical Centre~~ — **RESCHEDULED,
+     confirmed 14 Sept: bloods appointment moved from this Wednesday
+     (16 Sept) to Wednesday 7 October 2026 at 9.30am**, Blossom Medical
+     Centre, the Primary Care Centre in Kilmallock.
   2. **12:36** — golf, Ballybunion Golf Club. Guests of Nicholas Hayes
      (a life member) — Nicholas, John, Owen, and likely a fourth: Ethan
      Ramsay [ASK — surname spelling Ramsay vs Ramsey unconfirmed].
+- **Cardiologist referral letter — follow-up needed, 14 Sept 2026.**
+  John wants to ask about the status of his referral letter for his
+  new Limerick-based cardiologist, **Dr Ali Aldujeli** (Bon Secours
+  Hospital Limerick, transferring from Dr Conor O'Shea). Per Gmail
+  (thread "Personal," May 2026): Dr Ali's office (Alison Higgins,
+  medical secretary) confirmed insurance requires a GP referral, not
+  self-referral. On 18 May 2026, John forwarded the full exchange to
+  **Dr Sonya Ryan at Blossom Medical Centre** (reception@blossomgate.ie,
+  his GP, Kilmallock), asking her to email Dr Ali's office a referral
+  letter that week. **No confirmation of that referral letter having
+  been sent is visible anywhere in this Gmail account since 18 May** —
+  nearly four months with no follow-up on file. Worth asking Blossom
+  Medical Centre directly (can raise at the same time as the
+  rescheduled 7 Oct bloods appointment, or sooner if John wants it
+  chased now) whether that letter was ever actually sent to Dr Ali's
+  office at Bon Secours Limerick.
 - **Family travel (dictated 21 August, Friday)** — travelling after lunch to
   drop mother-in-law Helen to her daughter Shirley in Mallow. Wife Majella
   travelling too.
