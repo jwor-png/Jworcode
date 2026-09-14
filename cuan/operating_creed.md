@@ -870,13 +870,14 @@ are flagged for confirmation, never guessed.
   self-referral. On 18 May 2026, John forwarded the full exchange to
   **Dr Sonya Ryan at Blossom Medical Centre** (reception@blossomgate.ie,
   his GP, Kilmallock), asking her to email Dr Ali's office a referral
-  letter that week. **No confirmation of that referral letter having
-  been sent is visible anywhere in this Gmail account since 18 May** —
-  nearly four months with no follow-up on file. Worth asking Blossom
-  Medical Centre directly (can raise at the same time as the
-  rescheduled 7 Oct bloods appointment, or sooner if John wants it
-  chased now) whether that letter was ever actually sent to Dr Ali's
-  office at Bon Secours Limerick.
+  letter that week — **no confirmation of that ever being sent is
+  visible in Gmail since 18 May.** **RESOLVED, 14 Sept — this is why:**
+  per John, Blossom want his bloods taken first before Dr Sonya Ryan
+  will issue the referral letter. That explains the four-month gap —
+  it's not a dropped ball, it's sequenced behind the bloods appointment
+  now confirmed for **7 October, 9.30am**. No separate chase needed;
+  the referral letter should follow once the bloods are done and
+  reviewed.
 - **Family travel (dictated 21 August, Friday)** — travelling after lunch to
   drop mother-in-law Helen to her daughter Shirley in Mallow. Wife Majella
   travelling too.
