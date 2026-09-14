@@ -422,3 +422,27 @@ protected family time, already in `operating_creed.md`): pick 1-2 of
 the eight (the personal wellbeing audit and the daily outdoor walk are
 the two most concrete/lowest-friction to start) rather than trying to
 adopt all eight at once.
+
+## Personal health habit — Spoonful Botanical, 14 Sept 2026
+John shared an article on **Spoonful Botanical** (Louth-based wellness
+brand, founders Conor and Jayne Grimes) and confirmed **he takes a
+spoonful daily for his own health** — an existing habit, not something
+prompted by the article. Key facts from the piece, for reference:
+- Product: a fermented blend of **14 traditional herbs, spices and
+  fruits** (turmeric, ginger, black pepper, cinnamon, cayenne, among
+  others), whole raw roots dehydrated and ground in-house, fermented
+  with golden raisins for 21 days.
+- **Recently received EFSA (European Food Safety Authority) approval
+  to carry a "joint support" claim** on the label — a regulatory
+  milestone the founders describe as allowing them to publicly discuss
+  benefits customers had already been reporting for years.
+- Testing conducted with ALS Global and Fitz Scientific; findings tie
+  the product's naturally high vitamin C content to normal collagen
+  formation, bone health and cartilage health.
+- Usage: one heaped teaspoon per day, straight or mixed into
+  porridge/yoghurt — matches John's own stated daily habit.
+- Stocked in hundreds of health stores/pharmacies across Ireland, the
+  UK and Europe; production in Tullyallen, Co. Louth.
+
+Logged as a personal health note — no action required, just confirming
+an existing habit for the record.
