@@ -1,26 +1,27 @@
 𝗧𝗵𝗲 𝗽𝗮𝗿𝘁 𝗼𝗳 𝘆𝗼𝘂𝗿 𝗲𝘀𝘁𝗮𝘁𝗲 𝗻𝗼𝗯𝗼𝗱𝘆 𝗽𝗹𝗮𝗻𝘀 𝗳𝗼𝗿
-𝗪𝗵𝗼 𝗼𝘄𝗻𝘀 𝘆𝗼𝘂𝗿 𝗳𝗮𝗰𝗲 𝗮𝗻𝗱 𝘆𝗼𝘂𝗿 𝘃𝗼𝗶𝗰𝗲 𝗮𝗳𝘁𝗲𝗿 𝘆𝗼𝘂 𝗱𝗶𝗲?
 
-There was a column by Kate Durrant in Irish Country Living at the weekend asking a question I have not been able to put down. Who owns your life after you die, who owns the digital archive you left scattered across Bebo, Friends Reunited, Facebook and Instagram, and who gets to tell your story when you are no longer around to object.
+Kate Durrant asked a question in Irish Country Living at the weekend that I have not been able to put down. Who owns your life after you die, and who gets to tell your story when you are not there to object.
 
-She asked it as a human question. It is also a succession question, and it is the one part of an estate that almost nobody plans for.
+She meant it as a human question. It is also a succession question, and it is the part of an estate almost nobody plans for.
 
-Here is what makes it awkward. Most of the protections we rely on while alive are personal to us and they end when we do. Data protection generally does not apply to the deceased. You cannot defame the dead. Privacy is personal and it extinguishes. So at the precise moment a person's face and voice have become trivially easy to reproduce, the law that guarded them switches off.
+The awkward bit is this. Data protection law does not apply to the dead. The GDPR says so in terms, and the Irish Act defines personal data as relating to a living individual. So the protection most people assume they have simply stops.
 
-What is left is a patchwork. Copyright in a photograph belongs to whoever took it rather than to the person in it. Platform terms of service usually grant a personal licence that dies with the account holder, which can override what a will says. And a will that carefully disposes of the farm, the house and the shares will very often say nothing at all about the thousand photographs, the video, the voice notes and the accounts.
+What is left is patchy. Copyright in a photograph belongs to whoever pressed the shutter, not to the person in the picture. Accounts are not transferable, so what becomes of yours is decided by each platform's own settings rather than by your will, and most people have never opened them.
 
-I have spent a lot of this year writing about succession in family businesses, and the pattern is always the same. The thing that causes the trouble later is the thing nobody wrote down. This is that, in a new form.
+Meanwhile a will that deals carefully with the farm, the house and the shares will often say nothing about the thousand photographs, the voice notes and the video.
 
-Three practical questions worth asking your solicitor, or asking yourself before you next update your will.
+I have written a lot this year about succession in family businesses. The trouble always comes from the thing nobody wrote down. This is that again, in a new form.
 
-Who is to have authority over your digital accounts and your image after your death, and is that person named anywhere in writing.
+Three questions worth putting to your solicitor.
 
-What would you want permitted, and what would you refuse. A recreated voice reading a message at a memorial is a comfort to some families and a horror to others, and your view is the only one that should count.
+Who has authority over your accounts and your image after you die, and is it written down anywhere.
 
-And does anyone actually know where the material is, and how to reach it.
+What would you permit, and what would you refuse. A recreated voice at a memorial is a comfort to one family and a horror to another.
 
-None of that requires new law. It requires the same thing succession always required, which is a conversation had while everyone is still well, still talking, and still able to change their minds.
+Does anyone know where the material actually is, and how to get into it.
 
-In Ireland the Protection of Voice and Image Bill 2025 has passed Second Stage and is not yet law. Whatever happens to it, the family conversation is the part within your control today.
+None of this needs new law. It needs the conversation had while everyone is well and still able to change their minds.
 
-#Succession #EstatePlanning #DigitalLegacy #CorporateGovernance #FamilyBusiness #ArtificialIntelligence #AI #Ireland #Leadership #Law
+Sources: GDPR Recital 27. Data Protection Act 2018. Copyright and Related Rights Act 2000, section 21. The Protection of Voice and Image Bill 2025 is before the Oireachtas and is not yet law.
+
+#Succession #EstatePlanning #DigitalLegacy #FamilyBusiness #CorporateGovernance #ArtificialIntelligence #Ireland #Law
