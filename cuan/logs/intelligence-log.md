@@ -479,3 +479,37 @@ flagged as a live direction, not a commitment.
 **Ventures touched:** Meridian Intelligence.
 **Pushed to Google Drive:** No (sync not yet wired up).
 ---
+
+### [2026-09-15] [Cuan → Meridian] [VERIFIED - first-person account]
+**Domain(s):** AI Strategy & Adoption (Meridian domain 5) - agribusiness vertical
+**Summary:** Hannah Quinn-Mulligan (organic beef/dairy farmer and
+journalist), Irish Independent Farming, 15 Sept 2026: "The five farm
+jobs I save money on by using AI - it saved me €1,900 last week."
+Strong, concrete, named-author first-person AI-adoption case study -
+the single best proof point logged to date for Meridian's
+agribusiness pitch, alongside the SoilEssentials SKAi spot-sprayer
+case (Tipperary, 94-95% chemical reduction) already on file. Five
+named use cases: electricity price crunching (solar/battery
+optimisation), grass/grazing calculations (feeding field maps/acreage/
+soil type to AI for grazing-plan updates), fodder budgeting (worst-
+case winter silage/straw scenarios from ICBF stock data in ~20
+minutes), weighing-cattle analysis (breed/age breakdown via ICBF/
+AgFood data), and financial/grant planning (a fellow farmer's AI-
+assisted LEADER application secured €100,000 in funding; multiple
+CFOs reportedly now using AI premium subscriptions for financial
+projection). Author explicitly flags counterweight risks: over-
+reliance, uncertainty over where farm/business data fed into ChatGPT/
+Claude ends up, and a real worry that AI-armed objectors could weaponise
+legal-tape knowledge against forestry/farm shed planning applications -
+a genuine two-sided perspective, not pure boosterism.
+**Outputs:** Logged here; recommend folding into the same agribusiness
+evidence base as the SoilEssentials/Ploughing material (currently
+loose across chat history, not yet consolidated into a single
+`market_intel_*` file - worth doing given how much has now accumulated).
+**Open loops:** Consider building one consolidated
+`market_intel_ai_agri_case_studies_sept2026.md` file gathering all the
+Ploughing-week AI/agri evidence (SoilEssentials, IO Agri, this piece)
+rather than leaving it scattered - flagged, not yet actioned.
+**Ventures touched:** Meridian Intelligence, Golden Generation (succession/adoption angle).
+**Pushed to Google Drive:** No (sync not yet wired up).
+---
