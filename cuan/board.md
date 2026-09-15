@@ -95,14 +95,24 @@ them.
 
 ## Revenue streams — cash flow, day-to-day, one line each
 
-🔴 AHL Plc — **structural finding (2 Sept): John operates across three
+🟢 AHL Plc — **structural finding (2 Sept): John operates across three
 companies, not one** — UHL, AHL Plc (not a UHL subsidiary — separate
 shareholders/auditor), and National Hardware (previously untracked, no
-apparent John role, but subject to a live AHL recovery). FY2025 audit
-NOT closed (11 BDO queries outstanding); D&O limit asked 6 July, no
-reply; Smyths claim promised to the Board "next week" as of 31 July —
-unconfirmed if it happened. DAC conversion question open — one line
-from John resolves it. Full detail + 12 questions in `ventures_dossier.md`.
+apparent John role, but subject to a live AHL recovery). **Correction
+(15 Sept): the DAC conversion question and the D&O insurance limit
+query both belong to United Hardware, not AHL — UHL's own AGM/Board
+cycle is 30 Sept, entirely separate from AHL's.** AHL's FY2025 audit is
+now closed and signed (31 Aug 2026), profit €1,681,575 driven by a
+€1.7m investment property revaluation gain, no dividend recommended.
+Auditor continuity: BDO → BDO Ireland LLP, a structural merger with
+the UK firm, not a substantive audit change. **Open item: AHL's own
+D&O cover status is unclear — John believes AHL may have none, needs
+review post-AGM.** Ray Smyth/Edel Smyth claim: Without Prejudice reply
+sent 3 Sept; John and Shane Felle (for AHL) meeting Ray and Edel Smyth
+in person on 23 Sept, alongside the AGM. AHL AGM chaired by John on 23
+Sept, 11:30am, Green Isle Hotel (Board meets 9:30am prior); premises
+meeting on Magna Business Park follows at ~1:15pm — notice already
+sent to 37 shareholders. Full detail + questions in `ventures_dossier.md`.
 🟢 UHL Hardware — Aug Chairman's invoice (No. 27) sent to Nicola & Dave.
 FY2025 audit closed, Board thanked John 5 Aug. 22 April AHL board
 minutes issued to BDO. **Reply to Ray Smyth sent 3 Sept 2026** (Without
