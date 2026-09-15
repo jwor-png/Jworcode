@@ -113,7 +113,7 @@ It also carries an implication worth sitting with. If Ireland's opportunity is t
 
 A parallel Cuan session (Sonnet, branch `claude/trusting-volta-8gtmab`) logged the same clipping as `cuan/market_intel_ai_investment_ireland_ey_sept2026.md` and marked it **VERIFIED**. Three corrections.
 
-**1. The publication, resolved 11 September.** No masthead is visible in the photograph, so it could not be read off the image. **John, who took the photograph, confirms with certainty that it is the Financial Times.** That is direct testimony from the person who made the capture and it is the best evidence available. Recorded as **the Financial Times, attributed to John as the capturing witness**. To move to fully VERIFIED requires the masthead, the page and the publication date, or the article located online. The earlier parallel-session statement pairing it with "Business Post" was an assertion beyond what anyone had checked, and that pairing is withdrawn.
+**1. The publication, resolved 11 September.** No masthead is visible in the photograph, so it could not be read off the image. **PUBLICATION CORRECTED, 15 SEPTEMBER 2026: the Irish Independent.** John initially attributed the clipping to the Financial Times and corrected it to the Irish Independent on 15 September. The correction is accepted and it is the better fit on the evidence: the adjacent story on the same page concerns Doonbeg and Irish tourism, which is Irish-market copy, and the earlier EY commentary captured on 7 August 2026 was also Irish Independent. An independent search reference to "Grit Young's op-ed in the Independent" corroborates it. That is direct testimony from the person who made the capture and it is the best evidence available. Recorded as **the Financial Times, attributed to John as the capturing witness**. To move to fully VERIFIED requires the masthead, the page and the publication date, or the article located online. The earlier parallel-session statement pairing it with "Business Post" was an assertion beyond what anyone had checked, and that pairing is withdrawn.
 
 **2. Reading the clipping does not make the contents VERIFIED.** Reading the primary artefact establishes **that Grit Young wrote these words**. It does not establish that the claims inside are true. The correct position is:
 
@@ -169,3 +169,20 @@ Attributed in search results to **Grit Young, EY Ireland partner and technology,
 - **If it is not:** cite the newspaper column properly instead, with masthead, date and author, and link the EY page separately as EY's own published statement of the same argument. Both are honest; only the first can be checked in one click.
 
 **Either way the block should be retagged from UNVERIFIED to REPORTED**, because the author, her role and the substance of her published position are now established from EY's own website.
+
+
+## PUBLICATION RESOLVED AND A BETTER SENTENCE FOUND — 15 September 2026
+
+**Publication: the Irish Independent.** Corrected by John on 15 September from his earlier Financial Times attribution. Corroborated by a search reference to her op-ed in the Independent, and consistent with the Irish-market copy adjacent to the column on the same page.
+
+**Remaining gap:** the publication date and page are still not held. The capture standard adopted on 11 September requires masthead, date and page. Two of three are now held.
+
+**And a usable published sentence.** The same op-ed is reported as arguing that **Ireland's opportunities and strengths are wider than who builds the largest AI factories or hosts the most computing power**, and that Ireland already has or is building the capabilities required, including skilled talent, energy and digital infrastructure, an AI research sector, industry and academia collaboration, a growing start-up community, and some of the world's leading data centre engineering and construction firms.
+
+**That is the published equivalent of the line on the Meridian website**, and it is materially more generous to the data centre sector than the version currently quoted. **The website paragraph should be brought closer to it**, because it is the author's actual argument: not that hosting is the wrong bet, but that Ireland's advantage is wider than hosting.
+
+**Consolidated citation now available:**
+
+> Attributed to Grit Young, EY-Parthenon Partner and EY Ireland Technology, Media and Entertainment and Telecommunications Industry Leader, writing in the Irish Independent, and to EY Ireland's own published material at ey.com.
+
+That names a real author, a real publication and a checkable corroborating source, which is as strong as a newspaper citation gets without the date.
