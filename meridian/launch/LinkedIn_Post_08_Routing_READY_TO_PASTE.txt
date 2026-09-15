@@ -1,19 +1,15 @@
 𝗧𝗵𝗲 𝗱𝗼𝗺𝗮𝗶𝗻 𝗮 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝗮𝗿𝗿𝗶𝘃𝗲𝘀 𝗶𝗻 𝗶𝘀 𝗿𝗮𝗿𝗲𝗹𝘆 𝘁𝗵𝗲 𝗱𝗼𝗺𝗮𝗶𝗻 𝘁𝗵𝗮𝘁 𝗱𝗲𝗰𝗶𝗱𝗲𝘀 𝗶𝘁
 
-Most bad business decisions I have watched being made were not made by people who lacked information. They were made by people who asked the right question in the wrong department.
+Most poor business decisions I have watched being made were not made by people who lacked information. They were made by people who asked the right question in the wrong department.
 
-A commercial question goes to the commercial people, who answer it commercially and answer it well. Nobody asks what the contract actually permits, or what the thing does to next year's cash, or what a regulator will make of it in eighteen months, because none of those people were in the room and there was no reason to call them. The answer that comes back is competent, confident and incomplete, and the part that was missing is the part that eventually costs the money.
+A commercial question goes to the commercial people, who answer it commercially and answer it well, and nobody asks what the contract actually permits, or what the thing does to next year's cash, or what a regulator will make of it in eighteen months, because none of those people were in the room and there was no reason to call them. The answer that comes back is competent, confident and incomplete, and the part that was missing is usually the part that eventually costs the money.
 
-That is the problem Meridian was built around, and it is why the first thing that happens to a question here is not research. It is routing.
+That is the problem Meridian was built around, which is why the first thing that happens to a question here is not research but routing. A question is deliberately sent to every one of the seven domains it genuinely touches rather than the one it happened to arrive in, covering commercial and deal, legal and governance, finance and restructuring, property and development, AI strategy and adoption, business transformation and growth, and AI equity and investment. Those domains work in parallel rather than in sequence, so that no conclusion is quietly shaped by whichever answer got there first, and every finding is grounded in a primary source and labelled as verified, reported or unverified before anyone relies on it. What comes back is one consolidated position with the reasoning still attached to it.
 
-A question is taken and deliberately sent to every one of the seven domains it genuinely touches rather than the one it arrived in, covering commercial and deal, legal and governance, finance and restructuring, property and development, AI strategy and adoption, business transformation and growth, and AI equity and investment. They work in parallel rather than in sequence, so nobody's conclusion is quietly shaped by the answer that got there first, and every finding is checked against a primary source and labelled as verified, reported or unverified before anyone relies on it. Then it is consolidated into a single position with the reasoning still attached.
+What surprises people is how often the domain that changes the answer is not the one anybody expected, so that a question about buying a business turns on an employment issue, a question about raising money turns on how the founder is taxed on the way out, and a question about a site turns on a planning condition nobody has read since it was granted. None of that is clever, it is simply the discipline of asking all of it before you commit rather than discovering the rest of it afterwards.
 
-The interesting thing is how often the domain that changes the answer is not the one anybody expected. A question about buying a business turns on an employment issue. A question about raising money turns on how the founder is taxed on the way out. A question about a property turns on a planning condition nobody had read since 2011.
+The machine does the reading and holds seven perspectives at once without tiring or growing attached to any of them, while the judgment at the end is mine and so is the name on it. AI driven and human led, in that order.
 
-None of that is clever. It is just the discipline of asking all of it before you commit, rather than discovering the rest of it afterwards.
-
-The machine does the reading and holds seven perspectives at once without tiring or becoming attached to any of them. The judgment at the end is mine, and so is the name on it.
-
-AI driven and human led, in that order.
+Sources: Meridian's seven domains and its governance floor, including the grounding rule and the verified, reported and unverified labelling, are published in full at meridianintelligence.ie. The obligation that those operating AI systems understand them well enough to do so responsibly is Article 4 of the EU AI Act, in force since 2 February 2025 and enforceable since 3 August 2026.
 
 #CorporateGovernance #BoardOfDirectors #DecisionMaking #BusinessStrategy #ArtificialIntelligence #AI #DueDiligence #Leadership #Ireland #SME
