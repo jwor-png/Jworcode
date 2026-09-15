@@ -4,16 +4,16 @@ Kate Durrant asked a question in Irish Country Living at the weekend that I have
 
 She meant it as a human question. It is also a succession question, and it is the part of an estate almost nobody plans for.
 
-The awkward bit is this. Data protection law does not apply to the dead. The GDPR says so in terms, and the Irish Act defines personal data as relating to a living individual, so the protection most people assume they have simply stops at the moment it might matter most.
+The awkward bit is this. Data protection law does not apply to the dead. The GDPR says so in its recitals, and it leaves each member state free to make its own rules for the deceased. Ireland has not. The Data Protection Act 2018 takes its meanings from the GDPR and adds nothing on the point, so the protection most people assume they have simply stops at the moment it might matter most.
 
-What is left is patchy. Copyright in a photograph belongs to whoever pressed the shutter rather than to the person in the picture, and accounts are not transferable, so what becomes of yours is decided by each platform's own settings rather than by your will, and most people have never opened them. Meanwhile a will that deals carefully with the farm, the house and the shares will very often say nothing at all about the thousand photographs, the voice notes and the video.
+What is left is patchy. Authorship of a photograph belongs to whoever pressed the shutter rather than to the person in the picture, with a narrow exception where the photograph was commissioned for private or domestic use. Accounts are generally not transferable, so what becomes of yours is decided by each platform's own settings rather than by your will, and most people have never opened them. Meanwhile a will that deals carefully with the farm, the house and the shares will very often say nothing at all about the thousand photographs, the voice notes and the video.
 
-I have written a lot this year about succession in family businesses, and the trouble always comes from the thing nobody wrote down. This is that again, in a new form.
+Succession keeps coming back to the same thing, which is whatever nobody wrote down. This is that again, in a new form.
 
 There are three questions worth putting to your solicitor the next time you are in. Who has authority over your accounts and your image after you die, and is that written down anywhere. What would you permit and what would you refuse, because a recreated voice at a memorial is a comfort to one family and a horror to another. And does anyone actually know where all the material is and how to get into it.
 
 None of this needs new law. It needs the same thing succession has always needed, which is the conversation had while everyone is still well and still able to change their minds.
 
-Sources: GDPR Recital 27. Data Protection Act 2018. Copyright and Related Rights Act 2000, section 21. The Protection of Voice and Image Bill 2025 is before the Oireachtas and is not yet law.
+Sources: GDPR Recital 27. Data Protection Act 2018, section 2. Copyright and Related Rights Act 2000, sections 21 and 114. The Protection of Voice and Image Bill 2025 is a Private Members' Bill aimed at misuse of a living person's identity, before the Oireachtas since April 2025 and not yet law.
 
 #Succession #EstatePlanning #DigitalLegacy #FamilyBusiness #CorporateGovernance #ArtificialIntelligence #Ireland #Law
