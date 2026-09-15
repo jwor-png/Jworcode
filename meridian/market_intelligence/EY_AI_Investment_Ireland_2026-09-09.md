@@ -148,3 +148,24 @@ Applies to every clipping entering the knowledge base from now on.
 **Practical rule when photographing:** one extra shot of the masthead and date line, or the front page of that day's edition, converts an attributed capture into a verified one and takes two seconds.
 
 **Where only the column is captured:** grade authorship VERIFIED, the contents REPORTED, and the publication either UNVERIFIED or ATTRIBUTED to the person who took the photograph. Never assert a masthead nobody has seen.
+
+
+## CANDIDATE EY SOURCE LOCATED — 15 September 2026
+
+Searched for an EY-published version of the argument so the website block can carry a live link.
+
+**Primary candidate:** *How infrastructure is shaping the next phase of AI investment*, EY Ireland Insights, Strategy and Transactions.
+`https://www.ey.com/en_ie/insights/strategy-transactions/how-infrastructure-is-shaping-the-next-phase-of-ai-investment`
+
+Attributed in search results to **Grit Young, EY Ireland partner and technology, media and telecoms lead**, and it carries the same argument: capital flowing into datacentres, semiconductors, networking, cloud and electricity systems; AI infrastructure as **"one of the defining capital allocation challenges of the next generation, cutting across technology, energy, real estate, supply chains, regulation and financing"**; and Ireland already holding or building many of the required capabilities, with infrastructure and planning as the critical constraints.
+
+**Second candidate, same author and theme:** *AI Infrastructure: Smarter, Faster Project Delivery for Ireland*, `https://www.ey.com/en_ie/insights/ai/ai-and-infrastructure-irelands-smart-future`
+
+**What is NOT established.** ey.com is blocked by this session's network proxy, so the pages could not be opened and read. **It is therefore not confirmed that either page carries the specific sentence used on the Meridian website**, namely that Ireland's highest-value opportunity may not be hosting every server but expertise in capital allocation, risk management, regulation, energy planning, corporate finance and technology governance. That sentence is from the newspaper column and may not appear on ey.com at all, since firms do not always republish syndicated opinion pieces.
+
+**Action for John.** Open the first link, search the page for "capital allocation" and for "data centres", and decide between two positions:
+
+- **If the passage or an equivalent is on the EY page:** cite and link EY, and the block becomes fully sourced.
+- **If it is not:** cite the newspaper column properly instead, with masthead, date and author, and link the EY page separately as EY's own published statement of the same argument. Both are honest; only the first can be checked in one click.
+
+**Either way the block should be retagged from UNVERIFIED to REPORTED**, because the author, her role and the substance of her published position are now established from EY's own website.
