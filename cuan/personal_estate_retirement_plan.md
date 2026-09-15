@@ -152,6 +152,62 @@ answers/decisions.
   enjoy retirement) but not yet a *figure* — worth putting a number on
   it once Track 2's revenue picture is clearer.
 
+### 3.7a — Two practical warning cases (Mary Frances Fahy, Fahy Neilan
+### Solicitors, Irish Independent Farming legal advice column, 15 Sept 2026)
+Two reader Q&As, directly relevant to §3.1 (will), §3.4 (asset
+register) and §3.5 (beneficial shareholdings), given how closely they
+mirror the kind of informal family land/asset arrangements common in
+farming and rural property.
+
+**Case 1 — "Can I leave the family home without losing my rights?"**
+A separating couple: farm in husband's sole name, family home jointly
+owned, wife has off-farm income and made significant financial/labour
+contributions to the farm over a long marriage. Fahy's key points,
+generalisable beyond divorce to any estate/asset-division context:
+- Both house and farm count as marital assets regardless of whose name
+  they're legally in — ownership on paper does not settle entitlement.
+- Moving out of a jointly-held property does **not** forfeit a claim to
+  it, but in practice courts tend to favour whoever remains in
+  occupation when making interim orders — a "possession is nine-tenths"
+  dynamic worth being aware of in any live family property question.
+- Financial and labour contributions to an asset (not just legal
+  ownership) increase entitlement to a larger share/buyout.
+- A long marriage with adult children (career sacrifices made) tends to
+  mean *more* provision for the non-owning spouse, not less.
+
+**Case 2 — "Will my wife inherit our home if the land isn't in my
+name?"** A man built a house (fully self-funded) on a site gifted
+informally by his brother — the site itself was **never legally
+transferred**. Directly on point for §3.5's beneficial-shareholding
+question and the general "who actually owns what" theme of this plan:
+- **A will only disposes of what you actually, legally own.** Leaving
+  "everything to my wife" does not pass a site/asset that is still
+  legally titled to someone else, no matter how long-settled the
+  informal arrangement feels.
+- The legal doctrine of **proprietary estoppel** can force a transfer
+  where there was (a) a clear promise, (b) genuine reliance on it
+  (e.g. building a house, investing money), and (c) it would be
+  unconscionable not to honour it — but this requires litigation to
+  establish if not resolved by agreement, with real cost and family
+  strain.
+- Practical fix recommended: engage an engineer for a Land Registry-
+  compliant map now, get both sides' solicitors involved, and complete
+  the transfer formally (including any bank consent needed to
+  partially discharge a mortgage charge over the site) **while all
+  parties are alive and agreeable** — leaving it for an executor or
+  surviving spouse to sort out later means court orders, delay, and
+  potentially family conflict at the worst possible time.
+- General principle stated plainly: sort out title/ownership questions
+  now, while relationships are good and everyone can simply agree,
+  rather than leaving beneficiaries to untangle it after a death.
+
+**Why this matters for John's plan:** both cases are a sharp practical
+illustration of exactly the gap flagged in §3.4 and §3.5 — an asset
+register and a will are only as good as the underlying legal title
+matching what's assumed. Worth treating "confirm legal title actually
+matches intent, for every asset, not just list them" as an explicit
+step when §3.4/3.5 are worked through, not just an inventory exercise.
+
 ### 3.7 — Delaying retirement itself as a lever (Sinéad Ryan, Irish
 ### Independent Indo Money, shared 10 Sept 2026)
 John shared this article specifically because it agrees with and
