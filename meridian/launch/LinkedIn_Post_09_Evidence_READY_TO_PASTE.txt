@@ -1,0 +1,25 @@
+𝗪𝗵𝗮𝘁 𝗠𝗲𝗿𝗶𝗱𝗶𝗮𝗻 𝗱𝗼𝗲𝘀 𝘄𝗵𝗲𝗻 𝘁𝗵𝗲 𝗲𝘃𝗶𝗱𝗲𝗻𝗰𝗲 𝗶𝘀 𝗻𝗼𝘁 𝘁𝗵𝗲𝗿𝗲
+
+Last week I wrote about routing, and how a question is sent to every domain that could change the answer rather than the one it happened to arrive in. The obvious next question is what happens when those domains come back and the material simply is not good enough to support an answer.
+
+Most analysis fills that gap. A figure gets rounded into certainty, a assumption acquires the grammar of a fact, and a sentence that should read "we do not know" reads instead as though somebody checked. It is rarely dishonest. It is the natural pull of a document that is expected to conclude.
+
+Meridian is built to stop instead, and there are three mechanisms that make it stop.
+
+The first is the grounding rule, which is that no figure, ruling or valuation appears in a brief unless it has been retrieved from a primary source. Not remembered, not inferred from something adjacent, retrieved. If it cannot be retrieved it does not appear, and the absence is stated rather than smoothed over.
+
+The second is confidence tagging. Every claim carries its status as verified, reported or unverified, so the reader can see at a glance which parts of a case are solid, which are somebody else's word, and which are still moving. A recommendation resting on three verified findings and one unverified one is a different recommendation, and the reader is entitled to see that rather than to be handed a single confident tone across the whole document.
+
+The third is failing closed. Near a legal, financial or regulatory line, the work names the boundary and stops rather than guessing past it. Anything binding goes to a qualified professional, and Meridian says so on the page rather than hoping nobody notices where the analysis ended and the assumption began.
+
+The practical consequence is that a brief will sometimes come back saying the question cannot yet be answered, and here is precisely what would have to be found before it could be. Clients are occasionally surprised by that and I have never once had anyone object, because the alternative is an answer they might act on.
+
+All of this is published rather than promised. The grounding rule, the tagging and the fail-closed position are set out on the site, which means they can be held against the work.
+
+The machine reads everything and misses nothing, and it is also the part most capable of producing a confident sentence with nothing underneath it, which is exactly why the discipline exists. The judgment at the end is mine, and so is the name on it.
+
+AI driven and human led, in that order.
+
+Sources: Meridian's governance floor, including the grounding rule, confidence tagging and the fail-closed position, is published in full at meridianintelligence.ie.
+
+#CorporateGovernance #DueDiligence #DecisionMaking #ArtificialIntelligence #AI #AIGovernance #BusinessStrategy #Leadership #Ireland #SME
