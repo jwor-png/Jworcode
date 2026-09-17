@@ -1,24 +1,18 @@
 𝗧𝗿𝗮𝗻𝘀𝗮𝗰𝘁𝗶𝗼𝗻 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲
 𝗠𝗼𝘀𝘁 𝗼𝗳 𝗮 𝗱𝗲𝗮𝗹 𝗶𝘀 𝘀𝗲𝘁𝘁𝗹𝗲𝗱 𝗯𝗲𝗳𝗼𝗿𝗲 𝗮𝗻𝘆𝗼𝗻𝗲 𝗿𝗲𝗮𝗱𝘀 𝗮 𝗱𝗼𝗰𝘂𝗺𝗲𝗻𝘁.
 
-The Decision Brief answers one question and the Executive Intelligence Review takes a whole situation apart. This is the third, and it exists for the point at which a business is about to commit to something it cannot easily undo.
+The Decision Brief answers one question and the Executive Intelligence Review takes a whole situation apart. This is the third, and it is for the moment a business is about to commit to something it cannot easily undo.
 
-The term sheet is where a transaction is actually decided. Everything after it is drafting, and by then the leverage has moved, because whoever asks to reopen a point is the one who looks as though they are moving the goalposts. Transaction Intelligence is therefore produced before signature rather than after it, and it is structured the way the other side's adviser will come at it.
+The term sheet is where a transaction is actually decided, and everything after it is drafting. By then the leverage has moved, because whoever asks to reopen a point looks as though they are moving the goalposts. So the work is done before signature and structured the way the other side's adviser will come at it, covering the valuation and what happens to your position in the stages that follow, the instrument with the alternatives and why each was rejected, a term by term position on what to concede and what to hold, and a read on what the counterparty will push for and how to answer it.
 
-The work covers the valuation and what happens to your position in the rounds or stages that follow, the instrument itself with the alternatives and the reasons each was rejected, and a term by term negotiating position saying plainly what to concede and what to hold. It includes a read on the counterparty, what they will push for and how to answer it, and it stays available through the negotiation rather than arriving as a report and disappearing.
+Three things come up again and again. The full cost of completing is almost always understated, because advisers on both sides, diligence across several disciplines, tax structuring and the treatment of the proceeds all land on whoever did not ask early enough. The same money can be worth materially different amounts depending on how it is structured, and that is usually settled by one clause agreed weeks before anyone turns their mind to tax. And protections drafted to bind one party are drafted broadly, so reading them against everything else you own is basic hygiene rather than paranoia, and it is the check most often skipped.
 
-Three things come up again and again, and none is exotic. The first is that the full cost of completing a transaction is almost always understated, because advisers on both sides, diligence across several disciplines, tax structuring, insurance and the tax treatment of the proceeds all land on whoever did not think to ask early enough, and few people model that before agreeing the headline number everybody then remembers.
-
-The second is that the same money can be worth materially different amounts depending on how it is structured, and that difference is usually settled by a single clause agreed weeks before anyone turns their mind to tax.
-
-The third is that protections written into a deal to bind one party are drafted broadly, and broad drafting reaches into things nobody was thinking about at the time, so reading those clauses against everything else you own is not paranoia but basic hygiene, and it is the check most often skipped.
-
-None of this replaces your solicitor or your accountant and it is not meant to. It makes sure you walk into the room already knowing your position, so the advice you are paying for is spent on what only a professional can do, and the questions you ask are the ones that still have answers.
+None of this replaces your solicitor or your accountant. It makes sure you walk into the room already knowing your position, so the advice you are paying for is spent on what only a professional can do.
 
 The engine does the reading, the modelling and the pattern matching across every domain at once. The judgment about what to accept and what to walk away from is human, and it belongs to whoever puts their name on the signature page.
 
-AI driven and human led, in that order.
+𝗔𝗜 𝗱𝗿𝗶𝘃𝗲𝗻. 𝗛𝘂𝗺𝗮𝗻 𝗹𝗲𝗱. 𝗜𝗻 𝘁𝗵𝗮𝘁 𝗼𝗿𝗱𝗲𝗿.
 
 Sources: Meridian's seven domains, its products and its governance floor are published in full at meridianintelligence.ie.
 
-#CorporateFinance #DueDiligence #MergersAndAcquisitions #Negotiation #CorporateGovernance #BusinessStrategy #ArtificialIntelligence #AI #Ireland #SME
+#CorporateFinance #DueDiligence #CorporateGovernance #ArtificialIntelligence #Ireland
