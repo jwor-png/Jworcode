@@ -1,0 +1,23 @@
+𝗧𝗵𝗲 𝗰𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 𝘀𝗵𝗼𝘂𝗹𝗱 𝗮𝗿𝗿𝗶𝘃𝗲 𝘄𝗶𝘁𝗵 𝘁𝗵𝗲 𝗽𝗮𝗽𝗲𝗿𝘀, 𝗻𝗼𝘁 𝗱𝗲𝗽𝗲𝗻𝗱 𝗼𝗻 𝘀𝗼𝗺𝗲𝗯𝗼𝗱𝘆 𝗯𝗲𝗶𝗻𝗴 𝗯𝗿𝗮𝘃𝗲
+
+Last week I wrote about routing, and how a question is sent to every domain that could change the answer rather than the one it happened to arrive in. This is what happens next, and it is the part that actually changes outcomes.
+
+Anyone who has sat on a board knows the moment. A proposal is on the table, several people around it have a private reservation, and nobody says it. The meeting moves on and the reservation turns out eighteen months later to have been the whole problem.
+
+That is rarely cowardice. It is structure. The papers arrived on Friday for a Tuesday meeting, the person who would have raised the point is not in the room, the chief executive has clearly already decided, and the cost of being the awkward one is immediate while the cost of the decision is years away and belongs to everybody. Anyone who has been the lone voice on something knows exactly what it costs, and knows it is not free.
+
+So the answer is not braver directors. It is removing the need for bravery altogether.
+
+Every recommendation that leaves Meridian has been argued against first, deliberately and at full strength, with the strongest case for the opposite position set out and the specific point named at which the recommendation would break. That counter-argument is written down, sourced, and arrives attached to the paper itself, which means the challenge is in the room before anyone has to decide whether to voice it. Nobody has to be the difficult one, because the difficult question is already on the page with a name and a reason beside it.
+
+A position that has never been attacked is not a position. It is a preference that has not yet been tested, and boards approve those all the time because nothing in the process obliged anyone to test them.
+
+EY Ireland's work on board governance names cultures that stifle debate and challenge among the risks boards are carrying, alongside time pressure and a focus on what has already happened. I would put it more plainly, which is that most boards are not short of judgement, they are short of a mechanism that makes disagreement safe.
+
+The machine does the reading and constructs the case against without taking any of it personally, because it has no standing to protect and no relationship in the room. The judgment about what to do with that is mine, and so is the name on it.
+
+AI driven and human led, in that order.
+
+Sources: Meridian's seven domains and its governance floor are published at meridianintelligence.ie. EY Ireland, How boards can improve governance in an increasingly complex environment, and the same author writing in Accountancy Ireland, 6 February 2026.
+
+#CorporateGovernance #BoardOfDirectors #DecisionMaking #Leadership #BusinessStrategy #ArtificialIntelligence #AI #NonExecutiveDirector #Ireland #SME
