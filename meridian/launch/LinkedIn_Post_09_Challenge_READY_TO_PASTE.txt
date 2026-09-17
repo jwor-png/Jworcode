@@ -2,19 +2,19 @@
 
 Last week I wrote about routing, and how a question is sent to every domain that could change the answer rather than the one it happened to arrive in. This is what happens next, and it is the part that actually changes outcomes.
 
-Anyone who has sat on a board knows the moment. A proposal is on the table, several people around it have a private reservation, and nobody says it. The meeting moves on and the reservation turns out eighteen months later to have been the whole problem.
+EY Ireland's work on board governance names cultures that stifle debate and challenge among the risks boards are carrying, alongside time pressure, a focus on what has already happened, and the gap that opens between a board and its executive team. Those four are related, and together they describe a familiar pattern. A reservation exists somewhere in the process, it is never articulated, and it turns out later to have been the material point.
 
-That is rarely cowardice. It is structure. The papers arrived on Friday for a Tuesday meeting, the person who would have raised the point is not in the room, the chief executive has clearly already decided, and the cost of being the awkward one is immediate while the cost of the decision is years away and belongs to everybody. Anyone who has been the lone voice on something knows exactly what it costs, and knows it is not free.
+That is a design problem rather than a failure of character. Where papers arrive late, where the relevant expertise sits outside the room, and where the cost of raising an objection is immediate while the cost of the decision is years away and shared, silence is the rational response. Every organisation I have come across relies at some point on somebody being willing to be the awkward one, and that is a thin mechanism to be depending on.
 
-So the answer is not braver directors. It is removing the need for bravery altogether.
+So the answer is not to ask people to be braver. It is to remove the need for bravery.
 
-Every recommendation that leaves Meridian has been argued against first, deliberately and at full strength, with the strongest case for the opposite position set out and the specific point named at which the recommendation would break. That counter-argument is written down, sourced, and arrives attached to the paper itself, which means the challenge is in the room before anyone has to decide whether to voice it. Nobody has to be the difficult one, because the difficult question is already on the page with a name and a reason beside it.
+Every recommendation that leaves Meridian has been argued against first, deliberately and at full strength, with the strongest case for the opposite position set out and the specific point named at which the recommendation would break. That counter-argument is written down, sourced, and arrives attached to the paper itself, which means the challenge is present before anyone has to decide whether to voice it. Nobody has to be the difficult one, because the difficult question is already on the page with a reason beside it.
 
-A position that has never been attacked is not a position. It is a preference that has not yet been tested, and boards approve those all the time because nothing in the process obliged anyone to test them.
+A position that has never been attacked is not really a position. It is a preference that has not yet been tested, and untested preferences get approved all the time because nothing in the process obliged anyone to test them.
 
-EY Ireland's work on board governance names cultures that stifle debate and challenge among the risks boards are carrying, alongside time pressure and a focus on what has already happened. I would put it more plainly, which is that most boards are not short of judgement, they are short of a mechanism that makes disagreement safe.
+Put plainly, most boards are not short of judgement. They are short of a mechanism that makes disagreement ordinary rather than awkward.
 
-The machine does the reading and constructs the case against without taking any of it personally, because it has no standing to protect and no relationship in the room. The judgment about what to do with that is mine, and so is the name on it.
+The machine does the reading and builds the case against without taking any of it personally, because it has no standing to protect and no relationship in the room. The judgment about what to do with that is mine, and so is the name on it.
 
 AI driven and human led, in that order.
 
