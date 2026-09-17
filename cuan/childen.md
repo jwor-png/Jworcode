@@ -532,3 +532,72 @@ to be built into the environment itself. Strong material to have in
 hand for the Vatican conversation.
 **REPORTED** — sourced from a physical newspaper clipping, not
 independently re-verified against the full CyberSafeKids report.
+
+## Market intelligence — "EU 'Kids Act' will stagger social media
+## restrictions from 3 to 15" (Mary Collins, Irish Independent,
+## front-page splash, shared 17 Sept 2026)
+
+**[Cuan → Meridian]** A fourth, and the most directly consequential,
+piece of external evidence — this is the actual incoming EU regulatory
+architecture Childen would sit alongside, not just supporting
+commentary. President von der Leyen's Commission is preparing a new
+**"Kids Act"** to be published imminently, with a phased/staggered
+approach by age band rather than a single blanket rule:
+
+- **Under-13s:** barred from social media and video-sharing platforms
+  entirely under the draft rules, unless platforms obtain "fully
+  parent-controlled" accounts meeting strict child-safety standards.
+- **13-15 year-olds:** restricted to "introductory accounts" with
+  limits on screen time and who can contact them, and safety-by-default
+  settings — not a full adult account.
+- **All under-15s:** platforms required to "avoid rabbit hole effects"
+  — bans/limits on infinite scroll and addictive recommender-system
+  design specifically for this age band.
+- **Enforcement mechanics:** mandatory age verification for account
+  creation; large platforms must submit compliance plans to Brussels
+  for approval *before* rolling out new features; a "designed safely"
+  certification requirement; financial penalties, including a
+  supervisory fee, for platforms that fail to comply or that expose
+  under-15s to violent or pornographic content.
+- **Political context:** France has already banned mobile phones in
+  schools and is pushing for a fuller ban; France's constitutional
+  court struck down a national blanket under-15s social media ban this
+  summer on constitutional grounds — directly relevant precedent for
+  why the EU is pursuing this at Union level via the Kids Act rather
+  than leaving it to member states individually. Denmark, Spain and
+  Italy are also named as advocating for tighter rules. An EU expert
+  panel recommended earlier this year that under-13s be restricted from
+  social media and "addictive" platforms outright.
+- **One dissenting/critical voice included in the piece:** Regina
+  Doherty MEP (Fine Gael) is quoted arguing a blanket ban would be the
+  wrong tool, that children would find ways around it regardless, and
+  that parents "would again find ways around it all... and parents
+  would never find out about it" — i.e. the same "gatekeeping doesn't
+  work" critique already logged from the Ksenia Samotiy op-ed above,
+  but this time coming from inside the EU legislative process itself,
+  aimed at the EU's own proposed solution.
+
+**Why this matters for Childen specifically:** this is the live,
+imminent regulatory environment Childen's Vatican pitch is set against
+— not background commentary but the actual EU instrument. Two points
+worth having ready for the Vatican conversation:
+1. **The Kids Act's core mechanism (age-banded account restrictions,
+   parent-controlled accounts, anti-addictive-design rules) is still an
+   after-the-fact, platform-compliance model** — it depends on
+   platforms self-certifying "designed safely" and on age verification
+   that Childen's own six-pager and the Samotiy op-ed both argue is
+   trivially defeatable. It does not build the safe environment itself
+   the way Childen's institutional-verification model does — the Kids
+   Act regulates the existing platforms rather than replacing the
+   underlying architecture.
+2. **Regina Doherty's own objection — that bans just push children to
+   work around them, invisibly to parents — is precisely the gap
+   Childen's institutional (school/parish/club) verification model is
+   designed to close,** since it doesn't rely on the child or a device
+   self-reporting age, but on real-world trusted institutions vouching
+   for who a child actually is.
+
+**REPORTED** — sourced from a physical newspaper clipping (Irish
+Independent front page/News p.10, Mary Collins), not independently
+re-verified against the actual draft Kids Act text, which had not yet
+been formally published as of this clipping.
