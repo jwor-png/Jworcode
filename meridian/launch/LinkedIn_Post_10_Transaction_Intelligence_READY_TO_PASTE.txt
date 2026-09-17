@@ -19,6 +19,6 @@ The engine does the reading, the modelling and the pattern matching across every
 
 AI driven and human led, in that order.
 
-Sources: Meridian's seven domains, its products and its governance floor, including the grounding rule and the verified, reported and unverified labelling, are published in full at meridianintelligence.ie.
+Sources: Meridian's seven domains, its products and its governance floor are published in full at meridianintelligence.ie.
 
 #CorporateFinance #DueDiligence #MergersAndAcquisitions #Negotiation #CorporateGovernance #BusinessStrategy #ArtificialIntelligence #AI #Ireland #SME
