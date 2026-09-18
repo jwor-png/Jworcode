@@ -271,6 +271,61 @@ tax-free ceiling now available to him at his age, and that any
 "work past 66" scenario needs the same independent-advice check this
 article recommends before assuming it's automatically a good move.
 
+### 3.8 — AVCs as the mechanism to enhance an existing DB pension (Liam
+### Croke, Limerick Leader "Making Cents," 19 Sept 2026)
+A second, independently-sourced piece reinforcing §3.6/3.7's AVC point
+directly relevant to anyone holding a **Defined Benefit (DB)** pension —
+worth checking against John's own UHL/board-related pension arrangements
+if any DB entitlement exists there.
+- **The core mechanic explained:** a DB pension normally forces a choice
+  at retirement — the full annual pension, **or** a tax-free lump sum plus
+  a reduced annual pension (cost of taking cash: roughly €9-€14 given up
+  in annual pension for every €1 of lump sum taken, i.e. a "commutation
+  factor"). Worked example given: €33,000/year DB pension with a €75,000
+  tax-free lump-sum entitlement — taking the lump sum (at a €14
+  commutation factor) drops the annual pension to €27,643.
+- **The AVC fix — a genuine third option:** building a separate AVC fund
+  alongside the DB pension lets the AVC pot (not the core DB entitlement)
+  be drawn down as the tax-free lump sum at retirement, preserving the
+  **full annual DB pension untouched**. Worked example: same person ends
+  up with the full €33,000/year pension **AND** the €75,000 tax-free lump
+  sum, instead of being forced to sacrifice one for the other.
+- **Practical step, DB specific:** the pension administrator can
+  calculate the maximum tax-free lump sum a scheme allows, which sets the
+  AVC savings target — but check first whether the scheme forces "full
+  commutation" (some do, rarely, per Croke) — i.e. whether the *only* way
+  to access a tax-free lump sum is by reducing the core annual pension
+  regardless of AVCs, which would defeat the strategy.
+- **The tax-efficiency case, independently verified against §3.6's own
+  figures:** every €100 invested via pension/AVC costs a 40%-marginal-rate
+  taxpayer only €60 net (40% tax relief) — a €10,000 AVC contribution
+  costs €6,000 net, versus €19,607 if saved instead from after-tax income
+  (accounting for 40% income tax + 4% PRSI + 7% USC, i.e. a 51% marginal
+  deduction on that route). Same €10,000 outcome, vastly different real
+  cost depending on the vehicle used — reinforces §3.6's "€600 becomes
+  €1,000" point from the other direction, with a full worked comparison
+  Croke's column supplies that the earlier Ryan piece didn't.
+- **DC-specific detail also given (less relevant to John if his own
+  pension is DB, but logged for completeness):** DC schemes allow 25%
+  of the fund tax-free up to a €200,000 cap; above an €800,000 fund where
+  25% exceeds €200,000, the excess up to €300,000 is taxed at 20%
+  (worked example: a €1,000,000 fund yields €200,000 tax-free + €50,000
+  taxed at 20% = €240,000 total cash).
+
+**Why this is logged here rather than treated as one-off reading:**
+directly actionable against Track 3 of this plan (estate/tax
+preparation) and §3.6's AVC decision specifically — if John holds or is
+owed a DB pension entitlement from any prior employment or board role,
+this is the concrete mechanism (not just the "you should contribute to
+AVCs" general advice already logged) for converting that DB entitlement
+into both a full pension **and** a tax-free lump sum, rather than being
+forced to choose. **Not yet actioned** — needs John to confirm (a)
+whether he actually holds a DB entitlement anywhere, and (b) if so,
+whether that scheme permits partial commutation via AVC rather than
+forcing a straight annual-pension-vs-lump-sum trade-off, before this
+becomes a real instruction to a financial adviser rather than a logged
+piece of reading.
+
 ---
 
 ## What "done" looks like for this plan
