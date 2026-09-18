@@ -67,13 +67,12 @@ without weakening the core - your call, not mine.
 
 ---
 
-OPEN QUESTION FOR DISCUSSION
+FOR DISCUSSION
 
-Is the Meridian Intelligence Orchestration itself - as the decision-making
-layer - a separate rung or tool to add to this offering, on top of what's
-described above, rather than something already folded into it? Not
-decided here - raising it as a live question for us to work through
-together.
+My own view: the Meridian Intelligence Orchestration - as the
+decision-making layer - is an added tool to this offering, on top of the
+six rungs above, not something already folded into them. Raising it here
+for us to talk through together, not presenting it as settled.
 
 ---
 
