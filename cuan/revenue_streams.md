@@ -133,6 +133,174 @@ for any stream.
 
 ---
 
+## AI Adoption Offering Framework — John and Shane's collaborative revenue
+## plan (drafted 18 Sept 2026, from John's own analysis plus an external
+## sales-pricing challenge)
+
+**Current reality, stated plainly by John (18 Sept):** across everything in
+motion (Golden Generation, Meridian Intelligence, Velocity AI, Ambrion, and
+Sensaii), **only United Hardware (UHL) and Barber Republic are actually
+generating revenue today.** ODIN, Childen and Tairseach sit in a separate
+investment/sale track running in parallel, not a revenue track — do not
+conflate the two when reporting status. Revenue here is explicitly
+**collaborative across John and Shane's businesses, not attributable to
+either individually** — the plan below is written as one shared commercial
+plan for John to bring to Shane, not John's proposal to Shane.
+
+### The proven pattern, stated as a five-rung ladder
+UHL and Barber Republic each demonstrate a different piece of the same
+underlying ladder. The plan is to make this ladder deliberate and repeatable,
+rather than something that happens by accident (as it largely has at UHL so
+far).
+
+1. **Train — executive/leadership orientation.** Proven at UHL, €10k,
+   Velocity AI's productised offer.
+2. **Train — commercial team.** Not yet built out as a distinct product from
+   #1, but flagged by John as a clear next layer at UHL — different content,
+   different audience, same client relationship.
+3. **Train — governance/board AI literacy.** Not yet built. A genuinely
+   underserved niche: directors' duties increasingly touch AI Act compliance
+   and algorithmic-risk oversight. Natural crossover into Meridian's Legal &
+   Governance domain rather than a pure Velocity AI product.
+4. **Build — bespoke orchestration.** Proven in progress at UHL (Shane and
+   Paul Candon). High-value, Shane-intensive. Should be treated explicitly as
+   funded R&D that hardens a named ODIN module (Eolas, Dominion, Cognify,
+   AIMES/Sensaii, etc.), not as a one-off bespoke build with no product
+   payoff — this is the direct answer to Shane not wanting to run a pure
+   service business.
+5. **Advise / Platform.** Two related but distinct top-end options:
+   - **Advise** — ongoing Meridian commercial/strategic consultancy (the
+     Specialist Affiliate Group report for Paul Candon is the live example,
+     currently stalled awaiting his reply).
+   - **Platform** — a bespoke platform build for a client, modelled on how
+     Barber Republic itself began (initial consultancy and scoping work that
+     led to a platform being developed), for clients where the relationship
+     and trust support it. The biggest-ticket, most bespoke rung.
+
+**Why the ladder matters, not just the individual rungs (external
+challenge, applied and adapted):** Jen Abel (co-founder, Jellyfish; Lenny's
+Podcast, "$1M to $10M enterprise sales playbook") argues that venture-backed
+startups get killed selling flat $10-20k enterprise deals, because $10k to
+$12k to $15k never compounds - if you're playing enterprise, force the ACV
+toward $100k+, or you're playing a small-business game in the wrong sector.
+**This does not map directly onto John/Shane's actual market** (Irish SMEs
+and trade/buying groups, not venture-backed SaaS selling to Fortune 500), so
+her framework is not a reason to abandon the €10k entry price. But her real
+point does bite: **the test is whether Train reliably converts into Build,
+Advise or Platform at real scale, not whether the entry price is €10k.** UHL
+is the only proof point so far, and even there the Build sale happened
+organically through Shane and Paul's own conversation rather than as a
+deliberate second sale. The ladder above exists specifically to make that
+conversion deliberate rather than accidental. **REPORTED/OPINION** - Jen
+Abel's framework is a named, credible outside view, not independently
+re-verified data, and its applicability to this market is John/Shane's own
+judgement call, not a settled fact.
+
+### The UHL month-by-month integration plan (to be built out with Shane)
+John's instruction: take the five-rung ladder above and turn it into an
+actual dated roadmap for UHL specifically, sequencing exec training →
+commercial team training → board governance training → orchestration build →
+ongoing advisory, with real months attached (session 2 of the current
+training is already scheduled for the week after 18 Sept, session 3 for
+mid-October). **Not yet built - this is the next concrete deliverable**,
+to turn "what's worked with UHL" into a named, reusable template for other
+similarly-sized companies, rather than leaving UHL's success as a one-off.
+
+### Two distinct grant tracks (John's clarification, 18 Sept)
+1. **Client-side grants** - grants the *client* applies for to reduce their
+   cost of engaging Velocity AI/Meridian and speed their decision (Skillnets,
+   Enterprise Ireland, EU Digital Europe SME actions - see grant summary
+   below). This is a sales enabler.
+2. **John/Shane's own-side grants** - funding available *to* Velocity AI/
+   Ambrion directly, either for product development or for the cost of
+   registering as an approved training provider (Skillnets specifically).
+   **Not yet assessed for how lucrative this actually is** - flagged by John
+   as needing a real evaluation before it's built into the plan, not assumed.
+
+### Grant aid landscape - Ireland, UK, EU (researched 18 Sept 2026, current
+### schemes checked via web search, tagged for confidence)
+
+**Ireland**
+- **Skillnet Ireland** - delivered 50+ AI programmes in 2025; new
+  "Empowering Enterprise 2026-2028" strategy explicitly targets AI fluency/
+  leadership capability; the Upskill SME Training Grant reclaims salary
+  costs for staff undergoing AI skills training. Highest-leverage lever,
+  consistent with the existing board priority to register as an approved
+  training provider. **REPORTED**, sourced from Skillnet's own published
+  strategy documents.
+- **Enterprise Ireland Digitalisation Voucher** - reported up to €9,000 for
+  digital transformation consultancy. **REPORTED, not independently
+  confirmed against Enterprise Ireland's current scheme rules** - verify
+  directly before quoting to a client.
+- **OpenAI/DETE "SME Booster" programme**, launching 2026 - hands-on AI
+  skills training combining OpenAI access, live workshops and mentoring,
+  delivered nationally. **REPORTED, very new** - worth watching as either a
+  competitor or a potential channel partner, needs direct verification once
+  live.
+- Context stat: Ibec's 2025 Skills Survey found 82% of Irish businesses face
+  critical skills gaps, but only 13% of SMEs (vs 30% of large firms)
+  currently provide AI training - a quantified version of exactly the gap
+  this whole plan is selling into.
+
+**UK**
+- **BridgeAI programme** - funding plus expert support for AI adoption,
+  explicitly targeting sectors including construction and agriculture -
+  relevant if Velocity AI ever expands into the UK market.
+- **Innovate UK** - competitions from ~£25,000 (feasibility) up to several
+  million (collaborative R&D); SMEs can get up to 70% of project costs
+  covered.
+- UK government has stated ambition for SMEs to be "the most digitally
+  capable and AI confident in the G7" - signals funding direction, not a
+  specific live grant to apply for yet.
+
+**EU**
+- **Digital Europe Programme** - ~€8.1bn total 2021-2027, ~€2.1bn
+  specifically ring-fenced for AI; SME-support actions co-funded up to 75%
+  (standard grants 50%).
+- **European Digital Innovation Hubs (EDIH)** network - specifically
+  supports SME/industry digital transformation; worth identifying Ireland's
+  own EDIH node as a potential partner or referral channel. Not yet
+  identified/contacted.
+- **GenAI4EU** - funding specifically for generative AI "made in Europe" -
+  relevant if any of Shane's ODIN-based product work is ever positioned as
+  an EU-fundable R&D project rather than a client service.
+
+### Padraic O'Maille / Smacht - two distinct revenue paths, not one
+1. **Smacht's ~300-member group as a buyer channel** - same structural
+   pattern as UHL (130 stores, per the earlier sales orchestration
+   briefing - REPORTED, not independently verified store count): one
+   relationship at the top gives warm access to hundreds of end-buyers.
+   Sensaii (Shane's orchestration built for Padraic) is already built,
+   meaning this account could lead with Build rather than Train, unlike
+   UHL's sequence.
+2. **Padraic himself as a subcontracted executive coach** - offered as an
+   add-on line inside John/Shane's own proposals to *other* clients, not
+   sold separately by Padraic. A genuine partner-channel revenue line, not
+   just a prospect source.
+
+### The qualification filter - Shane's "wrong people" point
+Shane's stated frustration, per John (18 Sept): too much time has gone to
+prospects who talk about AI interest but don't act when it comes to it,
+versus genuinely committed buyers with real top-down (CEO-down) intent. This
+needs to become an actual filter applied to the 50-target list and to
+Smacht's 300 members, not just a general observation - qualify on evidenced
+commitment (budget allocated, CEO directly engaged, a real decision
+timeline), not on expressed interest alone. **Not yet built as a formal
+filter/scorecard** - next step once the UHL month-by-month plan is drafted.
+
+### Open items from this session, not yet resolved
+1. UHL month-by-month integration roadmap - not yet drafted.
+2. John/Shane's own-side grant eligibility and lucrativeness - not yet
+   assessed.
+3. Formal qualification filter for prospect commitment - not yet built.
+4. Enterprise Ireland Digitalisation Voucher and OpenAI/DETE SME Booster
+   figures - not yet independently verified.
+5. Ireland's own EDIH node - not yet identified or contacted.
+6. Whether Sensaii itself should be one of the ODIN modules formally
+   targeted for hardening via the Build rung, per Shane's own decision.
+
+---
+
 ## Honest Status Check (John and Shane, 5 August 2026 morning call)
 
 **Current real revenue is effectively United Hardware training — one client,
