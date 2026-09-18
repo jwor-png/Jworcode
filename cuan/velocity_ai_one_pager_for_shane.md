@@ -26,31 +26,25 @@ without either of us being run into the ground doing it.
 THE SIX RUNGS
 
 0. SCOPE. Before anything else, we look at the business and its industry
-   properly - what they actually need, not what we assume. Delivered via:
-   Meridian Intelligence.
+   properly - what they actually need, not what we assume.
 
 1. TRAIN THE TOP. Executive and leadership AI orientation. Already proven
-   at United Hardware, €10k. Delivered via: Velocity AI's accelerated
-   training programme.
+   at United Hardware, €10k.
 
 2. TRAIN THE MIDDLE. The commercial team - the people who'll actually use
-   this day to day. Delivered via: Velocity AI training, a second product
-   from the same programme.
+   this day to day.
 
 3. TRAIN THE BOARD. Governance and AI literacy at board level - a real gap,
-   almost nobody is doing this well. Delivered via: Meridian Intelligence,
-   with Velocity AI training format.
+   almost nobody is doing this well.
 
 4. BUILD. Bespoke orchestration for the client's own operations - what
    Shane is already doing with Paul. This is where Shane's time goes, and
-   it should be limited and selective, not offered to everyone. Delivered
-   via: Shane, using ODIN's existing tech, mutated and adapted rather than
-   built from scratch each time.
+   it should be limited and selective, not offered to everyone. Existing
+   tech, mutated and adapted rather than built from scratch each time.
 
-5. ADVISE / PLATFORM. Either ongoing commercial advisory (Meridian), or -
-   where the relationship and trust support it - a bespoke platform build,
-   the way Barber Republic itself began. Delivered via: Meridian
-   Intelligence for Advise; Shane and John jointly for Platform.
+5. ADVISE / PLATFORM. Either ongoing commercial advisory, or - where the
+   relationship and trust support it - a bespoke platform build, the way
+   Barber Republic itself began.
 
 ---
 
@@ -62,16 +56,24 @@ it fresh each time.
 
 - AI READY. A self-assessment tool a business can use on itself, to score
   its own AI readiness. Doubles as our lead generator for everything above.
-  Delivered via: ODIN tech, productised.
 
 - BOARDROOM INTELLIGENCE. An ongoing tool for boards, not a one-off
   session. This is our best candidate for actual monthly or subscription
-  income, which nothing else on this page currently gives us. Delivered
-  via: ODIN tech, productised.
+  income, which nothing else on this page currently gives us.
 
 Both of these already exist in some form inside what you've built. The
-question for us to discuss is what can come out of ODIN as a standalone
-product without weakening the core - your call, not mine.
+question for us to discuss is what can come out as a standalone product
+without weakening the core - your call, not mine.
+
+---
+
+OPEN QUESTION FOR DISCUSSION
+
+Is the Meridian Intelligence Orchestration itself - as the decision-making
+layer - a separate rung or tool to add to this offering, on top of what's
+described above, rather than something already folded into it? Not
+decided here - raising it as a live question for us to work through
+together.
 
 ---
 
