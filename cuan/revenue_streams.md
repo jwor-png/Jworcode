@@ -357,7 +357,13 @@ filter/scorecard** - next step once the UHL month-by-month plan is drafted.
 8. Refine `prospect_list_combined.md` (125 companies) toward a qualified
    100, tagged against the OECD/G7 maturity stages - see that file directly
    for status, not duplicated here.
-9. ~~Confirm the Portlaoise business name~~ **RESOLVED, 18 Sept - the
+9. **Ambrion/Velocity email infrastructure - revisited 18 Sept, still not
+   sorted.** Beyond the original mail.ambrion.ai POP3 auth failure, the
+   Gmail copy cannot hold full Golden Generation/intelligence-training
+   detail or complete UHL engagement detail. John wants this "sorted once
+   and for all" - needs Shane to diagnose properly, not another patch. See
+   the Ambrion and Velocity AI entries below for full detail.
+10. ~~Confirm the Portlaoise business name~~ **RESOLVED, 18 Sept - the
    business is Property Properly, an estate agency in Portlaoise, where
    Shane is doing work.** (Note: an unrelated Portlaoise reference already
    exists elsewhere in this file - a 29 July Meridian structure meeting -
@@ -648,8 +654,21 @@ leads.
   confirmed.
 - **Partner:** Shane McCarthy — technical architecture.
 - **Care level:** Highest — primary revenue vehicle for the next 3 years.
-- **Email infrastructure:** Gmail-to-personal-Gmail import stuck on POP3
-  authentication failure (mail.ambrion.ai) — needs resolving.
+- **Email infrastructure — revisited 18 Sept, still unresolved.** Two
+  distinct problems, not one:
+  1. The Gmail-to-personal-Gmail import from mail.ambrion.ai is stuck on a
+     POP3 authentication failure — the original, narrower fault.
+  2. Even where import works (see Velocity AI below, "done and working"),
+     the copy landing in personal Gmail cannot hold the full detail for
+     Golden Generation and the intelligence-training material, and cannot
+     carry the complete United Hardware engagement detail either. This is
+     a capacity/completeness problem, not just an auth fault, and affects
+     Ambrion and Velocity together, not Ambrion alone.
+  John's own words: "I need to come back and sort this once and for all."
+  Not yet diagnosed why detail is being lost (POP3 pulling summaries only,
+  attachment stripping, thread truncation, mailbox size limits — none
+  confirmed) — needs Shane to look at properly rather than being patched
+  again piecemeal.
 - **UHL training rollout / testimonials:** Paul Candon has spoken to contacts
   about UHL training; John needs to contact Brett Martin on foot of that
   conversation, and secure testimonials from United Hardware to add credibility
@@ -783,7 +802,12 @@ leads.
 - **Hard constraint:** "Transition Intelligence" (internal product name) must
   never appear in any client-facing or external document.
 - **Live thread:** SkillNet registration to be actioned — needs company details.
-- **Email infrastructure:** Gmail-to-personal-Gmail import done and working.
+- **Email infrastructure — revisited 18 Sept, still unresolved.** Import
+  itself runs ("done and working"), but per John (18 Sept) it does not
+  carry across full Golden Generation/intelligence-training detail or the
+  complete United Hardware engagement detail — see the fuller note under
+  Ambrion above, since this is one shared problem across both mailboxes,
+  not two separate ones.
 - **Introducer channel for Tairseach (Shane McCarthy's separate property
   intelligence raise):** one-pager sent from john@velocityai.ie to Malachy
   Harkin — full Tairseach detail in `ventures_dossier.md`.
