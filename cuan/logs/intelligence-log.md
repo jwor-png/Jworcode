@@ -513,3 +513,50 @@ rather than leaving it scattered - flagged, not yet actioned.
 **Ventures touched:** Meridian Intelligence, Golden Generation (succession/adoption angle).
 **Pushed to Google Drive:** No (sync not yet wired up).
 ---
+
+### [2026-09-18] [Cuan → Meridian] [NEW OFFERING IDEA]
+**Domain(s):** Commercial & Deal; Business Transformation & Growth
+**Summary:** John explicitly proposed "grant intelligence for businesses"
+as a possible standing Meridian offering, prompted by an Instagram
+carousel (alexgrowofficial) on Ireland's new Circular Economy
+Innovation Grant Scheme 2026 (€1.5m total; Strand 1 up to €50,000/6
+months, Strand 2 €50,001-€150,000/12 months; open to businesses,
+social enterprises, community and voluntary organisations based in
+Ireland; applications close 12 Oct 2026 23:59, info session 21 Sept;
+source circuleire.ie/ceigs). The carousel's own advice - don't start
+with the application, start with the business case (what problem,
+what's implementable in the funded period, how will it be measured,
+who uses it after the pilot, can it scale) - is itself close to a
+template for how a paid advisory service would actually add value
+over a passive scheme-listing.
+**The concept, as John framed it:** a standing Meridian service line
+that actively tracks live Irish/EU funding schemes and packages them
+for clients with the same rigour - matching a scheme to an actual
+business case, pre-vetting eligibility, and building the
+implementation/measurement plan a competitive application needs -
+rather than just handing over a list of grants. Explicitly "likewise
+for other[s]" per John - not limited to this one scheme, a general
+capability.
+**Why it's a strong fit:** this connects directly to material already
+scattered across the last few days' capture - the LEO/Local Enterprise
+Village grant supports (Digital for Business, Innovation Vouchers,
+Market Explorer Grant), Skillnets funding (already the single
+highest-leverage action flagged for Velocity AI itself), TAMS III
+(farm capital investment, with real compliance pitfalls already
+logged), and CAP/Budget 2027 scheme funding battles (fertiliser,
+tillage, beef/sheep support). A "grant intelligence" offering would
+sit naturally inside Business Transformation & Growth and Commercial &
+Deal, and gives Velocity AI/Golden Generation prospects a second,
+concrete reason to engage beyond the AI-training pitch alone.
+**Outputs:** Logged here as a new offering concept, not yet scoped,
+costed, or committed to.
+**Open loops:** Needs scoping - is this a standalone paid offering, a
+value-add bundled into existing Velocity AI/Meridian Concierge
+engagements, or a lead-generation tool (free scheme alerts that
+convert into paid advisory)? Also worth consolidating the now-
+scattered grant/scheme references (LEO, Skillnets, TAMS, CAP,
+Circular Economy) into one reference file if this idea is pursued,
+rather than leaving them loose across separate market_intel_* files.
+**Ventures touched:** Meridian Intelligence, Velocity AI, Golden Generation.
+**Pushed to Google Drive:** No (sync not yet wired up).
+---
