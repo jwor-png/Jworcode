@@ -367,6 +367,48 @@ which is Shane-intensive) can actually be sold and delivered in that
 window - worth being explicit about this with any prospect discussion that
 implies ongoing Shane involvement beyond 3-6 months.
 
+### Product Track - a second, parallel line alongside the services ladder
+(added 18 Sept 2026, John's own idea, direct answer to both the recurring-
+income gap and the Shane-capacity constraint above)
+
+This is deliberately **not** a seventh rung on the Scope-through-Advise
+services ladder. It is a separate track: productised, self-serve or
+subscription tech, built once from Shane's existing ODIN work, sold
+repeatedly without further Shane or John delivery time per sale. This is
+the most direct fix available for both problems just identified - the
+services ladder has no recurring revenue, and every rung above Scope/Train/
+Advise consumes real Shane or John time per client.
+
+**Two specific products John has identified as already existing inside
+Shane's wider ODIN work, not yet extracted/productised for sale:**
+1. **"AI Ready" self-assessment and scoring artifact** - lets a business
+   score its own AI maturity without John or Shane in the room. Natural
+   overlap with Rung 0 (Scope): could serve as both a standalone
+   subscription product *and* the top-of-funnel lead generator for the
+   whole services ladder, since the output (an OECD/G7-style maturity
+   score) is exactly what determines which service rung a business needs
+   next.
+2. **Boardroom Intelligence tech** - an ongoing governance/board-level tool,
+   not a one-off training session. The strongest current candidate for
+   genuine recurring subscription revenue, and it sits naturally alongside
+   Rung 3 (board AI literacy training) as the "keep using it" product
+   version of that one-off session.
+
+**General principle to apply going forward:** any capability already built
+inside ODIN that can be extracted and sold as a self-serve or subscription
+product should be actively identified as belonging to this track, separate
+from bespoke client-by-client Build work - this is the concrete answer to
+Shane not wanting to run a pure service business, since the product track
+scales without his ongoing time once shipped, unlike Build.
+
+**Status: idea stage, not yet scoped, costed, or built.** Needs a direct
+conversation with Shane on which parts of ODIN are actually extractable as
+standalone products without weakening the core organism (see Shane's own
+stated design principle in `childen.md`'s Q1 answer - ODIN is "one
+organism," not "thousands of products waiting to be broken apart and
+sold" - so this needs Shane's own judgement on what can be spun out
+without contradicting that principle, not assumed unilaterally).
+
 ---
 
 ## Honest Status Check (John and Shane, 5 August 2026 morning call)
