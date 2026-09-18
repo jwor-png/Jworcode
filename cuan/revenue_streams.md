@@ -357,6 +357,11 @@ filter/scorecard** - next step once the UHL month-by-month plan is drafted.
 8. Refine `prospect_list_combined.md` (125 companies) toward a qualified
    100, tagged against the OECD/G7 maturity stages - see that file directly
    for status, not duplicated here.
+9. **Confirm with Shane directly:** the correct name of the Portlaoise
+   estate agency business he's doing work for (John referred to it
+   verbally as "Properly," spelling/name not verified), plus detail on the
+   separate marketing work he's doing - neither is tracked anywhere yet.
+   This is John's action to take with Shane, not something Cuan can chase.
 
 ### Capacity constraint - Shane's time, stated by John (18 Sept)
 Shane's time is limited to training delivery only for the next 3-6 months,
