@@ -1,4 +1,13 @@
-# Golden Generation — Institutional Memory Offer (working title)
+# Institutional Memory Offer (working title, renamed 18 Sept 2026)
+
+**Renamed from "Golden Generation — Institutional Memory Offer."**
+John clarified (18 Sept 2026) that "Golden Generation" is to be used
+solely for the AIMES-based 16-week AI migration programme he and Shane
+have already run once jointly (see `childen.md` for Shane's own
+description of that pilot, delivered to senior decision-makers,
+multi-millionaires and retired ultra-high-net-worth individuals). This
+separate succession/institutional-knowledge concept below needs its
+own name if and when John returns to it — not yet decided.
 
 Exploratory concept, not committed. Developed at John's request (3 Aug) off the back of a YC Summer 2026 "Request for Startups" carousel (via @dadofstartup — third-party paraphrase of YC's document, not independently verified against YC's own published RFS). Two slides in that carousel — "Company Brain" and "The AI Operating System for Companies" — both describe turning scattered institutional knowledge into a living, AI-legible system. This is that idea, aimed specifically at Irish family/founder-owned SMEs facing succession.
 
@@ -28,7 +37,7 @@ A three-phase engagement, deliberately scoped so it doesn't require new software
 
 **Phase 3 — Governance (natural upsell into Ambrion).** Advise on how the resulting knowledge base connects to succession planning, IP protection, and — where the business is also adopting AI tools — EU AI Act-adjacent governance. This is where the offer stops being generic "knowledge management" and becomes something only a governance-literate AI advisor can credibly deliver.
 
-This uses all three entities coherently: Golden Generation for the framing and relationship (leadership legacy, second-half-of-career), Shane's technical side for Phase 2's actual system, Ambrion for Phase 3's governance layer. Meridian isn't needed here and shouldn't be named, per the standing framing rule.
+This uses all three entities coherently: this offer for the framing and relationship (leadership legacy, second-half-of-career), Shane's technical side for Phase 2's actual system, Ambrion for Phase 3's governance layer. Meridian isn't needed here and shouldn't be named, per the standing framing rule. **(Note: this line previously said "Golden Generation" — updated per the 18 Sept renaming; the underlying logic is unchanged.)**
 
 ## Buyer fit — this may not need new prospecting
 
@@ -49,6 +58,7 @@ Not costed. Your stated preference is value-based/project-based pricing, not tim
 3. **Succession is a sensitive conversation.** Owners can be resistant to discussing anything that implies exit or mortality. Positioning needs real care — this is a genuine execution risk, not just a marketing nuance.
 4. **Data sensitivity is real.** Capturing an owner's most sensitive commercial knowledge (pricing, supplier terms, customer relationships) into an AI system raises legitimate security/IP/governance questions. This cuts both ways: it's exactly the kind of thing that needs Ambrion's governance credibility to do safely, but it's also a real risk if the engagement isn't handled with rigour from day one.
 5. **Delivery capacity.** This requires actual interview and structuring work beyond identifying and approaching companies. Worth deciding early whether early clients get delivered personally by you and Shane, or whether this needs a delivery partner.
+6. **New name needed.** Now that "Golden Generation" is reserved for the AIMES executive AI-literacy programme, this concept needs its own name before it goes any further — not yet decided.
 
 ## Recommended next step — not a commitment
 

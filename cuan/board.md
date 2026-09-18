@@ -122,7 +122,16 @@ to discuss at 23 Sept Board meeting) — now awaiting Ray's response.
 🟢 Barber Republic — **London trip (3 Sept) went well.** John Jones wants a full investor pack and separately offered the Liberty London/Carnaby St concession as a standalone Barber Republic London base, funded by him for equity. Anthony Laban agreed to help recruit barbers/shops and back the launch publicly, also seeking equity. **Both offers live, unresolved — John hasn't committed to either**, wants to measure against Shane's actual commercial/funding modelling first. Johnny wants the £50k first-tranche dropped, pushing to raise the other £35k through the business directly instead. Interim investor document (short of a full pack — real revenue data doesn't exist yet) still needs building. Month One £15k PAID.
 🔴 Julianstown Mill — Fred Logue appeal formally lodged 31 Aug (PL-501978-MH-26), response due 23 Sept; **sale completion to John Lynch now explicitly pending the appeal outcome, not just fees**; Glynn's Solicitors gone quiet on closing prep — needs chasing; updated balancing statement drafted, awaiting reply
 🔴 Velocity AI — Gmail script fix still outstanding
-⚪ Golden Generation — nothing live right now
+🟡 **Golden Generation — naming clarified 18 Sept.** Solely the name
+for the AIMES-based 16-week executive AI-literacy/migration programme
+John and Shane have already run once jointly (piloted with senior
+decision-makers, multi-millionaires and retired ultra-high-net-worth
+individuals — see `childen.md`, Shane's Q1 Vatican answer). John: if
+extended into a standing offering for businesses to make senior
+management/executive teams AI-literate — similar to the UHL model —
+"yes 100%." Not yet scoped as a repeatable commercial offering. John's
+separate succession/institutional-knowledge idea has been renamed to
+`institutional_memory_offer_concept.md` to remove the naming clash.
 🟡 **Legacy Financial Matters — historic debts tracker (new, 8 Sept).**
 BOI Finance pursuing the MiDentalCare Serona dental chair lease
 (€3,201.60 balance) against the liquidated company and against Niamh
