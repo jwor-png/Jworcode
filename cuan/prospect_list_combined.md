@@ -8,6 +8,36 @@ Criteria: Irish-owned/founded, mid-market or regional, decision-maker reachable 
 
 **Mix across all 125:** 32 AI-specific evidence · 44 adjacent-signal · 49 sector-reasoned.
 
+## Refinement toward a qualified 100 (18 Sept 2026)
+
+John's instruction: narrow/refine this list toward 100 companies suitable
+for immediate outreach, each given a roadmap to AI consideration,
+development and adoption. Recommended method, using the OECD/G7 SME AI
+maturity classification (see `revenue_streams.md`, AI Adoption Offering
+Framework):
+
+- **AI-specific evidence (32)** - map to **Explorer/Optimiser**. Highest
+  priority: already doing something, most receptive to Build/Advise, not
+  just Train.
+- **Adjacent-signal (44)** - map to **Novice/Explorer** (real automation
+  investment, not yet AI-specific). Second priority: strong Scope + Train
+  entry point, genuine budget/appetite already evidenced.
+- **Sector-reasoned (49)** - map to **Novice**, or exclude. This tier has no
+  confirmed company-specific evidence at all - only 24 of these 49 should be
+  kept to reach 100 total (32 + 44 + 24), and those 24 should be
+  re-screened first against Shane's "wrong people" qualification filter
+  (evidenced top-down commitment, not just sector exposure) before being
+  added to an outreach batch, rather than mechanically taking the first 24
+  on the list.
+
+**Status: not yet executed.** This is the method, not the completed
+re-scoring - the actual row-by-row maturity tag and the cut to 24 from the
+sector-reasoned tier still need to be done as a dedicated pass, given the
+list's length (125 rows across two batches). Recommend running this as its
+own focused session rather than folding it into general conversation, so
+each company gets a properly considered maturity tag rather than a rushed
+one.
+
 ## Briefing note — what this is, in plain terms
 
 This is not a governance-led list. Selection was on general AI-relevance (sector exposure, scale, regulatory pressure, digital-transformation signal), not "who needs governance advisory." For outreach purposes this should not be introduced by product or entity name — no "Ambrion", no "Meridian". Introduce it as what Shane and John, between them, can bring: practical AI strategy and adoption advice grounded in real commercial and governance experience, hands-on technical AI architecture and implementation capability, and straight, board-level judgement on where AI genuinely helps versus where it's hype.

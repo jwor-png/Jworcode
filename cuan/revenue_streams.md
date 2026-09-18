@@ -147,12 +147,61 @@ conflate the two when reporting status. Revenue here is explicitly
 either individually** — the plan below is written as one shared commercial
 plan for John to bring to Shane, not John's proposal to Shane.
 
-### The proven pattern, stated as a five-rung ladder
+### Government-recommended AI adoption models — Ireland, Northern Ireland/UK,
+### EU (researched 18 Sept 2026, validates John's own instinct that scoping
+### should be the starting point, not an afterthought)
+
+- **Ireland (Enterprise Ireland/DETE):** the official model is the "AI
+  development ladder framework" - awareness-raising, then opportunities to
+  connect/explore/experiment with AI, then implementation assistance.
+  Enterprise Ireland is building a sector-by-sector AI Adoption Roadmap for
+  client companies with named "AI Sector Champions," and a new Observatory
+  for Business AI Readiness (OBAIR) is being stood up to track adoption in
+  real time. A national sectoral AI Adoption Strategy is due in 2026.
+  **REPORTED**, sourced from Enterprise Ireland/DETE's own published
+  strategy material.
+- **Northern Ireland:** the AI Competence Centre (AICC, Ulster University/
+  QUB-led, £16.3m Invest NI/Dept for Economy backed) matches businesses with
+  mentors and technical partners who walk them through implementation,
+  embedded in day-to-day operations. Recommended SME starting sequence:
+  appoint an "AI Custodian," write an Acceptable Use Policy, review vendor
+  contracts, set a quarterly review date - and a focused two-hour starter
+  session (what tools are used, what data can/can't go to external AI, what
+  needs human review, how to flag bad outputs) is considered sufficient as
+  the actual entry point for most SMEs. Live grant: the **Digital
+  Transformation Flexible Fund**, £5,000-£20,000, up to 70% of project
+  costs, for small/micro businesses adopting AI - add to the grant summary
+  below. **REPORTED**.
+- **EU:** European Digital Innovation Hubs run a Digital Maturity Assessment
+  (DMA) at the *start* of every client engagement and again after delivery -
+  exactly the scoping-study model, done first as standard practice.
+  Categories assessed: digital strategy/readiness, intelligence/automation,
+  data/connectedness, human-centric digitalisation. OECD/G7 research
+  classifies SMEs into four AI maturity stages: **Novices, Explorers,
+  Optimisers, Champions** - a useful one-line classification to borrow
+  directly for describing where a prospect sits before first contact.
+  **REPORTED**.
+
+**Implication for the ladder below:** government practice across all three
+jurisdictions puts assessment/scoping *before* training or implementation,
+confirming John's own instinct (18 Sept) that this should be the starting
+point. Rung 0 added below accordingly.
+
+### The proven pattern, stated as a six-rung ladder
 UHL and Barber Republic each demonstrate a different piece of the same
 underlying ladder. The plan is to make this ladder deliberate and repeatable,
 rather than something that happens by accident (as it largely has at UHL so
 far).
 
+0. **Scope — initial business and industry scoping study.** Not yet built as
+   a formal product, but per John (18 Sept) this should be the actual
+   starting point for every new client, not an afterthought - directly
+   validated by the EU EDIH's own practice of running a maturity assessment
+   before any service delivery. Recommend building this using the OECD/G7
+   Novice/Explorer/Optimiser/Champion classification as the assessment
+   output, so a prospect gets a plain, credible one-line diagnosis
+   (e.g. "AI Explorer") that leads naturally into which of the rungs below
+   they need next.
 1. **Train — executive/leadership orientation.** Proven at UHL, €10k,
    Velocity AI's productised offer.
 2. **Train — commercial team.** Not yet built out as a distinct product from
@@ -252,6 +301,10 @@ similarly-sized companies, rather than leaving UHL's success as a one-off.
 - UK government has stated ambition for SMEs to be "the most digitally
   capable and AI confident in the G7" - signals funding direction, not a
   specific live grant to apply for yet.
+- **Digital Transformation Flexible Fund (Northern Ireland)** - £5,000-
+  £20,000, up to 70% of project costs, for small/micro businesses adopting
+  AI. Live and specific, unlike the wider UK ambition statement above.
+  **REPORTED**.
 
 **EU**
 - **Digital Europe Programme** - ~€8.1bn total 2021-2027, ~€2.1bn
@@ -298,6 +351,21 @@ filter/scorecard** - next step once the UHL month-by-month plan is drafted.
 5. Ireland's own EDIH node - not yet identified or contacted.
 6. Whether Sensaii itself should be one of the ODIN modules formally
    targeted for hardening via the Build rung, per Shane's own decision.
+7. Rung 0 (Scoping/Assessment) needs an actual built product - a real
+   assessment instrument, not just the OECD/G7 label - before it can be
+   sold or offered.
+8. Refine `prospect_list_combined.md` (125 companies) toward a qualified
+   100, tagged against the OECD/G7 maturity stages - see that file directly
+   for status, not duplicated here.
+
+### Capacity constraint - Shane's time, stated by John (18 Sept)
+Shane's time is limited to training delivery only for the next 3-6 months,
+pending the ODIN/Asterial investment landing. **If servicing these accounts
+continues beyond that window, John leads it, not a shared commitment.** This
+is a real constraint on how much of the ladder above (particularly Build,
+which is Shane-intensive) can actually be sold and delivered in that
+window - worth being explicit about this with any prospect discussion that
+implies ongoing Shane involvement beyond 3-6 months.
 
 ---
 
