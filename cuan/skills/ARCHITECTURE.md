@@ -96,3 +96,15 @@ correctness vs. file production).
   under testing, including the case designed to catch a silent
   name/entity guess. Architecture proceeds to skill #2 (Verified
   Research and Challenge) next.
+- **Deliberate parallel build, John's decision (18 Sept 2026):** John's
+  ChatGPT/Council session independently produced its own document,
+  "John-ORourke-Skills-Architecture-v0.1.md" (eight shared standards,
+  twelve pressure-test cases, not yet behaviourally tested against a
+  built skill as of this date). Rather than reconcile the two systems,
+  John has chosen to **run both separately, on purpose, as a genuine
+  comparison** of which holds up better in real use. This is not a
+  conflict to resolve or merge - the two are intentionally independent
+  from this point. Cuan's version (this file and its sibling documents)
+  continues on its own build sequence regardless of what ChatGPT does
+  with its version. Future sessions should not attempt to merge them
+  without John explicitly asking for that.
