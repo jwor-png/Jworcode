@@ -354,9 +354,14 @@ filter/scorecard** - next step once the UHL month-by-month plan is drafted.
 7. Rung 0 (Scoping/Assessment) needs an actual built product - a real
    assessment instrument, not just the OECD/G7 label - before it can be
    sold or offered.
-8. Refine `prospect_list_combined.md` (125 companies) toward a qualified
-   100, tagged against the OECD/G7 maturity stages - see that file directly
-   for status, not duplicated here.
+8. ~~Refine `prospect_list_combined.md` (125 companies) toward a qualified
+   100~~ **DONE, 18 Sept 2026** - all 32 AI-specific + 44 adjacent-signal
+   rows kept, sector-reasoned tier cut to 24 on proxy signal (real
+   reachable decision-maker, scale/regulatory relevance, sector spread) -
+   **not** an evidenced-commitment screen, which can only happen at actual
+   first contact. Row 55 (United Hardware) corrected out of any outreach
+   batch - it's an existing client relationship, not a prospect. Full
+   detail and the 24 selected in `prospect_list_combined.md`.
 9. **Ambrion/Velocity email infrastructure - revisited 18 Sept, still not
    sorted.** Beyond the original mail.ambrion.ai POP3 auth failure, the
    Gmail copy cannot hold full Golden Generation/intelligence-training

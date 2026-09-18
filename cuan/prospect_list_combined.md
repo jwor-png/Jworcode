@@ -30,13 +30,74 @@ Framework):
   added to an outreach batch, rather than mechanically taking the first 24
   on the list.
 
-**Status: not yet executed.** This is the method, not the completed
-re-scoring - the actual row-by-row maturity tag and the cut to 24 from the
-sector-reasoned tier still need to be done as a dedicated pass, given the
-list's length (125 rows across two batches). Recommend running this as its
-own focused session rather than folding it into general conversation, so
-each company gets a properly considered maturity tag rather than a rushed
-one.
+**Status: executed 18 Sept 2026 — see the cut below.** Row-by-row maturity
+tagging for the 32 AI-specific and 44 adjacent-signal rows is a mechanical
+application of the mapping above (AI-specific → Explorer/Optimiser,
+adjacent-signal → Novice/Explorer) and doesn't need restating row-by-row
+here — apply it directly off the Confidence column in each table below.
+The harder part, the cut of the 49 sector-reasoned rows to 24, is done
+below, with an important honesty flag on method.
+
+**Correction, 18 Sept:** row 55, United Hardware, must be excluded from any
+outreach batch at any tier — it's already a live client relationship
+(Stream 2 in `revenue_streams.md`, John's board role), not a prospect.
+
+### The sector-reasoned cut to 24 — method and honesty flag
+Shane's qualification filter calls for "evidenced top-down commitment, not
+just sector exposure." That cannot honestly be applied here: by
+definition, every one of these 49 rows is one where desk research found
+**no company-specific evidence of anything**, including commitment.
+Evidenced commitment only exists once someone has actually had a
+conversation with the business — it cannot be manufactured from a search
+pass. So this cut is **not** a commitment screen. It's a ranking on the
+strongest available *proxy* signals — a real, reachable, single
+decision-maker (family/owner-led); genuine scale or regulatory exposure
+that makes AI governance conversation relevant; and sector spread across
+the 24, so the qualified 100 doesn't over-index on any one sector. The
+actual commitment test still happens at first contact, not on paper —
+this pass narrows who gets that first contact, nothing more.
+
+**The 24 selected** (row # from Batch A above):
+| # | Company | Why selected on proxy signal |
+|---|---|---|
+| 4 | Broker Solutions Ireland | Regulated insurance MGA, real governance/compliance relevance |
+| 7 | McCarthy Insurance Group | Decent scale (~200 staff, 16 branches), regulated broker |
+| 8 | All Ireland Insurance | Regulated broker sector, Dublin |
+| 16 | Portwest | Large family-owned manufacturer, real single ownership |
+| 22 | Clonakilty Food Co | Established family food brand, reachable owner |
+| 28 | PCO Manufacturing | 150+ staff, pharma packaging — real regulatory exposure |
+| 29 | Aerogen | Founder-led medtech, strong regulatory/governance fit |
+| 40 | Clancy Construction | Established Irish-owned contractor |
+| 44 | Delmec Engineering | Regulated telecoms infrastructure sector |
+| 45 | Controlled Environments Company (CEC) | "Hundreds globally" — real export scale, cleanroom regulation |
+| 46 | Cantwell Electrical Engineering | Family-owned, reachable decision-maker |
+| 50 | Clarke Machinery Ltd | Multi-county family dealer network |
+| 62 | Arrabawn/ArraTipp Co-op | Co-op board structure — natural governance-conversation fit |
+| 63 | McAuliffe Pig Farms | Family-owned but real EU-funded research partnerships — genuine innovation appetite even pre-AI |
+| 67 | Tully Forge | Family-owned fabrication, reachable |
+| 68 | Waldron Meats | Family-owned food producer |
+| 69 | Barry & Fitzwilliam | 60+ staff, family-owned wholesale distribution |
+| 72 | Masterlink Logistics | Established Irish logistics operator |
+| 73 | Fastway Couriers Ireland | ~400 staff/700+ franchisees — real operational complexity, franchise governance angle |
+| 78 | City Bin Co. | Established Irish-owned waste management operator |
+| 92 | Ohk Energy | 270+ staff — genuine scale, energy retrofit sector |
+| 93 | IQ Financial | Regulated financial planning, governance-relevant |
+| 117 | Keogh's Crisps | Well-known family food brand, already attended an AI-themed industry summit (soft interest signal) |
+| 118 | Lily O'Brien's | Well-known family food brand, same summit attendance as Keogh's |
+
+**Not selected, held in reserve rather than discarded:** the remaining 24
+sector-reasoned rows (Acorn Life, Service First, Sonas Bathrooms, Solar
+Precision, Dave Barry Plastics — also flagged for exclusion on ownership
+grounds, acquired by Ingersoll Rand Aug 2025 — Activ8 Solar Energies, Codd
+Mushrooms, HiTech Health, Galway Biomedical, MMS Medical, Jennings
+O'Donovan & Partners, Mack Engineering, Twomey's Bakery, Boann Distillery,
+Portobello Institute, Sigmar Recruitment, Joyce & Co Solicitors, Kennedy
+Fitzgerald LLP, MTM Engineering, NEG8 Carbon, Cavanaghs of Charleville,
+Marigot Ltd, Killowen Farm, West Cork Distillers) are weaker only on the
+proxy signals above (smaller/less-confirmed scale, thinner reachability
+information, or sector already well-represented in the 24) — not
+disqualified, and available to promote if any of the 24 fails at first
+contact.
 
 ## Briefing note — what this is, in plain terms
 
