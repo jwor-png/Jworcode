@@ -101,16 +101,181 @@ hierarchy) → the Vatican's office. **An invitation to travel to meet
 the Pope, or the Pope's representatives, is expected** — not yet
 received as of 2 Sept, but anticipated on the strength of this route.
 
-**New name — "Paul Tay" (Rome), described as having helped write the
-Pope's document.** [ASK — near-certain this is a mishearing of **Fr.
-Paolo Benanti**, the Vatican's prominent AI ethics advisor: the earlier
-Meridian revision notes on the six-pager explicitly referenced writing
-Section VII "in front of the technical advisers... this tells the
-Benanti-level reader this is their principle engineered, not quoted" —
-strongly suggesting Benanti is already the intended technical-adviser
-audience for this document. Flagging the likely match rather than
-asserting it as fact — John to confirm the name before it's treated as
-settled.]
+**RESOLVED, 17 Sept — name confirmed as Paul Tighe, not Benanti.**
+Mike Molloy confirmed in the group WhatsApp ("Leaving My Legacy with
+Hope!"): "Paul Tighe on behalf of Pope and his team is what we were
+told." This corrects the earlier speculative guess that the contact
+was Fr. Paolo Benanti — that was flagged explicitly as an unconfirmed
+guess at the time and should not have been treated as settled; it is
+now superseded by this direct confirmation. Archbishop Paul Tighe is
+a senior Vatican communications/culture official — a considerably
+more plausible fit than the earlier guess.
+
+### The three actual Vatican questions, confirmed 17 Sept 2026
+Received via Mike Molloy in the group WhatsApp, from Paul Tighe on
+behalf of the Pope and his team:
+1. What is your previous expertise/experience in technical projects,
+   and how successful have they been?
+2. How do you envisage a collaboration and partnership with the
+   Catholic Church and the wider Inter-Faith and Humanitarian
+   community?
+3. During the building of Childen, what could you do currently to
+   help protect children better and help other global problems?
+
+### John's own role, as he framed it to Shane (17 Sept, WhatsApp)
+Raised two practical questions for Mike: who actually raised these
+three questions, and whether the answers will be made available to
+Archbishop Martin ahead of the 29th ("that's important to know, assume
+they will"). On length, John's view: the current 3-page answer to
+Question 1 is right-sized ("brings one in to wanting to learn more")
+and should not be padded out to the fuller ~16-page draft, especially
+since two more question-answers still have to follow. **John's stated
+view of his own role at these meetings:** "a figurehead for the group,
+showing that we have structure, corporate understanding and stature
+and governance."
+
+### Question 1 answer — Shane's technical experience and expertise
+Two versions now on file: a polished 3-page "master" and the fuller
+~16-page long-form draft it was condensed from. Both are first-person,
+extensively personal narrative, not a CV-style summary. Full arc, in
+order:
+- **Taxi Chief** (from 2012, with a technical co-founder, Keith) —
+  booking/dispatch/CRM system for taxi operators, built years ahead of
+  Free Now/Uber's equivalent moves. Won Young Entrepreneur of the Year
+  and Emerging Entrepreneur of the Year. Turned down an offer of
+  roughly €2.5m for 10% of the company — later discovered the
+  underlying technology could not scale. Explicitly cited as his
+  formative lesson in ego, scalability, and verification, still
+  shaping how he builds today.
+- **Roster Chief** — web-based employee scheduling system, 138
+  companies from four countries applied to the pilot; ended when he
+  and Keith split, partly over work ethic.
+- **The Irish startup scene (2012-Covid)** — regularly bussed
+  Limerick-Dublin for startup/tech events; built Limerick's own
+  startup community from ~50-person, mostly-male/suited events into
+  ten monthly events within 3 months (Innovators Limerick, Startup
+  Weekend, Wild Atlantic Startup, a Cork-Donegal startup corridor).
+- **Creative Minds (Oct 2016)** — US Embassy/Intel/DCU Ryan Academy
+  social-entrepreneurship hackathon on refugee inclusion; the "22
+  different Lego ducks from the same box" exercise he cites as a
+  lasting influence on how perception/conditioning limits what people
+  can see in the same resources or problem.
+- **Grassroots Gazette** — grew to ~120,000 subscribers, one of
+  Europe's fastest-growing equestrian media brands, built on
+  "Independent Equine Media" (later "Be the Change"), explicitly
+  turning down sponsorship/advertising money to protect editorial
+  independence.
+- **Grassroots Journal** — AI-powered journalism system; published an
+  article 56 seconds after the photo when Constitution Hill lost to
+  State Man at Punchestown, April 2025 (vs. a normal 30-45 minute
+  turnaround), after three earlier failed attempts that same day.
+- **Vanta** — citizen-journalism system, "any story, anywhere, any
+  time, by anyone," used in Ukraine, Sudan, the US and elsewhere.
+- **HAY ("Hey, How Are You?")**, 2023 — Ireland's first equestrian
+  mental health week. Personal motivation stated directly: lost two
+  half-brothers to suicide within six months of each other, and
+  attended secondary school in Rathkeale during a period when suicide
+  was a serious community issue.
+- **EQUITAS** — origin explicitly tied to Ashling Murphy's murder (12
+  Jan 2022): his sister rang him, said "do something... you run a
+  media empire, f**king do something," and he promised he would.
+  EQUITAS (Latin for justice/fairness/equity) followed. He gave more
+  than half the company to two women, Sarah and Muireann, deliberately
+  not wanting to be a man leading a women's movement. Ran what is
+  believed to be the largest-ever equestrian mental health survey
+  (~1,400 responses), producing a mental health booklet. Spent ~14
+  months designing its AI newsroom (Editor-in-Chief, Deputy Editor,
+  operations manager, 6 additional managers, 7 supervisors covering
+  governance/ethics/safety, 18 AI journalists).
+- **Fianaise** — EQUITAS's women's rights evidence engine (Irish word
+  for witness/testimony/evidence): investigation, verification,
+  accountability, safeguarding, structured evidence rooms. Completed
+  August, in early-stage testing as of the draft.
+- **October 2024 — the personal turning point.** An 8-9 hour
+  conversation with AI at ~1am-6am asking whether it could become "an
+  extension of my mind." States he is neurodivergent, and frames AI as
+  turning traits that create friction in traditional environments
+  (pattern recognition, nonlinear thinking, speed of thought) into
+  advantages when paired with AI support for structure/memory/
+  verification. Direct quote: "AI gives people with neurodivergent
+  minds superpowers."
+- **Personalised intelligence orchestrations** — ~50 currently
+  operating across 5 countries, built around individuals' actual
+  habits/responsibilities/strengths/weaknesses/decisions.
+- **Eolas** (Irish for "knowledge") — his most-used and, per the
+  document, strongest investigative intelligence system: 21
+  layers/capabilities, an agent swarm, sourcing and verification built
+  in. An Arctic-briefing capability (climate/technology intelligence)
+  is currently moving toward early testing through a separate entity.
+- **Cognify** — "cognitive excavation" to help someone see patterns in
+  their own thinking/behaviour that bias otherwise hides from them.
+- **Dominion** — applies the 48 Laws of Power as a lens to prepare for
+  meetings/negotiations; ~100-200 users, mostly leaders/decision
+  makers.
+- **Councils** — systems built around the identifiable principles/
+  behaviours/philosophies of named real people (his own Council:
+  Steve Jobs, Jony Ive, Elon Musk, Maya Angelou, Peter Drucker, Alex
+  Ferguson) as alternative lenses on a decision, explicitly not agents
+  pretending to *be* those people.
+- **Fianna / Finn** — his product-production system/pipeline (design
+  thinking, governance, build, verification, launch); Finn (named for
+  Fionn mac Cumhaill and the Salmon of Knowledge) is the lead
+  orchestrator.
+- **The Crucible / Ogma / Luigh** — IP-hardening infrastructure: Ogma's
+  agent teams try to tear a system apart (weaknesses, gaps, poor
+  assumptions, governance/technical problems); Luigh then rebuilds it
+  stronger. Used across hundreds of systems. Explicit standard: "I do
+  not want to make products simply because I think they are good...
+  if there are still issues after that, I will stand over them because
+  I know we have actively gone looking for them."
+- **Abbie, Isabelle, Fordie** — personal AI capabilities built to cover
+  gaps he doesn't personally have (a CTO, a design head, an
+  orchestration-builder respectively), each deliberately named after
+  his nieces/nephew, explicitly framed as a way to keep the people he
+  loves present in his daily working life, not just functional
+  tooling.
+- **AIMES (AI Migration Education System) / "Golden Generation"
+  programme** — first pilot, 16 weeks, 8 modules, cohort of
+  multi-millionaires, senior decision-makers and retired
+  ultra-high-net-worth individuals. Explicit thesis stated: he
+  disagrees that 20-25 year-olds are automatically best positioned to
+  benefit from AI; the programme is about identity/mindset migration
+  and recognising that decades of real-world judgement remain valuable,
+  not about prompting technique. **Note: this is the same "Golden
+  Generation" name already used elsewhere in John's own venture
+  tracking (`ventures_dossier.md`) — worth clarifying with John/Shane
+  whether these are the same initiative, related, or coincidentally
+  named, since the file as it stands treats them as separate.**
+- **Governance** — describes dedicating effectively all of January
+  2026 (~15 hours/day) to governance, verification, cyber, safety and
+  regulation (incl. the EU AI Act), tested deliberately across
+  multiple frontier models (ChatGPT, Claude, Gemini, Grok, Perplexity)
+  rather than trusting one model's self-interpretation. States plainly
+  this governance work is what makes him credible to build something
+  as sensitive as Childen at all: "if I had not done that level of work
+  around governance... I would not pretend I had the capabilities or
+  understanding required to build responsibly in an area as sensitive
+  as child safety."
+- **ODIN** — "my baby," under Asterial, most of the last two years,
+  often 16-18 hour days, thousands of pieces of IP as "one organism"
+  (not a stripped-apart product catalogue), nine core areas (data,
+  media, intelligence, agent systems, autonomy, governance). States
+  most of the last 18-24 months has been deliberately kept in stealth,
+  contrasted against AI-sector hype/overclaiming.
+- **Social-good systems** — dementia, endometriosis, neurodivergence,
+  Parkinson's, explicitly sitting inside "the same wider social-good
+  company" as Childen. States plainly: "it is not a charity and it is
+  not an NGO. It is a company for social good." Each choice tied to a
+  named personal connection: his aunt Maureen (dementia — cites a
+  specific moment at a family wedding where reminding her of a
+  familiar face brought her back to ease); his sister and business
+  partner (endometriosis); his own neurodivergence; Parkinson's work
+  just beginning.
+- **Closing self-framing, repeated verbatim across the document:** "I
+  am an empathetic capitalist... How you make money matters. What you
+  build matters. What your system does to people matters. Who benefits
+  matters and who could be harmed matters," and "My legacy will be how
+  I impact the world and how I've changed people's lives."
 
 ## The documents (received 2 Sept 2026) — one-pager, two-pager, six-pager
 
