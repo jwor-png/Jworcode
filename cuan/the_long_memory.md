@@ -1,13 +1,12 @@
-# Institutional Memory Offer (working title, renamed 18 Sept 2026)
+# The Long Memory (formerly "Golden Generation — Institutional Memory Offer")
 
-**Renamed from "Golden Generation — Institutional Memory Offer."**
-John clarified (18 Sept 2026) that "Golden Generation" is to be used
-solely for the AIMES-based 16-week AI migration programme he and Shane
-have already run once jointly (see `childen.md` for Shane's own
-description of that pilot, delivered to senior decision-makers,
-multi-millionaires and retired ultra-high-net-worth individuals). This
-separate succession/institutional-knowledge concept below needs its
-own name if and when John returns to it — not yet decided.
+**Named 18 Sept 2026.** "Golden Generation" is now reserved solely for
+the AIMES-based 16-week AI migration programme John and Shane have
+already run once jointly (see `childen.md` for Shane's own description
+of that pilot, delivered to senior decision-makers, multi-millionaires
+and retired ultra-high-net-worth individuals). This separate
+succession/institutional-knowledge concept is now named **The Long
+Memory**, John's choice.
 
 Exploratory concept, not committed. Developed at John's request (3 Aug) off the back of a YC Summer 2026 "Request for Startups" carousel (via @dadofstartup — third-party paraphrase of YC's document, not independently verified against YC's own published RFS). Two slides in that carousel — "Company Brain" and "The AI Operating System for Companies" — both describe turning scattered institutional knowledge into a living, AI-legible system. This is that idea, aimed specifically at Irish family/founder-owned SMEs facing succession.
 
@@ -58,7 +57,7 @@ Not costed. Your stated preference is value-based/project-based pricing, not tim
 3. **Succession is a sensitive conversation.** Owners can be resistant to discussing anything that implies exit or mortality. Positioning needs real care — this is a genuine execution risk, not just a marketing nuance.
 4. **Data sensitivity is real.** Capturing an owner's most sensitive commercial knowledge (pricing, supplier terms, customer relationships) into an AI system raises legitimate security/IP/governance questions. This cuts both ways: it's exactly the kind of thing that needs Ambrion's governance credibility to do safely, but it's also a real risk if the engagement isn't handled with rigour from day one.
 5. **Delivery capacity.** This requires actual interview and structuring work beyond identifying and approaching companies. Worth deciding early whether early clients get delivered personally by you and Shane, or whether this needs a delivery partner.
-6. **New name needed.** Now that "Golden Generation" is reserved for the AIMES executive AI-literacy programme, this concept needs its own name before it goes any further — not yet decided.
+6. ~~New name needed.~~ **RESOLVED, 18 Sept — named "The Long Memory."**
 
 ## Recommended next step — not a commitment
 

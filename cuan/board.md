@@ -130,8 +130,8 @@ individuals — see `childen.md`, Shane's Q1 Vatican answer). John: if
 extended into a standing offering for businesses to make senior
 management/executive teams AI-literate — similar to the UHL model —
 "yes 100%." Not yet scoped as a repeatable commercial offering. John's
-separate succession/institutional-knowledge idea has been renamed to
-`institutional_memory_offer_concept.md` to remove the naming clash.
+separate succession/institutional-knowledge idea is now named **The
+Long Memory** (`the_long_memory.md`) to remove the naming clash.
 🟡 **Legacy Financial Matters — historic debts tracker (new, 8 Sept).**
 BOI Finance pursuing the MiDentalCare Serona dental chair lease
 (€3,201.60 balance) against the liquidated company and against Niamh
