@@ -108,3 +108,11 @@ correctness vs. file production).
   continues on its own build sequence regardless of what ChatGPT does
   with its version. Future sessions should not attempt to merge them
   without John explicitly asking for that.
+- **Skill #2 built and released (18 Sept 2026):** `verified-research`
+  built against this architecture, three full passes and one partial
+  pass on pressure testing (see
+  `cuan/skills/tests/verified-research-tests.md`) - the partial was
+  explained by the skill not yet existing when the test material was
+  originally logged, not a method flaw, and is flagged for re-testing
+  once the skill is in active use. Released as v1.0. Next:
+  Chat-to-Cuan Handover.
