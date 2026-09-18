@@ -249,6 +249,24 @@ Note: Dawn Farms is a scale outlier for this list (materially larger than "mid-m
 
 ---
 
+## Manually added, John's direction (19 Sept 2026)
+
+| # | Company | Sector | Region | Ownership | Approx. scale | AI-relevance evidence | Confidence |
+|---|---|---|---|---|---|---|---|
+| 126 | Brett Martin Ltd | Manufacturing (plastics/building products — roofing, drainage, sheet) | Newtownabbey, Co. Antrim | Family-owned (Martin family, private) | Large — one of Northern Ireland's largest private manufacturers | No company-specific AI/automation evidence found (not researched beyond confirming the company itself) | sector-reasoned |
+
+**Flag, stated plainly:** Brett Martin Ltd is Northern Ireland-headquartered,
+which is exactly the exclusion this list's own caveats already applied to
+other Best Managed Companies entries (see Caveat 2 below). Added anyway at
+John's explicit direction — his own relationship (per the UHL testimonial
+thread in `revenue_streams.md`, where Brett Martin is separately logged as
+a person Paul Candon flagged, possibly connected to this company/family)
+is judged to outweigh the region criterion here. Treated as an exception,
+not a change to the list's standing NI-exclusion rule for any other
+company.
+
+---
+
 ## Next: widening the net toward 200+
 
 John's direction (3 Aug): the two-week, two-batch structure is superseded — target is 200+ companies over the coming weeks, reflecting that there are many thousands of Irish businesses to work through.

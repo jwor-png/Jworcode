@@ -157,6 +157,11 @@ finding — flagged clearly so it isn't mistaken for qualification.
 | Keogh's Crisps | Food manufacturing | Dublin | Well-known family brand, attended an AI-themed industry summit (soft interest signal) |
 | Lily O'Brien's | Food manufacturing | Kildare | Well-known family brand, same summit attendance |
 
+### Added at John's explicit direction, 19 Sept 2026 — flagged exception
+| Company | Sector | Region | Reasoning |
+|---|---|---|---|
+| Brett Martin Ltd | Manufacturing (plastics/building products) | Newtownabbey, Co. Antrim (Northern Ireland) | Family-owned, large NI manufacturer. **Deviates from the list's own NI-exclusion criterion** (already applied to other Best Managed Companies entries) — added anyway on John's own relationship judgement, not on evidence. No AI-specific evidence researched or found. Treated as a one-off exception, not a change to the standing rule for any other company. |
+
 ### Reserve — not disqualified, weaker only on proxy strength (24)
 Acorn Life DAC · Service First · Sonas Bathrooms · Solar Precision ·
 Dave Barry Plastics (**also flagged for exclusion** — acquired by Ingersoll
