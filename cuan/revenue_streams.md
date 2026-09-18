@@ -665,10 +665,28 @@ leads.
      a capacity/completeness problem, not just an auth fault, and affects
      Ambrion and Velocity together, not Ambrion alone.
   John's own words: "I need to come back and sort this once and for all."
-  Not yet diagnosed why detail is being lost (POP3 pulling summaries only,
-  attachment stripping, thread truncation, mailbox size limits — none
-  confirmed) — needs Shane to look at properly rather than being patched
-  again piecemeal.
+
+  **Root cause found, 18 Sept 2026 — checked directly against the actual
+  failure emails in John's Gmail, not assumed:** both mailboxes run a
+  Google Apps Script function called `saveGmailAttachments` on a 15-minute
+  time-based trigger, presumably pulling email attachments across to
+  Drive. It has been failing continuously on both accounts:
+  - **jwor@ambrion.ai** — failed 97 times over a full 24-hour window
+    (16-17 Sept), error: "No item with the given ID could be found.
+    Possibly because you have not edited this item or you do not have
+    permission to access it." Points to a broken/missing Drive file or
+    folder ID the script references, not an auth problem.
+  - **john@velocityai.ie** — failed 3 times, 16 Sept afternoon, error:
+    "Service error: Drive" — a Drive-side fault (quota, permission, or
+    transient outage), different failure mode from the Ambrion side.
+
+  This is the live, current cause of missing detail (attachments are the
+  likely carrier of the Golden Generation/intelligence-training and UHL
+  material), separate from the older POP3 auth fault. **VERIFIED** against
+  the two forwarded Google Apps Script failure-notification emails
+  themselves (18 Sept, forwarded from both addresses to John's personal
+  Gmail). Needs Shane to fix the underlying script/Drive reference, not
+  another patch.
 - **UHL training rollout / testimonials:** Paul Candon has spoken to contacts
   about UHL training; John needs to contact Brett Martin on foot of that
   conversation, and secure testimonials from United Hardware to add credibility
