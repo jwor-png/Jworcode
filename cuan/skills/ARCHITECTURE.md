@@ -116,3 +116,11 @@ correctness vs. file production).
   originally logged, not a method flaw, and is flagged for re-testing
   once the skill is in active use. Released as v1.0. Next:
   Chat-to-Cuan Handover.
+- **Skill #3 built and released (18 Sept 2026):** `chat-to-cuan-handover`
+  built against this architecture, all four pressure-test cases passed
+  (see `cuan/skills/tests/chat-to-cuan-handover-tests.md`), including
+  the two designed specifically to probe the ChatGPT/Council/Cuan
+  boundary this skill exists to protect (the Golden Generation naming
+  conflict, and the two-architectures-in-parallel decision earlier in
+  this same session). Released as v1.0. Next: Revenue and Relationship
+  Review.
