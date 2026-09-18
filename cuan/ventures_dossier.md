@@ -2810,6 +2810,55 @@ over 6-12 months to find out whether there is a business at all.**
 4. Who is "John's team" here? No entity, no roles, no cap table defined
    anywhere in the source documents.
 
+### Related, new 19 Sept 2026 — Draft Ballyhoura Country Destination
+### Experience Development Plan, public consultation open
+**Source:** Statutory public notice (Fáilte Ireland / Ireland's Hidden
+Heartlands), seen by John in print 19 Sept 2026. **VERIFIED** against the
+notice text itself, not third-hand.
+- **What it is:** Fáilte Ireland has published a **Draft Ballyhoura
+  Country Destination Experience Development Plan**, plus an associated
+  Strategic Environmental Assessment (SEA) Environmental Report and an
+  Appropriate Assessment (AA) Natura Impact Statement, under the EU
+  Environmental Assessment of Certain Plans and Programmes Regulations
+  2004 (as amended).
+- **Public inspection window: 17 September to 15 October 2026** — on
+  Fáilte Ireland's own website
+  (failteireland.ie/en/irelands-hidden-heartlands/ballyhoura-country-development-plan),
+  on the Ballyhoura Development website, and in person at the Ballyhoura
+  Development offices in **Kilfinane, Co. Limerick** and **Mitchelstown,
+  Co. Cork**.
+- **Submissions/observations deadline: 15 October 2026** — written
+  submissions to Fiona Dunne, Regional Development Manager, Ireland's
+  Hidden Heartlands, or by email to ihh@failteireland.ie, both titled
+  "Draft Ballyhoura Country Destination Experience Development Plan."
+- **Why this matters directly, not just as background reading:** John
+  lives at Portauns, Kilmallock — inside the plan area — and already has
+  three live threads that touch the same Ballyhoura Development
+  relationship and geography:
+  1. **Kilmallock Water** (above) — Ballyhoura Development and Limerick
+     County Council are already engaged at an early stage on the
+     Knocksouna/Deebert site work, per the existing feasibility material.
+     A destination/experience development plan for the same area may
+     directly affect land use, zoning, or tourism-infrastructure framing
+     relevant to that project — worth checking the Draft Plan itself for
+     any Kilmallock-area references before 15 Oct.
+  2. **KEDL / JJ Craft Brewing** — John's KEDL directorship holds a
+     Kilmallock premises; a tourism/destination-experience plan for the
+     wider Ballyhoura area could bear on footfall, funding eligibility,
+     or enterprise-zone framing relevant to that asset.
+  3. **Tangible Ireland Group** — the annual Ambassador Summer School
+     runs in Kilmallock (originally at Ballyhoura Holiday Cabins), and
+     John is the local ambassador/anchor for "Kilmallock & Environs." A
+     regional destination-experience plan is directly relevant to the
+     2027 Summer School / Ryder Cup-adjacent tourism opportunity already
+     flagged in the Tangible entry below.
+- **Not yet actioned.** No submission drafted, no position taken on the
+  Draft Plan's content (not yet read). Flagged here purely because of the
+  live deadline (15 Oct 2026) and the three-way overlap above — worth a
+  decision on whether John or KEDL should read the Draft Plan and make a
+  submission, particularly regarding Kilmallock-specific content, before
+  the window closes.
+
 ---
 
 ## Thomond Healthcare Holdings Ltd / Ilex — Primary Care Centre (PCC) Portfolio
