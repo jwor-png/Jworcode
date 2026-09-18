@@ -419,6 +419,47 @@ without contradicting that principle, not assumed unilaterally).
 
 ---
 
+## EOLAS — "Twenty-One Ways to Use the Intelligence" (added 18 Sept 2026,
+## client-ready capability catalogue, direct spec for Rung 5 Advise)
+
+**Status: existing document, not yet formally logged as a sellable product
+until now.** This is the concrete Advise/subscription spec that Rung 5 of
+the AI Adoption ladder above was missing — a standing Eolas subscription,
+distinct from bespoke one-off Meridian reporting.
+
+**What it is:** a capability catalogue framed entirely as buyer questions
+rather than technical description — "what can this tell me about X" rather
+than "here is what the system does." Tiered pricing by number of uses
+selected: 3 / 5 / 8 / 12 / 21, with always-on monitoring running across
+whatever combination the client chooses.
+
+**The governance/verification spine — the standout, reusable across all of
+Meridian's Advise work, not just Eolas:**
+- Every output is checked by a second model, on a different tier from the
+  one that produced it.
+- Checked against primary sources, minimum two independent sources.
+- Outputs naming a specific person or making a specific factual claim get a
+  heavier verification gate.
+- Human sign-off required before release of any such output.
+
+This directly reinforces the "governed autonomy" positioning already
+established for Meridian, and gives Rung 5 (Advise) a concrete, evidenced
+product rather than an ad hoc consultancy description.
+
+**Commercial framing:** sell as a standing subscription (recurring, not
+one-off), separate from bespoke Meridian reporting engagements — this is
+the closest thing on this page to genuine monthly/subscription income
+outside the Product Track (AI Ready, Boardroom Intelligence) already
+logged above.
+
+**Not yet done:** pricing has not been cross-checked against the Product
+Track's AI Ready/Boardroom Intelligence pricing to avoid overlap or
+undercutting; go-to-market sequencing (who gets offered this first — likely
+an existing Advise-stage relationship such as Paul Candon's stalled
+Specialist Affiliate Group report) not yet decided.
+
+---
+
 ## Honest Status Check (John and Shane, 5 August 2026 morning call)
 
 **Current real revenue is effectively United Hardware training — one client,
