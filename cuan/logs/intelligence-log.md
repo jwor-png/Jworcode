@@ -23,6 +23,30 @@ One entry per session. Format is fixed — both systems write to this file.
 
 <!-- ENTRIES BEGIN BELOW — newest first -->
 
+### [2026-09-18] [Cuan → Meridian] [REPORTED/OPINION]
+**Source:** Cuan (standing rule, no live Meridian session)
+**Domain(s):** AI Strategy & Governance; Commercial & Deal (AI Adoption
+Offering framework)
+**Summary:** John shared a five-item batch — two Instagram clips (Emad
+Mostaque/Stability AI on a possible permanent two-tier AI access system;
+Duy Doan/Magnitudeminds on no enterprise having actually solved agentic AI,
+and enterprises potentially adopting it slower than smaller companies) and
+three print cuttings (Irish Independent "A-rated new homes" running-cost
+piece, no venture tie; Bloomberg wire on Nvidia's Jensen Huang calling for
+AI safety tests at a King Charles-convened Scotland AI summit alongside
+OpenAI/Google DeepMind/Anthropic leadership; Irish Independent on Indeed
+data showing AI-related job ads at 14.9% of all Irish postings, the highest
+in tracked Europe). Full detail and sourcing tags in
+`market_intel_ai_summit_stats_batch_sept2026.md`.
+**Outputs:** `market_intel_ai_summit_stats_batch_sept2026.md` created.
+**Open loops:** None requiring action — logged for reference and framework
+reinforcement only.
+**Ventures touched:** Meridian Intelligence (AI Strategy & Governance
+domain); Ambrion AI / Velocity AI (AI Adoption Offering framework —
+enterprise-vs-SME fit argument, Ireland AI-hiring stat).
+**Pushed to Google Drive:** No.
+---
+
 ### [2026-09-07] [Cuan → Meridian] [REPORTED]
 **Source:** Cuan (standing rule, no live Meridian session)
 **Domain(s):** Commercial & Deal (founder-stage/funding framing); Barber Republic
