@@ -124,3 +124,11 @@ correctness vs. file production).
   conflict, and the two-architectures-in-parallel decision earlier in
   this same session). Released as v1.0. Next: Revenue and Relationship
   Review.
+- **Skill #4 built and released (18 Sept 2026):** `revenue-relationship-review`
+  built against this architecture, all four pressure-test cases passed
+  (see `cuan/skills/tests/revenue-relationship-review-tests.md`),
+  including a case confirming it treats already-resolved conflicts (the
+  AHL AGM timing decision) as settled rather than re-litigating them on
+  every run. Released as v1.0. **All four skills in the original build
+  sequence are now built, tested and released.** Skills 5-9 from the
+  original ten-item list remain deferred until John asks to proceed.
