@@ -23,6 +23,24 @@ One entry per session. Format is fixed — both systems write to this file.
 
 <!-- ENTRIES BEGIN BELOW — newest first -->
 
+### [2026-09-19] [Cuan → Meridian] [REPORTED/OPINION]
+**Source:** Cuan (standing rule, no live Meridian session)
+**Domain(s):** AI Strategy & Governance
+**Summary:** John shared an FT Opinion piece (Patrick Foulis) responding
+to Dario Amodei's essay proposing "golden rules" to limit corporate
+sprawl/diversification, questioning whether Anthropic's own scale
+ambitions square with the restraint it recommends for others. Second FT
+data point (after the 22 Aug IPO analysis) on an independent, skeptical
+thread scrutinising Anthropic's own stated principles - worth tracking
+as a developing pattern, not a one-off, given Cuan itself runs on
+Claude. Full detail in `market_intel_ft_anthropic_golden_rules_sept2026.md`.
+**Outputs:** `market_intel_ft_anthropic_golden_rules_sept2026.md` created.
+**Open loops:** None requiring action - logged as a watch-thread entry.
+**Ventures touched:** Meridian Intelligence (AI Strategy & Governance
+domain, governance-credibility framing).
+**Pushed to Google Drive:** No.
+---
+
 ### [2026-09-19] [Cuan → Meridian] [REPORTED]
 **Source:** Cuan (standing rule, no live Meridian session)
 **Domain(s):** AI Strategy & Governance; Commercial & Deal (Intelligence
