@@ -2871,6 +2871,41 @@ notice text itself, not third-hand.
   submission, particularly regarding Kilmallock-specific content, before
   the window closes.
 
+### Related grant channel, seen 19 Sept 2026 — Community Foundation
+### Ireland / NPWS Biodiversity Fund, 2026 round now open
+Limerick Leader "Eco Live" coverage of a live grant round, logged here as
+a fourth thread in the same Limerick/Ballyhoura civic cluster, not tied
+to any specific project decision yet.
+- **What it is:** Community Foundation Ireland, in partnership with the
+  National Parks and Wildlife Service (NPWS), has invested over €2.5m
+  since 2019 (Biodiversity Emergency Fund, established 2019 following
+  the declaration of a National Biodiversity Emergency); the 2026 grant
+  round is now open, with a further €170,000 distributed in the most
+  recent round from a fund that has given out over €2 million in support
+  to date across 300+ communities. More than 5,000 volunteers, community
+  and charitable partners have taken part.
+- **Two funding strands:**
+  1. **Biodiversity Action Plan Development Grants** — €6,000 to €10,000,
+     for communities seeking to work with an ecologist to assess local
+     biodiversity, identify priorities, and develop an action plan.
+  2. **Biodiversity Action Plan Implementation Grants** — up to €12,000,
+     for communities with an existing Biodiversity Action Plan ready to
+     put it into action (habitats, species, coastal habitats, forests,
+     rivers, peatlands).
+- **Named contacts/quotes:** Minister of State for Nature, Heritage and
+  Biodiversity Christopher O'Sullivan TD; Deirdre Lynn (National Parks
+  and Wildlife Service); Denise Charlton (chief executive, Community
+  Foundation Ireland). Full details/eligibility at
+  communityfoundation.ie.
+- **Why logged here rather than skipped:** this is exactly the kind of
+  grant a live local site or civic initiative (Julianstown's
+  redevelopment, the Ballyhoura consultation response, or a KEDL-linked
+  community initiative) could plausibly draw on, given the same
+  Limerick/Kilmallock civic sphere already active. **Not yet tied to any
+  specific project or application** — logged for awareness only, per the
+  general local-intelligence pattern already used for Richard Rice and
+  the Ballyhoura consultation.
+
 ---
 
 ## Thomond Healthcare Holdings Ltd / Ilex — Primary Care Centre (PCC) Portfolio
