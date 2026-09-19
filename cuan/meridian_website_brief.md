@@ -51,11 +51,40 @@ invented/estimated):**
 - White for headline/wordmark text; near-black (`#0A0A0A`-ish) body text on
   white page backgrounds in the overview document itself.
 
-**Next step:** replace the prototype's invented placeholder palette with
-this real one, and drop `meridian_logo.png` in as the actual mark (nav +
-favicon) instead of the low-res phone-screenshot version currently in use.
-Not yet done — this entry records that the asset blocker is cleared, not
-that the site has been rebuilt with it.
+**Rebuild done, 19 Sept 2026.** Pulled the existing site build from
+`claude/meridian-new-website-s043eq` (`website/index.html`, `styles.css`,
+`script.js`, plus its existing asset files) into this branch's working
+tree at the same `website/` path, and re-skinned it with the real
+branding:
+- Replaced the invented placeholder palette (paper/ink/brass) with the
+  real one sampled above — `--brass` now holds the real teal
+  (`#048C79` light / `#06B499` dark), added a `--blue` variable
+  (`#0B7FCC` light / `#009FFE` dark) used for the hero's italic
+  "complex" and available for further accent use. Dark-mode background
+  changed to the real navy `#050F1E` (was a generic dark grey).
+- Cropped a clean square icon (`website/assets/meridian-mark.png`, 512×512,
+  navy-padded circuit-M) directly from the real logo, and regenerated
+  `favicon-256.png` from it — replaces the low-res phone-screenshot
+  version. Removed the unused duplicate `meridian-logo.png` asset.
+- Swapped the Chairman section's fake circular "M" placeholder for the
+  real mark image.
+- Updated `script.js`'s canvas "spine" line colour from brass to the real
+  teal RGB values.
+- **Fixed a genuine layout bug found while testing, unrelated to
+  branding:** the seven-domain grid left a dangling empty cell (2-column
+  grid, odd count) — the 7th domain now spans full width instead.
+- Verified visually via a headless-browser screenshot pass, light and
+  dark mode, desktop and mobile.
+
+**Known pre-existing issue, not fixed, flagged for a decision:** on
+narrow mobile widths the top nav links overlap the wordmark — there's no
+mobile menu collapse in the original build. Present before this rebrand
+too; not addressed here since it's a layout fix, not a branding one.
+
+**Not yet done:** deploy/hosting/domain decision (see Launch sequencing
+below) — this rebuild only updates the local working copy on
+`claude/trusting-volta-8gtmab` at `website/`, it has not been pushed to
+or merged with the separate `claude/meridian-new-website-s043eq` branch.
 
 ---
 
