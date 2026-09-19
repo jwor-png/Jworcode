@@ -23,6 +23,27 @@ One entry per session. Format is fixed — both systems write to this file.
 
 <!-- ENTRIES BEGIN BELOW — newest first -->
 
+### [2026-09-19] [Cuan → Meridian] [REPORTED]
+**Source:** Cuan (standing rule, no live Meridian session)
+**Domain(s):** AI Strategy & Governance; Commercial & Deal (Intelligence
+Concierge product validation)
+**Summary:** John shared an FT feature on parents using generative AI
+(Claude, ChatGPT, Lovable) to run family/household logistics — named,
+on-record examples including a weekly AI-generated family report built
+from email/calendar access, closely mirroring Cuan's own existing
+operating pattern. The article also draws an explicit AI-for-logistics-
+vs-AI-for-judgment line (two named founders), echoing Meridian's own
+"informs, does not represent" positioning. Full detail in
+`market_intel_ft_ai_household_sept2026.md`.
+**Outputs:** `market_intel_ft_ai_household_sept2026.md` created.
+**Open loops:** None requiring action — logged as third-party validation
+and positioning-reinforcement material.
+**Ventures touched:** Intelligence Concierge (Cuan's productised
+version); Meridian Intelligence (AI Strategy & Governance domain,
+positioning).
+**Pushed to Google Drive:** No.
+---
+
 ### [2026-09-18] [Cuan → Meridian] [REPORTED/OPINION]
 **Source:** Cuan (standing rule, no live Meridian session)
 **Domain(s):** AI Strategy & Governance; Commercial & Deal (AI Adoption
