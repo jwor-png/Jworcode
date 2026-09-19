@@ -924,8 +924,23 @@ are flagged for confirmation, never guessed.
     policy (comprehensive cover carries across, same €300 excess/NCD),
     arranged directly with Campion (Ann Marie Brennan, renew@campion.com
     or 059 916 7720, ref OROJ24002) before Owen's jeep is actually
-    driven. **Not yet actioned — draft email prepared, not yet sent as
-    of this session.**
+    driven.
+  - **Vehicle detail so far:** a "10 D" Land Rover (2010, Dublin
+    registration) — **only the year and county code confirmed, not the
+    full plate.** Draft email to Campion prepared but **held, not sent**
+    — John to revisit in the morning once he has the full registration
+    from Owen.
+  - **Related, flagged by John 19 Sept, not yet discussed:** dealing with
+    the Irish motor tax authorities on this also — not yet scoped what
+    specifically needs addressing (e.g. whether Owen's Land Rover is
+    taxed and on what basis). Worth noting a real precedent from Owen's
+    *previous* jeep (a Land Rover Defender, per 2022 Gmail thread
+    "Insurance -Owen's Jeep"): that vehicle had an unresolved Private vs
+    Commercial classification dispute between motor tax and insurance
+    that caused real friction (temporary cover, NCT requirement raised
+    by the insurer to help resolve it) — worth checking whether the
+    current Land Rover has any similar classification ambiguity before
+    assuming this is a simple tax-disc formality.
 - **Majella's Newcastle West contact ("Majella Boat" — name/spelling to
   confirm) re: a bank account matter** — John needs to call her back.
 - **Phone voicemail rings too short** — John wants the number of rings
