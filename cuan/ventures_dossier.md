@@ -3719,9 +3719,9 @@ Two live share-transfer requests to instruct BDO on, for a fee quote:
     confirmed none of the restricted members were invited (it's an
     informal meeting for general discussion), and committed to send him
     the meeting email that evening (18 Sept), with a follow-up call
-    planned for Monday once Ignatius has it. **Not yet confirmed whether
-    that email was actually sent** — an intention/commitment, not yet
-    verified as completed.
+    planned for Monday once Ignatius has it. **Confirmed sent, 19 Sept —
+    John sent the meeting notice to Ignatius as a screenshot via
+    WhatsApp.**
   - **The meeting itself, per the actual notice sent (WhatsApp, 9 Jul
     thread):** shareholders' meeting Wednesday 23 September 2026,
     ~1:15pm, Green Isle Hotel, Dublin, immediately after the AGM — to
