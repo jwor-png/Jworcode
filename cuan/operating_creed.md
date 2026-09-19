@@ -893,6 +893,39 @@ are flagged for confirmation, never guessed.
   days before 23 Sept if Statement of Fact details are wrong, or terms are
   treated as confirmed by default.** John to review and decide (Zurich vs
   RedClick) in the coming days.
+- **Range Rover Evoque temporarily off road — motor insurance question,
+  19 Sept 2026.** Evoque (reg 191D15974) acting up; John needs to drive
+  Owen's jeep for about a week instead. Owen's jeep currently has **no
+  insurance of its own** — he moved his own cover to a new car — so
+  driving it requires either a temporary change of insured vehicle on
+  John's own AXA policy, or relying on that policy's Driving Other Cars
+  (DOC) extension.
+  - **Motor policy detail, confirmed directly from the actual AXA/Campion
+    documents (client ref OROJ24002, motor policy 163001340, distinct
+    from the household policy OROJ24001 above)**: AXA FreedomFirst Plus,
+    Comprehensive, renewed 1 Nov 2025, €869.01 total premium, €300 own-
+    damage excess, 50% No Claims Discount (5 years claims-free), named
+    drivers John, Majella, Niamh, Owen.
+  - **DOC extension confirmed to apply to Owen's jeep**, per this year's
+    Notice of Changes: third-party-only cover, driver must be 25-70
+    (John qualifies), the other vehicle must be roadworthy with a valid
+    NCT/MOT, and — the one exclusion that could have ruled it out —
+    "jeeps with no seats in the back" are excluded. **John confirmed
+    19 Sept Owen's jeep has proper rear seats**, so that exclusion
+    doesn't apply. Cover area is Ireland/UK only (narrowed from Europe
+    this year). Ownership exclusion only rules out vehicles belonging to
+    a spouse/partner/employer — doesn't catch a son's vehicle.
+  - **The real gap in DOC: third-party only.** No cover for damage to,
+    fire, or theft of Owen's jeep itself while John is using it — and
+    since the jeep has no policy of its own, that risk sits entirely on
+    John/Owen if anything happens to it during the week.
+  - **Recommendation given to John:** use DOC only as a fallback. The
+    better route is a temporary change of insured vehicle on John's own
+    policy (comprehensive cover carries across, same €300 excess/NCD),
+    arranged directly with Campion (Ann Marie Brennan, renew@campion.com
+    or 059 916 7720, ref OROJ24002) before Owen's jeep is actually
+    driven. **Not yet actioned — draft email prepared, not yet sent as
+    of this session.**
 - **Majella's Newcastle West contact ("Majella Boat" — name/spelling to
   confirm) re: a bank account matter** — John needs to call her back.
 - **Phone voicemail rings too short** — John wants the number of rings
