@@ -446,3 +446,34 @@ prompted by the article. Key facts from the piece, for reference:
 
 Logged as a personal health note — no action required, just confirming
 an existing habit for the record.
+
+## "7 Rules Disciplined People Live By" — Instagram (@theselfmasteryhq),
+## shared 19 Sept 2026
+A 9-part carousel/reply thread John shared, generic self-discipline
+content, not independently verified against any named source or study
+— logged as material he flagged as resonant, per this file's purpose,
+not as established fact.
+
+1. **Never negotiate with the plan.** Once it's set, it's set. Feelings
+   don't get a vote on execution day. "Decide once. Execute always."
+2. **Show up before you feel ready.** Waiting for the right mood wastes
+   time. Action creates readiness, not the other way around. "Start
+   messy. Refine later."
+3. **Guard your energy like currency.** Not every request deserves a
+   yes; not every thought deserves your focus. "Spend it only where it
+   compounds."
+4. **Choose long-term wins over short-term comfort.** Delay the reward
+   and multiply it. "Patience is a competitive advantage."
+5. **Track results, not feelings.** "Feelings lie. Numbers don't." Let
+   evidence guide the next move, not mood. "Data over drama."
+6. **Finish what gets started.** Half-finished goals pile up as quiet
+   self-doubt; completion builds a track record you can trust.
+7. **Reset fast after a slip.** One missed day isn't a failed system —
+   disciplined people get back on track immediately, no spiral.
+
+**Possible link worth noting, not asserted as intentional:** rules 5
+("track results, not feelings") and 7 ("reset fast, no spiral") echo
+the same practical, non-punitive self-management thread already
+running through this file (the wellbeing-audit material, the "1-2
+changes not a full overhaul" advice from 10 Sept) — another data point
+for the emerging John Personal Compass rather than a new direction.
