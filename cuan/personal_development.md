@@ -477,3 +477,56 @@ the same practical, non-punitive self-management thread already
 running through this file (the wellbeing-audit material, the "1-2
 changes not a full overhaul" advice from 10 Sept) — another data point
 for the emerging John Personal Compass rather than a new direction.
+
+## "10 Habits That'll Put You Years Ahead Of 99% Of People" — Threads
+## (@itsranajitkodag), shared 19 Sept 2026
+A second, longer thread of the same kind, shared the same day as the
+carousel above. Generic self-discipline content, not independently
+verified against any named source or study — logged per this file's
+purpose as material John flagged, not as established fact.
+
+1. **Make discipline feel normal.** Stop waiting to feel motivated. Do
+   the work when nobody is watching, when the excitement is gone, when
+   nobody cares — the ability to keep going after motivation disappears
+   is where most people fall behind.
+2. **Protect your attention like money.** Every notification, argument
+   and scroll takes something from you. Attention decides what gets
+   built. Stop donating it to things you won't remember tomorrow.
+3. **Do the thing you keep avoiding.** The uncomfortable conversation,
+   the difficult project, the postponed skill — these often have the
+   highest potential to change your life. Stop negotiating with
+   yourself.
+4. **Become harder to distract.** Not another productivity hack — sit
+   down and finish something without checking your phone every five
+   minutes. One uninterrupted hour can beat a full day of scattered
+   effort.
+5. **Turn your mistakes into tuition.** After every mistake, ask what
+   it taught you and what you'll do differently. Learn the lesson once
+   instead of paying for it repeatedly.
+6. **Build a life that doesn't need escaping from.** If every free
+   moment requires entertainment, something is wrong. Work you care
+   about, people you love, a healthy body, a quiet mind — you don't
+   need constant stimulation to feel alive.
+7. **Become financially difficult to break.** Don't let every
+   unexpected expense become an emergency. Spend below your means,
+   build savings, increase your skills, create additional income.
+   Financial breathing room gives you choices.
+8. **Stop needing everyone to understand you.** Not everyone will
+   support your goals or decisions. Explain yourself when necessary,
+   but don't build your life around approval from people who aren't
+   living it.
+9. **Raise your standards for yourself.** Keep the promises you make
+   when nobody else knows about them. Self-respect grows when your
+   actions start matching the person you claim you want to become.
+10. **Play the long game relentlessly.** Don't destroy your future
+    trying to impress people today. Give your skills, reputation,
+    money and work time to compound. Most people quit because results
+    are invisible — keep going long enough for them to become
+    impossible to ignore.
+
+**Same thread as the carousel above, more explicitly this time:** rule
+6 (a life that doesn't need escaping from) and rule 7 (financial
+breathing room, not emergency-driven) both sit close to the wellbeing-
+audit and legacy-financial-resolution work already tracked elsewhere in
+Cuan (`operating_creed.md`, `personal_estate_retirement_plan.md`) —
+another reinforcing data point, not a new instruction.
