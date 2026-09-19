@@ -418,6 +418,79 @@ AI involvement (including asking Cuan) as the planning/thinking stage
 only, consistent with how this entire estate plan already treats the
 AI/human division of labour.
 
+### 3.10 — Five ways to protect savings from inflation (Liam Croke,
+### Limerick Leader "Making Cents," 5 Sept 2026 — earlier than §3.8's
+### AVC piece, logged now)
+A second Liam Croke column, predating the AVC/DB pension one already at
+§3.8. Directly reinforces Track 1 (resolve the past) and Track 2 (drive
+revenue) of this plan, not just the estate-planning tracks.
+
+**The core numbers, worth having on record:** Irish inflation has run
++7.8% (2022), +6.3% (2023), +2.1% (2024), and is currently **3.7%**
+(2026), with the Central Bank warning it could reach **5% next year in
+a severe scenario**. Croke's benchmark: to just hold savings' real
+value, a net return of **at least 3.6%/year** is needed right now — a
+demand deposit account paying 0.10% gross (0.067% after tax) actually
+**loses** value in real terms, illustrated with a worked example: €35,000
+left untouched at ~3% average inflation over three years would still
+show €35,000 on a statement but be worth meaningfully less in real
+terms. A worked DIRT example in the piece: a "2.5% return" account,
+after 33% DIRT and inflation, was actually a **-0.525% real loss**,
+though the saver believed they'd gained.
+
+**The five options Croke recommends, in order presented:**
+1. **Equity-based investing** — a hedge against inflation since markets
+   tend to outpace it over time, capital not guaranteed. Worked risk-
+   rating data given: Risk 2 funds returned 3.11%/4.00% (1yr/3yr), Risk 3
+   returned 7.39%/7.00%, Risk 4 returned 14.35%/11.60%, Risk 5 returned
+   23.11%/17.20% — even low-risk-rated funds (Risk 2) can match or beat
+   inflation.
+2. **Pay off high-interest debt** — directly on point for this plan's
+   own Track 1 (Legacy Financial Matters tracker): if short-term debt
+   costs more than achievable deposit returns, clearing it is
+   mathematically equivalent to an investment return, e.g. clearing 20%
+   credit card debt is a guaranteed 20% "return." Two conditions Croke
+   attaches, worth checking against any legacy debt decision: don't
+   exhaust the emergency fund to do it, and don't clear debt earmarked
+   money that's needed for something else already planned.
+3. **Overpay the mortgage** — worked example showing a 3% mortgage rate
+   requires an 8.44% gross deposit/equity return to match, once DIRT
+   (33%) and exit tax (38%) are factored in — a materially higher
+   equivalent return than most savings vehicles offer without taking
+   real risk. **Not directly applicable** — no John mortgage currently
+   logged in Cuan's files, flagged here for completeness only.
+4. **Invest in your pension** — reinforces §3.6/§3.8 directly: a 40%
+   taxpayer's €100 pension contribution costs €60 net (an instant 67%
+   return before any fund growth), and an employer match doubles the
+   effective benefit again (Croke's example: a matched €100/€100 costs
+   €60 net for €200 invested, a 233% uplift). Consistent with §3.8's own
+   AVC cost-comparison figures already logged.
+5. **Peer-to-peer lending** (platforms named: Linked Finance, Grid
+   Finance) — lending to companies/individuals directly for a negotiated
+   rate, reported ~10%/year over four years by a named example in the
+   column. **New to this plan, not previously logged anywhere in
+   Cuan.** Croke's own framing: it's a mechanism connecting savers to
+   borrowers who want better terms/faster access than a bank, not a
+   product with a guaranteed return — genuinely higher risk than the
+   other four options, since it depends on borrower repayment, not
+   backed by deposit protection the way a bank account is. **Not yet
+   assessed for John's own risk appetite or need** — logged as an option
+   to be aware of, not a recommendation.
+
+**Why this matters for the plan as a whole:** items 2 and 4 are not new
+information (the debt-clearance logic already underpins Track 1, and the
+pension tax-relief math already matches §3.8's AVC figures almost
+exactly), which is a useful independent cross-check that the numbers
+already in this plan are consistent with mainstream financial-planning
+advice, not an outlier. Item 5 (peer-to-peer lending) is the one
+genuinely new consideration, flagged for a future conversation rather
+than acted on here.
+
+**REPORTED** — Liam Croke is MD of Harmonics Financial Ltd, Plassey; a
+named financial professional's column, not independently re-verified
+against the underlying fund performance data or CSO inflation figures
+cited.
+
 ---
 
 ## What "done" looks like for this plan
