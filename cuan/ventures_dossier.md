@@ -3711,6 +3711,26 @@ guessed:**
 ### AHL — share transfer quotes needed (BDO)
 Two live share-transfer requests to instruct BDO on, for a fee quote:
 - **Ignatius Cahill** (igncahill@yahoo.com) — confirmed thread "AHL Shares," ongoing since June 2026. Ignatius purchased AHL shares from **Conor O'Boyle** and wants them transferred into his name; the liquidator has agreed. John told him 25 Aug the fee quote from BDO was being sought — **still not actually instructed to BDO as of this session**, per the search. Action: instruct BDO for the quote now.
+  - **Update, 19 Sept (WhatsApp).** BDO now has queries on the share
+    transfer and is to revert to John Monday; John told Ignatius he'll
+    be straight on to him once BDO replies. Separately, Ignatius flagged
+    he wasn't notified about the shareholders' meeting following the 23
+    Sept AGM — John acknowledged this as "an omission on my part,"
+    confirmed none of the restricted members were invited (it's an
+    informal meeting for general discussion), and committed to send him
+    the meeting email that evening (18 Sept), with a follow-up call
+    planned for Monday once Ignatius has it. **Not yet confirmed whether
+    that email was actually sent** — an intention/commitment, not yet
+    verified as completed.
+  - **The meeting itself, per the actual notice sent (WhatsApp, 9 Jul
+    thread):** shareholders' meeting Wednesday 23 September 2026,
+    ~1:15pm, Green Isle Hotel, Dublin, immediately after the AGM — to
+    discuss the AHL-owned premises at Magna Business Park, Citywest,
+    Dublin 24, leased to United Hardware. Matches the AGM/premises
+    meeting timing already logged elsewhere in this file (AGM 11:30am,
+    premises meeting ~1:15pm) — same event, additional detail on its
+    stated purpose (the leased premises) and its notice text now
+    confirmed directly.
 - **Dominic Rice** — **[ASK] no matching email found in this Gmail account under this name.** John referenced "as per the Gmails to me" — flagged rather than guessed; worth checking if this is under a different name/spelling, or in one of the other inboxes (Ambrion/Velocity) not fully searched this session.
 - Separately still open from the audit: **Jonas McCarthy shares** (West Cork Building Supplies Ltd, Clonakilty) — Simon Carbery/BDO asked for clarification on these for the 2025 financial statements; John confirmed the shareholding detail 26 Aug but Jonas has not progressed the transfer request. Related but distinct from the two new transfer instructions above.
 - **BDO — Joanne, missing documents:** John referenced a recent email from Joanne at BDO about missing documents needing a reply. **Not located in this search** — worth a direct check next session, possibly under a different BDO sender (Joanne Mallon, jmallon@bdo.ie, has been in contact re AHL's Annual Return separately).
