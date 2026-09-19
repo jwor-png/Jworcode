@@ -160,7 +160,7 @@ finding — flagged clearly so it isn't mistaken for qualification.
 ### Added at John's explicit direction, 19 Sept 2026 — flagged exception
 | Company | Sector | Region | Reasoning |
 |---|---|---|---|
-| Brett Martin Ltd | Manufacturing (plastics/building products) | Newtownabbey, Co. Antrim (Northern Ireland) | Family-owned, large NI manufacturer. **Deviates from the list's own NI-exclusion criterion** (already applied to other Best Managed Companies entries) — added anyway on John's own relationship judgement, not on evidence. No AI-specific evidence researched or found. Treated as a one-off exception, not a change to the standing rule for any other company. |
+| Brett Martin Ltd | Manufacturing (plastics/building products) | Newtownabbey, Co. Antrim (Northern Ireland) | Family-owned, large NI manufacturer. **Deviates from the list's own NI-exclusion criterion** (already applied elsewhere) — one-off exception, not a rule change. **Updated 19 Sept: two identified warm-intro paths** — Paul Candon (direct warm intro) and Tina O'Hagan (Tangible colleague, Golden Generation alum, sales specialist, "owes Shane and I a lot of favours," operates in NI — direct geographic fit). **Flag:** the NI detail on Tina O'Hagan conflicts with an earlier note logging her as Portugal-based — unresolved, needs confirming she's the same person before relying on the introduction. No AI-specific evidence on the company researched. |
 
 ### Reserve — not disqualified, weaker only on proxy strength (24)
 Acorn Life DAC · Service First · Sonas Bathrooms · Solar Precision ·

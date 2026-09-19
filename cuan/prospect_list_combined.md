@@ -257,13 +257,22 @@ Note: Dawn Farms is a scale outlier for this list (materially larger than "mid-m
 
 **Flag, stated plainly:** Brett Martin Ltd is Northern Ireland-headquartered,
 which is exactly the exclusion this list's own caveats already applied to
-other Best Managed Companies entries (see Caveat 2 below). Added anyway at
-John's explicit direction — his own relationship (per the UHL testimonial
-thread in `revenue_streams.md`, where Brett Martin is separately logged as
-a person Paul Candon flagged, possibly connected to this company/family)
-is judged to outweigh the region criterion here. Treated as an exception,
-not a change to the list's standing NI-exclusion rule for any other
-company.
+other Best Managed Companies entries (see Caveat 2 below). Still an
+exception to the list's standing NI-exclusion rule — not a change to that
+rule for any other company — but **updated 19 Sept 2026 with two identified
+warm-intro paths**, which materially strengthens reachability beyond the
+original "relationship judgement, no evidence" basis:
+1. **Paul Candon** — able to give a warm introduction directly, per John.
+2. **Tina O'Hagan** — a Tangible Ireland Group colleague, completed the
+   Golden Generation programme, sales specialist, and — per John —
+   "owes Shane and I a lot of favours." Operates in Northern Ireland,
+   which is a direct geographic fit for this company. **Flag:** this NI
+   detail conflicts with an earlier note in `revenue_streams.md` logging
+   a Tina O'Hagan based in Portugal (Malachy connection) — not resolved,
+   needs John to confirm whether this is the same person or two people
+   conflated under one name, before relying on her for this introduction.
+
+No AI-specific evidence on the company itself has been researched.
 
 ---
 
