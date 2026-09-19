@@ -277,6 +277,18 @@ similarly-sized companies, rather than leaving UHL's success as a one-off.
   consistent with the existing board priority to register as an approved
   training provider. **REPORTED**, sourced from Skillnet's own published
   strategy documents.
+- **Skillnet Climate Ready Academy — seen as a print ad, 19 Sept 2026.**
+  A live, separate Skillnet programme (co-funded by the Government of
+  Ireland and the EU) targeting climate risk, rising energy costs, and
+  "AI and supply chain disruption" readiness for businesses, delivered
+  with DIGI Group Ireland. Testimonial from Katie Kirwan (DIGI Group
+  Ireland). Not the same programme as the Upskill SME Training Grant
+  above, but the same funding architecture (Skillnet + National Training
+  Fund + EU co-funding) — worth noting as a second live Skillnet channel
+  alongside the AI-specific one already tracked, in case a client's
+  actual need is climate/energy-readiness rather than AI adoption
+  specifically. **REPORTED**, sourced from the advertisement itself, not
+  independently checked against Skillnet's own programme pages.
 - **Enterprise Ireland Digitalisation Voucher** - reported up to €9,000 for
   digital transformation consultancy. **REPORTED, not independently
   confirmed against Enterprise Ireland's current scheme rules** - verify

@@ -941,6 +941,27 @@ are flagged for confirmation, never guessed.
     by the insurer to help resolve it) — worth checking whether the
     current Land Rover has any similar classification ambiguity before
     assuming this is a simple tax-disc formality.
+  - **Independent confirmation, 19 Sept — Irish Independent "Ask the
+    Experts" (Charlie Weston), Geraldine Kelly, head of personal lines,
+    Gallagher brokers.** A reader Q&A on exactly this question backs up
+    what was already found directly in John's AXA documents: "A lot of
+    people assume they are automatically covered to drive another
+    person's car under their own insurance policy, but that is
+    definitely not something you should ever assume." Confirms, as a
+    general industry point (not specific to AXA): Driving Other Cars
+    cover usually only applies to fully licensed drivers (may exclude
+    learner permit holders/younger drivers), is **typically third-party
+    only** (matches the AXA IPID finding exactly), covers damage/injury
+    to others but **not damage to the car being driven**, and — if not
+    specifically listed in the policy documents — should be assumed not
+    to apply at all. Also flags a distinct, commonly confused product,
+    **"Open Drive" cover**, which allows other qualified drivers to
+    drive *your own* car under *your* policy (not the same as DOC, which
+    covers *you* driving *someone else's* car) — worth knowing the
+    difference in case it comes up with Campion. **REPORTED**, a general
+    industry explainer, not a review of John's specific AXA policy, but
+    directly corroborates the DOC/third-party-only finding already
+    confirmed from the actual documents.
 - **Majella's Newcastle West contact ("Majella Boat" — name/spelling to
   confirm) re: a bank account matter** — John needs to call her back.
 - **Phone voicemail rings too short** — John wants the number of rings
