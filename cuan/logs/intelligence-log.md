@@ -25,6 +25,28 @@ One entry per session. Format is fixed — both systems write to this file.
 
 ### [2026-09-19] [Cuan → Meridian] [REPORTED]
 **Source:** Cuan (standing rule, no live Meridian session)
+**Domain(s):** Legal & Governance
+**Summary:** John shared an FT "Your Questions" piece (Lucy Warwick-
+Ching, with Adam Creasey of Stevens & Bolton) on the risks of using AI
+to draft a will - ambiguous AI-generated legal wording, no professional
+duty of care, and a "false economy" cost framing versus a solicitor.
+Logged directly against John's own estate-planning work
+(`personal_estate_retirement_plan.md` §3.1/§3.9), since it argues for
+treating AI as a planning/thinking aid only, not a drafting/execution
+substitute - consistent with how the plan already treats AI generally.
+Also notes an adjacent, partially-clipped stat: AI chatbots reportedly
+give wrong answers to financial questions ~17% of the time (REPORTED,
+not independently verified).
+**Outputs:** New §3.9 added to `personal_estate_retirement_plan.md`.
+**Open loops:** None new - reinforces the already-open §3.1 will
+checklist item.
+**Ventures touched:** Meridian Intelligence (Legal & Governance domain);
+personal estate planning (not a venture, logged for completeness).
+**Pushed to Google Drive:** No.
+---
+
+### [2026-09-19] [Cuan → Meridian] [REPORTED]
+**Source:** Cuan (standing rule, no live Meridian session)
 **Domain(s):** AI Strategy & Governance
 **Summary:** John shared an FT piece (Cristina Criddle) reporting that
 security researchers (Hacktron) breached OpenAI's internal systems using

@@ -326,6 +326,55 @@ forcing a straight annual-pension-vs-lump-sum trade-off, before this
 becomes a real instruction to a financial adviser rather than a logged
 piece of reading.
 
+### 3.9 — Risks of using AI to draft a will (Lucy Warwick-Ching, FT
+### "Your Questions," with Adam Creasey, Stevens & Bolton, 19 Sept 2026)
+Directly relevant to §3.1 (Will) given John's own AI-forward working
+style — a reader asked whether an AI tool is a safe, cheaper alternative
+to a solicitor for drafting a will. Creasey's answer, summarised:
+- **A will needs to take account of circumstances, family, assets, and
+  inheritance tax complexities** an AI chatbot may not identify or ask
+  about — a solicitor immediately knows what questions to ask; an AI
+  tool "simply hasn't."
+- **AI-generated wording that appears sensible can create genuine
+  ambiguity** once tested against the strict legal formalities a will
+  must satisfy — even when the *signing* requirement is met, poorly
+  understood legal language poses a far greater risk of challenge than a
+  solicitor-drafted and reviewed will.
+- **A will is only enforceable if it's precise.** Legal language exists
+  specifically because casual, sensible-sounding phrasing is often
+  ambiguous once tested — "case law of many years" has settled the
+  meaning of much standard legal wording used in wills; AI-produced
+  language hasn't been through that process.
+- **A solicitor has a professional duty of care** to check a will is
+  correctly prepared and signed, which an AI tool does not carry.
+- **Cost framing, directly countering the "AI is cheaper" assumption**:
+  the costs of preparing one modest will are often small compared with
+  the costs, delays and disputes that can arise from an ineffective one
+  — a "false economy" risk, not a real saving.
+- **Adam Creasey's own practical middle ground, worth noting for John
+  specifically given his AI-forward style**: AI can be a useful *first
+  step* to plan a will (clarifying wishes, checking language, structuring
+  thinking) but the actual drafting, execution and signing should go
+  through a solicitor. This matches how this plan already treats AI/Cuan
+  generally — a thinking and structuring tool, not a substitute for
+  qualified legal execution.
+
+**Adjacent, smaller item from the same page (partial clipping, headline
+only visible):** a separate research piece reports AI chatbots give
+wrong answers to financial questions roughly **17% of the time** —
+logged here as a general caution on AI-generated financial guidance,
+**REPORTED**, not independently verified, and not tied to any specific
+tool or claim beyond the headline seen.
+
+**Why this matters directly, not just as reading:** §3.1 of this plan
+still has "confirm whether a current, valid will exists" as an open
+checklist item. This article is a direct, timely argument for not
+short-cutting that step with an AI-drafted document once it's actually
+tackled — engage the solicitor for drafting/execution, and treat any
+AI involvement (including asking Cuan) as the planning/thinking stage
+only, consistent with how this entire estate plan already treats the
+AI/human division of labour.
+
 ---
 
 ## What "done" looks like for this plan
