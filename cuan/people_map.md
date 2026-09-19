@@ -516,6 +516,31 @@
 
 ---
 
+## Limerick Civic Network
+
+### Richard Rice
+- **Role:** Architect and director, Healy Partners Architects. Known to
+  John personally.
+- **Context, 19 Sept 2026:** wrote a Limerick Leader opinion piece,
+  "Confident enough to try," on how Limerick city centre should develop
+  under directly-elected mayor John Moran — arguing for evidence-based
+  experimentation (Summer in the City, urban beach, Three Bridges route,
+  O'Connell Street public realm) over reflexive defence of the status
+  quo, and for scrutiny of the mayoralty without personal hostility.
+  Notable credential: led the Milk Market redevelopment through Healy
+  Partners Architects.
+- **Why logged:** John flagged direct personal interest — "I know
+  Richard Rice and Limerick is my city, 30 minutes drive from me."
+  Limerick city centre's development sits in the same broader civic
+  sphere as the Ballyhoura Country Destination Experience Development
+  Plan consultation already logged in `ventures_dossier.md` (Kilmallock/
+  south Limerick) and the Tangible Ireland Group's Kilmallock local
+  intelligence — worth keeping Richard Rice in view as a genuine local
+  relationship-capital contact in Limerick's civic/planning/architecture
+  space, not just a one-off newspaper byline.
+- **Not yet actioned** — no outreach made, logged for the relationship
+  map only.
+
 ## To Map
 [ASK: Who else is in John's regular orbit — advisors, investors, lawyers, accountants, other board contacts?]
 [ASK: Who are the key personal relationships Cuan should be aware of for scheduling and prioritisation?]
