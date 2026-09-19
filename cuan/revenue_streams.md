@@ -587,17 +587,16 @@ leads.
   run three AI training courses over three days, same model as the UHL
   programme. Big potential opportunity. Shane is considering it further.
 - **Tina O'Hagan** — John to talk to her about running the training course
-  and getting introduced to the companies she works with. **New detail, 19
-  Sept 2026:** a Tangible Ireland Group colleague, completed the Golden
-  Generation programme, specialises in sales, and — per John — "owes Shane
-  and I a lot of favours." Operates in **Northern Ireland**. **Flag: this
-  location conflicts with the earlier note logging her as based in
-  Portugal (Malachy connection)** — not resolved here, needs John to
-  confirm whether these are the same person with a NI/Portugal split
-  (e.g. NI-based, works from Portugal, or vice versa) or two different
-  people conflated under one name. Treat the NI detail as live and
-  actionable pending that confirmation, since it's the one just given
-  directly.
+  and getting introduced to the companies she works with. **Resolved, 19
+  Sept 2026 — one person, mix-up cleared:** the earlier "Portugal, Malachy
+  connection" note conflated two separate things. **Malachy Harkin was
+  himself an early Golden Generation member but didn't finish the
+  programme.** Tina O'Hagan is a separate person — a Tangible Ireland
+  Group colleague who **did complete Golden Generation and was active
+  throughout, both before and after** — specialises in sales, and per
+  John "owes Shane and I a lot of favours." She operates in **Northern
+  Ireland**, which is now the confirmed, actionable detail — the Portugal
+  reference no longer applies to her.
 - **Mike Mulvehill** — recently retired friend, potential AI interest/contacts,
   possible Golden Generation cohort inclusion. See also `operating_creed.md`
   Protect My Health and Family.

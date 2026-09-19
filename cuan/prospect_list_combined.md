@@ -264,13 +264,13 @@ warm-intro paths**, which materially strengthens reachability beyond the
 original "relationship judgement, no evidence" basis:
 1. **Paul Candon** — able to give a warm introduction directly, per John.
 2. **Tina O'Hagan** — a Tangible Ireland Group colleague, completed the
-   Golden Generation programme, sales specialist, and — per John —
-   "owes Shane and I a lot of favours." Operates in Northern Ireland,
-   which is a direct geographic fit for this company. **Flag:** this NI
-   detail conflicts with an earlier note in `revenue_streams.md` logging
-   a Tina O'Hagan based in Portugal (Malachy connection) — not resolved,
-   needs John to confirm whether this is the same person or two people
-   conflated under one name, before relying on her for this introduction.
+   Golden Generation programme (active throughout, before and after),
+   sales specialist, and — per John — "owes Shane and I a lot of
+   favours." Operates in Northern Ireland — a direct geographic fit for
+   this company. **Resolved, 19 Sept:** the earlier Portugal reference
+   was a mix-up with Malachy Harkin (a separate, early Golden Generation
+   member who didn't finish the programme) — Tina is confirmed as
+   Northern Ireland-based, not Portugal.
 
 No AI-specific evidence on the company itself has been researched.
 
