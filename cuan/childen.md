@@ -766,3 +766,86 @@ worth having ready for the Vatican conversation:
 Independent front page/News p.10, Mary Collins), not independently
 re-verified against the actual draft Kids Act text, which had not yet
 been formally published as of this clipping.
+
+## Market intelligence — Breda O'Brien, "Parents need help with
+## children's online use" (Irish Times Opinion, 19 Sept 2026, plus an
+## adjacent letters-page item on social media age verification)
+
+**[Cuan → Meridian]** A fifth piece of external evidence, and one of the
+most directly relevant yet — this one gives concrete, named enforcement
+failures, a specific AI-chatbot child-safety data point, and (separately)
+a real-world privacy-preserving age-verification model already being
+piloted in Ireland, all bearing directly on Childen's own architecture
+and pitch.
+
+**New Cybersafe Ireland statistics, not previously logged:**
+- **68% of primary schoolchildren aged 8-12 interact with the "ugly,
+  unsafe world of Roblox gaming"**; 60% use YouTube.
+- **55% of primary schoolchildren (8-12) and 76% of secondary school
+  children (12-15) used AI chatbots** for homework, friendship, and
+  information. O'Brien's own framing, worth quoting directly: "using
+  GenAI for friendship has [terrifying potential for disaster]" —
+  **this is the single most directly on-point data point logged in this
+  file so far for Childen specifically**, since it is children using
+  generative AI itself (not just social media/gaming platforms) in an
+  emotionally load-bearing way, which is precisely the intersection
+  Childen's own framing ("protection of children in the age of
+  artificial intelligence") is built around.
+- **94% of kids aged 8-12 have their own internet-enabled device**,
+  usually a tablet.
+- **70% of Irish 8-12 year-olds currently have accounts on platforms
+  meant for over-13s** — cited as direct proof of how ineffective
+  current age verification is.
+
+**Enforcement failure evidence — directly reinforcing the Regina
+Doherty/"self-certification doesn't work" point already logged from the
+17 Sept Kids Act entry above:**
+- **Australia's under-16 social media ban** (in force since 10 December
+  2025): a survey found roughly **7 in 10 of 8-15 year-olds** who
+  previously had a platform account **still have one**. Zero
+  court-ordered civil penalties have been imposed to date, even after
+  the maximum civil penalty for noncompliance was doubled this week to
+  **AUD $109.2m (~€67m)**. Less-cited finding: the main reason children
+  still have accounts is often simply that platforms haven't yet asked
+  them to confirm their age — an enforcement gap, not a loophole in the
+  law itself.
+- **Roblox**, in August, was made subject to a court-enforceable order
+  (under prior legislation, not the new age-ban framework) requiring
+  third-party auditing within three months to prove robust protections
+  against grooming, sexual exploitation and abuse — a concrete, named,
+  ongoing case of a major platform being forced into external
+  verification because self-regulation had already failed.
+- **Meta paid €14.32bn in August** to settle cases with more than two
+  dozen US states over alleged failures of child protection and social
+  media addiction design. O'Brien's own reading, useful ammunition for
+  the Vatican pitch: "The fact that Meta paid... shows that they fear
+  regulation" — i.e. Big Tech's own settlement behaviour is itself
+  evidence the problem and the liability are real, not overstated.
+
+**A genuinely new architectural data point, directly comparable to
+Childen's own verification model:** a separate item on the same page
+notes **Ireland is currently piloting a digital wallet for age
+verification that does not share other personal information such as
+name or date of birth** — a real, live, national example of
+privacy-preserving identity verification for a child-safety purpose.
+Worth having ready as a concrete existing precedent when explaining
+Childen's own institutional-verification approach to the Vatican working
+group, since it demonstrates the underlying privacy objection to age
+verification already has at least one working answer in practice, not
+just in theory.
+
+**Balance point O'Brien herself makes, worth carrying into the Vatican
+pitch rather than only citing the alarming statistics:** she explicitly
+rejects the framing that parents should "abdicate responsibility," and
+argues a ban or restriction "is not pointless just because many may
+rapidly learn ways to circumvent it" — many others will not, and
+enforcement pressure alone can be valuable in forcing platforms to treat
+children as more than "profit-fodder... if used alongside safety by
+design." This is a more measured, harder-to-dismiss framing than a purely
+alarmist one, and may be more persuasive material for a Church audience
+than statistics alone.
+
+**REPORTED** — sourced from an Irish Times opinion column and an
+adjacent clipping, not independently re-verified against Cybersafe
+Ireland's, Australia's eSafety Commissioner's, or Meta's own primary
+disclosures.
