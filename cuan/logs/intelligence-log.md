@@ -34,10 +34,17 @@ Logged directly against John's own estate-planning work
 (`personal_estate_retirement_plan.md` §3.1/§3.9), since it argues for
 treating AI as a planning/thinking aid only, not a drafting/execution
 substitute - consistent with how the plan already treats AI generally.
-Also notes an adjacent, partially-clipped stat: AI chatbots reportedly
-give wrong answers to financial questions ~17% of the time (REPORTED,
-not independently verified).
-**Outputs:** New §3.9 added to `personal_estate_retirement_plan.md`.
+**Correction, 19 Sept (same day):** the adjacent stat originally logged
+from a partial clipping as "~17%" was a misread. Full article now seen
+(Aliya Shibli, FT): Saturn research found AI models wrong on financial
+questions **57% of the time on average** (up to 88-99% on harder
+questions), with **Claude Opus 5 the best performer at 39% wrong** -
+directly relevant given Cuan runs on Claude. Two named failure cases
+cited, including a Claude Haiku 4.5 pension-tax error that would have
+risked a £17,500 HMRC charge. FCA cited: 1 in 5 UK adults open to AI
+making financial decisions for them.
+**Outputs:** New §3.9 added to `personal_estate_retirement_plan.md`,
+corrected in place same day once full article confirmed.
 **Open loops:** None new - reinforces the already-open §3.1 will
 checklist item.
 **Ventures touched:** Meridian Intelligence (Legal & Governance domain);

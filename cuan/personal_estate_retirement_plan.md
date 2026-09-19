@@ -359,12 +359,55 @@ to a solicitor for drafting a will. Creasey's answer, summarised:
   generally — a thinking and structuring tool, not a substitute for
   qualified legal execution.
 
-**Adjacent, smaller item from the same page (partial clipping, headline
-only visible):** a separate research piece reports AI chatbots give
-wrong answers to financial questions roughly **17% of the time** —
-logged here as a general caution on AI-generated financial guidance,
-**REPORTED**, not independently verified, and not tied to any specific
-tool or claim beyond the headline seen.
+**Adjacent item from the same page, now confirmed in full (correction —
+19 Sept 2026, was previously logged from a partial clipping as "17%",
+which was a misread; the real figure is materially worse):** "AI gives
+wrong answers to financial queries 57% of time, research finds" (Aliya
+Shibli, FT). **REPORTED**, sourced to named research by technology firm
+Saturn, on-record quotes, not independently re-verified by Cuan beyond
+the article itself.
+- Saturn tested 18 AI models (ChatGPT, Gemini, Claude, Copilot, Grok and
+  others) against 100+ money-related questions, repeated up to 5 times,
+  10,000+ questions total.
+- **Average wrong-answer rate: 57%.** Rose to **88%** on harder
+  questions, and up to **99%** on the most complex questions for some
+  models.
+- **Best-performing model: Claude Opus 5 in "reasoning" mode — still
+  wrong 39% of the time.** Directly relevant given Cuan itself runs on
+  Claude: even the best-performing model in this research was wrong on
+  more than a third of financial questions.
+- **Two concrete named failure examples**, directly on point for this
+  plan's own AI/estate-planning caution above: Claude Haiku 4.5 (a free
+  model) gave a wrong pension tax answer that would have risked a
+  **£17,500 HMRC charge**; in another case Claude "invented a rule,"
+  wrongly telling a graduate they could stop student loan repayments if
+  moving abroad.
+- Paid models outperformed free ones; newer models outperformed older
+  ones — but no model tested was reliable enough to trust unsupervised.
+- **Sarah Coles (AJ Bell, head of personal finance):** advisers report
+  clients acting on "baffling" AI-suggested moves, and has to check
+  whether they've actually been acted on — her conclusion: "people who
+  need support need proper advice rather than trusting AI." She does
+  allow AI has real, narrower uses: budgeting/spending-pattern research,
+  not decisions.
+- **FCA finding cited in the same piece:** 1 in 5 UK adults are open to
+  AI making financial decisions for them, with demand strongest exactly
+  where the stakes are highest — debt, pensions, investments.
+
+**Why the correction matters, not just the number:** this is now a
+directly on-point, quantified caution specifically about **Claude**
+being wrong on financial questions a meaningful share of the time — the
+same model family this entire estate/retirement plan has been built
+with. It doesn't invalidate anything already logged here, since the
+plan's own approach already treats AI (including Cuan) as a
+thinking/drafting aid with human/professional verification required
+before anything is acted on (see §3.9's will-drafting section above) —
+but it's a concrete reason that discipline should extend to every
+figure and rule in this plan, not just the will itself. Anything with a
+specific number attached (the AVC/pension mechanics in §3.8, the tax
+thresholds in §3.6/§3.7) should be verified with an actual adviser
+before being relied on, not treated as settled because it reads
+confidently here.
 
 **Why this matters directly, not just as reading:** §3.1 of this plan
 still has "confirm whether a current, valid will exists" as an open
