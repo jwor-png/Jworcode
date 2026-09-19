@@ -859,6 +859,18 @@ cross-system check across GitHub, Drive and Gmail. Findings:
 - **Golden Generation / Workforce Upskilling:** Skillnet Ireland 2025 annual report — 3,100 businesses used Skillnet networks, 81,300 upskilling training days delivered in Cork alone, 84,515 workers upskilled nationally, 52% training uptake among 30-39 age group. Strong validating data point for the Velocity AI Skillnet registration and the Golden Generation upskilling offering generally.
 - **Legal & Governance / Finance & Restructuring:** Personal Insolvency Arrangement case — Celtic Tiger-era developer had €14m NAMA debt written off for a €37,000 payment to creditors via a High Court-approved PIA, retaining his €750k family home. Strong precedent case for personal insolvency / NAMA-era debt resolution conversations — mechanically close to John's own legacy debt resolution work (BOI/Nugent).
 
+### Meridian LinkedIn Launch — POSTED, 19 Sept 2026
+John confirmed he posted a launch introduction to LinkedIn, linking to
+the live site (www.meridianintelligence.ie). Drafted in this session as
+a short intro paragraph plus link, sourced only from what was directly
+verified from the live site's screenshots and `ventures_dossier.md` —
+did not reference the site's "For Investors" content (not accessible
+from this session, domain blocked by network egress) or name Shane as
+technical partner (not included in the draft John posted). **This is a
+separate, simpler post from the numbered "Decision Brief" series below**
+— not confirmed whether that series has also been posted; needs its own
+status check if relevant.
+
 ### Meridian LinkedIn Launch Series
 Content committed to `meridian/launch/` — profile positioning, a launch
 weekend pack (31 July 2026), and a numbered post series. **Post 02 —
