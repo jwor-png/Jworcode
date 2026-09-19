@@ -583,6 +583,19 @@ leads.
   Intelligence in `ventures_dossier.md` (IBI/DC Advisory work) — John wants to
   revisit that material and the Shane operational-brain diagram when scoping
   this out. Open decision: separate chat or folded into an existing one.
+- **Golden Generation member reactivation for new leads — new, 19 Sept
+  2026.** John's instruction: revisit the Golden Generation (AIMES-based)
+  cohort — multi-millionaires, senior decision-makers, retired UHNW
+  individuals — and work them directly for new leads. **No member roster
+  currently exists anywhere in Cuan** — only two individuals have come up
+  by name so far (Tina O'Hagan, completed; Malachy Harkin, early member,
+  didn't finish) plus Mike Mulvehill flagged as a *potential future*
+  addition, not a past member. **John will send emails Saturday (per his
+  own plan) with the actual member details.** Once received: build a
+  proper tracked list (same structure as the qualified-100 prospect
+  approach) — names, companies/affiliations, contact info, and a lead
+  angle per person — then work out how to approach each for warm
+  introductions or their own AI-adoption needs.
 - **Ambrion AI training rollout via Padraic O'Maille (Smacht)** — proposal to
   run three AI training courses over three days, same model as the UHL
   programme. Big potential opportunity. Shane is considering it further.
