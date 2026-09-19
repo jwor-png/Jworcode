@@ -26,21 +26,36 @@ Lovable, not a finished product.
 
 ---
 
-## Outstanding blocker — real branding
+## Blocker resolved — 19 Sept 2026
 
-The prototype uses a **placeholder palette I invented**, not Meridian's actual
-brand. John has confirmed real branding exists on the Meridian Overview
-document.
+`Meridian_Overview_Branded.pdf` pulled directly from Google Drive (file ID
+`1n65Oz44R9jg_qMM3Bch5jqEcx57b1JjB`) — downloaded clean this time, byte count
+matched Drive's reported size exactly (964,731 bytes), no truncation. The
+earlier corrupted-download problem was specific to the standalone `logo.png`
+Drive file, not the PDF.
 
-- `logo.png` exists in Google Drive (folder `Gmail Attachments`, file ID
-  `1-tClgslPAhxM4_etHl8wayYn00BesIVv`, 248x239px) but **downloads corrupted /
-  truncated via the Drive API** — decodes partially then breaks. Could not be
-  used.
-- `Meridian_Overview_Branded.pdf` (Drive ID `1n65Oz44R9jg_qMM3Bch5jqEcx57b1JjB`)
-  contains the real branding and is the better source.
-- **Next step:** John to upload the logo or branded overview PDF directly into
-  the website chat thread (direct upload works where Drive download failed),
-  then replace the placeholder palette and drop in the real mark.
+**Assets extracted and saved to `cuan/assets/`:**
+- `Meridian_Overview_Branded.pdf` — the source document, all 3 pages.
+- `meridian_logo.png` — the real logo extracted directly from the PDF's
+  embedded image at full resolution (1070×960px), not the corrupted
+  248×239px Drive thumbnail. Circuit-pattern "M," blue-to-teal gradient,
+  "MERIDIAN" wordmark, "INTELLIGENT AI. REAL IMPACT." tagline, on a
+  near-black navy background.
+
+**Real brand palette, sampled directly from the logo pixels (not
+invented/estimated):**
+- Background navy: `#050F1E`
+- Electric blue (left side of the M / gradient start): `#009FFE`
+- Teal-green (right side of the M / gradient end, also used for section
+  underlines and small-caps labels in the overview doc): `#06B499`
+- White for headline/wordmark text; near-black (`#0A0A0A`-ish) body text on
+  white page backgrounds in the overview document itself.
+
+**Next step:** replace the prototype's invented placeholder palette with
+this real one, and drop `meridian_logo.png` in as the actual mark (nav +
+favicon) instead of the low-res phone-screenshot version currently in use.
+Not yet done — this entry records that the asset blocker is cleared, not
+that the site has been rebuilt with it.
 
 ---
 
