@@ -23,6 +23,26 @@ One entry per session. Format is fixed — both systems write to this file.
 
 <!-- ENTRIES BEGIN BELOW — newest first -->
 
+### [2026-09-19] [Cuan → Meridian] [REPORTED]
+**Source:** Cuan (standing rule, no live Meridian session)
+**Domain(s):** AI Strategy & Governance
+**Summary:** John shared an FT piece (Cristina Criddle) reporting that
+security researchers (Hacktron) breached OpenAI's internal systems using
+Anthropic's Claude models, as part of a paid, authorised bug-bounty
+exercise (OpenAI paid $6,500; issues since fixed). Also cites OpenAI's
+AI-research-automation rising from 1% to 26% of research output, with a
+90%-by-March internal target. Third same-edition FT item touching
+Anthropic logged today (after the household-AI feature and the Foulis
+"golden rules" piece) - noted as one dense news day, not three separate
+discoveries. Full detail in
+`market_intel_ft_openai_breach_anthropic_sept2026.md`.
+**Outputs:** `market_intel_ft_openai_breach_anthropic_sept2026.md` created.
+**Open loops:** None requiring action - logged as a watch-thread entry.
+**Ventures touched:** Meridian Intelligence (AI Strategy & Governance
+domain, AI safety/security testing precedent).
+**Pushed to Google Drive:** No.
+---
+
 ### [2026-09-19] [Cuan → Meridian] [REPORTED/OPINION]
 **Source:** Cuan (standing rule, no live Meridian session)
 **Domain(s):** AI Strategy & Governance
