@@ -681,3 +681,57 @@ sector lens as the Broadlake note above rather than a separate thread.
 - **REPORTED**, event/panel coverage from a named Business Post
   journalist, quotes as reported, not independently re-verified against
   a recording or transcript of the summit itself.
+
+## Parkinson's disease research breakthroughs — Irish Mail on Sunday
+## Magazine (Jo Macfarlane), for recording, 20 Sept 2026
+Logged for the record, per John's instruction, no stated personal
+context.
+
+- **Context:** ~18,000 people living with Parkinson's in Ireland;
+  globally affected numbers could double to 12 million by 2040
+  (Professor David Dexter, head of research, Parkinson's UK; professor
+  of neuropharmacology, Imperial College London). No cure or approved
+  disease-slowing drug exists today.
+- **Early detection**: a blood test in development at UCL has identified
+  a protein pattern that can predict, **up to seven years before
+  symptoms emerge**, whether someone will go on to develop Parkinson's.
+  Being tested for detection via a simple dried finger-prick blood spot
+  (not just a full blood draw), analysable in a standard hospital
+  pathology lab. Results "looking quite promising" per Dexter.
+- **Six disease-modifying drugs are now in Phase III trials** (the final
+  stage before regulatory approval), aiming to slow or potentially halt
+  progression rather than just manage symptoms - a first, if it works.
+  Most notable: **prasinezumab**, an antibody treatment targeting toxic
+  clumps of the alpha synuclein protein (thought to drive Parkinson's
+  spread between brain cells) - if effective, would prove alpha
+  synuclein's role and that stopping its spread slows the disease.
+  Results due 2029. Others in the pipeline: a drug targeting the LRRK2
+  gene mutation linked to Parkinson's; interest in GLP-1 drugs
+  (diabetes/weight-loss class) for their brain-inflammation-reducing
+  effect.
+- **Repurposed existing medicines**: a major trial (EJS ACT-PD) is
+  testing three already-licensed drugs for other conditions -
+  telmisartan (blood pressure), terazosin (enlarged prostate), and UDSA
+  (a liver/gallstone drug) - against Parkinson's, on the strength of
+  epidemiological data showing lower Parkinson's rates in people already
+  taking telmisartan/terazosin for their original purpose. Also:
+  ambroxol (a cough medication) shown to boost an enzyme that clears
+  alpha synuclein from brain cells, in trials at UCL.
+- **Symptom-management improvements**: tavapadon (once-daily pill,
+  under FDA review) stimulates only 2 of 5 dopamine receptors, potentially
+  reducing severe side effects (compulsive spending/overeating) seen with
+  similar drugs; adaptive deep brain stimulation (automatically responds
+  to tremors, better symptom control than fixed DBS); ondansetron
+  (existing anti-nausea drug) being tested against Parkinson's
+  hallucinations, which affect up to 75% of patients.
+- **Named patient perspective**: Anna Edwards, diagnosed at 51 nearly
+  four years ago, now enrolled in the EJS ACT-PD trial, quoted as
+  optimistic but not "to the point of delusion."
+- **Human-detection note, filed as "It's a fact"**: Joy Milne (Scotland)
+  reportedly detected the scent of Parkinson's on her husband years
+  before his diagnosis - cited as a real, documented case, not a new
+  finding.
+- **REPORTED**, sourced from named researchers (Dexter, Prof Miratul
+  Muqit, UK Dementia Research Unit/Edinburgh) quoted directly in the
+  piece; trial results and drug approvals are forward-looking and not
+  yet confirmed outcomes.
