@@ -71,6 +71,43 @@ Barber Republic) since these are the terms investors will use:
 - **Cash Runway:** Cash & cash equivalents ÷ average monthly cash burn. 12+
   months is a strong buffer; below 12 months increases financial risk.
 
+### VAT reference for the ventures (Sinéad Ryan, Irish Independent Indo
+### Money, "Vat may be the unfairest levy of all," 19 Sept 2026)
+General SME VAT literacy, relevant to any of the revenue streams run as
+a registered business (Ambrion, Velocity, Meridian) rather than tied to
+one specific stream — logged here as a standing reference, not a
+decision or action.
+- **Registration thresholds:** €42,500/year for a service-only provider
+  (accountant, solicitor, designer, freelance journalist); €85,000/year
+  for anyone providing, importing or selling physical/manufactured
+  goods, or a mix of goods and services.
+- **Rates:** standard 23%; reduced 13.5% (open farm/hotel/cinema
+  admission, imported art, antiques) — hospitality/hairdressing
+  currently at a temporarily lowered 9% (from 1 July, costing the
+  Exchequer €681m over a full year); a second reduced 4.8% rate applies
+  to livestock trading, most farmers eligible for 5.4%; 0% on
+  children's shoes (under 11), some oral medicines, sanitary products,
+  most books/e-books/audiobooks, solar panels.
+- **Practical discipline recommended:** hive off VAT immediately into a
+  dedicated deposit account as each invoice is paid, rather than "out of
+  sight, out of mind" — Ryan's own warning: "getting into a cycle of
+  borrowing to pay your VAT bill can lead you down a road of debt before
+  long. So start as you mean to go on." For a sole trader with no
+  bookkeeper, this is presented as the single most important habit.
+- **VAT fraud liability risk, worth flagging for any Ambrion/Velocity
+  client conversation touching supply chains**: a business can become
+  unwittingly liable for VAT fraud if a supplier further up its own
+  chain isn't legitimate — Revenue "expects that as legitimate traders
+  you will, on an ongoing basis, assess the integrity of your supply
+  chain," and a trader who knowingly or recklessly participates in a
+  transaction connected with fraudulent VAT evasion anywhere in the
+  supply chain is jointly and severally liable for the unpaid VAT. The
+  EU Commission's VIES (VAT Information Exchange System) database is
+  the tool for checking a VAT number's legitimacy.
+- **REPORTED**, a named personal-finance columnist's own explainer,
+  citing Revenue's own definitions — not independently re-verified
+  against Revenue.ie's current published thresholds/rates.
+
 ### Marketing/content tracker (to build once cadence is set)
 A simple calendar: what content, which stream it promotes, status
 (Draft/Scheduled/Published). The "Other Side of Sixty" LinkedIn series is the

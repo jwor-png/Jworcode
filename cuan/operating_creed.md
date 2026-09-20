@@ -1183,6 +1183,32 @@ are flagged for confirmation, never guessed.
 
 ## 5. PROTECT MY PRESENT RESPONSIBLY
 
+- **Revolut account security — six settings recommended, 18-19 Sept
+  2026, following Revolut's admitted data breach** (see the market intel
+  already logged: Revolut handed over sensitive customer data —
+  passports, driving licences, addresses, phone numbers — to a fraudster
+  using a government email address; not notified the Data Protection
+  Commissioner as of reporting; giving inconsistent answers to Irish
+  customers asking in-app whether their own data was affected). Given
+  John's confirmed Revolut relationship (the Mainly Velocity Limited
+  IBAN above), recommended six settings, sourced from the Irish
+  Independent's own step-by-step guide:
+  1. Switch on Wealth Protection (Account → Security → Wealth
+     Protection) — blocks transfers above a set amount without
+     biometric/PIN confirmation.
+  2. Turn on Street Mode (same menu → Transfers) — delays transfers
+     30 minutes to 6 hours when the phone is outside a trusted location.
+  3. Use the Disposable Card feature for online shopping (Wallet →
+     Disposable) — one-time virtual card number that retires after use.
+  4. Set spending limits on individual cards (Wallet → More → Spending
+     Limit).
+  5. Confirm payment notifications are actually on — done in the
+     phone's own Settings → Notifications → Revolut, not inside the
+     Revolut app itself, easy to miss.
+  6. Review and remove suspicious Trusted Merchants (Account → Security
+     → Payments → Trusted Merchants).
+  **Not yet confirmed actioned** — advice given, not yet verified as
+  applied to John's own account.
 - **UHL Board Meeting — 29 July — HELD, WENT WELL.** Detailed notes to follow from
   John's own record; outcomes not yet logged in detail. Once dictated, fold specific
   decisions (Store Acquisition model, Data Transformation endorsement, CRO filing
