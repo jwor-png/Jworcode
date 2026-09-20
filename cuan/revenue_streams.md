@@ -693,6 +693,73 @@ authority is needed. **REPORTED**, UCD's own alumni/campus news
 summary of the lecture, not independently verified against a recording
 or transcript.
 
+### Gina London, "Why AI has the potential to make us more, not less
+### human" (Sunday Independent, 20 Sept 2026) — directly usable
+### positioning material
+Gina London's column centres on an interview with **Richard McSweeney**,
+an Ireland-based (Fermoy, Co. Cork) philosopher who spent six years
+studying for the priesthood and 11 years in Korea studying Korean
+literature/Chinese philosophy, now author of *Is & AIs* (his 24th book)
+- two years spent exploring whether AI can help people better understand
+and preserve what makes them human, not just produce/research/be
+efficient.
+- **The core distinction, directly quotable for Meridian's own
+  positioning**: McSweeney deliberately calls his AI relationship a
+  "duet," not an oracle - he explicitly rejects the idea AI possesses
+  human-sense intelligence or that judgement should be outsourced to it.
+  His own framing: "Don't just go looking for information... pay
+  attention to the interaction and to what happens to your thinking
+  during it."
+- **His practical technique, worth citing directly**: give yourself
+  5-10 minutes, choose a difficult idea, and ask AI to challenge you,
+  not confirm you - "ask it to challenge an assumption rather than
+  confirm one. Ask for an argument you disagree with. Ask a question
+  you've never asked before." His own summary line: **"Don't ask it to
+  think for you, ask it to challenge you."**
+- **Directly aligned with Meridian's own "informs, does not represent"
+  positioning and Cuan's existing "extends judgement, doesn't replace
+  it" principle** - a genuinely independent, credible (published
+  philosopher, not an AI vendor) voice making the same core argument
+  from a different angle. Also useful for John's own working method
+  given how much of Cuan's own use already matches McSweeney's "duet"
+  framing rather than an oracle model.
+- **REPORTED/OPINION**, London's own column summarising an interview and
+  McSweeney's book, not independently read against the book itself.
+
+### Irish agri-tech innovation, Enterprise Ireland "Innovation Arena,"
+### National Ploughing Championships (partner content, James Maloney,
+### Sunday Independent, 20 Sept 2026)
+Directly reinforces Meridian's existing agribusiness sector lens with
+named, current Irish companies and products - over 40 agri-tech
+innovators exhibited, four awards given:
+- **VetPal Technology** (Roscommon) - "Start-Up of the Year," €10,000
+  prize plus Enterprise Ireland mentoring/advisory. Digital platform
+  connecting farmers, vets, co-ops, merchants and pharmacies in a single
+  compliant workflow, simplifying veterinary prescription management
+  across the animal health supply chain.
+- **Telenostic** (Kilkenny) - "Innovation Arena Champion," for its
+  AI-powered **OvaCyte** platform - rapid on-farm parasite detection,
+  supporting faster, evidence-based treatment decisions.
+- **Terra Nutritech** (Kildare) - "Green Impact Award," for **CH4Guard**,
+  a precision-dosing technology delivering methane-reducing supplements
+  to grazing livestock while verifying dosage/delivery via real-time
+  data.
+- **Masti-Trak** (Munster Technological University, student-led) -
+  "Young Innovator of the Year" - smart mastitis-detection system
+  helping dairy farmers identify health issues earlier, improving
+  animal welfare and reducing milk waste/antibiotic use.
+- **Why this matters beyond the sector lens itself**: judging panel
+  included Enterprise Minister Peter Burke, Enterprise Ireland CEO Jenny
+  Melia, and EI chairman Jim Woulfe - a real, current, named
+  government/EI signal that agri-AI specifically is being actively
+  championed as a national innovation priority, not a niche interest.
+  Four concrete, funded, named Irish companies working exactly the
+  agribusiness/animal-health intersection Meridian's sector lens already
+  claims - worth having as live, current reference points rather than
+  only the general "agribusiness" label.
+- **REPORTED**, Enterprise Ireland partner/sponsored content, not
+  independently verified against the companies' own claims.
+
 ### Y Combinator Fall 2026 Request for Startups — full list, seen 20
 ### Sept 2026 (via @foundedceo Instagram, sourced to YC's own quarterly
 ### document)
