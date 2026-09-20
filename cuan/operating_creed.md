@@ -962,6 +962,23 @@ are flagged for confirmation, never guessed.
     industry explainer, not a review of John's specific AXA policy, but
     directly corroborates the DOC/third-party-only finding already
     confirmed from the actual documents.
+  - **John's own future car preference, stated 20 Sept — the all-
+    electric Range Rover.** Prompted by an Irish Independent "Down the
+    Road" review (Shane O'Donoghue): the first all-electric Range Rover
+    is now on sale in Ireland, pricing from **€160,620** for the
+    standard-wheelbase 450hp variant, up to **€325,360** for the top
+    Range Rover Electric spec — on a par with the existing plug-in
+    hybrid Range Rover at the entry point. Shared 118.5kWh battery
+    across the line-up, quoted range 600km, 800-volt architecture
+    allowing up to 350kW DC fast charging (~220km range per 10 minutes
+    plugged in). Visually near-identical to the rest of the range bar a
+    more closed-in grille and unique wheels; said to retain full
+    off-road capability despite electrification. **Not costed against
+    the current Evoque replacement/insurance question above, and not
+    yet an active purchase decision** — logged as John's stated
+    preference for a future vehicle, distinct from the immediate Owen's-
+    jeep insurance matter, which remains about a temporary short-term
+    fix, not a replacement decision.
 - **Majella's Newcastle West contact ("Majella Boat" — name/spelling to
   confirm) re: a bank account matter** — John needs to call her back.
 - **Phone voicemail rings too short** — John wants the number of rings
