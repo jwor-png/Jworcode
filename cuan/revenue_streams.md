@@ -649,6 +649,28 @@ is positioned against.
 - **REPORTED**, company-profile interviews, funding/staff figures as
   stated by the founders, not independently verified against CRO
   filings.
+- **Gary Byrne (CEO, Vanquotes.ie and GCRS Tech Hub), Irish Mail on
+  Sunday "A Question of Money" interview, 20 Sept.** Runs Vanquotes.ie
+  ("Uber for vans" - customers get 4 competitive quotes from local
+  drivers, ~1,000 drivers, expanding into the UK) and GCRS Tech Hub
+  (nationwide computer/device repair). **Directly quotable framing for
+  Ambrion/Velocity pitches**: "AI will eventually become as normal as
+  using the internet or a smartphone... I'm interested in practical AI
+  rather than the hype around it - how it can save people time, reduce
+  costs and solve everyday problems." **Most relevant point**: he's
+  "particularly interested in **private AI for businesses**, where
+  companies can use AI while keeping much greater control of their
+  confidential data" - independent, named confirmation from a working
+  entrepreneur (not a vendor pitch) that private/on-prem-style AI
+  control is a real, wanted feature, not just a compliance checkbox -
+  directly reinforces Ambrion's own governance-anchored positioning.
+  Also covers the **EU's new Right to Repair rules**: designed to make
+  repair more attractive than replacement, better consumer access to
+  parts/repair information, in some cases extending the legal guarantee
+  if repair is chosen over replacement - relevant if any future Ambrion/
+  Meridian conversation touches e-waste/circular-economy-adjacent AI
+  Act framing. **REPORTED**, a named entrepreneur's own interview
+  answers, not independently verified.
 
 ### Geoffrey Hinton visits UCD, seen 20 Sept 2026 (UCD Campus News)
 Professor Geoffrey Hinton (2024 Nobel Prize in Physics, foundational

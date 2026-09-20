@@ -902,6 +902,31 @@ are flagged for confirmation, never guessed.
   days before 23 Sept if Statement of Fact details are wrong, or terms are
   treated as confirmed by default.** John to review and decide (Zurich vs
   RedClick) in the coming days.
+  - **Flagging urgency, 20 Sept — this decision is still open and the
+    deadline is 3 days away.** Bill Tyson's "Your Money" column (Irish
+    Mail on Sunday, 20 Sept) gives general home-insurance tips directly
+    relevant to actually making this call: shop around rather than
+    accepting either quote at face value (Geraldine Kelly, Gallagher
+    brokers, cited: comparing policies helps understand the real range
+    of cover/price on offer, and "the cheapest policy isn't always the
+    best value"); check the buildings sum insured reflects rebuild cost,
+    not market value, to avoid being caught underinsured; confirm
+    contents cover is adequate rather than estimated low; and review
+    properly rather than letting it auto-renew by default. Also
+    debunks a "common mortgage myth," per the same Geraldine Kelly
+    (Gallagher): mortgage lenders cannot require you to buy home
+    insurance through them specifically - worth knowing if either Zurich
+    or RedClick is being compared against a lender-linked policy.
+  - **Adjacent, unresolved discrepancy worth flagging, not resolving
+    silently:** this same column cites the Household Benefits Package as
+    worth **€420/year**, payable to people over 66 (or 70 if not on a
+    qualifying welfare payment) - but the market intel already logged
+    18 Sept (`market_intel_over70s_unclaimed_benefits_sept2026.md`)
+    recorded it as up to **€580/year**. Not reconciled here - could be
+    different components of the same package, a reporting error in one
+    of the two sources, or a scheme change between articles - flagged
+    for whoever checks eligibility directly with the Department of
+    Social Protection (0818 200 400) rather than assumed.
 - **Range Rover Evoque temporarily off road — motor insurance question,
   19 Sept 2026.** Evoque (reg 191D15974) acting up; John needs to drive
   Owen's jeep for about a week instead. Owen's jeep currently has **no
