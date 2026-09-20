@@ -1183,6 +1183,40 @@ are flagged for confirmation, never guessed.
 
 ## 5. PROTECT MY PRESENT RESPONSIBLY
 
+- **2025 Form 11 self-assessed tax return — real deadline, seen 20 Sept
+  2026 (Deloitte guide, Business Post, Catherine O'Neill and Ian Prenty,
+  Deloitte Ireland).** Directly relevant given John's self-assessed
+  status across multiple director/consultancy roles (UHL, AHL, KEDL,
+  Webb Sports Horses, Ambrion, Velocity, Meridian).
+  - **Filing deadline: 31 October 2026** on paper, or **18 November
+    2026** if both paying and filing online via ROS (Revenue Online
+    Service). Even if the tax liability itself can't be paid, filing the
+    return on time still matters — Revenue applies interest *and*
+    penalties specifically for a missed filing deadline, separate from
+    late payment.
+  - **Preliminary tax for 2026 must be paid alongside the 2025 return**,
+    calculated as the higher of: 90% of expected 2026 liability, 100% of
+    actual 2025 liability, or (direct debit only) 105% of 2024
+    liability.
+  - **Not yet confirmed**: whether John is already registered for ROS
+    (registration itself takes ~8 days), whether an accountant/tax
+    adviser is already handling this for the relevant entities, or
+    whether this needs to be actioned personally. Logged as a real,
+    dated compliance deadline, not yet resolved as to who owns the
+    action.
+  - **Credits/reliefs worth checking against John's own situation,
+    named in the guide**: mortgage interest tax credit (up to
+    €1,250/residence, needs 2022 and 2025 mortgage interest certs plus
+    Dec 2025 loan balance confirmation); Home Carer tax credit (up to
+    €1,950 for 2025, income threshold €11,100); Rent tax credit (20% of
+    rent, capped €1,000 single/€2,000 couple); employer-paid medical
+    insurance benefit-in-kind (20% credit on gross premium); health
+    expenses (20% credit, routine dental/standard extractions excluded);
+    Capital Gains Tax reporting for any 2025 disposals (2025 CGT payment
+    dates have already passed, so interest may already be accruing if
+    applicable). **None of these confirmed as relevant to John's actual
+    2025 position** — listed for him to check against his own
+    circumstances, not assumed to apply.
 - **Revolut account security — six settings recommended, 18-19 Sept
   2026, following Revolut's admitted data breach** (see the market intel
   already logged: Revolut handed over sensitive customer data —
