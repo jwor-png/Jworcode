@@ -56,10 +56,15 @@ them directly, not something to assume either way.
 
 ## Open items
 
-1. **A visual map** — John asked for the itinerary cities marked on a
-   map of China, shown relative to the Dublin–Shanghai route. Not built
-   yet — this needs an actual map artifact (image/diagram), which is a
-   separate build from this text file. Flag if wanted as a next step.
+1. **A visual map — built, 21 Sept 2026.** John confirmed the itinerary
+   is an initial guide/aid and asked to see it as a visual map. Built as
+   a schematic (not geographically accurate) journey-map artifact,
+   ordered west to east with each stop's real highlights from the
+   Wendy Wu itinerary and the Dublin–Shanghai flight called out at the
+   top: **https://claude.ai/artifact/8EBeoncEMETZuguujijzkP**. Explicitly
+   not to scale — a planning aid, not a real map. Visually surfaces the
+   open geography question below (tour starts Beijing, direct flight
+   lands Shanghai) more clearly than the text version did.
 2. **Irish travel companies offering China trips** — a first pass
    (REPORTED, not verified in depth) found: **Mercury Holidays Ireland**
    (ABTA/ATOL, escorted China tours incl. Great Wall/Xi'an/Beijing/
