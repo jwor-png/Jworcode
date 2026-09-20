@@ -791,6 +791,15 @@ are flagged for confirmation, never guessed.
 
 ## 2. PROTECT MY HEALTH AND FAMILY
 
+- **Wiltshire Farm Foods — kept for future reference, 20 Sept 2026.**
+  Irish Mail on Sunday ad, John wants to remember it going forward, not
+  an immediate need. Frozen ready-meal delivery service, no subscription
+  or commitment, over 300 dishes (low-fat/low-salt/free-from/gluten-free
+  options), free delivery (minimum order in some areas), replaces any
+  disliked dinner for free. Contact: 01 473 5595 or wiltshirefarmfoods.ie
+  — currently offering €7.50 off a first order (code WFF75, valid to
+  31 Dec 2026). **Not actioned** — logged purely as a future reference
+  point, not tied to a specific need right now.
 - **Life Balance exercise** — standing discipline, not a one-off: golf, gardening,
   and protected family time held consistently, every week, not squeezed out by
   venture work.
