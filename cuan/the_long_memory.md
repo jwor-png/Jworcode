@@ -12,6 +12,29 @@ Exploratory concept, not committed. Developed at John's request (3 Aug) off the 
 
 **Status: idea under development for John's understanding, not yet tested with a real prospect, not costed, not committed to any venture.**
 
+## Second, independent YC signal — Fall 2026 Request for Startups, seen
+## 20 Sept 2026 (via @foundedceo Instagram, sourced to YC's own quarterly
+## RFS document)
+A more directly on-point item than the Summer 2026 carousel that
+originally sparked this idea. YC's Fall 2026 RFS lists 13 problem areas
+it believes are worth building in right now; item 7 is **"AI for the
+Aging Population"** — described as "voice interfaces, monitoring, home
+robotics, and caregiver coordination software built for older adults."
+This is adjacent to, not the same as, The Long Memory's actual thesis
+(succession/institutional-knowledge capture, not caregiving/monitoring),
+but it's a second, independent, dated signal from the same credible
+source (YC's own published quarterly list, not a third-party paraphrase
+this time) that "AI for the older-adult/second-half-of-life population"
+is a live, named category worth building in, not a one-off idea. Worth
+noting as reinforcing context for The Long Memory's core bet, not as
+direct validation of the specific succession-capture idea itself - the
+two are related by audience (older, established individuals) rather
+than by mechanism.
+
+**REPORTED**, sourced from a social media summary of YC's Fall 2026 RFS,
+not independently checked against ycombinator.com's own published
+document.
+
 ---
 
 ## The problem, as I understand it

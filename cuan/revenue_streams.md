@@ -486,6 +486,57 @@ is positioned against.
   figures are as reported in the piece, not independently checked
   against the underlying state contract database.
 
+### Y Combinator Fall 2026 Request for Startups — full list, seen 20
+### Sept 2026 (via @foundedceo Instagram, sourced to YC's own quarterly
+### document)
+YC publishes this list quarterly as an explicit signal of what it
+believes is worth building now, informed by what its partners see across
+thousands of applications/portfolio companies. Full 13 areas, logged for
+reference and cross-referenced against live ventures where a real tie
+exists - most don't, and are logged only for completeness:
+1. The Primer - AI teaching literacy/arithmetic at private-tutor quality,
+   consumer scale.
+2. The Future of American Defense - low-cost interceptors, sensors,
+   drones, resilient logistics, advanced manufacturing.
+3. A Cloud for Small Software - infrastructure for single/few-user
+   purpose-built tools.
+4. **Multiplayer AI** - AI that's multiplayer by default, anyone can
+   drop into the same live agent session, redirect it, hand it off.
+   **Worth flagging to Shane directly** - conceptually close to ODIN's
+   own multi-agent orchestration architecture (Finn as orchestrator,
+   managers/agents beneath); worth knowing this is a named category YC
+   is actively looking to fund, not just an internal ODIN design choice.
+5. Compute at Sea - offshore modular compute flotillas as one cloud.
+6. AI-Powered Consumer Products for 1 Billion People.
+7. **AI for the Aging Population** - voice interfaces, monitoring, home
+   robotics, caregiver coordination for older adults. See
+   `the_long_memory.md` for the direct cross-reference already logged
+   there - adjacent to, not the same as, The Long Memory's actual
+   succession-capture thesis.
+8. New Operating Systems for the Physical World - routing work between
+   AI agents, robots and humans in the field.
+9. The Best Time to Build in Crypto - rails, stablecoins, agentic
+   commerce, institutional products.
+10. Data for the Real World - dense physical-world data for energy,
+    agriculture, logistics, construction modelling.
+11. Proving You're Human - rebuilding trust/verified-human infrastructure
+    for calls, messages, transactions.
+12. **AI-Native Compliance Infrastructure** - consolidating fragmented
+    compliance tooling, reducing reliance on specialised headcount.
+    **Directly relevant to Ambrion's own EU AI Act compliance offering**
+    - an independent, credible signal (YC's own funding priorities, not
+    Ambrion's own marketing) that this exact category is considered
+    fundable and under-served right now.
+13. **Self-Maintaining APIs** - agents that scan customer codebases and
+    open a PR with the fix when an API changes, not just announce the
+    change. Same ODIN-adjacent note as item 4 above - worth Shane's own
+    view on whether this maps onto anything already in ODIN's roadmap.
+
+**REPORTED**, sourced from a social media summary of YC's Fall 2026 RFS,
+not independently checked against ycombinator.com's own published
+document. Logged for awareness - none of the above is an instruction to
+build anything, only a market signal worth having on file.
+
 ### Product Track - a second, parallel line alongside the services ladder
 (added 18 Sept 2026, John's own idea, direct answer to both the recurring-
 income gap and the Shane-capacity constraint above)
