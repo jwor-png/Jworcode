@@ -425,6 +425,31 @@ filter/scorecard** - next step once the UHL month-by-month plan is drafted.
    what specifically Shane's engagement with Property Properly involves,
    and detail on his separate marketing work - neither tracked yet beyond
    the name confirmed here.
+11. **Structure all agri connections for Meridian - flagged by John, 20
+   Sept, to be done "in days ahead."** Genuinely scattered right now
+   across at least these files, not yet pulled into one coherent
+   agribusiness offering/structure:
+   - `market_intel_dairy_farmer_investment_sept2026.md` - post-expansion
+     dairy farm capital allocation, AI as a named growth lever.
+   - `market_intel_farming_estate_dispute_sept2026.md` - executor
+     conflict-of-interest/undervalue land sale case study.
+   - `market_intel_farmers_journal_batch_sept2026.md` - farm pensions/
+     tax planning, Teagasc's AI-literacy framing for future ag workers,
+     CAO veterinary-vs-agriculture talent data.
+   - `market_intel_family_business_agony_aunt_sept2026.md` - family-
+     business succession/boundary conflict (farming-adjacent).
+   - This file's own entry above (20 Sept) on the Ploughing Innovation
+     Arena agri-tech award winners (VetPal, Telenostic, Terra Nutritech,
+     Masti-Trak) and named EI/government judging panel.
+   - Meridian's stated sector lens itself already names
+     "Agribusiness, food, retail & the co-operative sector" as one of
+     four named sectors (per the branded overview) - this work would
+     turn that one-line label into an actual structured offering.
+   - **Not yet started.** John's own framing is to give this real
+     structure, not just keep logging individual articles - worth
+     treating as its own dedicated pass (mirroring how the qualified-100
+     prospect list and the EOLAS spec were each built as standalone
+     deliverables) rather than folded into general conversation.
 
 ### Capacity constraint - Shane's time, stated by John (18 Sept)
 Shane's time is limited to training delivery only for the next 3-6 months,
