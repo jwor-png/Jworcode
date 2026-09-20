@@ -1198,12 +1198,14 @@ are flagged for confirmation, never guessed.
     calculated as the higher of: 90% of expected 2026 liability, 100% of
     actual 2025 liability, or (direct debit only) 105% of 2024
     liability.
-  - **Not yet confirmed**: whether John is already registered for ROS
-    (registration itself takes ~8 days), whether an accountant/tax
-    adviser is already handling this for the relevant entities, or
-    whether this needs to be actioned personally. Logged as a real,
-    dated compliance deadline, not yet resolved as to who owns the
-    action.
+  - **ROS registration confirmed, 20 Sept — John already has it.** That
+    clears the ~8-day registration lead time and keeps the later 18
+    November deadline available (pay and file online via ROS), rather
+    than the earlier 31 October paper deadline. **Still not confirmed**:
+    whether an accountant/tax adviser is already handling the actual
+    return preparation across John's various roles, or whether filing
+    itself still needs to be actioned personally now that registration
+    is in place.
   - **Credits/reliefs worth checking against John's own situation,
     named in the guide**: mortgage interest tax credit (up to
     €1,250/residence, needs 2022 and 2025 mortgage interest certs plus
