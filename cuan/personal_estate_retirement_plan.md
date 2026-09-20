@@ -326,6 +326,64 @@ forcing a straight annual-pension-vs-lump-sum trade-off, before this
 becomes a real instruction to a financial adviser rather than a logged
 piece of reading.
 
+### 3.11 — How to actually trace an old/forgotten pension (Bryan
+### Harvey, WealthPlan, "A Question of Money," seen 20 Sept 2026)
+**Directly answers half of §3.8's open question** — how to confirm
+whether a DB (or any other) pension entitlement exists from a past role
+before an AVC/commutation strategy can even be considered. This is a
+reader Q&A about a decade-long DB contribution with no paperwork and a
+now-defunct employer - structurally close to a real question John may
+need to answer for himself given decades of varied roles (UHL, AHL,
+KEDL, prior employment/directorships not all captured in this plan).
+
+**The actual practical steps, in order:**
+1. **The Pensions Authority keeps a register of company pension
+   schemes** - the starting point for tracing, even when the employer
+   no longer exists.
+2. **Ask former colleagues from the same employer** for scheme
+   administrator contact details - employer name and dates of
+   employment are usually enough to begin tracing.
+3. **Pension assets often survive employer closure** - even when a
+   company is gone, a life company or pension provider is frequently
+   still administering the fund. Harvey's own framing: "so in many
+   cases, it will still be possible to find the pension."
+4. **Get impartial financial advice before deciding whether to merge
+   old pensions or keep them separate** - merging can simplify access
+   and reduce fees, but may forfeit valuable benefits/features specific
+   to an older scheme. Check for transfer charges before combining
+   anything.
+5. **DB-specific point, directly relevant to §3.8**: with a Defined
+   Benefit scheme specifically, the choice is to stay in the scheme and
+   take an annual pension, **or** request a transfer value (the
+   actuarial valuation) into a personal retirement bond/PRSA and access
+   benefits that way - **a transfer value can only be taken before
+   normal retirement date, not after**, so this has a real time
+   sensitivity if John is close to or past a scheme's normal retirement
+   age.
+6. **At retirement, the drawdown choice is annuity vs Approved
+   Retirement Fund (ARF)** - annuity pays a fixed income for life; ARF
+   keeps the pot invested and drawable, both with distinct advantages/
+   disadvantages needing advice.
+7. **Separately, check State Pension (Contributory) eligibility via the
+   PRSI record** - if any working years are missing or incorrectly
+   recorded, this is fixed directly with the Department of Social
+   Protection, not the pension provider - ties to the voluntary PRSI
+   contribution point already logged at §3.7.
+
+**Why this matters now, not just as reading**: this is the practical
+"how" that's been missing from §3.8 - that entry established the AVC/
+commutation *mechanism* but explicitly flagged not knowing whether John
+holds a DB entitlement anywhere. This gives an actual first step (the
+Pensions Authority register, plus asking former colleagues/employers)
+rather than leaving it as an open question with no path to an answer.
+**Still not actioned** - John's own decades of roles and any associated
+pension entitlements haven't been inventoried in this plan yet; this
+sits squarely inside §3.4's "full asset/liability register" work still
+outstanding.
+
+**REPORTED**, a named financial adviser's own general guidance in a
+reader Q&A column, not a review of John's specific circumstances.
+
 ### 3.9 — Risks of using AI to draft a will (Lucy Warwick-Ching, FT
 ### "Your Questions," with Adam Creasey, Stevens & Bolton, 19 Sept 2026)
 Directly relevant to §3.1 (Will) given John's own AI-forward working
