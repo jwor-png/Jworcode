@@ -1516,16 +1516,76 @@ compliance inspection requested and awaited. Originated April 2026 with
 Paul Candon, Securitas Technology Ireland recommended at ~€99,000 + VAT.
 This delay is the main reason the board meeting cadence slipped from May.
 
-**3. Possible sale of the premises — live, undecided.** Harvey (Kevin
-McHugh, William Harvey Ltd) produced the property report/valuation,
-circulated to directors and shared with BDO. A members' shareholders
-meeting will be held with the AGM to consider a possible sale, given
-interest shown. **No decision to sell has been taken** — the Board wants
-~70% of members in favour before placing the property on the market.
-Shane Felle has stated he's in favour of a sale. Planning regularisation
-(Tom Phillips + Associates, John Gannon/Julie) runs alongside, so a sale
-isn't compromised by the outstanding condition; formal yard-storage
-drawings to be prepared jointly with UHL to maximise the opportunity.
+**3. Possible sale of the premises — live, undecided, now formally
+engaged with BDO Corporate Recovery.** Harvey (Kevin McHugh, William
+Harvey Ltd) produced the property report/valuation, circulated to
+directors and shared with BDO. A members' shareholders meeting will be
+held with the AGM to consider a possible sale, given interest shown.
+**No decision to sell has been taken.** Shane Felle has stated he's in
+favour of a sale. Planning regularisation (Tom Phillips + Associates,
+John Gannon/Julie) runs alongside, so a sale isn't compromised by the
+outstanding condition; formal yard-storage drawings to be prepared
+jointly with UHL to maximise the opportunity.
+
+**Major update, 15-17 Sept 2026 — this is being scoped as a potential
+full wind-down of AHL, not just a property sale.** Simon Carbery
+(BDO Audit) introduced John to **Peter Doherty and David O'Connor**
+(BDO Corporate Recovery) specifically because they are "better suited
+to discuss the potential sale of the property as part of **a
+liquidation of AHL**" — John's own framing to them, in writing: **the
+Board's view is that shareholder approval of ~75% (a special
+resolution) should be secured before proceeding, not the ~70% figure
+previously logged here** (superseded). John put six specific questions
+to Doherty/O'Connor on 15 Sept, copying Simon Carbery; Doherty replied
+with initial views (in red, inline) on 17 Sept, copying in Ursula
+(Co. Sec.) and Maoliosa (tax) for two of the points:
+1. **Process to convene the shareholders' resolution.** Doherty: an EGM
+   to propose a special resolution would normally require **21 days'
+   notice** to members, usual quorum/voting rules apply; BDO's Co. Sec.
+   team would check the Company's constitution for any additional
+   requirements and could help prepare the notices/resolutions.
+2. **AHL's €3.25m United Hardware shareholding** — what happens to it if
+   AHL is wound down. Doherty's view: the UH shares currently have **no
+   realisable value** and would likely only ever be repaid if UHL itself
+   were wound up with a surplus available; there are options that could
+   allow AHL's own winding-up and distribution of surplus assets to
+   proceed regardless, "which would need to be thought through" - not
+   yet resolved.
+3. **The ~€1.35m undistributed rebates accrual** — flagged by Simon
+   Carbery as likely to be raised by shareholders at the AGM. John's own
+   plan: bring a proposal to the Board for payment/distribution before
+   year end. Doherty: "to be discussed," no view given yet.
+4. **Shareholding clean-up** (two in-progress share transfers plus
+   dormant/non-trading shareholdings). Doherty: the two transfers should
+   be straightforward; needs to understand the specific dormant-holding
+   issues before giving a view on process/ownership (Co. Sec. team vs
+   John's office).
+5. **Internal share trading** — one member potentially buying out
+   another's shares directly, bypassing a full premises sale. Doherty's
+   view: a commercial matter between the two parties, likely at a
+   discount to reflect illiquidity/impairment risk (e.g. the property
+   losing value) and how long their money is tied up; **AHL itself
+   should not be involved** beyond recording the transfer per its
+   constitution.
+6. **CGT liability on a premises sale at current market value.**
+   Doherty looped in Maoliosa (tax) to establish base cost/enhancement
+   expenditure and any carried-forward capital losses before giving a
+   figure - **not yet quantified**.
+- **Fees:** explicitly not yet agreed - John's own email states fees for
+  this work will be agreed "for going forward after the AGM," so this
+  advice was given ahead of a formal fee arrangement.
+- **Not yet actioned:** no reply sent yet to Doherty's 17 Sept response;
+  he offered a follow-up call "tomorrow afternoon" (18 Sept) - status of
+  that call not confirmed in the files.
+
+**Urgent, outstanding — AGM proxies/active member list, flagged 20 Sept.**
+Joanne Mallon (BDO Corporate Governance) emailed 18 Sept asking two
+things ahead of the 23 Sept AGM: (1) whether any proxies have been
+returned to date, and (2) the list of active members notices were
+issued to, for BDO's records. **John replied same day saying he'd check
+with the AHL office and revert** - **no follow-up reply found in Gmail
+as of 20 Sept.** With the AGM now only 3 days away, this needs actually
+answering, not just acknowledged.
 
 **4. Debtors: Smyth and Mulvey.** Confirmed to BDO 25 Aug that both
 accounts will be pursued for collection and remain in debtors for the
