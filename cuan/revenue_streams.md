@@ -620,6 +620,57 @@ is positioned against.
   figures are as reported in the piece, not independently checked
   against the underlying state contract database.
 
+### Two named comparators, seen 20 Sept 2026 (Business Post "Making It
+### Work"/company profiles, Emmet Ryan)
+- **Intrinsic CFO (Joe O'Regan, founded 2022, Waterford-based, now
+  operating Canada/Ireland)** — **the closest direct business-model
+  comparator to Ambrion/Velocity's own offering found yet.** Positions
+  as fractional CFO services plus AI strategy for SMEs - O'Regan's own
+  framing: "I want to expand the way the works... to fix their data
+  first, then the magic will happen with AI." €40,000 investment,
+  currently 1 staff, expanding via specialist contractors with a team of
+  small-business advisers. **Worth a direct look at their actual
+  offering/pricing** - same fractional-expert-plus-AI model, different
+  functional focus (finance vs governance/adoption), genuinely
+  comparable positioning language to what Ambrion/Velocity already use.
+- **xWave Technologies (Mitchell O'Gorman and Ronan Killeen, founded
+  2020, Dublin, UCD spinout)** — AI-driven diagnostics/referral
+  intelligence platform for radiology, raised total €4.8m, 14 staff, 22
+  NHS trusts already using it in the UK, targeting full UK coverage by
+  end of 2027. CEO O'Gorman's own framing: "we've developed strong
+  sustainability guidelines and put the business support just for us...
+  it's not just in pathology and radiology but in diagnostics
+  intelligence more broadly." **Relevant to Meridian's Healthcare sector
+  lens** (third same-week healthcare/AI item after Broadlake and the
+  Health AI Summit) - a real, funded, UK-scaling Irish healthcare-AI
+  company, useful context for any future Thomond/Ilex-adjacent
+  conversation about what "AI in Irish healthcare delivery" actually
+  looks like in practice right now.
+- **REPORTED**, company-profile interviews, funding/staff figures as
+  stated by the founders, not independently verified against CRO
+  filings.
+
+### Geoffrey Hinton visits UCD, seen 20 Sept 2026 (UCD Campus News)
+Professor Geoffrey Hinton (2024 Nobel Prize in Physics, foundational
+neural-network research, emeritus at University of Toronto) gave a UCD
+lecture in June 2026, "Are We Creating Alien Beings?", attended/hosted
+by UCD President Prof. Orla Feely and Prof. Kate Robson Brown. Core
+message, as reported: reflected on how humans might co-exist with
+superintelligent AI and the potential dangers of increasingly capable
+systems, arguing for international collaboration on AI safety research
+- while geopolitical competition may drive capability advances, he
+argued there is still real scope for cooperation specifically on
+keeping systems safe and beneficial. **Why logged**: a further, highly
+credible independent voice (Nobel laureate, not industry-commercial)
+on the same AI-safety-cooperation theme already tracked across several
+other entries this week (the Foulis "golden rules" piece, the Altman/
+Musk/Amodei alignment piece) - worth noting as a genuinely academic,
+non-commercial source saying broadly the same thing, useful for
+Meridian's AI Strategy & Governance domain when a non-industry
+authority is needed. **REPORTED**, UCD's own alumni/campus news
+summary of the lecture, not independently verified against a recording
+or transcript.
+
 ### Y Combinator Fall 2026 Request for Startups — full list, seen 20
 ### Sept 2026 (via @foundedceo Instagram, sourced to YC's own quarterly
 ### document)
