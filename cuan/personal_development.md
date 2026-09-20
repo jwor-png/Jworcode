@@ -735,3 +735,26 @@ context.
   Muqit, UK Dementia Research Unit/Edinburgh) quoted directly in the
   piece; trial results and drug approvals are forward-looking and not
   yet confirmed outcomes.
+
+## Book to get — "The Last Good Day on the Internet" by Mark Little
+John flagged this directly ("I must get this book") from a "My Life in
+Books" interview, seen 20 Sept 2026.
+- **Author:** Mark Little — entrepreneur and journalist, built two
+  successful tech start-ups, worked for Twitter and Spotify, former RTE
+  presenter/foreign correspondent.
+- **Publisher:** Hachette Ireland, published the week of 20 Sept 2026.
+- **What it's about, in Little's own words:** makes the case for "hope
+  and human agency in the age of superhuman machines" - his own hoped-
+  for legacy for the book is that it "helped steer people away from
+  empty optimism or pointless rage about the future and towards an
+  urgent and intentional form of hope."
+- **Directly relevant, not just a personal reading note**: the book's
+  actual thesis sits close to Cuan's own "extends judgement, doesn't
+  replace it" principle and Meridian's "informs, does not represent"
+  positioning, and to the Gina London/Richard McSweeney piece already
+  logged in this file on the same date - a third independent voice
+  making a related argument (human agency and hope, not fear or empty
+  optimism, in the face of AI capability) within the same 24 hours of
+  reading. Worth reading properly rather than just filing, given how
+  often this theme is recurring right now.
+- **Not yet purchased.**
