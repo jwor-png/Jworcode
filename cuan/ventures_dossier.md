@@ -3860,6 +3860,15 @@ Two live share-transfer requests to instruct BDO on, for a fee quote:
     premises meeting ~1:15pm) — same event, additional detail on its
     stated purpose (the leased premises) and its notice text now
     confirmed directly.
+  - **John's travel/prep plan, confirmed 20 Sept:** travelling to Dublin
+    Tuesday night (22 Sept), ahead of Wednesday's meetings (23 Sept —
+    AGM, the Ray/Edel Smyth meeting, and the premises/shareholders'
+    meeting, all same day per the detail above). John wants to agree
+    prep for all three in the morning (21 Sept) before travelling —
+    **not yet done**, including the still-open Campion household
+    insurance email and the reply to Joanne Mallon on AGM
+    proxies/active members (both above), which he said he'd revisit
+    tomorrow rather than draft tonight.
 - **Dominic Rice** — **[ASK] no matching email found in this Gmail account under this name.** John referenced "as per the Gmails to me" — flagged rather than guessed; worth checking if this is under a different name/spelling, or in one of the other inboxes (Ambrion/Velocity) not fully searched this session.
 - Separately still open from the audit: **Jonas McCarthy shares** (West Cork Building Supplies Ltd, Clonakilty) — Simon Carbery/BDO asked for clarification on these for the 2025 financial statements; John confirmed the shareholding detail 26 Aug but Jonas has not progressed the transfer request. Related but distinct from the two new transfer instructions above.
 - **BDO — Joanne, missing documents:** John referenced a recent email from Joanne at BDO about missing documents needing a reply. **Not located in this search** — worth a direct check next session, possibly under a different BDO sender (Joanne Mallon, jmallon@bdo.ie, has been in contact re AHL's Annual Return separately).
