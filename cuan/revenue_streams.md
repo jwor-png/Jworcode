@@ -453,6 +453,39 @@ current market mood, not for acting on directly.
   signal of growing institutional caution on AI valuations specifically,
   not just financial-media commentary.
 
+### Meridian positioning ammunition — state consultancy spend, seen 20
+### Sept 2026 (Business Post front page, Daniel Murray)
+Directly usable evidence for Meridian's own pitch, not just background
+reading - this is a real, current, named data point on exactly the
+problem Meridian's "one accountable principal, verified findings" model
+is positioned against.
+- **State consultancy spend has tripled since 2019 to €519 million**,
+  the top 10 firms alone earning a combined €2.3bn since 2019. Named top
+  earners: EY (€94.6m), Deloitte (€90.3m), Turner and Townsend (€88.4m),
+  Accenture (€80.8m and Arup €47.3m), other top firms include PwC,
+  Grant Thornton, KPMG, BearingPoint, Jacobs Engineering.
+- **A named ex-official's own criticism, directly quotable**: a former
+  NDA/NTMA director (Brendan McDonagh, now Nama chief) warned state
+  consultancy spend has become "fragmented" and "ad-hoc," with a "lot of
+  the growth in consultancy spend has to do with duplication, and
+  lengthy contractual engagements" and infrastructure/development
+  projects included services "the state's in-house sector with more
+  discipline on how it's used" could have delivered - his own words:
+  "those actually create value ultimately it's not about because it's
+  all waste. But we do need more discipline."
+- **Why this is directly usable, not just interesting**: this is
+  independent, current, on-record evidence that the "fragmented,
+  duplicative, ad-hoc consultancy spend, no single accountable owner"
+  problem is real and named by a senior insider, not a strawman Meridian
+  invented to sell against. Worth having ready for any Meridian pitch
+  (public sector or private) that leans on the "one principal, personally
+  accountable, verified findings" contrast against a traditional Big 4/
+  multi-firm consultancy model - this is a live, quantified example of
+  exactly what that model produces at scale.
+- **REPORTED**, sourced from the Business Post's own reporting; the named
+  figures are as reported in the piece, not independently checked
+  against the underlying state contract database.
+
 ### Product Track - a second, parallel line alongside the services ladder
 (added 18 Sept 2026, John's own idea, direct answer to both the recurring-
 income gap and the Shane-capacity constraint above)
