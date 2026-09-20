@@ -461,6 +461,67 @@ implies ongoing Shane involvement beyond 3-6 months.
   Engineering - see `prospect_list_combined.md`) - this is a
   concentrated room of exactly the AI-infrastructure-adjacent buyers the
   qualified-100 list already targets, not a cold venue.
+- **Business Post Cyber Security Summit — 29 Sept 2026, Croke Park,
+  Dublin.** Named speakers include John Hetherton (Cybersecurity
+  Specialist, OpenAI), Virginia Lee (Head of Cybersecurity Ireland,
+  TCS), Olivia Mullooly (Partner, Arthur Cox), Paul C Dwyer (CEO, Cyber
+  Risk International), Anna Marie Turley (Head of Fintech, Financial
+  Services & Cybersecurity, Enterprise Ireland), Dick O'Brien (Principal
+  Intelligence Analyst, Broadcom Enterprise Security Group). Sponsors
+  include EY. **Second concrete networking opportunity logged this
+  week**, alongside DataCentres Ireland (18-19 Nov) — worth deciding
+  whether either or both are worth attending given the same qualified-
+  100/AI-governance target audience overlap. Booking at
+  cybersecuritysummit.ie.
+- **Lucinda Creighton (Business Post Tech, 20 Sept), "Ireland can learn
+  lessons from the US on data centre buy-in."** Substantive policy
+  piece, not just a competitor/event note - directly relevant to
+  Meridian's AI Strategy & Governance domain and to the general
+  Ambrion/Velocity AI-adoption case, since it's about the politics of
+  AI infrastructure acceptance:
+  - US context: a national poll found 42% oppose new data-centre
+    development in their communities; over 300 private moratoriums/
+    outright bans on data centres have been enacted across US states and
+    localities, with public opposition tied to rising energy prices and
+    "whoever wins AI, whoever wins" arguments losing traction against
+    ordinary cost-of-living concerns. A bipartisan US Congress bill (the
+    Ratepayer Protection Act) would require large AI/data-centre
+    companies to fully cover the cost of grid upgrades they require,
+    rather than passing costs to ordinary households - already backed
+    by over 300 private companies and utilities.
+  - Ireland-specific argument: Ireland should treat data centres as "an
+    essential part of a strategic economic plan," not handle them
+    piecemeal - recommends developing a national strategic energy grid
+    upgrade plan integrating AI/advanced manufacturing investment
+    proposals, and legislating a clear framework so citizens can see how
+    data centres will accompany (not just cost) local energy
+    infrastructure and jobs. Cites the Irish Government's LEAP
+    (integrated national strategic energy action plan, containing large
+    energy user transport/planning decisions) as a genuinely positive
+    recent step.
+  - **Directly quotable framing for any Ambrion/Meridian AI-governance
+    conversation**: "we do not ask children to design their own seat
+    belts, or parents to install airbags. We legislate for car
+    manufacturers to provide them" (paraphrased from von der Leyen,
+    cited in the piece) - a clean analogy for why governance/regulation
+    of AI infrastructure sits with policymakers and companies, not
+    individual citizens.
+  - **REPORTED**, a named columnist's own analysis and cited sources
+    (poll, Congress bill, LEAP plan), not independently re-verified.
+- **Alice O'Leary (Business Post, 20 Sept), Otonomee (Cork BPO/remote-
+  staffing company) profile - adjacent but genuinely relevant labour-
+  market data point.** Otonomee (founded 2020, Cork, co-founders Aidan
+  and Hilary O'Shea) runs 650 remote employees across 8 countries for
+  clients including Oura, Laya Healthcare and Momence; revenue grew
+  150%+ 2024-2025 (~€7.5m to ~€20m), profitable for 2.5-3 years, targeting
+  50% further growth this year. **The AI-relevant point, in the
+  founder's own words**: "a lot of the repetitive, simple tasks can be
+  done by AI... we're dealing with more complex stuff because the easy
+  stuff is going away" - a real, named, quantified example of AI
+  actively displacing entry-level BPO/outsourcing work right now, not a
+  future prediction. Relevant background for any Ambrion/Velocity
+  conversation about the workforce-impact side of AI adoption, distinct
+  from the compliance/governance side already central to the pitch.
 
 ### Macro/market context for the AI funding thesis, seen 20 Sept 2026
 Two further data points on the same watch-thread as the Emulate funding
@@ -489,6 +550,31 @@ current market mood, not for acting on directly.
   institutional investor's own stated re-rating - a real, independent
   signal of growing institutional caution on AI valuations specifically,
   not just financial-media commentary.
+- **Business Post (Charlie Taylor, San Francisco), "AI leaders' rare
+  united front falls apart in face of power and profit."** Fifth
+  Anthropic-adjacent item in this same short window, and the most
+  directly substantive: at Salesforce's Dreamforce event, Sam Altman and
+  Elon Musk (rare public alignment between rivals) spoke in favour of
+  Dario Amodei's call for a "global slowdown" in frontier AI
+  development, with Altman calling it "a real wake-up call" and
+  reportedly saying "whoever wins AI, whoever wins the capability... it
+  cannot be that a small number of companies get to make the decisions
+  that the world should get to make." Salesforce's Marc Benioff
+  described AI development as approaching "an existential debate," and
+  the piece frames the underlying tension explicitly: rivals rushing to
+  ship product while nominally agreeing the pace itself is the risk.
+  David Sacks (Trump's AI czar) is quoted arguing regulators are moving
+  "too slow" against China, naming three options - government does
+  nothing, a pause (which he opposes), or companies "internalising
+  responsibility themselves." **REPORTED**, named on-record quotes from
+  a credible wire/columnist source - not independently re-verified
+  against primary transcripts of what was actually said at the event.
+  **Why flagged as the most substantive of the five Anthropic-adjacent
+  items**: unlike the earlier scrutiny pieces (the Foulis "golden rules"
+  column, the Investor Finn satire), this one has Altman and Musk
+  themselves - not just Amodei - publicly agreeing restraint is needed,
+  which is a genuinely rare alignment worth remembering as evidence the
+  "AI moving too fast" concern isn't a one-lab position.
 
 ### Meridian positioning ammunition — state consultancy spend, seen 20
 ### Sept 2026 (Business Post front page, Daniel Murray)
