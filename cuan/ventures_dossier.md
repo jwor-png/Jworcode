@@ -1578,14 +1578,18 @@ with initial views (in red, inline) on 17 Sept, copying in Ursula
   he offered a follow-up call "tomorrow afternoon" (18 Sept) - status of
   that call not confirmed in the files.
 
-**Urgent, outstanding — AGM proxies/active member list, flagged 20 Sept.**
-Joanne Mallon (BDO Corporate Governance) emailed 18 Sept asking two
-things ahead of the 23 Sept AGM: (1) whether any proxies have been
-returned to date, and (2) the list of active members notices were
-issued to, for BDO's records. **John replied same day saying he'd check
-with the AHL office and revert** - **no follow-up reply found in Gmail
-as of 20 Sept.** With the AGM now only 3 days away, this needs actually
-answering, not just acknowledged.
+**AGM proxies/active member list — update, 20-21 Sept.** Joanne Mallon
+(BDO Corporate Governance) emailed 18 Sept asking two things ahead of
+the 23 Sept AGM: (1) whether any proxies have been returned to date,
+and (2) the list of active members notices were issued to, for BDO's
+records. John replied same day saying he'd check with the AHL office
+and revert. **Update, 20 Sept: as of Friday (18 Sept), only one proxy
+had been received.** John is speaking to Dave Geoghegan (UHL) the
+morning of 21 Sept - presumably to confirm the current proxy count and
+get the active member list before replying to Joanne. **Still not
+confirmed sent back to Joanne as of this entry** - the one-proxy figure
+may have moved on since Friday, worth confirming with Dave before
+replying rather than quoting the Friday figure as current.
 
 **4. Debtors: Smyth and Mulvey.** Confirmed to BDO 25 Aug that both
 accounts will be pursued for collection and remain in debtors for the
