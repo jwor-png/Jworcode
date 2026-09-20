@@ -926,8 +926,9 @@ are flagged for confirmation, never guessed.
     or 059 916 7720, ref OROJ24002) before Owen's jeep is actually
     driven.
   - **Full registration confirmed, 20 Sept, evening — 10-D-12953.**
-    Land Rover, 2010, Dublin registration. Email to Campion finalised
-    with this detail, ready to send tomorrow morning (see below).
+    Land Rover, 2010, Dublin registration. **Email to Campion saved as a
+    Gmail draft, ready for John to review and send** (ref OROJ24002,
+    to renew@campion.com, FAO Ann Marie Brennan) — not yet sent.
   - **Related, flagged by John 19 Sept, not yet discussed:** dealing with
     the Irish motor tax authorities on this also — not yet scoped what
     specifically needs addressing (e.g. whether Owen's Land Rover is
