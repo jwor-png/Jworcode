@@ -523,12 +523,50 @@
   John personally.
 - **Context, 19 Sept 2026:** wrote a Limerick Leader opinion piece,
   "Confident enough to try," on how Limerick city centre should develop
-  under directly-elected mayor John Moran — arguing for evidence-based
-  experimentation (Summer in the City, urban beach, Three Bridges route,
-  O'Connell Street public realm) over reflexive defence of the status
-  quo, and for scrutiny of the mayoralty without personal hostility.
-  Notable credential: led the Milk Market redevelopment through Healy
-  Partners Architects.
+  under directly-elected mayor John Moran. **Full text now read, 20
+  Sept — confirms and expands the earlier summary:**
+  - **Core argument:** the real question isn't whether individual
+    interventions (Summer in the City, temporary street closures, the
+    urban beach) succeed or fail, but what kind of city Limerick wants
+    to become — "maintaining the status quo is not an option," given
+    shop closures and the structural shift to online shopping predate
+    and sit outside Moran's own interventions.
+  - **Named track record he cites as precedent:** Jim Barrett, former
+    Limerick City Architect (later Dublin City Architect, influenced the
+    Liffey Boardwalk and O'Connell Street), credited with the
+    "unconventional" 1980s decision that Limerick needed to turn and
+    face the River Shannon — leading to Arthur's Quay Park and the
+    current quays strategy. Rice explicitly does not equate Moran with
+    Barrett ("their roles are very different") but uses Barrett as proof
+    Limerick has taken real risks before and benefited.
+  - **The method he actually advocates — "intelligent cities experiment,
+    measure and learn," not "take risks blindly":** close a street
+    temporarily, introduce seating/an urban beach/a sporting event, then
+    count pedestrians, monitor traffic and parking, and talk to
+    businesses and residents before deciding what stays. Barcelona's
+    1980s transformation cited as the reference precedent for
+    interventions-as-instruments-of-regeneration. Explicit criticism of
+    the Covid-era parklets: "it is unfortunate that a successful idea was
+    removed rather than improved."
+  - **On parking specifically:** flags a real contradiction — on-street
+    parking costs €1/hour with no comparable multi-storey rate, so the
+    cheapest parking sits exactly where the most valuable kerbside space
+    is, and argues for managing turnover rather than defending
+    unrestricted access.
+  - **On governance/scrutiny:** "a mayor should be scrutinised.
+    Councillors should challenge proposals, journalists ask difficult
+    questions" — but distinguishes that from a culture "in which every
+    new idea becomes a disaster and every disagreement becomes
+    personal." Explicit statement he does not agree with everything
+    Moran does, but argues political/sectional opposition extinguishing
+    the ambition itself would be "a serious mistake."
+  - **Closing framing, his own words:** the real legacy question is
+    whether Limerick ends up "a city frightened of changing what does
+    not work, or a city sufficiently confident in itself to try things,
+    measure them, learn from them and keep moving forward."
+  - Notable credential confirmed: led the Milk Market redevelopment
+    through Healy Partners Architects, cited in the piece itself as his
+    direct experience of building new activity into the city centre.
 - **Why logged:** John flagged direct personal interest — "I know
   Richard Rice and Limerick is my city, 30 minutes drive from me."
   Limerick city centre's development sits in the same broader civic
