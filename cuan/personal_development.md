@@ -758,3 +758,27 @@ Books" interview, seen 20 Sept 2026.
   reading. Worth reading properly rather than just filing, given how
   often this theme is recurring right now.
 - **Not yet purchased.**
+
+## Book to get — "Seeing What's Hidden" by Manchán Magan
+John flagged this directly ("And this one"), same session, Sunday
+Independent Non-Fiction review (Hilary White), 20 Sept 2026.
+- **Publisher/price:** Gill, €22.99.
+- **Author:** Manchán Magan, writer/mythologist, died of cancer last
+  October at 55. Sent the manuscript shortly before his death; the
+  publisher (Aisling Rogerson at Gill) and Magan's wife saw it through
+  final editing/publishing, with Magan's sister-in-law Cecilia Vicuña
+  and poets Seamus Barra Ó Súilleabháin contributing an introduction
+  alongside Robert Macfarlane.
+- **Content:** a "tremendously beautiful tribute" (per the review) to
+  Irish folkloric wisdom - fairies, cultural and ecological rhythms,
+  seasonal cycles and rebirths, superstitions "shape-shifting spirits
+  wafting through a more wood-permeable Ireland of yore." Framed as
+  wanting to "decolonise and rewild" the Irish mind by waymarking the
+  cultural/ecological knowledge being lost to modernity.
+- **Where it sits in his body of work:** his final book, following
+  "Seeing What's Hidden" [sic - the review names this as closing a
+  trilogy with "Thirty-Two Words for Field" and "Listen to the Words"],
+  described as a deepening of his consistent mission across his last
+  eight years of work: decoding and communicating Ireland's
+  disappearing folk knowledge "through story rather than cartography."
+- **Not yet purchased.**
