@@ -530,3 +530,103 @@ breathing room, not emergency-driven) both sit close to the wellbeing-
 audit and legacy-financial-resolution work already tracked elsewhere in
 Cuan (`operating_creed.md`, `personal_estate_retirement_plan.md`) —
 another reinforcing data point, not a new instruction.
+
+## "How to Fix Your Entire Life in 1 Day" — visual framework (Natan
+## Mohart, infographic based on an article by Dan Koe), seen 20 Sept 2026
+A more structured, systems-based framework than the previous two
+carousels, worth logging on its own terms rather than folded in as
+another data point.
+
+**The core diagnosis (sections 1-4):** results are a reflection of
+identity, not just actions — behaviour is goal-oriented even when it's
+procrastination or self-sabotage, chasing safety/comfort/approval rather
+than the stated goal. "You don't lack discipline, you're pursuing a goal
+that may simply be unconscious or self-defeating." Real change requires
+changing identity, not just behaviour, and the life available is bounded
+by current stage of ego development (a 9-stage ladder given: Impulsive →
+Self-Protective → Conformist → Self-Aware → Conscientious →
+Individualist → Strategist → Construct-Aware → Unitive) — "no matter
+your current stage, moving up leads to a wider perspective, more freedom
+and a better life."
+
+**The Identity Loop (section 3):** Goal → Perception → Learning → Action
++ Feedback → Conditioning → Identity → Defend Identity → New Goals →
+back to Goal. The mechanism named for why people stay stuck: identity
+defends itself to stay consistent, even against the person's own stated
+goals.
+
+**Section 5 — intelligence reframed as a skill, not a fixed trait**: "A
+better life comes from the combination of agency, opportunity and
+intelligence," where intelligence itself is "the ability to get what you
+want" via a feedback loop (Have a goal → Act → Sense → Compare → Adjust
+→ Repeat). To get "smarter" in this sense: reject the known path, dive
+into the unknown, set higher goals, embrace chaos, study general
+principles, become a deep generalist.
+
+**Section 6 — an actual one-day protocol**, the most directly actionable
+part: Morning (Psychological Excavation, journalling prompts — what am I
+dissatisfied with, what do I complain about but never change, what would
+I actually want if pretending isn't important); Throughout the day
+(Interrupting Autopilot, timed check-ins at 11:00, 1:30, 3:15, 5:00,
+7:30, 9:00 asking what identity/action I'm protecting or need to give
+up); Evening (Synthesise Insight — why am I stuck, compress the anti-
+vision and the 1-year lens, name the actions that actually move you).
+Closing line: "One day of radical honesty can change the trajectory of
+your life."
+
+**Section 7 — "Turn your life into a video game," a planning chain**:
+Anti-Vision (what you never want to experience again) → Vision (the
+ideal life) → 1-Year Goal → 1-Month Project → Daily Levers (what moves
+the project forward) → Constraints (what won't be sacrificed). Notable
+for starting from the *negative* (Anti-Vision) before the positive
+vision — a different entry point than most goal-setting frameworks
+already logged in this file.
+
+**Why this is worth keeping distinct from the other two carousels**:
+it's a coherent system with an actual mechanism (the Identity Loop) and
+a concrete daily protocol, not just a numbered list of maxims — closer
+in kind to the existing wellbeing-audit material already in this file
+than to the "7 Rules"/"10 Habits" lists. The Anti-Vision-first planning
+chain in particular could be a genuinely useful structure to apply
+directly, e.g. to the personal_estate_retirement_plan.md "clean
+financial bill of health by 66" goal, which already has a Vision (enjoy
+retirement) and a 1-Year-ish frame but no explicit Anti-Vision or Daily
+Levers named yet.
+
+**REPORTED/OPINION** — a secondary infographic interpretation of Dan
+Koe's own article, not independently read against Koe's original piece
+or any underlying psychological research (the ego-development stage
+ladder in particular resembles Susanne Cook-Greuter's or Jane Loevinger's
+academic models but is not attributed to either here).
+
+## M&A market intelligence — Broadlake acquires Diverse Diagnostics
+## (Renatus M&A Activity note), seen 20 Sept 2026
+Logged here rather than a dedicated file since it's a single deal note,
+but flagged because it sits directly inside Meridian's own stated sector
+lens ("Healthcare, primary care & dental," per the branded overview) and
+carries a genuinely striking undersupply statistic.
+
+- **The deal**: Broadlake (Dublin-headquartered investment company,
+  established 2008 by Pete Smyth) has acquired Diverse Diagnostics
+  (Glasgow-headquartered, founded 2022 by Dr Jagdish Basra), a
+  psychiatrist-led provider of ADHD, autism and mental-health
+  assessments for adults and children, delivered virtually across
+  Ireland. Deal consideration not disclosed; Diverse Diagnostics does
+  not report turnover/EBITDA. Advisors named on Broadlake's side only
+  (Tughans LLP legal; named FDD/TDD teams) — none listed for Diverse
+  Diagnostics.
+- **The genuinely notable data point, from Renatus's own comment**:
+  "demand for neurodevelopmental assessments continues to run ahead of
+  available capacity in Ireland" — HSE data (2026) shows **2,174
+  children awaiting an autism assessment in Cork alone**, with adult
+  ADHD assessment waiting times ranging **6 to 24 months** regionally.
+- **Why this is logged, not just an M&A curiosity**: a real, quantified,
+  named example of exactly the kind of healthcare-capacity gap that
+  private capital is already moving to fill (a virtual-delivery model
+  solving a regional access problem) — directly relevant background for
+  Meridian's Healthcare sector lens and for any future Thomond/Ilex-
+  adjacent healthcare property/service conversation, given John's
+  existing PCC portfolio work with Ger Blake. Not asserted as a lead or
+  opportunity in itself - logged as market context.
+- **REPORTED**, sourced from a Renatus M&A Activity note screenshot, not
+  independently verified against Companies House/CRO filings.
