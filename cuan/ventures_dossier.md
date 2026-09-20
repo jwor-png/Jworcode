@@ -3318,6 +3318,22 @@ before liquidation).
     social housing target was 251 units by end 2026, pipeline reported
     at 123.65% as of Nov 2024. Vienna Housing Model flagged as a 2026
     priority but stalled at Department level as of Jan 2026.
+  - **Regulatory change directly relevant to all three schemes above,
+    seen 20 Sept 2026 (Business Post, Daniel Murray).** Government is
+    scrapping mandatory environmental impact assessment (EIA) screening
+    for housing developments up to 250 units, expected by end of this
+    month under Minister of State John Cummins (Housing). Full EIA will
+    only be required above 750 units; a "basic screening" applies for up
+    to 250 units, with no screening at all required for the first 10,000
+    units under the new exclusion thresholds, described as a
+    time-saving/de-duplication measure. **All three Kilmallock schemes
+    above (42, 28, and 31 units) fall well inside this new 250-unit
+    exemption**, and the broader Cappamore Kilmallock 251-unit district
+    target sits right at the boundary — worth being aware this genuinely
+    speeds up delivery timelines for exactly this local pipeline, not
+    just a general national policy note. **REPORTED**, sourced from the
+    Business Post's own reporting citing an unnamed government source;
+    regulations not yet formally introduced as of this clipping.
   - **Heritage:** Merchant's House, Sarsfield Street (built 1570s) —
     €886,200 allocated from a €1.2m Rural Regeneration and Development
     Fund award (Minister Dara Calleary). Design team: Louise Cotter

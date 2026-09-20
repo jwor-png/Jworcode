@@ -398,6 +398,61 @@ which is Shane-intensive) can actually be sold and delivered in that
 window - worth being explicit about this with any prospect discussion that
 implies ongoing Shane involvement beyond 3-6 months.
 
+### Competitive intelligence and market events, seen 20 Sept 2026
+- **irishai.ie (Irish AI Consultancy)** — a direct, live competitor in
+  the same AI-adoption space, seen as a print ad. Positioning: "4 hours
+  of admin, or 25 minutes with AI," offering search optimisation and AI-
+  driven recommendation tooling for e-commerce/offline businesses,
+  contact via irishaiconsultancy.ie / info@irishaiconsultancy.ie / (01)
+  4370330. Adjacent to the ad, a separate short news item describes an
+  Irish fintech unicorn (name not fully legible in the clipping, but
+  detail matches Wayflyer's known profile - revenue-based financing,
+  $10k-$20m unsecured loans to e-commerce/offline businesses to fund
+  ads/inventory, e-commerce analytics, achieved unicorn status in early
+  2022 on a $1.6bn valuation after a $50m Series raise) - logged as
+  adjacent market context, not confirmed as the same company as the ad.
+  **Not yet assessed** - worth a look at irishai.ie's actual client base
+  and pricing before treating it as a serious competitive threat versus
+  a different-tier offering (Meridian/Ambrion sell governance-anchored
+  advisory, not workflow/search tooling).
+- **DataCentres Ireland — RDS Dublin, 18-19 Nov 2026.** Free-entry
+  exhibition and conference (infrastructure, services, solutions -
+  market overview, power sessions, renewable energy, standby
+  generation). **Worth attending or sending someone**, since several
+  companies already on the qualified-100 prospect list build data-centre
+  infrastructure directly (Errigal Group, H&MV Engineering, Kirby Group
+  Engineering - see `prospect_list_combined.md`) - this is a
+  concentrated room of exactly the AI-infrastructure-adjacent buyers the
+  qualified-100 list already targets, not a cold venue.
+
+### Macro/market context for the AI funding thesis, seen 20 Sept 2026
+Two further data points on the same watch-thread as the Emulate funding
+brief and the two FT/Anthropic pieces already logged (18-19 Sept) -
+useful for calibrating investor conversations (ODIN, EOLAS) against the
+current market mood, not for acting on directly.
+- **FT "Investor Finn" column, "Existential risk isn't all downside for
+  my AI portfolio, according to ChatGPT."** A satirical/analytical piece
+  asking ChatGPT itself about AI existential risk to a portfolio -
+  references Anthropic's own internal estimate of "10-25% chance of
+  civilisational collapse" from AI (**REPORTED**, as characterised by
+  the column, not independently verified against Anthropic's own
+  statements) and weighs OpenAI/Anthropic's current sky-high valuations
+  against that stated risk. Fourth Anthropic-adjacent item logged from
+  this general news cycle - reinforces treating the volume of coverage
+  as one dense period, not an escalating trend on its own.
+- **Business Post, "Fed hike may be good for inflation but it's bad news
+  for AI investors"** (Kathleen Gallagher). New US Fed chair Kevin Warsh
+  raised rates; market reaction was a genuine relief rally (Dow +1.2%,
+  S&P recovering) on renewed confidence in Fed independence/credibility,
+  but higher-for-longer rates are flagged as bad for high-growth/AI
+  valuations specifically. Concrete data point: the **New Zealand
+  Superannuation Fund cut its expected annual return from AI/tech-heavy
+  global equities from 7.8% to 7.2%**, and is now underweight US stocks
+  given AI valuation concerns. **REPORTED**, a named, credible
+  institutional investor's own stated re-rating - a real, independent
+  signal of growing institutional caution on AI valuations specifically,
+  not just financial-media commentary.
+
 ### Product Track - a second, parallel line alongside the services ladder
 (added 18 Sept 2026, John's own idea, direct answer to both the recurring-
 income gap and the Shane-capacity constraint above)
