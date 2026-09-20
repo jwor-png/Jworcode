@@ -630,3 +630,54 @@ carries a genuinely striking undersupply statistic.
   opportunity in itself - logged as market context.
 - **REPORTED**, sourced from a Renatus M&A Activity note screenshot, not
   independently verified against Companies House/CRO filings.
+
+## Ireland's Health AI Summit 2026 — Business Post coverage, seen 20
+## Sept 2026 (Quinton O'Reilly, Penny Gray)
+A second healthcare/AI item from the same day, reinforcing the same
+sector lens as the Broadlake note above rather than a separate thread.
+
+- **"Why keeping the human in the AI loop is a no-brainer"** — panel
+  (Jake Robinson, OnWard Education; Siobhán McMahon, Dedalus; Patrick
+  Browne, HSE; Paul Banahan, UCD School of Computer Science and Rinn AI)
+  on AI in healthcare. Key framing, Banahan's own words: "AI has the
+  potential to do great things... without the guardrails it has the
+  potential to do the point, that's the coolest, or one that everyone
+  is doing... What is the best method and that's okay" (partial
+  transcription, sense: capability without guardrails also has the
+  potential to do harm). Panel consensus: AI's real benefit in
+  healthcare is efficiency, not replacing clinical judgement - "it's
+  also about efficiency," not just capability.
+- **A concrete, quantified outcome cited from the summit**: "more than
+  10,000 hours of wasted patient time were saved within only a few
+  months of us going live," attributed to a dedicated care-coordination
+  team (named speakers Meghana Kshirsagar, Wayne Leitch, Business Post/
+  University of Limerick; Steve Abouzeid, Medtech; Conor O'Byrne, Huron)
+  - a real, dated efficiency figure worth having on file as evidence AI/
+  process improvement in Irish healthcare delivery isn't just
+  theoretical.
+- **"From digital twins to the digital front door"** — HSE speakers
+  (Damien McCallion, HSE Modernisation Office; Valerie Seabaugh, Federal
+  Electronic Health Record VA USA; Markus Hesseling, Children's Health
+  Ireland) and university/industry panel (Mitchell O'Gorman, xWave
+  Technologies; Danny McEnery, CVO Labs; Eimear Galvin, Health
+  Innovation Hub Ireland; Natalie Cole, RCSI; Clare Harney, Tallaght
+  University Hospital) on digital twins and patient-facing AI tools
+  moving from pilot to real clinical/operational use. HSE's own
+  framing, McCallion: healthcare transition is under pressure from
+  demographic and budget constraints, and digital transformation is
+  "key to sustainability," not optional. Also namechecked: SmartED
+  digital twin project (Elizabeth McCarthy, PwC Ireland) using digital
+  twins for emergency-department patient-flow/capacity/resource
+  modelling; Health Innovation Hub Ireland's ALITER project (Fergal
+  Cummins, University of Limerick, with Alison O'Connor) on clinical
+  decision-making twins.
+- **Why this is logged alongside the Broadlake note**: two independent,
+  same-day, credible sources both point the same direction - real
+  capacity/efficiency pressure in Irish healthcare, and AI/digital tools
+  already moving past pilot stage to measurable results, not just
+  ambition. Reinforces Meridian's Healthcare sector lens with concrete,
+  named, dated evidence rather than the general Ambrion/Velocity AI-
+  adoption case alone.
+- **REPORTED**, event/panel coverage from a named Business Post
+  journalist, quotes as reported, not independently re-verified against
+  a recording or transcript of the summit itself.

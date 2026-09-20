@@ -575,6 +575,17 @@ current market mood, not for acting on directly.
   themselves - not just Amodei - publicly agreeing restraint is needed,
   which is a genuinely rare alignment worth remembering as evidence the
   "AI moving too fast" concern isn't a one-lab position.
+- **Business Post Movers & Shakers column (20 Sept), buried but
+  striking data point**: OpenAI's global ads business (launched across
+  31 European markets including Ireland, led by Irishman Mark Bambury -
+  ex-Roblox brand partnerships, ex-Google/Twitter) **surpassed $1bn
+  (€863m) in annualised revenue run rate in under 200 days** since
+  ChatGPT ads launched. **REPORTED**, as stated in the appointments
+  piece, not independently verified against OpenAI's own disclosures -
+  but a concrete, dated monetisation-speed data point worth holding
+  alongside the Emulate/NZ Super Fund entries already logged, for
+  calibrating how fast real revenue (not just valuation) is actually
+  moving in this market.
 
 ### Meridian positioning ammunition — state consultancy spend, seen 20
 ### Sept 2026 (Business Post front page, Daniel Murray)

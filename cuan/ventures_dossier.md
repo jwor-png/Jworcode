@@ -1480,6 +1480,20 @@ draft finalised; board meeting the morning of the AGM; members/
 shareholders meeting in conjunction with the AGM re: the premises sale;
 Audit Committee likely needs a call.
 
+**BDO's own market positioning, seen 20 Sept 2026 (Business Post "Focus
+on Sustainability," Penny Gray, BDO advertorial content).** BDO's own
+survey (8,500 employees post-merger with BDO UK, July 2026) found 96% of
+businesses rate sustainability as important, but only 41% cite ethical/
+governance rationale as the driver, with 43% identifying leadership
+support as a top implementation barrier - BDO's own framing: "sustainability
+is no longer a question of ambition... but of measurable business outcomes,"
+shifting from compliance-led to business-led, geopolitical/tariff/supply-
+chain risk now a growing driver alongside climate. **Not directly
+actionable** - logged only because BDO is UHL and AHL's actual auditor
+(Simon Carbery et al. below), so worth knowing BDO's own current market
+narrative/positioning when engaging with them, not because it changes
+anything about the audit relationship itself.
+
 ### Live matters (position at 26 Aug 2026, carried forward)
 
 **1. 2025 audit — the dominant item.** Auditor BDO Ireland LLP, lead
