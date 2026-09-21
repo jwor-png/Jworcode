@@ -1472,19 +1472,40 @@ directly by John, 21 Sept: the Green Isle Hotel** — same venue as the
 separate UHL DAC AGM on 30 Sept, but a distinct meeting/date; resolves
 the venue ambiguity previously flagged here.
 
-**Full running order for 23 Sept, confirmed by John 21 Sept (times
-approximate where noted):**
-1. **Board meeting** — circa 9:00-9:30am, Green Isle Hotel. **Exact
-   start time not yet confirmed by John himself** ("9ish, 9 or 9:30,
-   I'm not sure") - worth pinning down before the day.
-2. **AGM** — follows immediately, same venue.
-3. **Members'/shareholders' meeting** — re: the possible premises sale
-   (see BDO Corporate Recovery scoping above), follows the AGM.
-4. **Ray Smyth/Edel Smyth meeting** — John and Shane Felle, **after**
-   the members' meeting, same day/venue. (Corrects/clarifies earlier
-   phrasing elsewhere in this file that only said "alongside the
-   AGM" — it's specifically after the members' meeting, last in the
-   day's sequence.)
+**Full running order for 23 Sept — now verified against the actual
+Maria O'Flaherty/David Geoghegan email thread ("AHL AGM," 31 Aug-10
+Sept 2026), not just dictated from memory:**
+1. **Board meeting** — Clifford(s) Suite, room available from 9:00am,
+   **meeting itself starts 9:30am** (John's own confirmed instruction
+   to Maria, 2 Sept: "Board Meeting at 9.30am and AGM at 11.30am on the
+   23rd of September" — this resolves the "9 or 9:30, not sure"
+   uncertainty raised earlier the same day). Boardroom-style set-up,
+   room hire €245, tea/coffee/biscuits on arrival.
+2. **AGM** — Clifford Suite 3&4, **11:30am start**, classroom-style,
+   full-day room hire, up to ~30 delegates, room hire €400.
+3. **Members'/shareholders' meeting re: the Magna premises** — same
+   room, John's own plan (21 Sept, not yet put in writing to Maria or
+   the hotel) is **from approximately 1:00pm**.
+4. **Lunch** — catering had been pencilled for 1:30pm; **John thinks
+   this may need to move back roughly 30 minutes** given the 1pm
+   premises meeting start - not yet confirmed with the hotel either
+   way.
+5. **Ray Smyth/Edel Smyth meeting** — John and Shane Felle,
+   **approximately 2:15pm, ~45 minutes**.
+**Flag: items 3-5 (premises meeting, lunch timing, Smyth meeting) are
+not in any email found in this search** - they may have been arranged
+by phone with Maria/the hotel, or may still only be John's own working
+plan. Worth confirming these in writing with Maria/Sharon Daly (copied
+in for cover while Maria's on leave that week) rather than relying on
+verbal arrangement, particularly the lunch timing shift.
+
+**Accommodation, confirmed:** 5 single-occupancy rooms, night of 22
+Sept, €119/room incl. breakfast, for the **AHL directors** attending —
+John, Shane Felle, Joe Wallace, Eoin Lynch, Emmet Cooney. (These are
+directors staying overnight, not member-shareholders generally -
+worth being precise about that distinction.) Maria is on annual leave
+the week of the AGM itself; **Sharon Daly and Ernest/Faustina at the
+hotel (events@greenislehotel.com) are the contacts for any changes**.
 
 **Action, 21 Sept — same day:** John to email Dave Geoghegan and his
 UHL office today asking them to prepare AGM packs. **37 members were
