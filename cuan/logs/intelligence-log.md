@@ -672,3 +672,36 @@ rather than leaving them loose across separate market_intel_* files.
 **Ventures touched:** Meridian Intelligence, Velocity AI, Golden Generation.
 **Pushed to Google Drive:** No (sync not yet wired up).
 ---
+
+## [Cuan → Meridian] 21 September 2026 — Fr Brendan McGuire (Sunday
+## Independent) + Shane's Q2/Q3 Vatican answers, logged to childen.md
+
+**Source 1:** "Meet the Irish priest serving as a spiritual adviser to
+AI" (Adrian Weckler, Sunday Independent, 20 Sept 2026). Fr Brendan
+McGuire, Irish priest in Los Altos, has informally advised Anthropic
+since 2023 (contacted directly by co-founder Chris Olah), sits on
+Anthropic's "sounding board," and the Vatican channel he's part of fed
+directly into Pope Leo's AI encyclical *Magnifica Humanitas* (launched
+May 2026, Olah on stage with the Pope). Independent, named-source
+confirmation that a real Vatican-frontier-AI-lab ethics channel already
+exists and has produced results - directly strengthens the credibility
+of the Childen route already in motion via Mike Molloy -> Archbishop
+Eamon Martin -> Paul Tighe.
+**Source 2:** Shane McCarthy's Q2 and Q3 exec-summary answers to the
+three actual Vatican questions (Paul Tighe, via Mike Molloy). Q2 sets
+out the collaboration vision (human-centric architecture, learning from
+the Church's institutional reach, a universalist "protection should
+extend to all children" point, and a bigger offer to help the Church
+design its own sovereign AI architecture). Q3 identifies two Childen
+components deployable early and standalone - "the ambulance" (synthetic
+harm response layer) and "the front door" (school-anchored, pseudonymous
+child identity/trust layer) - plus a wider humanitarian-intelligence
+thesis (dementia, neurodivergence, mental health, women's rights,
+developing countries, NGO decision-support).
+**Full detail:** logged in `childen.md` under two new sections.
+**Ventures touched:** Childen (Meridian-adjacent, Shane McCarthy's
+estate).
+**Open loops:** the two "Fuller Piece" long-form versions of Q2/Q3 not
+yet opened or cross-checked against the exec summaries.
+**Pushed to Google Drive:** No (sync not yet wired up).
+---
