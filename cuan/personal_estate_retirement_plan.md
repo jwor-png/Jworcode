@@ -549,6 +549,39 @@ named financial professional's column, not independently re-verified
 against the underlying fund performance data or CSO inflation figures
 cited.
 
+### 3.12 — Majella's inheritance, Estate of the late Sheila McManus,
+### Nenagh (logged 21 Sept 2026)
+New item, not previously logged anywhere in Cuan. Majella is a
+beneficiary in the estate of the late Sheila McManus, late of Nenagh.
+
+- **Status:** Probate has issued. The sale of Sheila's house completed
+  **over 4 weeks ago** as of 21 Sept 2026.
+- **Known deduction:** a Fair Deal (Nursing Homes Support Scheme)
+  repayment will be due back to the State from the estate — the
+  standard mechanism where the scheme's home-support-loan element is
+  repaid from the estate on death/sale of the home.
+- **John's own assessment:** beyond that Fair Deal repayment, there is
+  "otherwise no reason for any delays" in the estate being concluded.
+- **Not yet established:** why the estate hasn't yet been finalised or
+  distributed, given probate is through and the house sale closed over
+  a month ago — worth asking the solicitor/executor administering
+  Sheila's estate directly what the actual holdup is, rather than
+  assuming the Fair Deal repayment alone explains a month's delay (Fair
+  Deal repayments are normally calculated and settled fairly
+  quickly once a Notice of Death and the Statement of Affairs are filed
+  with the HSE).
+- **Relevance to this plan:** an incoming distribution to Majella is a
+  household asset event relevant to Track 3's asset register (§3.4) and
+  worth factoring into the "clean financial bill of health" figure once
+  a distribution amount is known (§3.6). No figure known yet.
+
+**Open items:**
+- [ASK] Who is the solicitor/executor handling Sheila McManus's estate,
+  and has anyone actually asked them for a timeline or explanation for
+  the delay since the house sale closed.
+- [ASK] Expected net distribution amount to Majella, once the Fair Deal
+  repayment and any other estate costs are deducted.
+
 ---
 
 ## What "done" looks like for this plan
