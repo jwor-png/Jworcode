@@ -783,3 +783,50 @@ cited Defense Department account.
 domain).
 **Pushed to Google Drive:** No (sync not yet wired up).
 ---
+
+## [Cuan → Meridian] 21 September 2026 — Two-item batch: "Dear Vicki"
+## (growth/delegation) and Health Innovation Hub Ireland AI evaluation piece
+
+**Item 1 — "Dear Vicki" (Vicki O'Toole), "My business has never been
+busier, but I enjoy my job less and less. What can I do?"**
+Second Dear Vicki column logged (after the earlier demanding-customers
+one). A founder grew from 5 to 25 staff, turnover/profits up, but now
+spends most time managing people/problems rather than the original
+work, wondering if the business outgrew the job they wanted. Vicki's
+answer: past a certain size, trying to personally oversee everything
+becomes the bottleneck, not a strength - delegation stops being
+optional. Also flags that culture/brand quietly dilutes at scale unless
+deliberately protected, since the owner can no longer personally shape
+every customer interaction. Closing line: "winning at business often
+means losing the very job you wanted in the first place" - a fork in
+the road, step back and delegate, or accept the current size.
+**Why logged:** directly reinforces the founder-dependency-bottleneck
+theme from the earlier Dear Vicki entry, relevant to Meridian's
+advisory positioning and a live question for Barber Republic as it
+scales past Johnny's one shop.
+
+**Item 2 — Health Innovation Hub Ireland (HIHI) advertorial/feature,**
+**"[AI transforming] patient care"** (Mediaplanet-style, healthnews.ie)
+HIHI evaluates new health technologies in real-world clinical settings
+for providers/innovators/academia/industry, generating evidence for
+safe adoption across the Irish health system. Its "HIHI AI Call"
+recently supported projects including AI-powered clinical decision
+support for medication safety, and AI-supported speech/language
+therapy interventions. Dr Michael Twomey (Senior Clinical Research
+Manager, HIHI) quoted: "The true value of AI lies in solving real
+healthcare challenges... through robust evaluation, we will generate
+the evidence needed to support their future adoption."
+**Why logged:** a concrete, named Irish body doing exactly the
+"evidence over hype" evaluation work Meridian's own AI Strategy &
+Governance positioning argues for, and a specific health-sector AI
+adoption body worth being aware of alongside the Sunday Times
+private-equity-in-social-care piece logged earlier today, both
+touching the same broader Irish health/care AI-adoption space from
+different angles (evaluation/evidence vs. capital/ownership).
+**REPORTED** — both sourced from physical newspaper clippings, not
+independently re-verified.
+**Ventures touched:** Meridian Intelligence (Commercial & Deal advisory
+positioning; AI Strategy & Governance domain); Barber Republic
+(scaling/delegation question).
+**Pushed to Google Drive:** No (sync not yet wired up).
+---
