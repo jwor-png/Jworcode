@@ -150,3 +150,59 @@ One line. It would land hard with owner-managers and it costs nothing.
 ---
 
 *Meridian Intelligence · Full seven-domain route · 21 September 2026 · Private and confidential. Status IN REVIEW. All seven domains routed; Property and Development returns a finding, not a nil. Article 4 as amended by Regulation (EU) 2026/1744 was checked against published practitioner sources on 21 September 2026 and corrects Meridian's own earlier finding. Building Control, health and safety and the Hugging Face incident remain UNVERIFIED and must not be asserted. Manager 7 output carries the frontier caveat. Irish and EU legal references are general and are not legal advice. Meridian informs. It never represents.*
+
+---
+
+# PART E — ADDENDUM ON NEW FACTS, 21 SEPTEMBER EVENING
+
+**Three facts confirmed by John:** the author is **Pat McGrath**, who holds **ten per cent of Ambrion**; he **sent the deck to John tonight**; and he **presented it again today, 21 September, to a further group, in his own right.**
+
+All three change the analysis.
+
+## E1. THE LEAD CHARGE IN BOTH REVIEWS NOW COLLAPSES ALMOST ENTIRELY
+
+Both Jürgen and the Fast mode critique lead on the Irish Examiner citation of **18 September 2026** appearing in a deck presented on **14 September**, and both call it a verification failure. The Fast mode version calls it "the worst possible mistake" in a deck about traceability.
+
+**It is now clear that the deck was revised between the two deliveries.** The 18 September citation was added after the TUD talk and before today's. **That is not carelessness. It is evidence of a speaker updating his material between outings**, which is exactly what a deck about currency ought to show.
+
+**What remains is a version control slip, and it is worth one line.** The file is still labelled **V5R2 14Sep26**, and every slide footer still reads **"AI GOVERNANCE • TUD • 14 SEP 2026"**. **He delivered a talk today carrying last week's date and last week's venue on all 43 slides.** That is untidy rather than serious, and it is the kind of thing anyone circulating a deck between events does.
+
+**Both reviews must drop this as a headline.** Reframed correctly it becomes a small, friendly, genuinely useful observation: update the footer and version block per outing, because a dated footer on a circulated deck is how a reader decides whether it is current.
+
+## E2. HE SENT IT. THE WHOLE FRAMING PROBLEM DISSOLVES
+
+The Fast mode critique closed by asking whether the material was for Pat or for Meridian's own reuse, and Meridian made the same point. **The question about unsolicited critique is moot: he sent it to John tonight.**
+
+**Sending a deck to a serving PLC chair and audit and risk committee chair the evening after delivering it is an invitation to comment.** Everything in the three reviews is now responsive rather than volunteered, and slide 2's own warning invites exactly this. **The framing risk was the largest soft risk in the file and it is gone.**
+
+**What replaces it is a proportionality question.** He asked a colleague for a view on a talk. **Three structured reviews running to many thousands of words, seventeen numbered faults and a seven-domain route is not what he asked for.** The work was worth doing and most of it should not be sent.
+
+## E3. THE FINDING NOBODY HAS MADE — McGRATH STRATEGIA AND AMBRION
+
+**Pat presented AI governance to an industry audience today, in his own right, under his own brand, McGrath Strategia, while holding ten per cent of Ambrion, whose proposition is AI governance and EU AI Act compliance.**
+
+**Portfolio conflict check fires. Fifth firing, after Glennon, United Hardware, ODIN and the Authority Layer.**
+
+**The questions, and they are for John and Shane rather than for Pat:**
+
+- **Is McGrath Strategia's AI governance work agreed as complementary to Ambrion, or is it undeclared competition?** A shareholder building a personal brand in the same subject matter is either the group's best business development asset or a leak of its proposition, and which one it is depends entirely on whether it has been discussed.
+- **The deck carries no Ambrion reference anywhere.** Forty-three slides, a title slide, a sign-off slide, and the only brand on it is McGrath Strategia. **That is a choice, and it may be the right one, but it should be a decision rather than an accident.**
+- **This is the third brand boundary collision inside the group in seven weeks.** Ambrion and Meridian both selling EU AI Act compliance on public websites, EOLAS sharing Meridian's verification vocabulary verbatim, and now a shareholder presenting the group's core subject under a separate personal brand. **The boundary conversation flagged on 7 August has still not been held, and the cost of not holding it is now compounding.**
+
+**Meridian's read, and it is deliberately even-handed.** There is nothing improper here on the facts available. Pat has his own consultancy and a track record in this field, and a shareholder is entitled to a professional life. **But three overlapping AI governance propositions inside one group, none of them mapped against the others, is a commercial problem before it is ever a governance one**, because the market meets it as confusion and the clients meet it as duplication.
+
+**This belongs in the same conversation as the Ambrion and Meridian AI Act boundary and the group brand map. It does not belong in a note to Pat about his slides.**
+
+## E4. WHAT CHANGES IN THE RECOMMENDATION
+
+**Tonight: a short, warm reply. Nothing else.** He sent it late after presenting twice in eight days. The right response is an acknowledgement, one genuine compliment that shows it was read properly, and an offer of detailed notes if he wants them for V6.
+
+**The offer matters more than the notes.** Detailed feedback he has asked for is a gift. Detailed feedback he has not asked for is a judgement.
+
+**Then, if he says yes, send four things only:** the contract mechanism, the Irish personal liability thread, the three internal inconsistencies as one housekeeping item, and the consolidated checklist suggestion.
+
+**And separately, not to Pat, raise the McGrath Strategia and Ambrion boundary with Shane**, as part of the group brand conversation that is now three collisions overdue.
+
+---
+
+*Addendum · Meridian Intelligence · 21 September 2026 · Private and confidential. Status IN REVIEW. New facts supplied by John and treated as REPORTED. The portfolio conflict finding is a question for John and Shane and carries no adverse inference about any individual. Meridian informs. It never represents.*
