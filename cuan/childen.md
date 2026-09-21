@@ -1017,3 +1017,43 @@ than statistics alone.
 adjacent clipping, not independently re-verified against Cybersafe
 Ireland's, Australia's eSafety Commissioner's, or Meta's own primary
 disclosures.
+
+## Market intelligence — "'When I was at school, the most distraction I
+## had was a Nokia': Sexton backs blocker app for phones in class"
+## (Seoirse Mulgrew, Irish Independent, 21 September 2026)
+
+**[Cuan -> Meridian]** Adjacent, not competing, Irish initiative worth
+being aware of when positioning Childen precisely.
+
+- **Blackout Education** - a new Irish technology platform tackling
+  smartphone/social media distraction in schools, backed by former
+  Ireland and Leinster captain **Johnny Sexton** as both investor and
+  ambassador.
+- **Mechanism:** temporarily locks smartphones out of social media and
+  gaming platforms during the school day, either via a locked pouch
+  students hand phones into at the start of the day, or an app that
+  restricts distracting functions while keeping calls/texts available
+  for emergencies.
+- **Funding/delivery:** funded by **Three Ireland**, delivered in
+  partnership with **Longford and Westmeath Education and Training
+  Board (LWETB)**, currently piloting with schools being onboarded
+  ahead of a fuller rollout.
+- Sexton's own framing draws a direct contrast between his own school
+  days ("the most distraction I had was a Nokia") and today's
+  environment, and says the initiative gives schools back "territory"
+  against smartphone distraction.
+
+**Why this matters for Childen specifically:** this tackles a different
+problem to Childen (in-school device/attention distraction, via
+physical or app-based access restriction) rather than Childen's own
+focus (online harm, predation, identity verification, crisis response).
+Same broader "child + smartphone" problem space, real Irish funding
+(Three Ireland) and a State education body as delivery partner (LWETB),
+plus a high-profile ambassador already active in it. Worth being aware
+of as adjacent, not competing, so Childen's own positioning (protection
+from online harm, not in-school distraction management) stays precise
+and distinct when talking to the Vatican or other partners, rather than
+risk the two being conflated.
+**REPORTED** — sourced from a physical newspaper clipping (Irish
+Independent), not independently re-verified against Blackout
+Education's own materials or LWETB.
