@@ -915,7 +915,17 @@ are flagged for confirmation, never guessed.
     October, or cover cancels and a time-on-risk charge may apply**:
     (1) the signed Statement of Fact/proposal form, and (2) the
     completed Direct Debit Mandate - both attached to her 21 Sept
-    email. **Action for John: sign and return both before 7 Oct.**
+    email.
+  - **Plan confirmed, 21 Sept: John and Majella will complete both
+    documents together and email them back to Campion tomorrow (22
+    Sept).** Payment detail confirmed: the deposit (€207.36) has
+    already been paid from John's PTSB card; the ongoing monthly
+    instalment (€59.31) will come from **John and Majella's joint Bank
+    of Ireland account** (dictated as "our Magellan and my Bank of
+    Ireland joint account" - read as Majella's name, not a separate
+    "Magellan" entity - flagged as a probable dictation mishearing
+    rather than assumed silently, worth a quick confirm from John if
+    this is read back to him).
   - **Flagging urgency, 20 Sept — this decision is still open and the
     deadline is 3 days away.** Bill Tyson's "Your Money" column (Irish
     Mail on Sunday, 20 Sept) gives general home-insurance tips directly
