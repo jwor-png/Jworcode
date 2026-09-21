@@ -889,3 +889,48 @@ independently re-verified.
 Golden Generation/succession-planning thesis; The Long Memory.
 **Pushed to Google Drive:** No (sync not yet wired up).
 ---
+
+## [Cuan → Meridian] 21 September 2026 — Pat McGrath "Governance of AI"
+## conference deck (McGrath Strategia, TUD, 14 September 2026)
+
+A 43-slide governance briefing delivered to Construction Cluster
+Ireland and the High Performance Building Alliance - the single
+richest, most directly reusable AI governance reference logged this
+session. Full detail in the new dedicated file
+`market_intel_ai_governance_tud_sept2026.md`.
+
+**Headline content:** six board recommendations and twelve director
+questions on AI governance; BoardPro/Workiva survey data showing a
+sharp governance gap (79% of boards use AI weekly, only 2% have a
+formal governance framework, 1 in 4 respondents say an AI error has
+already reached the board or investors); a complete EU regulatory map
+(AI Act, Digital Omnibus, Product Liability Directive, Machinery
+Regulation, NIS2, CER, DORA, Cyber Resilience Act) with exact dates
+through 2028; Ireland's new AI Office (Paul Byrne, CEO, established 30
+July 2026) and its full org chart of 15 National Competent Authorities
+plus 9 Article 77 fundamental-rights authorities; a construction-
+industry-specific role-based action table (designers/builders/
+manufacturers, each with different compliance dates); UK and US
+comparator sections (no AI statute in either, existing law/regulators
+applied instead, real near-term exposure via existing fraud/
+discrimination/fiduciary-duty law); ISO/IEC 42001, OECD Due Diligence
+Guidance cross-mapping table, and an MIT AI Risk Initiative Delphi
+study of 272 experts prioritising AI risk categories.
+**Why logged as its own file rather than a summary only:** the board
+recommendations, director questions and Ireland regulatory org chart
+are immediately reusable structuring tools for Meridian's own AI
+Strategy & Governance client conversations, not just background
+reading - a genuine reference asset.
+**REPORTED** — sourced from the presentation PDF, not independently
+re-verified against every underlying regulation cited, though the deck
+itself is precise, dated and explicitly flagged by its own author as a
+governance briefing rather than legal advice.
+**Outputs:** `market_intel_ai_governance_tud_sept2026.md` created;
+CLAUDE.md document map updated.
+**Open loops:** not yet incorporated into any specific Meridian client
+conversation or domain document.
+**Ventures touched:** Meridian Intelligence (AI Strategy & Governance
+domain, direct reference material); Ambrion AI / Velocity AI
+(construction-sector adjacency).
+**Pushed to Google Drive:** No (sync not yet wired up).
+---
