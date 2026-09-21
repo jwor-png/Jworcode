@@ -582,30 +582,31 @@ beneficiary in the estate of the late Sheila McManus, late of Nenagh.
   repayment will be due back to the State from the estate — the
   standard mechanism where the scheme's home-support-loan element is
   repaid from the estate on death/sale of the home.
-- **Probate Register Online check (21 Sept 2026):** a search on
-  courts.ie/app/probate-register for "Sheila" / "McManus" / year of
-  death 2025 returned **no results**. With the date of death now
-  confirmed as 24 January 2025, this is worth re-running exactly as
-  entered (the register only lists grants actually issued, and its own
-  guidance suggests trying the surname without the "Mc" prefix, i.e.
-  "Manus," for a broader match) — if a retry still returns nothing,
-  that would mean probate has **not yet actually issued**, which would
-  contradict what John was originally told and is worth confirming
-  directly with Taaffe rather than assumed either way.
+- **Probate Register Online — CONFIRMED, 21 Sept 2026.** The earlier
+  "no results" search was a formatting issue (surname needed a space:
+  "Mc Manus"). With that correction, the actual grant is found:
+  - **Sheila Mc Manus, date of death 24/01/2025**
+  - **Grant of Probate issued 28 July 2026**
+  - Case ref: **2026 PO 5556**
+  - Address: 6 Ciamaltha Meadows, Nenagh, Co. Tipperary
+  - **Grantees (executors):** Patrick Heffernan, Diarmuid Cahill, Breda
+    Oxley (Breda being the cousin who posted the house-sale update in
+    the family WhatsApp group)
+  - This resolves the timeline cleanly: probate issued 28 July 2026,
+    the house sale completed only very recently relative to 21 Sept
+    (per the family WhatsApp), so the estate is on an entirely normal
+    track, not delayed or stalled.
 - **Relevance to this plan:** an incoming distribution to Majella is a
   household asset event relevant to Track 3's asset register (§3.4) and
   worth factoring into the "clean financial bill of health" figure once
   a distribution amount is known (§3.6). No figure known yet.
 
 **Open items:**
-- [ASK] Re-run the Probate Register Online search with the surname
-  "Manus" (dropping the Mc prefix per the site's own guidance) and year
-  2025, to confirm whether a grant has actually issued yet.
 - [ASK] Expected net distribution amount to Majella, once the Fair Deal
   repayment and any other estate costs are deducted.
-- [ASK] Confirm directly with Francis B. Taaffe & Co. what stage the
-  estate is actually at, given probate status is now unconfirmed and
-  the house sale is more recent than first thought.
+- [ASK] Confirm with Francis B. Taaffe & Co. the expected timeline from
+  here to distribution, now that probate (28 July 2026) and the house
+  sale are both confirmed as done.
 
 ---
 
