@@ -830,3 +830,62 @@ positioning; AI Strategy & Governance domain); Barber Republic
 (scaling/delegation question).
 **Pushed to Google Drive:** No (sync not yet wired up).
 ---
+
+## [Cuan → Meridian] 21 September 2026 — Two-item batch: Mary Frances
+## Fahy farm-succession Q&A (1 Sept edition) and Vacant Property
+## Refurbishment Grant feature
+
+Both from the same Irish Independent Farming section, 1 September 2026.
+
+**Item 1 — Mary Frances Fahy (Fahy Neilan Solicitors), "I've spent 15
+years farming on a promise. Do I have any rights?"**
+A second, earlier Q&A from the same columnist/theme already logged
+under `market_intel_farming_estate_dispute_sept2026.md` (8 Sept
+edition). A 38-year-old worked the family farm full-time for 15 years
+on a vague understanding he'd inherit "someday," parents keep deferring
+the actual succession conversation, two siblings uninvolved, no will
+exists. Fahy's answer: under common law he has no legal interest at
+all; his only route is proprietary estoppel, but it's weak here because
+the "promise" was vague ("someday," "another day") rather than a clear,
+specific commitment - estoppel needs cogent evidence of an actual
+promise, detrimental reliance, and genuine unfairness. New detail not
+in the earlier logged piece: if the parents ever enter Fair Deal, the
+only acknowledgment given to an unwritten equitable interest like his
+is the standard three-year cap applied in the scheme's means
+assessment - the State otherwise doesn't recognise informal family
+farming arrangements at all. Practical advice: have the direct
+conversation now, propose a concrete structure (e.g. transferring the
+farm into all three names jointly, passing by survivorship), don't push
+a full transfer given parents are only in their 60s, and if they won't
+engage, consider off-farm employment rather than continuing to build
+value he may never inherit.
+**Why logged:** reinforces Meridian's agribusiness sector lens and the
+Golden Generation/succession-planning thesis, with a sharper, more
+actionable point than the first piece (vague promises don't hold up
+legally; Fair Deal only recognises a 3-year cap regardless).
+
+**Item 2 — Jim O'Brien, "Vacant Property Refurbishment Grant turns
+rural Ireland into Jurassic Park for houses"**
+A 46.4ac farm at Taghmaconnell, Co Roscommon (Ballinasloe side), being
+sold in three lots by auctioneer Francis Kearney, framed around how the
+Vacant Property Refurbishment Grant has turned previously worthless
+derelict rural structures into viable renovation projects ("a
+vendor and prospective buyer would prefer it if there wasn't there at
+all" pre-grant, now the opposite). Lot 1: 19.6ac with a derelict 1940s
+bungalow plus a derelict stone farmhouse and outbuildings, guide
+EUR 350,000-370,000. Lot 2: 25.25ac including a "skeletal" stone shed
+and gable end/chimney breast that could be incorporated into a new
+development, plus woodland/bogland/grazing. Lot 3: 1.5ac with 40m road
+frontage and potential for a once-off rural dwelling, or could be
+bought as a unit with grant assistance to bring the whole former
+farmstead back to life.
+**Why logged:** general rural-property/grant-scheme market colour,
+tangential relevance to Meridian's agribusiness lens and any future
+property-related conversations (Portauns/Bantry context already
+tracked elsewhere), not tied to a specific action.
+**REPORTED** — both sourced from physical newspaper clippings, not
+independently re-verified.
+**Ventures touched:** Meridian Intelligence (agribusiness sector lens);
+Golden Generation/succession-planning thesis; The Long Memory.
+**Pushed to Google Drive:** No (sync not yet wired up).
+---
