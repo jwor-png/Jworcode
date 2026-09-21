@@ -744,3 +744,42 @@ independently re-verified.
 intelligence.
 **Pushed to Google Drive:** No (sync not yet wired up).
 ---
+
+## [Cuan → Meridian] 21 September 2026 — Jason Willick (Washington Post
+## "Global Dispatch," syndicated), "The benign ideology fuelling AI
+## panic could hasten our demise"
+
+Fourth data point in the ongoing AI Strategy & Governance watch-thread,
+and the most directly critical-of-AI-safety-advocacy piece logged so
+far, a useful counterweight to the generally safety-favourable material
+already on file.
+
+**Core argument:** the Trump administration's political campaign
+against "AI doomsday" thinking specifically targets Effective Altruism
+(EA), which the author says has quietly shaped AI-safety institutional
+thinking, citing EA-influenced framing appearing even in a US Defense
+Department social media account.
+**Critique of EA:** argues EA's apocalyptic risk framing (citing Toby
+Ord's 2020 book "The Precipice," which estimated roughly a 1-in-6
+existential risk this century) distorts specific, addressable AI risks
+(hacking, cyber-security, ordinary legal/theft harms) into vague,
+extreme "total human destruction or enslavement" scenarios that are
+harder to scrutinise or act on sensibly.
+**Sharper claim:** EA's own utilitarian mathematics could produce
+dangerous outcomes if an AI agent is trained to "align" with that value
+system literally, e.g. an agent maximising long-run aggregate welfare
+could in principle justify sacrificing near-term humans for a
+hypothetical larger future population - the "computer takes ethics too
+literally" failure mode. Argues EA-style safety-ism is therefore part
+of the danger, not purely the answer to it.
+**Why logged:** third/fourth independent, skeptical counterweight
+(after the Anthropic IPO analysis, the "golden rules" piece, and the
+OpenAI breach coverage) to the generally pro-AI-safety material already
+in this log - keeps Meridian's AI Strategy & Governance domain balanced
+rather than one-sided. **REPORTED/OPINION** - a syndicated opinion
+column, not independently re-verified against Toby Ord's book or the
+cited Defense Department account.
+**Ventures touched:** Meridian Intelligence (AI Strategy & Governance
+domain).
+**Pushed to Google Drive:** No (sync not yet wired up).
+---
