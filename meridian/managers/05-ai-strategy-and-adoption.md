@@ -73,3 +73,50 @@ drafting work a visible before/after position to sell against.
 
 **Not logged:** one off-topic comment thread (Paul Wallace, VAT Logic
 EU) — banter, not substantive.
+
+### FLAG FOR NEXT SESSION — Pat McGrath "Governance of AI" conference
+### deck (McGrath Strategia, TUD, 14 Sept 2026)
+**John's own instruction (21 Sept 2026):** raised directly by John,
+noting the knowledge base has grown but challenging whether that alone
+strengthens Meridian — his conclusion, agreed by Cuan, is that it only
+counts once a live Meridian session actually turns it into a client-
+facing deliverable, not while it sits as reference material. This item
+is flagged specifically for that reason, not as routine capture.
+
+Full detail: `cuan/market_intel_ai_governance_tud_sept2026.md`. This is
+the single richest AI governance reference logged in Cuan so far, and
+is directly reusable, not just background:
+- The **six board recommendations** and **twelve director questions**
+  map almost directly onto this manager's governance-audit and
+  compliance-brief sub-agents — worth checking whether they should be
+  built into the actual audit checklist/output template rather than
+  left as source material.
+- The **Ireland AI regulatory org chart** (AI Office of Ireland, 15
+  National Competent Authorities, 9 Article 77 fundamental-rights
+  authorities, with the "compliance vs. fundamental rights" distinction
+  spelled out) is a genuinely hard-to-assemble reference most SME
+  clients will not have pulled together themselves — a concrete
+  differentiator for the readiness-assessment or compliance-brief
+  output, worth citing by name to a client rather than paraphrased.
+- The **construction-sector role-based action table** (designer /
+  builder / manufacturer-modifier, each with distinct compliance dates:
+  20 Jan 2027 Machinery Regulation, 9 Dec 2026 Product Liability
+  Directive, 2 Dec 2027 Annex III high-risk) is a ready template for
+  building an equivalent sector-specific table for whichever sector
+  Meridian is actively pursuing (agribusiness, per the sales-
+  orchestration prospect list) — same structure, different sector
+  triggers.
+- The **UK/US comparator section** (no AI statute in either
+  jurisdiction, real exposure instead coming from existing fraud/
+  discrimination/fiduciary-duty law) is good, independently-sourced
+  ammunition against a client's "we'll wait and see what other
+  countries do" instinct.
+- The **MIT Delphi risk study** and **OECD cross-mapping table** are
+  citable, named, high-authority sources to reference directly in
+  client material rather than relying on Meridian's own framing alone.
+
+**Ask for the next session specifically:** decide whether any of the
+above should be built directly into this manager's actual sub-agent
+outputs (the governance-audit checklist, the compliance brief template,
+the readiness-assessment gradient), rather than remaining logged
+reference material only.
