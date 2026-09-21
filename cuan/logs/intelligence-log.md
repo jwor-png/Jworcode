@@ -705,3 +705,42 @@ estate).
 yet opened or cross-checked against the exec summaries.
 **Pushed to Google Drive:** No (sync not yet wired up).
 ---
+
+## [Cuan → Meridian] 21 September 2026 — "Is care safe in private
+## hands?" (Brian Carey, Sunday Times) — private equity in Irish
+## social/disability/childcare provision
+
+General market intelligence, no specific venture tie flagged by John,
+logged for the record rather than actioned.
+
+**Core numbers:** HSE payments to commercial disability providers hit
+**EUR 526m** last year; the top five for-profit operators alone
+received **EUR 306m+**. Private/for-profit share of disability
+residential placements rose from 7% (2022) to 16% (2025); ~38,000
+people access disability residential placements, growing ~10%/year.
+Some disability placements attract rates up to EUR 12,000/week
+(average closer to half that) versus the Fair Deal nursing home cap of
+EUR 1,275/week, with no long-term state contracts.
+**Named operators/deals profiled:** Ed Dunne/Nua Healthcare (sold
+2020, est. EUR 70-115m, now under Cygnet/Universal Health Services,
+turnover EUR 157m/2024); Talbot Group (Tony & Michael Woods, sold
+twice, now DIF Infrastructure Fund); Ashdale Care/Lotus (Cardinal
+Capital, sold for EUR 110m, 2021); Odyssey Social Care (Pete Smyth's
+PE firm, backed by DIF, turnover EUR 153m/2024); Daffodil (Paul
+Carroll, backed by CPL recruiter Anne Heraty).
+**Tension the piece raises:** an industry insider rejects "profiteering"
+framing, arguing private capital has the flexibility/discipline
+institutions and charities lack, against urgent, growing, poorly
+planned demand ("too much disability funding is front-loaded into
+crisis" - Liam Quaide TD).
+**Why logged:** background context on how private capital values and
+structures Irish health/social-care businesses (multiples, PE
+ownership chains, HSE/Tusla as counterparty) - potentially relevant
+background if Meridian's agribusiness/succession lens ever extends
+into healthcare-adjacent advisory, or as general Irish PE-market
+reading. **REPORTED** - sourced from a physical newspaper clipping, not
+independently re-verified.
+**Ventures touched:** None specifically flagged; general market
+intelligence.
+**Pushed to Google Drive:** No (sync not yet wired up).
+---
