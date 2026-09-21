@@ -1467,18 +1467,41 @@ M Keane, CoGovTeam3@bdo.ie.
 ### Governance calendar
 **AGM confirmed Wednesday 23 September 2026** — per David Geoghegan's
 "Associated Hardware plc - Notice of AGM 2026" email, 1 Sept 2026
-(moved from the April meeting's planned July date at the Green Isle
-Hotel — venue for 23 Sept itself still not separately confirmed in
-that email; note the Green Isle Hotel is confirmed as the UHL DAC AGM
-venue, 30 Sept, a different meeting entirely — see UHL section above).
-John confirmed 9 Sept: **board meeting the same morning of the AGM.**
+(moved from the April meeting's planned July date). **Venue confirmed
+directly by John, 21 Sept: the Green Isle Hotel** — same venue as the
+separate UHL DAC AGM on 30 Sept, but a distinct meeting/date; resolves
+the venue ambiguity previously flagged here.
+
+**Full running order for 23 Sept, confirmed by John 21 Sept (times
+approximate where noted):**
+1. **Board meeting** — circa 9:00-9:30am, Green Isle Hotel. **Exact
+   start time not yet confirmed by John himself** ("9ish, 9 or 9:30,
+   I'm not sure") - worth pinning down before the day.
+2. **AGM** — follows immediately, same venue.
+3. **Members'/shareholders' meeting** — re: the possible premises sale
+   (see BDO Corporate Recovery scoping above), follows the AGM.
+4. **Ray Smyth/Edel Smyth meeting** — John and Shane Felle, **after**
+   the members' meeting, same day/venue. (Corrects/clarifies earlier
+   phrasing elsewhere in this file that only said "alongside the
+   AGM" — it's specifically after the members' meeting, last in the
+   day's sequence.)
+
+**Action, 21 Sept — same day:** John to email Dave Geoghegan and his
+UHL office today asking them to prepare AGM packs. **37 members were
+invited; John's own estimate is actual attendance runs much lower —
+aim for approximately 20 packs today**, not 37.
+
+**Documents to assemble for Wednesday (John's own list, 21 Sept):**
+board meeting papers, AGM papers, members'/premises meeting papers, and
+whatever's needed for the Ray/Edel Smyth discussion (see the Smyths of
+Killucan claim entry below - the Without Prejudice reply already sent
+3 Sept is the live thread to bring). **Not yet assembled** - this is
+today's/tomorrow's task before Wednesday.
+
 Annual return made up
 to 30 Sept. Board meetings roughly quarterly plus calls — known dates
 30 July 2025, 30 Sept 2025 (AGM), 22 April 2026. A meeting scheduled for
-20 May 2026 did not proceed. Board meeting to approve 2025 accounts once
-draft finalised; board meeting the morning of the AGM; members/
-shareholders meeting in conjunction with the AGM re: the premises sale;
-Audit Committee likely needs a call.
+20 May 2026 did not proceed. Audit Committee likely needs a call.
 
 **BDO's own market positioning, seen 20 Sept 2026 (Business Post "Focus
 on Sustainability," Penny Gray, BDO advertorial content).** BDO's own
