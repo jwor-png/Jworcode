@@ -54,6 +54,44 @@ their package assumes a different routing entirely (e.g. via a hub like
 Amsterdam/Frankfurt/Abu Dhabi to Beijing) — is a real question to put to
 them directly, not something to assume either way.
 
+## Trailfinders comparator (logged 21 Sept 2026)
+
+[REPORTED — from a physical newspaper ad, Trailfinders "Wonders of
+China," not independently verified against Trailfinders' own site]
+
+- **Operator:** Trailfinders — "The Travel Experts," described as
+  tailor-made travel worldwide, not a fixed-package operator like
+  Wendy Wu Tours. Contact: 01 881 4953.
+- **Duration/price:** 14 nights (15-day guided group journey), from
+  **€4,849 per person**, flights included, plus a "TF Exclusive" tour
+  discount saving €950 per couple currently advertised.
+- **Included:** 14 nights' hotels, shared transport, tour leader,
+  activities/excursions, and 41 meals.
+- **Highlights called out:** the Great Wall of China, the Terracotta
+  Warriors, a Yangtze River cruise, giant pandas in Chongqing. The ad's
+  own photo shows limestone karst river scenery (Guilin/Yangshuo-style),
+  suggesting that region is on the itinerary even though not named in
+  the highlights bullet list seen.
+
+**How this compares to the Wendy Wu "China Uncovered" reference above:**
+materially shorter (14-15 days vs Wendy Wu's 20) and cheaper per person
+(€4,849 vs £5,140, roughly £5,900+ equivalent), covering the same core
+highlights (Great Wall, Terracotta Warriors, Yangtze cruise), though
+without Wendy Wu's confirmed Zhangjiajie glass-skywalk and Shanghai
+finish shown in its published itinerary.
+
+**Why Trailfinders may be the stronger lead specifically, not just a
+cheaper one:** the open geography problem logged above — the Dublin–
+Shanghai direct flight lands at the wrong end of a Beijing-to-Shanghai
+package itinerary — is a fixed-package constraint. Trailfinders'
+positioning as a **tailor-made** operator means they should be able to
+build the routing properly around the Dublin–Shanghai direct flight
+(e.g. as a genuine open-jaw), rather than John having to accept
+whatever routing a rigid package assumes or fly via a different hub
+entirely. Worth raising this specific point directly with Trailfinders
+when making contact, since it's the one thing a bespoke operator can
+solve that a packaged tour company may not.
+
 ## Open items
 
 1. **A visual map — built, 21 Sept 2026.** John confirmed the itinerary
