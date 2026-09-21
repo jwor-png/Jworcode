@@ -902,6 +902,20 @@ are flagged for confirmation, never guessed.
   days before 23 Sept if Statement of Fact details are wrong, or terms are
   treated as confirmed by default.** John to review and decide (Zurich vs
   RedClick) in the coming days.
+  - **DECIDED and confirmed in place, 21 Sept — John went with
+    RedClick.** Called Nicola (059 91 67722) and confirmed. RedClick's
+    own confirmation email (14:54, thread ref OROJ24004): **14-day
+    temporary household cover now live, 23 Sept - 7 Oct 2026**, insurer
+    RedClick Generali, total premium €744.11 (a small variance on the
+    €748.42 quoted earlier - not a concern), deposit €207.36 already
+    paid. Buildings rebuild cost €478,753, contents €59,088, accidental
+    damage included, €2,000 unspecified-items cover, additional
+    interest noted as Pepper Advantage.
+  - **Not yet fully closed out - two documents due back to Nicola by 7
+    October, or cover cancels and a time-on-risk charge may apply**:
+    (1) the signed Statement of Fact/proposal form, and (2) the
+    completed Direct Debit Mandate - both attached to her 21 Sept
+    email. **Action for John: sign and return both before 7 Oct.**
   - **Flagging urgency, 20 Sept — this decision is still open and the
     deadline is 3 days away.** Bill Tyson's "Your Money" column (Irish
     Mail on Sunday, 20 Sept) gives general home-insurance tips directly
