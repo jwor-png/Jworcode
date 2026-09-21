@@ -1257,6 +1257,23 @@ are flagged for confirmation, never guessed.
 
 ## 5. PROTECT MY PRESENT RESPONSIBLY
 
+- **Home security/property items arising from the Campion insurance
+  call, 21 Sept 2026.** Three separate items, none yet actioned:
+  1. **BER assessment** — Nicola asked about the house's BER rating
+     during the renewal call. John confirmed there's **no recent BER
+     assessment** on file. Plan: get one done, both to have a current
+     rating and as a starting point to actually improve it.
+  2. **Burglary alarm not centrally monitored** — the house has an
+     alarm, but it isn't connected to a monitoring service. Worth
+     looking into central monitoring, both for its own sake and since
+     it's the kind of detail an insurer may ask about again.
+  3. **CCTV system check — contact Alphonsus** to confirm the CCTV is
+     working correctly. **John says he raised this with Cuan last
+     week** — searched, genuinely not found anywhere in the files, so
+     this wasn't actually captured before now. Logged properly for the
+     first time here, not assumed to be a duplicate of anything already
+     tracked. [ASK: Alphonsus's surname/company, for a fuller contact
+     record.]
 - **2025 Form 11 self-assessed tax return — real deadline, seen 20 Sept
   2026 (Deloitte guide, Business Post, Catherine O'Neill and Ian Prenty,
   Deloitte Ireland).** Directly relevant given John's self-assessed
