@@ -554,33 +554,58 @@ cited.
 New item, not previously logged anywhere in Cuan. Majella is a
 beneficiary in the estate of the late Sheila McManus, late of Nenagh.
 
-- **Status:** Probate has issued. The sale of Sheila's house completed
-  **over 4 weeks ago** as of 21 Sept 2026.
+- **Deceased confirmed, via family headstone/WhatsApp (21 Sept 2026):**
+  Sheila McManus (née Cahill), of Nenagh, daughter of James and Sheila
+  Cahill, **died 24 January 2025**.
+- **Solicitor confirmed:** **Francis B. Taaffe & Company, Solicitors**,
+  Edmund Rice Square, Athy, Co. Kildare (059 863 8181) — John's initial
+  recollection of "Nenagh" was the deceased's home, not the solicitor's
+  location; the firm itself is based in Athy.
+- **Correction to the original timeline:** John's original account was
+  that the house sale "completed over 4 weeks ago." A family WhatsApp
+  message from a cousin (Breda), found the same day, states the house
+  **"deal was finalised yesterday"** relative to that message — i.e.
+  materially more recent than 4 weeks. This resolves the earlier open
+  question ("why hasn't the estate concluded given probate issued and
+  the sale closed a month ago") — there is no unexplained delay; the
+  sale appears to have completed only very recently, not weeks back.
+  **REPORTED** — sourced from a family group chat screenshot, exact
+  date of Breda's message not independently confirmed, and John's
+  original "4 weeks ago" framing has not been separately corrected by
+  him directly, only superseded by this family source.
+- **Same WhatsApp message confirms:** Breda (the cousin who posted the
+  update) does not know the timeline for winding up the rest of the
+  estate either, and states she will contact Taaffe directly to find
+  out — i.e. even close family don't yet have a timeline, this isn't
+  something being withheld from Majella specifically.
 - **Known deduction:** a Fair Deal (Nursing Homes Support Scheme)
   repayment will be due back to the State from the estate — the
   standard mechanism where the scheme's home-support-loan element is
   repaid from the estate on death/sale of the home.
-- **John's own assessment:** beyond that Fair Deal repayment, there is
-  "otherwise no reason for any delays" in the estate being concluded.
-- **Not yet established:** why the estate hasn't yet been finalised or
-  distributed, given probate is through and the house sale closed over
-  a month ago — worth asking the solicitor/executor administering
-  Sheila's estate directly what the actual holdup is, rather than
-  assuming the Fair Deal repayment alone explains a month's delay (Fair
-  Deal repayments are normally calculated and settled fairly
-  quickly once a Notice of Death and the Statement of Affairs are filed
-  with the HSE).
+- **Probate Register Online check (21 Sept 2026):** a search on
+  courts.ie/app/probate-register for "Sheila" / "McManus" / year of
+  death 2025 returned **no results**. With the date of death now
+  confirmed as 24 January 2025, this is worth re-running exactly as
+  entered (the register only lists grants actually issued, and its own
+  guidance suggests trying the surname without the "Mc" prefix, i.e.
+  "Manus," for a broader match) — if a retry still returns nothing,
+  that would mean probate has **not yet actually issued**, which would
+  contradict what John was originally told and is worth confirming
+  directly with Taaffe rather than assumed either way.
 - **Relevance to this plan:** an incoming distribution to Majella is a
   household asset event relevant to Track 3's asset register (§3.4) and
   worth factoring into the "clean financial bill of health" figure once
   a distribution amount is known (§3.6). No figure known yet.
 
 **Open items:**
-- [ASK] Who is the solicitor/executor handling Sheila McManus's estate,
-  and has anyone actually asked them for a timeline or explanation for
-  the delay since the house sale closed.
+- [ASK] Re-run the Probate Register Online search with the surname
+  "Manus" (dropping the Mc prefix per the site's own guidance) and year
+  2025, to confirm whether a grant has actually issued yet.
 - [ASK] Expected net distribution amount to Majella, once the Fair Deal
   repayment and any other estate costs are deducted.
+- [ASK] Confirm directly with Francis B. Taaffe & Co. what stage the
+  estate is actually at, given probate status is now unconfirmed and
+  the house sale is more recent than first thought.
 
 ---
 
