@@ -1204,6 +1204,21 @@ detail.
 - **Tracking:** Cuan (board matters, internal-only, per `governance.md`)
   — higher gate by default, see governance frame below.
 
+### Company Secretary change — ON HOLD, 22 Sept 2026
+BDO (Joanne Mallon, 15 Sept, found in spam and only seen by John 22
+Sept) need three signed documents to formally change AHL's Company
+Secretary from John to Nicola Hegarty McMillan on the CRO record and
+the draft Annual Return: a Letter of Consent (Nicola to sign), a
+Section 262(2) Declaration (Nicola to sign), and the Statutory B10
+form itself (John Smyth as director, and Nicola as incoming secretary,
+both to sign).
+
+**On hold, not to be chased:** John confirmed 22 Sept that Nicola is
+currently unavailable, her husband is seriously ill. This item should
+not be pushed while that's the case, no urgency attaches to it. John
+remains the registered Secretary in the meantime, which is not a
+problem in itself.
+
 ### Fire safety certificate — premises, 9 Sept 2026
 John had asked ORS a couple of weeks ago to revisit the Magna Business
 Park premises to inspect the completed fire alarm works, intending
