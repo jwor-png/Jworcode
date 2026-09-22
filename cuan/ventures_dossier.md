@@ -1838,6 +1838,17 @@ rules, not facts about AHL Plc.
   Fred Logue lodged 31 Aug (An Bord Pleanála ref PL-501978-MH-26,
   response due 23 Sept), **sale to John Lynch now explicitly pending the
   appeal outcome**, Glynn's Solicitors gone quiet on closing prep.
+- **Response to the appeal, update 22 Sept 2026 (WhatsApp, "Julianstown
+  - Old Mill etc" group):** John's own message to Michael Durkan and
+  the group — the submission to An Coimisiún Pleanála (ACP, the
+  renamed An Bord Pleanála) responding to Logue's appeal is "almost
+  ready for filing," **88 pages in total**, described by John as
+  "strong," to be filed "in the next couple of days." An earlier
+  message in the same thread argues it would be unfair if the Old Mill
+  development were put at risk or tied to a new bypass that isn't
+  within the applicant's control. **Not yet independently verified
+  beyond the WhatsApp screenshot** — no copy of the actual 88-page
+  submission seen.
 - **Revenue relevance:** Revenue stream (John's fees + sale proceeds,
   both currently delayed by the appeal).
 - **Tracking:** Cuan only.
