@@ -1775,6 +1775,103 @@ anyway) and the separate-AHL-account paragraph (the two matters are
 genuinely separate and shouldn't be raised together in this letter).
 Thread marked Without Prejudice.
 
+**Update, 22-23 Sept 2026 — meeting briefing prepared, Marsh intelligence
+strongly supportive of AHL's position.** Claim now confirmed as the
+"Faulkner case" (Edel's name for it) / "rusty sand" claim per Dave
+Geoghegan to Marsh, first arising November 2020. Meeting with Ray and
+Edel Smyth held **23 Sept 2026, 2:30pm, Green Isle Hotel**, immediately
+after the AGM and members' meeting, John and Shane Felle attending for
+AHL. Figures Ray has put forward remain inconsistent across three
+approaches: ~€30,000 (phone call, late 2025), ~€70,000 (verbal, a few
+weeks before written approach), €90,000 (in writing).
+
+**Marsh's account, Mark Doherty, 22 Sept 2026 (REPORTED, via briefing
+note, not independently verified by Cuan):**
+1. Nothing was ever on AHL/UHL's insurer file for this claim — the 2020
+   notification was purely precautionary. The file closes November 2026
+   under the six-year property-damage statute of limitations, with no
+   claim ever actually brought against AHL.
+2. The sand supplier (based up north) was insured with Zurich UK. Marsh
+   pushed Zurich to engage; a loss adjuster was appointed on the
+   supplier's side. Marsh sought an indemnity from the supplier on
+   AHL/UHL's behalf, which the supplier refused to give.
+3. Emott Walsh's involvement with Smyths was informal support only, not
+   AHL or its insurers taking ownership of the issue. Marsh's own read:
+   Smyths may have mistaken that helpfulness for AHL actually handling
+   or being responsible for the matter.
+4. The product never came through AHL premises — it went directly from
+   supplier to Smyths. AHL had no involvement in storage/handling at
+   Smyths' premises.
+5. Smyths withholding payment on their own AHL account is a distinct
+   commercial matter, unrelated to insurance. If Smyths' own insurer
+   already paid the third party, Smyths are not out of pocket.
+6. This incident is now outside the window affecting AHL/UHL's own
+   insurance renewals, regardless of the 23 Sept meeting's outcome.
+
+**Key question prepared for the meeting, per Marsh's suggestion:** did
+Smyths' own insurer (believed to be Aviva at the time) settle the claim
+with the third party whose house was damaged? A yes with no
+subrogation attempt against AHL implies AHL had no case to answer; a no
+after five years raises its own question about what has happened to
+Smyths' claim.
+
+**On Emott's file:** Dave and Sharon searched and could not locate it,
+physically or electronically, as of the evening of 22 Sept. Marsh asked
+to check their own file separately.
+
+**Planned approach for the meeting:** ask Ray and Edel directly about
+their own insurer's settlement status; ask them to confirm in writing
+whether Faulkner has taken or intends formal action against Smyths;
+hold the core defence (proprietary raw material, no end-use
+stipulation, no fitness-for-purpose guarantee, product never on AHL
+premises); state plainly that Emott's file cannot be located; decide
+with Shane Felle whether to raise AHL's own outstanding account
+balances (Smyths/Mulvey, ~€140k combined) at all, treated as an
+internal lever, not something to volunteer; everything without
+prejudice throughout. **Outcome of the 23 Sept meeting itself is not
+yet known to Cuan — needs a status pull from whoever attended.**
+
+### AHL AGM, 23 Sept 2026, 11:30am, Green Isle Hotel — chaired by John
+Formal business per the Chairman's address script: quorum confirmed
+(three unrestricted members); notice and 2026 minutes taken as read;
+six resolutions put — (1) receive/approve FY2025 financial statements
+and Directors'/Auditors' reports, BDO's Simon Carbery to read the
+independent auditors' report; (2) review of the Company's affairs per
+the Directors' report; (3) reappoint BDO as auditor to the next AGM;
+(4) authorise Directors to set BDO's remuneration for FY2026; (5)
+directors' remuneration as provided for in the financial statements;
+(6.1) re-elect Joseph Wallace as Director; (6.2) re-elect John Smyth as
+Director; followed by AOB. A separate meeting on the Company's Magna
+Business Park premises followed immediately after (~1:15pm), notice
+already sent to 37 shareholders — **outcome of both the AGM votes and
+the premises meeting not yet known to Cuan.**
+
+### June 2026 management accounts (AHL Board agenda item 2, 23 Sept)
+Board asked to formally accept the June 2026 management accounts
+(August accounts not yet available, to follow separately). **Net
+profit YTD to June: €311,387** — ahead of budget (€266,510) by
+€44,877 (+16.8%), behind prior year (€319,134) by €7,747 (-2.4%, close).
+Income: €383,333 YTD, all rental from UHL, on plan, no warehouse
+trading (AHL is property-only). Costs YTD €71,947 vs budget €62,824
+(over by €9,123, driven by Establishment costs €18,000 vs €3,000
+budget — repairs/renewals ahead of plan, partly offset elsewhere).
+Balance sheet at 30 June: net assets €15,733,000; cash at bank
+€1,365,000; investment in UHL €3,250,000 (unchanged); fixed assets
+(property) €12,250,000 (pre-revaluation figure, not yet reflecting the
+€13.95m valuation already noted elsewhere in this file). **Debtors
+flagged for the Board:** live accounts €150,536 total, including two
+balances tagged "Insurance" — Smyth's of Killucan €100,000 and Anthony
+Mulvey & Co Ltd €43,179.64, both linked to the ongoing Smyth/Mulvey
+claims above; dead accounts €116,947 (Burton's Homevalue, closed, and
+Sean J. McGuinness & Son), fully covered by bad debt provision, no P&L
+impact; a credit balance in AHL's favour, Shannonside Homevalue
+(Ennis), €25,195.19. Talking points prepared: propose acceptance of
+June accounts; note August accounts still awaited from Dave/Linda; flag
+the Fire Alarm works cost/credit arrangement with UHL (~€110k,
+previously logged) as still to be finalised, not yet in the June
+figures; if a Director asks about the two "Insurance" debtor balances,
+confirm they relate to the ongoing claims, not a trading dispute.
+
 ### Open questions [ASK]
 1. CRO number, confirmation the Plc is unlisted.
 2. Chair only, or Chair and Chief Executive as a formal appointment.

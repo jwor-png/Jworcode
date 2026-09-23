@@ -107,12 +107,22 @@ now closed and signed (31 Aug 2026), profit €1,681,575 driven by a
 Auditor continuity: BDO → BDO Ireland LLP, a structural merger with
 the UK firm, not a substantive audit change. **Open item: AHL's own
 D&O cover status is unclear — John believes AHL may have none, needs
-review post-AGM.** Ray Smyth/Edel Smyth claim: Without Prejudice reply
-sent 3 Sept; John and Shane Felle (for AHL) meeting Ray and Edel Smyth
-in person on 23 Sept, alongside the AGM. AHL AGM chaired by John on 23
-Sept, 11:30am, Green Isle Hotel (Board meets 9:30am prior); premises
-meeting on Magna Business Park follows at ~1:15pm — notice already
-sent to 37 shareholders. Full detail + questions in `ventures_dossier.md`.
+review post-AGM.** Ray/Edel Smyth claim now confirmed as the "Faulkner"/"rusty sand" claim
+(Nov 2020). **Marsh's intelligence (22 Sept, Mark Doherty), strongly
+supportive of AHL: no claim ever on the insurer file, file closes Nov
+2026 under the 6-year statute, product never on AHL premises, Smyths'
+own account withholding is a separate commercial matter.** Meeting
+briefing prepared with a key question to put to Ray/Edel about their
+own insurer's settlement status. AGM held 23 Sept 11:30am (6
+resolutions: FY2025 accounts, affairs review, BDO reappointment +
+remuneration, directors' remuneration, re-election of Joseph Wallace
+and John Smyth), premises meeting ~1:15pm, Smyth meeting 2:30pm — all
+Green Isle Hotel, all as planned. **Outcomes of the AGM votes, premises
+meeting and Smyth meeting not yet known to Cuan — needs a status pull.**
+June 2026 management accounts also went to the Board 23 Sept: net
+profit YTD €311,387, ahead of budget +16.8%; debtors flagged include
+Smyth's of Killucan €100,000 and Mulvey €43,179.64 tagged "Insurance."
+Full detail + questions in `ventures_dossier.md`.
 🟢 UHL Hardware — Aug Chairman's invoice (No. 27) sent to Nicola & Dave.
 FY2025 audit closed, Board thanked John 5 Aug. 22 April AHL board
 minutes issued to BDO. **Reply to Ray Smyth sent 3 Sept 2026** (Without
