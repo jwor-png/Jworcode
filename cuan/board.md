@@ -117,8 +117,9 @@ own insurer's settlement status. AGM held 23 Sept 11:30am (6
 resolutions: FY2025 accounts, affairs review, BDO reappointment +
 remuneration, directors' remuneration, re-election of Joseph Wallace
 and John Smyth), premises meeting ~1:15pm, Smyth meeting 2:30pm — all
-Green Isle Hotel, all as planned. **Outcomes of the AGM votes, premises
-meeting and Smyth meeting not yet known to Cuan — needs a status pull.**
+Green Isle Hotel, all as planned. **John confirmed 23 Sept evening: all of today's meetings went well.**
+Specific vote results, what was agreed at the premises meeting, and
+outcome of the Smyth meeting still to come from John tomorrow.
 June 2026 management accounts also went to the Board 23 Sept: net
 profit YTD €311,387, ahead of budget +16.8%; debtors flagged include
 Smyth's of Killucan €100,000 and Mulvey €43,179.64 tagged "Insurance."

@@ -1843,8 +1843,11 @@ directors' remuneration as provided for in the financial statements;
 (6.1) re-elect Joseph Wallace as Director; (6.2) re-elect John Smyth as
 Director; followed by AOB. A separate meeting on the Company's Magna
 Business Park premises followed immediately after (~1:15pm), notice
-already sent to 37 shareholders — **outcome of both the AGM votes and
-the premises meeting not yet known to Cuan.**
+already sent to 37 shareholders. **Outcome, per John directly, 23 Sept
+evening: all of today's meetings (Board, AGM, premises meeting, and the
+Ray/Edel Smyth meeting) went well. Detail to follow from John tomorrow —
+specific vote results, what was agreed at the premises meeting, and
+what came out of the Smyth meeting are not yet known to Cuan.**
 
 ### June 2026 management accounts (AHL Board agenda item 2, 23 Sept)
 Board asked to formally accept the June 2026 management accounts
