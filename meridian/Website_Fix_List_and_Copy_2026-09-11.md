@@ -109,3 +109,24 @@ Item 5 is the only genuine conflict on the site, and it is worth stating plainly
 ---
 
 *Meridian Intelligence · Website fix list · 11 September 2026 · Private and confidential. Status IN REVIEW. Article 4 dates are VERIFIED in Meridian's knowledge base and should be confirmed once by a qualified adviser before publication. EY author and role VERIFIED from EY Ireland's website; her argument REPORTED. Items 5, 6 and 7 require Shane McCarthy's alignment. Meridian informs. It never represents.*
+
+---
+
+## STATUS UPDATE — 24 SEPTEMBER 2026
+
+**Item 1, the certificate and browser warning: CLOSED.**
+
+Verified by John in Chrome on 24 September. Certificate issued to `*.meridianintelligence.ie` by **Let's Encrypt**, issued **18 September 2026**, expires **17 December 2026**. Chain is ISRG Root X1 to Root YR to YR1, which is the standard Let's Encrypt path. The bare domain `meridianintelligence.ie` loads with no warning, so both the apex and the wildcard are covered.
+
+**One diary item arising.** Let's Encrypt certificates run ninety days. **This one expires 17 December 2026.** Confirm with Hosting Ireland that auto-renewal is enabled. If it was installed manually the browser warning returns in mid December and nobody will be watching for it.
+
+**Still open from this list, unconfirmed as at 24 September:**
+- Item 2, the "[SOURCE PENDING: do not publish...]" line on the Governance Floor page.
+- Item 3, the "[ENGAGEMENT COUNT]" placeholder on the investor page.
+- Item 4, the EY block, to be retagged REPORTED and linked. See the Grit Young source list of 15 September for the corrected wording and URLs.
+- Item 5, EU AI Act compliance appearing as a Meridian service against Ambrion. **Requires Shane.**
+- Items 6 and 7, the Meridian Partners programme, the Golden Generation toolkit, and the partner designation. **Require Shane.**
+- Item 8, "the full breadth of a top-tier advisory practice".
+- Item 10, the United Hardware disclosure.
+
+**The launch post remains held** pending items 2, 3, 5 and 10.
