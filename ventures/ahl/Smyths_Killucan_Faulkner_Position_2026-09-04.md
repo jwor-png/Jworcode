@@ -31,3 +31,17 @@
 - **Verify:** whether Faulkner has issued proceedings against anyone; whether Emott W gave any assurance capable of binding AHL.
 
 *Meridian Intelligence / Cuan record. Facts above are from the Gmail thread of 3 September 2026 and are REPORTED. Legal strategy requires AHL's own solicitors. Nothing here is legal advice.*
+
+---
+
+## SEPARATE AHL OPEN LOOP — SHARE TRANSFERS, as at 24 September 2026
+
+**1. RB Coogan Limited to Ulster Builders Providers Limited.** John emailed Dominic Rice on 22 September with the four points BDO require: consideration payable, whether stamp duty advice is obtained or still to be arranged, whether the existing share certificate is held for cancellation or a lost certificate indemnity is needed, and the preferred effective date. Dominic replied the same day, copying **liam.donnelly4@btinternet.com**, saying they would check with their accountants and revert.
+
+**Status: awaiting Coogan's accountants. John's instruction on 24 September is to leave it until they come back next week.** Liam Donnelly is the person copied and is the route if a chaser is ever needed.
+
+**2. Jonas McCarthy / West Cork Building Supplies Limited.** The second of the two transfers referred to in John's 11 September fee quote request to Joanne Mallon at BDO. Raised by Simon Carbery during the 2025 audit. Described by John as not previously progressed. **No movement recorded.**
+
+**Decision still open:** run both transfers together for a single BDO fee, or let the Coogan transfer proceed alone.
+
+**Note for the record.** Joanne Mallon's 15 September request for further information was answered on 22 September. An earlier entry in this session's chat suggested it was outstanding; that was incorrect and is corrected here.
