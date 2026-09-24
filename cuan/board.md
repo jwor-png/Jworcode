@@ -166,6 +166,11 @@ plan now in `meridian_website_brief.md`: recover admin account → fix
 payment → decide hosting → one coordinated DNS change. Needs John's
 sign-off on hosting choice and the DNS change window.
 
+🟡 **Reopen "Partner Design Studio" on the laptop** — John flagged 24
+Sept, screen was on a Chromebook (Acer) with a "Partner Design Studio"
+tab already open alongside Google. Reminder logged; John to action on
+his own device — nothing for Cuan to do here beyond holding the note.
+
 ## Waiting on John (across separate sessions — ask each for a fresh status)
 
 Meridian → LinkedIn changes (beyond the launch post series already logged
