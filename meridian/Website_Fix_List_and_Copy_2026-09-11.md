@@ -130,3 +130,27 @@ Verified by John in Chrome on 24 September. Certificate issued to `*.meridianint
 - Item 10, the United Hardware disclosure.
 
 **The launch post remains held** pending items 2, 3, 5 and 10.
+
+---
+
+## STATUS UPDATE — 25 SEPTEMBER 2026, LIVE SITE CHECKED
+
+Meridian read the published artifact directly and checked each item against the live HTML.
+
+**CLOSED:**
+- Item 1, certificate. Verified 24 September.
+- Item 2, the "[SOURCE PENDING: do not publish...]" line. **Removed.**
+- Item 3, the "[ENGAGEMENT COUNT]" placeholder. **Removed.**
+- Item 4, the EY block. **Corrected.** Now reads as external commentary attributed to "EY Ireland Technology, Media and Entertainment and Telecommunications Industry Leader, writing in the Irish Independent; see also EY Ireland's published material at ey.com." Publication is right and the source is checkable.
+- Item 6, the Golden Generation toolkit. **Removed** from Domain 05.
+- Item 8, "the full breadth of a top-tier advisory practice". **Removed.**
+
+**STILL OPEN:**
+- **Item 5, the Ambrion collision. Domain 05 still reads "EU AI Act compliance, AI governance frameworks, adoption roadmaps, the Meridian Partners programme."** Requires Shane. This is now the only substantive content item on the site.
+- Item 6 part, the Meridian Partners programme, still named. Confirm it is Meridian's and purchasable.
+- Item 7, the partner designation for Shane. Confirm he has seen the page.
+- Item 9, the agribusiness engagement line. Confirm accurate and acceptable to the client.
+- Item 10, the United Hardware disclosure.
+- Item 11, the logo tagline.
+
+**CONSEQUENCE FOR THE POSTS.** The evidence discipline post (post 9) and the website launch post (post 6) both point readers at the Governance Floor page. **That page is now clean, so both are clear to publish** on the site's account. The remaining hold on the launch post is the United Hardware disclosure, which is John's alone.
