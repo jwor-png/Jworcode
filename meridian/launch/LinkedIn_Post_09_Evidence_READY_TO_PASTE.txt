@@ -1,6 +1,6 @@
 𝗪𝗵𝗮𝘁 𝗠𝗲𝗿𝗶𝗱𝗶𝗮𝗻 𝗱𝗼𝗲𝘀 𝘄𝗵𝗲𝗻 𝘁𝗵𝗲 𝗲𝘃𝗶𝗱𝗲𝗻𝗰𝗲 𝗶𝘀 𝗻𝗼𝘁 𝘁𝗵𝗲𝗿𝗲
 
-Last week I wrote about routing, and how a question is sent to every domain that could change the answer rather than the one it happened to arrive in. The obvious next question is what happens when those domains come back and the material simply is not good enough to support an answer.
+When the site went live I said the part worth looking at was the page setting out what Meridian will not do. A few people have asked about one line on it in particular, which is what happens when the evidence simply is not good enough to support an answer.
 
 Most analysis fills that gap. A figure gets rounded into certainty, a assumption acquires the grammar of a fact, and a sentence that should read "we do not know" reads instead as though somebody checked. It is rarely dishonest. It is the natural pull of a document that is expected to conclude.
 
@@ -14,7 +14,7 @@ The third is failing closed. Near a legal, financial or regulatory line, the wor
 
 The practical consequence is that a brief will sometimes come back saying the question cannot yet be answered, and here is precisely what would have to be found before it could be. Clients are occasionally surprised by that and I have never once had anyone object, because the alternative is an answer they might act on.
 
-All of this is published rather than promised. The grounding rule, the tagging and the fail-closed position are set out on the site, which means they can be held against the work.
+All of this is published rather than promised. The grounding rule, the tagging and the fail-closed position are set out on the site in full, which means they can be held against the work rather than taken on trust.
 
 The machine reads everything and misses nothing, and it is also the part most capable of producing a confident sentence with nothing underneath it, which is exactly why the discipline exists. The judgment at the end is mine, and so is the name on it.
 
