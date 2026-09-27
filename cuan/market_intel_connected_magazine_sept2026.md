@@ -113,6 +113,93 @@ male ones); TU Dublin's current first-year cybersecurity class is
 and sees gamified formats like CTFs as an effective route in ("people
 embrace learning through games").
 
+**Further detail from the feature's continuation:** Gulick notes CTF
+experience helps women who enter cybersecurity laterally from adjacent
+fields like IT, since job applications are often keyword-filtered —
+lateral entrants "use more IT terms than cybersecurity terms" (talking
+about "coding" or "patches" rather than "pwn" or "binary exploitation"),
+so their applications don't get weighted correctly by ATS systems, but
+WICC participation gives them the correct vocabulary plus a referral and
+a potential CPE (continuing professional education) credit. On
+networking: "cyber is all about trust... if you're getting a job at a
+major company, they're not going to recruit you from an AI system. They
+want to know that you know Dan, and Dan refers you." **Giulia Martino**
+(coach, Team Europe at WICC, originally a software engineer, native
+Italy) discovered CTF competitions and "fell in love with them" to the
+point of building her own national-cybersecurity-lab work around it —
+"it's a common path to become very obsessed and it's the only thing you
+can think about." An age limit was introduced at WICC specifically so
+the same senior/experienced players don't keep winning indefinitely,
+letting new people in and get trained. Mark Lane: "it's almost
+cult-like sometimes," describing the deliberately welcoming, jubilant
+atmosphere he's built into these events despite the intensity of the
+competition itself. Team Europe won the 2026 WICC; the piece closes
+looking ahead to ICC 2027 in Dublin.
+
+## Commercial content — "AI must improve work, not simply remove it" (PwC Ireland)
+**Jonathan Hayes, Head of Data and AI Consulting, PwC Ireland.** Core
+argument: Irish business leaders need a **responsible AI framework**
+protecting human dignity and building trust, since AI has moved from
+experimentation into everyday operations — "the central question is no
+longer whether work will change, but what kind of work organisations
+want to create." Key points:
+- **More than an efficiency programme:** a narrow focus on isolated
+  AI use cases produces only incremental savings without addressing
+  genuinely inefficient processes or poor customer experiences; the
+  bigger opportunity is reconsidering an entire role/workflow/customer
+  journey from first principles, not just automating existing tasks.
+- **PwC's 2026 AI Performance Study (1,217 companies):** just **20% of
+  organisations capture 74% of the AI-driven returns** identified in the
+  research. Leading organisations are **2.2x more likely to redesign
+  workflows around AI** (rather than bolting tools onto existing
+  processes) and **1.7x more likely to use a documented responsible AI
+  framework** covering use-case selection, design, deployment and
+  ongoing monitoring.
+- **Dignity has practical business value:** meaningful work gives people
+  agency, opportunities to develop expertise, and self-esteem from
+  making a recognised contribution; AI can put those qualities under
+  pressure even where employment itself remains secure, if it strips
+  out judgement/autonomy/learning opportunities and leaves employees
+  responsible only for monitoring outputs and managing exceptions.
+  "Protecting dignity doesn't mean preserving every role or process in
+  its current form. It means recognising that work has human as well as
+  economic value" when making change decisions. Well-designed automation
+  creates space for problem-solving/relationship-building/more complex
+  decisions; poorly designed automation makes work less engaging while
+  leaving underlying organisational problems untouched.
+- **Reinvention needs frontline knowledge:** employees closest to a
+  process best understand its practical realities — where customers hit
+  difficulty, when judgement is required, why an "inefficient-looking"
+  step actually exists. Employees may hesitate to contribute if they
+  believe they're being asked to design themselves out of a job, which
+  creates real business risk (withheld knowledge, disengagement,
+  decisions made on incomplete pictures). Fix: meaningful participation
+  should **shape decisions, not merely seek acceptance once decisions
+  have already been made**. PwC's study found employees at AI-leading
+  organisations were **2.1x more likely to trust AI-generated insights**
+  and act on them — those organisations were also more likely to
+  provide ongoing, role-based AI learning, involve business/data/tech
+  teams in co-creating solutions, and put clear guardrails around AI use.
+- **Transparency beats reassurance:** leaders should state plainly
+  whether an AI initiative's objective is cost reduction, improved
+  customer service, released capacity, or stronger decision-making,
+  rather than keeping initiatives within a small group until
+  implications become clearer (which weakens trust once employees
+  discover decisions were already made).
+- **Turning principles into a responsible AI framework:** should guide
+  use-case selection, design, deployment and ongoing monitoring; set
+  clear expectations for accountability, transparency, fairness,
+  privacy, security and human oversight, proportionate to each
+  application's potential impact. For workforce-related AI, dignity
+  should be an explicit consideration — not just whether a system is
+  accurate/compliant, but whether it affects human judgement, autonomy,
+  learning, workload, and opportunity for meaningful contribution.
+  Employees should be involved early enough to influence design, not
+  just consulted after key decisions are made. Progress should be
+  measured through adoption, employee trust, decision quality, workforce
+  capability, operational resilience and customer outcomes — not savings
+  and efficiency alone.
+
 ## Editor's Note — "If the AI bubble bursts, Ireland will feel it" (Charlie Taylor)
 **Gartner forecast, cited via analysts John-David Lovelock and Ben Lee:**
 - Worldwide AI spending to grow **49.5% this year alone**, reaching
@@ -237,6 +324,19 @@ Lauritzen interview (CTO, Legora, an AI legal-tech firm).
   assistance is legitimate vs where it undermines genuine skill
   assessment — a reusable framing device for AI-literacy/governance
   training content on where AI use is and isn't appropriate.
+- **Meridian Intelligence (AI Strategy & Governance domain) — PwC
+  piece, high value.** This is one of the strongest, most directly
+  reusable pieces logged this session for Meridian's own positioning:
+  named PwC research (1,217 companies) showing only 20% of
+  organisations capture 74% of AI returns, and that a documented
+  responsible AI framework plus workflow redesign (not tool-bolting) are
+  the distinguishing features of high performers — this is effectively
+  independent third-party validation of Meridian's own governance-first,
+  workflow-redesign advisory thesis, with citable statistics attached.
+  The "dignity has practical business value" framing and the "engagement
+  should shape decisions, not merely seek acceptance" principle are also
+  directly reusable for Golden Generation/Velocity AI executive training
+  content on how to roll out AI adoption without destroying staff trust.
 
 No action identified as required beyond the sales-diagnostic
 cross-reference above; logged for reference and possible direct
