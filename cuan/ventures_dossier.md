@@ -455,6 +455,39 @@ IP estate, faster-moving sales vehicle).
   ready to act quickly on any Asterial-side paperwork/filings the
   investment triggers, rather than this being purely background context.
 
+**Company Secretary role across Shane's companies — open questions,
+27 Sept 2026.** John confirmed he is Company Secretary of Asterial
+Limited, and understands he is likely to take the same role on
+**Zubelsala Limited** and **Sancelvio Limited** (per the Form B10s
+signed 24 Sept 2026, sent to Pat Carroll's office, Walter Vindas —
+see the Evening batch, 10 Sept entry above for the wider B10 process).
+**John also flagged, 27 Sept, that he is likely to become a Director
+as well** on one or more of these companies — not yet confirmed which,
+or whether that applies across all three or a subset.
+
+Open items, none yet resolved:
+1. **No agreed fee/remuneration is on record for the Company Secretary
+   role**, on Asterial or on any other entity. Cuan gave John general
+   Irish market reference points (external nominee company-secretary
+   fees typically ~€500-1,500/company/year for pure compliance work;
+   a personal statutory officer role like John's, alongside a firm
+   doing the admin, might run nominal-to-€1,000-5,000/company/year
+   depending on complexity) — **UNVERIFIED, general market knowledge,
+   not a quote from Pat Carroll or a rate agreed with Shane.** This
+   needs a direct conversation with Shane, not a Cuan-derived number.
+2. **If John is to become a Director too**, that is a materially
+   different exposure than Company Secretary alone — a director carries
+   personal liability for the company's trading conduct and decisions,
+   not just compliance/filing duties. Needs its own remuneration/
+   letter-of-appointment conversation, separate from the secretary fee,
+   and its own declared-interests/governance-frame treatment consistent
+   with how AHL Plc and UHL board roles are already handled.
+3. **Full list of "all of Shane's companies"** where John holds or will
+   hold Company Secretary/Director roles is not yet confirmed — only
+   Asterial (confirmed), Zubelsala and Sancelvio (B10s signed, role
+   inferred) are on record. Worth John providing the complete list so
+   Cuan can track each entity individually rather than piecemeal.
+
 **Legal/tax adviser assessment for ODIN holdco structuring, 3 Sept.**
 Two pieces of work: (1) ODIN's group structure ahead of the €20m raise,
 (2) Shane's founder holdco ahead of a future sale. Candidates: **Jerry

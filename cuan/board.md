@@ -55,6 +55,12 @@ not yet itemised; John to name them so they can be tracked individually.
 to his benefit. John is Company Secretary; Pat Carroll handles external
 company secretarial. Structure now clear — see ODIN entry above for the
 live 48-hour offer connection.
+🟡 **John's role across Shane's companies** — Company Secretary
+confirmed on Asterial, likely also Zubelsala and Sancelvio (B10s signed
+24 Sept). John flagged 27 Sept he's likely to become a Director too on
+one or more. No fee agreed for either role yet — needs a direct
+conversation with Shane. Full company list not yet confirmed. Full
+detail in `ventures_dossier.md`.
 
 🟡 **Velocity AI training** — €10k/org executive AI orientation, proven at
 UHL. 50-target Irish org list built (`meridian/sales-orchestration/`).
