@@ -551,12 +551,130 @@ practices any more. Our job is to automate everything from billing the
 insurance companies to automating the medical scribes, and that's all
 we're going to do for surgical practices going forward."
 
+## "Concerns That Europe Is Failing Its Companies Abound at TechBBQ" (Charlie Taylor)
+Report from **TechBBQ**, Copenhagen, an annual tech conference that's
+become one of Europe's major startup events. Main message: European
+tech founders are as good as counterparts elsewhere but continue to be
+held back by regulatory hurdles; mood was notably more muted than last
+year's AI-focused optimism, nearly two years after **Mario Draghi**
+(former ECB president) bluntly said Europe was "killing our companies"
+in his 2024 competitiveness report — little visible progress since.
+
+**Daragh Brown**, European Investment Fund's senior regional
+representative for Scandinavia and Iceland (one of few Irish attendees):
+notes a real shift as everyone from entrepreneurs to policymakers now
+actively considers "where Europe is at," with focus shifting from AI
+hype toward **tech sovereignty and self-reliance** — "it's not often in
+Europe that we congregate around one simple unified idea. But you can
+see that's happening," citing Patrick Collison (Stripe) and Anton Osika
+(Lovable) as entrepreneurs "increasingly articulating a European
+vision."
+
+**Cecilia Bonefeld-Dahl**, director-general of **DigitalEurope** (trade
+body representing 56,000 tech companies): "I don't think Europe has ever
+had an innovation problem. The talent here is amazing. But we do have a
+huge scalability problem." Credits the Draghi report with forcing Europe
+to recognise "we cannot regulate our way to success," but says
+compliance costs have only grown in the two years since. **Key figures:**
+Europe's digital investment gap now runs to **€157-227 billion/year**;
+EU venture capital investment was just **$133 billion between 2016-2024**
+versus **$932 billion in the US** over the same period; ~30% of European
+unicorns relocated outside the region between 2008-2021; 60%+ of
+acquired EU scaleups ended up with buyers from outside the bloc. On
+Ireland's EU presidency priorities: wants budget spending shifted away
+from agriculture/regional funds toward "value-creating sectors like
+defence tech," and wants the **"EU Inc" proposal** (see below) adopted by
+the end of Ireland's presidency.
+
+**"EU Inc" proposal** — **Iwona Biernat**, COO of Project Europe (a
+founder-led fund/mentorship programme backed by 125+ top European
+founders and VCs), the legal architect of the lobbying campaign (with
+help from entrepreneurs like Patrick Collison). Proposal: an **optional
+28th company structure** sitting alongside existing national ones,
+letting companies incorporate under a single EU-wide rule set rather
+than navigating 27 different national regimes — explicitly modelled on
+Delaware's role as the default US incorporation jurisdiction. Biernat:
+passing this would be "a major win for Ireland," which could become a
+key destination for startups/scaleups to incorporate, given Ireland's
+common-law tradition and existing familiarity to US/UK investors —
+naming **Ireland, Estonia and Luxembourg** as the likely front-runner
+jurisdictions. She was critical of Ireland's own current readiness,
+"surprised" Ireland lacks standardised startup documentation the way the
+UK/US do. Her warning: if the EU doesn't pass EU Inc, more companies will
+leave the EU entirely — "if they don't do it right, then the reality is
+I will keep sending companies to Delaware. Or even to the UK."
+
+**Meredith Whittaker**, president of messaging app **Signal**, former
+organiser of employee walkouts at Google: reiterated warnings that
+**agentic AI is a threat to user privacy** — decades of built-up privacy
+protections are being dismantled as tech giants race to bake AI agents
+directly into phones/computers, giving them the ability to read and act
+on whatever is on a user's screen, private messages included. "I think a
+pernicious threat that is not being recognised is the integration of AI
+and AI agents into operating systems. It is fucked up what is
+happening." Her advice to European founders: treat the US/Big Tech gap
+as an opportunity rather than a threat — "look at what the Big Tech
+model can't do well. There is still a huge market need for privacy."
+
+**Paul Rippon**, co-founder of both **Monzo and Starling Bank**, now
+building a new digital bank around AI agents, pushed back against the
+conference's generally gloomy mood: "if you go too far with this stuff,
+you'll start saying, let's not do it in Europe, let's just head off to
+the US. What's the benefit in that really?" Talked about coming from
+humble beginnings and not finding success (Monzo) until his 40s — his
+path was "pure persistence rather than any master game plan": "take your
+chances, be adaptable, and just keep going." His central founder advice:
+**ship before you're ready** — "if your product isn't out and you're not
+embarrassed by it, you waited too long." Asked directly about Europe's
+scaleup problem, he didn't dispute the numbers cited by others but
+refused to dwell on them: "don't get pulled down by them... just crack
+on."
+
+## "The New Digital Divide: Sifting AI Fact From Fiction" (Jess Kelly, Tech Talk column)
+**Jess Kelly**, Newstalk's technology correspondent. Core argument:
+every tech revolution creates its own ecosystem of innovators, sceptics,
+opportunists — AI may have created "the greatest concentration of
+self-appointed experts since cryptocurrency, wellness gurus and social
+media consultants." Notes widespread "AI fatigue" among people she's
+spoken to — not fatigue with the technology itself (which she considers
+genuinely transformative), but exhaustion from constantly being told
+about it by "people who discovered it, faffed around with it, and now
+speak with the confidence of someone who personally helped develop it."
+
+**Her core thesis — a new digital divide:** we've spent years talking
+about the divide between those with technology access and those
+without; today's divide is different — "between those who understand AI
+well enough to evaluate claims about it and those who don't." That gap
+creates opportunity for genuine businesses, but also for opportunists,
+since "when we're not entirely sure about something new, confidence
+becomes a substitute for competence."
+
+**On distinguishing genuine expertise from performance (directly
+relevant to Meridian's own credibility positioning):** "businesses need
+advisers who can demonstrate real implementation experience, people who
+understand change management, governance and measurable outcomes. The
+problem is that AI remains sufficiently new and sufficiently confusing
+that genuine expertise is often difficult to distinguish from
+performance. A confident speaker can sound incredibly knowledgeable
+while saying almost nothing." Describes playing "BS bingo" at AI talks
+(watching for buzzwords: disruption, transformation, "paradigm shift").
+Her proposed heuristic: **"absolute certainty should be a red flag"** —
+"the most credible AI practitioners I've encountered tend to be the
+least theatrical. They speak of limitations, the value of
+experimentation, and the realistic downsides too." Closes with advice
+from her early radio career: "don't be afraid to say 'I don't know.' The
+audience will respect your honesty and you won't look like an eejit" —
+framed as equally true of AI experts today, since "there's so much we
+don't know yet, and that's okay."
+
 ## Contents highlights (not read in full, logged for reference)
-"Is Europe Still Failing its Startups?" (report from TechBBQ) —
-thematically adjacent to Cullen's "you can fail more in the US" point
-above; "Digital Transformation Done Right" (Eir, AIB, Irish Life case
+"Digital Transformation Done Right" (Eir, AIB, Irish Life case
 studies); "AI as an Accelerant" (boosting NI tech sector); Jacob
-Lauritzen interview (CTO, Legora, an AI legal-tech firm).
+Lauritzen interview (CTO, Legora, an AI legal-tech firm); "Google Plays
+It Too Safe With the Pixel 11" (Charlie Taylor review — consumer tech,
+no venture tie); DataCentres Ireland 2026 conference programme
+(commercial content, 18-19 Nov, RDS Dublin — general awareness only,
+adjacent to the data-centre infrastructure thread already logged).
 
 ## Cross-reference — relevance to John's ventures
 - **Meridian Intelligence / AI Strategy & Governance domain** — the
@@ -643,6 +761,26 @@ Lauritzen interview (CTO, Legora, an AI legal-tech firm).
   reasonable, if tangential, data point on the funding-culture gap
   already touched on in the Irish infrastructure/REIT piece logged
   earlier.
+- **ODIN/Tairseach/Asterial — TechBBQ/EU Inc, directly relevant.** The
+  EU Inc proposal (an optional 28th company structure) and DigitalEurope's
+  concrete venture-capital gap figures ($133bn EU vs $932bn US VC
+  investment 2016-2024) are directly relevant background to any EU-level
+  fund-structuring or investment conversation ODIN/Tairseach touches,
+  and pair with the private-credit/ILP piece already logged
+  (`market_intel_private_credit_ireland_ogier_sept2026.md`) — Ireland
+  positioning itself as a likely EU Inc front-runner jurisdiction is
+  worth having in mind alongside Asterial's own structuring work.
+- **Meridian Intelligence — Jess Kelly's column, exceptionally high
+  value.** This is arguably the single most directly relevant piece in
+  the whole magazine for Meridian's own market positioning: an
+  independent, named journalist's explicit argument that the market
+  needs "advisers who can demonstrate real implementation experience,
+  people who understand change management, governance and measurable
+  outcomes" as distinct from confident-sounding AI hype-merchants — this
+  is a ready-made, third-party articulation of the exact gap Meridian
+  exists to fill, right down to naming "governance" and "measurable
+  outcomes" as the differentiators. Directly quotable in Meridian's own
+  marketing/positioning material.
 
 No action identified as required beyond the sales-diagnostic
 cross-reference above; logged for reference and possible direct
