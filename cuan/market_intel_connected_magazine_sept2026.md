@@ -281,6 +281,110 @@ development thinking:
   Ask what the prospect is doing about the problem today, what it's
   costing them, and who would need to sign off on fixing it.
 
+## "AI Built to Act, Not Answer" (Jason Walsh) — Large Action Models
+Feature explaining **Large Action Models (LAMs)**, distinguished from
+LLMs by taking actions (API calls, clicking UIs, making purchases) or,
+in the physical/robotics sense, acting in the material world — noting
+the term is used loosely, sometimes for models specifically trained to
+generate actions, sometimes more broadly for any agentic system that
+uses tools/operates software.
+
+**Enterprise/business framing — Creaven, co-founder and COO, Dublin-based
+Jentic** (surname only given in clipping; Jentic's stated focus is
+connecting AI to enterprise needs safely through strict demarcation of
+actions): "the more useful distinction is between AI that answers and AI
+that acts. A support chatbot can tell a customer they're eligible for a
+refund. An action-taking agent can check the account, issue the refund,
+update the CRM and notify finance" — the second system "has real
+authority inside the business, so the consequences of a mistake are very
+different."
+
+**Creaven's core governance framework, directly relevant to Meridian's
+AI Strategy & Governance domain:**
+- "The potential damage is largely determined by the authority the agent
+  has been given. An accounts payable agent that can prepare a payment
+  for human approval has a limited blast radius. Give the same agent
+  unrestricted payment authority and the consequences become much
+  greater. The question becomes less about 'how intelligent is the AI?'
+  and more about 'what is it allowed to do?'"
+- Apply the **same security/compliance techniques to AI actors as to
+  staff** — agentic AI errors, "hitherto at least," often come down to
+  imprecise prompting and a lack of controls, not any real
+  intelligence/morality failure.
+- **Least-privilege principle for agents:** "an agent should receive
+  only the access it needs for the task in front of it... it should have
+  specific permissions across those systems, use secure credentials it
+  never directly sees, operate within company policy and leave a
+  complete audit trail. You don't want an AI agent walking around the
+  business with the digital equivalent of a master key."
+- **Longer-term institutional-knowledge question:** AI accumulates
+  context about processes, relationships, decisions and exceptions over
+  time — this becomes valuable organisational intelligence, but
+  companies need to decide **who controls that intelligence, whether it
+  continues to strengthen the organisation**, which Creaven frames as
+  where "sovereignty becomes practical" — the enterprise should retain
+  control over how AI operates, what authority it has, what context it
+  works with and what it learns through use.
+
+**Physical/robotics side — Niall Dorr, ImageDeep** (computer vision/AI
+physical security specialist, Ireland-founded, now Hong Kong-based).
+Background in AI/computer vision applied to construction-site safety,
+yards, storage areas, car dealerships. Key points:
+- "LAMs deal in a physical world, and depending on application, if a
+  mistake is made the consequences can be high" — autonomous vehicles/
+  robots making incorrect decisions on a live site being protected
+  create cost, insurance and liability exposure "though no one should
+  ever have done that in the first place" (i.e. unsupervised autonomous
+  action shouldn't have been allowed).
+- ImageDeep's backstop: **the final decision is always made by a
+  human** — "the system can detect and flag an error. It does not close
+  the action on its own." Concrete use cases: fixed-site cameras
+  detecting intruders, smokers on site, safety-zone breaches, scaffolding
+  staying in place, tracking dog owners violating estate rules to issue
+  automated €250 fines.
+- Notes robots pre-date AI (industrial robots since the 1970s using
+  simple procedural if/then logic); AI adds flexibility but also
+  non-determinism — "AI output is not guaranteed to be the same twice...
+  that's acceptable for a description. It is not acceptable for
+  dispatching a person or moving a robot." Dorr is personally sceptical
+  of humanoid robots' near-term prospects but notes investment is
+  "pouring into" the category regardless, and cites Uber's autonomous
+  vehicle launch in London (Sept 2026) as evidence LAM applications are
+  becoming more normalised.
+
+**Words vs actions — the legal/liability framing:** when an LLM fails,
+the result is a textual error; a LAM's mistake has real-world
+consequences. Analogy drawn to law: "actus reus" requires an act, not
+just a thought, for liability; likewise fraud is a criminal offence
+while negligent misstatement is a civil matter — the same graduated
+distinction is needed for AI actions vs AI statements. A Chinese
+research paper ("A Survey on Autonomy-Induced Security Risks in Large
+Model-Based Agents," cited) found that as AI progresses to "tool-using,
+self-reflective decision-makers," it introduces "qualitatively new
+vulnerabilities that span memory, planning, tool use, and emergent
+behaviour," with a clear and growing tension between "autonomy,
+controllability, and robustness."
+
+**"Agentic AI Risk-Management Standards Profile"** — a 2026 white paper
+from the **Center for Long-term Cybersecurity, UC Berkeley** — addresses
+AIs that "autonomously pursue goals and take actions with little to no
+human oversight," including interacting with external environments and
+tools. Suggested risk-management tactics: clear role definitions,
+intervention points, escalation pathways, shutdown mechanisms,
+system-level risk assessment, continuous monitoring, and
+post-deployment oversight. Warns that "AI taxonomy is unclear" and
+different jurisdictions take different approaches; "human control and
+accountability are hampered by the increased autonomy and complex
+multi-system behaviour of agentic AI, further complicating the
+attribution of actions and liability."
+
+**Feature's closing synthesis:** whatever LAM ultimately means
+precisely, the consistent advice across every source quoted is to
+**keep a human in the loop, and be precise about what the machine is and
+is not allowed to do without one** — true whether the action is a refund
+or a robot; "neither the boardroom nor the building site seems likely to
+want to remove human decision-making from the loop."
+
 ## Contents highlights (not read in full, logged for reference)
 Interview with Aaron Cullen (founder, Mendelia — Irish AI founder who
 chose the US); "Say Hello to Large Action Models" (AI built to act, not
@@ -337,6 +441,17 @@ Lauritzen interview (CTO, Legora, an AI legal-tech firm).
   should shape decisions, not merely seek acceptance" principle are also
   directly reusable for Golden Generation/Velocity AI executive training
   content on how to roll out AI adoption without destroying staff trust.
+- **Meridian Intelligence (AI Strategy & Governance domain) — "AI Built
+  to Act, Not Answer," equally high value.** Jentic's Creaven gives
+  Meridian a ready-made, board-friendly framework for agentic AI risk:
+  the "answers vs acts" distinction, the least-privilege/blast-radius
+  principle for agent permissions, and the institutional-knowledge/
+  sovereignty question (who controls what an AI agent learns over time).
+  ImageDeep's "human closes the action, AI only flags it" principle is a
+  clean, concrete governance rule directly reusable in client-facing
+  material. The UC Berkeley Agentic AI Risk-Management Standards Profile
+  is a citable academic anchor for Meridian's own governance framework
+  documentation.
 
 No action identified as required beyond the sales-diagnostic
 cross-reference above; logged for reference and possible direct
