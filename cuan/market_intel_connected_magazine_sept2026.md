@@ -4,15 +4,114 @@
 Charlie Taylor, September 2026 issue. REPORTED — editorial and named
 analyst/founder commentary; not independently verified by Cuan.
 
-## Cover story — Meta smart glasses, "cool to creepy"
-Cover feature "Smart Glasses or a Dumb Idea? How Meta's latest tech went
-from cool to creepy," plus "The 'Pervert Glasses' Dilemma — why smart
-glasses are coming under fire" (p.6). Not read in full detail this pass
-— flagged for reference; general consumer-tech privacy backlash theme,
-tangential relevance to Meridian's AI Strategy & Governance domain
-(smart-glasses/wearable-AI privacy scrutiny is part of the same public
-AI-trust conversation already tracked via the Osborne/OpenAI editorial
-and the AI journalism-disclosure piece).
+## Cover story — "The 'Pervert Glasses' Dilemma" (Alex Meehan, p.6)
+Full feature on the privacy backlash against camera-equipped AI smart
+glasses (Meta/Ray-Ban, Samsung prototypes shown at summer Unpacked,
+Apple reportedly preparing a set for next year plus camera-equipped
+AirPods, Dyson's camera-equipped AI toothbrush).
+
+**The core tension, as framed by the piece:** "the wearer chooses to
+put a camera on their face. Everyone else is forced to live with that
+choice. The wearer gets the technology. The company gets the profit.
+Everyone else loses control over when they're recorded and what happens
+to the footage" — quote from **Liz Hunter**, London-based tech founder
+and copywriter, behind the **Stop Smart Glasses** campaign
+(stopsmartglasses.com, with colleague Guy Holder), pushing for
+restrictions on sale of what she calls intrusive surveillance
+technology. Hunter's specific objections:
+- Meta's glasses have a small LED indicator meant to show active
+  filming, but US tech journalist Joanna Stern found a thriving Facebook
+  marketplace ecosystem across 30 US states offering to disable that
+  light for ~$100 — undermining the entire premise of the safeguard.
+- Calls the "if you don't want to be recorded, ask not to be" framing
+  from manufacturers "an absolute mockery of the concept of consent,"
+  particularly given the practical danger of a smaller/vulnerable person
+  confronting a stranger filming them in public.
+- Says the technology has already been used to harass/humiliate people,
+  disproportionately affecting women and young people, and argues social
+  media was allowed to "race ahead of regulation" with poor outcomes —
+  "now it's happening again."
+
+**Counterpoint/nuance from Maria Helen Murphy**, associate professor in
+law at Maynooth University's School of Law and Criminology: privacy
+concerns here are legitimate, not "purely a Zeitgeist issue," but the
+issue is genuinely multi-lensed (privacy, criminal harassment, data
+protection can each give different answers) and echoes past panics
+(same concerns were raised about phone cameras 20 years ago). Flags
+positive/pro-social uses too: smart glasses with cameras for visually
+impaired users, or harmless creator use-cases (hands-free filming while
+cooking) comparable to a GoPro. Suggests a **possible policy answer:
+licensing** — freely available for private/accessibility use, but
+requiring licensing for public-place use, given the genuine difficulty
+of banning the underlying capability outright. Frames the real question
+as "who gets to choose," since always-on cameras/microphones/AI worn by
+people around you may be the point where "opting out becomes
+considerably harder" than with past consumer tech.
+
+**Scale/context cited:** Meta hasn't published official sales figures,
+but industry estimates suggest ~9 million pairs of Ray-Ban Meta glasses
+sold worldwide by end of 2025. Meta has also donated 15,000 pairs to
+Vision Ireland — "enough for every blind and visually impaired adult
+supported by the organisation," illustrating the same device's dual
+use as both an accessibility tool and a surveillance risk. EU
+regulatory intervention already forced Meta to make the recording
+indicator LED more conspicuous after 2021 launch, though campaigners
+say a blinking light remains inadequate consent infrastructure.
+
+## Cybersecurity feature — "Capture the Flag" (Elaine Burke)
+Coverage of the **Women's International Cybersecurity Challenge
+(WICC)**, hosted in Dublin in 2026 as the sister event to the
+**International Cybersecurity Challenge (ICC)** — Dublin will host the
+full ICC in 2027, drawing cybersecurity talent from ~65 countries.
+"Capture the flag" (CTF) format: teams find hidden text strings ("flags")
+by exploiting software vulnerabilities/breaking into systems, sometimes
+also defending their own flags while attacking others — testing both
+offensive and defensive cyber skills. Team composition typically spans
+web exploitation, cryptography, digital forensics, reverse engineering,
+binary exploitation and open-source intelligence.
+
+**Mark Lane**, cybersecurity lecturer at TU Dublin, co-founded the
+**ZeroDays CTF** over a decade ago after finding existing CTF events
+unwelcoming (a "negative environment where simple questions received
+snotty answers"); ZeroDays is now one of the largest in-person CTFs in
+the world, deliberately built around inclusivity, achieving **~40-50%
+female participation** — Lane's steering-committee role on ICC (backed
+by ENISA, the EU's cybersecurity agency) led to Dublin hosting WICC
+ahead of the 2027 ICC.
+
+**Cillian Collins**, the first-ever Irish player to make Team Europe for
+ICC (which won in 2024), helped set WICC's challenges — notably using
+**AI to help build the vulnerable websites/false-data traps** teams
+have to "steal" from (e.g. AI-generated sites with planted false credit
+card numbers and introduced vulnerabilities). Crucially, **AI is banned
+for the competitors themselves** at WICC (all but one internally-run AI
+model prohibited) specifically to keep the contest about genuine skill
+rather than "who has the deepest pockets" for AI tooling; some CTF
+contests separately cap cloud spend to preserve a level playing field.
+Volunteer "watchdogs" in lime-green shirts patrol specifically to police
+AI use among competitors.
+
+**Jessica Gulick**, WICC/ICC steering committee member and commissioner
+of the US Cyber Team: "it's a weird time for AI and cyber right now,
+because it's a love-hate relationship" — AI helps cyber teams scale and
+operate at speed, but is "also perceived as a crutch"; when recruiting
+team members, organisers deliberately don't evaluate AI skills, only
+genuine cyber skills. On the gender gap: compares it to historical
+under-representation of women in sport, believes women-only pathways
+(mirroring decades of women's sport development) can shift the balance,
+and notes "women recruit other women" through direct outreach within
+their professional networks.
+
+**Christina Thorpe**, head of cybersecurity at TU Dublin: acknowledges
+the current gender imbalance feeds a recruiting problem for
+companies ("we wouldn't have the same number of graduates who are women
+as we would who are men, so that can be tricky for companies to
+recruit" — though notes female graduates get jobs "just as quickly" as
+male ones); TU Dublin's current first-year cybersecurity class is
+~25% women. Believes early-stage intervention matters most, tackling
+"young girls being conditioned to believe that tech is not for them,"
+and sees gamified formats like CTFs as an effective route in ("people
+embrace learning through games").
 
 ## Editor's Note — "If the AI bubble bursts, Ireland will feel it" (Charlie Taylor)
 **Gartner forecast, cited via analysts John-David Lovelock and Ben Lee:**
@@ -124,6 +223,20 @@ Lauritzen interview (CTO, Legora, an AI legal-tech firm).
 - **AI Adoption in Ireland prospecting** — Digital Transformation Done
   Right (Eir/AIB/Irish Life) and the Mendelia/Legora interviews are
   worth a closer read later for named case studies/reference points.
+- **Meridian Intelligence (AI Strategy & Governance domain)** — the
+  "Pervert Glasses" feature is directly usable: a real, current, named
+  campaign (Stop Smart Glasses) plus a Maynooth law academic's balanced
+  framing of the AI/privacy/consent tension, with a concrete proposed
+  policy answer (licensing by context: private/accessibility use vs
+  public-place use) — pairs well with the Osborne/OpenAI editorial and
+  the AI journalism-disclosure piece already logged as part of a
+  developing governance-thesis dossier.
+- **Golden Generation / Velocity AI training** — the WICC/ICC
+  cybersecurity feature's "AI banned for competitors, used only by
+  challenge-setters" rule is a sharp, concrete illustration of where AI
+  assistance is legitimate vs where it undermines genuine skill
+  assessment — a reusable framing device for AI-literacy/governance
+  training content on where AI use is and isn't appropriate.
 
 No action identified as required beyond the sales-diagnostic
 cross-reference above; logged for reference and possible direct
