@@ -385,6 +385,112 @@ is not allowed to do without one** — true whether the action is a refund
 or a robot; "neither the boardroom nor the building site seems likely to
 want to remove human decision-making from the loop."
 
+## "Open-Weight AI is Having a Moment and Here's Why It Matters" (Elaine Burke)
+Feature on the open-weight AI race between US and Chinese developers.
+**Paul Ferguson, founder, Clearlead AI Consulting.**
+
+**Background/timeline:** DeepSeek's January 2025 breakthrough (matching
+US performance despite US export controls restricting Chinese access to
+top-tier GPUs) proved "people wrong" with novel efficiency techniques.
+July 2026: Moonshot AI (China) released **Kimi K3**, an open-weight
+model with benchmarks comparable to top OpenAI/Anthropic models; Apple
+deemed Alibaba's **Qwen 3** capable enough to underpin its AI systems for
+Chinese users; China's Z.ai released **GLM-5.2** (open-source, strong in
+agentic AI operations and cybersecurity). China also pursuing "chip
+sovereignty" — **LongCat-2.0**, a 1.6-trillion-parameter model, was the
+first trained fully on Chinese-made chips (June 2026), trailing top
+frontier models but still among the top models at the time; reports of
+speciality AI-processing chip mass production in China are suspected to
+have contributed to a sentiment-driven US chip stock sell-off that wiped
+$1 trillion from the market in late July 2026.
+
+**What "open-weight" means:** a model with publicly released parameters
+(not fully open source, since a model is more than its parameters), but
+giving developers visibility into the weights that determine how inputs
+affect outputs, and often the ability to fine-tune for a specific
+purpose — contrasted with proprietary models (OpenAI, Anthropic) which
+users cannot modify or self-host.
+
+**Why US businesses are turning to Chinese open-weight models —
+Ferguson's framing:** flexibility is the core advantage — self-hosting
+for security/compliance reasons, or fine-tuning for a specific use case.
+**Case study: Harvey (legal AI startup, valued at $16.5bn), built "Tenet"
+by fine-tuning Kimi K3** on synthetic legal case files, contracts and
+mock negotiations, "removing Harvey's reliance on other closed models" —
+notable because Harvey is backed in part by OpenAI's fund and originally
+used OpenAI models, yet bypassed its own investors' models to build its
+first proprietary model on a Chinese open-weight base. Ferguson: "If it
+chose to do that, despite what must have been huge outside pressure, it
+tells me clearly that these models are worth investigating." Smaller
+companies without Harvey's resources can still benefit since open models
+are typically available in smaller sizes or can be reduced via
+quantisation/distillation. Alibaba's Qwen models are cited as
+particularly lightweight, runnable locally on consumer laptops —
+beneficial for Alibaba since it provides the model without needing to
+host the costly compute itself.
+
+**Benchmarking advice — Ferguson:** take time to benchmark tasks across a
+range of open and closed models to properly evaluate trade-offs, not
+just raw performance — "it can be very useful to assess not just the
+model performance, but also see the trade-offs with other important
+factors, like cost and speed in particular... open-weight models are not
+always the cheapest, even if they appear to have a low token cost. The
+number [of tokens] used as part of a given task can vary significantly
+depending on the model (particularly with 'thinking' models)" — only
+experimentation/testing on your own use case reveals genuine best value.
+
+**Ownership and control — the US pushback:** Anthropic has accused three
+Chinese labs of running "industrial-scale distillation attacks" against
+Claude, alleging they used Claude outputs to refine their own models; US
+Treasury Secretary Scott Bessent has suggested this could justify Trump
+administration sanctions. Anthropic/OpenAI also argue Chinese-made
+models pose security risks if embedded in US tech infrastructure.
+**Ferguson's counter-argument, directly relevant to Meridian's own
+governance positioning:** security risk is not more prevalent in open
+models generally — "the reality is that open models can be easier to
+inspect and audit, which contradicts the narrative that 'closed is
+safer because we can monitor it.'" Cites two real-world incidents
+undermining the "closed is safer" narrative:
+1. A hack of developer-community platform **Hugging Face** was only
+   discovered after Hugging Face used an *open-weight* model
+   (Z.ai's GLM-5.2, run internally with no limitations) to forensically
+   analyse the attack — proprietary models' own safety constraints
+   (designed to restrain bad actors) had hampered Hugging Face's own
+   cybersecurity defence by preventing thorough analysis of attack-command
+   logs.
+2. In June 2026, the **US government forced Anthropic to restrict
+   non-US access to its latest models, Mythos 5 and Fable 5**, citing
+   national security concerns — Ferguson: "this clearly demonstrates our
+   vulnerability here in Ireland (and the rest of the EU)... if access
+   was blocked based on a decision of a government in a different
+   country, then we are in a very exposed position." Direct advice: any
+   organisation deploying AI at scale should "start to investigate
+   other" options, since some open-weight models offer "a legitimate way
+   to take more ownership."
+
+**Licensing caveat:** not all open-weight models are equally open —
+"fully open" licences (Apache 2.0, MIT — DeepSeek and Mistral cited) let
+you use/modify freely, while others (Meta's Llama models) impose
+"community licenses" with usage caps/exclusions; Ferguson advises all
+adopters look closely at licence terms.
+
+**"Sovereign AI" angle:** France's **Mistral AI** is named as the EU's
+"most credible competition" to US AI firms and "the closest thing we
+have to a 'sovereign' AI" — produces models lightweight enough to run on
+a laptop/phone alongside larger industrial-server models, all released
+under open-source licences. Ferguson notes Mistral hasn't challenged
+top-tier benchmark performance, but its value comes more from
+flexibility and sovereignty than raw capability.
+
+**Industry lobbying context:** 25 tech companies (Nvidia, Microsoft,
+Meta, Palantir named; Anthropic and OpenAI notably absent) published an
+open letter warning policymakers against restricting open-weight AI
+models, arguing it would "stifle competition." Separately, the "Little
+Tech Association" (200+ companies, positioned as a counterweight to the
+Big Tech lobby) wrote to the Trump administration arguing that cutting
+US startups off from Chinese open-weight models would weaken the US
+tech sector.
+
 ## Contents highlights (not read in full, logged for reference)
 Interview with Aaron Cullen (founder, Mendelia — Irish AI founder who
 chose the US); "Say Hello to Large Action Models" (AI built to act, not
@@ -452,6 +558,21 @@ Lauritzen interview (CTO, Legora, an AI legal-tech firm).
   material. The UC Berkeley Agentic AI Risk-Management Standards Profile
   is a citable academic anchor for Meridian's own governance framework
   documentation.
+- **Meridian Intelligence (AI Strategy & Governance domain) — "Open-
+  Weight AI," also directly usable.** Paul Ferguson's "closed is safer"
+  counter-narrative (open models can be easier to inspect/audit) plus
+  the two concrete incidents (Hugging Face's own safety constraints
+  hampering its cybersecurity response; the US government forcing
+  Anthropic to cut non-US access to Mythos 5/Fable 5) give Meridian a
+  strong, current argument for **digital sovereignty/vendor-concentration
+  risk** specifically relevant to Irish/EU clients — directly reinforces
+  the "don't assume closed/proprietary is automatically the safe
+  choice" governance message, and is a fresh EU-exposure angle not yet
+  covered in the AI-governance material logged elsewhere this session.
+  The Harvey/Tenet case study (a $16.5bn AI startup bypassing its own
+  OpenAI backing to fine-tune a Chinese open-weight model) is also a
+  strong, named, high-stakes illustrative example for training content
+  on evaluating AI vendor choice on merit rather than brand loyalty.
 
 No action identified as required beyond the sales-diagnostic
 cross-reference above; logged for reference and possible direct
