@@ -491,12 +491,71 @@ Big Tech lobby) wrote to the Trump administration arguing that cutting
 US startups off from Chinese open-weight models would weaken the US
 tech sector.
 
+## "You Can Fail More" — Aaron Cullen, Mendelia (Alice O'Leary)
+**Aaron Cullen**, Dublin native, chief executive and co-founder of
+**Mendelia** (named after 19th-century Austrian biologist Gregor
+Mendel), an AI healthcare startup building AI agents to automate
+administrative tasks for US surgical clinics — chose to build in the US
+rather than Ireland.
+
+**Background:** moved to the US at 18 to study economics at Yale
+("going through secondary school in Ireland, no one around me was
+really that interested in startups... going to college in the US, there
+was a tonne of people interested"). After graduating, joined healthcare
+AI startup Brillium (reviews clinical documentation) as one of its
+first ~5-6 employees, where he met future co-founder **Jaylem Brar**
+(New York-based); both left Brillium last November to found Mendelia.
+
+**Founding process:** spent the first two weeks going around San
+Francisco "delivering doughnuts, asking anyone that would chat with us
+about how their operations work in the back end" — some clinics let
+them sit at the front desk/back office to observe workflows directly,
+identifying manual, tedious work slowing down clinic operations. Landed
+on **prior authorisation** as the core problem: in the US, insurance
+companies (not the doctor) must approve surgery/expensive medication
+before it proceeds; doctors submit orders, then admin staff gather
+clinical documentation and justify medical necessity to insurers across
+~1,000 different portals — "a bit of a nightmare for them." Mendelia's
+AI agents gather documentation and submit to those portals automatically
+the moment an order is submitted.
+
+**Funding/culture — "you can fail more" thesis:** secured a $500,000
+(€440,000) investment from Y Combinator, which Cullen says was a
+"surprisingly fast process" — a two-minute video application, a
+10-minute interview, then a call from the partner **six or seven hours
+later** confirming the half-million investment; the whole process gave
+them the ability to leave their jobs within two weeks and start the
+company. Cullen: "I don't know if anything like that's happening in
+Ireland, but it gave us the ability to leave our jobs within two weeks
+and just set off and start this company." Also cites the scale of US
+risk capital as "pretty significant compared to Europe, from what I've
+heard." Core cultural argument: "you can definitely fail more in the US
+with startups, especially in San Francisco... there's a lot of leeway
+for just failing and then starting again, which I think is important."
+
+**No immediate plans to shift focus to Europe:** "the system in the US
+is just so unique compared to the rest of the world... Europe could be
+in the future but for now, I'm definitely focused on the US." Aiming to
+secure an **O-1 visa** ("extraordinary ability or achievement" in
+sciences/arts/business) to return to the US and continue building.
+
+**Traction/scale:** already works with 100+ doctors and surgeons ahead
+of its public launch. **Longer-term plan, directly relevant to the
+succession/institutional-knowledge theme already tracked in Cuan's own
+files:** "the plan, longer term, is just to build as many AI employees
+as possible to automate the back office of these clinics... there's a
+huge retirement gap, and they're trying to automate as much as possible
+because there's so much institutional knowledge and they're fearful
+when all these people retire, that they won't be able to run their
+practices any more. Our job is to automate everything from billing the
+insurance companies to automating the medical scribes, and that's all
+we're going to do for surgical practices going forward."
+
 ## Contents highlights (not read in full, logged for reference)
-Interview with Aaron Cullen (founder, Mendelia — Irish AI founder who
-chose the US); "Say Hello to Large Action Models" (AI built to act, not
-just answer); "Is Europe Still Failing its Startups?" (report from
-TechBBQ); "Digital Transformation Done Right" (Eir, AIB, Irish Life
-case studies); "AI as an Accelerant" (boosting NI tech sector); Jacob
+"Is Europe Still Failing its Startups?" (report from TechBBQ) —
+thematically adjacent to Cullen's "you can fail more in the US" point
+above; "Digital Transformation Done Right" (Eir, AIB, Irish Life case
+studies); "AI as an Accelerant" (boosting NI tech sector); Jacob
 Lauritzen interview (CTO, Legora, an AI legal-tech firm).
 
 ## Cross-reference — relevance to John's ventures
@@ -573,6 +632,17 @@ Lauritzen interview (CTO, Legora, an AI legal-tech firm).
   OpenAI backing to fine-tune a Chinese open-weight model) is also a
   strong, named, high-stakes illustrative example for training content
   on evaluating AI vendor choice on merit rather than brand loyalty.
+- **Golden Generation / The Long Memory** — Aaron Cullen's Mendelia
+  interview is a striking, independently sourced, real-world validation
+  of exactly the thesis behind The Long Memory: a named AI startup
+  (100+ doctors/surgeons already served) explicitly built around the
+  fear that retiring practitioners will take irreplaceable institutional
+  knowledge with them, automating around that retirement gap. Directly
+  quotable case study for The Long Memory's own positioning material.
+  His "you can fail more in the US" culture argument is also a
+  reasonable, if tangential, data point on the funding-culture gap
+  already touched on in the Irish infrastructure/REIT piece logged
+  earlier.
 
 No action identified as required beyond the sales-diagnostic
 cross-reference above; logged for reference and possible direct
