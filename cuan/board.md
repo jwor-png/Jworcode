@@ -48,7 +48,11 @@ Archbishop Eamon Martin → the Vatican's office — **an invitation to
 travel to meet the Pope or his representatives is expected, not yet
 received.** Draft letter to the Vatican (2 Sept) not yet sent. Working
 group: John, Shane, Andrew Sharkey, Mike Molloy, via
-WhatsApp. Full detail now in its own file: `childen.md`.
+WhatsApp. **Tuesday 29 Sept, Maynooth:** John and Shane meeting AI
+Minister Niamh Smyth TD at the Pope Leo AI encyclical conference — worth
+a clear line prepared beforehand on where Childen sits relative to her
+public trust/regulation stance (see `childen.md` for prep detail).
+Full detail now in its own file: `childen.md`.
 ⚪ **Other tech-for-sale/investment candidates** — flagged as existing but
 not yet itemised; John to name them so they can be tracked individually.
 🟢 **Asterial Limited** — the vehicle capturing Shane's personal ODIN IP
