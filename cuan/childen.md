@@ -1767,3 +1767,57 @@ to actually ask for at this stage, and what figure, if any, to give if
 pressed) rather than something Cuan can reasonably draft from existing
 material. Recommend resolving these two explicitly on tonight's calls
 before anything else.
+
+## John's personal conduct one-pager, 28 Sept 2026 (drafted by Cuan at John's request)
+
+John asked for a one-page personal reminder of his own conduct/role for
+Tuesday, given his positioning as Strategic Adviser (Noesis), his desire
+to stay clear of technical territory while being strong on governance/
+"AI-driven, human-led" ground, and the unresolved uncertainty over the
+conference's actual agenda/timing. Full text below, drawn entirely from
+material already logged in this file (Shane's private briefing,
+Question 2 of the Executive Responses, and John's own stated success
+criteria):
+
+---
+
+**Role:** Strategic Adviser, Noesis. Supporting Shane, not speaking for
+Childen's architecture. Attends on behalf of Noesis — not Asterial, not
+ODIN.
+
+**Job in the room:** listen closely; ask useful, relevant questions; help
+clarify priorities/expectations/how a relationship could develop; help
+capture commitments and next steps as they're said; bring his own
+judgement and professional experience without needing to speak as
+someone who built Childen or knows its architecture in depth; watch
+body language/tone/engagement/hesitation for private discussion with
+Shane afterward — observations to explore, not proof of intent.
+
+**Hard lines:** technical questions and delivery claims stay with Shane
+— no speculation, no filling gaps, no explaining architecture. Defer
+directly: "Shane is best placed to answer that." If Shane corrects
+something in the room, let it stand — raise it with him privately
+afterward. No commitments on scope, pricing, ownership, exclusivity, IP
+access, appointments or dates. Never imply any appointment, transaction
+or partnership with the Church/Vatican has already been agreed — the
+meeting is exploratory.
+
+**Where John can be strong:** "AI-driven, human-led" is Shane's own
+guiding principle and genuine territory for John — governance, human
+oversight, accountability, what technology should and shouldn't be
+trusted to do alone. A judgement/values position, not an engineering
+one. John's own professional experience (governance, strategic
+relationships, organisational judgement) is what the room should see
+from him.
+
+**Given the unknown agenda/timing:** treat the "three anchors that must
+survive" (item 13 above) as the fixed point regardless of format —
+whether it's a 5-minute corridor conversation or a formal 20-minute
+meeting, the same three things need to land. Stay adaptable; the
+boundaries above don't change with format.
+
+**John's own success measure, separate from Shane's:** a genuinely
+positive, respected engagement with the Minister and her
+representatives — being known to her and to Emma Redmond/OpenAI Ireland
+by the end of the day, regardless of how the Church conversation itself
+lands.
