@@ -251,6 +251,31 @@ alongside:
   already set in John's own private briefing above (John defers
   technical/commitment questions to Shane).
 
+**Refinement received on items 11-13, 28 Sept 2026** (from John, sharpening
+Shane's original checklist):
+- **Item 11 ("what success looks like") should be kept explicitly
+  separate from item 10 ("the ask").** At the end of the 15-20 minutes:
+  what should the Church side think, feel, and do next? Concrete range
+  offered: could be an invitation to Rome to present to the Pope and
+  senior team, a second conversation specifically on Childen, or
+  exploring the advisory relationship. Shane should know internally what
+  success means even if it's never stated explicitly in the room.
+- **Item 12 (questions to ask them) reframed around item 2's core
+  point — that partnership is two-way.** The brief already covers
+  questions the Church side might ask Shane extensively; the missing
+  half is two or three genuinely good questions Shane wants answered
+  about how the Church sees AI, what it's trying to achieve, what
+  worries it, and what it believes this relationship could become —
+  explicitly **not performative questions**, but ones where the answer
+  actually matters to Shane.
+- **Item 13 (the internal map) distinguished from item 3 (three core
+  messages).** Not a script — Shane would sound worse scripted. Instead:
+  know the three things that must survive even if the conversation is
+  shortened, interrupted, or goes somewhere unexpected. Framed as: "if I
+  walk out having communicated only three things about Shane, his
+  thinking, and what could happen next, what are they?" Everything else
+  can move around those three anchors.
+
 **Prep material — Irish Mail on Sunday, Valerie Hanley, 27 Sept 2026**
 (REPORTED, named-minister quotes; not independently verified by Cuan),
 directly relevant to that meeting:
