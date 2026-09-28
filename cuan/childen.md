@@ -111,6 +111,62 @@ car park to the left just inside the main gate. Conference concludes at
 **1:00pm**, all guests invited to lunch in **Pugin Hall**, beside
 Renehan Hall.
 
+**John's role at Tuesday's meeting, confirmed via a private briefing
+document from Shane ("NOESIS | John Webb O'Rourke | Private briefing,"
+Tuesday 29 Sept 2026), received 28 Sept 2026:**
+
+- **John attends as Strategic Adviser, Noesis** — "Noesis" is a holding
+  company name **new to Cuan's files, not previously logged anywhere**
+  — representing the holding company and supporting Shane in the
+  discussion. Explicitly framed as "a clear, credible capacity without
+  assigning a board position or executive responsibility that has not
+  been formalised."
+- **Roles in the room:** Shane McCarthy is Childen's architect, leading
+  discussion of its design, purpose and potential relationship with the
+  Church. John supports on strategic relationships, organisational
+  considerations, and how a potential collaboration could develop.
+- **SanCelvio confirmed as the intended home of Childen and prospective
+  contracting entity**, subject to Shane finalising that structure —
+  this directly resolves part of the open question logged 27 Sept about
+  what Sancelvio Limited actually is (see `ventures_dossier.md`,
+  Asterial Limited section, Company Secretary role across Shane's
+  companies). **John attends Tuesday on behalf of Noesis specifically —
+  he is not representing Asterial or ODIN at this meeting.**
+- **John's contribution:** listen, ask useful questions, contribute to
+  the partnership discussion, help capture commitments and next steps.
+  Explicitly told he can use his own judgement "without needing to speak
+  as someone who built Childen or knows every part of its architecture."
+  Also asked to observe body language/tone/engagement/hesitation for
+  private discussion with Shane afterwards — "observations to explore,
+  rather than proof of what someone thinks or intends."
+- **Hard boundary — technical authority stays with Shane.** John must
+  not speculate, fill gaps in his own knowledge, or present assumptions
+  as fact about Childen, ODIN, the architecture or the wider estate. If
+  a question falls outside his agreed remit: **"Shane is best placed to
+  answer that."** If an incorrect/unsupported statement is made in the
+  room, Shane corrects it immediately — John lets that stand and raises
+  further questions with Shane privately afterwards, not in the room.
+- **Hard boundary — no commitments.** John must not commit Shane or any
+  company to scope, delivery dates, pricing, ownership, exclusivity, IP
+  access, or future appointments — any proposed commitment goes back to
+  Shane for confirmation. **John must not imply that an advisory
+  appointment, transaction or partnership with the Pope, the Vatican or
+  the Church has been agreed** — the meeting is explicitly exploratory,
+  part of assessing a potential relationship, not a done deal.
+- **Prep task flagged, not yet actioned:** the briefing tells John to
+  read "the executive responses and the supporting answers, with
+  particular attention to Questions 2 and 3" before Tuesday. **These
+  documents have not been shared with Cuan yet** — John said more
+  material from Shane is coming later this morning, ahead of calls with
+  Shane tonight to prepare. Flag: find out what "the executive
+  responses" document actually is before Tuesday, since the briefing
+  assumes John already has it.
+- **Debrief plan, post-meeting:** John and Shane will review questions
+  asked, stated priorities, commitments, next steps and interpersonal
+  observations together — John to distinguish clearly what was
+  explicitly said/agreed from his own interpretation, and flag anything
+  needing Shane's confirmation.
+
 **Prep material — Irish Mail on Sunday, Valerie Hanley, 27 Sept 2026**
 (REPORTED, named-minister quotes; not independently verified by Cuan),
 directly relevant to that meeting:

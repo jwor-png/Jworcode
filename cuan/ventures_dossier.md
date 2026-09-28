@@ -487,6 +487,16 @@ Open items, none yet resolved:
    Asterial (confirmed), Zubelsala and Sancelvio (B10s signed, role
    inferred) are on record. Worth John providing the complete list so
    Cuan can track each entity individually rather than piecemeal.
+   **Partial resolution, 28 Sept:** per Shane's private briefing for the
+   29 Sept Maynooth meeting (see `childen.md`), **SanCelvio is confirmed
+   as the intended home of Childen and prospective contracting entity**,
+   subject to Shane finalising that structure — this is the first
+   confirmed purpose for any of the three companies beyond the bare B10
+   filing. Also newly named in that briefing: **"Noesis,"** a holding
+   company not previously logged anywhere in Cuan's files, under which
+   John attends the 29 Sept meeting as **Strategic Adviser** — worth
+   establishing how Noesis relates to Asterial/Zubelsala/Sancelvio and
+   whether it's a fourth entity or an umbrella structure.
 
 **Legal/tax adviser assessment for ODIN holdco structuring, 3 Sept.**
 Two pieces of work: (1) ODIN's group structure ahead of the €20m raise,
