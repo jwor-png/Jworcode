@@ -1448,6 +1448,36 @@ one, and they are not a parent/subsidiary structure:
    than "an unrelated third party with a recovery against it," worth
    bearing in mind for the AHL recovery conversation.
 
+   **Major finding, 28 Sept 2026, from Schedule 4 (Share Capital) of the
+   same Corporate Certificate — directly confirms and explains AHL's
+   own balance sheet line already tracked elsewhere in this file
+   ("Investment in UHL: €3,250,000, unchanged").** UHL's issued share
+   capital is 130 "A" Ordinary Shares of €20,000 each and 6,500,000 "B"
+   Ordinary Shares of €1 each. **National Hardware DAC and Associated
+   Hardware plc each subscribed €3.25 million for 3.25 million "B"
+   Ordinary Shares of €1 each — an exactly equal stake, held by both
+   companies.** This is not a minor historical footnote — it confirms
+   AHL's €3.25m UHL shareholding is real, substantial, structured as a
+   "B" share subscription, and **matched euro-for-euro by National
+   Hardware DAC**, which now emerges as AHL's direct equity counterpart
+   in UHL, not merely a co-founder with board rights. Worth reassessing
+   the earlier framing of National Hardware as a peripheral recovery
+   target — it appears to be AHL's structural equal in UHL's capital
+   base. (Note: "B" Ordinary Shares carry no voting rights and no
+   dividend entitlement per the Articles already logged — so this is a
+   large capital stake without board control attached via the B shares
+   themselves; board influence came separately via the now-expired
+   Article 58(b) appointment right.) Also noted in the same schedule
+   set: the DPA Amendment increases UHL's invoice financing Maximum
+   Finance from €10,500,000 to €12,750,000 — the actual figure behind
+   the Corporate Certificate already summarised for Wednesday's meeting.
+   **Both Schedule 2 (directors) and Schedule 4 (share capital) carry an
+   "AC Note: Borrower counsel to confirm details" caveat** — meaning
+   these figures were not yet independently confirmed by the borrower's
+   own solicitors at the time of drafting; worth treating as highly
+   likely accurate but not 100% certified until that confirmation is
+   in.
+
 **The DAC question (this session was named for it, still open):**
 nothing in Cuan's records shows any group entity as a Designated
 Activity Company. Best current reading: a conversion of Associated
