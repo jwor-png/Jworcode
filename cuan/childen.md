@@ -1676,13 +1676,11 @@ without needing the document in hand.
 
 **Attendee list, per John, beyond Archbishop Martin and Minister Niamh
 Smyth already logged:**
-- **The Chief Executive of OpenAI** is expected to attend — **UNVERIFIED
-  by Cuan**, worth confirming who exactly (Sam Altman, or another named
-  OpenAI executive) since the earlier logistics thread named **Emma
-  Redmond, Head of OpenAI Ireland** as the confirmed panellist, not the
-  global CEO — these may be the same underlying detail restated loosely,
-  or two different people. Worth clarifying before Tuesday which is
-  correct.
+- **Confirmed, corrected by John:** the OpenAI attendee is **Emma
+  Redmond, Head of OpenAI Ireland** (not the global CEO — John's earlier
+  "Chief Executive of OpenAI" reference was a slip, corrected same day).
+  Consistent with the panellist already logged from the original
+  invitation thread.
 - **Members of the Irish AI Advisory Council** are expected to be
   present, per John's own expectation — **not yet confirmed by name**,
   flagged as likely rather than certain.
