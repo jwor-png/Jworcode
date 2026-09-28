@@ -1427,6 +1427,27 @@ one, and they are not a parent/subsidiary structure:
    and the specific nature and amount of the AHL recovery against it.
    [ASK — narrower question now, not starting from zero]
 
+   **Further resolved, 28 Sept 2026, via UHL's Articles of Association
+   (same Schedule 1 attachment, adopted by special resolution 8 Sept
+   2022):** Article 58(b) confirms that, up to the first AGM held two
+   years after adoption of the Articles, **Associated Hardware PLC and
+   National Hardware DAC each held the right to appoint up to 4
+   directors to UHL's Board**, each such appointee constituting a
+   Non-Executive Shareholder Director. Article 63(a) further confirms
+   one director appointed by AHL and one appointed by National Hardware
+   DAC were due to retire/offer themselves for re-election at that first
+   AGM. **Note the company is now referred to as "National Hardware
+   DAC," not "National Hardware Limited"** as shown on the 2009
+   Memorandum — implies a status conversion to Designated Activity
+   Company at some point, consistent with AHL's own DAC-conversion
+   question already tracked in this file, though not confirmed whether
+   National Hardware's conversion is connected to or separate from
+   AHL's own DAC question. This confirms National Hardware was not just
+   a founding shareholder but had genuine board-level governance
+   influence over UHL historically — a materially closer relationship
+   than "an unrelated third party with a recovery against it," worth
+   bearing in mind for the AHL recovery conversation.
+
 **The DAC question (this session was named for it, still open):**
 nothing in Cuan's records shows any group entity as a Designated
 Activity Company. Best current reading: a conversion of Associated
