@@ -167,6 +167,90 @@ Tuesday 29 Sept 2026), received 28 Sept 2026:**
   explicitly said/agreed from his own interpretation, and flag anything
   needing Shane's confirmation.
 
+**Shane's own 17-point prep checklist, "Vatican Meeting Preparation |
+Monday," shared with John 28 Sept 2026.** Written in Shane's own voice
+(first-person references to "my own architecture," "my work") — this is
+Shane's personal prep framework for the conference and the 15-20 minute
+private meeting, not John's, but sets the structure John should prepare
+alongside:
+
+1. **Public position on Magnifica Humanitas** — what Shane is comfortable
+   saying publicly at the conference vs keeping private, and boundaries
+   around discussing his own architecture/research/IP in a room
+   containing other AI companies and competing LLMs.
+2. **Private position on AI** — what Shane wants to say in the private
+   15-20 minute meeting on where AI genuinely is, where hype exceeds
+   reality, his concerns, what's coming, and where the Church should be
+   paying attention — measured, not a demonstration of everything he
+   knows.
+3. **Three core messages** — the three things Shane wants remembered
+   about him, his thinking and his work after the meeting.
+4. **Childen inside out** — refresh the complete architecture,
+   principles, infrastructure pathway, immediate capabilities,
+   governance, human oversight, and reasoning behind major design
+   decisions.
+5. **Childen defensibility** — ready to explain how the architecture has
+   been tested/interrogated against the latest frontier models, findings,
+   what's since been strengthened, and why Shane believes it's
+   defensible.
+6. **Childen number** — decide what figure to give if directly asked
+   what Childen is worth, what it would cost, or what a transaction
+   around the architecture looks like. **Not yet decided per this
+   document — a live open question for tonight's call.**
+7. **Three to five core Childen/Magnifica Humanitas alignments** — known
+   without needing documents in hand, substantive but not a sales pitch.
+8. **Frustrations with AI** — what frustrates Shane building at the
+   frontier, why, and what needs to change.
+9. **Concerns about AI** — kept distinct from frustrations: what
+   genuinely concerns him about where AI is going, what's being built,
+   how it's governed, and where humans could lose agency/control.
+10. **The ask** — what, if anything, is actually being asked of the
+    Church/Vatican at this stage, articulated simply. **Not yet decided
+    per this document.**
+11. **What success tomorrow means** — Shane's internal definition of a
+    successful outcome and his ideal next step, without forcing it in
+    the room.
+12. **Questions to ask them** — two or three genuine questions Shane
+    cares about the answers to: how the Church sees AI, what it needs,
+    what concerns it, how it envisages collaboration.
+13. **15-20 minute internal map** — a simple mental structure (not a
+    script) for the private meeting, including what must survive if the
+    meeting is shortened, interrupted, or goes off in an unexpected
+    direction.
+14. **Three social-good projects ready to demonstrate** — endometriosis
+    and dementia confirmed ready; deciding between neurodivergence and
+    older-people/AI work for the third. Intends to have three ready even
+    if only one gets shown, depending on how the conversation goes.
+15. **Recent Pope/Church positioning** — consolidate what Shane has read/
+    watched from the Pope and Church over the last 7-10 days, including
+    **the UNESCO address** (not previously logged — worth Cuan sourcing
+    if possible), so context isn't limited to Magnifica Humanitas alone.
+16. **Likely questions and answers** — working through difficult
+    questions the Church side could reasonably ask about Childen, ODIN,
+    AI, governance, commercial interests, partnership, independence,
+    responsibility and Shane's own motivations.
+17. **Two-page discussion paper** — print **seven properly finished and
+    stapled copies** of a document titled **"Talents Entrusted to
+    Humanity"** (title new to Cuan's files — not previously logged).
+    Physical, traditional, professional presentation — explicitly "no
+    lamination."
+
+**Open items flagged from this checklist:**
+- Item 6 (the number) and item 10 (the ask) are both explicitly
+  undecided as of this document — live discussion points for tonight's
+  calls with Shane.
+- **"Talents Entrusted to Humanity"** (item 17) has not been seen by
+  Cuan — worth getting a copy once printed/finalised, since it's the
+  physical leave-behind for the meeting.
+- The **UNESCO address** referenced in item 15 hasn't been sourced yet —
+  flag if John wants Cuan to search for it once details (date/speaker)
+  are available.
+- This 17-point framework is written as Shane's own prep, but items 4,
+  6, 7, 9 and 16 all assume Shane is the one answering technical/
+  commercial questions in the room — consistent with the boundary
+  already set in John's own private briefing above (John defers
+  technical/commitment questions to Shane).
+
 **Prep material — Irish Mail on Sunday, Valerie Hanley, 27 Sept 2026**
 (REPORTED, named-minister quotes; not independently verified by Cuan),
 directly relevant to that meeting:
