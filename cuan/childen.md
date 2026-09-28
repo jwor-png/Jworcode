@@ -1304,3 +1304,112 @@ risk the two being conflated.
 **REPORTED** — sourced from a physical newspaper clipping (Irish
 Independent), not independently re-verified against Blackout
 Education's own materials or LWETB.
+
+## "Talents Entrusted to Humanity" — the physical discussion paper (received 28 Sept 2026)
+
+This is the document flagged as item 17 on Shane's prep checklist above
+— **the two-page discussion paper to be printed as 7 stapled copies for
+Tuesday's meeting.** Authored solely by Shane McCarthy, dated September
+2026, signed "Yours in faith, Shane McCarthy." Full text logged below
+since it's the physical leave-behind for the Church/Vatican side.
+
+**Title and framing quote:** "Talents Entrusted to Humanity — Should the
+world's leading institutions have language models of their own?"
+Opens with a quote from Pope Leo XIV, Magnifica Humanitas §9:
+"Scientific discoveries are talents entrusted to humanity so that they
+may bear fruit."
+
+**Core question posed:** whether institutions that matter most —
+governments, universities, hospitals, and the Church — should have
+language models of their own, given AI is becoming the mechanism by
+which institutions read, write, translate, remember and decide, and
+whoever holds the model shapes all of that.
+
+**"The shift is already under way" — cited precedents (REPORTED, Shane's
+own sourcing, not independently verified by Cuan):** Switzerland
+released a fully open national model (Sept 2025, built by its
+universities and national supercomputing centre); the EU is backing
+open European models; India has commissioned a sovereign model; this
+summer "one of America's largest insurers and one of the world's largest
+information companies" each announced their own language models
+(unnamed in the document).
+
+**"What an institution keeps in its own hands" — three things:**
+1. **Its data** — where it lives, who can reach it, under whose law it
+   sits.
+2. **The integrity of how the model works** — quotes Magnifica
+   Humanitas directly: "those who control AI will impose their own moral
+   vision, which will become the invisible infrastructure of these
+   systems."
+3. **What it learns** — an institution with its own model keeps user
+   interaction data/learning "at home," improving the model for the
+   people it came from rather than feeding external systems.
+
+**"What I believe" (Shane's stated position, pull-quote):** "I believe
+that centuries-old institutions like the Church, and most of the world's
+leading institutions with them, should have language models of their
+own, to protect the integrity of what they do, how they use AI, their
+information and their data."
+
+**Church teaching cited in support:** Magnifica Humanitas: "ownership of
+data cannot be left solely in private hands but must be appropriately
+regulated," and communities "must be able to contribute to discernment
+and oversight." Shane's framing: a Church-owned model would sit
+alongside its library and archive as "a library and an archive for the
+AI era."
+
+**"How it could be done well" — five design principles proposed:**
+1. **Learns from the people it serves, for the people it serves** —
+   every interaction improves the Church's own model, learning stays
+   within the Church's own care.
+2. **Designed around the human person** — quotes Antiqua et Nova (a
+   separate cited document, not previously logged by name in Cuan's
+   files): generative AI "must be understood for what it is: a tool, not
+   a person," and "ultimate responsibility for decisions made using AI
+   rests with the human decision-makers."
+3. **Its data stays sovereign** — Church information under Church
+   authority and law, retained only as long as needed ("kept with
+   restraint").
+4. **Stands on open foundations** — built on open models the Church can
+   examine/improve, taking in advances in the field while keeping its
+   own data/sources/rules — explicitly the mechanism that "keeps it
+   sovereign as the technology moves" (direct echo of the open-weight/
+   digital-sovereignty argument already logged from Paul Ferguson's
+   Connected magazine piece — worth noting the parallel if useful in
+   conversation).
+5. **Proves itself inside first** — tested/used first within the
+   Church's own offices, archives, translation work, before potentially
+   being "opened to anyone as a gift" in time, echoing the encyclical's
+   own "talents entrusted to humanity" framing.
+
+**"Why it matters more with every generation":** cites Antiqua et Nova
+naming artificial general intelligence ("a hypothetical form of AI that
+would match or surpass human intelligence") and the possibility of
+superintelligence "surpassing human intellectual capacities." Cites
+**Pope Leo's UNESCO address** (the same address flagged as not yet
+sourced in Shane's prep checklist above — this document at least
+confirms it happened and gives one direct quote from it): Pope Leo
+asked that AI technologies support young people's "growth, education
+and relationships, safeguarding their freedom to think and discern."
+
+**Closing statement:** quotes Magnifica Humanitas — "ours is the
+pressing duty to remain profoundly human" — and closes: "An AI of the
+Church's own, designed around the person, proven in its own house and
+given in time to all, would be that teaching made real."
+
+**Cross-reference notes for John's own prep:**
+- This document is framed entirely around **the Church having its own
+  sovereign language model** — it does not name Childen explicitly
+  anywhere in the text. Worth John and Shane agreeing beforehand how
+  explicitly this connects to Childen in conversation, since the paper
+  itself argues the general principle (institutional AI sovereignty)
+  rather than pitching Childen as the specific solution.
+- **Antiqua et Nova** is now confirmed as a second real Church document
+  being drawn on alongside Magnifica Humanitas — worth Cuan or Shane
+  sourcing the full document if not already reviewed, since it's quoted
+  twice here on core AI-governance points (tool not person; human
+  decision-maker responsibility; AGI/superintelligence framing).
+- The **UNESCO address** is confirmed to exist and touches child
+  safety/education themes directly relevant to Childen's own mission —
+  worth sourcing the full speech given it's cited as recent context in
+  both this document and Shane's own prep checklist.
