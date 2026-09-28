@@ -1720,3 +1720,50 @@ the meeting, but is naming a parallel personal success measure around
 how he and Shane are received by the wider room (OpenAI, the Minister,
 the Advisory Council), given the calibre of who else is now expected to
 be present.
+
+## Draft first pass — items 10, 11, 12, 13 (Cuan's draft, 28 Sept 2026, UNCONFIRMED — for Shane and John to finalise on tonight's calls)
+
+Items 6, 10, 11, 12 and 13 of Shane's checklist remained genuinely open
+as of everything shared today. Below is Cuan's own first-draft attempt at
+filling them in, built only from material already in this file — **not
+agreed by Shane, not to be treated as decided, and explicitly to be
+tested/rewritten on tonight's calls.**
+
+**Draft answer, item 11 (what success looks like):** given Shane's own
+account that Childen's architecture exists but product/infrastructure/
+scale is "a different stage requiring a much larger specialist team and a
+longer-term operational commitment," the realistic target is **a second,
+dedicated follow-up conversation specifically on Childen** — not an
+immediate Rome invitation, and not a signed relationship. Consistent with
+Shane's own framing of Tuesday as exploratory. An invitation to present
+in Rome would be a stretch outcome, not the baseline to walk in
+expecting.
+
+**Draft answer, item 12 (questions to ask them), three candidates:**
+1. What does the Church see as the single most urgent AI-related risk to
+   the people and communities it serves right now?
+2. Where has the Church already tried to engage with AI or technology
+   partners, and what made that easy or difficult?
+3. If the Church did build or adopt its own institutional AI capability,
+   who inside the Church would actually need to be convinced, and what
+   would they need to see?
+
+**Draft answer, item 13 (the three anchors that must survive):**
+1. Shane has already built Childen's full architecture, around human
+   oversight and child protection specifically — not a pitch deck or a
+   concept.
+2. The same "AI-driven, human-led" governance principle underpins
+   everything else Shane has built, and he believes institutions like the
+   Church should hold sovereign AI capability of their own rather than
+   depend on external providers.
+3. There is a concrete, near-term way to begin (the synthetic harm
+   response layer and the verified child identity layer, both already
+   designed), and Shane wants Tuesday to be the start of an ongoing
+   conversation, not a single pitch.
+
+**Item 10 (the ask) and item 6 (the Childen number) are still not drafted
+here** — both depend on decisions only Shane and John can make (how much
+to actually ask for at this stage, and what figure, if any, to give if
+pressed) rather than something Cuan can reasonably draft from existing
+material. Recommend resolving these two explicitly on tonight's calls
+before anything else.
