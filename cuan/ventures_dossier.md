@@ -1411,11 +1411,21 @@ one, and they are not a parent/subsidiary structure:
    Homevalue brand to United Hardware for €200,000, and **that balance
    is still live/outstanding** — a real intercompany debt, not a closed
    historical transaction.
-3. **National Hardware** — **was nowhere in Cuan's files until this
-   session.** John appears to hold no role there. It is nonetheless the
-   subject of one of the three live AHL recoveries (see below) — worth
-   establishing what National Hardware actually is and why AHL is
-   recovering from it, given John holds no apparent role there. [ASK]
+3. **National Hardware** — **partially resolved, 28 Sept 2026**, via
+   UHL's own 2009 Memorandum of Association (attached as Schedule 1 to
+   a Corporate Certificate in the September 2026 Board pack). **United
+   Hardware Limited was founded on 11 August 2009 by two corporate
+   subscribers, one Ordinary Share each: Associated Hardware plc
+   (Magna Drive, Magna Business Park, Citywest Road, Dublin 24) and
+   National Hardware Limited (5 Ashbourne Business Park, Ashbourne, Co
+   Meath).** This confirms National Hardware Limited was a co-founding
+   shareholder of UHL alongside AHL itself, not an unrelated third
+   party — a real, documented historical relationship between the two
+   companies, which plausibly explains why AHL has a live recovery
+   against it. **Still open:** what National Hardware actually is/does
+   today, whether it still holds shares in UHL, who owns/runs it now,
+   and the specific nature and amount of the AHL recovery against it.
+   [ASK — narrower question now, not starting from zero]
 
 **The DAC question (this session was named for it, still open):**
 nothing in Cuan's records shows any group entity as a Designated
@@ -1936,8 +1946,12 @@ confirm they relate to the ongoing claims, not a trading dispute.
 8. **The DAC question (top of the 2 Sept twelve-question list) —
    confirm whether Associated Hardware PLC has converted to/should be a
    Designated Activity Company.**
-9. What National Hardware actually is, and why AHL has a live recovery
-   against it, given John holds no apparent role there.
+9. What National Hardware Limited does today, whether it still holds
+   its founding Ordinary Share in UHL, who owns/runs it now, and the
+   specific nature/amount of AHL's live recovery against it — now
+   confirmed as a UHL co-founding shareholder alongside AHL (28 Sept
+   2026 finding, see Associated Hardware Public Limited Company section
+   above), narrowing what's still unknown.
 10. The €200,000 Homevalue brand sale balance (AHL to UHL) — current
     outstanding amount and settlement timeline.
 11. Status of the two personally-owned AHL audit items committed to BDO
