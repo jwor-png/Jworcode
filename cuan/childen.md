@@ -1821,3 +1821,95 @@ positive, respected engagement with the Minister and her
 representatives — being known to her and to Emma Redmond/OpenAI Ireland
 by the end of the day, regardless of how the Church conversation itself
 lands.
+
+## Conference programme received (28 Sept 2026, 15:27, from Crysta Gunn, on-site at the venue)
+
+**Full running order for Tuesday 29 September, Renehan Hall:**
+- 9.00-9.30am: Tea, coffee, and registration
+- 9.30-9.45am: Welcome remarks; opening prayer by seminarian Mark
+  McDonnell; hymn by the Columba Centre Choir
+- 9.45-10.10am: Introductory remarks by Archbishop Eamon Martin
+- 10.10-10.20am: Video presentation by Professor Anna Rowlands
+- 10.20-11.15am: **Panel 1 — Opportunities and Challenges**, moderated
+  by Alan Hynes-Cendrzak, panellists **Minister Niamh Smyth, Ms Emma
+  Redmond, and Professor Stephen Williams.** Audience questions.
+- 11.15-11.40am: Coffee break on the cloister
+- 11.40-11.50am: **Video presentation by Bishop Paul Tighe**
+- 11.50am-12.45pm: **Panel 2 — Analysis**, moderated by Natalie Doherty,
+  panellists Dr Barry Scannell, Dr Lisa Cunningham and Ciara O'Brien.
+  Audience questions.
+- 12.45-1.00pm: Wrap up with Archbishop Martin; hymn by Columba Centre
+  Choir
+- 1.00pm: lunch, all welcome, Pugin Hall
+
+**John's own read on the format, 28 Sept:** the actual windows to speak
+directly with Church hierarchy/other key attendees are hard to predict
+from the programme alone — no dedicated slot for a private Childen
+conversation appears on the public running order. Working assumption
+(per what John and Shane have been told): time for a private
+conversation will be created, possibly **after** the formal programme
+ends at 1pm, over/after lunch — not guaranteed to happen during the
+structured session itself. **This reinforces why the "three anchors
+that must survive regardless of format" (item 13) matters more than a
+scripted approach — the actual moment may be informal, post-event, and
+short.**
+
+**Bishop Paul Tighe's attendance — new and significant, confirmed only
+28 Sept via this programme, not previously known:** he gives a video
+presentation (11.40-11.50am), not a live panel appearance. John
+initially misheard/misremembered his name as "Paul Tai" — corrected
+here. Full brief on Bishop Tighe below.
+
+### Bishop Paul Tighe — who he is and why his attendance raises the stakes (researched 28 Sept 2026, sources listed)
+
+**VERIFIED, multiple independent sources:** Bishop Tighe is Irish, and
+is Secretary of the Vatican's Dicastery for Culture and Education. He
+has been the central figure in the Vatican's AI engagement for several
+years, described by the Irish Times as "the Irish priest behind the
+scenes of the Vatican's work on artificial intelligence." He led the
+**Rome Call for AI Ethics**, was central to **Antiqua et Nova** (the
+2025 Vatican AI document already referenced twice in Shane's own
+"Talents Entrusted to Humanity" paper and Executive Responses — now
+confirmed to be substantially Bishop Tighe's own work), and runs the
+**Minerva Dialogues**, an ongoing Rome-based series of conversations
+between tech leaders and the Church.
+
+**Notable and directly relevant to tomorrow:** Bishop Tighe is named as
+one of three Catholic thinkers whose work informed **Anthropic's own
+"Claude Constitution"** (the document guiding Claude's behaviour) — a
+confirmed, direct working relationship with a frontier AI lab, not
+merely external Church commentary on AI. This significantly raises the
+importance of his attendance: he is likely the single most technically
+informed and AI-industry-connected person in the room on the Church
+side, and — given his role convening exactly this kind of tech/Church
+conversation via the Minerva Dialogues — plausibly the person best
+positioned to move Childen from "interesting" to "an actual next step."
+
+**What's NOT confirmed, flagged honestly:** Cuan could not find any
+source describing Bishop Tighe as a co-author of Magnifica Humanitas
+itself (John's own description) — his confirmed role is as the
+Vatican's lead AI figure and the driving force behind Antiqua et Nova,
+which the encyclical draws on, rather than a named co-author of the
+encyclical text itself. Worth treating "co-author" as John's own
+shorthand rather than a verified fact, and not repeating it as
+confirmed in the room.
+
+**What the encyclical itself says, briefly:** Magnifica Humanitas (Pope
+Leo XIV's first encyclical, 15/25 May 2026) argues AI must serve
+humanity rather than concentrate power, centred on human dignity,
+human responsibility, AI as tool not person, human accountability for
+AI-assisted decisions, and data ownership properly regulated rather
+than left solely in private hands.
+
+**Gap identified, useful for Childen's positioning:** no source found
+describing a specific, named Vatican plan or next step for children's
+online safety arising from the encyclical or from Bishop Tighe's prior
+work — the encyclical and Antiqua et Nova address AI/human dignity
+broadly (employment, healthcare, education, misinformation, privacy,
+surveillance, environment, warfare) rather than naming a distinct
+child-protection workstream. **This means there is no existing
+Vatican initiative for Childen to align against or compete with on
+child safety specifically — the space appears genuinely open.**
+
+**Full one-page brief on Bishop Tighe sent to John as a printable file,
+28 Sept 2026.**
