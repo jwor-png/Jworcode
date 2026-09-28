@@ -1671,3 +1671,54 @@ without needing the document in hand.
   defensibility) — worth Shane having the actual test results/findings
   ready to cite specifically, since the document asserts the process is
   happening without giving the findings themselves.
+
+## Additional attendees and John's own success criteria for Tuesday (28 Sept 2026, John's own input)
+
+**Attendee list, per John, beyond Archbishop Martin and Minister Niamh
+Smyth already logged:**
+- **The Chief Executive of OpenAI** is expected to attend — **UNVERIFIED
+  by Cuan**, worth confirming who exactly (Sam Altman, or another named
+  OpenAI executive) since the earlier logistics thread named **Emma
+  Redmond, Head of OpenAI Ireland** as the confirmed panellist, not the
+  global CEO — these may be the same underlying detail restated loosely,
+  or two different people. Worth clarifying before Tuesday which is
+  correct.
+- **Members of the Irish AI Advisory Council** are expected to be
+  present, per John's own expectation — **not yet confirmed by name**,
+  flagged as likely rather than certain.
+- Other unnamed attendees also expected.
+- **Cuan searched for a published conference agenda/running order and
+  could not find one** — this appears to be a private CCO event without
+  a public programme. The only concrete logistics on file remain the
+  registration email already logged (9:00-9:30am registration, Renehan
+  Hall, concludes 1:00pm, lunch in Pugin Hall). Best route to an actual
+  agenda is likely asking Crysta Gunn directly, or checking whatever
+  else came with the registration confirmation beyond the logistics
+  itself.
+
+**John's own success criteria for Tuesday, stated 28 Sept 2026 — distinct
+from and additional to Shane's own success/ask items (17-point checklist,
+items 10-11 above):**
+- John names a specific uncertainty: **how the "engagement on children"
+  will actually manifest in the room** is not something he or Shane can
+  fully predict, despite the preparation done through all the documents
+  shared so far.
+- **A legacy John wants from tomorrow, regardless of the Church outcome:**
+  that OpenAI and the Minister/her colleagues will know who John and
+  Shane are, if they don't already — framed as a potentially valuable
+  outcome in its own right, separate from and additional to the Vatican/
+  Church engagement.
+- **John's personal definition of success, distinct from Shane's:**
+  wants a genuinely positive engagement specifically with the Minister
+  and her representatives, not just a good outcome for Shane with the
+  Church side. Wants John and Shane to "command the respect and
+  attention and positivity" in the room despite being newcomers/
+  strangers to this particular gathering.
+
+**Cross-reference:** this sits alongside, not in place of, the corrected
+28 Sept note above that Archbishop Martin is John and Shane's primary
+focus — John is not proposing the Minister become the primary purpose of
+the meeting, but is naming a parallel personal success measure around
+how he and Shane are received by the wider room (OpenAI, the Minister,
+the Advisory Council), given the calibre of who else is now expected to
+be present.
