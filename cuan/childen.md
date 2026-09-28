@@ -1956,3 +1956,36 @@ a working institute, and a direct hand in shaping a frontier AI lab's
 constitution) — reinforces that Shane's "Talents Entrusted to Humanity"
 pitch is landing in a room/context with real prior form on this exact
 topic, not a cold introduction of the idea.
+
+## Fr Paolo Benanti — the Vatican's other central AI figure (28 Sept 2026, John's link, verified independently)
+
+**VERIFIED via web search (America Magazine, Euronews, NBC News, AEI,
+Wikipedia):** Fr Paolo Benanti is a Franciscan friar, Italian, with a
+background in engineering and a doctorate in moral theology. He is
+**the Vatican's most senior AI ethics figure**, distinct from Bishop
+Tighe and Fr McGuire — a consultant to the Pontifical Academy for Life,
+a member of the **United Nations' Advisory Body on Artificial
+Intelligence**, head of an Italian government commission on
+safeguarding journalism from disinformation, and teaches at the
+Pontifical Gregorian University. He has advised both **Pope Francis and
+the current Pope Leo** on AI and technology ethics. He coined the term
+**"algor-ethics"** and pioneered the **Rome Call for AI Ethics** — the
+same initiative already logged as led by Bishop Tighe, so the two have
+clearly worked on overlapping Vatican AI ethics work, possibly together
+(not yet confirmed how directly).
+
+**Not confirmed:** whether Fr Benanti is attending tomorrow's Maynooth
+conference — his name does not appear on the programme already logged.
+No source found directly tying him to Magnifica Humanitas specifically
+in this search, though given his role as a standing papal AI adviser to
+both the previous and current Pope, some involvement in its background
+thinking would be unsurprising, if unconfirmed.
+
+**Why this matters:** Benanti is arguably the single most senior and
+internationally connected Vatican AI figure of the three now identified
+(Tighe, McGuire, Benanti) — UN-level standing, not just Church-internal.
+Worth Shane/John being aware of his existence and role even if he's not
+in the room tomorrow, since any serious Church-AI conversation
+eventually intersects with his work, and referencing him accurately
+(without overclaiming a direct link to tomorrow's event) would
+demonstrate real familiarity with the field.
