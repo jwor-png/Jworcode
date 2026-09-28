@@ -88,13 +88,16 @@ account Cuan can search): confirms and completes the picture above.
   asks whether he has any dietary restrictions for the post-event
   lunch — **this question is still unanswered as of 9 Sept.**
 
-**Meeting confirmed, 27 Sept 2026:** John will meet **Niamh Smyth TD**
-(Minister for AI) at the Maynooth conference on Tuesday morning
-(29 Sept), **with Shane also attending.** No agenda beyond the
-conference itself confirmed yet — worth John/Shane deciding in advance
-whether this is purely a courtesy introduction or an opening to raise
-Childen directly, given the whole invitation came through the Childen/
-Mike Molloy channel in the first place.
+**Meeting confirmed, 27-28 Sept 2026, corrected 28 Sept:** John and
+Shane's primary purpose at Maynooth on Tuesday morning (29 Sept) is a
+meeting with **Archbishop Eamon Martin** — the actual focus, given his
+central role in the whole Vatican route. **Niamh Smyth TD (Minister for
+AI) is separately in attendance at the same conference, but is not the
+focus of John and Shane's visit** — corrected 28 Sept after an earlier
+draft wrongly framed the Minister as the primary meeting. Worth
+deciding in advance with Shane what to raise directly with the
+Archbishop, given the whole invitation came through the Childen/Mike
+Molloy channel in the first place.
 
 **Prep material — Irish Mail on Sunday, Valerie Hanley, 27 Sept 2026**
 (REPORTED, named-minister quotes; not independently verified by Cuan),
@@ -145,14 +148,15 @@ directly relevant to that meeting:
   last year's presidential race due to ill health) and is chairing a
   panel discussion.
 
-**Why this matters for Tuesday's meeting:** Smyth is walking into
-Maynooth having just publicly staked out a "trust-first," breach-
-disclosure-focused position on AI regulation, days after a string of
-high-profile incidents and just over two weeks before hosting the
-world's top AI companies in Dublin for the International AI Summit.
-Worth John and Shane having a clear, prepared line on where Childen sits
-relative to her stated trust/regulation framing before Tuesday, rather
-than reacting cold in the room.
+**Why this is still useful background, even though the Archbishop is the
+real focus:** Minister Smyth will be in the room, having just publicly
+staked out a "trust-first," breach-disclosure-focused position on AI
+regulation, days after a string of high-profile incidents and just over
+two weeks before hosting the world's top AI companies in Dublin for the
+International AI Summit. If she and John/Shane end up in conversation at
+all incidentally, it's worth having this context in mind — but the
+actual prepared line for Tuesday should be built around the Archbishop
+Martin meeting, not the Minister.
 
 **Corroborating context (2 Sept), REPORTED not verified:** RTÉ News,
 "Archbishop Martin meets with OpenAI representatives over Pope's letter,"
