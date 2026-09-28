@@ -1913,3 +1913,46 @@ child safety specifically — the space appears genuinely open.**
 
 **Full one-page brief on Bishop Tighe sent to John as a printable file,
 28 Sept 2026.**
+
+## Fr Brendan McGuire — third confirmed name behind the encyclical's background work (28 Sept 2026)
+
+John shared a ChatGPT response naming a second Irish priest connected to
+the encyclical's background — **Cuan independently verified this via
+web search (Vatican News, Irish Times, National Catholic Reporter,
+Crux, sfexaminer.com) rather than trusting the ChatGPT output alone.**
+
+**VERIFIED:** **Fr Brendan McGuire** — Irish-born, a former engineer
+(master's degree in computer science and cybersecurity), now parish
+priest at St Simon Parish, Los Altos, California, in Silicon Valley;
+ordained ~26 years. He has been central to a **roughly ten-year
+dialogue between Silicon Valley/tech executives/scientists and the
+Vatican on AI**. Working with **Bishop Paul Tighe**, he helped organise
+the "listening sessions" that eventually led to the creation of the
+**Institute for Technology, Ethics and Culture (ITEC)** — a formal
+partnership between Santa Clara University's Markkula Center for
+Applied Ethics and the Vatican's Dicastery for Culture and Education.
+Fr McGuire co-founded ITEC.
+
+**Directly relevant to tomorrow:** in 2024-2025, when **Anthropic**
+approached the Vatican for ethical guidance, Fr McGuire worked alongside
+Bishop Tighe and Santa Clara ethicist **Brian Green** to help shape
+**Claude's Constitution** (the 23,000-word document governing Claude's
+moral reasoning). This is the same Anthropic/Claude Constitution
+connection already logged for Bishop Tighe above — **now confirmed as a
+three-person team (Tighe, McGuire, Green), not Tighe alone.**
+
+**Caveat, consistent with the caveat already logged for Bishop Tighe:**
+Fr McGuire is described as "an important contributor to the dialogue and
+thinking that led to the encyclical," but it would be inaccurate to say
+he literally co-wrote the papal document itself — same distinction as
+already flagged for Bishop Tighe (driving force behind the background
+work, not a named encyclical co-author).
+
+**Relevance:** not confirmed whether Fr McGuire is attending tomorrow's
+Maynooth conference — his name does not appear on the programme already
+logged above. Logged here as useful background context on the depth of
+existing Vatican-Silicon Valley AI engagement (a decade of dialogue,
+a working institute, and a direct hand in shaping a frontier AI lab's
+constitution) — reinforces that Shane's "Talents Entrusted to Humanity"
+pitch is landing in a room/context with real prior form on this exact
+topic, not a cold introduction of the idea.
