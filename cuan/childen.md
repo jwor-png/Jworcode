@@ -99,6 +99,18 @@ deciding in advance with Shane what to raise directly with the
 Archbishop, given the whole invitation came through the Childen/Mike
 Molloy channel in the first place.
 
+**Logistics confirmed, 28 Sept (confirmation email from CCO, sent
+10:38am, signed Chah, Crysta and Martin):** the conference is formally
+titled **"Living Magnifica Humanitas"** (a slight variant on the
+encyclical's own title, "Magnifica Humanitas," already confirmed
+elsewhere in this file — this is the conference's own event name, not a
+new/different document). Registration + tea/coffee **9:00-9:30am**,
+outside Renehan Hall on the cloisters, **Saint Patrick's College,
+Maynooth, W23 DD4R**. Pay-and-display parking on the College grounds,
+car park to the left just inside the main gate. Conference concludes at
+**1:00pm**, all guests invited to lunch in **Pugin Hall**, beside
+Renehan Hall.
+
 **Prep material — Irish Mail on Sunday, Valerie Hanley, 27 Sept 2026**
 (REPORTED, named-minister quotes; not independently verified by Cuan),
 directly relevant to that meeting:
