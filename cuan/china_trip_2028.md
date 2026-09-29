@@ -92,6 +92,26 @@ entirely. Worth raising this specific point directly with Trailfinders
 when making contact, since it's the one thing a bespoke operator can
 solve that a packaged tour company may not.
 
+## New Wendy Wu Tours ad seen, 29 Sept 2026
+
+[REPORTED — from an app news-feed ad, not independently verified
+against Wendy Wu Tours' own site]
+
+Same operator as the original "China Uncovered" reference above (Wendy
+Wu Tours), but a different, simpler ad seen this time: **"China Tours
+From Ireland. New Brochure Out Now — prices from €3,863pp."** No
+itinerary/duration/inclusions given in this ad, just the headline price
+and a call to book. Notably priced **in euro this time**, not sterling,
+and pitched directly "from Ireland" — suggesting Wendy Wu Tours may
+have an Irish-market-specific offering or brochure separate from the
+Times-branded £5,140 "China Uncovered" package already logged above.
+**Worth requesting this specific "new brochure" directly from Wendy Wu
+Tours** to see if it's a genuinely different (shorter/simpler) itinerary
+at a lower entry price, or the same product with an introductory
+"from" price teaser — the €3,863 figure is too bare to compare properly
+against the Trailfinders or China Uncovered references above without
+seeing what it actually includes.
+
 ## Open items
 
 1. **A visual map — built, 21 Sept 2026.** John confirmed the itinerary
