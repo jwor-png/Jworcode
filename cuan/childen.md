@@ -1989,3 +1989,66 @@ in the room tomorrow, since any serious Church-AI conversation
 eventually intersects with his work, and referencing him accurately
 (without overclaiming a direct link to tomorrow's event) would
 demonstrate real familiarity with the field.
+
+## Speaker/panellist identification, 29 Sept 2026 (morning of the conference)
+
+John received the physical printed programme on-site (photographed by
+Crysta Gunn). Confirms the running order already logged above exactly,
+and confirms the following named participants not previously
+researched. Researched by Cuan same morning.
+
+- **Seminarian Mark McDonnell** — gives the opening prayer. A seminarian
+  (priest in training); no further significance identified.
+- **Professor Anna Rowlands** (video presentation, 10.10-10.20am) —
+  **VERIFIED.** St Hilda Professor of Catholic Social Thought and
+  Practice, Durham University. Personally appointed by **Pope Leo** as a
+  Member of the **Dicastery for Promoting Integral Human Development**
+  — the same Dicastery already connected to Bishop Tighe's Antiqua et
+  Nova work. Spent 2023-2025 on secondment at the Vatican working on the
+  Synod on Synodality. Her scholarship is in Catholic Social Teaching
+  and political theology, not AI specifically — likely provides the
+  theological/social-teaching framing for the day rather than technical
+  content.
+- **Panel 1 ("Opportunities and Challenges," 10.20-11.15am), moderated
+  by Alan Hynes-Cendrzak** — **VERIFIED**: CEO of the **Catholic
+  Education Partnership** (the umbrella body for Catholic schools,
+  established by the Irish bishops and religious orders, 2020), based
+  in Galway. Panellists: Minister Niamh Smyth (already logged in full),
+  Emma Redmond/OpenAI Ireland (already logged), and **Professor Stephen
+  Williams** — likely (**UNVERIFIED as the same individual**) Stephen N.
+  Williams, Honorary Professor of Theology, Queen's University Belfast,
+  currently co-editing a volume on Christianity and AI, previous public
+  lecture "Artificial Intelligence: Religious Friend or Foe?" — a
+  plausible match given subject matter, not confirmed as the attendee.
+- **Bishop Paul Tighe** (11.40-11.50am) — already logged in full.
+- **Panel 2 ("Analysis," 11.50am-12.45pm), moderated by Natalie
+  Doherty** (not identified with confidence — no clear public profile
+  found) — panellists:
+  - **Dr Barry Scannell** — **VERIFIED, significant.** Partner,
+    Technology Group, **William Fry** (major Irish law firm); PhD in AI
+    and copyright; **member of the Irish Government's AI Advisory
+    Council**, chair of its Working Group on AI and the Creative Sector;
+    named a "Global Top 200 AI Leader 2025"; also recently joined the
+    board of IMMA (Irish Museum of Modern Art). Regularly addresses WIPO
+    on AI/copyright. **This is a genuinely influential figure in Irish
+    AI policy — worth treating as a serious audience if the opportunity
+    to engage arises, separate from and in addition to the Church-side
+    focus.**
+  - **Dr Lisa Cunningham** — not identified with confidence; no clear
+    public profile found matching AI/technology/ethics in Ireland.
+  - **Ciara O'Brien** — likely (**UNVERIFIED as the same individual**)
+    the Irish Times business/technology journalist (writing since 2002,
+    at the Irish Times since 2008, covers consumer tech and business).
+    If correct, her presence raises the possibility of press coverage of
+    today's proceedings — worth being mindful of what's said in the room
+    accordingly.
+
+**Cross-reference for John's conduct today:** Dr Barry Scannell's
+presence, alongside Emma Redmond and Bishop Tighe, means the room
+contains at least three people with direct, substantive AI-policy or
+AI-industry standing (Irish Government AI Advisory Council, OpenAI
+Ireland, and the Vatican's own AI lead) — consistent with John's own
+28 Sept note that "OpenAI and the Minister will know about us" is a
+worthwhile outcome in its own right, separate from the Church
+engagement. Barry Scannell in particular is worth adding to that same
+mental list.
