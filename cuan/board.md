@@ -48,11 +48,11 @@ Archbishop Eamon Martin → the Vatican's office — **an invitation to
 travel to meet the Pope or his representatives is expected, not yet
 received.** Draft letter to the Vatican (2 Sept) not yet sent. Working
 group: John, Shane, Andrew Sharkey, Mike Molloy, via
-WhatsApp. **Tuesday 29 Sept, Maynooth:** John and Shane's primary focus
-is meeting **Archbishop Eamon Martin** at the Pope Leo AI encyclical
-conference — corrected 28 Sept, AI Minister Niamh Smyth TD is
-separately in attendance but is not the focus (see `childen.md` for
-prep detail on both).
+WhatsApp. **Tuesday 29 Sept, Maynooth — went well.** John and Shane met
+**Archbishop Eamon Martin** at the Pope Leo AI encyclical conference;
+intention now to secure a formal meeting with the Pope at the Vatican
+**in the coming weeks**. Full download of the day still pending from
+John — nothing else to be assumed yet (see `childen.md`).
 Full detail now in its own file: `childen.md`.
 ⚪ **Other tech-for-sale/investment candidates** — flagged as existing but
 not yet itemised; John to name them so they can be tracked individually.
@@ -140,6 +140,12 @@ FY2025 audit closed, Board thanked John 5 Aug. 22 April AHL board
 minutes issued to BDO. **Reply to Ray Smyth sent 3 Sept 2026** (Without
 Prejudice, denying liability, referencing Mulvey precedent, offering
 to discuss at 23 Sept Board meeting) — now awaiting Ray's response.
+**30 Sept Board meeting + AGM both went well.** John sees a significant
+AI development/adoption opportunity emerging via the Data Transformation
+Programme's member-data push. Conflict-of-interest disclosure on his
+Velocity AI training involvement made to Chairman Eoin McGettigan via
+WhatsApp — "tabled and gone well," screenshot for the record due 1 Oct.
+Full detail in `ventures_dossier.md`.
 🟢 Ambrion AI — training 25 & 31 Aug confirmed
 🟢 Barber Republic — **London trip (3 Sept) went well.** John Jones wants a full investor pack and separately offered the Liberty London/Carnaby St concession as a standalone Barber Republic London base, funded by him for equity. Anthony Laban agreed to help recruit barbers/shops and back the launch publicly, also seeking equity. **Both offers live, unresolved — John hasn't committed to either**, wants to measure against Shane's actual commercial/funding modelling first. Johnny wants the £50k first-tranche dropped, pushing to raise the other £35k through the business directly instead. Interim investor document (short of a full pack — real revenue data doesn't exist yet) still needs building. Month One £15k PAID.
 🔴 Julianstown Mill — Fred Logue appeal formally lodged 31 Aug (PL-501978-MH-26), response due 23 Sept; **88-page response submission to ACP almost ready, filing in the next couple of days (22 Sept update)**; **sale completion to John Lynch now explicitly pending the appeal outcome, not just fees**; Glynn's Solicitors gone quiet on closing prep — needs chasing; updated balancing statement drafted, awaiting reply

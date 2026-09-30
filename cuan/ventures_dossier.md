@@ -75,6 +75,18 @@ Cuan reads both files in full — nothing here has been deleted or superseded.
   scoped/started, not just agreed in principle; clarify John's own role
   in "rolling this out" — sales, delivery, or both.
 
+**Commission payment confirmed, 30 Sept 2026:** John reports a "second
+invoice payment has come in to Shane," who then sent John €2,000 as a
+commission — total €3,000 received so far, with a further €1,000 due
+next week (€4,000 total). **Not explicitly confirmed by John which
+underlying sale this commission relates to** — most likely candidate is
+the Paul Candon Intelligence Concierge sale (€5,000, the only confirmed
+Intelligence Concierge/commission-generating transaction on record),
+but this is Cuan's inference, not a stated fact. Worth confirming
+directly which invoice/sale this commission is tied to, and what the
+agreed commission percentage/structure actually is (not previously
+documented anywhere in Cuan's files).
+
 ---
 
 ## ODIN / Codex
@@ -1141,6 +1153,36 @@ detail.
   which Cuan cannot search directly in this session (see
   `shane-brief-mcp-fix.md`, Fix 2) — John to check himself or forward
   the relevant emails.
+
+### Board Meeting & AGM, 30 September 2026 — both went well; new AI opportunity surfacing
+John confirms both the UHL Board meeting (morning) and AGM (afternoon)
+went well, 30 Sept 2026. He sees **a significant emerging opportunity
+for UHL's AI development and adoption**, and was able to speak to this
+directly during the meeting — this connects to the **Data Transformation
+Programme** (Section 8 of the September Board Pack, already summarised
+in full elsewhere in this file) and its member-data acquisition push:
+John frames the "big move to acquire member data for the improvement of
+the United Hardware Group" as feeding directly into AI development/
+adoption, not a separate workstream. Worth revisiting the Data
+Transformation Programme summary with this framing in mind — John's own
+Velocity AI training relationship with UHL and this member-data
+initiative may now be more closely linked than the Board pack itself
+presented them.
+
+**Conflict of interest disclosure — WhatsApp to Chairman Eoin McGettigan,
+undated (referenced 30 Sept, to be screenshotted 1 Oct 2026 for the
+record).** John disclosed his own participation in the Velocity AI
+training programme and his representation there, specifically to avoid
+any conflict of interest given his dual role as UHL Board director and
+as the person connected to the Velocity AI training supplier
+relationship. Per John: "that is now tabled and that has all gone
+well" — i.e. the disclosure has been made and accepted, not still
+pending. **Action outstanding:** John to screenshot the actual WhatsApp
+message on 1 Oct 2026 for the record — worth confirming this has been
+done and filed appropriately (e.g. noted in UHL's own conflicts
+register per Companies Act 2014 s.231, consistent with the standard
+declaration process already logged elsewhere in this file for board
+meetings).
 
 ### Risk register / cybersecurity, GDPR and AI review — reopened 7 Sept 2026
 - **Trigger:** John shared five Business Post articles (6 Sept 2026) on
@@ -2780,6 +2822,16 @@ founder WhatsApp group, not a decision or commitment — logged for
 completeness. The kiosk/Emlyn Brown thread in particular is worth
 tracking as a distinct, real, named future opportunity once the core
 platform is live, separate from the founding-cohort pilot itself.
+
+### Manchester MVP test trip confirmed — 12 October 2026 (30 Sept 2026)
+John and Shane travelling to Manchester on **12 October 2026** to meet
+**Johnny "Baba" Shanahan** and **Neil Dignam** to test the Barber
+Republic MVP in person — the first confirmed, dated milestone since the
+"Working in Parallel" founder plan and the positive 3 Sept London trip
+already logged above. No further detail yet on what "testing the MVP"
+will actually involve on the day (live demo, barber/shop walkthrough,
+technical review) — worth clarifying with Shane/Johnny ahead of the
+trip.
 
 ---
 

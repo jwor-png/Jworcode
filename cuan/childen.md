@@ -2052,3 +2052,35 @@ Ireland, and the Vatican's own AI lead) — consistent with John's own
 worthwhile outcome in its own right, separate from the Church
 engagement. Barry Scannell in particular is worth adding to that same
 mental list.
+
+## Outcome of the 29 Sept Maynooth meeting — confirmed good, full download pending (30 Sept 2026)
+
+John confirms the meeting/engagement with **Archbishop Eamon Martin**
+went well. **The intention is now to secure a formal meeting with the
+Pope at the Vatican in the coming weeks** — this is the clearest
+forward-motion signal yet on the whole Vatican route, beyond the
+"invitation expected but not yet received" framing that had stood since
+early September.
+
+**John has taken his own notes from the day and has not yet had the
+chance to dictate the full download into Cuan** — he flagged this
+explicitly on 30 Sept. This is a placeholder entry only. **Follow up
+directly with John for:**
+- What specifically was discussed with Archbishop Martin (Childen,
+  Noesis, the "Talents Entrusted to Humanity" paper, or a broader
+  conversation).
+- Whether the "three anchors" from Shane's prep checklist were used,
+  and how the conversation actually unfolded relative to the planned
+  15-20 minute private meeting.
+- Any outcome regarding Minister Niamh Smyth, OpenAI Ireland (Emma
+  Redmond), or Barry Scannell — John's own stated secondary success
+  measure from 28 Sept.
+- What "securing a meeting with the Pope in the coming weeks" actually
+  means procedurally — is this Archbishop Martin making an introduction,
+  or a next step Shane/John need to action themselves.
+- Whether Bishop Paul Tighe's video presentation prompted any direct
+  contact or follow-up.
+
+**Do not fill in these gaps with assumptions — wait for John's actual
+download**, since he has explicitly flagged that the full detail hasn't
+been given yet.
