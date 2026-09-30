@@ -99,21 +99,35 @@ documented anywhere in Cuan's files).
 
 **Two live funding offers now on record, 30 Sept 2026 (John's own
 account, post-Maynooth) — represented through Asterial:**
-1. **"Steve" in the USA** — offer for **20%** of ODIN, being worked
-   through **Dermot [surname given verbally as "Hordner," unconfirmed
-   spelling]**, described by John as "working for us" on this deal.
-   **Steve's full name, company, and the actual deal terms/valuation are
-   not yet on record** — this is the same US route referenced loosely
-   elsewhere as "the formal investment offer" already tracked in
-   `board.md`, now with a named intermediary (Dermot) attached for the
-   first time. [ASK — confirm Steve's surname/company, Dermot's surname
-   and firm, and the actual proposed valuation/terms]
-2. **A Saudi Arabian offer**, described by John as **"10 times the size"
-   of the Steve/USA offer** — no further detail given (no name,
-   percentage sought, or valuation basis). [ASK — this is a major new
-   thread with essentially no detail yet; needs a full download from
-   John/Shane on who's making this offer, through what channel, and on
-   what terms]
+1. **"Steve" [surname unclear, verbally sounded like "the Ankh," almost
+   certainly a mishearing/mis-transcription]** — offer for **$20 million
+   for 20%** of ODIN. Working intermediary: **Dermot [surname given as
+   "Foros," per John's 30 Sept update — supersedes the earlier "Hordner"
+   guess, still not independently confirmed spelling]**. **Live deadline,
+   per Shane (relayed by John 30 Sept): Dermot speaks with Steve this
+   evening (30 Sept), and there is a deadline to close the business and
+   produce a term sheet by Friday evening (2 Oct 2026).** John does not
+   know the content of tonight's call. [ASK — confirm Steve's actual
+   surname/company and Dermot's actual surname/firm]
+2. **A Saudi Arabian offer** — now confirmed as **$200 million for
+   20%** (John's earlier "10 times the size" description checks out
+   exactly: $200m vs $20m). **Note: identical 20% stake sought at 10x
+   the valuation of the Steve/USA offer** — a very large implied
+   valuation gap between the two offers for the same percentage,
+   worth treating as a genuine red flag/question to resolve (why would
+   two parties value the same 20% stake ten times apart?) rather than
+   simply banking the higher number. **Dermot is speaking to the Saudi
+   representatives tomorrow (1 Oct 2026)** about a possible in-person
+   meeting **next week**, **possibly in Kildare**. John's own steer:
+   the Saudi party may connect to **Juddmonte Farms** — **VERIFIED via
+   web search:** Juddmonte is the thoroughbred breeding operation founded
+   by **Prince Khalid bin Abdullah Al Saud** (brother-in-law of King
+   Salman of Saudi Arabia, died 2021, now family-owned), whose Irish
+   arm, **Ferrans Stud, is in Co. Kildare**. This is a strong, plausible
+   match for "a Saudi Arabian family with a stud connection in Kildare,"
+   though not yet confirmed as the actual counterparty — worth treating
+   as a working hypothesis to verify directly once contact is made, not
+   as confirmed fact.
 
 **John's own framing while considering these:** he notes he would hold
 "probably just above 1%" of Noesis (the holding company above Asterial
@@ -1274,6 +1288,45 @@ done and filed appropriately (e.g. noted in UHL's own conflicts
 register per Companies Act 2014 s.231, consistent with the standard
 declaration process already logged elsewhere in this file for board
 meetings).
+
+**UHL balance sheet/rebate position, per John's phone call with Shane,
+30 Sept 2026 (evening):** John updated Shane on the day's meetings,
+including the Data Transformation Programme/member data acquisition
+discussion already logged above. Additional detail from that
+conversation: **over €20 million of rebates have been given out group-
+wide**, and there's a feeling that **UHL's balance sheet is "that bit
+weak"** as a result — a possible need to **retain some rebate to
+strengthen the balance sheet**, given potential capex requirements next
+year in the region of **€1-2 million**. Cross-reference: this is
+directly consistent with the Financial Report already summarised
+elsewhere in this file — the €1.5m minimum profit threshold protecting
+the €0.5m retention and €1.0m loyalty bonus, and the sensitivity
+analysis showing how close that threshold sits to being breached under
+a supplier-yield downside. Worth reading this rebate-retention idea
+alongside that existing threshold analysis rather than as a separate
+issue.
+
+**Commercial ask — Velocity AI/Ambrion AI 12-month UHL contract,
+proposed by John, Shane "on board":** John wants to propose a **12-month
+contract with UHL, approximately €12,000/month (~€144,000 total)**,
+through **Velocity AI and Ambrion AI** (Velocity AI itself sitting
+within the Noesis structure per the 30 Sept clarification already
+logged above), to fund continued AI training/data work at UHL **while
+the ODIN funding round is being put in place** — i.e. framed as bridge
+income for John and Shane personally/through their companies, not just
+a UHL initiative. **Not yet a formal proposal to UHL** — this is
+John and Shane's own intention, not something tabled with Paul Candon,
+Dave Geoghegan or the UHL Board yet.
+
+**Action requested by John, 30 Sept 2026:** pull back together **the
+existing suggested AI plan for UHL from past engagement** — this refers
+to the AI proposal already on file in this section above (Shane's
+four-phase migration model: Static Foundation / Bolt-On Trap /
+Architecture Rebuild / Native Operation, explicitly "for John and Shane
+only, NOT for circulation to UHL"). John intends to add his own
+documents/notes to this **tomorrow (1 Oct 2026)** to build it out
+further ahead of using it as the basis for the proposed 12-month
+Velocity AI/Ambrion AI contract above.
 
 ### Risk register / cybersecurity, GDPR and AI review — reopened 7 Sept 2026
 - **Trigger:** John shared five Business Post articles (6 Sept 2026) on

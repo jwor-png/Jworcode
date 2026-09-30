@@ -30,6 +30,12 @@ Be ready to act fast once the offer lands. **NEW (2 Sept): "Codex" — a
 new intelligence product build spec'd out this session (85-section
 engineering spec) — is on hold pending John's direction next morning.
 Full detail in `ventures_dossier.md` ODIN/Codex section.**
+**UPDATE 30 Sept: two live offers now sharper** — $20m/20% (US party,
+via intermediary Dermot, **term sheet deadline Friday 2 Oct**) and a
+$200m/20% Saudi offer (same stake, 10x the valuation — a gap worth
+questioning), possible meeting next week, possibly Kildare, working
+hypothesis it connects to Juddmonte/the Saudi royal family. Full detail
+in `ventures_dossier.md`.
 🟡 **EOLAS (Shane's platform)** — reviewed 2 Sept, assessed as
 sooner-to-revenue than Meridian's build, verified intelligence foundation
 for Meridian + regulatory anchor for Ambrion. John holding overnight,
