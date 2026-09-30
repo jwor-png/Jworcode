@@ -129,25 +129,23 @@ account, post-Maynooth) — represented through Asterial:**
    as a working hypothesis to verify directly once contact is made, not
    as confirmed fact.
 
-   **Hypothesis weakened, 30 Sept 2026 — further research requested by
-   John after being told the family has reportedly invested $200m in two
-   UK AI-native tech startups.** Cuan searched for any technology/AI
-   investment activity connected to Juddmonte, Prince Khalid Abdullah's
-   estate, or his named heirs (**Prince Ahmad bin Khalid** and **Prince
-   Saud bin Khalid** — the closest identifiable successors on public
-   record; the family collectively committed to continuing Juddmonte
-   after his 2021 death without naming a single successor). **No
-   evidence found anywhere of this family branch being active in
-   technology or venture capital investment — their entire public
-   profile is thoroughbred racing and breeding.** Given Saudi Arabia has
-   numerous royal-family-connected investors and family offices active
-   separately in UK tech, **the "Kildare stud family" and the "$200m UK
-   AI investor family" may well be two different parties entirely.**
-   **Recommendation: do not treat Juddmonte/the Khalid Abdullah family as
-   confirmed — the fastest and most reliable way to resolve this is
-   simply asking the Saudi representatives directly who they are when
-   Dermot speaks to them (1 Oct) or at any in-person meeting, rather than
-   assuming an identity the evidence doesn't actually support.**
+   **John reaffirmed, 30 Sept 2026, that this IS the family** — his
+   basis: the 2021 death date Cuan surfaced for Prince Khalid bin
+   Abdullah Al Saud is itself the confirming detail, consistent with
+   what he's been told separately (presumably via Dermot/Shane's own
+   briefing, not yet shared in writing with Cuan). Cuan's web search
+   found no public evidence of technology/AI investment by this family
+   branch (whose public profile is otherwise entirely thoroughbred
+   racing/breeding) or by the named heirs **Prince Ahmad bin Khalid** and
+   **Prince Saud bin Khalid** — but John's own information likely draws
+   on a private/non-public source (the family office itself, or
+   whoever briefed him on the $200m UK AI investment), which a public
+   web search would not surface. **Working position: treat the Juddmonte/
+   Khalid Abdullah Al Saud family as John's confirmed identification of
+   the counterparty**, while still confirming directly with the Saudi
+   representatives themselves when contact is made — not because the
+   identification is doubted, but because it's good practice before any
+   meeting regardless of how confident the working assumption is.
 
 **John's own framing while considering these:** he notes he would hold
 "probably just above 1%" of Noesis (the holding company above Asterial
