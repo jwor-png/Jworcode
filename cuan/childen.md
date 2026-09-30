@@ -2145,3 +2145,77 @@ on so far, and mixing the two framings in conversation with Archbishop
 Martin's office risks confusion or a credibility problem. Not a correction
 to make unilaterally — a live question to resolve with Shane before the
 next meeting.
+
+## The "LAMB Group" and the Vatican introductory finder's fee question (30 Sept 2026)
+
+**New material, genuinely first appearance anywhere in Cuan's files.**
+John flags that the Vatican introduction route — already established as
+running via Mike Molloy → Archbishop Eamon Martin → the Vatican's office
+— sits commercially with a group John refers to as the **"LAMB Group"**
+(spelling/exact name unconfirmed — John himself stumbled over it while
+dictating). Named individuals connected to it:
+- **Andrew Sharkey** — already a confirmed member of the four-person
+  Childen working group (John, Shane, Andrew Sharkey, Mike Molloy).
+- **Mike Molloy** — already the confirmed originator of the Vatican
+  contact route.
+- **Brian Riley** — new name, not previously logged. John believes one
+  of Brian Riley's daughters is involved — her Christian name is "Jean"
+  or similar, **not confirmed** ("whose Christian name escapes me").
+  [ASK — confirm Brian Riley's role and his daughter's actual name]
+- **Michael Durkin** — new name, not previously logged. Appears to be
+  the LAMB Group's own point of contact handling commercial terms — he's
+  the one who raised the fee percentage with John by phone, "last week"
+  (i.e. before 30 Sept).
+
+**The commercial question:** a finder's/introductory fee is expected to
+be payable to the LAMB Group in respect of Childen, on a **no-win,
+no-fee basis** (fee only payable if the introduction actually converts
+into a deal) — structured this way specifically so John/Shane aren't
+paying for an introduction that doesn't lead anywhere. **Michael Durkin
+indicated a fee somewhere in the range of 7.5% to 12%** — John's own
+reaction: "ludicrous and far in excess" of what an introduction should
+command. A commercial agreement still needs to be drafted formalising
+this (John's own words: could be done in this session, via the Jworcode
+project, or through Meridian Intelligence).
+
+**Correction confirmed, same message:** the company that will own/
+contract Childen is **not simply "Childen" as a company name** — John
+again couldn't recall the actual name in the moment, but this is already
+resolved elsewhere in this file: **SanCelvio is the confirmed intended
+home/contracting entity for Childen** (see the 28 Sept entry above,
+Shane's private briefing). No new information here, just confirms John's
+own uncertainty was momentary, not a sign the SanCelvio answer has
+changed.
+
+### Market stress-test on the 7.5%–12% fee ask, requested same day
+
+**Cuan's assessment (general market knowledge, not a quote from any
+professional adviser — worth having a solicitor/corporate finance
+adviser confirm before relying on this):**
+- Pure introduction/finder's fees, where the introducer's role is
+  limited to making a connection with no further transaction work, and
+  particularly on larger-value deals, typically run **1-5%**, trending
+  toward the lower end (1-2%) as deal size increases (consistent with
+  Lehman-scale-style advisory fee structures, which compress sharply
+  above the first tranche of value).
+- Broader "referral fee" norms of 5-35% exist, but are generally
+  associated with introducers who do substantial ongoing work —
+  sourcing, structuring, negotiating a deal through to close — not a
+  single introduction with no further involvement.
+- **Verdict: 7.5-12% sits well above the norm for a bare introduction**
+  (Mike Molloy → Archbishop Martin → the Vatican, no further LAMB Group
+  involvement described), and closer to rates reserved for parties doing
+  heavy lifting throughout a smaller transaction. John's own instinct
+  that it's excessive is consistent with general market practice — a
+  figure closer to **1-3%**, or a fixed fee tied to a specific milestone
+  rather than an open percentage of eventual deal value, would be more
+  in line with standard no-win-no-fee introduction terms.
+- **Recommended approach for the draft agreement:** counter with a lower
+  percentage (or a capped fixed amount) explicitly justified by the
+  "introduction only, no further work" scope; if LAMB Group pushes back,
+  consider tying any higher percentage to genuine ongoing
+  involvement/deliverables rather than paying introduction-level money
+  for advisory-level work never actually performed.
+
+**Not yet done:** the actual commercial agreement itself — John has only
+flagged the intention to draft one, not produced or reviewed a draft.

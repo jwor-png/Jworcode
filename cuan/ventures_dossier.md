@@ -565,6 +565,42 @@ Open items, none yet resolved:
    with Shane to convert from verbal indication to actual agreed terms
    before John relies on any of it financially.
 
+**John's own working definition of the Strategic Adviser role, 30 Sept
+2026** (developed in discussion with Cuan, given Shane is by far the
+largest Noesis shareholder and the ultimate decision-maker on ODIN and
+the group generally):
+- Core premise: Shane is an exceptional builder operating at a pace that
+  leaves governance, external relationships and commercial discipline as
+  by-products rather than priorities — the Strategic Adviser role exists
+  to close that gap, not to compete with Shane's technical/product
+  authority or override his decisions.
+- **Five areas of focus:**
+  1. **External representation and relationship custody** — Church,
+     State, investors, legal contacts; being the credible face in rooms
+     Shane doesn't have time to be in personally (Maynooth as the proof
+     of concept).
+  2. **Commercial discipline and deal structure, not decision-making** —
+     ensuring decisions Shane makes get captured properly (term sheets,
+     formalised roles, agreed percentages), rather than staying verbal
+     indefinitely.
+  3. **Outside view on pace and sequencing** — flagging where Shane is
+     building faster than the surrounding structure can absorb (e.g. two
+     ODIN funding offers with almost no detail yet, nine companies with
+     inconsistent governance), without slowing the building itself.
+  4. **Trusted second read on judgement calls** — an extension of
+     Shane's own "AI-driven, human-led" principle applied to the
+     business itself, not just the technology.
+  5. **Protecting the relationship** — knowing when to push and when to
+     hold back so advice keeps landing rather than becoming noise.
+- **Explicitly excluded from the role, consistent with the Maynooth
+  conduct note already logged in `childen.md`:** technical architecture,
+  product decisions, and final calls on funding/deals — the role's value
+  comes specifically from not competing with Shane's own territory.
+- John's own view: this could be "what makes us work better together"
+  — framed as a complementary structure to the mutual, implicit trust
+  already existing between them, not a formal check on Shane's
+  authority.
+
 **Legal/tax adviser assessment for ODIN holdco structuring, 3 Sept.**
 Two pieces of work: (1) ODIN's group structure ahead of the €20m raise,
 (2) Shane's founder holdco ahead of a future sale. Candidates: **Jerry
