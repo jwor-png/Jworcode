@@ -101,9 +101,7 @@ documented anywhere in Cuan's files).
 account, post-Maynooth) — represented through Asterial:**
 1. **"Steve" [surname unclear, verbally sounded like "the Ankh," almost
    certainly a mishearing/mis-transcription]** — offer for **$20 million
-   for 20%** of ODIN. Working intermediary: **Dermot [surname given as
-   "Foros," per John's 30 Sept update — supersedes the earlier "Hordner"
-   guess, still not independently confirmed spelling]**. **Live deadline,
+   for 20%** of ODIN. Working intermediary: **Diarmuid Hudner (Irish Gaelic spelling of "Dermot"; surname Hudner, H-U-D-N-E-R) — confirmed by John 30 Sept, correcting earlier "Foros"/"Hordner" transcription guesses**. **Live deadline,
    per Shane (relayed by John 30 Sept): Dermot speaks with Steve this
    evening (30 Sept), and there is a deadline to close the business and
    produce a term sheet by Friday evening (2 Oct 2026).** John does not
