@@ -2084,3 +2084,64 @@ directly with John for:**
 **Do not fill in these gaps with assumptions — wait for John's actual
 download**, since he has explicitly flagged that the full detail hasn't
 been given yet.
+
+## Follow-up from 29 Sept meeting, first full download (30 Sept 2026, John's own account)
+
+**Meeting confirmed, Armagh, timing TBC.** John emailed **Jean Roach**
+(believed to be the Diocesan Secretary for Administration, Maynooth) as
+his point of contact from yesterday. She replied 30 Sept confirming
+she's reached out to **Archbishop Martin's office** to arrange a
+follow-up meeting for John and Shane, **likely to take place in
+Armagh**. John/Shane have asked for later this week or early next week;
+**Shane's preference is early next week**, since his sister,
+brother-in-law and two nephews fly to Australia on Saturday and he has
+family commitments around that. **Not yet confirmed which specific
+day.**
+
+**Barry Scannell contact made.** John and Shane spoke to **Dr Barry
+Scannell** (William Fry, senior partner on AI — already logged in full
+above from the conference programme research) at the conference —
+described by John as "excellent." Contact made with a view to
+**potentially engaging William Fry for legal representation**. John's
+own assessment: "the firm will be very expensive, but they'll be the
+best firm in Ireland." Not yet a formal engagement — a contact made, not
+an instruction given.
+
+**Two new named contacts from the conference, one needing follow-up
+research (done same day):**
+- **Paul Byrne** — CEO, AI Office of Ireland (Oifig AI na hÉireann) —
+  already on file from the Irish Mail on Sunday piece logged 28 Sept.
+  Approached John directly at the conference. John to reach out to him.
+- **Declan McCormack**, Department of Enterprise — **VERIFIED via web
+  search**: Declan McCormack is **Head of AI and Digital Regulation**
+  (Principal Officer, Digital Division), Department of Enterprise,
+  Tourism and Employment (DETE). No business card exchanged; John wants
+  to reach out — contact details not yet found by Cuan, worth sourcing
+  via DETE's own website/press office if needed.
+- **Fr Tim Bartlett** — John thought he might have already mentioned
+  him; **not previously logged anywhere in Cuan's files.** Researched:
+  a priest who has accompanied Archbishop Eamon Martin on official
+  delegations (e.g. meetings with the DUP and Sinn Féin) — **plausibly a
+  close aide/adviser to the Archbishop**, which would make him directly
+  relevant to the upcoming Armagh meeting logistics. Worth confirming
+  his actual current role before the Armagh meeting.
+
+**Shane's own read on the day, per John:** yesterday was UHL/Childen/
+Noesis effectively **"coming out of stealth mode"** in front of everyone
+present — the level of interest in them was "significant and very
+welcome." Shane's view: build on this now to attract further interest
+and drive revenue, not let the momentum sit.
+
+**Framing note worth flagging directly, 30 Sept 2026:** John's own words
+today were that Childen is "looking to sell to the Vatican" — this sits
+in some tension with the original framing already established
+throughout this file (the Church convenes funding/partners and holds
+the standard in trust; "not a purchase," per the earliest entries in
+this document). Worth being deliberate with Shane about which framing
+is actually intended going into the Armagh meeting — a straightforward
+commercial sale is a materially different proposition to the Church
+than the trust/custodianship model the whole approach has been built
+on so far, and mixing the two framings in conversation with Archbishop
+Martin's office risks confusion or a credibility problem. Not a correction
+to make unilaterally — a live question to resolve with Shane before the
+next meeting.

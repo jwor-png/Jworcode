@@ -96,6 +96,31 @@ documented anywhere in Cuan's files).
   direction once he gives it.
 - **Revenue relevance:** Revenue stream (the Big Bet — see `board.md`,
   awaiting the formal investment offer already logged there).
+
+**Two live funding offers now on record, 30 Sept 2026 (John's own
+account, post-Maynooth) — represented through Asterial:**
+1. **"Steve" in the USA** — offer for **20%** of ODIN, being worked
+   through **Dermot [surname given verbally as "Hordner," unconfirmed
+   spelling]**, described by John as "working for us" on this deal.
+   **Steve's full name, company, and the actual deal terms/valuation are
+   not yet on record** — this is the same US route referenced loosely
+   elsewhere as "the formal investment offer" already tracked in
+   `board.md`, now with a named intermediary (Dermot) attached for the
+   first time. [ASK — confirm Steve's surname/company, Dermot's surname
+   and firm, and the actual proposed valuation/terms]
+2. **A Saudi Arabian offer**, described by John as **"10 times the size"
+   of the Steve/USA offer** — no further detail given (no name,
+   percentage sought, or valuation basis). [ASK — this is a major new
+   thread with essentially no detail yet; needs a full download from
+   John/Shane on who's making this offer, through what channel, and on
+   what terms]
+
+**John's own framing while considering these:** he notes he would hold
+"probably just above 1%" of Noesis (the holding company above Asterial
+and the wider group) — small on paper, but potentially high value given
+what ODIN represents underneath it. Worth treating both offers as very
+early-stage/unconfirmed until named counterparties and term sheets
+exist — nothing here yet rises above "an offer has been mentioned."
 - **Tracking:** Cuan + Meridian (AI Equity & Investment — frontier
   caveat tier).
 - **What ODIN is (per Shane's Investor Memorandum, 22 pages, prepared by
@@ -509,6 +534,36 @@ Open items, none yet resolved:
    John attends the 29 Sept meeting as **Strategic Adviser** — worth
    establishing how Noesis relates to Asterial/Zubelsala/Sancelvio and
    whether it's a fourth entity or an umbrella structure.
+
+   **Major structural clarification, 30 Sept 2026 (John's own account,
+   post-Maynooth):** **Noesis is the umbrella/holding structure for the
+   whole group of Shane's AI companies** — explicitly includes Asterial,
+   Zubelsala/Sancelvio, Velocity AI, Ambrion AI, and others. **Explicitly
+   excludes Meridian Intelligence**, which John describes as "mine with
+   Shane" (i.e. a separate joint venture, not part of Noesis) — John
+   flags he still needs to confirm this exclusion directly with Shane
+   rather than treating it as settled. **Shane says the group currently
+   comprises around 9 companies, expected to grow to ~12.**
+
+   **John's role is evolving beyond Company Secretary:** currently
+   **Strategic Adviser to the Noesis group** (the title used at
+   Maynooth), which John wants to develop further — extending to the
+   individual companies within it (Shane has said John will end up
+   Company Secretary of "a number of them," not yet confirmed if that
+   means all). Shane has also indicated John will have **shareholding
+   interests and directorship interests in each company** in a more
+   formal role over time, but for now the Strategic Adviser role is the
+   vehicle to "start driving an income from that." **John states he will
+   hold a shareholding in Noesis itself, "probably just above 1%," as
+   the holding company** — small percentage, but John's own view is
+   this "will have significant value" given what sits underneath it
+   (ODIN, Childen, the wider estate). **None of this is yet formalised**
+   — no letter of appointment, no agreed remuneration for any of these
+   roles (Strategic Adviser, Company Secretary, future director/
+   shareholder positions), and no confirmed percentage/structure for the
+   Noesis shareholding. This needs a direct, comprehensive conversation
+   with Shane to convert from verbal indication to actual agreed terms
+   before John relies on any of it financially.
 
 **Legal/tax adviser assessment for ODIN holdco structuring, 3 Sept.**
 Two pieces of work: (1) ODIN's group structure ahead of the €20m raise,
