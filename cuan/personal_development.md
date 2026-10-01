@@ -782,3 +782,57 @@ Independent Non-Fiction review (Hilary White), 20 Sept 2026.
   eight years of work: decoding and communicating Ireland's
   disappearing folk knowledge "through story rather than cartography."
 - **Not yet purchased.**
+
+## Ralph Waldo Emerson — 20 short ideas (via @stijnnoorman thread, Threads, logged 1 Oct 2026)
+
+Source: a social media thread (Threads, account stijnnoorman), curating
+20 short Emerson quotations, framed by the poster as life-changing
+ideas. **REPORTED/curated by a third party — worth independently
+verifying individual quote attributions before treating any one as
+confirmed Emerson, since curated quote-threads are a common source of
+misattribution.** Logged here as raw material for reflection, per this
+file's stated purpose (identifying which ideas genuinely resonate).
+
+1. To be yourself in a world that is constantly trying to make you
+   something else is the greatest accomplishment.
+2. The purpose of life is not to be happy. It is to be useful, to be
+   honorable, to be compassionate, to have it make some difference that
+   you have lived and lived well.
+3. What you do speaks so loudly that people can't hear what you say.
+4. The only person you are destined to become is the person you decide
+   to be.
+5. Adopt the pace of nature: her secret is patience.
+6. Don't be too timid and squeamish about your actions. All life is an
+   experiment. The more experiments you make the better.
+7. Shallow men believe in luck or in circumstance. Strong men believe
+   in cause and effect.
+8. You become what you think about all day long.
+9. The mind, once stretched by a new idea, never returns to its
+   original dimensions.
+10. Most of the shadows of this life are caused by standing in one's
+    own sunshine.
+11. Every person you meet is your superior in some way. Assume you can
+    learn something from anyone you meet.
+12. Sorrow looks back. Worry looks around. Faith looks up.
+13. That which we persist in doing becomes easier to do, not that the
+    nature of the thing has changed but that our power to do has
+    increased.
+14. Do the thing you fear and the death of fear is certain.
+15. For everything you have missed, you have gained something else, and
+    for everything you gain, you lose something else.
+16. Sow a thought and you reap an action; sow an act and you reap a
+    habit; sow a habit and you reap a character; sow a character and
+    you reap a destiny.
+17. Don't be pushed by your problems. Be led by your dreams.
+18. Treat a man as he is, and he will remain as he is. Treat a man as
+    he could be, and he will become what he should be.
+19. You can't escape yourself. Wherever you go, there you are.
+20. Always do what you are afraid to do.
+
+**Worth flagging for John's own reflection, given what's already on
+file above:** quote 16 (sow a thought → reap a destiny) and quote 18
+(treat a man as he could be) both echo themes already present in John's
+own self-authored shaving-mirror mantra ("action is the antidote to
+anxiety," "the harder the conflict, the greater the success") — worth
+noting as a recurring resonance if this file's purpose (spotting what
+genuinely resonates) is being tracked over time.
