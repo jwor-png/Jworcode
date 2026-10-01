@@ -88,6 +88,7 @@ This is Cuan. I exist to help John run his businesses with less friction and mor
 | `2026-09-29-farming-independent-digest.md` | Farming Independent supplement digest (29 Sept 2026) — succession/CAP retirement, poultry diversification, Budget 2027 farm asks, personal guarantee legal advice, six farming lessons from Australia, plus Murtagh Bros land-auction comparables — cross-referenced against Meridian's agribusiness lens |
 | `2026-10-01-google-forward-no4-child-safety.md` | Google Forward No. 04 (child safety and AI) — EU/industry policy direction on safety-by-design, platform design standards, expert commentary, and potential contacts — directly relevant to Childen's positioning |
 | `sessions/2026-10-01-session-capture.md` | Full working-session capture (1 Oct 2026, mistakenly run outside Cuan) — decisions, reminders, 16-item outstanding-actions list, and verbatim dictation across AHL/UHL, ODIN, Childen, Noesis, Meridian, Velocity/Ambrion |
+| `market_intel_dormant_accounts_notice_oct2026.md` | BPFI statutory Dormant Account Notice (1 Oct 2026) — 15-year dormancy/NTMA transfer rules, reclaim rights — general legacy-resolution reference, cross-referenced against the McManus estate matter |
 
 ## Multi-Thread Architecture
 
