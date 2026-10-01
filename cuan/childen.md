@@ -2219,3 +2219,192 @@ adviser confirm before relying on this):**
 
 **Not yet done:** the actual commercial agreement itself — John has only
 flagged the intention to draft one, not produced or reviewed a draft.
+
+## Maynooth conference official programme — full speaker bios (captured 1 Oct 2026)
+
+Source: the official printed conference programme, "Living Magnifica
+Humanitas: On Safeguarding the Human Person in the Time of Artificial
+Intelligence," Irish Catholic Bishops' Conference / Catholic
+Communications Office, Tuesday 29 September 2026, 9.00am-1.00pm, Renehan
+Hall, Saint Patrick's College, Maynooth. VERIFIED — primary-source event
+material, supersedes/confirms earlier unverified name entries for this
+conference.
+
+**Full programme:**
+- 9.00-9.30: registration
+- 9.30-9.45: welcome, opening prayer (seminarian Mark McDonnell), hymn
+- 9.45-10.10: introductory remarks, Archbishop Eamon Martin
+- 10.10-10.20: video presentation, Professor Anna Rowlands
+- 10.20-11.15: Panel 1, "Opportunities and Challenges" — moderated by
+  Alan Hynes-Cendrzak, panellists Minister Niamh Smyth, Emma Redmond,
+  Professor Stephen Williams
+- 11.15-11.40: coffee break
+- 11.40-11.50: video presentation, Bishop Paul Tighe
+- 11.50-12.45: Panel 2, "Analysis" — moderated by Natalie Doherty,
+  panellists Dr Barry Scannell, Dr Lisa Cunningham, Ciara O'Brien
+- 12.45-1.00: wrap-up, Archbishop Martin
+- 1.00: lunch, Pugin Hall
+
+**Speaker bios (full, verified from programme):**
+- **Mark McDonnell** — second-year seminarian, Diocese of Dromore, 29,
+  from Newry. Engineering background, PhD 2024, now studying for a
+  Higher Diploma in Philosophy.
+- **Archbishop Eamon Martin** — ordained for the Diocese of Derry,
+  appointed Archbishop of Armagh by Pope Benedict XVI in 2013. Primate of
+  All Ireland, President of the Bishops' Conference, Chancellor of the
+  Pontifical University Saint Patrick's College Maynooth. Apostolic
+  Administrator of the Diocese of Dromore since April 2019.
+- **Professor Anna Rowlands** — Saint Hilda Professor of Catholic Social
+  Thought and Practice, Durham University; leading political theologian.
+  **Was a speaker at the Vatican launch of Pope Leo XIV's first
+  encyclical, Magnifica Humanitas, on humanity and artificial
+  intelligence** — confirms the prior VERIFIED Dicastery-appointee note
+  and adds the launch-speaker detail. Work spans AI, human dignity,
+  technology, democracy and the common good.
+- **Alan Hynes-Cendrzak** — Irish education leader/policy advocate,
+  background in philosophy, politics, Catholic education. CEO, Catholic
+  Education Partnership. Interest in AI, meaning and human flourishing.
+- **Minister Niamh Smyth** — Minister of State, Department of Enterprise,
+  Trade and Employment, responsible for Trade Promotion, AI and Digital
+  Transformation. **First Minister in Ireland to hold a dedicated AI
+  portfolio.** First elected 2016, in public office since 2009, appointed
+  Minister of State February 2025. (Note: this is "the Minister for AI"
+  referenced in the 1 Oct session capture as having appointed Paul Byrne
+  to the AI Office.)
+- **Emma Redmond** — Associate General Counsel and Head of OpenAI
+  Ireland, European HQ, Dublin. AI strategy, privacy policy, technology.
+  Previously senior roles at Stripe, Ancestry, LinkedIn, Conversant.
+  Adjunct professor, UCD Sutherland School of Law. Educated UCD, TCD,
+  King's Inns.
+- **Professor Stephen Williams** — Emeritus Professor of Systematic
+  Theology, Union Theological College, Belfast; Honorary Professor of
+  Theology, Queen's University Belfast, 2017-24. Co-edited (with John
+  Wyatt) *The Robot Will See You Now: Artificial Intelligence and the
+  Christian Faith* (SPCK, 2021).
+- **Bishop Paul Tighe** — originally a priest of the Archdiocese of
+  Dublin, Secretary of the Vatican's Dicastery for Culture and Education,
+  leading Church voice on technology/AI/digital culture. Key role in the
+  Vatican's AI engagement, including the 2025 *Antiqua et Nova* note and
+  the work surrounding *Magnifica Humanitas* (published May 2026).
+  **Confirms and extends** the prior VERIFIED Claude-Constitution-linked
+  entry for Bishop Tighe.
+- **Natalie Doherty** — Faith Development Coordinator for Youth and Young
+  Adult, Archdiocese of Dublin; Doctor of Education student, DCU; doctoral
+  thesis on AI's integration into parish-based catechesis.
+- **Dr Barry Scannell** — partner specialising in AI, William Fry. PhD in
+  AI and copyright. Government appointee, Ireland's AI Advisory Council.
+  Advises Irish and multinational companies on AI legal/policy issues.
+  Law Society Intellectual Property & Data Protection Committee; board
+  member, Irish Museum of Modern Art. **Confirms** the prior VERIFIED
+  AI-Advisory-Council entry.
+- **Dr Lisa Cunningham** — Consultant in Emergency Medicine, West of
+  Ireland; Chief Medical Officer, Order of Malta Ireland; four years as a
+  helicopter emergency medicine doctor, Lincolnshire and Nottinghamshire
+  Air Ambulance Charity, UK. Advocate for physician-inclusive critical
+  care for pre-hospital patients. Mother of three.
+- **Ciara O'Brien** — business and technology journalist, The Irish
+  Times. Covers consumer tech and enterprise technology; frequent
+  contributor, RTÉ Radio 1, Virgin Media's Ireland AM, Newstalk, regional
+  BBC stations.
+
+**Quotes from Pope Leo XIV's encyclical *Magnifica Humanitas* (printed in
+the programme):**
+- "The Church regards all who sincerely seek 'truth, goodness and beauty'
+  as companions on the journey, and considers them as 'precious allies'
+  in defending the dignity of every person and in caring for creation."
+  [23]
+- "...there is also the more profound and important level of ontological
+  dignity. This is the dignity that belongs to every human being simply
+  by virtue of existing, of having been willed, created and loved by God.
+  No sin, failure, humiliation or exclusion can diminish the profound
+  value of a human life that God has willed and called into being." [61]
+- "Today, among the goods that are universally intended for everyone, we
+  must also include new forms of property, such as patents, algorithms,
+  digital platforms, technological infrastructure and data." [67]
+- "The creative intelligence of humanity is a gift that can alleviate
+  suffering and open up new possibilities, but it must remain ordered
+  toward the common good, justice, the care of the vulnerable and
+  creation." [129]
+
+Full video from the conference available via registration on a digital
+platform called "The Way," QR code in the programme. Print sponsor: Aid
+to the Church in Need (ACN) Ireland.
+
+## Childen Vatican introduction document — "Child safety architecture for the AI era" (captured 1 Oct 2026)
+
+Source: a private and confidential document, "CHILDEN — Child safety
+architecture for the AI era, PREPARED FOR INTRODUCTION TO THE HOLY SEE,"
+photographed directly. **Highly sensitive — not for onward circulation
+without Shane's explicit sign-off; screen-safe discipline applies.**
+
+Full structure captured (sections: The sanctuary; Why now: the model
+protecting children is failing; What Childen is; The teaching, answered;
+Why the Church; The conversation sought; Who presents):
+
+- **The sanctuary (framing):** for two thousand years the Church built
+  sanctuaries (school, hospital, parish) that were safe by what they
+  were, not by who was watching. Childhood has moved into a digital world
+  with no equivalent sanctuary built. Childen is positioned as that
+  missing architecture — "protection built into the room itself,
+  Algorethics in practice."
+- **Why now:** current protection models watch from outside and react
+  after harm is done; age checks are routinely bypassed. Cites a Harvard
+  study estimate that social media companies earned over $11bn in
+  advertising revenue from minors in a single year — the conflict-of-
+  incentives argument: protection layered onto an attention/data business
+  model will always remain partial. Argues AI now manufactures new harm
+  faster than watching systems can learn to recognise it.
+- **What Childen is:** "a complete architecture for the protection of
+  children online, with safety designed in from the first line." Core
+  differentiator claimed: protects by constituting the environment itself
+  (controlling who can be present and how the room behaves) rather than
+  by inspecting what flows past the child. Every account verified by a
+  trusted institution (school, parish, community group) so an adult
+  cannot pose as a child. Seven connected domains cover: the environment
+  children live in, their life beyond it, new AI-created harms, the
+  intelligence layer, the humans involved, governance, and reach toward
+  every child — "one design, whole." Six founding commitments listed:
+  every child is real (verified); protection acts first; intelligence is
+  governed (explains itself, forgets by design); care stays human
+  (technology brings a child to a person, never replaces one); it can be
+  proven (demonstrable to schools/parents); children's data is treated
+  with restraint as a founding rule, not a revisable policy.
+- **The teaching, answered:** cites Pope Leo XIV's 25 May 2026 encyclical
+  *Magnifica Humanitas* directly — frames Childen as having been built
+  independently, before the encyclical, arriving at the same values by
+  its own road ("Algorethics in practice"), and positions the document's
+  pitch as "the teaching made buildable."
+- **Why the Church:** argues a commercial owner would face incentives
+  that have failed children everywhere (bought to be buried, or diluted
+  until protections no longer obstruct monetisation). Argues the Church
+  carries no shareholder-return obligation, operates the world's largest
+  network of schools/parishes/pastoral care (the verifying institutions
+  the architecture needs), and can place protection before return
+  "openly and permanently." Explicitly states **the Church is not being
+  asked to purchase the work** — its role sought is as convenor: bringing
+  together funds, partners, and holding the standard in trust.
+- **The conversation sought:** a private meeting, in Rome or via whichever
+  channel the Holy See prefers, to present the work. Named candidate
+  offices: the Inter-Dicasterial Commission on Artificial Intelligence
+  (coordinated through the Dicastery for Promoting Integral Human
+  Development); the Pontifical Commission for the Protection of Minors;
+  the Dicastery for Culture and Education; or whichever office the
+  Secretariat of State judges appropriate.
+- **Who presents:** **Shane McCarthy, named explicitly as "architect and
+  sole owner of the Childen estate, Ireland."** States his faith leads
+  him to believe child protection must remain paramount and the Church is
+  the right custodian of the work. States the architecture, engineering
+  and ownership are "fully documented" and shared step by step through a
+  governed process, with introductions coming through the bearer of the
+  document.
+
+**Cross-reference:** this document is the actual written pitch underlying
+the Vatican introduction route already tracked in this file (Mike
+Molloy → Archbishop Eamon Martin → Vatican office) and the "selling to
+the Vatican" vs "trust/custodianship" framing tension flagged earlier —
+this document resolves that tension explicitly on the custodianship side
+("the Church is not asked to purchase this work... holding the standard
+in trust"), consistent with Shane's own stated intent but worth John
+confirming this is the current, approved version before any further
+circulation, given its sensitivity and single-owner framing (Shane named
+as sole owner, not John, not a joint entity).
