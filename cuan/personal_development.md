@@ -876,3 +876,22 @@ point is a direct, specific echo of the delegation/systemisation tension
 already on record in this file and in `operating_spec.md` around stepping
 out of day-to-day execution — worth noting as a recurring theme if
 tracked over time.
+
+## Desk calendar quotes (Snámhaí Sásta calendar, photographed 1 Oct 2026)
+
+Source: daily pages from a physical desk calendar ("Snámhaí Sásta"),
+photographed directly. UNVERIFIED attributions — calendar quote pages are
+a common source of misattribution, not independently checked.
+
+- **1st October:** "The best view comes after the hardest climb." —
+  Unknown
+- **30th September:** "Thinking will not overcome fear but ACTION will."
+  — W. C. Stone
+- **29th September:** "Always dress like it's the best day of your
+  life." — June Curtin
+
+**Worth flagging for John's own reflection:** the 30 September quote
+("thinking will not overcome fear but ACTION will") is a near-direct
+echo of John's own shaving-mirror mantra ("action is the antidote to
+anxiety") and of theme already logged from the Emerson and Ross Harkness
+threads above — a recurring resonance around action over deliberation.
