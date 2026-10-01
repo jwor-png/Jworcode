@@ -836,3 +836,43 @@ own self-authored shaving-mirror mantra ("action is the antidote to
 anxiety," "the harder the conflict, the greater the success") — worth
 noting as a recurring resonance if this file's purpose (spotting what
 genuinely resonates) is being tracked over time.
+
+## Ross Harkness — tactical vs mindset problem-solving framework (Threads, logged 1 Oct 2026)
+
+Source: a social media thread (Threads, account Ross Harkness, a business
+coach), framed as a lead-generation post ("comment 'mastery'" for his
+help). REPORTED/promotional content from an individual coach — framework
+below is his stated methodology, not independently verified or endorsed.
+
+**Core claim:** to progress in business you must solve both tactical and
+mindset problems. Harkness positions his service as building the personal
+systems to perform at your best and the business systems to step out of
+day-to-day work.
+
+**Diagnostic framework offered:**
+1. Do you know what you need to do? If not, figure it out.
+2. Have you tried doing it? If not, do it.
+3. Do you have the necessary knowledge/skill to do it to the required
+   level? If not, build the knowledge and skill.
+4. If yes to all three, it's a mindset issue — identify your
+   assumptions/beliefs about the problem and build the opposite beliefs.
+
+**The Tactical Problem:** lacking knowledge, structure or skill to
+execute — no clear plan, no time/focus, not skilled enough, or lack of
+clarity on what to do. Solution: create clarity, acquire knowledge, build
+systems, take action, improve skill.
+
+**The Mindset Problem:** having the knowledge/skill but still paralysed
+or self-sabotaging — business plateaued despite effort. Causes cited:
+fear of failure (avoiding work to avoid failing, which guarantees
+failure), abdicating responsibility/blaming others (team, market,
+spouse, parents), or not trusting anyone else to do it as well as you
+(so you don't systemise or delegate, becoming the bottleneck). Solution:
+"complete mental reprogramming" — identify beliefs needed and build them.
+
+**Worth flagging for John's own reflection:** the "you become the
+bottleneck because you don't believe anyone can do it as well as you"
+point is a direct, specific echo of the delegation/systemisation tension
+already on record in this file and in `operating_spec.md` around stepping
+out of day-to-day execution — worth noting as a recurring theme if
+tracked over time.
