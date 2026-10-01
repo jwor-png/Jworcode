@@ -89,6 +89,7 @@ This is Cuan. I exist to help John run his businesses with less friction and mor
 | `2026-10-01-google-forward-no4-child-safety.md` | Google Forward No. 04 (child safety and AI) — EU/industry policy direction on safety-by-design, platform design standards, expert commentary, and potential contacts — directly relevant to Childen's positioning |
 | `sessions/2026-10-01-session-capture.md` | Full working-session capture (1 Oct 2026, mistakenly run outside Cuan) — decisions, reminders, 16-item outstanding-actions list, and verbatim dictation across AHL/UHL, ODIN, Childen, Noesis, Meridian, Velocity/Ambrion |
 | `market_intel_dormant_accounts_notice_oct2026.md` | BPFI statutory Dormant Account Notice (1 Oct 2026) — 15-year dormancy/NTMA transfer rules, reclaim rights — general legacy-resolution reference, cross-referenced against the McManus estate matter |
+| `market_intel_data_centre_jobs_ireland_oct2026.md` | "Almost 5pc of Irish job ads are now linked to data centres" (John Burns, 1 Oct 2026) — Indeed/ESRI/Bitpower data on data-centre hiring surge, Taiwan chip imports, 108 operating Irish data centres, 23%→30%+ of national electricity use — reinforces the data-centre/AI-infrastructure thread for Meridian and Velocity AI/Ambrion AI training content |
 
 ## Multi-Thread Architecture
 
