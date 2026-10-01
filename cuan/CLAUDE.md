@@ -85,6 +85,9 @@ This is Cuan. I exist to help John run his businesses with less friction and mor
 | `the_long_memory.md` | **The Long Memory** — exploratory, uncosted offer concept (renamed from "Golden Generation" 18 Sept 2026 to remove a naming clash) — AI-assisted capture of an owner's undocumented institutional knowledge for succession-facing SMEs |
 | `ai_upskilling.md` | John's personal record of what he's learning about AI — from Shane, UHL's training programme, Golden Generation material, Anthropic guides — tagged by source and mapped to which orchestration (Cuan/Meridian/future Sales orchestration) it should feed |
 | `meridian/sales-orchestration/*.md` | Sales orchestration across all three AI businesses — Velocity AI training programme (UHL proof point, 50-target list, grant strategy, outreach template) plus the broader ~200-company AI-adoption prospect universe mapped against AmbrionAI/Velocity AI/Meridian Intelligence (see `velocity-ai-programme.md`, `uhl-model-target-list.md`, `ai-adoption-ireland-prospecting.md`) |
+| `2026-09-29-farming-independent-digest.md` | Farming Independent supplement digest (29 Sept 2026) — succession/CAP retirement, poultry diversification, Budget 2027 farm asks, personal guarantee legal advice, six farming lessons from Australia, plus Murtagh Bros land-auction comparables — cross-referenced against Meridian's agribusiness lens |
+| `2026-10-01-google-forward-no4-child-safety.md` | Google Forward No. 04 (child safety and AI) — EU/industry policy direction on safety-by-design, platform design standards, expert commentary, and potential contacts — directly relevant to Childen's positioning |
+| `sessions/2026-10-01-session-capture.md` | Full working-session capture (1 Oct 2026, mistakenly run outside Cuan) — decisions, reminders, 16-item outstanding-actions list, and verbatim dictation across AHL/UHL, ODIN, Childen, Noesis, Meridian, Velocity/Ambrion |
 
 ## Multi-Thread Architecture
 
