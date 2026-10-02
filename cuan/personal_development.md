@@ -895,3 +895,37 @@ a common source of misattribution, not independently checked.
 echo of John's own shaving-mirror mantra ("action is the antidote to
 anxiety") and of theme already logged from the Emerson and Ross Harkness
 threads above — a recurring resonance around action over deliberation.
+
+## "If you must leave us" — Irish/English bilingual poem (Instagram, captured 2 Oct 2026)
+
+Source: an Instagram post (account/author not captured in the screenshot),
+UNVERIFIED — no attribution visible, logged as raw material only. Context
+for why John saved this is not stated; logged here per this file's
+standing purpose, not assumed to relate to any specific person or event.
+
+Text (bilingual, Irish phrases italicised in the original):
+
+> If you must leave us,
+> Return to us as loinnir
+> In the sunlight that sparkles on waves
+> And the smiles of kindhearted strangers.
+>
+> If you must leave us,
+> Return to us at sunset
+> In the radiant beams that kiss the shore
+> And shimmer like gold dust, anam na mara.
+>
+> Return to us, now, in joyful moments
+> Agus cruthóimid draíocht san gnáthshaol
+>
+> The light that you shone
+> Will burn in us forever.
+
+(loinnir: sparkle/radiance; anam na mara: soul of the sea; Agus
+cruthóimid draíocht san gnáthshaol: and we will create magic in
+everyday life.)
+
+**Not cross-referenced to any specific matter** — flagging for John in
+case this relates to a bereavement or memorial context worth noting
+elsewhere (e.g. family/people_map.md), otherwise held here as reflection
+material only.
