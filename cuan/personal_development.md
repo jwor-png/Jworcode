@@ -929,3 +929,22 @@ everyday life.)
 case this relates to a bereavement or memorial context worth noting
 elsewhere (e.g. family/people_map.md), otherwise held here as reflection
 material only.
+
+## "If you're ambitious but inconsistent" — Sharran Srivatsaa (Threads, captured 2 Oct 2026)
+
+Source: Threads, account sharransrivatsaa (verified account badge, real-estate/business coach). UNVERIFIED as a tested method — a motivational list, not independently sourced.
+
+1. Success comes down to distraction subtraction. To do great things, we must do fewer things.
+2. People who keep their word to others are successful. People who keep their word to themselves are unstoppable.
+3. Your life changes when your actions don't ask your mood for permission. Moods are temporary, outcomes are permanent.
+4. Speed is king. Be tactically impatient and strategically patient. If you have time to do something, do it right now.
+5. Execution is what separates winners from wannabes.
+
+**Worth flagging for John's own reflection:** point 2 (keeping word to yourself) and point 4 (tactically impatient, strategically patient) both echo the "action is the antidote to anxiety" theme already tracked repeatedly in this file (shaving-mirror mantra, Emerson quotes, Ross Harkness thread, desk calendar quotes) — another recurring instance of the same resonance if it's being tracked over time.
+
+## Golf ball position guide (Birdie Social, Instagram, captured 2 Oct 2026)
+
+Source: Instagram, account birdiesocial.golf. Practical reference image —
+ball position relative to stance for each club (driver through wedge),
+farther back to more forward as club gets shorter, shoulder-width stance,
+centred. Personal hobby/golf reference only, no venture tie.
