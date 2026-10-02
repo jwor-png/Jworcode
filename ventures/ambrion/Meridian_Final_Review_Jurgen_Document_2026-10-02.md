@@ -127,3 +127,97 @@ Pat holds ten per cent of Ambrion and presented AI governance under McGrath Stra
 ---
 
 *Meridian Intelligence · Final review · 2 October 2026 · Private and confidential. All 43 slides of V5R2 were read on 21 September 2026 and the findings above are checked against them. The PLD transposition and application dates are stated from the Directive and the May 2026 corrigendum and should be confirmed before quotation. Meridian informs. It never represents.*
+
+---
+
+# ADDENDUM — ADVERSARIAL ATTACK ON SECTIONS 3.1 AND 3.2
+
+*Requested by Jürgen: attack these two specifically, because they carry the weight of the note and if either falls the whole thing softens. Run at full strength.*
+
+---
+
+## SECTION 3.1 — IT FALLS
+
+### Attack 1: the date charge is unfounded. Already established, restated for completeness.
+
+Every PLD reference in the deck is to the transposition deadline, which is correct. Article 22 requires transposition by 9 December 2026. Article 2(1) as corrected applies the regime to products placed on the market after 8 December 2026. **Pat states only the former and never the latter.** The corrigendum does not touch anything he says.
+
+### Attack 2: the scope charge is answered one slide later, and Jürgen missed it
+
+The scope charge quotes **slide 32**, the role-based slide, which tells the make-or-modify audience: *"From Dec 2026, the Product Liability Directive treats software, including AI systems, as products."* Jürgen argues this leaves the room believing installed plant and building management systems are caught.
+
+**Slide 33 is the very next slide and it is the instrument detail slide.** Its PLD card reads:
+
+> *"The PLD treats software and AI as products, however supplied. Ireland must transpose the new legal requirement by 9 Dec 2026. Strict liability, rebuttable presumptions of defect and court-ordered disclosure of technical documentation. **No escape where the defect stems from failure to supply updates within your control.**"*
+
+**That last sentence is precisely the continuing-control point.** It is the mechanism by which the recast regime reaches equipment already in the field: through updates, and through substantial modification, which the same slide raises for machinery in the adjacent card.
+
+**So the deck does address it, on the slide built for exactly that purpose, immediately after the one quoted.** Jürgen read the role summary in isolation and did not carry it through to the detail slide.
+
+### Attack 3: the charge is also incomplete in the opposite direction
+
+"For legacy equipment they do not" is true of the **recast** Directive and could be read as saying legacy equipment carries no product liability at all. It does. The 1985 regime continues to apply to products placed on the market before the cut-off. **A correction that could itself mislead a construction audience is not a safe correction to send.**
+
+### What survives of 3.1
+
+**One drafting suggestion.** Slide 32's single line could add six words: "for products placed on the market after that date". That is a tidy improvement to a summary bullet.
+
+**That is not "the most serious factual error in the deck". It is a wording tweak on a summary slide whose own detail slide already covers the point.**
+
+**Recommendation: delete 2.3, delete 3.1, and move the six-word suggestion into the polish section at 4.7.**
+
+---
+
+## SECTION 3.2 — IT SURVIVES, BUT NOT AS WRITTEN
+
+Three claims are doing work here. One is excellent, one is risky, one should be deleted.
+
+### The claim that holds, and it is the real finding
+
+**The US section runs Caremark and McDonald's. The UK section runs SM&CR and Consumer Duty. The Irish section runs fifteen regulators and nothing on what an Irish director personally owes.**
+
+Meridian checked this across all 43 slides and it is correct. **This is the genuine gap, it is verifiable by anyone with the deck, and it needs no legal argument at all to land.** It should be the whole of 3.2.
+
+Section 228(1)(g) itself is accurately stated and Jürgen retrieved it from a primary source. Keep it as the answer to the gap.
+
+### Attack on the "attendance raises your standard" line
+
+This is the line Jürgen calls the most powerful sentence available to an Irish governance speaker. **It is powerful. It is also untested, and recommending it creates the exact problem Jürgen complains about at 4.6.**
+
+**Four attacks.**
+
+**One. Hearing a talk is not obviously "knowledge and experience".** The subjective limb captures what the director in fact has. It is conventionally understood to reach a director's actual expertise and background, so that a qualified accountant is held to an accountant's standard on the accounts. **Whether sitting through a one-hour conference presentation imports "knowledge and experience" within the meaning of the subsection is arguable at best, and no Irish authority is offered for it.**
+
+**Two. The test is composite, not a ratchet.** It asks what a reasonable person **having** that knowledge would do in the same circumstances. If what the director acquired is "AI is regulated and there are dates coming", the reasonable response is probably to ask management for an AI inventory and a position. **Which is what slide 6 already recommends.** The practical consequence of the asserted rise may therefore be very small, and a director who acts on slide 6 has met it.
+
+**Three, and this is the serious one. It puts Pat in the position section 4.6 criticises.** Jürgen's own 4.6 says the disclaimer does not do its work because slides state "banned!" and "binding law, not guidance". **Telling a room of directors that their personal legal standard rose during his talk is a considerably stronger legal assertion than either of those**, delivered by someone who is not their solicitor, in a session disclaimed as not legal advice. **The note would be recommending that Pat increase the precise exposure it elsewhere tells him to reduce.**
+
+**Four. It is unnecessary.** The deck already contains Irish personal liability and never uses it. Slide 20 quotes NIS2 Article 20, that management bodies approve cyber risk measures, oversee implementation, **"and can be held liable for infringements"**. Slide 21 adds the National Cyber Security Bill Head 28, **"Management Board approval and oversight of cyber risk measures, with personal liability"**, with draft penalties to €10m or two per cent of turnover.
+
+**Pat has personal liability, in Irish terms, with a number attached, and never joins it to AI governance.** That is a stronger, safer and more constructive criticism than importing company law, because it points at material he already owns.
+
+**Recommendation.** Keep the section 228 point as the answer to the jurisdictional gap. **Offer the second limb as an idea for Pat to take his own view on, flagged as untested, rather than as the line he should deliver.** Lead instead with the NIS2 thread he already holds.
+
+### The claim to delete outright
+
+*"Irish law does not distinguish between executive, non-executive, nominee, shadow or de facto directors when applying these duties."*
+
+**Delete it. Do not soften it.**
+
+It is sourced secondarily, Jürgen has honestly flagged that, and it is overstated: section 228(1)(g) expressly measures against a person **"in the same position as the director"**, so position sits inside the test. The treatment of shadow and de facto directors under the 2014 Act is more layered than a single sentence allows.
+
+**It adds nothing.** The argument that the Irish section lacks a director duty anchor is complete without it. **It carries all of the section's risk and none of its weight, and it is the one sentence in the whole document a company lawyer would reach for to discredit the rest.**
+
+---
+
+## WHAT THIS DOES TO THE NOTE OVERALL
+
+**3.1 goes. 3.2 narrows and strengthens.**
+
+Jürgen's concern was that if either falls the note softens. **The opposite happens.** Removing an unfounded charge and one overstated sentence leaves a document with nothing in it that Pat can refute, which is worth more than two extra findings he can knock down.
+
+**The note's centre of gravity moves to where it should have been: the Irish board got regulators where the American and British boards got personal exposure, and Pat already holds the Irish personal liability material on slides 20 and 21 without using it.**
+
+---
+
+*Adversarial pass · Meridian Intelligence · 2 October 2026 · Private and confidential. Run at Jürgen's request against sections 3.1 and 3.2. Deck references checked against V5R2 as read on 21 September 2026. Statements about the Companies Act 2014 and the Product Liability Directive are general and are not legal advice; confirm before quotation. Meridian informs. It never represents.*
