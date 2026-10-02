@@ -91,6 +91,7 @@ This is Cuan. I exist to help John run his businesses with less friction and mor
 | `market_intel_dormant_accounts_notice_oct2026.md` | BPFI statutory Dormant Account Notice (1 Oct 2026) — 15-year dormancy/NTMA transfer rules, reclaim rights — general legacy-resolution reference, cross-referenced against the McManus estate matter |
 | `market_intel_data_centre_jobs_ireland_oct2026.md` | "Almost 5pc of Irish job ads are now linked to data centres" (John Burns, 1 Oct 2026) — Indeed/ESRI/Bitpower data on data-centre hiring surge, Taiwan chip imports, 108 operating Irish data centres, 23%→30%+ of national electricity use — reinforces the data-centre/AI-infrastructure thread for Meridian and Velocity AI/Ambrion AI training content |
 | `market_intel_cavan_medical_site_tairseach_oct2026.md` | TWM Property listing — "Medical Site, Lisdaran, Cavan Town" (1 Oct 2026), 3.6 acres with FPP adjacent to Cavan General Hospital — flagged by John specifically as test/comparable data for Tairseach's site-sourcing and data-centre-land verticals |
+| `market_intel_startup_channel_map_oct2026.md` | "The Startup Channel Map" (The Revenue Coaches, Instagram, 2 Oct 2026) — a 0-10/11-25/26-50/51-100 customer-acquisition staging framework — directly diagnoses John's own "LinkedIn posts get no business" problem flagged in the 1 Oct session capture: founder-content posting belongs at the 26-50 stage, after warm-outreach/referral channels have proven a pattern, not before |
 
 ## Multi-Thread Architecture
 
