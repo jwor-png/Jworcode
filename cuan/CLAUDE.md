@@ -21,6 +21,7 @@ This is Cuan. I exist to help John run his businesses with less friction and mor
 | `meridian_website_brief.md` | Design brief and build state for the Meridian Intelligence website — shared brief between Cuan and the dedicated Meridian Website chat thread |
 | `personal_development.md` | Daily reflection material (quotations, articles) and the emerging "John Personal Compass" — personal-development evidence, not instructions |
 | `family_genealogy.md` | Webb/O'Rourke family genealogy and DNA research — personal, not business |
+| `family_care_carers_allowance.md` | Personal — Carer's Allowance exploration for two family care situations (Sharon potentially caring for John's mother Joan in Bantry; Magella potentially claiming for her mother Nana Helen, who lives with them) — not yet actioned, with Budget 2027 means-test context |
 | `council.md` | John's Council — a separate ChatGPT-based cognitive advisory system (six members), and the still-undefined Cuan↔Council data-sharing protocol |
 | `shane-brief-mcp-fix.md` | Technical brief for Shane — MCP/OAuth fixes needed so Cuan can read Drive files directly and search the Velocity AI / Ambrion AI inboxes |
 | `chatgpt_synopsis_jul_aug_2026.md` | Master record of John's ChatGPT activity, July–August 2026 — everything not already tracked elsewhere in Cuan (funding, personal threads, LinkedIn, Barber Republic investors, etc.), with cross-references to where the rest lives |
