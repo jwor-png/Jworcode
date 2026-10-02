@@ -2408,3 +2408,15 @@ in trust"), consistent with Shane's own stated intent but worth John
 confirming this is the current, approved version before any further
 circulation, given its sensitivity and single-owner framing (Shane named
 as sole owner, not John, not a joint entity).
+
+## Ambrion LinkedIn post from the Maynooth conference — posted (confirmed 2 Oct 2026)
+
+John confirmed the Ambrion governance-angle LinkedIn post drafted from the
+29 Sept Maynooth conference (title: "AI Governance Has a New Voice at the
+Table") was posted the night of 1 Oct 2026. Post deliberately did not
+name or reference Childen — framed purely around the conference topic
+(Living Magnifica Humanitas, safeguarding the human person in the time
+of AI) and Ambrion's own governance positioning, closing with "AI
+driven. Human led." and jwor@ambrion.ai. Purpose stated by John: keep up
+separate posting momentum alongside the Meridian LinkedIn page, without
+this post itself being a Meridian post.
