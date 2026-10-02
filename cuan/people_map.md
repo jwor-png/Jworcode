@@ -579,6 +579,23 @@
 - **Not yet actioned** — no outreach made, logged for the relationship
   map only.
 
+## Tadhg Daly — good personal friend of John's, CEO of Nursing Homes Ireland
+- **Relationship:** John describes him as "a good friend of mine," flagged
+  2 Oct 2026 alongside an opinion piece Tadhg wrote in national press
+  ("Finding our collective voice on age old crisis," calling on government
+  to convene a national dialogue on ageing — see
+  `market_intel_tadhg_daly_ageing_dialogue_oct2026.md`).
+- **Role:** Chief Executive, Nursing Homes Ireland.
+- **John's own stated interest:** "I have a special interest in ensuring
+  our elderly are looked after" — a personal value, not just a venture
+  angle, though it overlaps directly with Golden Generation's thesis and
+  the broader entitlements/eldercare material already tracked in Cuan
+  (fuel allowance, household benefits, Carer's Allowance for Joan/Nana
+  Helen — see `family_care_carers_allowance.md`).
+- **Not yet actioned** — no specific ask or outreach noted; logged for
+  relationship-map continuity given the personal friendship and shared
+  interest area.
+
 ## To Map
 [ASK: Who else is in John's regular orbit — advisors, investors, lawyers, accountants, other board contacts?]
 [ASK: Who are the key personal relationships Cuan should be aware of for scheduling and prioritisation?]
