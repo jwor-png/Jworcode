@@ -948,3 +948,11 @@ Source: Instagram, account birdiesocial.golf. Practical reference image —
 ball position relative to stance for each club (driver through wedge),
 farther back to more forward as club gets shorter, shoulder-width stance,
 centred. Personal hobby/golf reference only, no venture tie.
+
+## "We can change our future by merely changing our attitude" — Colm O'Brien (LinkedIn, captured 2 Oct 2026)
+
+Source: LinkedIn, Colm O'Brien (business coach, WIG-WAM Business Coaching), posted 28 September 2026. UNVERIFIED — a motivational graphic, no attribution given beyond the poster himself.
+
+> "We can change our future by merely changing our attitude to the positive. Simple but effective."
+
+Brief, logged for reference — consistent with the recurring action/attitude theme already tracked in this file, though a lighter entry than most.
