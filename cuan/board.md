@@ -1,5 +1,24 @@
 # Board — Live Dashboard
 
+## 🔥 Today's priorities
+
+1. 🔴 **ODIN** — $20m/20% term sheet deadline live with the US party (via
+   Dermot); $200m/20% Saudi offer also in play. Be ready to move fast.
+2. 🔴 **Julianstown Mill** — Fred Logue appeal response with ACP; sale to
+   John Lynch pending outcome; Glynn's Solicitors need chasing.
+3. 🟡 **Childen/Vatican** — formal Vatican meeting invitation still
+   expected, not yet received; draft letter still unsent.
+4. 🔴 **Velocity AI** — Gmail script fix still outstanding.
+5. 🔴 **Meridian website + email** — hosting/DNS decision needed from John
+   to get it live.
+6. 🟡 **UHL AI opportunity** — Data Transformation Programme opening;
+   conflict-of-interest disclosure already made to Chairman McGettigan.
+
+*(Full board below — this list is a same-day cut of the 🔴/🟡 items most
+likely to need a decision or action today.)*
+
+---
+
 Phone-scannable. If it's not moving something today, it's not on this page —
 full history and context lives in `operating_creed.md` and `revenue_streams.md`
 instead. Ordered by what actually matters to John, not alphabetically.
