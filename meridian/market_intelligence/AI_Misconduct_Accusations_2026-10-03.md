@@ -2,7 +2,7 @@
 
 **Source:** *"Students hire lawyers to fight AI misconduct accusations from universities"*, by **Josh Gabert-Doyon**. Section heading: Higher education, Academic standards. Photographed by John, 3 October 2026.
 
-**Publication:** **not established from the capture.** No masthead or date visible. The article twice refers to interviewees speaking "to the FT", which is strong internal evidence that it is the Financial Times, and the newsprint and layout are consistent with that. **Recorded as attributed-by-inference rather than verified.** One photograph of the masthead would close it.
+**Publication: VERIFIED. FT Weekend, Saturday 3 October / Sunday 4 October 2026.** Masthead photographed separately by John on 3 October and carrying the Ireland edition price. **This capture now meets the capture standard in full on masthead and date.** The internal references to interviewees speaking "to the FT" are consistent with it.
 
 **Status:** IN REVIEW. All seven domains routed.
 
@@ -113,7 +113,7 @@ A policy written centrally and interpreted locally. Detection tools that are fla
 
 1. **Add the employment exposure to the Legal and Governance standing question set:** does the organisation use AI detection in any disciplinary context, can it explain the tool, and has it tested the differential effect by nationality.
 2. **Add the three-tier policy structure** as a standard recommendation: encouraged, disclosable, prohibited.
-3. **Confirm the publication.** One photograph of the masthead and date closes it.
+3. **Publication confirmed on 3 October.** FT Weekend, 3 and 4 October 2026. Closed.
 4. **Do not cite the 9 per cent figure or the Stanford finding directly.** Both are reported at one remove and should be traced before external use.
 5. **Agree the boundary with Shane** before this is offered, as with the rest.
 
@@ -125,8 +125,8 @@ A policy written centrally and interpreted locally. Detection tools that are fla
 
 **The angle:** your AI policy is not a technology document, it is the evidential basis for a disciplinary process you have not thought about yet. **Nothing in it requires naming a university, a firm or a vendor.**
 
-**Held rather than drafted, pending the publication being confirmed**, since a post citing an unidentified newspaper would be a poor advertisement for the verification discipline.
+**Publication confirmed on 3 October, so the hold is lifted. Drafted as LinkedIn post 13.**
 
 ---
 
-*Meridian Intelligence · Domain analysis · 3 October 2026 · Private and confidential. Status IN REVIEW. All seven domains routed; Finance and Property return nil. Publication attributed by inference from internal references and NOT verified; masthead and date not captured. Statistics and the Stanford finding are reported at one remove. Irish employment law references are general and are not legal advice. Manager 7 output carries the frontier caveat. Meridian informs. It never represents.*
+*Meridian Intelligence · Domain analysis · 3 October 2026 · Private and confidential. Status IN REVIEW. All seven domains routed; Finance and Property return nil. Publication VERIFIED as FT Weekend, 3 and 4 October 2026, from a separate masthead capture. Statistics and the Stanford finding are reported at one remove. Irish employment law references are general and are not legal advice. Manager 7 output carries the frontier caveat. Meridian informs. It never represents.*

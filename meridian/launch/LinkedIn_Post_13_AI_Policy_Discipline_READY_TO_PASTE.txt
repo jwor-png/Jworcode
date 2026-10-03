@@ -1,0 +1,23 @@
+𝗬𝗼𝘂𝗿 𝗔𝗜 𝗽𝗼𝗹𝗶𝗰𝘆 𝗶𝘀 𝗻𝗼𝘁 𝗮 𝘁𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 𝗱𝗼𝗰𝘂𝗺𝗲𝗻𝘁. 𝗜𝘁 𝗶𝘀 𝘁𝗵𝗲 𝗲𝘃𝗶𝗱𝗲𝗻𝗰𝗲 𝗯𝗮𝘀𝗲 𝗳𝗼𝗿 𝗮 𝗱𝗶𝘀𝗰𝗶𝗽𝗹𝗶𝗻𝗮𝗿𝘆 𝗽𝗿𝗼𝗰𝗲𝘀𝘀 𝘆𝗼𝘂 𝗵𝗮𝘃𝗲 𝗻𝗼𝘁 𝘁𝗵𝗼𝘂𝗴𝗵𝘁 𝗮𝗯𝗼𝘂𝘁 𝘆𝗲𝘁.
+
+There is a piece by Josh Gabert-Doyon in FT Weekend this morning about students hiring lawyers to defend themselves against accusations of using AI in their coursework. One barrister describes a tsunami of inquiries and says his firm took 300 of them in the first half of this year, somewhere near 40 per cent of its total business. Defending an internal panel runs to a few thousand pounds, more if you need a forensic linguist.
+
+Read it as a higher education story and it is interesting. Read it as an employment file and it is a warning, because every element that produced it already exists inside organisations that have written an AI policy in the last eighteen months.
+
+The defence that is working for students is not that they did not do it. It is that the institution's own policy was written centrally and applied differently by each department. Any employee facing the same accusation will run exactly that argument, and it is easier to prove inside a company than inside a university, because managers leave a written trail.
+
+Then there is the detection software, which counsel in that article describes as flawed. A 2024 study by Stanford academics is reported as finding that it disproportionately flags writing by people whose first language is not English, and the Quality Assurance Agency's policy lead makes the same point about international students being at higher risk of false accusation. Sit with that for a moment in an employment setting. An employer relying on a tool with a known differential effect by nationality, in a disciplinary process, has a problem that has nothing to do with artificial intelligence and everything to do with equality law.
+
+There is also an evidential point that gets missed. These tools return a probability. Treating a percentage as a finding of fact, in a process where somebody can lose their job, is not a technology error. It is the kind of thing that gets taken apart on a Tuesday afternoon in front of an adjudicator.
+
+Two universities named in the piece have started using the phrase poor academic practice to describe some AI use, which is the most useful idea in it. It creates a middle tier between acceptable and dismissible. Most employers have a binary, and a binary turns the ordinary daily use of a tool the organisation actively encourages into a disciplinary matter.
+
+The student at the centre of the article explains how she came to be accused better than any expert quoted. She uses these tools for email and admin, and says that if you are at university now you are going to pick up the language and the way that chatbots talk. That is the part nobody has priced. Detection gets harder every month, because AI influenced writing is becoming simply how people write.
+
+So the question is not whether your organisation has an AI policy. It is whether that policy could survive being the foundation of a dismissal. Three categories rather than two, written at the level of the actual job. What is encouraged, what has to be disclosed, and what is prohibited. And if you are relying on a detection tool anywhere near a disciplinary process, ask the vendor what it does to writing by people who learned English as a second language, and get the answer in writing.
+
+𝗔𝗜 𝗱𝗿𝗶𝘃𝗲𝗻. 𝗛𝘂𝗺𝗮𝗻 𝗹𝗲𝗱. 𝗜𝗻 𝘁𝗵𝗮𝘁 𝗼𝗿𝗱𝗲𝗿.
+
+Source: Josh Gabert-Doyon, FT Weekend, 3 and 4 October 2026. The Stanford finding and the survey figures are as reported there.
+
+#EmploymentLaw #CorporateGovernance #ArtificialIntelligence #AIGovernance #HR #Ireland
