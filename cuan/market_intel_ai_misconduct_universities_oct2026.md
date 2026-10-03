@@ -1,6 +1,6 @@
 ---
 title: "Students hire lawyers to fight AI misconduct accusations from universities" / "Barrister describes 'tsunami' of undergraduate inquiries over technology crackdown"
-source: Financial Times, Josh Gabert-Doyon, early October 2026
+source: FT Weekend, Josh Gabert-Doyon, Saturday 3 October / Sunday 4 October 2026 edition
 captured_by: John Webb O'Rourke (photograph)
 filed: 2026-10-03
 tags: [ai-governance, jurgen, meridian, education, ai-detection]
