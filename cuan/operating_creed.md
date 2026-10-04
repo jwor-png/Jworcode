@@ -1036,6 +1036,13 @@ are flagged for confirmation, never guessed.
     preference for a future vehicle, distinct from the immediate Owen's-
     jeep insurance matter, which remains about a temporary short-term
     fix, not a replacement decision.
+  - **RESOLVED, 4 Oct 2026 — the Evoque broke down and has been
+    recovered under AXA's breakdown cover** (confirmed via Campion,
+    059 916 7720, ref OROJ24002), **being delivered to Clinton
+    (garage) tomorrow.** Closes out the immediate breakdown/recovery
+    question raised the same day; separate from the earlier Owen's-jeep
+    DOC/temporary-insured-vehicle thread above, which was about driving
+    cover during a prior Evoque outage, not this breakdown itself.
 - **Majella's Newcastle West contact ("Majella Boat" — name/spelling to
   confirm) re: a bank account matter** — John needs to call her back.
 - **Phone voicemail rings too short** — John wants the number of rings
