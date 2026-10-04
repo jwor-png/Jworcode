@@ -956,3 +956,15 @@ Source: LinkedIn, Colm O'Brien (business coach, WIG-WAM Business Coaching), post
 > "We can change our future by merely changing our attitude to the positive. Simple but effective."
 
 Brief, logged for reference — consistent with the recurring action/attitude theme already tracked in this file, though a lighter entry than most.
+
+## Dr Wayne Dyer — bedtime practice / manifestation prompts (Instagram, captured 4 Oct 2026)
+
+Source: Instagram, drwaynedyer (official account, posthumous curated content; audio "David Tolk · Beautiful"). UNVERIFIED as to exact original context/date of the underlying Dyer footage, but attributed directly to Dr Wayne Dyer himself, not a secondhand paraphrase.
+
+> "Then say who you want to be, as if it's already true: 'I am well. I am content. I am lucky.' ... That's my own bedtime practice every night."
+
+> "Ask yourself: 'How would I feel were my wish realized?' Then feel it. Not just think it. Feel it, as if it already existed."
+
+> "I want you to reverse this practice. Instead of using these five minutes to review what you don't want, review everything you want to attract into your life."
+
+**Worth flagging for John's own reflection:** the "say who you want to be, as if it's already true" framing is a slightly different angle from the recurring action-over-anxiety theme already tracked repeatedly in this file (shaving-mirror mantra, Emerson, Ross Harkness, desk calendar, Sharran Srivatsaa) — this one is about end-of-day mental framing/gratitude rather than daytime action, a complementary rather than overlapping practice if useful.
