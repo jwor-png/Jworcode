@@ -1017,3 +1017,15 @@ Five micro-habits, each under 60 seconds:
 5. **Gentle Movement** — a short physical reset (stretching shown in the graphic).
 
 **Worth flagging for John's own reflection:** another instance of the recurring "action over rumination" theme already well-tracked in this file (shaving-mirror mantra, Emerson, Ross Harkness, desk calendar quotes, Sharran Srivatsaa) — this one adds concrete, practical 60-second techniques rather than just the principle, which may be more directly usable day-to-day than the other quote-based entries.
+
+## "5 things people who manifest fast do differently" (Instagram carousel, captured 5 Oct 2026)
+
+Source: Instagram carousel (account not visible in captured frames). UNVERIFIED — a manifestation/mindset post, no cited research.
+
+1. **They talk like it's already happening** — "When I start the new job," not "if I get it." Their words match the result they want.
+2. **They stay busy with their own life** — they don't sit waiting for signs. A full life leaves no room for doubt to grow.
+3. **They're picky about what goes in** — what they watch, who they listen to, what they scroll. Their mind only gets fed what they want more of.
+4. **They celebrate small wins** — a free coffee, a kind email, a good parking space. Noticing small things tells your brain more is coming.
+5. **They keep the same few beliefs** — not 50 affirmations once. A handful, every single day, until they feel like facts.
+
+Logged for reference, no specific action identified — consistent with this file's general reflection/resonance-tracking purpose, though more manifestation-framed than the action-oriented entries already tracked.
