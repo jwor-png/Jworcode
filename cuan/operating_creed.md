@@ -1717,3 +1717,30 @@ yet — flagged for John's decision on whether to set this up.**
     see earlier entry). John wants to also get the **flu and COVID
     vaccinations** the same visit, if possible — to be requested on
     the day.
+
+- **Schedule conflict flagged, 5 Oct 2026 — John working through the
+  knock-on effects of the Manchester trip (12-14 Oct).**
+  - **AI Office/governance conference, 14 October** — John will miss
+    it, as the Manchester return (Wednesday 14 Oct, landing Dublin
+    4pm) doesn't allow attendance.
+  - **UHL Velocity AI training, Group 2 Session 3 — confirmed 15
+    October, 9:30am-1pm** (per Maya Gough's 9 Sept email to Shane, cc
+    John — see `ventures_dossier.md`). **John cannot attend** — he and
+    Majella are travelling to Spanish Point (the Armada) on Thursday
+    15-16 October, not home until the 17th. **John needs to ask Shane
+    to run this session solo** — not yet confirmed with Shane as of
+    this logging (John hadn't reached him by phone yet).
+  - **Shane's email to Paul Candon, same period (UnitedHardware
+    "Orchestrations and one to one" thread)** — Shane proposed a site
+    visit Wednesday-Friday the week after next, or specifically
+    Thursday 15 Oct afternoon (after the final Dave's-team training
+    that morning) or Friday, staying in Dublin. **Note: Shane's own
+    proposed Thursday 15 Oct afternoon visit to Paul Candon would
+    clash with the same day's UHL training session** John now needs
+    him to run solo — worth flagging to Shane directly so he doesn't
+    double-book himself across the two. Shane also flagged ChatGPT's
+    new "DOTS" feature (launched the day before, an "always-on AI
+    Assistant") as relevant to Paul's own stated interest in staying
+    ahead of AI developments — to be tested/specced before their
+    meeting. **Status: email sent to Paul Candon, reply not yet known**
+    — John hasn't spoken to Shane to confirm.
