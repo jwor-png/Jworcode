@@ -1830,3 +1830,12 @@ yet — flagged for John's decision on whether to set this up.**
   - **Slow cooker** — to be purchased online, Wednesday.
   - **Amazon iPhone covers** — wrong item received, needs returning for
     a replacement (already logged above in the handwritten-notes batch).
+
+- **Declan McCormack follow-up — reiterated 5 Oct 2026.** Reach out to
+  Declan McCormack (Head of AI and Digital Regulation, Department of
+  Enterprise — already confirmed, see `childen.md`) — consistent with
+  the outreach already flagged from the 1 Oct session capture
+  (alongside Paul Byrne, AI Office CEO). Not yet actioned.
+- **New Revolut account — to be considered in the weeks ahead (5 Oct
+  2026).** No further detail given — personal/financial housekeeping
+  item, logged for the record only.
