@@ -963,6 +963,14 @@ Source: LinkedIn, Colm O'Brien (business coach, WIG-WAM Business Coaching), post
 
 Brief, logged for reference — consistent with the recurring action/attitude theme already tracked in this file, though a lighter entry than most.
 
+**Two further entries from the same series, captured 5 Oct 2026:**
+
+> "The first step to getting anywhere is deciding that you are not willing to stay where you are."
+
+> "Today I choose to live with gratitude for the love that fills my heart, the peace that rests within my spirit, and the voice of hopes that says... all things are possible."
+
+Same source (Colm O'Brien/WIG-WAM Business Coaching). The first line is another instance of the recurring action-over-inertia theme already well-tracked in this file; the second is a gratitude/reflection piece, a lighter tone than most of this file's entries.
+
 ## Dr Wayne Dyer — bedtime practice / manifestation prompts (Instagram, captured 4 Oct 2026)
 
 Source: Instagram, drwaynedyer (official account, posthumous curated content; audio "David Tolk · Beautiful"). UNVERIFIED as to exact original context/date of the underlying Dyer footage, but attributed directly to Dr Wayne Dyer himself, not a secondhand paraphrase.
