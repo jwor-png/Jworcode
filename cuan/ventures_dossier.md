@@ -4638,3 +4638,16 @@ All three emails were self-forwarded by John on 1 Oct but only arrived in his in
 John is exploring a route into **Stripe** (John and Patrick Collison's payments company) as a possible ODIN investor, flagged the same evening a Sunday Times gossip item on Stripe's Dublin profile was shared (Ryan Tubridy's daughter Ella Tubridy landing a Stripe Dublin communications role — informal context only, not separately logged as its own market intel file) alongside Stripe's own reported Dublin financials (pre-tax profits quadrupled to €390m). **Spoken to Shane about it today; the two are to discuss further tomorrow.** No specific approach, contact or structure identified yet — this is an early, exploratory idea, not a live lead with a named contact (unlike the UAE family office directory or the US/Saudi offers already tracked).
 
 **Cross-reference:** adds a third funding channel under active exploration for ODIN, alongside the existing US ($20m/20%, via Dermot) and Saudi ($200m/20%) offers, and the UAE family office directory already shared with Shane (`market_intel_uae_family_offices_vc_oct2026.md`). Worth tracking as a distinct thread — Stripe's own scale and Irish base could make it a genuinely different kind of investor (strategic/corporate rather than individual or family office) if the idea develops. No known existing relationship or warm introduction route to Stripe has been identified yet.
+
+**Update, same day — a fourth channel identified: the Invest Qatar Gateway**
+(`market_intel_invest_qatar_gateway_oct2026.md`) — a QIA-backed ($600B+ AUM
+sovereign fund, $3B startup Fund of Funds) founder funding platform with a
+stated direct, no-cold-intro pitch route to 15+ participating VC funds
+(including recognised international names B Capital, Greycroft,
+Speedinvest). **This is the most procedurally concrete of the four ODIN
+funding leads currently on file** — a free registration process with
+clear steps, rather than requiring a warm introduction, unlike the US/
+Saudi offers or the UAE family office directory. Worth raising alongside
+the UAE directory in tomorrow's discussion with Shane, given both are
+Gulf-region sovereign/institutional capital sources surfaced the same
+week.
