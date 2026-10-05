@@ -1755,3 +1755,26 @@ yet — flagged for John's decision on whether to set this up.**
   overseeing AI adoption, per John's own commitment in that message.
   John to pick these up himself from Wednesday — no action from Cuan
   before then.
+
+- **Priority reset, 5 Oct 2026 — generating more revenue weekly is
+  John's stated focus above all else.** Two immediate actions flowing
+  from this:
+  1. **Ger Blake — reply email from several weeks ago still needs
+     following up.** John wants this picked back up at least every
+     second day, if not daily, rather than left sit (the Midleton PCC/
+     Thomond-Ilex thread has had over three months of apparent silence
+     — see `ventures_dossier.md`). Not yet actioned as of this logging.
+  2. **Midleton PCC planning file — commencement notice status**
+     (ref 24/06172, Cork County Council) — John wants this checked
+     properly; Cuan's web search corrected the grant date (13/08/2025,
+     not 8 July 2025 as previously logged) but the portal itself
+     remains blocked to automated access, so commencement-notice status
+     is still unconfirmed. See `ventures_dossier.md`, Thomond/Ilex
+     Midleton section, for full detail.
+- **Feedback on the daily board email, 5 Oct 2026** — John said he's
+  more impressed with the morning email than the standalone "Today's
+  priorities" framing suggested, and flagged there were things today
+  that needed updating he noticed while reading it. He plans to comment
+  further on this tomorrow morning once he's reviewed it properly —
+  nothing for Cuan to action yet, just noted so the context isn't lost
+  before that conversation happens.

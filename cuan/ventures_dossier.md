@@ -3562,6 +3562,23 @@ to any specific project decision yet.
   plan... back to the drawing board with no credible back up right now."
   No further Midleton correspondence found since — over three months of
   apparent silence on this thread as of Sept 2026.
+  - **Planning detail corrected/expanded, 5 Oct 2026 (web search, Cork
+    County Council's own published weekly lists — portal itself
+    `planning.corkcoco.ie` remains blocked to automated access, same as
+    every prior attempt):** application 24/06172 was **received
+    18/11/2024, validated 25/11/2024, decision made 09/07/2025
+    (Conditional, 26 conditions), and the actual grant date was
+    13/08/2025** — a month later than the "8 July 2025" figure
+    previously logged, which appears to have been the decision date,
+    not the grant date. Site address confirmed as Market Green
+    Knockgriffin (lands north of Market Green Plaza, east of Midleton
+    Retail Park), with a new vehicular access point from Market Green
+    Plaza. **Still no commencement notice found anywhere in public
+    search results** — this remains unconfirmed, not ruled out. John
+    flagged 5 Oct that he wants to check this directly rather than rely
+    on web search alone; the portal block means this still needs either
+    a manual portal check or a direct question to Ger Blake/Cork County
+    Council.
 - **Axis Health Care Assets Ltd — not established as connected to
   Midleton.** Axis is a Cork developer with a long-term Development
   Pipeline Agreement with PHP (signed alongside PHP's Jan 2023
