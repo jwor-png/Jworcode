@@ -1734,11 +1734,12 @@ yet — flagged for John's decision on whether to set this up.**
     "Orchestrations and one to one" thread)** — Shane proposed a site
     visit Wednesday-Friday the week after next, or specifically
     Thursday 15 Oct afternoon (after the final Dave's-team training
-    that morning) or Friday, staying in Dublin. **Note: Shane's own
-    proposed Thursday 15 Oct afternoon visit to Paul Candon would
-    clash with the same day's UHL training session** John now needs
-    him to run solo — worth flagging to Shane directly so he doesn't
-    double-book himself across the two. Shane also flagged ChatGPT's
+    that morning) or Friday, staying in Dublin. **RESOLVED, same day —
+    no clash after all.** John confirmed the UHL training takes place
+    in the same building as Paul Candon's office, so Shane can simply
+    meet Paul at 1:30pm straight after the training session finishes —
+    easily arranged, one trip covers both. No need to separately flag
+    a double-booking risk to Shane. Shane also flagged ChatGPT's
     new "DOTS" feature (launched the day before, an "always-on AI
     Assistant") as relevant to Paul's own stated interest in staying
     ahead of AI developments — to be tested/specced before their
