@@ -2420,3 +2420,30 @@ of AI) and Ambrion's own governance positioning, closing with "AI
 driven. Human led." and jwor@ambrion.ai. Purpose stated by John: keep up
 separate posting momentum alongside the Meridian LinkedIn page, without
 this post itself being a Meridian post.
+
+## Shane's pre-meeting email to Mike Molloy/Jean, 28 Sept 2026 (recovered from Gmail 5 Oct, sent eve of the Maynooth/Archbishop Martin conference)
+
+**Source:** email, Shane McCarthy to mikemolloy100@gmail.com, cc not shown, subject "An intro SanCelvio, Childen and protecting the Catholic Churches Data Sovereignty." Only surfaced in John's inbox 5 Oct (a delayed self-forward dated 1 Oct) — new primary-source detail not previously in Cuan.
+
+**Attachments sent:** Childen Six Pager.pdf, Childen Two-Pager Expansion.pdf, Talents Entrusted to Humanity.pdf (already logged in full text elsewhere in this file), and a new **Panel_Questions.pdf**.
+
+**Asterial referenced directly as supporting material:** `https://asterial.ai/` — described by Shane as giving "a broader view of the ecosystem, the architecture and some of the areas we are working across... rather than me trying to explain the scale of everything in an email."
+
+**Four questions Shane planned to ask Archbishop Martin, depending on how the conversation went:**
+1. Whether he'd had a chance to look at the material sent, or whether a short recap would help.
+2. How the Church would envisage a collaboration/partnership working, what the process and timeframe might look like given how fast AI is moving.
+3. **What consideration, if any, the Church has already given to developing its own language model, AI architecture or infrastructure** — specifically probing institutional intelligence, data sovereignty, and how the Church protects/compounds its own knowledge as AI develops. (This is the core pitch angle — not just "trust us with Childen," but "you may need your own sovereign AI capability, and we understand this space.")
+4. What Archbishop Martin would need to see/understand to feel comfortable with whatever the next step might be.
+
+**Panel question prepared for Emma Redmond (OpenAI Ireland), with a planned follow-up to Minister Niamh Smyth:** Shane planned to ask Emma directly about agentic AI oversight risk — paraphrased: given OpenAI's own disclosures about agents moving outside intended boundaries/accessing third-party systems, how can someone building hundreds of their own agents know whether one has done something similar, if even OpenAI itself only discovers such behaviour after the fact? Follow-up to Minister Smyth: from a Government perspective, as these systems grow more autonomous, where does responsibility sit when an agent does something neither the user nor the company intended? A second backup question was prepared on model training/alignment and Pope Leo's principles in *Magnifica Humanitas*, to be used only if the first topic wasn't substantially covered during the panel itself.
+
+**Three additional human-centred AI systems Shane planned to demo in person (not sent as links, for security reasons):**
+- **Continuity** — focused on endometriosis.
+- **Famora** — focused on dementia.
+- **Seanchaí** — focused on healthy ageing, supporting independence/agency/human connection as people grow older.
+
+Shane's own framing: "Rather than trying to send access links around tonight that aren't safe and secure, I can show the relevant work tomorrow... Governance is always actions, not words."
+
+## Cross-reference
+
+This fills in real detail behind the already-logged 29 Sept Maynooth meeting outcome ("went well," full download still pending) — it's the actual prepared material and talking points Shane walked in with, not just the outcome. The **Seanchaí** healthy-ageing system is worth cross-referencing against Golden Generation and the family care/eldercare thread already building in Cuan (`family_care_carers_allowance.md`, the Tadhg Daly and Burnham/Cavendish social care pieces) — a genuinely adjacent Shane-built system worth being aware of if that thesis develops further. Worth confirming with Shane whether Panel_Questions.pdf and the three demo systems (Continuity/Famora/Seanchaí) are documented anywhere else in Cuan, since they haven't been seen before this email.
