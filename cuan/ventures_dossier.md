@@ -2899,6 +2899,20 @@ John corrected the Team section directly:
   "Barber Barber Ltd," then corrected to add "UK") — not John. Johnny's
   role now also explicitly covers **investor relationships** (previously
   shown under John).
+  - **Update, 5 Oct 2026 — possible entity name change/correction.**
+    A Companies House "New director appointment" letter, dated 27
+    August 2026, shows **John Shanahan appointed director of BARBER
+    REPUBLIC AI LIMITED** (company number **17421841**), registered
+    address **8 Enfield Road, Eccles, Manchester, M30 9NF**. This is a
+    different legal name from "Barber Barber UK Ltd" logged 9 Sept —
+    **not yet reconciled: either the vehicle has been renamed/
+    re-incorporated since 9 Sept, "Barber Barber UK Ltd" was always an
+    informal/trading name rather than the registered one, or Johnny
+    operates via two separate entities.** Worth confirming directly
+    with Johnny which is the correct, current registered entity before
+    it goes into any investor-facing document — the Team section of the
+    John Jones document and any refreshed pitch deck should use the
+    verified, current legal name only.
 - **John's own role is commercial oversight only** — "happy to
   oversee the commercial model," not styled as Chairman in this
   document.
