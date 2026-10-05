@@ -1695,3 +1695,12 @@ already agreed in principle in `master_plan.md`'s "reminders spaced
 through the day" addition — this would be the concrete version of it
 applied specifically to the personal-contact backlog. **Not built
 yet — flagged for John's decision on whether to set this up.**
+
+- **Manchester trip confirmed, John + Shane — Barber Republic MVP
+  testing (logged 5 Oct 2026).** Flights booked: Ryanair FR554, Dublin
+  → Manchester, Monday 12 Oct, 12:30-13:30; return FR1557, Manchester →
+  Dublin, Wednesday 14 Oct, 15:00-16:00. Purpose: meet Johnny Shanahan,
+  Neil Dignam and Anthony Laban in person to test the Barber Republic
+  MVP platform and discuss the business plan and financials. Accommodation
+  not yet arranged — John had not reached Shane by phone as of logging
+  this. **Action: confirm accommodation once John speaks with Shane.**
