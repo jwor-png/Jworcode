@@ -4589,7 +4589,13 @@ This is now, by far, the most complete primary-source record of Barber Republic'
 
 **Core principle, stated directly in the document:** "Nothing blocks you. Ever... Everyone becomes a builder as these tools improve. Starting early is the advantage." Output is a working thing, not a deck — "a rough thing that runs teaches you more in a weekend than a month of thinking ever will." Stays entirely on the user's own machine; nothing shared unless the user chooses to send it.
 
-**How to actually open it, based on the 5 Oct screenshot:** the screen shown was Chrome OS's **Linux (Crostini) developer settings page** (`chrome://os-settings` → Linux/penguin), not a website or bookmark — meaning Partner Design Studio is almost certainly run through a terminal/command-line session (e.g. Claude Code or a similar CLI tool running inside the Linux container on this Chromebook), where the `/studio` etc. commands are typed directly. **To open it: launch the Terminal app** (the `>_` icon in the dock, or via the Linux "penguin" container shown in that settings screen), then start whatever session/tool hosts these commands and type `/studio` to begin. **Not yet 100% confirmed which specific app hosts the session** (likely Claude Code itself, given the slash-command format) — worth John confirming on his next attempt exactly what app/window he's typing `/studio` into, so this can be documented precisely rather than inferred.
+**How to launch it — confirmed, 5 Oct 2026, from Shane's own "Partner Design Studio — Quick Reference" printout:**
+1. Open a terminal (the `>_` icon in the Acer Chromebook's dock — this is the Linux/Crostini "penguin" container seen in the earlier settings screenshot).
+2. `cd` into the Partner Design Studio project folder (the one Shane set up — exact path not given on the printout, John will need to know/find this on the device).
+3. Run `claude` to start Claude Code inside that folder.
+4. Type one of the three commands (`/studio`, `/reality-check`, or `/build-review`) — **`/studio` is the recommended starting point.**
+
+**Important, per the printout:** the commands only work when launched from inside that specific project folder, because that's where the command files live — running `claude` from the wrong directory won't have them available.
 
 ## Cross-reference
 
