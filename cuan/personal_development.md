@@ -988,3 +988,17 @@ Source: Threads, dr.prerna.tiwary (verified account). UNVERIFIED as a researched
 **Notable reply thread, worth including as it adds a genuine argument:** _4shadows commented "Deep curiosity would be higher on my list. Pattern recognition tells you what keeps happening, curiosity makes you ask whether your interpretation of the pattern is even right" — a sharper distinction than the original post itself, worth more than the list alone.
 
 Logged for reference, no specific action identified.
+
+## "In the future, you won't get paid for your skills" — sun.yi (Threads, captured 5 Oct 2026)
+
+Source: Threads, sun.yi (verified account). UNVERIFIED — opinion, not a cited study. Companion thread to the "Five highest forms of intelligence" post above, same evening.
+
+> "In the future, you won't get paid for your skills. You'll get paid for how you think."
+
+**Strongest replies in the thread, worth keeping alongside the original line:**
+- hypermachina: "Skills get commoditized. Judgment doesn't. The edge is knowing what matters, what to ignore, and what to do next."
+- theprachirastogi: "The future belongs to the strategists, orchestrators, and deep thinkers."
+- thisathtkr: "AI has basically come better at us in 90% of skills. But it'll never be able to think on its own. It only amplifies our level of thought."
+- amellamaster841: "Skills build the execution but how you think controls the risk and outcome."
+
+**Worth flagging for John's own reflection:** this is a direct, independent echo of Cuan's own core operating principle (AI extends judgment, doesn't replace it) and of the "AI adoption without governance is exposure" thesis already well-evidenced across multiple logged market intel pieces (Harvey/Winston Weinberg, the philosophy-graduates piece, the Kilkenny AI-judges experiment). hypermachina's "judgment doesn't commoditize" line in particular is a clean, reusable way to frame this for Meridian/Ambrion client conversations.
