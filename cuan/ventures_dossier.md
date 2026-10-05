@@ -4426,3 +4426,55 @@ John asked whether Shane issued one or two invoices to UHL recently. **Confirmed
 - **Vodafone pay-as-you-go number 087 384 6403** — deactivated; John spent time today trying to get it reactivated online without success (can still be used for WhatsApp). Plan: call Vodafone directly tomorrow. Separately considering registering this number specifically for Ambrion AI use once reactivated.
 - **Turkey/cash payment owed to "Zenya"** — gave a tour of the collegiate church on the Tuesday of the recent Tangible Ireland Summer School. **[ASK — name as heard, "Zenya," not otherwise confirmed]**; John needs to arrange payment/thanks.
 - **Personal call — Joe Webb (John's cousin)** — needs to phone Joe regarding **"Kerston"**, who is looking for her father. **[ASK — "Kerston" name as heard, not otherwise identified]; purely personal, logged for completeness only, not a business matter.**
+
+### "Barber Republic — Narrative Options" document, shared 5 Oct 2026 — new primary source for the pitch deck refresh
+
+**Source:** `Barber_Republic_-_Narrative_Options.pdf`, prepared for Johnny "Baba" Shanahan by Velocity AI, London, 2026. Shared by John 5 Oct 2026 specifically as the refined branding/narrative source to work from for the pitch deck update (following his earlier note that his own draft-deck thinking was based on the old colours/branding). **This document uses the current, correct identity system** (near-black background, bronze/gold "REPUBLIC" treatment, serif display type) — consistent with the brand spec already on file (`barber_republic_brand_spec.md`).
+
+**Structure — a choose-your-own-narrative worksheet for Johnny, not a finished pitch deck:**
+
+**Mission (pick one, three options given):**
+1. "Barber Republic connects shops with skilled, verified barbers they can trust, so no chair is left empty and no customer is turned away."
+2. "We give every shop reliable cover the moment it needs it, and give skilled barbers good, well-paid work on their own terms."
+3. "Barber Republic makes good barbers easy to find and easy to trust, so shops keep the customers they have earned and barbers keep their independence."
+
+**Vision (pick one, three options given):**
+1. "To become the biggest republic of skilled barbers in the world."
+2. "A world where every skilled barber can make a proper living on their own terms."
+3. "To raise the standard of barbering the world over."
+
+**Keywords (pick 10-15 from 28 offered):** Reliable, Skilled, Verified, Trusted, Craft, Cover, Independent, Professional, Proper, Rated, Dependable, Standard, Respected, Honest, Elite, Community, Trade, Ready, Republic, Freedom, Quality, Proven, Trustworthy, Backbone, Earned.
+
+**One-liners (15 options, pick top 10) — a few standouts:**
+- "Skilled, verified barbers, the day you need them."
+- "Built by a barber who has lived every problem it solves."
+- "The trusted name behind reliable barbers."
+- "Independence for barbers, dependability for shops."
+- "A better way to keep your shop busy and your barbers earning."
+
+**Focus and values (fixed, not multiple-choice):**
+- "Reliability, real skill, and trust you can count on. That is what the whole thing stands on."
+- "We look after all three at once: the shop, the customer, and the barber."
+- "When people deal with us, we want them to feel looked after, respected, and in good hands."
+- "You can trust us because every barber is verified and rated, and because it is built by a barber who has lived the problem."
+
+**"Why we do it" (John's own words, quoted directly in the document):** "I have run shops and lost shops to unreliable staffing, so I know exactly what it costs a business, and the customers it took years to earn. When a chair goes uncovered, people get turned away, and some never come back. Barber Republic exists so that never has to happen again, and so any skilled barber can make a proper living on their own terms."
+
+**Longer-form lines (15 options, 2-3 sentences each)** — expand the same themes with more detail; several explicitly reference the "checked, rated and trusted" verification model and the three-sided protection framing (shop/customer/barber).
+
+**Media and public section — ready-to-use press lines:**
+- Core messages: "Barber Republic is the trusted way for shops to find skilled cover and for barbers to find good work." / "It protects the customers a shop has spent years earning, and gives skilled barbers independence and good money on their own terms."
+- Public-facing intro lines: "Barber Republic is the trusted marketplace for skilled barber cover." / "Reliable, verified barbers for any shop that needs them, built by the trade."
+
+**Market-size data — NEW, not previously in Cuan, directly usable for the John Jones document and any investor pitch:**
+- **18,411 barbershops across the UK**, and still rising.
+- **Up 50% since 2018** — "the fastest-growing trade on the high street."
+- **60% of the hairdressing and barbering trade now work for themselves.**
+- **750+ new barbershops opened in a single year, 2024 alone.**
+- **Sources cited:** Local Data Company (barbershop numbers/growth, 2024) and the National Hair & Beauty Federation (self-employment figure) — named, citable trade-body sources, not estimates.
+- **The problem, stated plainly:** "Covering a chair at short notice is close to impossible today. Shops rely on happening to know a freelancer or an old member of staff, and even then it is a scramble that often comes to nothing. When someone does not turn up, customers are moved or cancelled. The shop loses money that day, and it loses loyal customers over time."
+- **Corroboration noted in the document itself:** these trade-body figures "line up exactly with what Johnny sees on the ground: thirty years in the trade, three shops lost to staffing since Covid, and shop owners let down week after week."
+
+## Cross-reference
+
+This is now the primary source to build the pitch-deck refresh from, alongside the already-approved `Barber_Republic_John_Jones_Introduction_9Sept2026.docx` (commercial model, team, testimonial — still valid and unchanged) and the current brand spec (`barber_republic_brand_spec.md`). **Next step, per John (5 Oct):** select the preferred mission/vision/one-liner options (not yet chosen) and rebuild the pitch deck combining this narrative layer with the 9 Sept document's settled commercial figures and the correct branding, ahead of the 12-14 Oct Manchester trip. The UK market-size stats (18,411 shops, +50% since 2018, 60% self-employed, 750+ new shops in 2024) should be added to any refreshed investor document — they weren't in the 9 Sept John Jones draft and materially strengthen the market-opportunity section.
