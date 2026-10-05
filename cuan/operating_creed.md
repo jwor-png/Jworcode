@@ -1778,3 +1778,22 @@ yet — flagged for John's decision on whether to set this up.**
   further on this tomorrow morning once he's reviewed it properly —
   nothing for Cuan to action yet, just noted so the context isn't lost
   before that conversation happens.
+
+- **Handwritten-notes batch, dictated 5 Oct 2026 (John's own notes from
+  earlier in the week, items as they came to mind):**
+  1. **Meridian Intelligence — introduce to Ger Blake.** John wrote this
+     down specifically in the context of Ger's own consultancy work
+     (alongside his DSP accountants practice) — a genuine prospective
+     client/partner introduction, to be done in the days ahead. Not yet
+     actioned.
+  2. **Mass card for Ger Finn** — recent serious heart operation. Name
+     not previously tracked in Cuan; distinct from Ger Blake. To be
+     sent.
+  3. **Keith Cronin (Cronin's Home Value Hardware)** — to be considered
+     as a third member of UHL's Audit and Risk Committee, which is
+     currently short one member. Keith is an existing UHL Board
+     colleague (already appears as a recipient on UHL board-meeting
+     correspondence). Not yet actioned/proposed to the Board.
+  4. **Amazon return — iPhone covers.** Wrong item received; box still
+     at home, needs to be returned for a replacement. Personal task,
+     nothing for Cuan to action beyond the reminder.
