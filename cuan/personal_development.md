@@ -1002,3 +1002,18 @@ Source: Threads, sun.yi (verified account). UNVERIFIED — opinion, not a cited 
 - amellamaster841: "Skills build the execution but how you think controls the risk and outcome."
 
 **Worth flagging for John's own reflection:** this is a direct, independent echo of Cuan's own core operating principle (AI extends judgment, doesn't replace it) and of the "AI adoption without governance is exposure" thesis already well-evidenced across multiple logged market intel pieces (Harvey/Winston Weinberg, the philosophy-graduates piece, the Kilkenny AI-judges experiment). hypermachina's "judgment doesn't commoditize" line in particular is a clean, reusable way to frame this for Meridian/Ambrion client conversations.
+
+## "5 Micro-Habits to Quiet Overthinking (in 60s)" — psych_court (Threads/Instagram, captured 5 Oct 2026)
+
+Source: Threads, psych_court. UNVERIFIED — described as "science-backed" but no specific studies cited in the post itself.
+
+> "Your mind isn't trying to break you — it's trying to protect you. But overthinking doesn't solve problems; action and grounding do."
+
+Five micro-habits, each under 60 seconds:
+1. **5-4-3-2-1 Grounding** — name 5 things you see, 4 you hear, 3 you touch, 2 you smell, 1 you taste.
+2. **Physiological Sigh** — two quick inhales through the nose, one long exhale out.
+3. **Thought Dumping** — write thoughts freely, no filter, no neatness.
+4. **Cognitive Reframing** — take "my thought," ask "a fact?" then "a feeling?" to separate the two.
+5. **Gentle Movement** — a short physical reset (stretching shown in the graphic).
+
+**Worth flagging for John's own reflection:** another instance of the recurring "action over rumination" theme already well-tracked in this file (shaving-mirror mantra, Emerson, Ross Harkness, desk calendar quotes, Sharran Srivatsaa) — this one adds concrete, practical 60-second techniques rather than just the principle, which may be more directly usable day-to-day than the other quote-based entries.
