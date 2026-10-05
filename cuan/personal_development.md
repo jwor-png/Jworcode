@@ -974,3 +974,17 @@ Source: Instagram, drwaynedyer (official account, posthumous curated content; au
 > "I want you to reverse this practice. Instead of using these five minutes to review what you don't want, review everything you want to attract into your life."
 
 **Worth flagging for John's own reflection:** the "say who you want to be, as if it's already true" framing is a slightly different angle from the recurring action-over-anxiety theme already tracked repeatedly in this file (shaving-mirror mantra, Emerson, Ross Harkness, desk calendar, Sharran Srivatsaa) — this one is about end-of-day mental framing/gratitude rather than daytime action, a complementary rather than overlapping practice if useful.
+
+## "Five highest forms of intelligence" — Dr Prerna Tiwary (Threads, captured 5 Oct 2026)
+
+Source: Threads, dr.prerna.tiwary (verified account). UNVERIFIED as a researched claim — a personal list/opinion, not a cited study.
+
+1. Pattern recognition
+2. Delusional optimism
+3. Quiet discernment
+4. Strategic detachment
+5. Deep curiosity
+
+**Notable reply thread, worth including as it adds a genuine argument:** _4shadows commented "Deep curiosity would be higher on my list. Pattern recognition tells you what keeps happening, curiosity makes you ask whether your interpretation of the pattern is even right" — a sharper distinction than the original post itself, worth more than the list alone.
+
+Logged for reference, no specific action identified.
