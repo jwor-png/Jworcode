@@ -1839,3 +1839,15 @@ yet — flagged for John's decision on whether to set this up.**
 - **New Revolut account — to be considered in the weeks ahead (5 Oct
   2026).** No further detail given — personal/financial housekeeping
   item, logged for the record only.
+
+- **Feedback on reminders, 5 Oct 2026 — positive, with a light complaint.**
+  John confirmed the reminders are landing on his phone as intended —
+  working as designed. Said, in a friendly/jocose way, that they're
+  "annoying" because they keep surfacing items he hasn't dealt with yet
+  — noted as positive feedback on the mechanism working correctly, not
+  a request to change anything.
+- **The Council (ChatGPT-based cognitive advisory system) — unused for
+  weeks, John wants to start using it again (5 Oct 2026).** See
+  `council.md` for the full system (six members, distinct from Cuan's
+  operational role). Self-identified gap, not yet actioned — logged as
+  John's own stated intent to return to it.
