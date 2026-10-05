@@ -1745,3 +1745,13 @@ yet — flagged for John's decision on whether to set this up.**
     ahead of AI developments — to be tested/specced before their
     meeting. **Status: email sent to Paul Candon, reply not yet known**
     — John hasn't spoken to Shane to confirm.
+
+- **Reminder set for Wednesday 7 October 2026 — UHL/Eoin McGettigan
+  follow-up (logged 5 Oct, not for today).** Two items to pick up with
+  Eoin from the conflict-of-interest WhatsApp message (full text
+  recovered — see `ventures_dossier.md`): (1) propose dates for the
+  Board-level virtual AI introduction/compliance sessions John himself
+  suggested; (2) follow up on the Audit and Risk Committee's role in
+  overseeing AI adoption, per John's own commitment in that message.
+  John to pick these up himself from Wednesday — no action from Cuan
+  before then.
