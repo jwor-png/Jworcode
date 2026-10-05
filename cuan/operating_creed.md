@@ -1704,3 +1704,16 @@ yet — flagged for John's decision on whether to set this up.**
   MVP platform and discuss the business plan and financials. Accommodation
   not yet arranged — John had not reached Shane by phone as of logging
   this. **Action: confirm accommodation once John speaks with Shane.**
+
+- **Week of 5 October 2026 — John's schedule (dictated Monday morning).**
+  Working from home all week.
+  - **Uncle Jerry Webb (Limerick)** has asked John to call to him — one
+    of Jerry's dogs has a vet appointment, date/time not yet confirmed.
+    John has asked Jerry to keep it to **after Wednesday 12pm**; Jerry
+    to come back with the actual date/time.
+  - **Wednesday, 9.30am — bloods, local GP, with nurse Emma.** Periodic
+    bloods appointment (this is the one previously flagged as sequenced
+    ahead of the Dr Ali referral letter from Blossom Medical Centre —
+    see earlier entry). John wants to also get the **flu and COVID
+    vaccinations** the same visit, if possible — to be requested on
+    the day.
