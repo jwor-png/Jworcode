@@ -72,3 +72,21 @@ Source: VERIFIED mainstream press report, citing Family Carers Ireland
 
 Cross-reference: `market_intel_fuel_allowance_household_benefits_sept2026.md`,
 `market_intel_over70s_unclaimed_benefits_sept2026.md`.
+
+## Reference: "Need for family care is projected to rise by at least 49pc, says ESRI" (Sarah O'Mahony)
+
+Source: VERIFIED mainstream press report on a named ESRI research study (authors: Ellen Walsh, Brendan Walsh, Frank Wolfe, Sheelah Connolly). Shared by John 5 Oct 2026, flagged as directly relevant to the consideration of Sharon becoming a formal carer for his mother Joan.
+
+- The need for family care is projected to rise by **49% by 2040**.
+- Need for care among those aged 50+ projected to increase by **49-58% by 2040**, based on current family-care recipient numbers.
+- The increase is **123% if calculated against everyone with difficulties in Activities of Daily Living (ADLs) and Instrumental Activities of Daily Living (IADLs)** receiving care in 2040, rather than just current recipients — a much larger latent need than current formal statistics capture.
+- "Potential improvements in health status" are judged unlikely to be sufficient to offset the growing care need.
+- **Care provision is currently highest among carers aged 45-54 and 55-64** — directly relevant to Sharon's own likely age bracket as a prospective carer for Joan.
+- **Older carers provide more hours per week**: 58% of carers aged 75-84 provide more than 29 hours/week, compared with 34% of carers aged 45-54 providing that many hours.
+- Gender gap confirmed: more female carers, consistent with prior studies.
+- Relatively few differences in care provision found across education, region, medical card status, or self-reported health groups.
+- **Direct ESRI quote:** "Family care is a central component of long-term care in Ireland and it is not expected that formal [State] services will replace such care in the future. Rather, policy interventions aim at ensuring there is sufficient support available so that the type and intensity of care provided is a meaningful choice for family carers and is appropriate for the needs of the care recipient. However, in light of the growing need for care, government supports will become increasingly important in the coming years."
+
+## Cross-reference
+
+This is strong, independent, academic-grade evidence (not just press commentary) directly supporting the underlying logic of formalising Sharon's caring role for Joan — the ESRI's own framing explicitly treats family care as a "meaningful choice" that **government supports should make viable**, which is exactly what Carer's Allowance formalisation would do. Reinforces the Tadhg Daly ageing-dialogue op-ed and the Cavendish/Burnham social care piece already logged (`market_intel_tadhg_daly_ageing_dialogue_oct2026.md`, `market_intel_burnham_social_care_oct2026.md`) — this is now the third independent source making the same structural point about Ireland/UK's growing eldercare gap, but the first one with a specific, usable statistic (49-58% rise by 2040) directly tied to the exact family-care scenario under consideration here.
