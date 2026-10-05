@@ -889,6 +889,12 @@ a common source of misattribution, not independently checked.
   — W. C. Stone
 - **29th September:** "Always dress like it's the best day of your
   life." — June Curtin
+- **5th October:** "Never try to be anything but yourself. You won't be
+  everyone's cup of tea, be ok with that." — June Curtin
+- **4th October:** "Life's problems wouldn't be called hurdles if there
+  wasn't a way to get over them." — Unknown
+- **3rd October:** "Perfection — the way we chose to see the world
+  creates the world we see." — Barry Neil Kaufman
 
 **Worth flagging for John's own reflection:** the 30 September quote
 ("thinking will not overcome fear but ACTION will") is a near-direct
