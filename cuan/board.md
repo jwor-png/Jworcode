@@ -11,8 +11,9 @@
 4. 🔴 **Velocity AI** — Gmail script fix still outstanding.
 5. 🔴 **Meridian website + email** — hosting/DNS decision needed from John
    to get it live.
-6. 🟡 **UHL AI opportunity** — Data Transformation Programme opening;
-   conflict-of-interest disclosure already made to Chairman McGettigan.
+6. 🟡 **UHL AI opportunity** — full text of the McGettigan disclosure
+   now recovered; proposed Board-level AI sessions still need following
+   up — live open door for more AI discussion at UHL.
 
 *(Full board below — this list is a same-day cut of the 🔴/🟡 items most
 likely to need a decision or action today.)*
@@ -167,10 +168,12 @@ Prejudice, denying liability, referencing Mulvey precedent, offering
 to discuss at 23 Sept Board meeting) — now awaiting Ray's response.
 **30 Sept Board meeting + AGM both went well.** John sees a significant
 AI development/adoption opportunity emerging via the Data Transformation
-Programme's member-data push. Conflict-of-interest disclosure on his
-Velocity AI training involvement made to Chairman Eoin McGettigan via
-WhatsApp — "tabled and gone well," screenshot for the record due 1 Oct.
-Full detail in `ventures_dossier.md`.
+Programme's member-data push. **Conflict-of-interest disclosure to
+Chairman Eoin McGettigan — full text now recovered (5 Oct), tabled and
+accepted.** Message also proposed Board-level virtual AI introduction/
+compliance sessions and flagged the Audit and Risk Committee's role in
+overseeing AI adoption — **live open door for further AI discussion at
+UHL, not yet followed up.** Full detail in `ventures_dossier.md`.
 🟢 Ambrion AI — training 25 & 31 Aug confirmed
 🟢 Barber Republic — **London trip (3 Sept) went well.** John Jones wants a full investor pack and separately offered the Liberty London/Carnaby St concession as a standalone Barber Republic London base, funded by him for equity. Anthony Laban agreed to help recruit barbers/shops and back the launch publicly, also seeking equity. **Both offers live, unresolved — John hasn't committed to either**, wants to measure against Shane's actual commercial/funding modelling first. Johnny wants the £50k first-tranche dropped, pushing to raise the other £35k through the business directly instead. Interim investor document (short of a full pack — real revenue data doesn't exist yet) still needs building. Month One £15k PAID.
 🔴 Julianstown Mill — Fred Logue appeal formally lodged 31 Aug (PL-501978-MH-26), response due 23 Sept; **88-page response submission to ACP almost ready, filing in the next couple of days (22 Sept update)**; **sale completion to John Lynch now explicitly pending the appeal outcome, not just fees**; Glynn's Solicitors gone quiet on closing prep — needs chasing; updated balancing statement drafted, awaiting reply

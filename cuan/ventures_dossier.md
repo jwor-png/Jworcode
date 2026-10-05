@@ -1291,19 +1291,44 @@ initiative may now be more closely linked than the Board pack itself
 presented them.
 
 **Conflict of interest disclosure — WhatsApp to Chairman Eoin McGettigan,
-undated (referenced 30 Sept, to be screenshotted 1 Oct 2026 for the
-record).** John disclosed his own participation in the Velocity AI
-training programme and his representation there, specifically to avoid
-any conflict of interest given his dual role as UHL Board director and
-as the person connected to the Velocity AI training supplier
-relationship. Per John: "that is now tabled and that has all gone
-well" — i.e. the disclosure has been made and accepted, not still
-pending. **Action outstanding:** John to screenshot the actual WhatsApp
-message on 1 Oct 2026 for the record — worth confirming this has been
-done and filed appropriately (e.g. noted in UHL's own conflicts
-register per Companies Act 2014 s.231, consistent with the standard
-declaration process already logged elsewhere in this file for board
-meetings).
+sent 28 Sept 2026 (eve of the 30 Sept Board meeting), full verbatim text
+recovered from Gmail 5 Oct 2026 (self-forwarded from jwebborourke@icloud.com,
+subject "UHL and I - AI"):**
+
+> "Hi Eoin, Excuse late text, tomorrow at the Board meeting I want to
+> mention that in past couple of months my colleague Shane McCarthy and
+> I have carried out some AI training for Paul and his Executive Team
+> and more recently the Commercial Team of all in all circa 20 plus and
+> it has gone very well. Shane has led the training and I'm there in a
+> more representative role to avoid any conflict. It has gone very well
+> and we would say that the learning and ongoing adoption will have UHL
+> to the forefront of what we see out there. The Board should also have
+> a few sessions virtually for introduction and to be compliant and we
+> can discuss this. There are certainly opportunities for the group and
+> also of course the need and necessity for our Audit and Risk Committee
+> to be very much on top of this which we will. I had the pleasure today
+> with Shane to be invited by the Vatican and Archbishop Martin to their
+> AI conference in Maynooth and the response has been excellent this
+> evening. See you tomorrow. Ty John"
+
+**Confirms and extends what was logged from John's verbal summary:** the
+disclosure explicitly covers (1) the conflict-of-interest declaration
+itself (Shane led the training, John present "in a more representative
+role to avoid any conflict"); (2) training scope — ~20+ people across
+Paul Candon's Executive Team and, more recently, the Commercial Team;
+(3) a direct proposal that **the UHL Board itself have a few virtual AI
+introduction/compliance sessions** — not yet actioned, a live open door
+per John's own 5 Oct framing; (4) an explicit flag that the **Audit and
+Risk Committee needs to be on top of AI adoption**, which John commits
+UHL (via himself) to ensuring; (5) same-day news of the Vatican/
+Archbishop Martin Maynooth conference invitation, folded into the same
+message. **Action outstanding, now clearer:** John to follow up with
+Eoin on (3) — proposing Board-level virtual AI introduction/compliance
+sessions — as a concrete next step opening further AI discussion for
+UHL's benefit, per John's own framing 5 Oct 2026. Also worth confirming
+this disclosure is noted in UHL's own conflicts register per Companies
+Act 2014 s.231, consistent with the standard declaration process
+already logged elsewhere in this file for board meetings.
 
 **UHL balance sheet/rebate position, per John's phone call with Shane,
 30 Sept 2026 (evening):** John updated Shane on the day's meetings,
