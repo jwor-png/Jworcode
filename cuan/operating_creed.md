@@ -1797,3 +1797,36 @@ yet — flagged for John's decision on whether to set this up.**
   4. **Amazon return — iPhone covers.** Wrong item received; box still
      at home, needs to be returned for a replacement. Personal task,
      nothing for Cuan to action beyond the reminder.
+
+- **AI Adoption prospecting — named owners confirmed for three
+  companies already on the 100/200 list, 5 Oct 2026.** Previously
+  tracked only by company name (`board.md`): **Anthony Hennessy** —
+  cylinder testing business, Kilmallock (company name likely **Studio
+  Sixty Eight**, per the existing prospect-list entry, to be confirmed);
+  **Damien McDonald** — **Polar IceTech**; **Padraig Smith** — **PSE
+  Power**, generator business, Newcastle West. John wants to reach out
+  directly to all three across their businesses — firm action, not yet
+  actioned. Worth confirming the Anthony Hennessy/Studio Sixty Eight
+  company-name match before outreach.
+- **Nigel Roach — electrician, owed money from John in relation to
+  dental care costs (new name, not previously tracked).** John wants to
+  send him a personal note on **Wednesday**.
+- **Childen — Vatican outreach, parallel-track message to the working
+  group (dictated 5 Oct, following a call with Shane).** John posted a
+  message into the Childen WhatsApp group covering: (1) following up
+  the reply to Archbishop Martin's office via **Jean Roach** (already
+  the Armagh meeting contact — see `childen.md`); (2) taking **direct
+  contact action with the Vatican** in parallel, in the days ahead; (3)
+  considering other parallel options alongside the Jean Roach/Archbishop
+  Martin route. Also reiterated the existing reminder to reach out to
+  **Paul Byrne**, CEO of the AI Office.
+- **AHL — housekeeping, 5 Oct.** John replied to Edel Smyth directly via
+  Gmail (not drafted by Cuan) and texted **Nicola** to make contact —
+  both already actioned by John himself, logged for the record.
+- **Personal — golf and other items, 5 Oct.**
+  - John considering playing golf at **Ballyneety and Adare** weekly,
+    wants it in his diary — not yet scheduled. To discuss with **Alan
+    Enright** (new name, not previously tracked — context not given).
+  - **Slow cooker** — to be purchased online, Wednesday.
+  - **Amazon iPhone covers** — wrong item received, needs returning for
+    a replacement (already logged above in the handwritten-notes batch).
