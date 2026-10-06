@@ -3859,6 +3859,52 @@ conversation:**
    was about and whether it ties to a specific site — neither surfaced
    in these filings, both still need a direct question to Ger.
 
+### Leratian Investments — John's own unpaid wages, disclosed 6 Oct 2026
+
+**Personal, significant, previously undisclosed in Cuan:** John confirms
+he was **registered as an employee of Leratian Investments** (not a
+formal director, but engaged in management decisions) in connection
+with the PCC business, and **has not been paid in over two years.**
+Prompted by a Sunday Independent clipping on a WRC constructive-
+dismissal award (Robert Donovan v Indeff Ltd, Cork, €67,500, late/
+non-payment of wages found to be a fundamental breach of contract).
+
+**John's own position clarified, same exchange:** registered as an
+employee, not a formal director, though involved in management
+decisions — this matters legally, since it opens the **Payment of
+Wages Act 1991 / WRC route**, not just an ordinary civil debt claim.
+
+**Legal timing flagged to John, not yet actioned:**
+- **WRC claims under the Payment of Wages Act 1991 carry a strict
+  6-month time limit** from each non-payment (extendable to 12 months
+  only for "reasonable cause" shown to the WRC's satisfaction) — most
+  of two years' arrears may already sit outside the WRC's jurisdiction,
+  though each missed/late payment arguably counts as a fresh
+  contravention, so recent non-payment could still ground a live claim.
+- **A civil breach-of-contract claim in the ordinary courts carries a
+  6-year limitation period** (Statute of Limitations 1957) — this would
+  cover the full amount owed regardless of the WRC's shorter window.
+- **Not yet taken to an employment solicitor.** Given the clock running
+  on both routes, and the scale of the matter (two years unpaid), this
+  is flagged as worth prompt professional legal advice rather than
+  further delay.
+
+**Cross-reference:** Leratian Investments Limited (677047) already
+tracked above — incorporated 24 May 2023, David Lehane sole director,
+Ger Blake appointed Company Secretary 1 Jan 2026. FY2025 accounts show
+Net Assets €256,397 (asset-backed) but accumulated losses carried
+forward of €293,703 — the company has never turned a profit on the
+numbers filed, relevant context on ability to pay if this proceeds to a
+claim. **Open question, not yet asked:** whether this unpaid-wages
+matter is connected to, or separate from, the wider Ger Blake/David
+Lehane company web already under review (Kendrick Properties, Clodar,
+Barpat Pharma) — worth clarifying directly with Ger given the ongoing
+Meridian introduction and Midleton PCC relationship with him.
+
+**Status:** disclosed, not yet actioned. No outward action taken by
+Cuan. Logged under Legacy Resolution given the financial/legal nature,
+cross-referenced in `personal_estate_retirement_plan.md`.
+
 **PAUSED, 4 Sept — John to return to this in the days ahead.** Next
 steps when he does: (1) further SoloCheck/CRO searches to complete the
 picture on David Lehane's cross-directorships (Brienross Property,
@@ -4365,6 +4411,18 @@ guessed:**
    practitioner/solicitor item already open in `master_plan.md`,
    9 Sept "retirement and new-career planning" addition; not yet
    confirmed whether that's the same PIP John means here).
+9. **Leratian Investments Limited — John's own unpaid wages, 2+ years,
+   disclosed 6 Oct 2026.** John was registered as an employee of
+   Leratian (not a formal director, but engaged in management
+   decisions) in connection with the PCC business, and has not been
+   paid in over two years. Full detail, entity cross-reference and
+   legal timing analysis (WRC 6-month Payment of Wages Act window vs.
+   6-year civil breach-of-contract limitation) logged in the Leratian
+   Investments section above (Ger Blake/David Lehane company web).
+   **Not yet taken to an employment solicitor — the single most
+   time-sensitive item on this entire tracker**, given the WRC route
+   narrows further with every month that passes. Status: disclosed,
+   not actioned.
    **Not yet independently verified:** the underlying Birmingham
    tenancy/liability itself (whose apartment, what period, why John is
    the named debtor) has not been established via Gmail or any other
