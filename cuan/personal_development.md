@@ -1037,3 +1037,21 @@ Source: Instagram carousel (account not visible in captured frames). UNVERIFIED 
 5. **They keep the same few beliefs** — not 50 affirmations once. A handful, every single day, until they feel like facts.
 
 Logged for reference, no specific action identified — consistent with this file's general reflection/resonance-tracking purpose, though more manifestation-framed than the action-oriented entries already tracked.
+
+## "How to Move Forward When You Don't Know Your Purpose" — Daniel Hartweg / Clarity Reset System (Instagram, captured 6 Oct 2026)
+
+Source: Instagram, hartwegdaniel / @clarityresetsystem (The Mindset Challenger GmbH). UNVERIFIED as researched method — a structured mindset framework/lead-gen carousel, not a cited study.
+
+**Core thesis:** "You don't need purpose to move. You need direction, curiosity, and momentum." Clarity is framed as a byproduct of motion, not a precondition for it — "the world's highest performers don't wait for clarity to act, they act to generate clarity." Mental model offered: **Direction > Destination**.
+
+**The Uncertainty-to-Clarity Process (6 steps, each with an action and an expert tip):**
+1. **Accept the unknown** — stop searching for the perfect answer; say out loud "I don't know yet"; release the pressure to figure it all out; focus on what you can control today. *Clarity rarely comes before action — it follows movement.*
+2. **Explore your signals** — list activities that energise you, moments when time disappears, what people naturally come to you for, what you care about deeply. *Patterns beat passions — look for consistency over intensity.*
+3. **Take small experiments** — choose one small experiment, set a time box (1-2 weeks), define a simple goal (learn something), take imperfect action. *The goal is data, not success — curiosity beats certainty.*
+4. **Build your direction map** — brainstorm 10 paths you could explore, group by themes/values, star the ones that spark curiosity, eliminate what drains you. *Options create freedom — clarity emerges through exploration.*
+5. **Choose your next step** — pick one direction to explore, define the next smallest step, commit to 7 days of focused action, put it on your calendar now. *Progress builds confidence; confidence builds clarity.*
+6. **Create momentum through action** — build a simple routine that supports focus, track progress visibly, celebrate small wins, keep showing up consistently. *Consistency beats motivation — discipline is what carries you through doubt.*
+
+**John's own context, attached directly to this entry (6 Oct 2026):** he flagged this as something he wants to apply specifically to figuring out his own career/purpose question — bringing together everything he does with Shane (Ambrion AI, Velocity AI, Meridian, future ventures) alongside his other roles (UHL, AHL, Old Mill, Barber Republic, etc.) into one coherent picture, rather than treating them as separate, disconnected commitments.
+
+**Worth flagging, cross-referenced against what's already on file:** this lands directly on the still-unbuilt **John Personal Compass** (see above — questions 1-5, "who am I / what matters most / what kind of leader"), and specifically on **question 3** ("what kind of person and leader do I want to be"). It also gives the recurring "action over deliberation" theme already heavily tracked in this file (shaving-mirror mantra, Emerson, Ross Harkness, desk calendar quotes, Sharran Srivatsaa) its most structured, directly-applicable version yet — a stepwise process rather than just a maxim. Practical next step if John wants to actually use it: steps 2 ("explore your signals" — what energises him across Ambrion/Velocity/Meridian/UHL/AHL/Barber Republic specifically) and 4 ("direction map" — themes/values across all current roles) are the two most concrete starting points, and would feed directly into building the Personal Compass rather than being a separate exercise.
