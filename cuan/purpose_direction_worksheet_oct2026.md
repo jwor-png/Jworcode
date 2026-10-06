@@ -73,3 +73,15 @@ This worksheet is meant to feed John's existing daily revenue-driving discipline
 - **Direction map → what gets named explicitly as "not now."** The framework's step 4 action is as much about elimination as selection. Anything that doesn't make the starred list is a candidate to actively deprioritise in the Operating Creed tracker, rather than silently carrying everything at once — which is itself likely part of what's working against the "balance" John named.
 
 **Next step:** no further Cuan action needed until John starts filling in real instances under Step 2. This file stays open and gets added to opportunistically — in the moment something lands, not as a scheduled exercise.
+
+---
+
+## Meridian — first concrete action named, 6 Oct 2026
+
+John has moved from "concentrate more on Meridian" to a specific first step: **promote Meridian Intelligence for his own independence, using his existing contacts, starting with Ger Blake.**
+
+**Why Ger Blake is a strong starting point (per `people_map.md`):** Director, DSB (Limerick/Ballincollig advisory firm) — John's long-running deal, funding and financial advisor, already the working contact across the Thomond Healthcare/Ilex PCC portfolio, the MiDentalCare liquidation, and Croom Lands. A proven, trusted relationship, not a cold approach — the kind of first Meridian relationship that can be built on existing credibility rather than from zero.
+
+**Not yet actioned:** no outreach drafted or sent. This is logged as John's stated intent and the named starting contact, ready for the next step (e.g. drafting an approach to Ger about how Meridian could work with/for him or his clients) when John wants to take it.
+
+**Cross-reference:** Ger Blake also already appears as the "key advisor" on Julianstown Old Mill's Midleton flood-scheme PCC item (`ventures_dossier.md`) — worth being aware of that existing live thread when framing a Meridian conversation with him, so it reads as an addition to the relationship, not a separate pitch out of nowhere.
