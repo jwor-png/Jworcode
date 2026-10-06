@@ -610,6 +610,17 @@ beneficiary in the estate of the late Sheila McManus, late of Nenagh.
 
 ---
 
+## Reference — "Retirement Age: Know Your Rights" (Vale Star, 1 Oct 2026, Citizens Information)
+
+Logged as general legal-rights reference material, relevant to John's own per-venture retirement-horizon planning (open item 4 below) given his mix of director roles (UHL, AHL) and self-employed/consultancy work.
+
+- **No set retirement age in employment law generally.** 65 is a common contractual retirement age, but distinct from the **State Pension age, which is 66**. Statutory retirement ages only apply to specific roles set out in legislation (e.g. An Garda Síochána, Defence Forces).
+- **No set retirement age for the self-employed, and no general age limit for company directors** — though a company's own Articles of Association may set an upper age limit. Relevant to check against UHL's and AHL's own constitutional documents if/when John's own retirement horizon as a director becomes live. GPs specifically must retire from the GMS scheme at 72 (not applicable to John, noted for completeness only).
+- **New right under the Employment (Contractual Retirement Ages) Act 2025, in force since 29 June 2026:** where a contract sets a retirement age below the State Pension age of 66, eligible employees now have a right to **object to retiring at that contractual age** — notify the employer in writing at least 3 months (and no more than 12 months) before the retirement date, referencing s.5(1) of the Act. **Earliest retirement date covered by the Act is 29 September 2026.** Does not apply where retirement age is set by legislation, or is already 66 or older.
+- **Right to request working beyond retirement age:** request at least 3 months before the intended date; employer must respond, and if refusing, must give specific objective reasons which the employee can discuss/challenge before a final decision.
+
+**Why this matters for this plan:** confirms there's no automatic or legally-forced retirement age applying to John's own director roles (UHL, AHL) or his self-employed/consultancy work — the per-venture retirement-horizon question (open item 4 below) is entirely his own decision to make, not something imposed by law at 65 or 66, subject only to whatever each company's own Articles of Association say. Worth checking UHL's and AHL's Articles specifically if this becomes a live question closer to age 66.
+
 ## What "done" looks like for this plan
 
 Not a document to finish once — a living plan reviewed alongside
