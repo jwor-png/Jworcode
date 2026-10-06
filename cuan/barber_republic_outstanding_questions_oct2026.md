@@ -14,6 +14,11 @@ Shane Mac (R32DX45) is back online after a few days away and wants a set of outs
 ## Status
 Some items already answered by Johnny per the thread; Shane is only chasing what's still open.
 
+**Update, 6 Oct (later same day):** Johnny Shanahan responded in-thread:
+- Q2 Commission: confirmed barber charging £200 receives £180, shop covers processing.
+- Q3 Emergency cover trigger: confirmed — 18% rate triggers on same-day cover requested less than 2 hours before the shift starts.
+- Said he'd revert on the remaining points (1, 4-7) after speaking with Neil.
+
 ## Open items
 
 1. **Stripe** — Does Barber Republic have its own Stripe account yet, and under which company/country will it operate? Shane needs a separate development sandbox within the correct business account, with an invitation sent to his email. BR keeps ownership and its own login throughout — no password-sharing, no live payment access needed. If not yet set up, Shane will send exact steps.
