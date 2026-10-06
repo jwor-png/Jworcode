@@ -1798,6 +1798,27 @@ yet — flagged for John's decision on whether to set this up.**
      at home, needs to be returned for a replacement. Personal task,
      nothing for Cuan to action beyond the reminder.
 
+- **BMG Hardware (Donegal) acquisition — Audit & Risk Committee role
+  activated, 6 Oct 2026.** Full detail in `ventures_dossier.md`, UHL
+  section. 30 Sept board meeting raised concern that BMG's proposed
+  structure diverged from the Kehoe's/New Ross NewCo precedent; a 4:30pm
+  Teams call today (John, Eoin McGettigan, Paul Candon, Dave Geoghegan
+  only, not a full board call) agreed to pursue the deal further on an
+  SPA basis without binding UHL legally until the full Board agrees.
+  Same day, legal (HD Keane) and tax (Fitzgerald Power) advisory memos
+  confirmed NewCo is no longer commercially viable and recommended
+  proceeding via a heavily-protected SPA — specific indemnities, Tax
+  Deed, completion accounts, ~€100k escrow floated. **Principal open
+  item: how BMG's surplus cash (€1.6m, c.77% of the €2.084m enterprise
+  value) gets treated — not yet resolved.** John confirmed his role here
+  is explicitly as Board member AND Chairman of Audit & Risk — the
+  surplus-cash structuring, due diligence scope, escrow/Tax Deed terms
+  and indemnities-vs-warranties approach all sit naturally within that
+  committee's remit, consistent with his own 28 Sept commitment to Eoin
+  that Audit & Risk would be "very much on top of" matters needing this
+  kind of scrutiny. Not yet a Board decision. No action for Cuan beyond
+  tracking — next step is John's own review ahead of the full Board.
+
 - **AI Adoption prospecting — named owners confirmed for three
   companies already on the 100/200 list, 5 Oct 2026.** Previously
   tracked only by company name (`board.md`): **Anthony Hennessy** —

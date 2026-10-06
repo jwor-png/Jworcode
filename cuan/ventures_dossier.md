@@ -1330,6 +1330,86 @@ this disclosure is noted in UHL's own conflicts register per Companies
 Act 2014 s.231, consistent with the standard declaration process
 already logged elsewhere in this file for board meetings.
 
+### BMG Hardware (Donegal) acquisition — Audit & Risk Committee dimension, 6 Oct 2026
+
+Cross-referenced in full under Store Acquisition & Resale Operating
+Model elsewhere in this file (board pack summary) and in
+`barber_republic_outstanding_questions_oct2026.md`-style tracking is
+not used here — this is UHL/BMG specific. **John's role on this matter
+is explicitly as Board member AND Chairman of the Audit & Risk
+Committee** — not just general board oversight, confirmed by him
+directly 6 Oct 2026.
+
+**Sequence of events:**
+- 30 Sept board meeting: Board raised concern that BMG's proposed
+  acquisition structure diverged from the Kehoe's/New Ross precedent
+  (asset hive-down into a clean NewCo before sale) — Chairman and Board
+  not comfortable, asked management to have legal/tax revisit whether
+  NewCo could still be used.
+- 6 Oct, 4:30pm Teams call: John, Eoin McGettigan, Paul Candon, Dave
+  Geoghegan only (not a full board call). Outcome: **agreed to pursue
+  the deal further on an SPA basis, without binding UHL legally until
+  the full Board agrees** — i.e. advisers' recommendation accepted as
+  the basis for continued negotiation, not yet a Board-approved
+  commitment.
+- Same day, two advisory memos received (both dated 5 Oct 2026),
+  forwarded by Dave Geoghegan: legal (Nicholas Walsh, HD Keane
+  Solicitors) and tax (Brian Kelly, Fitzgerald Power), plus a draft
+  letter to Ultan Smith (vendors' solicitor).
+
+**Confirmed: NewCo is no longer commercially viable.** Vendors already
+rejected it once; tax advice (Fitzgerald Power) adds that revisiting it
+now, with the sale already actively negotiated, risks losing
+reconstruction-relief tax treatment (ss.586/587/631 TCA 1997) and could
+crystallise a chargeable gain for BMG and a fresh ownership-period
+problem for the vendors' own CGT reliefs. Real choice is now SPA vs. a
+costlier/slower Asset Purchase Agreement vs. no deal.
+
+**Legal memo (HD Keane) recommendation:** proceed via SPA with enhanced
+due diligence, extensive warranties, **specific indemnities** (euro-for-
+euro recovery, not subject to general warranty limitations), a Tax Deed,
+completion accounts, and a meaningful escrow (~€100,000 floated on a
+call, not yet agreed). Flags Joe McGloin (intended to run BMG
+post-completion) as a keyman risk if the process drags.
+
+**Tax memo (Fitzgerald Power) — the Audit & Risk-relevant detail:**
+- Enterprise value restated at **€2,084,000** (board pack had €2.04m).
+- **The principal open structuring issue is BMG's surplus cash: €1.6m
+  at 31 Dec 2025, c.77% of enterprise value.** Three options modelled —
+  (A) UHL pays for the cash in the price (~€3.7m total, fastest), (B)
+  vendors extract cash by dividend pre-completion (costliest for
+  vendors, cleaner for UHL), (C) hive-out (now tax-risky, slowest).
+  **Not yet resolved — "the principal structuring point to be settled
+  before the price is finalised."**
+- Recommends a dedicated **AcquisitionCo** beneath Ardentia to hold the
+  BMG shares, separating Joe McGloin's co-investment from Ardentia/UHL
+  equity, with UHL funding mostly via subordinated loan notes.
+- Flags the **January 2022 share redemption from Brian & Hugh McGowan**
+  as a specific due diligence priority — tax/company-law treatment not
+  yet confirmed, possible historic liability.
+- Trading premises (Single Street, Bundoran) owned personally by Hugh
+  and Bernard McGowan, not BMG — a lease will be granted, no property
+  is being purchased.
+
+**Why this is an Audit & Risk Committee matter specifically, not just
+board business:** the surplus-cash structuring question, the due
+diligence scope (tax, payroll/contractor classification, RCT, close
+company loans, the 2022 redemption), the escrow/Tax Deed terms, and the
+specific-indemnities-vs-warranties approach are all risk-allocation and
+financial-control questions that would typically run through Audit &
+Risk before reaching full Board sign-off — consistent with John's own
+28 Sept WhatsApp disclosure to Eoin McGettigan (above) committing the
+Audit & Risk Committee to being "very much on top of" matters requiring
+that scrutiny.
+
+**Status:** not yet a Board decision. Next step per the legal memo:
+Board to consider the correspondence with Ultan Smith, state of
+negotiations, vendors' rejection of NewCo, Fitzgerald Power's tax
+concerns, timing/BMG trading-continuity value, and the SPA protections
+available, then decide between (1) a heavily protected SPA, (2) a more
+complex APA, or (3) no transaction. No outward action taken by Cuan;
+logged for Audit & Risk Committee awareness and tracking.
+
 **UHL balance sheet/rebate position, per John's phone call with Shane,
 30 Sept 2026 (evening):** John updated Shane on the day's meetings,
 including the Data Transformation Programme/member data acquisition
