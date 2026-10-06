@@ -53,6 +53,16 @@ That distinction is the spine of this worksheet — it's not one undifferentiate
 
 **Concentrate-more candidate, already named by John directly:** Meridian Intelligence — explicitly flagged today as needing more concentration and ownership. Worth testing against Step 2 once populated: does Meridian actually show up as a time-disappears/energising activity, or is the intent to concentrate on it a "should" rather than a "want"? Both are valid reasons to commit to it, but worth knowing which one it is.
 
+**Sharper decision rule, added by John directly, 6 Oct 2026 — a Big Bets / Interim Revenue split, not just a signals split:**
+
+John named a second, more decisive filter on top of the signals/energy question above — a payoff-size-and-timing split across the same ten paths:
+
+- **Big Bets (asymmetric, large-scale return if secured):** ODIN, Childen, Tairseach. If investment lands on any of these, the return to John personally "will far outweigh the other projects." These are the ones worth protecting disproportionate focus/energy for, even though they're higher-variance and slower to close.
+- **Interim revenue builders (smaller individual work projects, need building up):** the rest of the live roles — Meridian, Barber Republic, AHL, Old Mill, Tangible, etc. John's own framing: the model that's already worked once (UHL) needs repeating — find and build the equivalent interim-revenue relationship with others, not wait on the Big Bets alone to land.
+- **John's stated need:** focus specifically on generating that interim revenue, the way UHL already demonstrates is achievable, while keeping ODIN/Childen/Tairseach protected as the asymmetric upside plays rather than letting them get starved by day-to-day interim-revenue work.
+
+**Why this matters for the worksheet:** this is a genuinely different, and probably more decision-useful, cut than the "what energises me" signals question above. A role can score low on day-to-day energy and still deserve top protection (a Big Bet, worth the grind because of what it pays off), and a role can be energising but still just an interim-revenue builder, not a bet to over-invest belief in. **Both filters are worth running side by side, not one replacing the other** — the signals work (Step 2) tells John where he does his best work and what drains him day to day; this Big Bets/interim-revenue split tells him where the asymmetric upside actually sits. The direction map below should eventually be tagged against both.
+
 ---
 
 ## Direct tie to Operating Creed
