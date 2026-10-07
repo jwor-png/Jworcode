@@ -1882,3 +1882,20 @@ yet — flagged for John's decision on whether to set this up.**
   `council.md` for the full system (six members, distinct from Cuan's
   operational role). Self-identified gap, not yet actioned — logged as
   John's own stated intent to return to it.
+
+- **Personal — new Range Rover Sport Electric, flagged as "ideal
+  vehicle," 8 Oct 2026.** John wants to get one in the months ahead,
+  via leasing and/or renting rather than outright purchase. Source:
+  print motoring coverage (Robbie Farrell), new all-electric Range
+  Rover Sport. Key specs as reported: twin 260kW motors, 542bhp, 850Nm
+  torque, 0-100km/h in 4.5 seconds, claimed WLTP range 609km (real-
+  world ~535km), 800V architecture with 10-80% DC fast-charge in ~22
+  minutes. **Prices start from €123,830** (450 PS Dynamic SE), before
+  any First Edition/options uplift. Order books now open. Not yet
+  actioned — no lease/finance conversation started. Worth factoring
+  into the wider Legacy Financial Matters picture (Leratian unpaid
+  wages, Birmingham County Council enforcement, Webbor Consultants/HDS
+  fees owed) when the actual lease terms are looked at, given several
+  of those threads remain open — not raised as an objection, just
+  noted so the full financial picture is in view when John looks at
+  terms.
