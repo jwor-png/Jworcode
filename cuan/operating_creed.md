@@ -1818,6 +1818,16 @@ yet — flagged for John's decision on whether to set this up.**
   that Audit & Risk would be "very much on top of" matters needing this
   kind of scrutiny. Not yet a Board decision. No action for Cuan beyond
   tracking — next step is John's own review ahead of the full Board.
+  **Update, 7 Oct 2026:** John replied to Dave Geoghegan confirming he's
+  reviewed the email and attachments and is "happy to move to next
+  agreed steps per Eoin's recommendation." Dave confirmed same day:
+  "Will instruct the legals accordingly." SPA route now actively
+  progressing to legal drafting — still not a formal Board decision
+  (that remains the next step before any binding commitment), but the
+  negotiation itself is moving. The principal open item (surplus-cash
+  treatment, ~€1.6m/77% of enterprise value) not confirmed resolved by
+  this exchange — worth confirming whether it's been settled or is
+  being carried into the legal drafting stage unresolved.
 
 - **AI Adoption prospecting — named owners confirmed for three
   companies already on the 100/200 list, 5 Oct 2026.** Previously
