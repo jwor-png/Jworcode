@@ -554,6 +554,35 @@ Open items, none yet resolved:
    Asterial (confirmed), Zubelsala and Sancelvio (B10s signed, role
    inferred) are on record. Worth John providing the complete list so
    Cuan can track each entity individually rather than piecemeal.
+
+### Noesis — new, Shane formalising John's shareholding, 7 Oct 2026
+
+**Significant and new: this is a shareholding, not a Company Secretary/
+Director appointment** — a different kind of position to the Asterial/
+Zubelsala/Sancelvio roles above. Shane messaged John via WhatsApp (10:43,
+7 Oct): "I'm getting everything in place to make your shareholding in
+Noesis official. It means a lot to me to have you part of this, and I'm
+looking forward to the months and years ahead." Shane needs John's
+personal details sent to Pat Carroll's team (Asterial's external company
+secretarial support) to progress the paperwork.
+
+**John's details sent by email same day to Shane.mc@asterial.ai**, per
+his explicit instruction: full name, personal email, residential address,
+phone number (087-2570849 — now also saved to `owner_profile.md`), and
+PPS number (5022829C).
+
+**Open, not yet known:**
+- What Noesis actually is/does — no description given in Shane's message,
+  not yet asked.
+- The size/class of John's shareholding, and whether any consideration
+  is due from him or this is a gift/reward for his role alongside Shane.
+- Whether Noesis relates to ODIN, Asterial, Zubelsala, Sancelvio, or is a
+  genuinely separate venture.
+
+**Status:** paperwork now in motion via Pat Carroll's office. No further
+action for Cuan until more detail emerges — worth asking Shane directly
+what Noesis is and what the shareholding represents, next time it comes
+up naturally.
    **Partial resolution, 28 Sept:** per Shane's private briefing for the
    29 Sept Maynooth meeting (see `childen.md`), **SanCelvio is confirmed
    as the intended home of Childen and prospective contracting entity**,
