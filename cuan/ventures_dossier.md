@@ -865,6 +865,42 @@ engagement, not previously logged in this dossier:
 - **Confidentiality:** All documents marked confidential and internal. Client and network references removed from external-facing versions.
 - **Current status:** Building — partner model active
 
+### Product line decision — AI Dependency and Resilience Review + Board Paper Review APPROVED, 7 Oct 2026
+
+Both products (per `meridian/Meridian_Product_Snapshot_and_Fees_2026-10-07.md`,
+pulled from the Meridian orchestration branch) had been logged as
+specified-but-parked: AI Dependency and Resilience Review pending the
+"Ambrion boundary" with Shane, Board Paper Review pending John's own
+board-role conflicts. Cuan raised the specific risk in each case —
+independence when a client's assessed AI dependency includes
+Ambrion/Velocity itself (a vendor John and Shane have a commercial
+stake in), and cross-contamination risk if a Board Paper Review client
+later overlaps with AHL/UHL's own sector relationships.
+
+**John's decision: both approved for inclusion now.** His own
+safeguard, stated directly: he will simply not take on any engagement
+where a conflict would arise — a case-by-case judgement call per
+prospective client, not a structural exclusion of either product. He
+considers exclusion on the grounds raised "unacceptable." This is
+consistent with Cuan's own suggested mitigation (a conflict check
+before accepting an engagement), just run as John's personal standing
+discipline rather than a written protocol — logged here as the
+record of that decision and reasoning, not as an unresolved open item.
+
+**Still genuinely open, not resolved by this decision:** the "Ambrion
+boundary" itself has not been separately agreed with Shane — John's
+conflict-screening approach addresses his own engagement-acceptance
+judgement, but doesn't by itself settle whether/how the AI Dependency
+and Resilience Review product should treat Ambrion/Velocity AI when it
+shows up inside a client's own stack, should that question arise in a
+live engagement. Worth a direct conversation with Shane if and when a
+real case presents itself, rather than assumed resolved today.
+
+**Action:** product snapshot now treated as five-plus-two (seven total)
+approved products, not five approved and two parked. Fee/pricing
+status for the two newly-approved products not yet set — still
+"specified, not priced" per the snapshot document.
+
 ### AI Strategy & Adoption — farming community vertical (9 Sept 2026)
 
 John's instruction, 9 Sept: within Meridian's AI Strategy & Adoption
