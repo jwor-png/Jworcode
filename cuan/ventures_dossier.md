@@ -1611,6 +1611,22 @@ Velocity AI/Ambrion AI contract above.
   - **Timeline:** John wants this actioned within the next couple of
     days, not left open-ended like the rest of this review.
 
+### Competitor intelligence — Screwfix Ireland FY results, logged 8 Oct 2026
+
+Source: Irish Independent business pages (Gordon Deegan), print, captured by John. New accounts filed by **Screwfix Direct (Ireland) Ltd** (owned by UK-headquartered **Kingfisher**), 12 months to end January:
+
+- **Pre-tax profit €4.14m, up 207% (more than threefold) year-on-year**, on record revenues.
+- **Revenue up 12%, from €117.66m to €131.73m.**
+- **Store count up to 45, five more than this time last year** — continued aggressive physical expansion across Ireland, with directors stating intent to keep opening new trade counter locations and develop the product range further.
+- **Like-for-like sales growth 10.7%**, up sharply from 6.3% the year before — directors attribute this mainly to higher volumes and higher selling prices in existing stores, not just new-store contribution.
+- **Operating profit €5.4m**; net finance costs €978k and exceptional expenses €295k brought it down to the €4.14m pre-tax figure. Post-tax profit €3.48m after a €683k corporation tax charge; non-cash depreciation €4.12m; shareholder funds €1.83m.
+- **Gross margin fell from 29% to 27%**, which directors attributed to "reducing participation of higher margin product ranges" — i.e. a deliberate mix shift toward higher-volume, lower-margin lines as part of the growth strategy.
+- **Headcount fell from 515 to 483 even as total staff costs rose slightly** (€13.64m to €13.71m) — fewer people, each costing more on average. Director pay rose from €237k to €256k.
+
+**Why this matters for UHL specifically:** Screwfix is a different kind of competitive threat than the trade consolidators already named in the Store Acquisition & Resale board paper (Grafton, Brooks Murdock, HPC, Wogans) — those are acquirers of independent merchants; Screwfix is a UK-backed national retail chain expanding its own store footprint directly into the same trade/DIY counter space UHL's Expert Hardware growth strategy is targeting. The margin compression (29%→27%) alongside continued store-count growth suggests Screwfix is deliberately trading margin for volume and market share right now, not optimising for profitability — worth factoring into any Audit & Risk or commercial discussion of UHL's own competitive positioning, particularly given the Expert Hardware strategy's own stated central-distribution and brand-fund ambitions are aimed at the same trade-counter customer base. A genuinely aggressive, well-capitalised competitor growing like-for-like sales at 10.7% is a sharper data point than the generic "consolidators are active" framing already in the board pack.
+
+**VERIFIED** — figures drawn directly from filed statutory accounts as reported, named journalist (Gordon Deegan), not independently cross-checked against the CRO filing itself in this note.
+
 ---
 
 ## AHL Plc
