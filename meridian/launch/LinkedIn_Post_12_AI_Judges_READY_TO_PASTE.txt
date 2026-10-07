@@ -1,6 +1,6 @@
 𝗙𝗼𝘂𝗿 𝗔𝗜 𝗺𝗼𝗱𝗲𝗹𝘀 𝘄𝗲𝗿𝗲 𝗮𝘀𝗸𝗲𝗱 𝘁𝗼 𝗱𝗲𝗰𝗶𝗱𝗲 𝗮 𝗛𝗶𝗴𝗵 𝗖𝗼𝘂𝗿𝘁 𝗰𝗮𝘀𝗲. 𝗔𝗹𝗹 𝗳𝗼𝘂𝗿 𝗹𝗼𝗼𝗸𝗲𝗱 𝗿𝗶𝗴𝗵𝘁 𝗮𝗻𝗱 𝗻𝗼𝗻𝗲 𝗼𝗳 𝘁𝗵𝗲𝗺 𝘄𝗮𝘀.
 
-Shane Phelan reported an experiment in Saturday's Irish Independent that is worth the attention of anyone relying on AI for serious work, whether or not they have any interest in law.
+Shane Phelan reported an experiment in the Irish Independent at the weekend that is worth the attention of anyone relying on AI for serious work, whether or not they have any interest in law.
 
 At the Kilkenny Law Festival, four of the leading models were handed the pleadings and transcripts of a fictional extradition challenge and asked to deliver a ruling. Traps were planted in the papers, including citations attached to propositions the cases did not support, a statutory ground that had been repealed, and a reference to the wrong article of the European Convention.
 
