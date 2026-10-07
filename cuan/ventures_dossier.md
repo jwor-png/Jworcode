@@ -1569,6 +1569,17 @@ not be pushed while that's the case, no urgency attaches to it. John
 remains the registered Secretary in the meantime, which is not a
 problem in itself.
 
+**Update, 7 Oct 2026 — BDO now actively chasing, deadline pressure
+returning.** Joanne Mallon emailed twice (25 Sept, then again 7 Oct
+7:10am) asking for an update on the B10, noting any amends would
+affect the documents to be filed for this year's Annual Return. John
+replied same morning (7:24am): he's talking to Nicola tomorrow on
+whether she can continue in the role, and will revert to Joanne then.
+**Status: live again, John to follow up after that conversation with
+Nicola** — still sensitive given her husband's illness, but the Annual
+Return filing timeline is now creating external pressure. No action for
+Cuan beyond tracking.
+
 ### Fire safety certificate — premises, 9 Sept 2026
 John had asked ORS a couple of weeks ago to revisit the Magna Business
 Park premises to inspect the completed fire alarm works, intending
