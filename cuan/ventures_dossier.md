@@ -555,34 +555,42 @@ Open items, none yet resolved:
    inferred) are on record. Worth John providing the complete list so
    Cuan can track each entity individually rather than piecemeal.
 
-### Noesis — new, Shane formalising John's shareholding, 7 Oct 2026
+### Noesis shareholding — formalisation now actually underway, 7 Oct 2026
 
-**Significant and new: this is a shareholding, not a Company Secretary/
-Director appointment** — a different kind of position to the Asterial/
-Zubelsala/Sancelvio roles above. Shane messaged John via WhatsApp (10:43,
-7 Oct): "I'm getting everything in place to make your shareholding in
-Noesis official. It means a lot to me to have you part of this, and I'm
-looking forward to the months and years ahead." Shane needs John's
-personal details sent to Pat Carroll's team (Asterial's external company
-secretarial support) to progress the paperwork.
+The ~1%+ Noesis shareholding flagged as verbally indicated but not yet
+formalised (30 Sept entry above) is now being put into paperwork. Shane
+messaged John via WhatsApp (10:43, 7 Oct): "I'm getting everything in
+place to make your shareholding in Noesis official. It means a lot to
+me to have you part of this, and I'm looking forward to the months and
+years ahead." Shane needs John's personal details sent to Pat Carroll's
+team (Asterial's external company secretarial support — accounts3/
+accounts4@patcarroll.ie, contact Walter Vindas, already the external
+company secretarial support for Asterial/Zubelsala/Sancelvio) to
+progress the paperwork.
+
+**John's confirmation, same day:** Noesis is the holding company for
+all of Shane's tech companies, sitting above the individual entities
+(Asterial, Zubelsala, Sancelvio, Velocity AI, Ambrion AI, etc. —
+consistent with the 30 Sept structural clarification above). John
+reconfirmed his existing role as it was presented at the AI Catholic
+Church Conference (Maynooth, 29 Sept): **Strategic Adviser to Noesis
+AI** — not a new role, the same one already logged.
 
 **John's details sent by email same day to Shane.mc@asterial.ai**, per
-his explicit instruction: full name, personal email, residential address,
-phone number (087-2570849 — now also saved to `owner_profile.md`), and
-PPS number (5022829C).
+his explicit instruction: full name, personal email, residential
+address, phone number (087-2570849 — now also saved to
+`owner_profile.md`), and PPS number (5022829C).
 
-**Open, not yet known:**
-- What Noesis actually is/does — no description given in Shane's message,
-  not yet asked.
-- The size/class of John's shareholding, and whether any consideration
-  is due from him or this is a gift/reward for his role alongside Shane.
-- Whether Noesis relates to ODIN, Asterial, Zubelsala, Sancelvio, or is a
-  genuinely separate venture.
+**Still open, per the 30 Sept entry — not yet resolved by today's
+message:** the actual percentage/class of the shareholding, whether any
+consideration is due from John, and formal terms for the Strategic
+Adviser/Company Secretary/shareholder roles together. Today's message is
+the paperwork step, not the terms conversation — still worth a direct,
+comprehensive conversation with Shane to convert verbal indication into
+agreed terms, as already flagged.
 
 **Status:** paperwork now in motion via Pat Carroll's office. No further
-action for Cuan until more detail emerges — worth asking Shane directly
-what Noesis is and what the shareholding represents, next time it comes
-up naturally.
+action for Cuan until terms are confirmed.
    **Partial resolution, 28 Sept:** per Shane's private briefing for the
    29 Sept Maynooth meeting (see `childen.md`), **SanCelvio is confirmed
    as the intended home of Childen and prospective contracting entity**,
