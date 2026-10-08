@@ -721,6 +721,77 @@ agreed terms, as already flagged.
 
 **Status:** paperwork now in motion via Pat Carroll's office. No further
 action for Cuan until terms are confirmed.
+
+### Shane's mandate to John (and Tom) — Noesis governance/security readiness, 8 Oct 2026
+
+**A direct, substantive work assignment from Shane, not just information
+to log — the first time John's Noesis role has come with explicit
+deliverables rather than a title.** Full text, verbatim:
+
+> "John and Tom, I'm asking you to take responsibility for progressing
+> these areas because we need the foundations of Noesis and its
+> companies in place as we prepare for investment and the activity that
+> could follow. John, I want you to apply your legal background, board
+> experience and role as company secretary to the corporate and
+> governance work, checking our structures, agreements, records and
+> decision processes, and coordinating completion with the relevant
+> advisers. Tom, I want you to bring your special forces experience,
+> entrepreneurial judgement and strategic thinking to our personal
+> safety, practical security, office readiness, vetting and
+> intelligence, including testing whether our arrangements work in
+> practice. AI will support the research, drafting and organisation,
+> with each of you checking the substance, identifying gaps and
+> bringing clear recommendations back to me. Doing this now gives us
+> time to resolve issues before money, commitments and operational
+> demands increase, while I retain technical and security leadership
+> and the decisions that require me."
+
+**New contact — "Tom," not previously tracked.** Described as having a
+special forces background, paired with entrepreneurial judgement and
+strategic thinking, assigned personal safety/physical security/office
+readiness/vetting/intelligence. Surname, full background and how he
+connects to Shane/Noesis not yet known — worth adding to `people_map.md`
+once more is known.
+
+**John's specific mandate — corporate and governance work:**
+- Check Noesis's and its companies' **structures, agreements, records
+  and decision processes.**
+- **Coordinate completion with the relevant advisers** (most likely
+  Pat Carroll's office, already the external company secretarial
+  support for Asterial/Zubelsala/Sancelvio — see above).
+- **AI support explicitly invited** for research, drafting and
+  organisation — this is a direct, standing instruction that Cuan
+  should actively support this work, not just log it.
+- John's own output: **check the substance, identify gaps, bring clear
+  recommendations back to Shane** — not just administrative completion,
+  a genuine governance review.
+
+**What this likely means in practice, given what's already known:**
+Noesis sits above Asterial, Zubelsala, Sancelvio, Velocity AI, Ambrion
+AI and others (~9 companies currently, Shane's own estimate, expected
+to grow to ~12 — see 30 Sept entry below). None of John's own roles
+across these (Company Secretary, Strategic Adviser, the Noesis
+shareholding itself) are yet formalised with agreed terms, which is
+itself exactly the kind of gap this mandate would need to surface and
+resolve. A natural starting structure for the review:
+1. **Full company list** — confirm all current Noesis-group entities
+   (not yet confirmed beyond the ~9/~12 estimate), their incorporation
+   status, directors, company secretary, and share structure.
+2. **Agreements** — what's actually signed (B10s for Zubelsala/
+   Sancelvio already on file) vs. what's verbally agreed but not yet
+   documented (John's own shareholding % and class, his Strategic
+   Adviser/Company Secretary terms, remuneration for either role —
+   all already flagged as open above).
+3. **Records** — statutory registers, filings, CRO status per entity.
+4. **Decision processes** — who actually has authority to bind each
+   entity, and whether that's documented or informal.
+
+**Not yet actioned.** Logged as a live mandate — next step is John's
+own judgement on how to start (e.g. requesting the Noesis group's full
+company list and existing documentation from Pat Carroll's office as
+the first concrete move), with Cuan ready to support research, drafting
+and organisation as explicitly invited in Shane's own message.
+
    **Partial resolution, 28 Sept:** per Shane's private briefing for the
    29 Sept Maynooth meeting (see `childen.md`), **SanCelvio is confirmed
    as the intended home of Childen and prospective contracting entity**,
