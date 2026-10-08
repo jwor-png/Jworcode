@@ -132,6 +132,44 @@ Tuesday 29 Sept 2026), received 28 Sept 2026:**
   Asterial Limited section, Company Secretary role across Shane's
   companies). **John attends Tuesday on behalf of Noesis specifically —
   he is not representing Asterial or ODIN at this meeting.**
+
+## New outreach — David Eades introduction via Mike Molloy, 8 Oct 2026
+
+Shane emailed **David Eades** (davideades.alldaymedia@hotmail.com,
+new contact, not previously tracked) directly, introducing himself and
+Childen — forwarded to John for visibility via john@velocityai.ie, John
+not an original recipient/CC. Mike Molloy suggested the introduction,
+on the basis that Eades's experience and relationships built through
+"service to the Church" could make him valuable to speak with about
+Childen's future.
+
+**New structural detail, clarifies and slightly extends what's already
+logged:** Shane describes **SanCelvio as "the social good arm of our
+group, Noesis"** — consistent with Noesis as the holding company
+already confirmed (30 Sept), with SanCelvio sitting under it as the
+specific social-good vehicle (Childen's intended home, as already
+noted above).
+
+**Wider SanCelvio scope, newly detailed** — beyond Childen, Shane
+describes systems in development for **dementia, Parkinson's,
+endometriosis and healthy ageing**, and separately mentions having
+explored how the Church itself could develop "its own governed AI
+network, retaining stewardship of its knowledge and data." Shane also
+states the wider work (beyond Childen specifically) "is attracting
+investment interest from the United States and the Middle East" —
+unverified beyond this statement, no detail given.
+
+**Shane's stated preference, restated here as sent externally:**
+Childen acquired through funding convened within the Catholic network,
+Church as custodian, "serving children across faiths and communities
+worldwide." Two attachments sent: "Childen Two Pager" and "Talents
+Entrusted to Humanity" (both already on file from the 2 Sept
+documents — see below).
+
+**Status:** outreach sent by Shane directly; no action for John beyond
+awareness. Not yet known whether Eades responds or what his "service
+to the Church" role/experience actually consists of — worth asking
+Shane or Mike Molloy directly if it becomes relevant.
 - **John's contribution:** listen, ask useful questions, contribute to
   the partnership discussion, help capture commitments and next steps.
   Explicitly told he can use his own judgement "without needing to speak

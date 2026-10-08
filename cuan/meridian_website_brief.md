@@ -170,6 +170,24 @@ externally.
 
 ---
 
+## Update, 8 Oct 2026 — email side now confirmed live; hosting still unresolved
+
+**jwor@meridianintelligence.ie is now confirmed in active use** — John
+sent the Ger Blake introduction email from it (7 Oct) and received a
+Google security alert confirming a new sign-in to the account same day.
+This resolves the email side of the launch sequencing at least
+functionally, though it's not yet confirmed whether this runs through
+Google Workspace (the stalled-payment thread below) or a different
+email setup entirely — worth clarifying which.
+
+**Hosting itself still not confirmed live or resolved** — a routine
+Hosting Ireland payment confirmation came through 8 Oct (€11.95,
+"Cloud Lite Plus — meridianintelligence.ie," period 11/10-10/11/2026),
+consistent with the existing recurring package already flagged below,
+not new evidence the actual website is deployed. The core blocker
+(deploy/hosting/domain decision, see "Launch sequencing" below) appears
+unchanged.
+
 ## John's reinforcement, 9 Sept 2026 — money being spent on nothing live
 
 John flagged this again directly: he's paying the **Hosting Ireland
