@@ -151,6 +151,83 @@ and the wider group) — small on paper, but potentially high value given
 what ODIN represents underneath it. Worth treating both offers as very
 early-stage/unconfirmed until named counterparties and term sheets
 exist — nothing here yet rises above "an offer has been mentioned."
+
+### "The Hunting List" — ODIN funding target research, received 8 Oct 2026
+
+**A substantial, well-built piece of work, prepared specifically for
+Dermot** (the intermediary on the $20m US offer above), dated October
+2026, marked Confidential. **26 family offices, sovereign funds and
+family-controlled investors who have put real money into AI**, each
+with a fully-sourced individual file: who decides, their AI track
+record, typical cheque size, the published or inferred way in, specific
+watch-outs, and a stated confidence rating (High/Medium/Low).
+
+**Methodology, per the document's own closing page:** six research
+agents each built a file on every name; two independent checkers then
+opened the underlying sources behind every claim and tried to refute
+it, with corrections applied word-for-word and logged. Every file's
+claims trace to an opened primary source (company site, press, official
+filing) — UNCONFIRMED is explicitly flagged where something couldn't be
+verified. This is real diligence, not a generated prospect list.
+
+**Structure — four tiers, 26 names:**
+1. **The Leads (7)** — can set terms and bring the rest of the room:
+   Bezos Expeditions, Thiel Capital (Peter Thiel), Premji Invest (Azim
+   Premji), Koch Disruptive Technologies, Prima Materia (Daniel Ek),
+   Horizons Ventures (Solina Chau/Li Ka-shing), Mubadala.
+2. **The proven co-investors (8)** — come in strong once a lead is set:
+   Hillspire (Eric Schmidt), Emerson Collective (Laurene Powell Jobs),
+   Temasek, ADIA, QIA, Doerr family, Sanabil Investments (PIF
+   subsidiary), Duquesne Family Office (Stanley Druckenmiller).
+3. **The European pack (8)** — back European AI together, sit in the
+   same rounds as each other: Xavier Niel, Aglaé (Bernard
+   Arnault/LVMH), Artémis (Pinault family), Association Familiale
+   Mulliez, Groupe Industriel Marcel Dassault, Bpifrance (French state
+   investment bank), CMA CGM (Rodolphe Saadé), Schwarz Group (Dieter
+   Schwarz Stiftung — Lidl/Kaufland).
+4. **Conditional (3)** — real money with a condition attached: HUMAIN
+   Ventures (Saudi PIF-owned, but wants backed companies running
+   Saudi-resident compute — flagged as a potential clash with ODIN's EU
+   data posture), **ISIF — Ireland Strategic Investment Fund, managed
+   by the NTMA, HIGH confidence rating** (the only sovereign fund in the
+   whole document rated High — genuinely the most natural, lowest-friction
+   door given ODIN's own Irish/EU footing), and Olayan Group.
+
+**A connecting map (page 3) shows which of these co-invest with each
+other** — AMI Labs (Yann LeCun's $1.03bn round, March 2026) is the
+single biggest connector, linking 10 of the 26 names in one round.
+Practical reading: getting one of the leads in opens the door to most
+of the rest of the list through shared rounds, rather than needing 26
+separate approaches.
+
+**The "Reflection" reference, resolving John's question (8 Oct 2026):**
+"Reflection" appears exactly once in the whole document — in the
+Hillspire/Eric Schmidt file, as one of several portfolio examples of
+Schmidt's AI appetite: **Reflection AI raised a $2bn Series B at an
+$8bn valuation (Oct 2025), led by NVIDIA, Hillspire a participant.**
+Nothing in the document proposes partnering with Reflection AI itself —
+it's cited purely as evidence of investor appetite. John's own reaction
+("Fuck that… just proof on the model") reads as rejecting a partnership
+with Reflection and instead treating the document as validation that
+real capital is actively flowing into exactly this kind of asset —
+reinforcing going direct to these investors rather than subordinating
+ODIN to another lab's cap table. Consistent with the document's own
+framing throughout.
+
+**Governance point repeated across several files, worth John's own
+attention:** many of the strongest "leads" (Thiel, Premji, Doerr,
+Niel, Dassault family) invest through **personal vehicles or family-
+controlled companies rather than classic institutional family
+offices** — each such file carries its own "the call to make" box
+asking whether personal/corporate vehicles should count as "family
+money" for this raise. Not yet decided; a genuine scoping question
+for John and Shane before pursuing those specific names.
+
+**Status:** received for awareness; not yet actioned or discussed with
+John's own next steps beyond the Reflection question. John's own
+framing on receipt: "Starting to build out the lists for targeting" —
+suggests this feeds directly into Dermot's/Shane's active outreach
+work, not a standalone reference document.
 - **Tracking:** Cuan + Meridian (AI Equity & Investment — frontier
   caveat tier).
 - **What ODIN is (per Shane's Investor Memorandum, 22 pages, prepared by
