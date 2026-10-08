@@ -722,6 +722,44 @@ agreed terms, as already flagged.
 **Status:** paperwork now in motion via Pat Carroll's office. No further
 action for Cuan until terms are confirmed.
 
+**Structural clarification, 8 Oct 2026 — John drawing a sharper line
+around what's actually "Noesis" vs what isn't.** John's own framing,
+given directly today, to focus the Pat Carroll work:
+
+1. **Noesis group companies** — split into two states: those that
+   **already exist**, and those that are **intended but not yet put in
+   place**. Establishing which is which, company by company, is the
+   immediate point of going to Pat Carroll — this is exactly task 1's
+   "verified company summary" from the work brief above.
+2. **Meridian Intelligence — NOT within Noesis.** John still needs to
+   formally set this up, with **John and Shane as shareholders**. Shane
+   is the common link to Noesis, but Meridian itself sits outside the
+   Noesis structure. This is a distinct, separate incorporation/
+   shareholding task from the Noesis governance work — worth not
+   conflating the two when dealing with Pat Carroll or the solicitor.
+3. **Entities Shane holds with other people — outside Noesis remit.**
+   Equitas (named in the work brief's money-governance task) is John's
+   example: something Shane has with others, not with John, and
+   therefore not John's concern under this mandate even though it's
+   mentioned in the brief.
+4. **Open question John is actively weighing, not yet resolved:**
+   whether **Velocity AI and Ambrion AI** sit inside the Noesis remit
+   (as the 1 Oct entry above assumed — "Noesis is the holding company
+   for all of Shane's tech companies... Velocity AI, Ambrion AI, etc.")
+   or whether they're actually more like Meridian/Equitas — adjacent to
+   Shane but outside what John is being asked to govern here. **This
+   needs to be settled with Pat Carroll/Shane, not assumed either way**
+   — flagging the contradiction with the earlier 1 Oct note rather than
+   quietly resolving it myself.
+
+**Practical effect on the Pat Carroll ask:** when establishing "where
+each company is at," get Pat Carroll to map clearly which companies
+are (a) existing Noesis-group entities, (b) Noesis-group entities still
+to be incorporated, (c) Meridian Intelligence (separate, John+Shane),
+and (d) anything — possibly Velocity AI/Ambrion AI, Equitas — that may
+sit outside the Noesis remit entirely. That mapping is the real
+starting point, ahead of the detailed share-rights/constitution work.
+
 ### Shane's mandate to John (and Tom) — Noesis governance/security readiness, 8 Oct 2026
 
 **A direct, substantive work assignment from Shane, not just information
