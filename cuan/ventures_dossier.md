@@ -200,19 +200,72 @@ Practical reading: getting one of the leads in opens the door to most
 of the rest of the list through shared rounds, rather than needing 26
 separate approaches.
 
-**The "Reflection" reference, resolving John's question (8 Oct 2026):**
-"Reflection" appears exactly once in the whole document — in the
-Hillspire/Eric Schmidt file, as one of several portfolio examples of
-Schmidt's AI appetite: **Reflection AI raised a $2bn Series B at an
-$8bn valuation (Oct 2025), led by NVIDIA, Hillspire a participant.**
-Nothing in the document proposes partnering with Reflection AI itself —
-it's cited purely as evidence of investor appetite. John's own reaction
-("Fuck that… just proof on the model") reads as rejecting a partnership
-with Reflection and instead treating the document as validation that
-real capital is actively flowing into exactly this kind of asset —
-reinforcing going direct to these investors rather than subordinating
-ODIN to another lab's cap table. Consistent with the document's own
-framing throughout.
+**The "Reflection" question — fuller picture, resolved 8 Oct 2026.**
+Within the Hunting List itself, "Reflection" appears exactly once — in
+the Hillspire/Eric Schmidt file, as one of several portfolio examples
+of Schmidt's AI appetite: Reflection AI raised a $2bn Series B at an
+$8bn valuation (Oct 2025), led by NVIDIA, Hillspire a participant.
+Nothing in that document proposes partnering with Reflection itself.
+
+**Separately, John shared a ChatGPT research session (shared via
+WhatsApp, "Anonymous," 8 Oct 2026 — author not confirmed, reads as
+Shane's own research given the first-person "our partnership
+discussions" framing) that goes much further** — a structured
+comparison of Reflection AI against ODIN, prompted by a live question
+about whether to partner with Reflection:
+
+- **Reflection AI** — $2bn raised Oct 2025 at $8bn valuation (NVIDIA,
+  Citi, Eric Schmidt, Lightspeed, Sequoia); a further **$25bn pre-money
+  valuation reported April 2026 — explicitly flagged by the research
+  itself as company-self-reported via Reflection's own newsroom, not
+  independently verified financing terms.**
+- **Partnership precedent: South Korea/Shinsegae**, March 2026 MOU for
+  a 250MW "sovereign AI factory" — Reflection contributes technical
+  expertise (chips, models, engineering); Shinsegae contributes
+  physical infrastructure, land, power, permitting and financing. The
+  research explicitly calls this split **"the most transferable part
+  of their approach to our partnership discussions"** — strongly
+  implying an actual partnership conversation involving ODIN was live,
+  not just background research.
+- Also noted: Dell/NVIDIA on-premises "AI Factory" deployment of
+  Reflection models; a US Department of Energy Genesis Mission
+  consortium role (supporting, not deployed across, 17 national labs);
+  large compute-capacity agreements with SpaceX (up to $6.3bn,
+  termination provisions) and Nebius (billion-plus) — explicitly
+  flagged as **capacity purchases, not money raised or revenue.**
+- **The critical caution, and the strongest reason John's instinct is
+  well-founded:** Reflection's first model, Beam, was only announced
+  **5 October 2026** — three days before this research — with final
+  testing still ongoing and weights/technical documentation not yet
+  published. **Most of Reflection's financing and partnership activity
+  happened before they had a working, public model to prove any of
+  it.** The research states directly: their valuation is "evidence of
+  investor appetite for strategic AI capability... rather than a
+  direct valuation comparable for ODIN," and their performance claims
+  remain company-reported, not independently verified.
+- **Architectural read:** genuine overlap with ODIN's integrated-system
+  direction (both complementary and competitively overlapping in
+  enterprise implementation), but a different centre of gravity —
+  Reflection starts from foundation models plus compute infrastructure;
+  ODIN's own factory concept centres on producing and governing systems
+  through the organism's shared architecture. Terminology overlaps;
+  underlying assets, costs and delivery economics differ.
+
+**John's own reaction ("Fuck that… just proof on the model") reads
+correctly as rejecting a Reflection partnership** — and the research
+itself gives good grounds for that call: a company whose headline
+valuation and partnership activity ran well ahead of its own public
+proof is not obviously a partner to subordinate ODIN to. The useful
+takeaway instead is the Shinsegae-style split itself (technical IP
+vs. infrastructure/capital partner) as a reusable **structural
+template** for ODIN's own future partnerships, and the broader point
+that real capital is actively chasing this category — reinforcing
+going direct to investors (per the Hunting List above) rather than
+needing Reflection as an intermediary. **Not yet confirmed: whether an
+actual partnership conversation with Reflection was live, who initiated
+it, or whether John's "fuck that" closes it outright** — worth
+clarifying directly with Shane given the research's own "our
+partnership discussions" phrasing.
 
 **Governance point repeated across several files, worth John's own
 attention:** many of the strongest "leads" (Thiel, Premji, Doerr,
