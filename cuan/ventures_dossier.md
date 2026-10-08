@@ -760,6 +760,19 @@ and (d) anything — possibly Velocity AI/Ambrion AI, Equitas — that may
 sit outside the Noesis remit entirely. That mapping is the real
 starting point, ahead of the detailed share-rights/constitution work.
 
+**John's sequencing plan, confirmed 8 Oct 2026:** go to **Pat Carroll
+for the Noesis companies specifically** (the task 1 verified-position
+ask — names, company types, directors, secretary records, shareholdings,
+completed changes, existing vs. not-yet-incorporated). **Clarify
+everything else with Shane first** — Meridian's own setup, Equitas, and
+the open Velocity AI/Ambrion AI question above — before raising those
+with Pat. John has a **call with Shane at 9.30am tomorrow (9 Oct)** and
+wants to tell Shane upfront, before going to Pat, exactly what he'll be
+asking Pat for on each Noesis company — so Shane knows the ask in
+advance and nothing is raised with Pat that Shane hasn't already seen.
+Cuan's immediate next job: draft that per-company ask list for John to
+walk through with Shane on the 9.30am call.
+
 ### Shane's mandate to John (and Tom) — Noesis governance/security readiness, 8 Oct 2026
 
 **A direct, substantive work assignment from Shane, not just information
