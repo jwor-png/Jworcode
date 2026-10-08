@@ -746,51 +746,112 @@ deliverables rather than a title.** Full text, verbatim:
 > demands increase, while I retain technical and security leadership
 > and the decisions that require me."
 
-**New contact — "Tom," not previously tracked.** Described as having a
-special forces background, paired with entrepreneurial judgement and
-strategic thinking, assigned personal safety/physical security/office
-readiness/vetting/intelligence. Surname, full background and how he
-connects to Shane/Noesis not yet known — worth adding to `people_map.md`
+**Tom Stapleton** — confirmed full name, 8 Oct 2026. Special forces
+background, paired with entrepreneurial judgement and strategic
+thinking, assigned personal safety/physical security/office readiness/
+vetting/intelligence. Further background and how he connects to Shane/
+Noesis not yet known — worth adding a proper entry to `people_map.md`
 once more is known.
 
-**John's specific mandate — corporate and governance work:**
-- Check Noesis's and its companies' **structures, agreements, records
-  and decision processes.**
-- **Coordinate completion with the relevant advisers** (most likely
-  Pat Carroll's office, already the external company secretarial
-  support for Asterial/Zubelsala/Sancelvio — see above).
-- **AI support explicitly invited** for research, drafting and
-  organisation — this is a direct, standing instruction that Cuan
-  should actively support this work, not just log it.
-- John's own output: **check the substance, identify gaps, bring clear
-  recommendations back to Shane** — not just administrative completion,
-  a genuine governance review.
+**The full operational brief — "NOESIS: John Webb | Work brief,"
+private working document dated 8 Oct 2026, received same day.** Far
+more detailed than the WhatsApp mandate above — ten specific tasks,
+each structured identically: what to start with, what AI (Cuan)
+prepares, what John personally verifies/challenges, and what goes back
+to Shane. Explicitly "based on Shane's instructions of 8 October 2026
+and the Noesis master checklist."
 
-**What this likely means in practice, given what's already known:**
-Noesis sits above Asterial, Zubelsala, Sancelvio, Velocity AI, Ambrion
-AI and others (~9 companies currently, Shane's own estimate, expected
-to grow to ~12 — see 30 Sept entry below). None of John's own roles
-across these (Company Secretary, Strategic Adviser, the Noesis
-shareholding itself) are yet formalised with agreed terms, which is
-itself exactly the kind of gap this mandate would need to surface and
-resolve. A natural starting structure for the review:
-1. **Full company list** — confirm all current Noesis-group entities
-   (not yet confirmed beyond the ~9/~12 estimate), their incorporation
-   status, directors, company secretary, and share structure.
-2. **Agreements** — what's actually signed (B10s for Zubelsala/
-   Sancelvio already on file) vs. what's verbally agreed but not yet
-   documented (John's own shareholding % and class, his Strategic
-   Adviser/Company Secretary terms, remuneration for either role —
-   all already flagged as open above).
-3. **Records** — statutory registers, filings, CRO status per entity.
-4. **Decision processes** — who actually has authority to bind each
-   entity, and whether that's documented or informal.
+**Confirms John is Company Secretary of Noesis, Asterial AND SanCelvio**
+— not just Asterial as previously tracked. Also surfaces **two new
+names, neither previously tracked**: **"NewCo"** (listed alongside
+Asterial/ODIN, SanCelvio and Zubelsala in the IP-consistency task — an
+entity not yet otherwise identified) and **"Equitas"** (referenced
+under money-movement governance: "Include Asterial-to-Noesis payments,
+Equitas work and dividends" — also not yet otherwise identified).
+**"Pat"** (finance/tax remit, "needs confirming") almost certainly
+refers to Pat Carroll's office, already the external company
+secretarial support for Asterial/Zubelsala/Sancelvio.
 
-**Not yet actioned.** Logged as a live mandate — next step is John's
-own judgement on how to start (e.g. requesting the Noesis group's full
-company list and existing documentation from Pat Carroll's office as
-the first concrete move), with Cuan ready to support research, drafting
-and organisation as explicitly invited in Shane's own message.
+**Confirms the original target was 6 October 2026** — already passed
+by the time this brief was issued; the shareholder-completion task
+explicitly asks John to "establish what happened against the original
+6 October target." This work is already running late against Shane's
+own internal timeline.
+
+**The ten tasks, in full:**
+1. **Confirm the legal position today** (start now) — verify names,
+   company types, directors, secretary records, shareholdings and
+   completed changes across Noesis, Asterial, SanCelvio. Bring: one
+   verified company summary, proposed changes shown separately, gaps
+   blocking decisions.
+2. **Challenge the share rights and founder control** (start now) —
+   check documents express Shane's intended economics/control; test
+   Class A/Class B rights and inconsistencies between earlier
+   briefings; take drafting questions to the solicitor. Bring: terms
+   that match intention, terms to change, decisions Shane must make
+   before signing.
+3. **Align the constitutions across the group** (first working week)
+   — check for conflicts with intended operations/investor
+   commitments; coordinate solicitor's amendments per company.
+4. **Drive the shareholder work through completion** (start now) —
+   confirm solicitor capacity, chase missing inputs, coordinate
+   signatures/records; establish status against the missed 6 October
+   target. Bring: dated completion plan, recovery date if needed, each
+   blocker named.
+5. **Set the board and decision rules** (first working week) —
+   propose board arrangements, meeting frequency, spending limits,
+   reserved decisions, temporary authority if Shane is unavailable
+   (limits/expiry); check feasibility with Tom, Pat and the solicitor.
+6. **Own the company records and compliance calendar** (first working
+   week; urgent dates immediately) — verify deadlines with accountant/
+   solicitor; confirm who prepares/checks/files each item incl.
+   beneficial ownership and tax. Bring: next 90 days of obligations,
+   named owners, proof of filings completed.
+7. **Review the governance of money moving across companies** (before
+   each relevant receipt/commitment/payment) — challenge company
+   benefit, conflicts, funding restrictions; **explicitly includes
+   Asterial-to-Noesis payments, Equitas work and dividends.**
+8. **Make IP and due diligence claims traceable** (start now; first
+   gap report this working week) — coordinate with Shane and the IP
+   solicitor; **check that Asterial/ODIN, SanCelvio, Zubelsala and
+   NewCo are described consistently**; track unresolved title issues.
+9. **Put safety, data and AI oversight into practice** (first working
+   week; before affected activity) — challenge adequacy of
+   arrangements; identify who handles workplace/product/health/
+   privacy/AI risks; works directly with Tom's practical safety
+   findings.
+10. **Give Shane one usable decision pack** (first review, then an
+    agreed rhythm) — validate material, challenge assumptions, give
+    recommendation; distinguish decisions from information; arrange
+    meetings, record outcomes.
+
+**Governance note from the brief itself, worth keeping in mind:** "The
+CRO describes company-secretarial functions as delegated by directors;
+directors retain their duties" (citing CRO: Duties of Directors and
+Secretaries) — i.e. John's own role here doesn't relieve the actual
+directors of their legal responsibility, a point worth being clear on
+given the scale of this mandate.
+
+**Division of labour, per the brief:** "You [John] own the governance
+and records side; Tom owns the practical assessment and exercises
+within the remit agreed with Shane" — coordinate with Tom specifically
+on practical safety, emergency arrangements and payment checks.
+
+**First return to Shane — the actual near-term deliverable:**
+verified company facts, the share-rights issues, and the actual
+signing position (tasks 1 and 2 above), target within **two working
+days of receiving the core records**. The brief frames today's call as
+being where John agrees the ten-task remit, available time over the
+next seven days, access to records, and contact with the solicitor.
+
+**Status: not yet actioned.** This is now Cuan's most concrete standing
+work item — the brief explicitly scopes what "AI prepares" means for
+each task (e.g. task 1: "a comparison of current legal ownership and
+the intended group structure, with missing evidence flagged"). Next
+step is John obtaining the core records (company registers, latest
+constitutions, signed ownership documents, share tables) from Pat
+Carroll's office or wherever they're held, at which point Cuan can
+start building the task 1 and 2 outputs directly.
 
    **Partial resolution, 28 Sept:** per Shane's private briefing for the
    29 Sept Maynooth meeting (see `childen.md`), **SanCelvio is confirmed
