@@ -901,6 +901,42 @@ approved products, not five approved and two parked. Fee/pricing
 status for the two newly-approved products not yet set — still
 "specified, not priced" per the snapshot document.
 
+### First external introduction — Ger Blake, outcome 8 Oct 2026
+
+A full seven-product letter on Meridian letterhead was drafted (6-7 Oct,
+see `cuan/scratch/Ger_Blake_Meridian_Introduction_Letter_v1.md`) for
+John to send to Ger Blake (DSB Accountants) alongside the branded
+overview document, as the first planned external introduction.
+
+**What was actually sent, 7 Oct 2026, 16:55, differs from the draft:**
+John sent a short, informal email directly from jwor@meridianintelligence.ie
+— not the full letterhead letter — reading: "Hi Ger, Hope you are well.
+I'd like to introduce Meridian Intelligence to you. This is cutting-edge
+AI technology developed around my experience, incorporating governance
+and verification throughout. The big firms are only starting to get
+into this advisory space. I believe this technology is well ahead of
+them and could work for you with clients in both DSB a[n]d Caral." (The
+reference to "Caral" is unclear — possibly a second firm/entity Ger is
+associated with, not previously identified; worth clarifying if it
+comes up again.) Not confirmed whether the overview PDF/letter were
+attached to this actual send.
+
+**Ger's reply, 8 Oct 2026, 15:34** — polite, open, but not an immediate
+lead: "I have read through it, and will keep it in mind if I can think
+of an opportunity for you. Most of my clients are retailers so are
+unlikely to have a need for it but I will definitely keep it in mind.
+Best of luck with it all anyway I hope it works out!"
+
+**Read on this, for John's own calibration going forward:** a civil,
+warm response consistent with the existing relationship, but not a
+conversion or even a clear next step — Ger's own stated reason (his
+client base is retailers) may be worth testing directly, since several
+of Meridian's seven products (Decision Brief, Transaction Intelligence,
+Board Paper Review) aren't retailer-specific and could still fit a
+retail client facing a transaction, governance or strategic decision.
+Worth deciding whether to follow up to explore that, or treat this as
+closed for now and move to the next planned introduction.
+
 ### AI Strategy & Adoption — farming community vertical (9 Sept 2026)
 
 John's instruction, 9 Sept: within Meridian's AI Strategy & Adoption
