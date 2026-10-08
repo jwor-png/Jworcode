@@ -118,6 +118,64 @@ answers/decisions.
   preferences, location) in writing, held alongside the will — not
   necessarily *in* the will itself, since wills are often read after
   the funeral has already taken place.
+- [ ] **New, 8 Oct 2026 — John wants to add a practical possessions/
+  home clear-out element**, prompted by a Sunday Independent Life
+  feature ("Swedish Death Cleaning," Chrissie Russell, 4 Oct 2026) on
+  **döstädning** — a Swedish practice (coined by Margareta Magnusson,
+  *The Gentle Art of Swedish Death Cleaning*, 2017) of decluttering a
+  home gradually, while alive and well, specifically so loved ones
+  aren't left to deal with it later. John explicitly wants this
+  **included in his own funeral planning**, in place over the coming
+  weeks/months, so everything is in order for his family. Treat this as
+  a genuine new sub-item alongside the funeral director/wishes work
+  above, not a separate project.
+
+**Key points from the article, usable for how John approaches this:**
+- **Not meant to be morbid** — Magnusson's own framing: "removing
+  unnecessary things and making your home nice and orderly when you
+  think the time is coming closer for you to leave the planet." A
+  cited 2023 NAPO survey found 72% of adults 55-74 have already begun
+  some form of intentional downsizing; households that practise it
+  report **37% fewer disputes among heirs** during estate settlement —
+  a concrete argument for doing it, beyond sentiment.
+- **Professional organiser framing (Ann Teehan, Neatly.ie):** "I feel
+  it's like a little love letter to your kids... I'm doing this now so
+  you don't have to do it." Benefits reported by clients: feeling
+  "lighter," minds more settled, not just a tidier estate — Teehan is
+  clear it's "for your life now," not only for the kids.
+- **Caution worth holding alongside the practical benefit** (Susannah
+  Healy, psychologist, Neurowell Clinics): this can cause real
+  unintentional hurt if rushed — children may be "knee-deep in
+  childcare and career" and not able to engage with it at the same
+  time a parent is ready to. Communication, empathy and sensitivity
+  matter; don't frame it explicitly around mortality without care, as
+  that can itself be upsetting for family even when well-intentioned.
+- **Practical sequencing tip (Sarah Reynolds, Organised Chaos):** start
+  with low-emotional-attachment areas first (e.g. the kitchen), not
+  sentimental items (clothes, books) — and work to a deadline/trigger
+  (a house move, a renovation) rather than an open-ended timeline,
+  since without one "I wonder does it ever really get done."
+- **A useful decision rule, offered by Ann Teehan for apportioning
+  items among family:** "Do you use it? Do you need it? Do you love
+  it? And do you have space for it?" — and when unsure what family
+  members actually want, photograph items or video-call them to ask,
+  rather than assuming.
+- Real-world example closing the piece: Margareta Magnusson's own
+  daughter, after her mother's death this year aged 92, said "I don't
+  need to lift a finger... she still had a very cosy home" — the
+  intended end state of doing this well, while alive.
+
+**Cross-reference:** sits directly alongside §3.4's asset/liability
+register and §3.1's will work — this is the physical-possessions
+counterpart to those, and like them benefits from being done
+deliberately now rather than left to a crisis. **Not yet actioned** —
+logged as a new item John wants under way in the coming weeks/months,
+no specific start date or approach chosen yet.
+
+**REPORTED/independent journalism** — feature article citing named
+professionals (organisers, a psychologist) and one survey (NAPO,
+2023), not independently re-verified by Cuan beyond the article
+itself.
 
 ### 3.4 — Full asset/liability register ("what I own and owe")
 - [ ] A single, maintained list of: property (Portauns, Bantry, any
