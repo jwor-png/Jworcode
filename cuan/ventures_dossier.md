@@ -853,6 +853,19 @@ constitutions, signed ownership documents, share tables) from Pat
 Carroll's office or wherever they're held, at which point Cuan can
 start building the task 1 and 2 outputs directly.
 
+**Timing confirmed, 8 Oct 2026:** both the WhatsApp mandate and this
+PDF brief arrived from Shane the same morning, not earlier — John
+discussed it with Shane earlier today, so nothing here predates today.
+
+**Pat Carroll confirmed, 8 Oct 2026:** Pat Carroll is the accountant
+in Limerick who holds the full picture across the Noesis group —
+documents for each company and where each one currently stands.
+John's immediate next step, before anything else in the ten tasks, is
+to establish that full position with Pat Carroll's office: get the
+company registers, constitutions, ownership documents and share
+tables, and confirm status company by company. That's the gating step
+for task 1's "verified company summary" and for everything downstream.
+
    **Partial resolution, 28 Sept:** per Shane's private briefing for the
    29 Sept Maynooth meeting (see `childen.md`), **SanCelvio is confirmed
    as the intended home of Childen and prospective contracting entity**,
