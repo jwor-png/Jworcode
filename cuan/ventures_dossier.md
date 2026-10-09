@@ -1247,6 +1247,18 @@ associated with, not previously identified; worth clarifying if it
 comes up again.) Not confirmed whether the overview PDF/letter were
 attached to this actual send.
 
+**Ger's reply, 8 Oct 2026, 15:34 — a polite decline, not a lead.**
+"Thanks for that and I have read through it, and will keep it in mind
+if I can think of an opportunity for you. **Most of my clients are
+retailers so are unlikely to have a need for it** but I will definitely
+keep it in mind. Best of luck with it all anyway I hope it works out!"
+**Status: closed for now, no live opportunity** — a warm, friendly
+response but explicitly no fit seen against his own client base.
+Worth noting for future outreach sequencing: Ger's own practice is
+retail-heavy, which may be a useful data point when picking who else
+to approach next (professional-services/advisory firms with a broader
+client mix may be a better fit than retail-focused accountants).
+
 **Ger's reply, 8 Oct 2026, 15:34** — polite, open, but not an immediate
 lead: "I have read through it, and will keep it in mind if I can think
 of an opportunity for you. Most of my clients are retailers so are
