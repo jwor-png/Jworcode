@@ -759,12 +759,14 @@ Noesis-specific status/constitution request below, while the broader
 Meridian/Equitas/Velocity-Ambrion remit questions stay with Shane
 separately, consistent with the sequencing plan already logged above.
 
-**Email to Pat Carroll drafted, 9 Oct 2026** — sent to the only
-working address on record, accounts4@patcarroll.ie (Walter Vindas,
-Accounts Department), cc accounts3@patcarroll.ie and Shane. No
-personal email for Pat Carroll himself has ever appeared in John's
-correspondence; every prior exchange with "Pat Carroll's office" has
-actually been with Walter Vindas. Asks, per company: full legal name
+**Email to Pat Carroll drafted, 9 Oct 2026** — originally addressed to
+the only working address found on record, accounts4@patcarroll.ie
+(Walter Vindas, Accounts Department), since no personal email for Pat
+Carroll himself had appeared in prior correspondence. **Corrected same
+day: John supplied Pat's direct personal address,
+pat.carroll@patcarroll.ie** — draft updated to address Pat directly,
+with Shane, accounts3@patcarroll.ie and accounts4@patcarroll.ie moved
+to cc. Asks, per company: full legal name
 and status (active / incorporated not yet active / not yet
 incorporated), and a copy of the current constitution — or, if one
 standard constitution applies across the AI companies, confirmation of
