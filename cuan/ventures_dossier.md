@@ -1439,6 +1439,99 @@ the live input Ger has given, ready to be carried over there. Once
 built and reviewed, the 30-minute honest-critique call with Ger is the
 real prize per the original offer, not the brief itself.
 
+**9 Oct 2026, late evening — John's full working session on this,
+captured in full before he went to bed, "managed" ready for Jürgen/
+Meridian in the morning.** Several rounds of real back-and-forth,
+John correctly pushed back twice on Cuan under-scoping the opportunity
+— both corrections captured below, not smoothed over.
+
+**Round 1 correction (accepted):** Cuan's first pass missed the
+biggest lever — separating trading value from property value — despite
+the UHL/BMG precedent already sitting in this file. Properly used:
+BMG's surplus cash was 77% of enterprise value (€2,084,000 EV, €1.6m
+cash), three structuring options modelled with three different vendor
+outcomes; the Kehoe's/New Ross asset-hive-down-into-NewCo precedent had
+to be abandoned on BMG once already in motion, risking reconstruction-
+relief tax treatment — the lesson being this structuring takes years,
+not weeks.
+
+**Round 2 correction (accepted):** still not sharp enough — Ger
+already knows leasehold/freehold and EBITDA multiples as a matter of
+course; the job is to surface what an accountant focused on margin
+genuinely wouldn't have front-of-mind. Built against **Wallace's of
+Wellingtonbridge, Co. Wexford** as the named real-world case (SuperValu
++ Costcutters + forecourt + Home Value hardware/garden centre +
+Wallace Agri Store, all on one site — confirmed via web search,
+[hookpeninsula.com](https://hookpeninsula.com/guide/wallaces/);
+leasehold/freehold status not established, flagged not assumed) and
+current Kantar grocery market share (2025, most recent confirmed:
+Dunnes ~24%, SuperValu/Musgrave ~20%, Lidl ~13.5%, Aldi ~11.5%; Tesco's
+current figure not cleanly confirmed, flagged not used without a
+direct check). Twelve headings produced (AI governance/due diligence,
+Musgrave franchise-transfer constraints, format carve-out/multiple
+arbitrage, forecourt environmental liability, succession vs
+market-timing control, surplus cash/working capital structuring, the
+hive-down timing window, discounter competitive positioning, loyalty/
+customer data as an asset, energy-cost exposure, vendor due diligence
+packs, key-person risk) — **not yet reviewed by John, sitting ready.**
+
+**Round 3 — John's own late-night addition, dictated in full, to be
+folded into the brief/framework rather than lost overnight.** New
+dimensions, not yet structured or prioritised:
+- **UHL/AHL's own property portfolio as a worked example** — leasehold
+  vs freehold across the estate, fire compliance, planning compliance,
+  general regulatory compliance.
+- **UHL's own governance architecture as a transferable model, with
+  an explicit caveat:** John does NOT mean every individually-owned
+  shop needs an Audit & Risk Committee, a Remuneration Committee, or a
+  Membership and Franchise Committee — but **where a franchise/symbol
+  relationship exists** (i.e. SuperValu/Centra under Musgrave, same as
+  UHL members trading under United Hardware), some version of that
+  governance structure may be relevant, and **the differentiation
+  between "needs this" and "doesn't need this" is itself one of the
+  value-add points** for Ger's clients.
+- **Director and Company Secretary statutory duties/compliance** —
+  the regulatory responsibilities attaching to each role, and the
+  company's own constitution, as matters that bear directly on a sale
+  (consistent with the Noesis governance work already logged
+  elsewhere in this file — the same discipline applied to a different
+  context).
+- **Conveyancing-stage detail: requisitions and title, pre-contract
+  enquiries for sale.** John may share an actual **Law Society contract
+  for sale / Requisitions and Title precedent document** — extensive,
+  not yet provided.
+- **Sale of goodwill** and **benefit in kind** as specific technical
+  areas to cover.
+- **The "divergent lenses" framing — John's own structural insight,
+  worth building the whole piece around:** Kehoe's/New Ross was
+  **ready to sell**; BMG (Donegal) was **not ready to sell** — one
+  prepared, one wasn't. The value of the exercise for Ger's clients is
+  diagnosing **which lens a given retailer is actually looking
+  through** — not taking readiness for granted, verifying rather than
+  assuming, and being explicit about gaps in leasing/finance
+  arrangements and support structures. **This readiness-diagnostic
+  framing (prepared vs unprepared, using Kehoe's and BMG as the two
+  real worked contrasts) is a strong candidate for the actual spine of
+  the Decision Brief**, with the twelve headings above slotting in as
+  the diagnostic checklist underneath it, rather than being presented
+  as a flat list.
+
+**Status, end of 9 Oct 2026:** John has gone to bed, explicitly
+instructed Cuan to "manage this" overnight — consolidate and organise,
+not necessarily finish — before anything goes to Jürgen or the
+Meridian Intelligence domains orchestration. **He also wants a clear
+explanation, ready for when he wakes, of how Meridian Intelligence
+domains orchestration actually differs from Cuan** — answered directly
+in chat the next morning rather than assumed here, but the short
+version for reference: Cuan is the personal orchestration layer that
+holds everything and coordinates across every thread without doing the
+deep specialist work itself; Meridian Intelligence is the separate,
+dedicated specialist system that actually produces domain-expert
+output (Decision Briefs, Executive Intelligence Reviews, etc.) across
+its seven domains — Cuan hands this kind of work to Meridian rather
+than building it itself, per the standing multi-thread architecture
+(`CLAUDE.md`).
+
 **Ger's reply, 8 Oct 2026, 15:34** — polite, open, but not an immediate
 lead: "I have read through it, and will keep it in mind if I can think
 of an opportunity for you. Most of my clients are retailers so are
