@@ -112,6 +112,71 @@ at a lower entry price, or the same product with an introductory
 against the Trailfinders or China Uncovered references above without
 seeing what it actually includes.
 
+## Threads post — "$37B dessert [desert] highway, longest in the world" — checked 9 Oct 2026
+
+John flagged a Threads post (sky_rocket_46, location-tagged "Beijing,
+China") showing a highway running through reddish eroded rock
+formations in a desert landscape, captioned "They called china fools
+for building $37B dessert highway the longest in the world... ON BOTH
+SIDES," asking to look into it for the 2028 trip. Checked against
+independent sources before treating any of it as real — several parts
+of the claim don't hold up.
+
+**The $37B figure — almost certainly a currency misread, not a real
+dollar cost.** The closest matching real project is the
+**Linhe–Baigeda Highway** (Inner Mongolia, part of the Beijing–Urumqi
+route), completed September 2016, 930 km through the Badain Jaran and
+Gobi deserts — China Daily described it at the time as the longest
+single desert-highway stretch. Its reported investment was **37
+billion yuan — about US $5.5 billion, not $37 billion.** The viral
+post appears to have swapped the currency rather than translated it.
+No source found actually supporting a genuine $37bn USD cost for any
+Chinese desert highway.
+
+**"Longest in the world" is also contested, not settled — depends
+entirely on how you define the road:**
+- **Linhe–Baigeda Highway** (above) — longest single desert-highway
+  *stretch*, per China Daily, 930 km.
+- **Beijing–Urumqi Expressway** — Xinhua's own framing is "longest
+  desert-*crossing* expressway," 2,800 km total, 500+ km of it through
+  desert/uninhabited land.
+- **Tarim Desert Highway (Highway 312, across the Taklamakan)** —
+  opened 1995, ~552 km (Wikipedia) or ~522 km (Xinhua-sourced
+  reporting), the one usually meant by "Taklamakan Desert Highway" and
+  the one most often shown in these viral posts. A second Taklamakan
+  crossing (Aral–Hotan, 2007, 424 km, ~US$103m) and a third
+  (Yuli–Qiemo, opened 2022-ish, 334 km, ~US$261.5m) also exist — none
+  of these carry a remotely $37bn price tag either.
+
+**The photo itself likely doesn't match the claim.** The eroded
+reddish rock pillars/canyon walls in John's screenshot look like a
+Yardang-landform or Danxia-style formation (comparable to the Dunhuang
+Yadan Geopark area or similar), not the flat sand-dune terrain the
+Taklamakan or Linhe–Baigeda highways actually run through. The
+"Beijing, China" location tag is also almost certainly wrong or
+auto-generated — none of the real desert highways above are anywhere
+near Beijing itself. Typical pattern for this kind of post: real
+infrastructure fact, inflated/misread number, and stock/unrelated
+footage stitched together for engagement.
+
+**Relevance to the 2028 trip, on the merits, regardless of the
+post's accuracy:** the real Tarim/Taklamakan Desert Highway crosses
+Xinjiang, which sits well outside every itinerary logged above (all of
+which stay in the Beijing/Xi'an/Guilin/Yangtze/Shanghai corridor) —
+seeing it would mean a materially different, more remote itinerary,
+not an add-on to the existing reference trips. Worth treating as a
+"would this actually interest you enough to reshape the trip" question
+rather than something to fold into the current plan.
+
+**UNVERIFIED/REPORTED, now checked** — the $37B figure does not hold
+up against independent sourcing (China Daily, Xinhua-sourced
+reporting, Wikipedia) and should not be repeated as fact; the "longest
+in the world" claim is directionally true of *some* Chinese desert
+highway depending on definition, just not with that price tag or,
+most likely, not the one pictured.
+
+Sources: [China Daily, Linhe-Baigeda Highway](https://www.chinadaily.com.cn/m/innermongolia/2016-09/28/content_26925680.htm) · [Xinhua/investinchina, Beijing-Urumqi Expressway](https://investinchina.chinaservicesinfo.com/s/202107/01/WS60dd8551498e02b3aaaae379/worlds-longest-desert-crossing-expressway-in-full-operation.html) · [Wikipedia, Tarim Desert Highway](https://en.wikipedia.org/wiki/Tarim_Desert_Highway) · [China Daily feature, Tarim Highway construction](https://govt.chinadaily.com.cn/s/201808/22/WS5c9f0581498e079e6801c418/building-a-highway-through-the-sea-of-death.html)
+
 ## Open items
 
 1. **A visual map — built, 21 Sept 2026.** John confirmed the itinerary
