@@ -1259,6 +1259,87 @@ retail-heavy, which may be a useful data point when picking who else
 to approach next (professional-services/advisory firms with a broader
 client mix may be a better fit than retail-focused accountants).
 
+**Decision, 9 Oct 2026: re-approach Ger rather than leave it there**
+— a free trial Decision Brief offer, built around a question Ger
+chooses himself (anonymised/hypothetical, or about DSB/his own
+consultancy, since he can't hand over client confidentiality), five
+working days, up to three domains, reviewed by John before it reaches
+Ger, delivered as a draft not finished advice, in exchange for a
+30-minute honest-critique call afterwards. Offered free rather than at
+the founding rate — Ger's decline was about fit, not trust or price,
+so free removes friction and keeps the real prize (his critique) the
+actual point. **Per governance, Shane needs a one-line heads-up before
+this goes, since it's a small commercial commitment.**
+
+**Document review, 9 Oct 2026 — before any reply goes, the materials
+already sent need fixing, not reused.** A review (via the Meridian
+thread) of the actual letter text in
+`cuan/scratch/Ger_Blake_Meridian_Introduction_Letter_v1.md` — confirmed
+directly against that file — found it still carries problems already
+cleaned off the website:
+1. **"A single engagement reaches the full breadth of a top-tier
+   advisory practice"** — the comparative claim removed from the site
+   11 Sept, present word for word in the letter (para 1, "What Meridian
+   actually is").
+2. **"Intelligent AI. Real Impact."** tagline still in the letter's
+   footer and (per the review) the logo/overview PDF — the tagline
+   already flagged as off-message and cropped from the LinkedIn logo in
+   August.
+3. **The full seven-product list**, including **Product 5 (AI Equity
+   Structuring)** — which John had said to keep off public channels
+   while ODIN is open — and **Products 6 and 7 (AI Dependency and
+   Resilience Review, Board Paper Review)**, approved as products 7 Oct
+   but not yet priced, with the Ambrion boundary on #6 still
+   unresolved with Shane and #7 parked against John's own board roles.
+4. **"Building this with Shane McCarthy"** stated directly in the
+   letter — the partner line was still an open item with Shane as of
+   the website brief; he should know it's now been put to a third
+   party in writing.
+5. **Separately flagged on the Overview PDF specifically** (not yet
+   independently confirmed by Cuan which version Ger actually
+   received): the same tagline/comparative-claim issues, plus "EU AI
+   Act compliance" under domain 5 colliding with the Ambrion boundary,
+   the closing comparison-with-large-firms line, and that the first
+   case study ("a group considering launching a specialist buying
+   operation") is recognisably the UHL Specialist Affiliate Group work
+   — worth confirming UHL awareness, and whether the chairman
+   disclosure (tabled 5 Oct, see UHL Hardware section) covers using UHL
+   as a named/recognisable case study externally.
+6. **Correction to the 8 Oct assessment above:** the actual letter
+   (unlike the short covering email that was actually sent 7 Oct) is
+   not a technology pitch — it leads with "Meridian informs, it never
+   represents," names the products, and asks for honest feedback. The
+   technology framing lives in the **covering email**
+   ("cutting-edge AI technology... well ahead of them"), not the
+   letter. This also means Ger's decline reads as more reasonable than
+   first assessed: the letter asked him to introduce Meridian to
+   clients "where it would genuinely help them," and his answer — most
+   of his clients are retailers — directly answered that question. The
+   free-trial offer changes the ask from referring to trying, which is
+   the actual fix.
+7. **A point in Meridian's favour, reusable in the reply:** the
+   Overview's own sector lens already names "Agribusiness, food,
+   retail and the co-operative sector" — Ger doesn't need convincing of
+   relevance, John can simply point at Meridian's own document.
+
+**Open question, not resolved here:** whether the full
+letterhead-and-products letter (vs. just the short covering email
+logged 8 Oct above) and/or the Overview PDF actually went to Ger on
+7 Oct — not independently confirmed by Cuan (no access to the
+jwor@meridianintelligence.ie sent folder). Treat as likely sent per
+the Meridian thread's review, but worth a direct one-line confirmation
+from John before assuming which version Ger has actually seen.
+
+**Status: hold the reply.** Do not send a new approach to Ger, and do
+not resend either document, until: the tagline is removed from the
+letterhead/logo footer, the comparative claims are cut, the product
+list is trimmed to what's actually public-ready (Product 5 off,
+Products 6/7 only if their open items are resolved), the "with Shane
+McCarthy" line is confirmed Shane knows about, and the UHL case
+study/disclosure question is checked. A corrected one-page overview
+(website's language, retail/food sector lens kept, new header, no
+tagline) is the proposed fix — not yet built.
+
 **Ger's reply, 8 Oct 2026, 15:34** — polite, open, but not an immediate
 lead: "I have read through it, and will keep it in mind if I can think
 of an opportunity for you. Most of my clients are retailers so are
