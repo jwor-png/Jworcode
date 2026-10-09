@@ -752,6 +752,32 @@ given directly today, to focus the Pat Carroll work:
    — flagging the contradiction with the earlier 1 Oct note rather than
    quietly resolving it myself.
 
+**Two calls with Shane, 8 and 9 Oct 2026** — a slight difference of
+opinion surfaced on the approach to Pat Carroll, not detailed further
+by John. John's resolved approach: contact Pat today directly for the
+Noesis-specific status/constitution request below, while the broader
+Meridian/Equitas/Velocity-Ambrion remit questions stay with Shane
+separately, consistent with the sequencing plan already logged above.
+
+**Email to Pat Carroll drafted, 9 Oct 2026** — sent to the only
+working address on record, accounts4@patcarroll.ie (Walter Vindas,
+Accounts Department), cc accounts3@patcarroll.ie and Shane. No
+personal email for Pat Carroll himself has ever appeared in John's
+correspondence; every prior exchange with "Pat Carroll's office" has
+actually been with Walter Vindas. Asks, per company: full legal name
+and status (active / incorporated not yet active / not yet
+incorporated), and a copy of the current constitution — or, if one
+standard constitution applies across the AI companies, confirmation of
+that rather than duplicate documents. **Also puts in writing:** John
+and Shane will be redesigning the constitution for the AI-native,
+AI-first companies within the Noesis group using a new framework,
+starting now, with John leading it on their side — flagged deliberately
+alongside the status request so Pat's office isn't confused about
+current-state reporting vs. the new work about to begin. Saved as a
+Gmail draft in jwebborourke@gmail.com (not sent from a Velocity AI/
+Noesis address — same mailbox limitation as the Meridian/Ger Blake
+correspondence above).
+
 **Practical effect on the Pat Carroll ask:** when establishing "where
 each company is at," get Pat Carroll to map clearly which companies
 are (a) existing Noesis-group entities, (b) Noesis-group entities still
