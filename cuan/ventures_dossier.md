@@ -1340,6 +1340,39 @@ study/disclosure question is checked. A corrected one-page overview
 (website's language, retail/food sector lens kept, new header, no
 tagline) is the proposed fix — not yet built.
 
+**John's decisions, 9 Oct 2026 — resolves most of the open items
+above, reply now moving forward:**
+- **Free offer confirmed, with Shane's imprimatur.** John has Shane's
+  sign-off specifically: real tests like this against Meridian's tech
+  are good and improve it. The governance "tell Shane" step is
+  satisfied — this was raised with Shane directly, not just flagged.
+- **Both documents confirmed sent to Ger**, alongside the covering
+  email — the letter and the full Overview PDF. The earlier "which
+  version did Ger actually see" open question is resolved: both.
+- **Product 5 (AI Equity Structuring) — explicit override, stays in.**
+  John considered the flag, decided Product 5 proceeds under Meridian
+  regardless, and will discuss the public-channel question with Shane
+  separately to resolve it — but it is not being pulled from materials
+  in the meantime. John's own point: Shane has already reviewed
+  Meridian's domains and products previously and raised no issue with
+  them being public. **Cuan's earlier recommendation to pull Product 5
+  from public materials is superseded by this decision** — logged for
+  the record, not to be re-raised as a blocker.
+- **Reply drafted and finalised, 9 Oct 2026** — short follow-up offering
+  a free trial Decision Brief (confidentiality-safe question, his
+  choice; or a public case per the Studio Sixty Eight precedent; five
+  working days, reviewed before it reaches him, marked draft; a
+  30-minute honest-critique call in return). Saved as a Gmail draft in
+  jwebborourke@gmail.com (Cuan has no access to
+  jwor@meridianintelligence.ie to draft there directly); full text
+  also handed to John to paste into Meridian and send himself, with
+  his own light edits expected before it goes to Ger.
+- **Still outstanding, separately:** the Overview PDF itself still
+  needs correcting (tagline, comparative claims, EU AI Act/Ambrion
+  domain-5 wording, UHL case-study/disclosure question) — John
+  confirmed this is a real, separate piece of work still to do, not
+  resolved by today's decisions. Not yet started.
+
 **Ger's reply, 8 Oct 2026, 15:34** — polite, open, but not an immediate
 lead: "I have read through it, and will keep it in mind if I can think
 of an opportunity for you. Most of my clients are retailers so are
