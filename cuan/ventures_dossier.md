@@ -3044,6 +3044,30 @@ rules, not facts about AHL Plc.
   separate session (2 Sept) reported it had "no entry anywhere in the
   knowledge base," which wasn't quite right (it just wasn't in this
   particular file).
+
+- **Tactical decision, 9 Oct 2026 — declined a late supportive
+  submission, resolved by email with Michael Heather (Silveroak,
+  "Myki").** Myki forwarded an Irish Times letter and advice from
+  Peter Lennon (solicitor, via a senior counsel contact) suggesting a
+  letter be submitted to An Coimisiún Pleanála, ideally via Senator
+  Sharon Keoghan or Cllr Stephen McKee, countering Fred Logue's
+  position, even though the submissions period has closed. **John
+  declined, with reasoning:** (1) ACP isn't obliged to consider
+  material submitted outside the statutory period unless it requests
+  it — likely returned/ignored, per John's own first-hand experience
+  on a primary care centre appeal; (2) a late letter from a supportive
+  public representative, submitted via another route, would sit on
+  the public file for Logue to see and use; (3) if ACP upholds the MCC
+  grant, Logue — whose specialist field is judicial review — would
+  likely use exactly this kind of late, unanswerable submission as
+  grounds to argue the process was unfair, risking months of delay and
+  real cost with the permission in limbo; (4) the letter's actual
+  content doesn't help as much as it looks — it still argues the
+  development should wait for the bypass, which is consistent with,
+  not contrary to, Logue's own appeal position. **John's stated
+  principle: "a clean file with no surprises is our strongest
+  position."** Myki agreed fully — status closed, both sides now
+  waiting on the ACP decision, no further action.
 - **Balancing statement to John Lynch, updated 9 Sept 2026 (drafted,
   not sent):** balance carried forward end of July was €9,500 (per
   7 Aug email); September's €3,000 monthly amount became due 1 Sept,
