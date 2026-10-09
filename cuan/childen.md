@@ -2156,6 +2156,32 @@ research (done same day):**
   Tourism and Employment (DETE). No business card exchanged; John wants
   to reach out — contact details not yet found by Cuan, worth sourcing
   via DETE's own website/press office if needed.
+
+**LinkedIn confirmed, 9 Oct 2026** (John's own screenshot): title and
+employer match — Head of AI and Digital Regulation, DETE, since **June
+2025**. Background: **8+ years at the Office of Government
+Procurement** (Head of Operational Excellence, Jan 2021-Jul 2025;
+Programme Manager/eInvoicing & eTenders Platform Projects, Apr
+2017-Jul 2025 — Head of Unit for digital-transformation delivery under
+the EU eInvoicing Directive 2014/55/EU); before that **Head of IT at
+Celtrino**, Nov 2009-Mar 2017. No email address available via
+LinkedIn. **Email not yet confirmed** — a likely DETE
+firstname.lastname format (declan.mccormack@enterprise.gov.ie) was
+used on a drafted outreach email (see Paul Byrne/AI Office entry
+below) but flagged to John as unverified before sending, not assumed
+correct.
+
+**Outreach drafted, 9 Oct 2026 — paired with Paul Byrne outreach
+below.** Introduction email from John (cc Shane) referencing the
+Maynooth meeting (29 Sept, Magnifica Humanitas conference), Shane's
+question to Emma Redmond on agentic-system oversight, Shane's role as
+chief architect vs. John's own framing as an experienced businessman/
+Golden Generation adapting to AI adoption with a governance/agent-
+orchestration focus, John signing as "Strategic Advisor, Noesis
+Group." Saved as a Gmail draft in jwebborourke@gmail.com (Cuan has no
+access to the Velocity AI mailbox John intends to actually send from).
+**Not sent — held pending confirmation of Declan's real email
+address.**
 - **Fr Tim Bartlett** — John thought he might have already mentioned
   him; **not previously logged anywhere in Cuan's files.** Researched:
   a priest who has accompanied Archbishop Eamon Martin on official

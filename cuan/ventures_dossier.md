@@ -966,6 +966,14 @@ for task 1's "verified company summary" and for everything downstream.
    rather than treating it as settled. **Shane says the group currently
    comprises around 9 companies, expected to grow to ~12.**
 
+   **First external use of this title to a government contact, 9 Oct
+   2026:** outreach emails drafted to Paul Byrne (CEO, AI Office of
+   Ireland) and Declan McCormack (Head of AI and Digital Regulation,
+   DETE), both met at the Maynooth conference, sign off "John Webb
+   O'Rourke, Strategic Adviser, Noesis Group" — consistent with the
+   title below, not a new or inflated claim. Full detail in `childen.md`
+   (Paul Byrne/Declan McCormack contact entries).
+
    **John's role is evolving beyond Company Secretary:** currently
    **Strategic Adviser to the Noesis group** (the title used at
    Maynooth), which John wants to develop further — extending to the
