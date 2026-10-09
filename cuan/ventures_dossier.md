@@ -1409,6 +1409,36 @@ above, reply now moving forward:**
   confirmed this is a real, separate piece of work still to do, not
   resolved by today's decisions. Not yet started.
 
+**Ger engaged with the free trial offer, 9 Oct 2026, 15:40 — the test
+worked.** Ger's reply, in full: "We are working with a lot of business
+owners selling their business so perhaps a note on what they can do in
+advance to ensure they can maximise the value of a supermarket in a
+sale scenario??"
+
+**Why this is a good question, per the offer's own terms:**
+- **Already confidentiality-safe** — general/hypothetical, not a named
+  client's file, satisfying the offer's own condition without Ger
+  needing to anonymise anything further.
+- **Fits Ger's actual practice directly** — DSB works with retail
+  business owners, consistent with his own stated client base
+  ("retailers," from his 8 Oct decline) — this isn't a stretch case,
+  it's squarely his day-to-day work.
+- **A real decision sits behind it** — pre-sale value-maximisation
+  advice for supermarket/retail owners is exactly the kind of question
+  where a Decision Brief's output could change what Ger actually tells
+  a client, which is the test's whole point (per point 1 of the
+  original seven-point brief: "the test only works if the answer would
+  change something he or a client does").
+
+**Next step, not yet actioned:** build the Decision Brief against
+Ger's question — up to three domains, five working days, reviewed by
+John before it reaches Ger, delivered marked as a draft. Per the
+system architecture, **actual Decision Brief production belongs to the
+dedicated Meridian Intelligence thread**, not Cuan — this entry logs
+the live input Ger has given, ready to be carried over there. Once
+built and reviewed, the 30-minute honest-critique call with Ger is the
+real prize per the original offer, not the brief itself.
+
 **Ger's reply, 8 Oct 2026, 15:34** — polite, open, but not an immediate
 lead: "I have read through it, and will keep it in mind if I can think
 of an opportunity for you. Most of my clients are retailers so are
