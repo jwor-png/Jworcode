@@ -1055,3 +1055,29 @@ Source: Instagram, hartwegdaniel / @clarityresetsystem (The Mindset Challenger G
 **John's own context, attached directly to this entry (6 Oct 2026):** he flagged this as something he wants to apply specifically to figuring out his own career/purpose question — bringing together everything he does with Shane (Ambrion AI, Velocity AI, Meridian, future ventures) alongside his other roles (UHL, AHL, Old Mill, Barber Republic, etc.) into one coherent picture, rather than treating them as separate, disconnected commitments.
 
 **Worth flagging, cross-referenced against what's already on file:** this lands directly on the still-unbuilt **John Personal Compass** (see above — questions 1-5, "who am I / what matters most / what kind of leader"), and specifically on **question 3** ("what kind of person and leader do I want to be"). It also gives the recurring "action over deliberation" theme already heavily tracked in this file (shaving-mirror mantra, Emerson, Ross Harkness, desk calendar quotes, Sharran Srivatsaa) its most structured, directly-applicable version yet — a stepwise process rather than just a maxim. Practical next step if John wants to actually use it: steps 2 ("explore your signals" — what energises him across Ambrion/Velocity/Meridian/UHL/AHL/Barber Republic specifically) and 4 ("direction map" — themes/values across all current roles) are the two most concrete starting points, and would feed directly into building the Personal Compass rather than being a separate exercise.
+
+## On loving yourself vs. loving someone else (Instagram quote card, captured 9 Oct 2026)
+
+Source: Instagram, account not visible in the captured frame. **Author not
+verified** — searched against named sources (including Krishnamurti, whose
+style it resembles, and other quote databases); no match found for this
+exact wording, so it's logged unattributed rather than guessed at.
+
+> "To love someone else is easy, but to love what you are, the thing that
+> is yourself, is just as if you were embracing a glowing red-hot iron: it
+> burns into you and that is very painful. Therefore, to love somebody
+> else in the first place is always an escape which we all hope for, and
+> we all enjoy it when we are capable of it. But in the long run, it
+> comes back on us. You cannot stay away from yourself forever, you have
+> to return, have to come to that experiment, to know whether you really
+> can love. That is the question — whether you can love yourself, and
+> that will be the test."
+
+Logged for reflection, no interpretation attached yet — this is a
+different register from the action-oriented material already tracked
+above (shaving-mirror mantra, Clarity Reset System, etc.): those are
+about moving forward through uncertainty, this is about the harder,
+slower question underneath them. Worth asking John directly what in it
+resonated, rather than assuming, consistent with this file's stated
+purpose of tracking recurring ideas and what they reveal rather than
+just collecting quotations.
