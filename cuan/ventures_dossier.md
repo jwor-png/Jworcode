@@ -1516,6 +1516,92 @@ dimensions, not yet structured or prioritised:
   the diagnostic checklist underneath it, rather than being presented
   as a flat list.
 
+**Overnight work, 9-10 Oct 2026 — additional items researched and
+verified, honest gaps flagged, done while John was asleep per his
+explicit instruction not to hallucinate.** Three targeted searches run
+against the most load-bearing unverified claims from the twelve
+headings and tonight's additions, rather than letting them stand as
+assertions.
+
+**New, verified items (13-15):**
+
+13. **Employee transfer on sale — verified, directly citable.** Irish
+    equivalent of TUPE is **S.I. No. 131/2003** (European Communities
+    (Protection of Employees on Transfer of Undertakings) Regulations
+    2003), confirmed via [Irish Statute Book](https://www.irishstatutebook.ie/eli/2003/si/131)
+    and [Workplace Relations Commission guidance](https://www.workplacerelations.ie/en/publications_forms/guide_to_ec_protection_of_employees_on_transfer_of_undertakings_regulations.pdf).
+    On a relevant transfer, staff transfer automatically to the buyer
+    with accrued service intact, collective agreement terms continue
+    to bind the new employer, dismissal solely because of the transfer
+    is prohibited, and both employers must consult affected staff **no
+    later than 30 days before the transfer.** Directly relevant to a
+    multi-format site (Wallace's-type) with different staff groups
+    across grocery/hardware/forecourt/agri.
+
+14. **Musgrave itself as a realistic buyer, not just a gatekeeper —
+    verified, genuinely useful.** Musgrave has bought out its own
+    franchisees before via share purchase agreement: six Whelan
+    Centra companies (2017) and Donnybrook Fair (2018), both reviewed
+    and cleared by the CCPC (Ireland's competition authority) — see
+    [CCPC M.17.058](https://www.ccpc.ie/business/wp-content/uploads/sites/3/2017/11/M-17-058-Musgrave-Whelen-Centra-Determination.pdf)
+    and [M.18.079](https://www.ccpc.ie/business/wp-content/uploads/sites/3/2018/09/M-18-079-Commission-clears-acquisition-by-Musgrave-of-Donnybrook-Fair.pdf).
+    A 2024 CCPC determination also confirms Musgrave directly owns a
+    portion of the Centra estate alongside franchised stores. **The
+    practical point for Ger's clients: Musgrave itself can be the
+    natural, first-call buyer for a franchise business, not only a
+    constraint on who else can buy it** — worth raising explicitly
+    rather than assuming an external third party is the only route.
+
+15. **Forecourt environmental due diligence — partially verified,
+    real gap flagged honestly.** International practice confirms
+    forecourt sales require a dedicated environmental site assessment
+    separate from financial due diligence (subsurface contamination
+    from underground tanks/pipework, tank-system regulatory
+    compliance, upgrade/decommissioning cost exposure) — consistent
+    with Irish consultancy case studies (AWN Consulting, former
+    Dublin petrol stations). **What's NOT confirmed: the specific
+    Irish statutory regime** (EPA/local authority contaminated-land
+    rules, tank registration requirements, how liability allocates
+    between vendor and buyer under Irish law). This needs a dedicated
+    follow-up search or direct legal input before it's presented to
+    Ger as anything more than "get an environmental survey done" —
+    the specifics aren't yet sourced.
+
+**Honest critical assessment, as explicitly instructed — not just
+positive framing:**
+
+- **The BMG/UHL parallel has a real structural limit, worth stating
+  plainly rather than overselling.** In BMG, UHL/Ardentia was the
+  *buyer* bringing a trade-group member into the fold. Ger's clients
+  are *independent sellers* facing an unknown buyer (possibly
+  Musgrave, possibly another franchisee, possibly a private buyer).
+  The lessons on surplus-cash structuring and hive-down timing
+  transfer genuinely, but the buyer-side dynamics don't map directly
+  — this should be presented as "a worked example of the same
+  structuring problem," not "the same transaction."
+- **The Kehoe's/New Ross "ready to sell" story is a label, not a
+  researched fact.** This file only ever held one line about it (asset
+  hive-down into a NewCo, bought by Ardentia) — Cuan does not actually
+  know what made it "ready" in detail. Using it as a worked example
+  without that detail risks either inventing specifics or leaving the
+  comparison thin. **Needs John to supply the actual detail, or the
+  brief should use the BMG/Kehoe's contrast only as a framing device
+  ("prepared vs unprepared"), not claim specific facts about Kehoe's
+  that aren't verified.**
+- **Three figures must not go to Ger unverified:** Wallace's actual
+  freehold/leasehold status (not established either way), Tesco's
+  current Irish grocery market share (no clean current figure found),
+  and the specific terms of Musgrave's own franchise
+  transfer/change-of-control clauses (the symbol-group *structure* is
+  confirmed, the actual *transfer terms* are not — Cuan found no
+  published franchise agreement or disclosure document).
+- **Density risk, flagged once already, still live.** Fifteen
+  headings plus a governance framework is a lot for what began as a
+  loose Friday-afternoon question. This isn't a reason to cut scope —
+  John has decided to go with the fuller brief — but it is a reason
+  the final *delivery* (structure, length, how much is headline vs
+  appendix) needs real thought, not just volume.
+
 **Status, end of 9 Oct 2026:** John has gone to bed, explicitly
 instructed Cuan to "manage this" overnight — consolidate and organise,
 not necessarily finish — before anything goes to Jürgen or the
