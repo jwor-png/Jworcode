@@ -9,7 +9,7 @@ status: reference
 
 # "6 Types of Startup Equity" — The CEO Roadmap (Instagram)
 
-A 7-slide carousel, hook: "Most founders give away equity without knowing what type they're actually giving." **Only slides 1-3 captured** (intro + Equity Type 01 and 02 of what the post frames as 6 types) — the remaining types (likely including convertible notes, SAFEs, options/RSUs, warrants — convertible notes already appears as a label in slide 2's capital-structure diagram, not yet explained on its own slide) were not captured.
+A 7-slide carousel, hook: "Most founders give away equity without knowing what type they're actually giving." **Slides 1-6 of 7 now captured** — all six named equity types covered (common stock, preferred stock, stock options, RSUs, SAFEs, phantom equity); only slide 7 (likely a closing summary, not a seventh type) is missing.
 
 ## Equity Type 01 — Common Stock
 - The most basic form of equity. Founders and early employees typically hold this.
@@ -24,6 +24,24 @@ A 7-slide carousel, hook: "Most founders give away equity without knowing what t
 ## Capital structure order (simplified, from slide 2)
 Paid first → paid last: **Preferred Stock → Convertible Notes → Debt → Common Stock.**
 
+## Equity Type 03 — Stock Options
+- The right to buy shares at a fixed price (the **strike price**) in the future. Employees typically get these as part of compensation.
+- Mechanics: get options → exercise (pay the strike price to buy shares) → own shares → realise profit (sell or hold at market price).
+- If the company grows, profit = market price minus strike price. Worked example: $10 strike, $50 market price = **$40/share profit**. If the company doesn't grow (e.g. $8 market price vs $10 strike), **options are worthless** — $0.
+- Takeaway: upside if the company succeeds, no value if it doesn't.
+
+## Equity Types 04 & 05 — RSUs and SAFEs
+**RSUs (Restricted Stock Units):** a promise of shares delivered over time on a vesting schedule, more common in later-stage companies. Unlike options, **RSUs have value as long as the stock has value — no strike price required.** Taxed as income when they vest, not when granted.
+
+**SAFEs (Simple Agreement for Future Equity):** not actual equity yet — a promise to convert into equity at a future funding round. Created by Y Combinator to simplify early-stage investing. Raises money **without setting a valuation**, converts at a discount when the next round hits. Founders like them for the no-valuation-needed raise; investors like them for the discount on conversion. Mechanic: raise money (with a SAFE) → next round (triggers conversion) → equity (at a discount).
+
+## Equity Type 06 — Phantom Equity
+- Employees get the **financial benefit** of equity without actually owning shares — a cash bonus tied to the company's value at exit, but **no voting rights, no cap table entry, no actual ownership.**
+- Used specifically to reward key people without diluting real shareholders.
+- Mechanic: employee gets the financial benefit → company value increases over time → cash bonus paid at exit, based on value.
+
+**Still not captured: Type 07** (slide 7 of 7, likely the post's closing summary/comparison rather than a seventh distinct equity type, given the post's own hook promised "6 types").
+
 ## Cross-reference
 
 Directly relevant to **two live share-structure threads already tracked in Cuan:**
@@ -33,4 +51,4 @@ Directly relevant to **two live share-structure threads already tracked in Cuan:
 
 **Not independently verified** — a generic, non-jurisdiction-specific explainer (reads as US-market framing; Irish share-class mechanics may differ in detail, e.g. around Companies Act requirements), useful as a plain-language mental model rather than a legal reference. Worth getting the actual mechanics confirmed by a solicitor for any of the above rather than relying on this post directly.
 
-**Only 3 of 7 slides logged** — if John wants the remaining equity types (presumably convertible notes/SAFEs/options in more detail), worth re-capturing the rest of the carousel.
+**Directly useful for the live conversations:** RSUs and phantom equity in particular are worth holding alongside Barber Republic's John Jones/Anthony Laban equity talks — both are mechanisms to give someone real financial upside tied to company value without handing over voting control or a cap table entry, which may suit John's own stated preference to measure any equity offer against Shane's commercial/funding modelling before committing to a straight common/preferred split. SAFEs are relevant background for ODIN given its pre-revenue/valuation-sensitive raise.
