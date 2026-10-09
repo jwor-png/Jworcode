@@ -2980,8 +2980,40 @@ rules, not facts about AHL Plc.
 ## Julianstown Old Mill
 - **Status:** Active — planning granted 4 Aug, third-party appeal by
   Fred Logue lodged 31 Aug (An Bord Pleanála ref PL-501978-MH-26,
-  response due 23 Sept), **sale to John Lynch now explicitly pending the
-  appeal outcome**, Glynn's Solicitors gone quiet on closing prep.
+  response due 23 Sept), Glynn's Solicitors gone quiet on closing prep.
+
+- **Correction, 9 Oct 2026 — the commercial status was wrong, now
+  fixed.** There is **no sale to John Lynch.** John's actual interest
+  is personal: a **one-third interest in the property via Kasana
+  Developments Limited** (likely the same entity logged elsewhere as
+  "Casana/Malachy" on the design team — spelling corrected to
+  **Kasana**, worth a one-time check it's genuinely the same company).
+  John declined to detail the Kasana arrangement itself further for
+  now. **What actually happens once planning permission is confirmed
+  (post-appeal):** either (a) **Kasana Developments, in collaboration
+  with funders led by Barry McGrath (solicitor), develops the site
+  itself**, or (b) **the site is sold with the benefit of planning
+  permission**, with proceeds split according to each party's
+  percentage share. Neither path is a "sale to John Lynch" — Lynch is
+  a co-owner/party in the arrangement, not a purchaser of John's
+  interest.
+- **Appeal confirmed single-party, 9 Oct 2026:** the only third-party
+  appeal is Fred Logue's — no others, now confirmed directly rather
+  than left open.
+- **An Coimisiún Pleanála timeline:** nominally around **18 weeks**,
+  but John's own expectation is it will likely run longer in practice.
+- **Two outstanding workstreams, flagged 9 Oct 2026, not yet
+  actioned:**
+  1. **Resurrect the engagement with Michael Glynn**, solicitor for
+     John Lynch and Michael Durkan, to tidy up title and get the file
+     ready so the sale/transaction can close as soon as planning
+     permission is confirmed — John's own assessment: "a lot of work
+     involved," currently stalled (consistent with Glynn's Solicitors
+     having gone quiet on closing prep, above).
+  2. **€30,000 owed to John Lynch and Michael Durkan by Meath County
+     Council**, relating to previous road widening — needs chasing,
+     separate from the planning appeal and from John's own Julianstown
+     fees (the €9,500 balance tracked elsewhere).
 - **Response to the appeal, update 22 Sept 2026 (WhatsApp, "Julianstown
   - Old Mill etc" group):** John's own message to Michael Durkan and
   the group — the submission to An Coimisiún Pleanála (ACP, the
