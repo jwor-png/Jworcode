@@ -2039,6 +2039,29 @@ consolidation pass rather than merged speculatively.
   surfaced, forwarded, or summarised to any third party unless and
   until John explicitly says otherwise.
 
+- **Open item for Jürgen, logged 10 Oct 2026 — EIIS (Employment and
+  Investment Incentive Scheme) eligibility, not yet reviewed (Jürgen
+  can't be reached from this Cuan session — John to take it there
+  himself).** John's own instinct: Tairseach's technology should
+  qualify for EIIS, giving investors a tax-relief incentive. **Real
+  risk flagged before this goes near an investor conversation:** EIIS
+  explicitly excludes "dealing in or developing land" as a qualifying
+  trade. Tairseach is branded a "property intelligence company,"
+  which needs careful distinguishing — per its own one-pager it sells
+  AI/software intelligence tools to people who own or trade property,
+  it does not appear to buy, sell, hold or develop land itself, which
+  is the likely basis it would qualify as a qualifying trade (same
+  category as proptech SaaS generally). **Not confirmed — needs
+  Jürgen/a tax adviser to rule on this specifically, not assumed.**
+  Secondary open point: current relief rates/caps found (tiered 20-50%
+  investor relief depending on company stage/round; company caps
+  ~€5.5m/yr-€16.5m lifetime; investor cap ~€500k/yr; 4-year minimum
+  holding period; scheme running to 31 Dec 2026 per last confirmed
+  extension) are sourced from 2024-era commentary, not verified
+  current for 2026 — needs confirming against Revenue's own EIIS
+  guidance before any figure is used with an investor. **Status: not
+  actioned, logged for John to bring to Jürgen directly.**
+
 ---
 
 ## Velocity AI
