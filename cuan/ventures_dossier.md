@@ -1962,14 +1962,78 @@ consolidation pass rather than merged speculatively.
   pass along introductions. This goes beyond the "introducer only"
   framing above — worth treating as the current position rather than
   the earlier one, though not yet cross-confirmed directly with Shane
-  in writing anywhere in Cuan's records. **No actual Tairseach
-  investment document is held anywhere in Cuan's files** — only the
-  one-pager reference above (sent 27 July, not saved as a file here).
-  If John is now actively fundraising for Tairseach with Shane's
-  consent, worth getting the actual investment document/deck saved
-  into Cuan properly rather than relying on the old one-pager
-  reference, and worth confirming whether the preferred structure
-  above (€1.5m raise, 20% equity, €6m pre-money) is still current.
+  in writing anywhere in Cuan's records.
+
+- **The actual One-Pager PDF now obtained and saved, 10 Oct 2026** —
+  `cuan/assets/Tairseach_One_Pager.pdf`. **Terms confirmed unchanged**
+  from the preferred structure already logged: €1.5m raise for 20%
+  equity, €6m pre-money, €7.5m post-money (the briefing itself frames
+  the ask more loosely as "€1 million to €1.5 million"). Full content
+  of the document, for reference:
+
+  **Headline:** "Already built, and already selling." Over €50,000 in
+  sales through a partner, a repeat customer who expanded, three
+  property partners live on its output today, ten verticals on one
+  shared intelligence — five live, five in build.
+
+  **The ask:** one conversation. Tairseach is talking to investors who
+  want an early position in property intelligence while the category's
+  foundational layer is still being built.
+
+  **"Why now" framing:** property is the world's largest asset class;
+  every large market eventually gets one intelligence layer everyone
+  depends on (search for the web, Bloomberg for finance) — that
+  position in property is "open, and taken once." Starting in Ireland
+  and the UK, with conversations already open in **America, Australia,
+  the Middle East and Germany.**
+
+  **What it is:** ten components, each its own intelligence, serving
+  people who own or trade property at scale — from site/derelict-
+  building sourcing to finding money leaking from a portfolio and
+  unlocking latent value an owner already holds. All ten run on **one
+  shared intelligence ("the spine")** — every job any component does
+  feeds back into the same core, making every other component sharper.
+
+  **Five live and earning:**
+  1. **Inspection and repairs** (EARNING) — a paying Irish customer
+     came back to expand; the one part that generates its own data.
+  2. **Sales and conversion** (IN SALES) — proven on real buyers,
+     €50,000+ in sales through a partner.
+  3. **Site sourcing** (LIVE) — three property partners work from its
+     output today.
+  4. **Energy and data-centre land** (SHIPPED) — ranked Ireland's best
+     data-centre site from public data.
+  5. **Derelict property** (LIVE PILOT) — a live pilot in Ireland,
+     first building already named.
+
+  **Five in build:**
+  6. **Commercial and institutional** — an eight-agent system for
+     institutional owners.
+  7. **Residential and portfolio** — portfolio, lease and planning
+     intelligence on the same core.
+  8. **Recovery** — finds money leaking from assets an owner holds,
+     "checkable in week one."
+  9. **Tenant and covenant risk** — which tenants fail, what it costs,
+     who replaces them.
+  10. **Latent value** — ranks every unexploited unlock with a euro
+      figure and the route to it.
+
+  **Use of funds:** builds the spine first, then the next three
+  verticals off it, then carries the company into its first markets.
+
+  **Presented by:** Shane McCarthy, "architect and owner of the
+  technology." Governance/safety/security "designed into every part
+  from version one," ownership "fully documented," full thesis
+  available on request. **"Introductions come through the bearer of
+  this brief"** — confirms John's role as the introduction channel,
+  consistent with (and now, per John's 10 Oct statement, extending
+  beyond) the "introducer" framing already logged.
+
+  **Closing line:** "An investor is not buying ten tools. They are
+  buying the thing that made the ten, and the thing that will make the
+  next ten." Tagline: "AI driven, human led." Marked **Private &
+  Confidential, © 2026 Shane McCarthy** — worth keeping that
+  confidentiality marking in mind for who this gets shared with.
 
 ---
 
