@@ -1957,6 +1957,20 @@ consolidation pass rather than merged speculatively.
   scope is the ODIN investment document, NOT Tairseach (to be confirmed
   with Shane before broadening scope).
 
+- **Role update, 10 Oct 2026 (new chat thread) — John states he has
+  Shane's full consent to secure investment for Tairseach**, not just
+  pass along introductions. This goes beyond the "introducer only"
+  framing above — worth treating as the current position rather than
+  the earlier one, though not yet cross-confirmed directly with Shane
+  in writing anywhere in Cuan's records. **No actual Tairseach
+  investment document is held anywhere in Cuan's files** — only the
+  one-pager reference above (sent 27 July, not saved as a file here).
+  If John is now actively fundraising for Tairseach with Shane's
+  consent, worth getting the actual investment document/deck saved
+  into Cuan properly rather than relying on the old one-pager
+  reference, and worth confirming whether the preferred structure
+  above (€1.5m raise, 20% equity, €6m pre-money) is still current.
+
 ---
 
 ## Velocity AI
