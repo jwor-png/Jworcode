@@ -2032,8 +2032,12 @@ consolidation pass rather than merged speculatively.
   **Closing line:** "An investor is not buying ten tools. They are
   buying the thing that made the ten, and the thing that will make the
   next ten." Tagline: "AI driven, human led." Marked **Private &
-  Confidential, © 2026 Shane McCarthy** — worth keeping that
-  confidentiality marking in mind for who this gets shared with.
+  Confidential, © 2026 Shane McCarthy.**
+
+  **John's instruction, 10 Oct 2026: not sharing this document beyond
+  himself.** Held in Cuan for his own reference only — not to be
+  surfaced, forwarded, or summarised to any third party unless and
+  until John explicitly says otherwise.
 
 ---
 
