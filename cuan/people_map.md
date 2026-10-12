@@ -408,6 +408,17 @@
 - **Relationship:** Family member (Director 2 in MiDentalCare CVL) — John's daughter
 - **Property:** John coordinates the Bantry property project (11 Cois Riasc) on her behalf
 - **Cuan notes:** [ASK — further context on family structure relevant to scheduling and priorities]
+- **New venture, captured 12 Oct 2026 — "WhatWeWear" (Instagram
+  @whatwewear.ire).** Niamh's own new project, "Created by
+  @niamhwebborourke" per the account bio. **Status: pre-launch** — 0
+  posts, 14 followers, bio reads "**COMING VERY SOON** — We are going
+  old school babyyyy." No other detail available yet (product/concept
+  not stated). Logged for awareness — personal, not a Cuan action
+  item, but worth knowing about given the family-business pattern
+  elsewhere in John's world. Also consistent with the 11 Oct "Form
+  Attached" email from Niamh to John (MyRouteBB86B7D3 PDF, forwarded
+  to Shane) already logged in `ventures_dossier.md` — possibly
+  related, not confirmed.
 - **8 Sept 2026 — Bank of Ireland Finance guarantor pursuit:** BOI
   Finance (Robert O'Reilly, Customer Services) wrote to Niamh at
   Portauns, Kilmallock, as guarantor on the MiDentalCare Ltd lease for

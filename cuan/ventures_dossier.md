@@ -4172,6 +4172,14 @@ trip.
   Armada House Thursday-Friday (15-16 Oct — matches the already-logged
   Armada Hotel anniversary booking), home Saturday 17 Oct.
 
+**Connecting travel confirmed — FlightLink bus ticket seen 12 Oct
+2026.** Limerick City (Arthurs Quay) → Dublin Airport (T2 & T1),
+Monday 12 Oct, depart 08:30, arrive 11:00, €28.00, booking ID 3168212
+— the ground-transport leg connecting John's start point to the
+already-logged FR554 Dublin→Manchester flight (12:30-13:30), giving a
+consistent, fully confirmed door-to-door itinerary for the outbound
+leg of the trip.
+
 ---
 
 ## Kilmallock Economic Enterprise Development Ltd (KEDL) / JJ Craft Brewing — new, 9 Sept 2026
