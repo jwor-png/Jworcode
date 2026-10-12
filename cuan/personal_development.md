@@ -1081,3 +1081,37 @@ slower question underneath them. Worth asking John directly what in it
 resonated, rather than assuming, consistent with this file's stated
 purpose of tracking recurring ideas and what they reveal rather than
 just collecting quotations.
+
+## "Plot Twist" — book excerpt, aphorism collection (captured 12 Oct 2026)
+
+Source: a physical book page, title "Plot Twist" per the running
+header — author/publisher not visible in the captured frame, **not
+yet identified**. A list of short, disconnected aphorisms on writing,
+ambition, self-acceptance and time — one line **circled by hand** in
+the original (presumably by whoever John photographed it from, or by
+John himself):
+
+> "Never say, 'I just don't have the time.' Instead say, 'This isn't a
+> priority.' The latter is more accurate. We all have twenty-four
+> hours a day. You choose how to spend it."
+
+Other lines on the same page, logged for completeness:
+- "Ambition without action turns into anxiety."
+- "Embrace rejection because one Yes makes all the Nos disappear."
+- "You can do things just because you enjoy them. They don't have to
+  improve you."
+- "Most of the great things that happen in your life are unplanned.
+  They occur when you broke your routine."
+
+**Cross-reference:** the circled line sits directly in the same
+register as the recurring "action over deliberation" theme already
+heavily tracked in this file, but sharper — it reframes "no time" as
+a disguised priority decision rather than a resource constraint. Given
+John's own stated priority-setting work (the Personal Compass, the
+Clarity Reset System entry above, the master_plan.md prioritisation
+work generally), this is a directly usable, quotable reframe for how
+he talks about what does and doesn't get done — worth surfacing back
+to him given it was circled, suggesting it already landed.
+
+**UNVERIFIED** — source book not identified from the captured page
+alone; logged as a photographed excerpt, not independently sourced.
