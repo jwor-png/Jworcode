@@ -2530,6 +2530,38 @@ authorises each send, no exceptions unless he says otherwise.**
 Sensitive-item entry added to `governance.md` for Alan's illness
 specifically.
 
+**Full history traced back to January 2026, 12 Oct 2026 session.**
+John recalled the forms being signed "months ago" — checked properly
+rather than assumed:
+- **The actual pack was sent by BDO (Nell Burke) on 7 Jan 2026**,
+  attachment "Associated Hardware B10 Pack.pdf" — Board minute, B10
+  form, etc. Same-day exchange: Nicola to print/sign and DHL to Dave
+  (David Geoghegan) in Dublin for John Smyth to sign there; John said
+  he'd email John Smyth his form directly. **Thread goes cold after
+  Nicola's 7 Jan 20:18 message — no confirmation anywhere that this
+  was ever completed and returned to BDO.**
+- **This is consistent with, not contradicted by, BDO's later
+  position** (31 Aug: "paperwork was issued... cannot see that this
+  has been returned"; repeated chases 15 Sept, 25 Sept, 7 Oct) — all
+  consistent with the January attempt having stalled at the
+  print/courier/sign stage and never reaching BDO.
+- **The January pack is now 9+ months old and should NOT be reused**
+  — BDO has referenced reissuing/resending paperwork since, so the
+  current live pack is whatever comes back from this morning's (12
+  Oct) request to Joanne, not the January version.
+- **CRO check attempted, inconclusive.** Company confirmed on the CRO
+  under number **38084** via web search, but only third-party
+  aggregators surfaced (Business Barometer, Bloomberg LEI), not the
+  CRO's own live officer listing — Cuan has no direct way to query
+  core.ie. **John needs to check core.ie himself** to see definitively
+  whether he or Nicola is currently the registered Secretary — this is
+  the fastest way to settle the question outright, independent of
+  anyone's email trail.
+- **Status: holding, per John's own instruction, until he's checked
+  the CRO directly.** No further emails to John Smyth or Nicola until
+  (a) the CRO position is confirmed and (b) a current, non-stale pack
+  is in hand from BDO.
+
 ### Fire safety certificate — premises, 9 Sept 2026
 John had asked ORS a couple of weeks ago to revisit the Magna Business
 Park premises to inspect the completed fire alarm works, intending
