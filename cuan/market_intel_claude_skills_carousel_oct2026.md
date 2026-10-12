@@ -9,13 +9,22 @@ status: reference
 
 # "Claude Skills can seriously automate your workflow" — Instagram, 12 Oct 2026
 
-A 10-slide carousel (slides 4-10 of 10 now captured, across two
-rounds) promoting a lead-gen "install guide" for a set of 8 custom
-**Claude Skills** — directly relevant since Cuan itself runs on Claude
-and already uses this exact mechanism.
+A 10-slide carousel, **now fully captured across three rounds**,
+titled "8 Claude Skills to Automate Tasks" — directly relevant since
+Cuan itself runs on Claude and already uses this exact mechanism.
 
-## What's captured — all 8 skills now logged
+## What's captured — the complete set of 8 skills
 
+- **Skill 1/8: Automation Master** — "The master skill that ties
+  everything together. Instead of doing the same multi-step task by
+  hand every single time, this breaks it down and runs it
+  automatically — the repetitive stuff you keep putting off." Flow:
+  Task → Automate → Done. Framed as the meta-skill sitting above the
+  other seven.
+- **Skill 2/8: Browser Automation** — "Gives Claude control of a real
+  browser. It can visit websites, click buttons, fill out forms, and
+  pull data off pages — the exact grunt work you'd normally do by
+  hand, one tab at a time." Flow: URL → Click/Fill → Data.
 - **Skill 3/8: File Automation** — "Cleans up messy folders for you.
   Renames files in bulk, sorts them into the right places, converts
   formats, and processes hundreds of files the way you'd process
@@ -44,8 +53,7 @@ and already uses this exact mechanism.
   design brief — specs, sizes, color direction, an asset list — the
   groundwork a designer needs before they even open a design tool."
   Flow: Idea → Spec Out → Design Brief.
-- **Skills 1/8 and 2/8 — not captured**, still missing from the full
-  set.
+All 8 of 8 skills now logged.
 - **Install mechanic shown (both skills):** save as
   `.claude/skills/<skill-name>/SKILL.md`, then "Claude uses it
   automatically — no slash command needed." This matches the real,
