@@ -4161,6 +4161,17 @@ will actually involve on the day (live demo, barber/shop walkthrough,
 technical review) — worth clarifying with Shane/Johnny ahead of the
 trip.
 
+**Live itinerary confirmed, 12 Oct 2026 (John and Shane en route):**
+- **Today (12 Oct):** initial chat with Johnny.
+- **Tomorrow (13 Oct):** full day at Johnny's office with Neil Dignam,
+  for the actual MVP testing.
+- **Wednesday (14 Oct):** an hour or so with Johnny in the morning,
+  then flying back to Dublin (matches flight FR1557, 15:00-16:00,
+  already logged above).
+- **John's wider schedule this week:** away with Majella ("Jell") at
+  Armada House Thursday-Friday (15-16 Oct — matches the already-logged
+  Armada Hotel anniversary booking), home Saturday 17 Oct.
+
 ---
 
 ## Kilmallock Economic Enterprise Development Ltd (KEDL) / JJ Craft Brewing — new, 9 Sept 2026
