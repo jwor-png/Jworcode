@@ -30,9 +30,28 @@ line were visible, not the full article.
 
 ## 2. AI service pricing tiers — Instagram carousel (@sarveshthakur.ai)
 
-Two slides (6/9, 7/9) from a lead-gen carousel on AI consultancy
-service pricing:
+**Now fully captured, all 7 of 7 pricing tiers**, slides 1-9 across two
+rounds:
 
+- **#1, AI Opportunity Audit — $500-$1,500.** "Interview the business,
+  map repetitive work, and identify 3-7 high-impact AI opportunities."
+  Tools: ChatGPT, Claude, Perplexity, Notion. "Best part: the audit
+  naturally leads to implementation work" — explicitly framed as a
+  loss-leader/foot-in-the-door tier.
+- **#2, AI Concierge — $1K-$2K/month.** "Become their on-call AI
+  partner." Flow: Find repetitive tasks → Build AI solutions → Train
+  the team → Optimize continuously. "You're selling ongoing AI
+  leverage, not hours" — a retained-relationship tier, not a project
+  fee.
+- **#3, Process Redesign — $3K-$5K.** "Don't automate a broken
+  process." Flow: Map the workflow → Remove extra steps → Simplify →
+  Then automate. Goal: "Turn a 10-hour process into a 1-hour process."
+- **#4, Automation Builds — $1K-3K.** "Automate workflows with: Clear
+  Input → Clear Action → Clear Output." Tools: Make, Zapier, n8n, APIs.
+- **#5, AI Knowledge Systems — $3K+.** "Turn their documents, SOPs,
+  emails and internal knowledge into an AI-powered system. Instead of
+  searching through hundreds of files: they ask AI." Tools: ChatGPT,
+  Claude, NotebookLM, Notion.
 - **#6, Custom AI Workflows — $3K-$5K.** "For tasks requiring: Context
   + judgment + decisions. Build end-to-end AI workflows with humans
   stepping in when needed." Tools named: ChatGPT, Claude, n8n, Make.
@@ -40,14 +59,36 @@ service pricing:
   Redesign + Automation + AI Systems + Training. Then add a monthly
   optimization retainer. One client can become recurring revenue."
 
+**A clear structural pattern across all seven:** pricing escalates
+from a cheap, low-commitment audit (#1) through project-based builds
+(#3-6) up to a full bundled implementation with a retainer (#7) —
+essentially a sales funnel disguised as a service menu, each tier
+designed to lead into the next.
+
 **Cross-reference:** a useful, if unverified, external pricing
 benchmark for AI consultancy/implementation work — worth comparing
 against Meridian's own product pricing (the Decision Brief, Executive
 Intelligence Review, etc. already priced in `ventures_dossier.md`) and
-Velocity AI's €10k/org executive AI orientation offering. The "one
-client can become recurring revenue" framing (via a monthly
-optimisation retainer) is structurally the same model as Meridian's
-own Intelligence Partner (retained) product tier.
+Velocity AI's €10k/org executive AI orientation offering. Notably:
+- **The overall funnel structure (cheap audit → paid build → retained
+  relationship) maps closely onto Meridian's own existing tier design**
+  — the Decision Brief already plays the role of #1/#7's "entry
+  product and the door into everything else," and Intelligence Partner
+  (retained) is structurally the same as #2/#7's monthly retainer
+  model. Useful external validation that Meridian's pricing
+  architecture follows an established, proven pattern.
+- **#5, AI Knowledge Systems** ("turn documents, SOPs, emails and
+  internal knowledge into an AI-powered system... instead of searching
+  through hundreds of files, they ask AI") is, functionally, **a
+  description of what Cuan itself already is for John** — a live,
+  reusable example of exactly this product category already built and
+  running, worth holding in mind if this ever gets positioned as a
+  sellable offering beyond the Intelligence Concierge product already
+  logged.
+- **The $500-$1,500 AI Opportunity Audit (#1) price point is notably
+  lower than Meridian's own Decision Brief** — worth knowing as a
+  competitive reference point, even though the two products aren't
+  doing quite the same depth of work.
 
 **UNVERIFIED** — generic marketing/lead-gen pricing content, no named
 company or client results behind the figures; useful only as a rough
