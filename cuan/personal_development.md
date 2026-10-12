@@ -1115,3 +1115,34 @@ to him given it was circled, suggesting it already landed.
 
 **UNVERIFIED** — source book not identified from the captured page
 alone; logged as a photographed excerpt, not independently sourced.
+
+## "The Peace of Wild Things" by Wendell Berry (captured 12 Oct 2026)
+
+Source: a physical book page, poem fully legible and attributed —
+**Wendell Berry**, a well-known, real American poet/farmer/essayist
+(his authorship not in doubt, unlike the unattributed items above).
+
+> When despair for the world grows in me
+> and I wake in the night at the least sound
+> in fear of what my life and my children's lives may be,
+> I go and lie down where the wood drake
+> rests in his beauty on the water,
+> and the great heron feeds.
+> I come into the peace of wild things
+> who do not tax their lives with forethought
+> of grief. I come into the presence of still water.
+> And I feel above me the day-blind stars
+> waiting with their light. For a time
+> I rest in the grace of the world, and am free.
+
+**Cross-reference:** a markedly different register from everything
+else logged in this file — not about productivity, priority or action,
+but about the relief of setting those things down entirely. Worth
+noting given how much of this file (and John's own working pattern
+generally) is oriented toward action, decision and forward motion —
+this poem is explicitly about the value of the opposite state, resting
+in something outside deliberate effort. Given this was photographed
+rather than typed/quoted, it's reasonable to read as something that
+resonated in a quieter register than the Clarity Reset System or
+"Plot Twist" entries above.
+
