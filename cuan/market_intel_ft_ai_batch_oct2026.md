@@ -220,10 +220,57 @@ as the primary quantitative reference for Meridian's AI Strategy &
 Governance macro-risk framing, ahead of the more qualitative/
 columnist-driven pieces already logged.
 
+## 4. "SoftBank seeks $100bn from Gulf backers to expand AI bet" (David Keohane and Leo Lewis, Tokyo)
+
+- **Masayoshi Son is seeking up to $100bn from Gulf investors**,
+  including Abu Dhabi's AI-focused vehicles (the MGX AI fund, AI
+  holding company G42) and Saudi Arabia's Public Investment Fund
+  (which previously backed SoftBank's first $100bn Vision Fund in
+  2017) — the money would go toward buying companies and using AI/
+  robotics to improve their operations, via SoftBank's robotics and
+  "physical AI" business, Roze.
+- **Son's existing AI bets:** a **$65bn investment in ChatGPT-maker
+  OpenAI**; SoftBank's stake in chipmaker Arm has generated **$20.5bn**
+  used partly to fund these bets; SoftBank completed the **largest
+  junk-bond offering on record last month**, paying yields as high as
+  **9.75%** to raise over **$11bn.**
+- **Direct relevance to the Anthropic-scrutiny thread already heavily
+  tracked:** the piece states **"Anthropic, the maker of Claude and
+  OpenAI's arch-rival, is expected to launch a potentially
+  record-breaking IPO in coming weeks even as fears over the safety of
+  the technology have intensified."** This is a new, more specific
+  timing signal ("in coming weeks") than anything previously logged in
+  the existing Anthropic IPO thread (which had the valuation moving
+  between $1tn and $2tn across earlier pieces, with no firm timing).
+- **OpenAI's own valuation concerns flagged directly:** the FT
+  reportedly found OpenAI's annualised revenue was about $20bn lower
+  than the company had signalled, causing SoftBank's share price to
+  fall 5% the day after. SoftBank's ability to raise debt is tied to
+  valuations on its balance sheet, with net asset value at **¥72.3tn**
+  at end of June; loan-to-value ratio at 13%, "well below the 25%
+  ceiling targeted during normal operations."
+- **A named risk-contagion warning:** "A fall in OpenAI's valuation
+  could be problematic as so much of SoftBank's investments are tied
+  to it" — "a contagion effect... could get quite bad, quite quickly,"
+  per one Asia-based analyst quoted.
+- **Son's own framing, worth noting given the skepticism elsewhere in
+  this thread:** has dismissed critics of the technology, saying in
+  July that "those who condemn AI are themselves spitting upwards,"
+  though more recently admitted that if AI were used by "bad actors"
+  it could "become super dangerous."
+
+**Cross-reference:** directly updates the existing Anthropic IPO
+thread with a sharper timing signal ("coming weeks") — worth flagging
+given Cuan itself runs on Claude/Anthropic. Also a further, concrete
+data point in the AI-financing-risk thread (SoftBank's 9.75%
+junk-bond yield, the OpenAI-SoftBank contagion risk) alongside
+everything else logged today.
+
 **VERIFIED/REPORTED** — item 1 is strong, independently-confirmed
 named-source reporting (four separate organisations directly denying
-KPMG's claims) — high confidence. Items 2 and 3 are named-journalist
-analysis citing named, credible sources (M&G, Citigroup, BCA Research,
-Federal Reserve, S&P Capital IQ, Bloomberg, US Bureau of Economic
-Analysis) — figures not independently re-verified by Cuan beyond the
-articles themselves, but sourced to checkable, credible institutions.
+KPMG's claims) — high confidence. Items 2, 2b, 3 and 4 are
+named-journalist reporting/analysis citing named, credible sources
+(M&G, Citigroup, BCA Research, Federal Reserve, Bain, S&P Capital IQ,
+Bloomberg, US Bureau of Economic Analysis) — figures not independently
+re-verified by Cuan beyond the articles themselves, but sourced to
+checkable, credible institutions.
