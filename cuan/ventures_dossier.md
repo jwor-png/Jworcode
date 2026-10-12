@@ -2507,6 +2507,18 @@ Nicola** — still sensitive given her husband's illness, but the Annual
 Return filing timeline is now creating external pressure. No action for
 Cuan beyond tracking.
 
+**Resolved, 12 Oct 2026 — Nicola has agreed to remain on as Company
+Secretary**, despite her husband Alan's ongoing illness. John's
+instruction: review the situation, get the papers signed, and notify
+BDO this morning. **Email sent to Joanne Mallon (jmallon@bdo.ie),
+12 Oct 2026** — confirmed Nicola's agreement, asked BDO to send the
+three documents (Letter of Consent, Section 262(2) Declaration,
+Statutory B10 form) for signature. **Next step: once BDO sends the
+documents, Nicola and John Smyth (as director) need to sign and
+return them** to formally complete the Company Secretary change on
+the CRO record and the Annual Return. Not yet actioned beyond the
+notification email — awaiting BDO's documents.
+
 ### Fire safety certificate — premises, 9 Sept 2026
 John had asked ORS a couple of weeks ago to revisit the Magna Business
 Park premises to inspect the completed fire alarm works, intending
