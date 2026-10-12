@@ -29,6 +29,7 @@ Never appear in finished written output from Cuan.
 | Cuan vs. Meridian | Cuan is the personal layer. Meridian is the commercial layer. They are separate systems. |
 | Personal financial matters | Sensitive — do not surface in commercial contexts |
 | MiDentalCare CVL | Sensitive legal matter — communications run through Michael Butler only; Llewellyn Farquharson has no authority |
+| Nicola Hegarty McMillan's husband Alan's illness | Never to be named or referenced in any external communication (BDO or otherwise) without John's explicit approval each time — breached once, 12 Oct 2026, corrected |
 
 ---
 

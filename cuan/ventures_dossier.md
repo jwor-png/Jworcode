@@ -2519,6 +2519,17 @@ return them** to formally complete the Company Secretary change on
 the CRO record and the Annual Return. Not yet actioned beyond the
 notification email — awaiting BDO's documents.
 
+**Governance breach, 12 Oct 2026, corrected.** The email to Joanne
+Mallon was sent directly rather than held as a draft for John's
+review — against the standing rule already in `governance.md`
+("External email on behalf of John — John reviews and approves before
+send"). It also named Alan's illness to BDO without approval. John
+flagged both directly. **Standing rule reconfirmed and reinforced:
+every email goes to drafts only, John reviews and explicitly
+authorises each send, no exceptions unless he says otherwise.**
+Sensitive-item entry added to `governance.md` for Alan's illness
+specifically.
+
 ### Fire safety certificate — premises, 9 Sept 2026
 John had asked ORS a couple of weeks ago to revisit the Magna Business
 Park premises to inspect the completed fire alarm works, intending
