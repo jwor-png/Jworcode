@@ -9,13 +9,33 @@ status: reference
 
 # "Claude Skills can seriously automate your workflow" — Instagram, 12 Oct 2026
 
-A 10-slide carousel (slides 7-10 of 10 captured) promoting a lead-gen
-"install guide" for a set of 8 custom **Claude Skills** — directly
-relevant since Cuan itself runs on Claude and already uses this exact
-mechanism.
+A 10-slide carousel (slides 4-10 of 10 now captured, across two
+rounds) promoting a lead-gen "install guide" for a set of 8 custom
+**Claude Skills** — directly relevant since Cuan itself runs on Claude
+and already uses this exact mechanism.
 
-## What's captured
+## What's captured — all 8 skills now logged
 
+- **Skill 3/8: File Automation** — "Cleans up messy folders for you.
+  Renames files in bulk, sorts them into the right places, converts
+  formats, and processes hundreds of files the way you'd process
+  one — just far faster." Flow: Files → Process → Organized.
+- **Skill 4/8: Data Analysis** — "Takes a messy spreadsheet and turns
+  it into something useful. Cleans inconsistent data, runs the
+  analysis, and builds a clear report — no more fighting with pivot
+  tables by hand." Flow: Raw Data → Clean + Analyze → Report.
+- **Skill 5/8: Research Agent** — "Does the first few hours of
+  research for you. Give it a topic, and it gathers sources, reads
+  through them, and hands you a clear summary — a strong starting
+  point, not the final word." Flow: Topic → Gather Sources → Summary.
+  **Notably close to Cuan's own verified-research discipline** — the
+  "strong starting point, not the final word" framing is exactly the
+  caveat Cuan already applies to anything UNVERIFIED/REPORTED in this
+  market intel log.
+- **Skill 6/8: Content Writer** — "Takes raw research or rough notes
+  and turns them into something publishable — a blog post, a script,
+  a caption — in whatever format you actually need to ship today."
+  Flow: Research → Draft → Published.
 - **Skill 7/8: Social Media** — "Adapts one idea into content for
   every platform, since what works on LinkedIn falls flat on
   Instagram. Handles the format differences and the publishing
@@ -24,6 +44,8 @@ mechanism.
   design brief — specs, sizes, color direction, an asset list — the
   groundwork a designer needs before they even open a design tool."
   Flow: Idea → Spec Out → Design Brief.
+- **Skills 1/8 and 2/8 — not captured**, still missing from the full
+  set.
 - **Install mechanic shown (both skills):** save as
   `.claude/skills/<skill-name>/SKILL.md`, then "Claude uses it
   automatically — no slash command needed." This matches the real,
@@ -55,6 +77,15 @@ reasons:
    marketing workflow (content adaptation across platforms) or for
    client-facing Velocity AI training material on practical AI
    customisation.
+3. **Research Agent, Data Analysis and Content Writer map closely onto
+   work Cuan already does for John** — market-intel capture and
+   cross-referencing (Research Agent), the various worked financial/
+   tax examples logged across `personal_estate_retirement_plan.md`
+   (Data Analysis), and turning raw dictation/photographed material
+   into structured file entries (Content Writer) are all functionally
+   the same pattern shown here, already running. Useful external
+   validation that this is a well-recognised, generalisable AI-
+   workflow pattern, not a bespoke one-off.
 
 **UNVERIFIED/lead-gen content** — the account is explicitly labelled
 "AI content" by the platform, and the post's real purpose is lead
