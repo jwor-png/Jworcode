@@ -1146,3 +1146,49 @@ rather than typed/quoted, it's reasonable to read as something that
 resonated in a quieter register than the Clarity Reset System or
 "Plot Twist" entries above.
 
+## "The oldest guy at my ADHD support group is 71. He runs his life on 8 rules." (Threads, @adhd.insider.tips, captured 12 Oct 2026)
+
+Source: Threads thread, 5 of 6 parts captured. Framing: a 71-year-old,
+**diagnosed with ADHD at 64, who built three businesses undiagnosed**
+— his 8 rules as relayed by the thread's author.
+
+1. **Guard your first two hours.** "The morning brain is the only
+   employee who shows up sober. Don't waste him on email."
+2. **One thing per day, written the night before.** "Forty items is
+   how you hide from one. Take it from a man who hid for decades."
+3. **Never trust the feeling of time.** "Wear a timer like other men
+   wear a watch. My feelings say five minutes. My feelings have been
+   wrong since 1961."
+4. **Pay for the witness.** "Everything I ever finished had someone
+   waiting for it. Everything I did alone is still in the garage. Go
+   look at anyone's garage."
+5. **The interesting road is the only road.** "I chased what bored the
+   other men — that's why my businesses worked. This brain can't fake
+   interest, so stop applying for it."
+6. **Do the thing while it's small.** "Every envelope I avoided grew
+   teeth by Friday. He fixed the leak the day it started — I learned
+   that at 64. Learn it at your age instead."
+7. **Keep the evidence.** "Write down every win, same day. This brain
+   files the failures automatically and loses the victories. Do the
+   filing yourself."
+8. **(Repeated every meeting, to every newcomer, word for word.)** "You
+   are not twenty years behind. You were running uphill for twenty
+   years. Different sport. Better legs. Now pick a flat road."
+
+**Cross-reference:** sits in the same "action over deliberation"
+register as several entries already tracked in this file (shaving-
+mirror mantra, Clarity Reset System, the circled "Plot Twist" line),
+but with a sharper practical edge — rules 2 and 7 in particular
+("one thing per day" and "keep the evidence, same day") are directly
+compatible with how `master_plan.md` and this market-intel log
+already operate (logging wins/decisions as they happen rather than
+relying on memory). Rule 4 ("pay for the witness" — nothing finished
+alone gets finished) is a genuinely interesting frame for why
+Cuan itself, as an external accountability/logging layer, may matter
+beyond pure task execution.
+
+**UNVERIFIED** — an anonymous social-media account's retelling of an
+unnamed support-group member's story; the person, the diagnosis
+details and the exact quotes are not independently checkable. Useful
+as a resonant framework, not as a sourced case study.
+

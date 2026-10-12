@@ -4180,6 +4180,47 @@ already-logged FR554 Dublin→Manchester flight (12:30-13:30), giving a
 consistent, fully confirmed door-to-door itinerary for the outbound
 leg of the trip.
 
+**Live build tool seen in use, 12 Oct 2026 — "Barber Republic | Field
+Intelligence."** A screenshot from Shane's own laptop (ChatGPT working
+alongside a dedicated web dashboard, model shown as "GPT-6.1 Sol
+Light") shows the actual testing/build tool being used for the
+Manchester trip, **not previously documented anywhere in Cuan**:
+- **Dashboard labelled "Manchester Command,"** under a
+  "Field Intelligence" section, explicitly dated **"TESTING CYCLE 01 /
+  12-14 October 2026"** — matches the already-confirmed Manchester
+  trip dates exactly.
+- **Two testing cycles shown:** "Cycle 01 Manchester" (current,
+  underlined/active) and "Cycle 02 MVP validation" (next stage, not
+  yet started).
+- **Tool tagline: "The Field, Connected — Catch the moment. Make sense
+  of it."** Status line: "Manchester is ready for its first signal."
+  Navigation shows Command / Findings / Timeline / Iterations
+  sections, plus a "Speak — capture a thought" voice-input feature.
+- **A live technical bug visible in the screenshot:** an error reading
+  "Unexpected token '<', '<!DOCTYPE'... is not vali[d]" — suggesting a
+  JSON-parsing error where the tool received an HTML error page instead
+  of expected data, i.e. a real, in-progress technical issue during
+  the testing cycle, not yet resolved as of the screenshot.
+- **The ChatGPT conversation alongside it** discusses a build/testing
+  methodology point: logging findings/evidence/testing observations
+  that "flag missing verification rather than infer success," framed
+  as letting the team "measure whether the live iteration process
+  itself is effective" — which problems get resolved on the spot,
+  which take repeated attempts, what slows things down, and what
+  solutions hold up afterward. Described as "testing intelligence...
+  intelligence about how we build and evolve the product during the
+  pilot," kept as "an architectural observation, with no changes
+  made."
+
+**Cross-reference:** this is the first direct evidence of the actual
+Manchester MVP testing methodology/tooling — confirms the trip is
+being run with real structure (a dedicated command dashboard, defined
+testing cycles, a verification-not-inference discipline for logging
+findings) rather than ad hoc. Worth asking Shane/John directly for
+more detail on "Barber Republic | Field Intelligence" as a tool, since
+nothing about it exists elsewhere in Cuan's records — unclear whether
+this is a one-off build for this trip or a reusable system.
+
 ---
 
 ## Kilmallock Economic Enterprise Development Ltd (KEDL) / JJ Craft Brewing — new, 9 Sept 2026
