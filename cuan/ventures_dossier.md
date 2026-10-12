@@ -4221,6 +4221,63 @@ more detail on "Barber Republic | Field Intelligence" as a tool, since
 nothing about it exists elsewhere in Cuan's records — unclear whether
 this is a one-off build for this trip or a reusable system.
 
+**Further detail confirmed, same session, 12 Oct 2026 — more screens
+from the same laptop:**
+- **Hosted at `barber-field-intelligence.shanemcsocial.chatgpt.site`**
+  — confirms this is Shane's own build, on a ChatGPT-platform domain
+  (worth noting as a data point: this particular tool is built on
+  OpenAI's platform, not Claude/Anthropic, unlike Cuan/Meridian's own
+  stack — a deliberate or incidental choice, not yet clarified).
+- **Full navigation now visible:** Command, Findings, Timeline,
+  Iterations, Cycles, People — a fuller structure than the single
+  "Command" screen first seen.
+- **The live dashboard's actual starting state, before any capture:**
+  a "Signal Composition" widget showing a "Field Record" counter at 0,
+  broken into categories — Failures, Friction, Gaps, Ideas, Positive,
+  Surprises, Key points, Unsorted — all at zero, confirming this was
+  genuinely the first live screen of the pilot, not a populated demo.
+  "What the evidence is saying" panel: "The picture will emerge here...
+  Patterns come from your captures. No sample findings are mixed into
+  this record" — explicitly no fake/seeded data. "Next useful move:
+  Capture the first read observation — a voice note, a photo or a
+  short clip," with three capture tools shown: **Speak** (capture a
+  thought), **Photograph** (show the evidence), **Record** (a moment
+  in motion).
+- **A separate branded deck/workspace, "Testing Workspace," also
+  visible — reveals real Barber Republic brand material not previously
+  logged anywhere in Cuan:**
+  - **A proper logo** — a stylised cross/grid pattern mark in gold,
+    teal, white and red on a navy background.
+  - **The tagline shown — "INTELLIGENCE THAT BUILDS THE INDUSTRY" —
+    matches the master tagline already specified in
+    `barber_republic_brand_spec.md` exactly.** The real news here is
+    the **logo mark**: the brand spec explicitly notes the Collective
+    Matrix vector master files had not yet been supplied as of when
+    that spec was written, with the mark left as a placeholder — this
+    screenshot shows what appears to be a **finished, applied logo**
+    (a cross/grid pattern in gold, teal, white and red on navy), the
+    first real sighting of it actually in use rather than placeholder.
+    Worth confirming directly whether this is the final Collective
+    Matrix mark now delivered, or still a working/interim version.
+  - **Tabs shown:** Overview, Scenario explorer, Field playbook,
+    Acceptance gates, Connected model.
+  - **"Testing strategy — Architecture & acceptance"** section, with
+    "Export catalogue" and "Explore scenarios" actions.
+  - **Section headed "MANCHESTER / FIRST FIELD BASELINE":** "Know what
+    successful looks like. A pilot intelligence architecture that
+    connects what..." (text continues beyond the captured frame) —
+    confirms the Manchester trip has formally defined success criteria
+    being worked through as part of the testing architecture, not
+    left informal.
+
+**Status: genuinely new, substantive information about Barber
+Republic's product architecture and brand, surfaced incidentally via
+screenshots rather than briefed directly — worth a direct conversation
+with Shane/John to get the full picture (the "Connected model,"
+"Acceptance gates" and "Scenario explorer" concepts in particular
+aren't explained anywhere yet), rather than inferring further from
+partial screen captures.**
+
 ---
 
 ## Kilmallock Economic Enterprise Development Ltd (KEDL) / JJ Craft Brewing — new, 9 Sept 2026

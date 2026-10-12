@@ -105,6 +105,65 @@ bond-market/index-concentration angle specifically rather than pure
 capex numbers — worth holding alongside the existing thread as the
 "market structure" variant of the same underlying concern.
 
+## 2b. "Portfolios are now alarmingly focused on one trade — AI" (Katie Martin, The Long View, second column, captured 12 Oct 2026)
+
+A second, separate Katie Martin "Long View" column — sharper and more
+alarmed in tone than the one above, worth logging as its own entry
+given how directly it extends the thread.
+
+- **Core argument, stated plainly in the strapline:** "The AI boom has
+  become a major prop not just for the US stock market but for the
+  dollar too." AI is no longer "a theme," it has become **"the"
+  theme** — "a vast, suffocating blob slathered on top of the global
+  financial system, starving everything else of oxygen, distorting
+  market reactions and leaving every portfolio, everywhere, alarmingly
+  reliant on the fortunes of just one bet."
+- **Breadth of the correlation, concretely stated:** "Stocks, real
+  estate, infrastructure, energy, emerging markets, some vintages of
+  private equity... they're all, to a large extent, the same trade."
+- **A striking divergence stat:** if you strip the AI component out of
+  the S&P 500 (at a record high), **the remaining rump has actually
+  dropped 7% since the end of August.** The gap between the top-heavy
+  index and its equal-weighted cousin has hit its **widest point in
+  nearly 24 years** — three-quarters of S&P stocks fell last month;
+  only tech stocks and data-centre-linked energy stocks are "doing all
+  the work."
+- **The dollar/currency dimension, directly tied to AI:** "the whole
+  world is all-in" on dollar-denominated assets at an extraordinary
+  pace over the past decade, and increasingly **not even hedged for
+  currency risk** — meaning the AI boom has "almost by accident become
+  a major prop not just for the US stock market but for the dollar
+  too."
+- **Named, startling spending projections from Bain:** annual spending
+  on AI infrastructure could reach **$1.5tn by 2031**; even more
+  extraordinary, Bain says **sustaining that level of investment would
+  require an AI market approaching $6tn annually** — "an industry
+  worth one-and-a-half times the UK's entire annual economic output,
+  every year. This is struggling to pass the smell test," per Martin
+  directly.
+- **Fed policymakers split on the inflation question:** Fed chair
+  Kevin Warsh believes AI productivity will pull inflation down
+  fairly quickly; **Mary Daly and Lisa Cook (also Fed) hold the
+  opposing view**, that the AI build-out poses an upward risk to
+  inflation in the months ahead — a genuine, named internal
+  disagreement at the central bank, not just outside commentary.
+- **Closing line, worth quoting directly given how it lands:** "We
+  don't really understand the long-term economic implications, but the
+  underlying commercial assumptions seem rather heroic. And we've all,
+  deliberately or otherwise, hitched our fortunes to the idea that it
+  will work out just fine. We'd better be right."
+
+**Cross-reference:** the single sharpest, most concentrated-risk-
+specific piece in the whole AI-capex/bubble thread now logged across
+this market intel series — the 7%-ex-AI-S&P figure and the 24-year
+index-divergence record are genuinely new, strong data points not
+captured by any of the other pieces (Gillen, BoE FPC, O'Sullivan, the
+other Katie Martin column, or the FT Big Read below). The Bain $6tn
+figure is also a new, independently sourced projection worth holding
+alongside the already-logged Goldman ($420bn→$700bn debt issuance) and
+AlixPartners ($5.1tn cumulative capex) figures as part of the same
+overall picture.
+
 ## 3. "AI is revolutionising the stock market" (Robert Armstrong, FT Big Read, dated 4 June 2026 per clipping)
 
 An older piece (June 2026) but data-dense and directly relevant —
