@@ -87,6 +87,57 @@ accurate.
 - "RTO?" at the bottom — [ASK — possibly "Return to Office," possibly
   an abbreviation specific to one of the ventures]
 
+## Page — "Thursday 8th October '26"
+
+- **9.40am – Call w[ith] Shane**
+- **2 B[o]ys – Christian / Father** [ASK — unclear reference, possibly
+  personal/family]
+- **Adam – [o]ngoing [m]atters** [ASK]
+- [crossed-out word] **Velocity** / "Soft [?]" [ASK]
+- **UK – [Limerick?] – Testing / [Noesis?] fire[d up?]** [ASK — the
+  clearest reading is something about UK testing, possibly an early
+  reference to the Manchester MVP test trip]
+- **One set up –** [ASK]
+- **Noesis – WhatsApp message** (circled, with an "NB" note and arrow
+  — flagged by John himself as worth remembering)
+- **"[?]omparnica" / "Blow 4 MA"** [ASK — not legible with confidence]
+- **Work in [advance]** [ASK]
+
+## Page — continuation, same day
+
+- **Training** (heading)
+- **Orchestration** (heading, underlined) — [ASK, but plausibly
+  "Meridian Orchestration" given the recurring theme]
+- **Skillnets – see email** — matches the already-tracked Velocity AI
+  Skillnets registration priority (`ventures_dossier.md`,
+  `revenue_streams.md`).
+- **"DOTS"** [ASK — possibly a reference to OpenAI's "Dots" product,
+  already logged in `market_intel_ai_agents_landscape_rsi_oct2026.md`,
+  or something unrelated]
+- **Conference 3/10/26** [ASK — a conference dated 3 October, not
+  otherwise identified]
+
+## Page — green-highlighted, checkmarked items (appears to be a reviewed/actioned list)
+
+- **"Force"** (green tick) / **"Min. of Defence"** (green tick,
+  crossed through) [ASK — unclear what this refers to]
+- **ODIN – Saudis, offer in mind** — consistent with the already-
+  tracked $200m/20% Saudi ODIN offer (`ventures_dossier.md`/`board.md`).
+- **Tairseach –** [no further detail legible]
+- **Childen – Vatic[an] – [1]5 researched** [ASK — a number ("15")
+  appears in teal, meaning unclear]
+- **UHL + ORA** [ASK]
+- **Barber Republic – [B]razil** (teal ink) [ASK — **not previously
+  tracked anywhere in Cuan** — if this genuinely says "Brazil," it
+  would be new information worth confirming directly with John rather
+  than assumed, given how much weight a new geography would carry for
+  Barber Republic's expansion plans]
+- **"No compromise – Shane to approve"**
+- **Meridian – Shane[']s AI tools if he was me!** [ASK — exact meaning
+  unclear]
+- **"Started on Partner Design Studio last night!"** — matches the
+  already-tracked "Partner Design Studio" item (`board.md`).
+
 ## Status
 
 **Not a reliable transcription** — logged as a best-effort capture
