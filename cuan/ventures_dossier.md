@@ -2424,6 +2424,41 @@ documents/notes to this **tomorrow (1 Oct 2026)** to build it out
 further ahead of using it as the basis for the proposed 12-month
 Velocity AI/Ambrion AI contract above.
 
+### UHL Audit, Tax & Company Secretarial tender — four proposals received, 5 Oct 2026
+
+**Status: live, overdue John/Michael's review as of 13 Oct 2026.**
+David Geoghegan (CFO) emailed John and Michael O'Driscoll, cc Paul
+Candon and Hang Zhao, 5 Oct 2026, "Audit Services Proposals":
+**four firms submitted proposals for UHL Group's audit, taxation and
+company secretarial services — Mazars, BDO, RSM, and Fitzgerald
+Power** (incumbent is Mazars, per UHL's existing audit thread
+elsewhere in this file). All four full proposal PDFs attached, plus a
+"Audit Proposal Assessment Criteria.docx" with a weighting guide.
+
+**Dave's own framing/assessment criteria:** fees; understanding of
+UH's business; audit approach (does it enable early close-off of
+financial statements and the AGM); range of services (e.g. IT audit);
+international connections (relevant given the NI business). **Dave's
+one-line fee comparison: Mazars, BDO and RSM are broadly similar on
+fee; Fitzgerald Power is significantly cheaper** — exact figures sat
+in an embedded image in the email, not extracted into this log.
+Suggested next step: a Teams meeting of the Audit & Risk Committee
+with each firm to present.
+
+**Thread timeline:** John replied 6 Oct — he and Michael to review
+"in days ahead." Michael O'Driscoll replied he wasn't free to review
+until **Tuesday 13 Oct**. John told Dave he'd review in the meantime
+given travel. **No review has been recorded back to Dave as of this
+logging (13 Oct) — Michael's own stated availability date is today.**
+
+**Cuan limitation, logged for completeness:** this Gmail connection
+can read message text and attachment filenames but has no tool to
+extract actual PDF/docx content — the four proposal documents and the
+assessment-criteria docx have not been read, only identified. John is
+taking the proposals to Jürgen/Meridian and ChatGPT separately to
+interrogate the actual figures/terms, then bringing their findings
+back here for a final review ahead of briefing Michael O'Driscoll.
+
 ### Risk register / cybersecurity, GDPR and AI review — reopened 7 Sept 2026
 - **Trigger:** John shared five Business Post articles (6 Sept 2026) on
   AI-driven cyber threats and everyday AI use, and asked to revisit UHL's
