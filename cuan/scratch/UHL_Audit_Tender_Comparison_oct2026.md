@@ -137,13 +137,14 @@ Given they are the clear price outlier:
 
 ## Omitted/unasked — surfaced 13 Oct 2026, against a stated May 2027 AGM requirement
 
-**Discrepancy to resolve first:** every prior UHL record in this
-dossier has the AGM/Board cycle at **30 September** (2026 AGM held 30
-Sept, confirmed went well). A **May 2027 AGM** is a change from that
-pattern — confirm directly with Dave Geoghegan whether the cycle is
-actually moving, since none of the four firms were asked to commit
-against a May date, and "on time" means something different depending
-on which is correct.
+**Confirmed, not a discrepancy:** John, as Chair of the Audit & Risk
+Committee, confirms this is a genuine cycle change directed by the
+UHL Chairman (Eoin McGettigan) — the AGM moves from the prior
+September pattern (2026 AGM held 30 Sept) to **May 2027**. This is
+now the hard deadline every firm's completion timeline must be tested
+against. **None of the four firms was tendered against this date** —
+it needs putting to all four directly as a named requirement, not
+inferred from generic "agreed timetable" language.
 
 **Criteria in the Committee's own assessment document that NONE of
 the four proposals actually answered:**
@@ -174,6 +175,15 @@ the four proposals actually answered:**
    unaddressed by all three challengers** — a change of auditor in
    the same cycle as a hard AGM deadline is precisely when transition
    risk is most likely to cause delay.
+
+**Action, not just observation:** this should be the lead question put
+to all four firms at the Teams presentations — "Can you commit, in
+writing, to audit sign-off in time for a May 2027 AGM, and what would
+you need from management by what date to guarantee it?" Of the four,
+only Fitzgerald Power has volunteered a calendar specific enough to
+test against this (first week Feb–15 April); the other three need to
+be pushed to the same level of specificity before the fee comparison
+can be treated as comparing equivalent commitments.
 
 ## Bottom line for the Audit & Risk Committee discussion
 

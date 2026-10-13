@@ -2482,11 +2482,15 @@ assumed covered by any. Full detail, like-for-like traps, and
 questions for Fitzgerald Power specifically in the comparison file.
 
 **Further gaps surfaced 13 Oct 2026, against John's stated "May 2027
-AGM is essential":** (1) **discrepancy to resolve first** — every
-prior UHL record in this dossier has the AGM/Board cycle at 30
-September (2026 AGM held 30 Sept), not May; confirm with Dave whether
-the cycle is actually changing, since none of the four firms were
-asked to commit against a May date. (2) **None of the four proposals
+AGM is essential":** (1) **Confirmed, not a discrepancy** — John,
+as Chair of the Audit & Risk Committee, confirms this is a genuine
+cycle change **directed by the UHL Chairman (Eoin McGettigan)**: the
+AGM moves from the September pattern (2026 AGM held 30 Sept) to
+**May 2027**. This is now the hard deadline against which the audit
+completion timeline must be tested. **None of the four firms were
+tendered against this date** — it needs putting to all four directly,
+not inferred from their generic "agreed timetable" language. (2) None
+of the four proposals
 answer several criteria from the Committee's own assessment
 document** — professional indemnity insurance level, business
 continuity/disaster recovery arrangements, and named client
