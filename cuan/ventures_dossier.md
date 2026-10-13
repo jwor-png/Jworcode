@@ -2481,6 +2481,25 @@ an assessment criterion — a real gap worth raising with all four, not
 assumed covered by any. Full detail, like-for-like traps, and
 questions for Fitzgerald Power specifically in the comparison file.
 
+**Further gaps surfaced 13 Oct 2026, against John's stated "May 2027
+AGM is essential":** (1) **discrepancy to resolve first** — every
+prior UHL record in this dossier has the AGM/Board cycle at 30
+September (2026 AGM held 30 Sept), not May; confirm with Dave whether
+the cycle is actually changing, since none of the four firms were
+asked to commit against a May date. (2) **None of the four proposals
+answer several criteria from the Committee's own assessment
+document** — professional indemnity insurance level, business
+continuity/disaster recovery arrangements, and named client
+references are all absent from all four. (3) **Mazars and Fitzgerald
+Power are silent on conflicts of interest/independence entirely**
+(only RSM and BDO address it) — notable for Fitzgerald Power given
+they're the live front-runner on price. (4) **Only Fitzgerald Power
+gives an actual calendar commitment** (first week Feb–15 April,
+weekly updates); the other three speak only of "agreed timetables" in
+the abstract. (5) No firm specifies a consequence if the timeline
+slips, and the three challengers are silent on handover/transition
+risk from the incumbent. Full detail in the comparison file.
+
 **Structural correction, 13 Oct 2026 (John):** this is not a UHL-only
 tender — **UHL controls the whole group and owns Ardentia and Expert
 (Hardware)**, both already tracked elsewhere in this file (Ardentia as

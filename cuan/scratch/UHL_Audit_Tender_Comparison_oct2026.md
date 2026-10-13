@@ -135,6 +135,46 @@ Given they are the clear price outlier:
    balance work for Kehoe's/Expert Hardware would be billed
    separately (as flagged by BDO for those two entities).
 
+## Omitted/unasked — surfaced 13 Oct 2026, against a stated May 2027 AGM requirement
+
+**Discrepancy to resolve first:** every prior UHL record in this
+dossier has the AGM/Board cycle at **30 September** (2026 AGM held 30
+Sept, confirmed went well). A **May 2027 AGM** is a change from that
+pattern — confirm directly with Dave Geoghegan whether the cycle is
+actually moving, since none of the four firms were asked to commit
+against a May date, and "on time" means something different depending
+on which is correct.
+
+**Criteria in the Committee's own assessment document that NONE of
+the four proposals actually answered:**
+1. **Professional indemnity insurance level/cover** — zero mentions
+   in any of the four, despite being named explicitly under "Risk
+   management and service continuity."
+2. **Business continuity / disaster recovery arrangements** — same
+   criterion, same silence across all four.
+3. **References from comparable clients** — "References and track
+   record" carries real weight in the evaluation table; none of the
+   four named a contactable referee or comparable-client case study.
+4. **Conflicts of interest / independence — Mazars and Fitzgerald
+   Power are silent on this entirely.** Only RSM and BDO address it
+   (BDO has a dedicated section). Notable gap for Fitzgerald Power
+   specifically, given they're the firm actually under live
+   consideration on price.
+
+**Gaps specific to the May 2027 AGM requirement, if confirmed real:**
+5. **Only Fitzgerald Power gives an actual calendar commitment**
+   (first week Feb through 15 April, weekly status updates). The
+   other three (Mazars, BDO, RSM) speak only of "agreed timetables" in
+   the abstract, with no dates pinned down — none has actually
+   committed to a date that would guarantee a May sign-off.
+6. **No firm specifies a penalty or service credit if the timeline
+   slips** — the one failure mode that would actually breach a hard
+   AGM deadline, and nobody was asked to address it.
+7. **Transition/handover risk from the incumbent (Mazars) is
+   unaddressed by all three challengers** — a change of auditor in
+   the same cycle as a hard AGM deadline is precisely when transition
+   risk is most likely to cause delay.
+
 ## Bottom line for the Audit & Risk Committee discussion
 
 Not a simple lowest-price decision — per the Committee's own
