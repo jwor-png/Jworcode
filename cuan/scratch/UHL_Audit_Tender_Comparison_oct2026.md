@@ -180,6 +180,13 @@ test against this (first week Feb–15 April); the other three need to
 be pushed to the same level of specificity before the fee comparison
 can be treated as comparing equivalent commitments.
 
+**The real deadline is tighter than "May":** UHL's AGM notice
+requirement is a minimum of 21 days between signed-off accounts and
+the AGM itself (confirmed by John). So the actual audit-completion
+deadline sits roughly three weeks before whatever date in May the AGM
+is held — effectively late April/early May, not "sometime in May."
+Hold each firm to that specific figure, not the looser monthly target.
+
 ## Bottom line for the Audit & Risk Committee discussion
 
 Not a simple lowest-price decision — per the Committee's own

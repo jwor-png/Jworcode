@@ -41,6 +41,14 @@ Worth putting to the Committee directly: which route are we actually
 planning for, since it changes what we're asking the four firms to
 commit to.
 
+**The real deadline is earlier than "May."** UHL's AGM notice period
+requires accounts signed off a minimum of 21 days before the AGM is
+held. If the AGM itself is in May 2027, the audit actually has to be
+complete roughly three weeks earlier — effectively late April/early
+May at the latest, not whatever date in May we eventually pick for
+the meeting. This is the figure to hold each firm to directly, not
+just "May."
+
 Other items worth raising at the Teams presentations:
 
 - A new IAASA Ethical Standard for Auditors takes effect 15 Dec 2026.
@@ -60,11 +68,5 @@ Other items worth raising at the Teams presentations:
   whether either company needs to independently appoint auditors
   given their prior audit-exemption status — flagged as worth
   checking, not yet confirmed either way.
-
-One open item I don't have an answer to: UHL's own constitution (on
-AGM notice periods and related matters) hasn't been pulled for this
-exercise — worth asking Dave Geoghegan, in his Company Secretary
-capacity, to supply it, since it could set stricter notice periods
-than the statutory minimums used above.
 
 Happy to talk through before the Teams meetings.

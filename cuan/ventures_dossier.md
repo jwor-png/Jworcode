@@ -2535,10 +2535,12 @@ is deliberately omitted below.** Findings retained:
   status** flagged as worth checking independently — not yet
   confirmed either way whether either company needs its own separate
   auditor-appointment decision.
-- **UHL's own constitution (AGM notice periods etc.) has not been
-  retrieved** — could set stricter requirements than the statutory
-  minimums used above. Needs requesting from Dave Geoghegan in his
-  Company Secretary capacity.
+- **UHL's actual AGM notice requirement, confirmed by John: a minimum
+  of 21 days between signed-off accounts and the AGM being held.**
+  This means the real audit-completion deadline is earlier than "May"
+  as a loose target — roughly three weeks before whatever date in May
+  the AGM is actually held, i.e. effectively late April/early May.
+  This is the figure to hold each of the four firms to directly.
 - Confidence per Jürgen: ~85% on the statutory mechanics above.
   REPORTED not VERIFIED: the ten-year engagement-partner-rotation rule
   (CPA Ireland, secondary source — IAASA's own Section 3 text not
