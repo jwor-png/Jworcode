@@ -2451,13 +2451,35 @@ until **Tuesday 13 Oct**. John told Dave he'd review in the meantime
 given travel. **No review has been recorded back to Dave as of this
 logging (13 Oct) — Michael's own stated availability date is today.**
 
-**Cuan limitation, logged for completeness:** this Gmail connection
-can read message text and attachment filenames but has no tool to
-extract actual PDF/docx content — the four proposal documents and the
-assessment-criteria docx have not been read, only identified. John is
-taking the proposals to Jürgen/Meridian and ChatGPT separately to
-interrogate the actual figures/terms, then bringing their findings
-back here for a final review ahead of briefing Michael O'Driscoll.
+**Update, 13 Oct 2026 — all four proposals read in full** (John
+uploaded the actual PDFs/docx; the Gmail-attachment extraction
+limitation noted earlier no longer applies once files are uploaded
+directly). Full comparison in
+`cuan/scratch/UHL_Audit_Tender_Comparison_oct2026.md`. Headline:
+
+| Firm | Total annual fee (ex-VAT) |
+|---|---:|
+| Fitzgerald Power | €63,450 |
+| BDO | €92,550 (tax-fee figure internally inconsistent — see below) |
+| Forvis Mazars (incumbent) | €93,400 |
+| RSM | €99,730 |
+
+All four quotes cover the same four group entities (UH DAC, Ardentia,
+Kehoe's Homevalue, Expert Hardware), confirming the full-group scope
+is already reflected in pricing. Fitzgerald Power is the clear price
+outlier at ~46-57% below the other three. **BDO's proposal has an
+internal inconsistency** (exec summary states €16,250 tax fee,
+matching their own fee table; Section 5 narrative separately states
+€17,500 + 5% admin fee) — needs resolving before BDO's total can be
+trusted at face value. Lead partners: Jennifer Power (Fitzgerald
+Power), Emer O'Riordan (Mazars — proposal proactively notes she will
+rotate as audit partner), **Simon Carbery (BDO) — the same partner
+who already leads AHL's own BDO audit relationship**, Adrian Harpur
+(RSM). **None of the four specifically evidences Northern Ireland
+VAT/cross-border capability**, despite Dave naming this directly as
+an assessment criterion — a real gap worth raising with all four, not
+assumed covered by any. Full detail, like-for-like traps, and
+questions for Fitzgerald Power specifically in the comparison file.
 
 **Structural correction, 13 Oct 2026 (John):** this is not a UHL-only
 tender — **UHL controls the whole group and owns Ardentia and Expert
