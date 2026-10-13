@@ -51,9 +51,7 @@ use this to verify, challenge and extend, not duplicate from scratch:
   most developed data-analytics section).
 - Lead partners: Jennifer Power (Fitzgerald Power), Emer O'Riordan
   (Mazars — proposal proactively notes she will rotate as audit
-  partner), Simon Carbery (BDO — the same partner who already leads
-  AHL's own BDO audit relationship, a separate company I'm also
-  involved with), Adrian Harpur (RSM).
+  partner), Simon Carbery (BDO), Adrian Harpur (RSM).
 - None of the four specifically evidences Northern Ireland
   VAT/cross-border capability, despite the CFO naming it directly as
   a criterion.

@@ -43,14 +43,11 @@ decision.
 |---|---|---|
 | Fitzgerald Power | Jennifer Power, Partner, SME Audit & Assurance | ~100 people, Waterford-based, Dublin + UK presence |
 | Forvis Mazars | Emer O'Riordan — proposal explicitly notes **she will rotate as audit partner** | 950+ professionals, 44 partners, €88.5m fee income, 5 offices |
-| BDO | **Simon Carbery** (Audit Partner) | Large international network — same Simon Carbery who already leads AHL's own BDO audit relationship (cross-reference: AHL FY2025 audit, BDO/BDO Ireland LLP thread already logged elsewhere in this file) |
+| BDO | **Simon Carbery** (Audit Partner) | Large international network |
 | RSM | Adrian Harpur, Audit Partner | International network via RSM (Ireland/UK/US/Canada referenced) |
 
 **Notable:** Mazars proactively flagging partner rotation is a mild
-positive signal on audit-quality governance (independent of the Man
-City/BDO scrutiny piece already logged in `market_intel_bdo_mancity_scandal_oct2026.md`
-— worth holding that context in mind given BDO is one of the four
-bidders here and already audits AHL).
+positive signal on audit-quality governance.
 
 ## Against Dave Geoghegan's own criteria
 
@@ -101,10 +98,8 @@ not assuming any has it covered.
 
 - **Audit rotation/independence governance** — Mazars is the only one
   that proactively addresses it (partner rotation already built into
-  their proposal). Given BDO's own current FRC scrutiny thread
-  (logged separately, Man City/audit-quality piece) and the fact BDO
-  already audits AHL, worth asking BDO directly about their own
-  rotation policy for UHL specifically, not assuming parity with
+  their proposal). Worth asking the other three directly about their
+  own rotation policy for UHL specifically, not assuming parity with
   Mazars on this point.
 - **Group consolidation experience specifically** — all four quote
   consolidation fees, but only Mazars and RSM explicitly reference

@@ -2473,8 +2473,7 @@ matching their own fee table; Section 5 narrative separately states
 €17,500 + 5% admin fee) — needs resolving before BDO's total can be
 trusted at face value. Lead partners: Jennifer Power (Fitzgerald
 Power), Emer O'Riordan (Mazars — proposal proactively notes she will
-rotate as audit partner), **Simon Carbery (BDO) — the same partner
-who already leads AHL's own BDO audit relationship**, Adrian Harpur
+rotate as audit partner), Simon Carbery (BDO), Adrian Harpur
 (RSM). **None of the four specifically evidences Northern Ireland
 VAT/cross-border capability**, despite Dave naming this directly as
 an assessment criterion — a real gap worth raising with all four, not
@@ -2503,6 +2502,53 @@ weekly updates); the other three speak only of "agreed timetables" in
 the abstract. (5) No firm specifies a consequence if the timeline
 slips, and the three challengers are silent on handover/transition
 risk from the incumbent. Full detail in the comparison file.
+
+**Jürgen (Meridian) legal/governance layer, 13 Oct 2026, Deep mode —
+John's explicit instruction applied: Jürgen also raised a possible
+AHL/BDO conflict angle; John instructed this be excluded entirely
+from this UHL work, not summarised, and not raised again here — so it
+is deliberately omitted below.** Findings retained:
+- **May 2027 is a board direction, not a statutory deadline** — s.175
+  Companies Act 2014 only requires the AGM within 15 months of the
+  last one (30 Sept 2026 AGM → statutory outer limit end Dec 2027).
+  The four firms are being held to May by contract, not law.
+- **Auditor-change mechanics, the key practical finding:** Forvis
+  Mazars is automatically re-appointed (s.383) and holds office
+  through FY2026 unless it resigns. **Route A (change for FY2026):**
+  Mazars resigns, board fills the casual vacancy — needs deciding
+  this month to fit any challenger's interim timetable, new firm
+  carries real first-year risk against a May deadline. **Route B
+  (change from FY2027):** Mazars completes FY2026, new firm appointed
+  at the May 2027 AGM itself — cleaner, but needs extended notice
+  (≥28 days to the company, members notified ≥21 days before the
+  meeting — paperwork by late April 2027). Not yet decided which
+  route the Committee is actually planning for.
+- **New IAASA Ethical Standard for Auditors (Ireland) 2025** takes
+  effect 15 Dec 2026 — FY2026 completes under the 2020 standard,
+  FY2027 under the new one. Worth asking all four firms to confirm in
+  writing they've assessed independence under both.
+- **Mazars' own proposal flags partner rotation** (Emer O'Riordan
+  "will rotate as audit partner") without detail — worth asking who
+  signs FY2026, the documented reasoning, and who the reviewing
+  partner is.
+- **Kehoe's Homevalue and Expert Hardware's own audit-exemption
+  status** flagged as worth checking independently — not yet
+  confirmed either way whether either company needs its own separate
+  auditor-appointment decision.
+- **UHL's own constitution (AGM notice periods etc.) has not been
+  retrieved** — could set stricter requirements than the statutory
+  minimums used above. Needs requesting from Dave Geoghegan in his
+  Company Secretary capacity.
+- Confidence per Jürgen: ~85% on the statutory mechanics above.
+  REPORTED not VERIFIED: the ten-year engagement-partner-rotation rule
+  (CPA Ireland, secondary source — IAASA's own Section 3 text not
+  retrieved). Explicitly stripped by Jürgen: a "nine months after
+  year end" AGM claim found only in secondary sources, not in s.175
+  itself.
+
+Briefing for Michael O'Driscoll, incorporating the above (AHL/BDO
+material excluded throughout per instruction), in
+`cuan/scratch/UHL_Audit_Tender_Michael_Briefing_oct2026.md`.
 
 **Structural correction, 13 Oct 2026 (John):** this is not a UHL-only
 tender — **UHL controls the whole group and owns Ardentia and Expert
