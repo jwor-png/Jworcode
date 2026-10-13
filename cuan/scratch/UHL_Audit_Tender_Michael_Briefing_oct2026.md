@@ -64,9 +64,10 @@ Other items worth raising at the Teams presentations:
   level, business continuity arrangements, or named client references
   — all named in our own assessment criteria document. Worth asking
   all four directly rather than assuming any of them have it covered.
-- Worth confirming with Kehoe's and Expert Hardware's own directors
-  whether either company needs to independently appoint auditors
-  given their prior audit-exemption status — flagged as worth
-  checking, not yet confirmed either way.
+- Kehoe's (Homevalue) and Expert Hardware are both wholly owned by
+  UHL, with three of the UHL board sitting as their directors — so
+  any auditor-appointment decision for either subsidiary runs through
+  the same people as the main UHL decision, not a separate approval
+  process.
 
 Happy to talk through before the Teams meetings.

@@ -2531,10 +2531,13 @@ is deliberately omitted below.** Findings retained:
   "will rotate as audit partner") without detail — worth asking who
   signs FY2026, the documented reasoning, and who the reviewing
   partner is.
-- **Kehoe's Homevalue and Expert Hardware's own audit-exemption
-  status** flagged as worth checking independently — not yet
-  confirmed either way whether either company needs its own separate
-  auditor-appointment decision.
+- **Ownership/governance structure confirmed by John:** Kehoe's
+  Homevalue and Expert Hardware are both wholly owned by UHL, with
+  **three of the UHL board sitting as their directors** — so any
+  auditor-appointment decision for either subsidiary runs through the
+  same people as the main UHL decision, not a separate approval
+  process. Resolves the open question on whether either needs its own
+  independent auditor-appointment step.
 - **UHL's actual AGM notice requirement, confirmed by John: a minimum
   of 21 days between signed-off accounts and the AGM being held.**
   This means the real audit-completion deadline is earlier than "May"
