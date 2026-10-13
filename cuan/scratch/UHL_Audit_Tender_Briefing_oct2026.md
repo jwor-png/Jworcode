@@ -7,6 +7,15 @@ Audit & Risk Committee (I chair it alongside fellow director Michael
 O'Driscoll) needs to assess and recommend before a Teams meeting where
 each firm presents.
 
+Important group structure: this is not a single-company audit. UHL
+controls the whole group and owns **Ardentia** and **Expert
+(Hardware)** — UHL acquired Expert Hardware in June 2026, taking the
+group to roughly 200 stores and €500m+ turnover. The tender as framed
+by the CFO is explicitly for "the United Hardware Group," so whatever
+you assess needs to weigh each firm's capability to handle a
+multi-entity group consolidation (UHL plus Ardentia plus Expert, not
+just UHL standalone), not a single-company engagement.
+
 Four firms under consideration:
 1. Mazars (incumbent)
 2. BDO
@@ -33,9 +42,12 @@ What I need from you:
    (I'll paste or upload them to you directly — Cuan currently has no
    way to extract PDF/docx content from this Gmail account, only
    filenames) and extract: fee quoted (total and by service line if
-   broken out), scope of services actually included vs excluded,
-   partner/team named and their sector experience, audit methodology
-   and timeline commitments, and any named NI/cross-border capability.
+   broken out, and whether the fee covers the full group — UHL,
+   Ardentia and Expert — or UHL standalone with extras for the rest),
+   scope of services actually included vs excluded, partner/team named
+   and their sector experience, audit methodology and timeline
+   commitments, group-consolidation capability, and any named
+   NI/cross-border capability.
 2. Flag anything that looks like a like-for-like comparison trap —
    e.g. a lower headline fee that excludes something the others
    include, or scope creep/extras likely to be billed separately.

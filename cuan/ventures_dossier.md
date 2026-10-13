@@ -2459,6 +2459,18 @@ taking the proposals to Jürgen/Meridian and ChatGPT separately to
 interrogate the actual figures/terms, then bringing their findings
 back here for a final review ahead of briefing Michael O'Driscoll.
 
+**Structural correction, 13 Oct 2026 (John):** this is not a UHL-only
+tender — **UHL controls the whole group and owns Ardentia and Expert
+(Hardware)**, both already tracked elsewhere in this file (Ardentia as
+the UHL vehicle in the BMG/trade-group acquisition work; Expert
+Hardware as the June 2026 acquisition that took UHL to ~200 stores/
+€500m+ turnover). Dave Geoghegan's own email scopes the tender as "the
+United Hardware Group," consistent with this — the audit/tax/CoSec
+proposals from Mazars/BDO/RSM/Fitzgerald Power need to be assessed
+against the full group's consolidation complexity (multiple owned
+entities, not a single-company audit), not just UHL standalone. Folded
+into the Jürgen/Meridian/ChatGPT briefing.
+
 ### Risk register / cybersecurity, GDPR and AI review — reopened 7 Sept 2026
 - **Trigger:** John shared five Business Post articles (6 Sept 2026) on
   AI-driven cyber threats and everyday AI use, and asked to revisit UHL's
