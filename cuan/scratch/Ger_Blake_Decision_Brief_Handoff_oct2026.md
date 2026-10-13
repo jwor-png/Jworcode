@@ -118,3 +118,74 @@ they earn their place, verify or drop the three unverified figures
 above, and produce something John can review before it goes to Ger.
 Five working days from when John sends this across is the clock Ger was
 given.
+
+---
+
+## CRITICAL UPDATE, 13 Oct 2026 — DSB's own site changes the calculus
+
+John reviewed dsb.ie directly (screenshots, 13 Oct) before this went
+to Meridian. This materially changes what the brief needs to be.
+
+**Ger Blake's own background (DSB "Meet the Team" page):** former
+Corporate Finance and Restructuring Partner at a top-tier firm, 25
+years' advisory experience, fundraising (debt and equity), company
+valuations, MBOs, Independent Business Reviews, Diploma in Insolvency
+(Law Society of Ireland), six years inside Musgrave itself advising
+Centra/SuperValu retailers on debt restructuring and turnaround —
+deep, first-hand grocery retail sector knowledge. Not a compliance
+generalist.
+
+**DSB's own published service list already covers most of what the
+brief was going to offer:**
+- Advisory Services: Strategic advice on expansion/acquisitions,
+  **Business Valuations**, Financial Due Diligence, Independent
+  Business Reviews, Feasibility Studies, **Debt Restructuring &
+  Insolvency Advice**, **Corporate Restructuring & Turnaround**,
+  funding solutions including **succession planning** and refinancing,
+  business plans/financial projections for fundraising, full pillar
+  bank + non-traditional lender network.
+- Tax Planning & Compliance: Tax Planning & Advisory incl. corporate
+  structures, **succession planning** (named a second time), VAT
+  planning, Revenue audit assistance.
+- Company Secretarial Work: formation, director/secretarial services,
+  annual compliance, company structure review, group formation, CRO
+  filings.
+- **Nexus Data Analytics Platform** (with partner Ezora): a live,
+  client-specific cloud dashboard pulling daily POS/payroll data —
+  cash reconciliation, till under/over reporting, voids/refunds,
+  weekly pricing benchmark by product vs peer stores, waste-vs-margin
+  analysis, exception reporting. Explicitly pitched at "Grocery Store
+  Owners." Free demo offered.
+
+**What this means:** the fifteen-heading brief as drafted risks
+re-selling Ger his own firm's existing service list back to him —
+valuations, debt restructuring, succession planning and franchise/
+transaction structuring are all things DSB (and Ger personally)
+already does, and Nexus already covers the operational-data/margin-
+benchmarking layer. That is almost certainly the real reason his
+8 Oct reply was lukewarm ("will keep it in mind") — not that the
+topic doesn't fit his clients, but that he doesn't need an outside
+party to tell him about work he already sells.
+
+**Where the actual gap is — reframe the brief around this, not the
+original 15 headings as a flat list:**
+- Meridian's genuine point of difference is not subject-matter
+  knowledge (Ger has more of that than the brief can offer in most of
+  these areas) — it's **AI-native, governance-verified, cross-domain
+  synthesis, delivered fast**, with every claim tagged VERIFIED/
+  REPORTED/UNVERIFIED. Nexus is retrospective operational BI; DSB's
+  advisory is human judgement. Neither is what Meridian is.
+- Position this explicitly as **augmenting Ger, not competing with
+  him** — a second-opinion/stress-test layer he could use on his own
+  client work (sanity-checking a valuation assumption, surfacing a
+  blind spot across domains he isn't simultaneously running, producing
+  a structured draft in days rather than the time a full human
+  engagement takes) rather than a parallel advisory product.
+- The two headings that still stand up well against this test: **#1
+  AI governance/due diligence** and **#9 loyalty/customer data as an
+  asset** — genuinely adjacent to what DSB/Nexus already do, not
+  already covered. Worth leading with one of these rather than the
+  valuation/restructuring material Ger already owns.
+- Recommend Meridian/Jürgen re-scope before building: pick one or two
+  domains where the honest answer is "DSB doesn't already do this,"
+  rather than building out the full fifteen as originally planned.

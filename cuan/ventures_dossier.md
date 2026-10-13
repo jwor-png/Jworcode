@@ -1634,6 +1634,41 @@ retail client facing a transaction, governance or strategic decision.
 Worth deciding whether to follow up to explore that, or treat this as
 closed for now and move to the next planned introduction.
 
+**13 Oct 2026 — dsb.ie reviewed directly by John, changes the
+calibration significantly.** Ger Blake's own bio: former Corporate
+Finance and Restructuring Partner at a top-tier firm, 25 years'
+advisory experience, fundraising (debt/equity), company valuations,
+MBOs, Independent Business Reviews, Diploma in Insolvency, six years
+inside Musgrave itself advising Centra/SuperValu retailers on debt
+restructuring and turnaround. DSB's published service list already
+covers most of the planned Decision Brief's territory: Business
+Valuations, Financial Due Diligence, Independent Business Reviews,
+Feasibility Studies, Debt Restructuring & Insolvency, Corporate
+Restructuring & Turnaround, succession planning (named twice, once
+under Advisory and once under Tax), funding/refinancing across pillar
+and non-traditional lenders, full company secretarial work, plus a
+live operational-data product — the **Nexus Data Analytics Platform**
+(with partner Ezora) — pulling daily POS/payroll data for cash
+reconciliation, till under/over, waste-vs-margin and weekly pricing
+benchmarking, explicitly pitched at grocery store owners, free demo
+offered.
+
+**Read on this:** Ger's lukewarm 8 Oct reply almost certainly wasn't
+about retail fit — it's that DSB already sells most of this work
+in-house, and he personally has more hands-on valuation/restructuring
+experience than an outside AI tool can credibly add on that ground.
+The genuine gap is not subject knowledge but **method**: AI-native,
+governance-verified, cross-domain synthesis delivered in days, VERIFIED/
+REPORTED/UNVERIFIED-tagged — positioned as augmenting Ger (a
+stress-test/second-opinion layer on his own client work), not
+competing with him. Of the fifteen headings drafted 9 Oct, only
+**AI governance/due diligence** and **loyalty/customer data as an
+asset** clearly sit outside DSB's existing service list — recommended
+as the actual lead for the brief rather than the valuation/
+restructuring material Ger already owns. Logged in the Meridian
+handoff (`cuan/scratch/Ger_Blake_Decision_Brief_Handoff_oct2026.md`)
+as a critical update, not yet actioned by Meridian/Jürgen.
+
 ### AI Strategy & Adoption — farming community vertical (9 Sept 2026)
 
 John's instruction, 9 Sept: within Meridian's AI Strategy & Adoption
