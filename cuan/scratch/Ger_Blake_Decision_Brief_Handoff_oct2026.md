@@ -189,3 +189,55 @@ original 15 headings as a flat list:**
 - Recommend Meridian/Jürgen re-scope before building: pick one or two
   domains where the honest answer is "DSB doesn't already do this,"
   rather than building out the full fifteen as originally planned.
+
+---
+
+## GOVERNING PRINCIPLE, 13 Oct 2026 — John's instruction, supersedes the
+## "pick a gap domain" framing above
+
+**Core instruction:** assume DSB does everything it advertises, fully,
+for every client — the financial performance work, the valuation, the
+restructuring, the succession planning, Nexus's operational data, all
+of it. Don't try to find a thin sliver DSB hasn't covered. Instead,
+**take what Ger/DSB already knows about a client's financial
+performance as the starting input, and show what Meridian can
+recommend in addition to that** — an orchestration layer sitting on
+top of DSB's own work, not a competing or adjacent service.
+
+This reframes the brief's actual job: not "here's a domain you're
+missing," but "here's what becomes visible when an AI orchestration
+layer (via Shane's intelligence capability) is run across everything
+DSB already knows about this client, that doesn't show up from any
+single piece of that work taken alone." The value is the synthesis
+across domains DSB already holds, not a new domain DSB lacks.
+
+**The Requisitions-Readiness Audit is the concrete first example of
+this, not a separate idea.** Ger, as the solicitor-adjacent adviser,
+knows the Requisitions on Title process exists, but his retail clients
+don't — they only meet it, cold, once a buyer's solicitor raises it
+post-agreement, by which point most of what it asks about can no
+longer be fixed cheaply or quickly. A worked example from John's own
+Julianstown Mill conveyancing file (Micheál Glynn & Co., Requisitions
+on Title re Folio 72142F, Co. Meath, Aug 2023) is available as a real
+template for the category structure — title/boundaries, planning and
+building control compliance, environmental, taxation and capital
+allowances, family law consents, services/wayleaves, litigation and
+judgments, statutory compliance, plus (for a trading business, not
+bare land) employee transfer/TUPE, lease terms, VAT history and
+goodwill. **Translate these into a forward-looking checklist a client
+can act on years before a sale** — not a legal explainer (Ger's
+solicitors already do that), but a synthesis that sits across DSB's
+existing financial/valuation picture AND the legal-readiness picture
+DSB doesn't currently produce, showing where the two intersect (e.g.
+an unresolved boundary/title issue that would also change a
+valuation's basis, or a lease term that affects both succession
+planning and requisitions).
+
+**Ask of Meridian/Jürgen, updated:** don't build a menu of domains.
+Build one worked example of what the orchestration layer surfaces when
+run across DSB's own existing output (assume full coverage — valuation,
+restructuring, succession, Nexus data) plus the legal-readiness lens
+above, specifically where those intersect in ways neither DSB's
+advisory work nor a solicitor's requisitions process would surface
+alone. That intersection, not any single domain, is the actual pitch
+to Ger.

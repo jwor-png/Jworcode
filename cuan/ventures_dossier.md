@@ -1669,6 +1669,35 @@ restructuring material Ger already owns. Logged in the Meridian
 handoff (`cuan/scratch/Ger_Blake_Decision_Brief_Handoff_oct2026.md`)
 as a critical update, not yet actioned by Meridian/Jürgen.
 
+**13 Oct 2026 — John's governing instruction, supersedes the
+"pick a gap domain" framing above.** Don't hunt for a thin sliver DSB
+hasn't covered — assume DSB does everything it advertises, fully, for
+every client (financial performance, valuation, restructuring,
+succession, Nexus data). **Take what Ger/DSB already knows about a
+client's financial performance as the input, and show what Meridian's
+orchestration (via Shane's intelligence capability) can recommend in
+addition to that** — synthesis across what DSB already holds, not a
+competing or merely-adjacent service.
+
+The **Requisitions-Readiness Audit is the concrete first example of
+this**, not a separate idea: Ger knows Requisitions on Title exists
+(his solicitors run it), but his retail clients meet it cold, post
+sale-agreement, when most of what it asks about can no longer be fixed
+cheaply. A real worked template is available from John's own
+Julianstown Mill file (Micheál Glynn & Co., Requisitions on Title re
+Folio 72142F, Co. Meath, Aug 2023 — attachment located in Gmail,
+thread "Julianstown Contract Deposit," but no tool in this Gmail
+connection can extract attachment bytes; John has the direct message
+link to open it himself). Translate its standard categories (title/
+boundaries, planning/building control, environmental, tax/capital
+allowances, family law consents, services/wayleaves, litigation,
+statutory compliance, plus for a trading business: TUPE, lease terms,
+VAT history, goodwill) into a forward-looking checklist, and — the
+actual value-add — show where it **intersects** with DSB's existing
+financial/valuation work in ways neither side would surface alone
+(e.g. a title/boundary issue that also changes a valuation's basis).
+Full detail in the handoff file. Not yet actioned by Meridian/Jürgen.
+
 ### AI Strategy & Adoption — farming community vertical (9 Sept 2026)
 
 John's instruction, 9 Sept: within Meridian's AI Strategy & Adoption
