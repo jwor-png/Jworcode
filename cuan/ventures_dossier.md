@@ -4491,6 +4491,47 @@ with Shane/John to get the full picture (the "Connected model,"
 aren't explained anywhere yet), rather than inferring further from
 partial screen captures.**
 
+### City-centre footfall sizing — Manchester, Liverpool, Leeds, Hale — 14 Oct 2026
+
+**Live working session, John with Johnny and Shane**, discussing
+location targeting for Barber Republic: both visitors flying into
+Manchester, Liverpool, Leeds and Hale, and local residents of those
+areas, as potential footfall drivers into shops.
+
+**Verified airport passenger totals (2025):** Manchester Airport
+32.1m (record year, +4% on 2024); Liverpool John Lennon 5.6m (record
+year, +11% on 2024); Leeds Bradford ~4.3-4.4m (financial-year
+reporting, so less precise). Hale has no airport of its own — it's an
+affluent Trafford/Altrincham-area residential catchment served by
+Manchester Airport, so it's a local-resident segment layered on top
+of Manchester's numbers, not a separate inbound flow.
+
+**Rough estimate of potential customers — explicitly UNVERIFIED,
+back-of-envelope, assumptions stated, not investor-grade:**
+
+| Airport | Annual pax | Est. genuine visitor arrivals | Est. male | Likely into city centre |
+|---|---:|---:|---:|---:|
+| Manchester | 32.1m | ~4.8m | ~2.5m | ~1.6m/yr (~4,500/day avg) |
+| Liverpool | 5.6m | ~1.0m | ~0.52m | ~0.39m/yr (~1,070/day avg) |
+| Leeds Bradford | 4.3m | ~0.65m | ~0.34m | ~0.20m/yr (~550/day avg) |
+
+**Methodology:** half of total passengers are arrivals; a visitor-share
+haircut applied per airport reflecting that a large share of regional-
+airport arrivals are local residents returning from their own outbound
+leisure trip, not genuine visitors (Manchester and Leeds Bradford skew
+heavily outbound-leisure/Jet2-type bases; Liverpool's mix is more
+balanced); ~52% assumed male; a city-centre-likelihood factor applied
+reflecting how central each airport's main tourist/business draw
+actually is. These percentages are estimated from general
+airport-traffic-mix knowledge, not a sourced visitor survey.
+
+**For investor-grade numbers**, the right move is pulling actual
+inbound-visitor stats from Marketing Manchester, the Liverpool City
+Region visitor economy team, and Leeds BID/Welcome to Yorkshire — they
+run proper visitor surveys with city-centre footfall and demographic
+splits. Not yet actioned; no note sent to Shane per John's instruction
+(discussion is live, in-room).
+
 ---
 
 ## Kilmallock Economic Enterprise Development Ltd (KEDL) / JJ Craft Brewing — new, 9 Sept 2026
