@@ -2555,6 +2555,12 @@ Briefing for Michael O'Driscoll, incorporating the above (AHL/BDO
 material excluded throughout per instruction), in
 `cuan/scratch/UHL_Audit_Tender_Michael_Briefing_oct2026.md`.
 
+**Status, 13 Oct 2026 evening — sent.** John sent the briefing to
+Michael O'Driscoll (16:35) and separately confirmed to Dave Geoghegan
+that he'd reviewed the proposals and gone to Michael with questions
+ahead of setting up Teams calls with each firm. Awaiting Michael's
+review and reply.
+
 **Structural correction, 13 Oct 2026 (John):** this is not a UHL-only
 tender — **UHL controls the whole group and owns Ardentia and Expert
 (Hardware)**, both already tracked elsewhere in this file (Ardentia as
