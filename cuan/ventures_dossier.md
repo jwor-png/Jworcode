@@ -2561,6 +2561,21 @@ that he'd reviewed the proposals and gone to Michael with questions
 ahead of setting up Teams calls with each firm. Awaiting Michael's
 review and reply.
 
+**Michael's reply, 15 Oct 2026, 09:55 — approved, wants a pre-call
+first.** Michael: "Your summary as presented is detailed and targets
+the questions we should be asking. On review I have nothing further to
+add but I would like a brief meeting on teams with you before you
+revert to David to structure the meeting/interview process with these
+potential providers." No pushback on content — next step is John and
+Michael align on Teams-meeting structure/process before looping Dave
+back in, not yet scheduled.
+
+**Separate, same-day:** Joanne Mallon (BDO) chased John on 14 Oct for
+the list of AGM seconders so BDO can issue draft AHL AGM minutes for
+review; John replied 15 Oct confirming he'll send the details that
+day. Both Joanne and Karen Daly are travelling 14-16 Oct with delayed
+email access (auto-reply confirmed).
+
 **Structural correction, 13 Oct 2026 (John):** this is not a UHL-only
 tender — **UHL controls the whole group and owns Ardentia and Expert
 (Hardware)**, both already tracked elsewhere in this file (Ardentia as
