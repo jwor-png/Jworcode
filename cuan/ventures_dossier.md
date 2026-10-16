@@ -2139,6 +2139,13 @@ consolidation pass rather than merged speculatively.
 - **What it does:** [Part of John's AI entity stack — serves as the vehicle for partner and channel relationships]
 - **Key relationships:** Mairead O'Donnell (Claochlu Consulting), Vinny Leonard (Sales Process Advisors)
 - **Constraint:** Internal product name "Transition Intelligence" must never appear in any client-facing or external document
+- **Gmail script fix, 16 Oct 2026 — specific error now in hand.** The
+  board's long-standing "Velocity AI — Gmail script fix still
+  outstanding" item traces to a Google Apps Script function named
+  **`saveGmailAttachments`**, failing on a time-based trigger with "a
+  server error occurred" (failure notice 15 Oct 2026, 08:38 IST). Not
+  yet actioned — logged so whoever picks up the fix has the actual
+  function name and error rather than starting from scratch.
 
 ### Mark Finlay — resolved, 10 Sept 2026 (was flagged "Mark Findley")
 **Mark J. Finlay** (markjfinlay@icloud.com) — a Velocity AI contact.
