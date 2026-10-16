@@ -945,6 +945,117 @@ company registers, constitutions, ownership documents and share
 tables, and confirm status company by company. That's the gating step
 for task 1's "verified company summary" and for everything downstream.
 
+### Constitution design brief — Noesis and Asterial, 16 Oct 2026
+
+**First substantive output against tasks 2/3 of the work brief above**
+("Challenge the share rights and founder control" / "Align the
+constitutions across the group") — a ChatGPT-produced design brief
+John shared, built around his own stated position that **Noesis will
+not raise investment, while Asterial is the investment home for
+ODIN.** Treat as a drafting brief to take to Irish corporate counsel,
+not as executed legal documents — nothing here is yet in any
+constitution.
+
+**Core framing: two connected constitutions with different jobs.**
+Noesis preserves ownership, control and continuity across the group;
+Asterial protects ODIN while enabling investment, development and
+commercialisation. Central design question posed: what must remain
+true as the companies grow, new shareholders arrive, people leave and
+the intelligence becomes more capable.
+
+**Noesis — protect the ownership structure:**
+- Design the intended Class A (founder control)/Class B (economic
+  participation) split explicitly — voting rights, board-appointment
+  rights, meeting rules and special-consent decisions should all
+  reinforce each other. Family/friends/partners' economic entitlement
+  (dividends, sale proceeds, winding-up) should be equally explicit
+  and not dependent on John or Shane's continued goodwill; their
+  shareholding shouldn't automatically carry an operational role.
+- **Make the no-dilution commitment structural, not just a stated
+  intention** — restrictions on new shares, options, convertibles and
+  changes to economic rights belong in the actual share-capital
+  provisions. Key distinction for explaining this to shareholders:
+  someone can keep their exact Noesis percentage unchanged while
+  Noesis itself accepts dilution in Asterial during an ODIN investment
+  round — these are different ownership levels, not a contradiction.
+- Reserve major decisions (sale/pledging of major shareholdings,
+  substantial guarantees, exceptional borrowing, material intercompany
+  value transfers) — protecting what Noesis **owns and owes**, not
+  just share percentages. Dividend wording must respect the statutory
+  "profits available for distribution" requirement, not promise
+  payments off valuations or cash balances.
+- Transfer/succession: intended transfer restrictions, first-purchase
+  opportunity, valuation procedure, permitted family transfers, death/
+  incapacity rules — lock-up duration still an open drafting decision.
+  Distinguish inheriting economic value from inheriting authority to
+  run the group; minority-shareholder information rights and a
+  dispute process also recommended.
+
+**Asterial — protect ODIN's ability to keep developing:**
+- Define the protected asset precisely — architecture, code,
+  orchestration systems, proprietary methods, documentation and
+  associated rights, not just the "ODIN" name. Recommends a maintained
+  ownership register distinguishing assigned ODIN assets, Shane's
+  separately-held founder IP, subsidiary-created work and third-party
+  material, backed by signed assignments/licences.
+- "Keep the organism whole" becomes a specific approval framework
+  covering disposal, fragmentation, security over core assets, and any
+  transaction surrendering substantial control. Licensing/exclusivity
+  treated as control decisions requiring enhanced approval. For
+  "spawns and mutations" (ventures built off ODIN): commercialisation
+  must preserve ODIN's agreed integrity, with individual agreements
+  specifying what each venture gets, what improvements flow back, what
+  can be reused, what stays confidential.
+- Investment rights: Asterial needs its own capital structure separate
+  from Noesis — voting, board composition, vetoes, dilution, exit
+  rights, ability to finance the next stage — with a recommended
+  "control-impact assessment" before approving any funding structure,
+  not evaluating purely on valuation/percentage sold. Flags that
+  Asterial's directors owe duties to Asterial specifically, so moving
+  value elsewhere in the group can't be justified by common ownership
+  alone.
+- **Human authority over AI systems as a constitutional requirement**
+  — distinguishing research/recommendations from execution, and
+  routine execution from decisions needing named human approval; an
+  agent should not be able to expand its own authority, approve its
+  own exception, or rewrite the policy limiting it. Directly relevant
+  to task 9 of the work brief ("safety, data and AI oversight").
+
+**Four-layer architecture recommended:** (1) company constitution —
+share rights, control, board structure, protected decisions, amendment
+mechanism; (2) shareholder/investment agreements — commercial detail,
+information rights, transfer terms, negotiated investor terms; (3) IP
+and intercompany agreements — ownership evidence, licences, transfer/
+improvement rights; (4) board-approved operating policies — agent
+permissions, spending limits, security, deployment approvals, incident
+procedures. Explicit point: the constitution binds its own company
+under the Companies Act, so Noesis-level rules don't automatically
+govern Asterial or the other subsidiaries — each needs matching
+provisions.
+
+**Design principle flagged:** protection should be hard to bypass
+where it matters (ownership changes, irreversible asset decisions,
+commitments restricting future freedom) while ordinary work stays easy
+to authorise. Amendment mechanism matters as much as the protected
+clauses — Irish constitutions are generally amendable by special
+resolution, with separate requirements for class-right changes, so
+"permanent" protection needs carefully drafted consent rights, not
+just strong wording. Also flags that constitutional restrictions don't
+automatically stop an external transaction from binding the company —
+signing authority, bank mandates, contract approvals and technical
+permissions need to enforce the same boundaries in practice.
+Recommends stress-testing the design against: a funding round, a
+subsidiary sale, a shareholder leaving, John or Shane's temporary
+unavailability, and an agent attempting an unauthorised commitment.
+
+**Status:** a drafting brief only, shared via ChatGPT (pasted directly
+into Cuan, the link itself not accessible from this session — same
+network restriction as other external links). Not yet actioned,
+not yet taken to Irish corporate counsel. Directly feeds tasks 1-3 and
+9 of Shane's 8 Oct work brief above — worth attaching to whatever goes
+back to Shane as the "share-rights issues" and "terms that match
+intention" outputs task 2 calls for.
+
    **Partial resolution, 28 Sept:** per Shane's private briefing for the
    29 Sept Maynooth meeting (see `childen.md`), **SanCelvio is confirmed
    as the intended home of Childen and prospective contracting entity**,
