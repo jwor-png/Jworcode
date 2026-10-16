@@ -1176,6 +1176,95 @@ ChatGPT constitution brief above.**
    received, not yet reviewed against the ChatGPT brief or logged in
    detail.
 
+### Constitution PDF and company schedule — read in full, 16 Oct 2026
+
+John uploaded the actual "CamScanner 16-10-2026 10.17.pdf" directly.
+Two documents inside, now reviewed.
+
+**Document 1 — the "normal" constitution Pat uses.** Standard Irish
+Companies Act 2014 private-company-limited-by-shares constitution
+(Supplemental Regulations under s.54(1)), using **"Noesis AI Agent
+System Limited"** on the cover as the live example rather than a blank
+template. Entirely boilerplate: company seal, share capital (€100,000
+authorised, divided into 100,000 €1 Ordinary shares), director
+provisions (incl. alternate directors, electronic-meeting provisions
+under s.183), vacation of office, notices, standard officer indemnity
+(ss.233/234). **Signature page confirms Noesis's actual founding
+subscriber: Patrick Carroll, 86 O'Connell Street, Limerick, 100
+shares, "Company Director," dated 8 December 2025** — consistent with
+Pat's own account that Noesis was shelf-incorporated as a dormant
+company under his name at that point, not Shane's or John's. **This is
+the generic template, not a bespoke Noesis constitution** — it's what
+Pat's "redrafting the constitution and shareholders' agreement for
+Noesis Limited" (13 Oct email) will presumably depart from, and the
+natural merge point with the ChatGPT constitution brief logged above.
+
+**Document 2 — full company schedule, the far more valuable page.**
+Columns: Name / Year end / Shareholder / Percentage % / Director(s) /
+Secretary / Status. Transcribed as best as the scan allows — several
+cells genuinely hard to read on a rotated photo, flagged rather than
+guessed:
+
+| Company | Year end | Shareholder(s) | % | Director(s) | Secretary | Status |
+|---|---|---|---|---|---|---|
+| **Grassroots** (scan reads "The Crassroots" — almost certainly Grassroots, per Pat's 13 Oct instruction that it stay entirely outside Noesis) | 31 Dec | Shane McCarthy | 100 | Shane McCarthy | Shane McCarthy | Active |
+| Equitas Accounts | 30 Apr | Shane McCarthy, Mureann Gabriel O'Toole, Sarah Ilebert, [+one more, unclear] | 44 / 10 / ~2 / ~44 [figures uncertain] | Gareth Michael Monaghan, Sarah Ilebert, Shane McCarthy | Shane McCarthy | Active |
+| Manly Velocity | 31 Dec | Shane McCarthy | 100 | Shane McCarthy | John Michael Webb O'Rourke | Active |
+| **Asterial Limited** | 31 Dec | Shane McCarthy | 100 | Shane McCarthy | John Michael Webb O'Rourke | **Dormant** |
+| NOESIS AI AGENT SYSTEM LIMITED | 31 Dec | Shane McCarthy | 100 | Shane McCarthy | **Pat Carroll** | Dormant |
+| VRH Social Media Limited | 31 Dec | [Shane McCarthy / Kevin Vaughan — shareholder names/split unclear on scan] | 50/50 [uncertain] | Kevin Vaughan | Kevin Vaughan | No[t] active |
+| Valhalla Studio | 31 Aug | Shane McCarthy / John Fitzgerald | 50 / 50 | John Fitzgerald | John Fitzgerald | Dormant |
+| Sancelvio Limited | 30 Jun | Shane McCarthy | 100 | Shane McCarthy | John Michael Webb O'Rourke | Dormant |
+| Zubelsala Limited | 30 Jun | Shane McCarthy | 100 | Shane McCarthy | John Michael Webb O'Rourke | Dormant |
+| **LLM** | to be created | Shane McCarthy | 100 | Shane McCarthy | John Michael Webb O'Rourke | Dormant |
+| **TAIRSEACH Property Limited** | to be created | Shane McCarthy | 100 | Shane McCarthy | John Michael Webb O'Rourke | Dormant |
+
+**Two discrepancies worth flagging directly to John/Shane, not
+smoothed over:**
+1. **Asterial Limited shown as "Dormant"** here — conflicts with every
+   prior entry in this file describing Asterial as the active,
+   incorporated vehicle holding Shane's personal ODIN IP position,
+   with a live B1 filed and John as Company Secretary. Could mean
+   "dormant" in a narrow accounting-status sense (no trading activity)
+   despite being legally active and IP-bearing, or could mean this
+   schedule is simply out of date — not assumed either way.
+2. **Noesis's own Secretary is shown as Pat Carroll**, not John — but
+   the 8 Oct work brief states "Confirms John is Company Secretary of
+   Noesis, Asterial AND SanCelvio." Worth a direct check: has the
+   secretary role actually transferred to John yet, or is this
+   schedule reflecting the pre-handover position (consistent with
+   Noesis's Dec 2025 incorporation under Pat as founding director)?
+
+**New entities surfaced, none previously tracked:**
+- **TAIRSEACH Property Limited** ("to be created") — **shares a name
+  with John's own already-tracked Tairseach venture** (the
+  property-specific organism descended from ODIN, logged extensively
+  elsewhere in this file). Could be the same thing being formally
+  incorporated inside Shane's Noesis group, or a coincidental name
+  reuse — genuinely unclear which, worth asking directly rather than
+  assuming a connection.
+- **"LLM"** — to be created, no other identifying detail, name too
+  generic to place.
+- **Valhalla Studio** — 50/50 Shane McCarthy/John Fitzgerald, Dormant,
+  31 Aug year-end. John Fitzgerald not previously tracked in
+  `people_map.md`.
+- **VRH Social Media Limited** — Kevin Vaughan as director/secretary
+  (same Kevin Vaughan already tracked as an Intelligence Concierge
+  prospect elsewhere in this file — worth confirming if it's the same
+  person, since no other context ties him to Shane's company group
+  until now).
+- **Equitas Accounts** — matches the already-tracked "Equitas" entity
+  from Shane's 8 Oct work brief and Pat's 13 Oct conditional-entry
+  note; this schedule gives the first named shareholder/director
+  detail (Mureann Gabriel O'Toole, Sarah Ilebert, Gareth Michael
+  Monaghan alongside Shane) — percentages on the scan are not reliably
+  legible, flagged rather than guessed.
+
+**Status:** read and logged, not yet actioned or verified with
+Shane/Pat. The Asterial-status and Noesis-secretary discrepancies in
+particular should go back to Shane/Pat directly rather than being
+assumed resolved by this schedule alone.
+
    **Partial resolution, 28 Sept:** per Shane's private briefing for the
    29 Sept Maynooth meeting (see `childen.md`), **SanCelvio is confirmed
    as the intended home of Childen and prospective contracting entity**,
