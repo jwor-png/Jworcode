@@ -1056,6 +1056,126 @@ not yet taken to Irish corporate counsel. Directly feeds tasks 1-3 and
 back to Shane as the "share-rights issues" and "terms that match
 intention" outputs task 2 calls for.
 
+### Pat Carroll exchange, 9-16 Oct 2026 — full sequencing plan now in hand, and new entities surfaced
+
+**This is the real, live counterpart to the ChatGPT constitution brief
+above** — Pat Carroll's actual plan for the Noesis group, materially
+more detailed than anything logged from him before.
+
+**9 Oct — John's opening ask** (already logged above): confirm each
+company's legal name/status and current constitution, flagging that
+John and Shane are redesigning the constitution for the AI-native
+companies using a new framework.
+
+**13 Oct, 16:04 — Pat's detailed reply, the substantive new content:**
+- **Asks John directly about his legal background**, since Shane
+  mentioned John was "a practising solicitor for at least 25 years" —
+  wants to know if John's experience is mainly commercial, IP, or
+  company secretarial, to calibrate the division of labour.
+- **No external solicitor currently engaged for the group.** Pat has
+  one IP-specialist solicitor in mind, not a top-10 Dublin firm —
+  explicitly flags he's unsure if that's the right fit "for where the
+  group is now heading" (i.e. investment fundraising-grade legal work)
+  and wants John's view.
+- **Timing admission:** these steps have been discussed with Shane for
+  "approximately the last three years" — Shane only gave the green
+  light to actually proceed **4-6 weeks ago** (i.e. roughly early-mid
+  September 2026). Pat's own view: ideally this would have been done
+  three years ago.
+- **Tax sequencing is driving the whole plan.** CAT and CGT exposure
+  is why Noesis Ltd must be dealt with first: shareholders go into
+  Noesis while it "has no bank account, has never traded, and has no
+  assets or liabilities" — doing it at that point can avoid CAT/CGT,
+  though **Pat explicitly flags this is not guaranteed** ("Revenue can
+  look at all of this and note the short time periods involved and
+  take a different view"). Only after shareholders are in place does
+  Noesis purchase the shares in each dormant company to bring them
+  under the holding structure.
+- **"Grassroots" — a new entity, not previously tracked.** Pat is
+  explicit: "Grassroots needs to remain entirely outside this exercise
+  under any guise." It will do its own thing separately and then be
+  wound up by creditors' liquidation, with its balance sheet kept
+  under €150 individually and in total — kept deliberately separate
+  from Noesis so its liquidation doesn't touch the new group. **Needs
+  a `people_map.md`/dossier entry of its own once more is known — not
+  yet established what Grassroots actually is or does.**
+- **Equitas — conditional on two things, not yet resolved:** (1)
+  whether Shane has actually spoken to Equitas's other shareholders
+  about bringing it into the Noesis group, and (2) Equitas's
+  bookkeeping needs to be brought fully up to date. Pat will frame a
+  short set of questions for Shane once the company schedule is done,
+  and the answers decide whether Equitas comes in or stays out —
+  resolves the "not yet identified" flag on Equitas from the 8 Oct
+  work-brief entry above, at least as to how the decision will be made
+  (not yet the decision itself).
+- **Dormant companies, once under Noesis**, get worked through
+  one-by-one on: what each will actually do, whether its constitution
+  should change, when its bank account opens, and what IP is intended
+  to sit in or be developed through it — i.e. legal/banking/IP
+  structure follows commercial purpose per company, not the reverse.
+- **Agreements register — Pat's stated top priority right now.**
+  Every agreement Shane has with anyone, signed, unsigned, email-only
+  or purely verbal, needs capturing: one-page summary per agreement
+  (what it's about, the critical document/email, Shane's obligations,
+  the other party's obligations, who the other party actually is,
+  copy attached where one exists). **Pat explicitly asks that either
+  John or Tom own this** — direct match to task 7/8 of Shane's work
+  brief (money governance, IP/due-diligence traceability) and now a
+  concrete, Pat-originated deliverable rather than just Cuan's own
+  reading of the brief.
+- **Pat is separately redrafting the Noesis constitution and
+  shareholders' agreement himself**, and explicitly asks to combine
+  that with John/Shane's own AI-native constitutional framework rather
+  than duplicate — "I can deal with the structure, shareholders, tax
+  sequencing and commercial points from my side, and I would value
+  your input on the legal mechanics and drafting." This is the
+  practical merge point for the ChatGPT constitution brief logged
+  above — it should go to Pat directly, not sit as a standalone Cuan
+  output.
+
+**13 Oct, 16:42 — John's holding reply:** thanked Pat, said he'd
+revert the next day. (Actual revert came 16 Oct, below — a two-day
+gap, not same-day as said.)
+
+**16 Oct, 09:37 — John's substantive reply to Pat, just sent:**
+confirms directly to Pat that John hasn't practised law in some years,
+having moved into other businesses — specifically his UHL role as
+**Board Director and Chair of the Group Audit and Risk Committee**.
+States his legal practice experience "would have incorporated all you
+have mentioned at various stages," plus first-hand experience through
+his own business interests. Asks Pat directly who the IP solicitor is,
+and flags the obvious point back: that solicitor may not be the right
+fit for the investment-fundraising-grade legal work, but that's
+secondary to what needs doing now. Confirms Noesis Ltd itself is
+already actioned per Pat's account. Says he's looking forward to
+receiving the documents.
+
+**16 Oct, 10:29 — Pat delivers, same morning:** forwarded a scanned
+PDF ("CamScanner 16-10-2026 10.17.pdf") containing **the actual
+standard constitution the group has been using** (described by Pat as
+the "normal" one, taken from a dormant company) **and a one-page
+company listing showing existing and "to be" companies.** This is the
+real version of the "one standard constitution" John asked for on 9
+Oct — **not yet read into Cuan; the PDF would need pulling in
+separately (same attachment-access pattern as other Gmail PDFs this
+session) before its contents can be logged or compared against the
+ChatGPT constitution brief above.**
+
+**Open items, not yet resolved:**
+1. Pat's question on John's legal background (commercial/IP/
+   company-secretarial mix) — John's 16 Oct reply describes his
+   experience generally but doesn't give Pat the direct breakdown
+   asked for.
+2. Who the IP solicitor actually is — not yet named in anything John
+   has received.
+3. Grassroots — identity/purpose still unknown, flagged for
+   `people_map.md`/dossier follow-up.
+4. The agreements register (Pat's top priority) — not yet started by
+   John or Tom as far as this correspondence shows.
+5. The actual constitution PDF and company-schedule PDF, just
+   received, not yet reviewed against the ChatGPT brief or logged in
+   detail.
+
    **Partial resolution, 28 Sept:** per Shane's private briefing for the
    29 Sept Maynooth meeting (see `childen.md`), **SanCelvio is confirmed
    as the intended home of Childen and prospective contracting entity**,
