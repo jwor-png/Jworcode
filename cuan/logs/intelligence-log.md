@@ -23,6 +23,33 @@ One entry per session. Format is fixed — both systems write to this file.
 
 <!-- ENTRIES BEGIN BELOW — newest first -->
 
+### [2026-10-17] [Cuan → Meridian] [REPORTED]
+**Source:** Cuan (standing rule, no live Meridian session)
+**Domain(s):** AI Strategy & Governance / Ideas & Opportunities
+**Summary:** John shared a photo of an Irish Times "Cantillon" business
+comment page. Lead item: Irish AI ecosystem investment at a record in
+2025 (182 deals per Pitchbook, €256m invested this year, near-€1bn
+cumulative), run the same week as the International AI Summit and its
+data-centre protests (links to the already-logged McGrath Summit
+keynote piece). Counterpoint: a CWU-hosted event (Christopher Paye,
+Stepstone Group) and a cited Q2 2026 stat (16% decline in entry-level
+hiring in AI-exposed occupations) both flag a narrowing entry-level
+skills pipeline as the cost side of the AI investment boom — Pitchbook's
+own report raises the same risk for AI firms specifically. Companion
+item on the same page (unrelated domain): Outsurance data showing Irish
+homeowners underinsured on rebuild cost by ~€83k on average — general
+household-risk reference, no venture tie.
+**Outputs:** `market_intel_cantillon_ai_ecosystem_insurance_oct2026.md`
+**Open loops:** Clipping was photographed at an angle; the Wayflyer/
+Series C funding-comparator figures (€162m/€121m/€20.1m) are not
+cleanly attributable to named companies from the image and should be
+verified against the original article before being quoted externally.
+Same caveat on the "almost €1bn invested" framing/baseline.
+**Ventures touched:** Meridian (AI Strategy & Governance domain) —
+reinforces the existing Oct 2026 Irish AI-policy news cluster (McGrath
+Summit keynote, TUD governance conference, Weckler doom/no-doom survey).
+**Pushed to Google Drive:** No
+
 ### [2026-09-19] [Cuan → Meridian] [REPORTED]
 **Source:** Cuan (standing rule, no live Meridian session)
 **Domain(s):** Legal & Governance
