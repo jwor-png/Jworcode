@@ -23,6 +23,30 @@ One entry per session. Format is fixed — both systems write to this file.
 
 <!-- ENTRIES BEGIN BELOW — newest first -->
 
+### [2026-10-18] [Cuan → Meridian] [REPORTED]
+**Source:** Cuan (standing rule, no live Meridian session)
+**Domain(s):** Commercial & Board Roles / Ideas & Opportunities
+**Summary:** John shared a screenshot of the Renatus Weekly M&A
+newsletter — Musgrave Group PLC has agreed to acquire Steven Nally's
+four-store SuperValu group (Celbridge, Maynooth x2, Dunboyne), subject
+to CCPC approval, consideration undisclosed. Renatus's own commentary
+flags this alongside two recent comparables (Musgrave buying Guinan's
+SuperValu Carrick-on-Suir to find it a new independent operator; selling
+Knocklyon to Pettitt's in July) as a live example of how Musgrave actively
+manages the mix of direct vs independent ownership within the SuperValu
+network, despite independent ownership being core to its stated identity.
+Logged as a directly relevant precedent/case study for the still-open
+Meridian → UHL "Specialist Affiliate Group" buying-group brief (paint/
+decorating independent buying group concept sent to Paul Candon 2 Sept,
+awaiting his reply on a feasibility project).
+**Outputs:** `market_intel_musgrave_supervalu_acquisition_oct2026.md`
+**Open loops:** Deal consideration and CCPC approval status not yet
+public — don't quote financial terms. No action taken; purely reference
+for if/when the UHL buying-group conversation with Paul Candon moves.
+**Ventures touched:** UHL (Specialist Affiliate Group brief), Meridian
+(Commercial & Board Roles domain).
+**Pushed to Google Drive:** No
+
 ### [2026-10-17] [Cuan → Meridian] [REPORTED]
 **Source:** Cuan (standing rule, no live Meridian session)
 **Domain(s):** AI Strategy & Governance / Ideas & Opportunities
