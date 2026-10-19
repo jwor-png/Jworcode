@@ -4912,6 +4912,65 @@ run proper visitor surveys with city-centre footfall and demographic
 splits. Not yet actioned; no note sent to Shane per John's instruction
 (discussion is live, in-room).
 
+### Corporate structure clarified + new NDA drafted — Reuzel/Rob Wilcox, 19 Oct 2026
+
+**Trigger:** Johnny has a call with **Rob Wilcox** (Reuzel) tomorrow
+evening (20 Oct) and asked John for a quick NDA to send ahead of it.
+Johnny shared the NDA Rob sent him last year as a starting point
+(Reuzel, Inc., a Colorado corporation, vs "StayTrue Ltd," signed Jan
+2026 by Neil Dignam, Ops Director, and Johnny Shanahan, Creative
+Director, both at 53 King St, Manchester M2 4LQ). John read it and
+told Johnny directly it's "not really" still fine — committed to
+drafting a new one.
+
+**Corporate structure clarified in the same WhatsApp exchange, direct
+from Johnny — corrects/sharpens the existing entry above:**
+- **StayTrue Ltd owns Barber Barber Ltd** (not the reverse — John's
+  first guess in the exchange was corrected by Johnny).
+- **"Barber Barber" is a trading name, not one legal entity** — each
+  shop trades under it via its own separate company, e.g. "Calm Down
+  Calm Down Ltd" t/a BarberBarber's Liverpool, "Our Kid MCR Ltd" t/a
+  BarberBarber Manchester.
+- **Barberrepublic.ai Ltd is the actual company that currently owns
+  Barber Republic** — a separate company again from StayTrue/Barber
+  Barber. **Johnny Shanahan is sole director as of now (19 Oct)**;
+  structure will change to include other directors/shareholders later
+  — not yet named or timed.
+- The old Reuzel NDA was between Reuzel and Rob Wilcox personally on
+  one side, and StayTrue Ltd (not Barberrepublic.ai Ltd) on the other
+  — confirmed by Johnny ("Rob himself").
+
+**New NDA drafted by Cuan, sent to John for Johnny's review before
+tomorrow's call** (file: `barber-republic-nda-draft.md`, not committed
+to this repo — sent directly to John):
+- Parties: **Barberrepublic.ai Ltd** (53 King Street, Manchester, M2
+  4LQ — company number deliberately left blank, not yet known) and
+  **Rob Wilcox personally** (not Reuzel, Inc. — John's explicit
+  instruction, same Denver mailing address from the original template).
+- Made **mutual** rather than one-directional (the original only
+  protected Reuzel's disclosures) since this is now a two-way
+  partner/investor conversation.
+- **Governing law switched to England & Wales** (Barberrepublic.ai Ltd
+  is the UK party) from the original's Colorado.
+- **Term shortened to 2 years** from the original's 5 — a sensible
+  default for a first-conversation NDA, not a signed deal.
+- Clause 9 explicitly supersedes the earlier Reuzel/StayTrue NDA.
+- **Open items before sending:** Barberrepublic.ai Ltd's company
+  number (left blank, Johnny/John to fill in if needed), and whoever
+  actually signs needs to be confirmed — currently blank signature
+  fields.
+
+**Side item, same exchange, not yet actioned:** John suggested Johnny
+bring **Scott (Davenport)** in for a small 1-2% equity stake given the
+funding/financials effort he'd put in — Johnny had a brief chat, Scott
+"open to a conversation." Scott is currently away (China/cruise with
+his wife, their anniversary) — Johnny to speak to **Neil Dignam**
+tomorrow about stepping up on funding/financials in the meantime,
+since "it does need to be kicked on." John separately wants Scott's
+surname to connect on LinkedIn ahead of a planned April 2028 trip —
+**confirmed: Scott Davenport**. No equity, role or terms agreed yet —
+logged as a live idea, not a decision.
+
 ---
 
 ## Kilmallock Economic Enterprise Development Ltd (KEDL) / JJ Craft Brewing — new, 9 Sept 2026
