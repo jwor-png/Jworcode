@@ -1350,6 +1350,44 @@ the group generally):
   already existing between them, not a formal check on Shane's
   authority.
 
+### John returns to his desk after a week away, 19 Oct 2026 — Noesis role confirmed as live/participating
+
+**The week:** this day last week (12 Oct) John travelled to Manchester
+with Shane, then spent several days there with Johnny "Baba" Shanahan
+and his colleague Neil Dignam developing and testing Barber Republic
+(cross-reference the already-logged "Manchester trip finalisation," 5
+Oct entry in the Barber Republic section below — this is the trip
+itself having now happened; outcome/detail from the trip itself not
+yet given by John, worth asking). From Thursday (15 Oct) John was at
+the Armada Hotel with Magella for a couple of days, returning Saturday
+(17 Oct) — personal, no venture content. 19 Oct is John's first day
+back at his desk in over a week.
+
+**Noesis update, in John's own words:** in that period his role in
+"the corporate secretarial and what I'd call legal admin for Noesis"
+has developed — he describes himself as **participating in the holding
+company, which will have the other companies within it.** This is
+consistent with, not a change from, everything already tracked above
+(Noesis as the group holding structure; John's evolving Strategic
+Adviser / Company Secretary role) — read as John's own plain-language
+confirmation that the Pat Carroll-led structuring work (7 Oct
+shareholding formalisation, 8 Oct governance mandate, 13/16 Oct
+constitution and company-schedule emails, all logged above) is now
+something he considers himself actively "participating in," not just
+monitoring. **Cross-reference: the 16 Oct Pat Carroll thread (Gmail,
+`Fwd: Noesis group — company status, constitutions, and a new
+governance framework`) is the "copy constitution" and company list
+John refers to here** — Pat confirmed in that email he has "clearly
+actioned Noesis Ltd. as detailed" and is sending the one-page company
+schedule and standard constitution; this matches the CamScanner
+upload already logged in the Constitution design brief entry above
+(16 Oct), so no new document to recover — it's already in this file.
+**Open loop:** John references "the companies that are then being
+incorporated in Noesis" — worth confirming against the existing
+company schedule table above whether this means the known dormant
+companies (Zubelsala, Sancelvio, VRH, Valhalla, "LLM," Tairseach
+Property Ltd, etc.) or genuinely new entities not yet on that list.
+
 **Legal/tax adviser assessment for ODIN holdco structuring, 3 Sept.**
 Two pieces of work: (1) ODIN's group structure ahead of the €20m raise,
 (2) Shane's founder holdco ahead of a future sale. Candidates: **Jerry
