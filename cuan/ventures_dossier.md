@@ -1500,6 +1500,54 @@ since a solicitor can't draft around a principle alone.
 
 **Status:** sent to John for the Shane call; outcome not yet known.
 
+### Structure resolved by John himself — two-tier constitution system, 21 Oct 2026
+
+**John's own answer to the one-constitution-vs-two question above,
+worked out directly, not prompted:** Noesis is the holding company
+that will own all the other companies; Asterial is specifically ODIN's
+company, but there are 9-10+ other companies of the same kind sitting
+under Noesis, each with their own ownership. **Conclusion: a single
+Noesis constitution at the holding-company level, plus a single
+constitution for every other company underneath it, using Asterial as
+the worked pattern — not a literal template stamped across all of
+them.**
+
+**This matches the food-for-thought brief's own stated principle**
+(a constitution only binds its own company under the Companies Act,
+so Noesis-level rules don't automatically govern any subsidiary — each
+needs matching provisions) — John arrived at the same structure
+independently from the brief's underlying logic, not just agreeing
+with Cuan's reading of it.
+
+**Important refinement, flagged by Cuan and accepted by John:**
+"using Asterial as the example" should mean reusing Asterial's
+*pattern and discipline* (a subsidiary constitution matched to that
+company's own specific core asset), not copying Asterial's actual IP/
+ODIN-specific clauses into every other company unchanged — Sancelvio's
+core asset (Childen) isn't the same as ODIN, Equitas's isn't the same
+again. Each subsidiary constitution needs differentiated content, same
+architecture.
+
+**Second-opinion request, same day:** John asked for a revised,
+consolidated version of this structure to run through **Jürgen**
+(Meridian's legal/governance layer) for independent review before
+putting it to Shane (call, morning of 22 Oct) and Pat (in person,
+Friday, at Pat's office). Document produced:
+`jurgen_noesis_review.md` (not committed to this repo — given directly
+to John as copyable text, for him to paste into the Meridian/Jürgen
+thread himself). Covers: the full background, the two-tier structure,
+the differentiation point as the specific item flagged for stress-
+testing, a direct legal-soundness question (is this achievable/
+standard under Irish company law, or is there a less duplicative
+structure with the same protective intent), and the still-open items
+(drafting ownership, IP solicitor, Class A/B percentages, the two
+schedule discrepancies, Friday's shareholder-information content,
+"LLM"/Tairseach Property Ltd purpose).
+
+**Status:** with John to run through Jürgen; Jürgen's response not yet
+known to Cuan — John's own session, separate thread, per the
+multi-thread architecture.
+
 **Legal/tax adviser assessment for ODIN holdco structuring, 3 Sept.**
 Two pieces of work: (1) ODIN's group structure ahead of the €20m raise,
 (2) Shane's founder holdco ahead of a future sale. Candidates: **Jerry
