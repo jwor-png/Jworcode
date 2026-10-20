@@ -110,4 +110,17 @@ Six journalists gave personal reactions, worth holding as qualitative colour rat
 - **Directly relevant to the Golden Generation/entitlements-navigator idea already logged** (`market_intel_over70s_unclaimed_benefits_sept2026.md`, `market_intel_fuel_allowance_household_benefits_sept2026.md`): the Fuel Allowance rise, improved means test, and the new (still-unstructured) Cost of Disability payment all add fresh, concrete detail an entitlements-navigation product would need to track and keep current — reinforces that this is a genuinely moving target requiring an actively maintained tool, not a one-off guide.
 - **Macro risk point (corporation tax concentration)** sits alongside the Anthropic-IPO-scrutiny thread and the CME compute-futures piece already logged as "AI/tech boom fragility" market intelligence — a different but thematically related national-level concentration-risk argument, worth having on file for Meridian's own AI Strategy & Governance or Investment & AI Equity domain framing.
 
+## Addendum, 21 Oct 2026 — SEAI solar/battery grant update (Limerick Post / Future Power ad)
+
+Separately confirmed via a Future Power Generation Ltd (Limerick solar
+installer) ad citing Budget 2027: **an extra €600 grant toward battery
+storage** (5kWh+), on top of the existing Solar PV grant (€1,800,
+4kWp+) — **combined max support €2,400**. The more significant change:
+**homes built and occupied from 2021 onward were previously NOT
+eligible for solar grant support; post-budget, homes built/occupied
+pre-2025 are now eligible** — a meaningful eligibility widening, not
+just a bigger number. Advertiser-sourced, not independently verified
+against SEAI's own scheme documentation — worth confirming directly
+with SEAI before relying on the exact eligibility cutoff date.
+
 **VERIFIED/REPORTED mix** — government figures (tax thresholds, credits, allocations) and named-minister quotes are VERIFIED as reported by named Irish Independent journalists across the supplement; named advocacy-group and representative-body reactions (ISME, VFI, SVP, Age Action, Alone, IMO, etc.) are REPORTED, direct quotes from named spokespeople, not independently cross-checked against each body's own published statements in this note. KPMG household-verdict figures are explicitly sourced to KPMG's own modelling, credited on each page.
