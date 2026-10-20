@@ -4047,6 +4047,31 @@ Ray/Edel Smyth meeting) went well. Detail to follow from John tomorrow —
 specific vote results, what was agreed at the premises meeting, and
 what came out of the Smyth meeting are not yet known to Cuan.**
 
+### New chapter — "Claim re Northstone," solicitor's letter, 19-20 Oct 2026
+
+**This is the same long-running Smyths of Killucan/Faulkner "rusty
+sand" saga above, not a separate claim** — David Geoghegan forwarded
+John (cc Mark Doherty, Marsh) a letter received 19 Oct from solicitors
+acting for Smiths of Killucan, attaching a further letter from
+solicitors acting for their own customer (Faulkner). John replied the
+same day asking David who AHL's own solicitors are, so he could pass
+the letter on.
+
+**Resolved, 20 Oct — David's reply:** AHL's solicitors are
+**Addleshaw Goddard**, to be reached via **Lorna Osborne**, who will
+direct it to the right person internally.
+
+**John's response, same day:** he'll email Addleshaw Goddard/Lorna
+Osborne **tomorrow (21 Oct)** with a broad outline of the matter, to
+formally come on record for AHL. John flagged one of the drivers
+behind the solicitors' letters is the **statutory response
+period** — message cut off mid-sentence in the snippet captured, full
+reasoning not yet in hand, worth confirming directly with John what he
+meant before relying on the detail.
+
+**Open action:** the 21 Oct email to Addleshaw Goddard is now the live
+next step — not yet drafted or sent as of this logging.
+
 ### June 2026 management accounts (AHL Board agenda item 2, 23 Sept)
 Board asked to formally accept the June 2026 management accounts
 (August accounts not yet available, to follow separately). **Net
