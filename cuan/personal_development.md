@@ -1192,3 +1192,19 @@ unnamed support-group member's story; the person, the diagnosis
 details and the exact quotes are not independently checkable. Useful
 as a resonant framework, not as a sourced case study.
 
+---
+
+## "Five simple reminders" — desk calendar, 20 October 2026
+
+**Source:** June Curtin (Snámhaí Sásta — "Happy Swimmer," Irish), a
+spiral desk calendar quote card, photographed by John 21 Oct 2026.
+
+> Five simple reminders: Be kind. Don't judge people. Appreciate the
+> good people in your life. Nobody has the perfect life. Be kind.
+
+**Cross-reference:** sits alongside the other short, repeatable-mantra
+material already in this file — plain, not analysed to death, in
+keeping with the file's own stated purpose (identifying what genuinely
+resonates, not just collecting quotations). No further commentary
+added; logged as-is.
+

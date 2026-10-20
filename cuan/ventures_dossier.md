@@ -5506,6 +5506,21 @@ run proper visitor surveys with city-centre footfall and demographic
 splits. Not yet actioned; no note sent to Shane per John's instruction
 (discussion is live, in-room).
 
+### "53 King Street" identified — a serviced office address, 21 Oct 2026
+
+**John shared a flyer for "The Offices" (the-offices.co.uk), a
+coworking/serviced-office provider, address 53 King Street,
+Manchester, M2 4LQ** — the exact address used across every variant of
+Johnny's entities (StayTrue Ltd, BarberBarber Limited,
+Barberrepublic.ai Ltd, the Reuzel NDA signatories). **Resolves a minor
+open question, not previously flagged as urgent:** this is almost
+certainly a registered-office/serviced-office address, not Johnny's
+actual physical base of operations — explains why multiple distinct
+entities share the one address without implying anything about where
+the business is actually run day to day. No action needed; logged for
+completeness given the address has appeared repeatedly across this
+Barber Republic thread.
+
 ### Corporate structure clarified + new NDA drafted — Reuzel/Rob Wilcox, 19 Oct 2026
 
 **Trigger:** Johnny has a call with **Rob Wilcox** (Reuzel) tomorrow

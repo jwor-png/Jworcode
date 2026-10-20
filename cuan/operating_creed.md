@@ -903,6 +903,21 @@ are flagged for confirmation, never guessed.
   now confirmed for **7 October, 9.30am**. No separate chase needed;
   the referral letter should follow once the bloods are done and
   reviewed.
+- **Blood pressure — John researching medication-increase question, 21
+  Oct 2026.** Screenshot shared of an AI search result on why blood
+  pressure might rise or stay high after a medication dose increase —
+  general causes listed (resistant hypertension/dose not yet adequate,
+  external triggers like diet/stress/sleep, drug interactions incl.
+  NSAIDs/decongestants, underlying conditions e.g. thyroid/kidney/sleep
+  apnea, timing/measurement issues). **No diagnosis or John-specific
+  detail given — this reads as John researching his own situation,
+  not a confirmed finding.** Directly relevant to the cardiologist
+  thread above (Dr Ali Aldujeli, Bon Secours Limerick) — the 7 Oct
+  bloods should be back by now; worth checking whether this BP
+  question has actually been raised with Dr Sonya Ryan (GP) or is
+  waiting for the cardiology referral to progress. **Not medical
+  advice from Cuan — flagged for John to raise directly with his GP/
+  cardiologist, not actioned or interpreted further here.**
 - **Family travel (dictated 21 August, Friday)** — travelling after lunch to
   drop mother-in-law Helen to her daughter Shirley in Mallow. Wife Majella
   travelling too.

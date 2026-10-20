@@ -23,6 +23,24 @@ One entry per session. Format is fixed — both systems write to this file.
 
 <!-- ENTRIES BEGIN BELOW — newest first -->
 
+### [2026-10-21] [Cuan → Meridian] [REPORTED]
+**Source:** Cuan (standing rule, no live Meridian session)
+**Domain(s):** AI Strategy & Governance / Property & Development
+**Summary:** John shared a social-media post (Ryan Hart/
+ConstructionTrends.co, via Threads) reporting a €1.6bn data centre
+("Art Data Centres Ennis Campus") approved for a 145-acre site near
+Ennis, Co. Clare — six 200,000 sq ft halls, ~200MW capacity,
+construction from 2027. Secondary source, figures not independently
+verified. Logged as the largest single project figure in the existing
+Irish data-centre/AI-infrastructure thread, relevant to Tairseach's
+data-centre-land vertical and Meridian's infrastructure positioning.
+**Outputs:** `market_intel_ennis_data_centre_oct2026.md`
+**Open loops:** Verify against a primary source (ABP/Clare CoCo)
+before citing the €1.6bn/200MW figures externally; check whether
+Ennis/Clare falls inside Tairseach's existing site coverage.
+**Ventures touched:** Tairseach, Meridian (AI Strategy & Governance).
+**Pushed to Google Drive:** No
+
 ### [2026-10-18] [Cuan → Meridian] [REPORTED]
 **Source:** Cuan (standing rule, no live Meridian session)
 **Domain(s):** Commercial & Board Roles / Ideas & Opportunities
