@@ -1456,6 +1456,50 @@ what was actually given to Pat, next time they speak.
   Family — same pattern recurring, John naming it himself rather than
   it being inferred.
 
+### Noesis one-pager produced — gaps + priority order for Shane, 21 Oct 2026
+
+**Trigger:** ahead of a call with Shane (morning, before Friday's
+in-person meeting at Pat's), John asked Cuan to synthesise everything
+known on Noesis into a one-pager: gaps identified, and a priority order
+of what to agree with Shane first, before going to Pat. John's own
+framing, new and important: **Pat's own understanding is that John and
+Shane will produce the actual bespoke constitution themselves** — Pat's
+sent template is explicitly "clearly not acceptable" (John's words),
+just a generic Companies Act 2014 boilerplate.
+
+**Gaps identified** (full detail in the one-pager, sent directly to
+John as `Noesis_OnePager_Shane_21Oct2026.docx`, not committed to this
+repo):
+1. Pat's constitution is a template, not a draft — the actual
+   bespoke document is John/Shane's job, per Pat's own understanding.
+2. Nothing has actually been drafted yet — the food-for-thought brief
+   is a design spec, not legal text.
+3. IP solicitor still unnamed — blocks Shane's own task 8.
+4. **One constitution or two — not yet settled, a new ambiguity
+   surfaced by this exercise:** Pat's 9 Oct question implied a single
+   template across the AI companies; the food-for-thought brief is
+   written as two separate constitutions (Noesis/Asterial); John's own
+   latest framing ("a draft constitution for an AI company," singular)
+   suggests he may currently be thinking of it as one — needs settling
+   with Shane before drafting starts.
+5. The two standing discrepancies (Asterial dormant status, Noesis
+   secretary) — still open.
+6. Friday's shareholder-information call outcome — still not shared
+   with John.
+7. No agreed drafting owner/process between John and Shane.
+
+**Recommended priority order for the Shane call** (full reasoning in
+the doc): (1) settle one-constitution-vs-two scope first — it changes
+everything downstream; (2) agree who drafts/reviews/executes — proposed
+shape: John writes the first pass from the food-for-thought brief,
+Shane signs off economics/control, the IP solicitor formally drafts;
+(3) name the IP solicitor; (4) get the Friday shareholder information
+from Shane directly; (5) resolve the two discrepancies; (6) put actual
+percentages/votes on the Class A/B "founder control" design principle,
+since a solicitor can't draft around a principle alone.
+
+**Status:** sent to John for the Shane call; outcome not yet known.
+
 **Legal/tax adviser assessment for ODIN holdco structuring, 3 Sept.**
 Two pieces of work: (1) ODIN's group structure ahead of the €20m raise,
 (2) Shane's founder holdco ahead of a future sale. Candidates: **Jerry
