@@ -2545,6 +2545,29 @@ sender as unverified/fraudulent until proven otherwise.** Not
 independently actioned by Cuan beyond logging — this is a heads-up for
 John to pass on, not something to respond to on anyone's behalf.
 
+## Archbishop Eamon Martin — public activity, 19 Oct 2026
+
+**Background awareness only, no action needed.** Irish Independent
+news piece (Sarah Mac Donald, 19 Oct): Archbishop Eamon Martin spoke
+at the National Synodal Assembly (Gormanston, Co. Meath, ~300
+delegates, culmination of a five-year synodal journey) expressing
+concern over women "being murdered in their homes" and describing
+marriage and the family as "extremely fragile at the moment." Also
+covered: synod voting results on women's ministry proposals — 27% of
+delegates recommended further discernment on the diaconate, 42%
+recommended no further consideration, with notably low support (12%)
+for the diaconate option specifically; bishops will meet this week to
+reflect on the Assembly's outcomes. Also flagged: the archdiocese's
+upcoming 2027 bicentenary of Catholic Emancipation and 2032 arrival of
+the Eucharistic Congress to Ireland as significant horizon events Dr
+Martin referenced.
+
+**Relevance:** no direct Childen content, but useful to know what
+Archbishop Martin is publicly prioritising and signalling right now
+(family fragility, domestic violence, synodal reform pace) ahead of
+any further Childen/Vatican engagement — consistent tone with his own
+framing at the 29 Sept Maynooth meeting.
+
 ## Cross-reference
 
 This fills in real detail behind the already-logged 29 Sept Maynooth meeting outcome ("went well," full download still pending) — it's the actual prepared material and talking points Shane walked in with, not just the outcome. The **Seanchaí** healthy-ageing system is worth cross-referencing against Golden Generation and the family care/eldercare thread already building in Cuan (`family_care_carers_allowance.md`, the Tadhg Daly and Burnham/Cavendish social care pieces) — a genuinely adjacent Shane-built system worth being aware of if that thesis develops further. Worth confirming with Shane whether Panel_Questions.pdf and the three demo systems (Continuity/Famora/Seanchaí) are documented anywhere else in Cuan, since they haven't been seen before this email.

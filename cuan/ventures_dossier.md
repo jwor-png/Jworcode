@@ -6480,6 +6480,14 @@ before liquidation).
   unknown, to be added once known. Nothing decided yet on whether John
   accepts the board seat — logged as a live, interesting opportunity,
   not a commitment.
+- **Cross-reference, 21 Oct 2026:** same week, John shared a market-
+  intel piece on Vanessa Mooney's "Someone Like Me" cancer-support app
+  (`market_intel_someone_like_me_cancer_app_oct2026.md`) — a free,
+  AI-moderated peer-support app for cancer patients/survivors/
+  families, now piloting with St Vincent's Hospital. Not assumed
+  directly relevant to the Foundation's own remit without knowing more
+  about what they actually do, but a genuinely good comparable to have
+  in mind walking into tomorrow's meeting.
 
 ## Tangible Ireland Group
 - **Status:** Active — 2026 Summer School held 18-20 Aug in Kilmallock,
