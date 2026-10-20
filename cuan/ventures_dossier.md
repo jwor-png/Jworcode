@@ -2686,6 +2686,13 @@ separate, simpler post from the numbered "Decision Brief" series below**
 status check if relevant.
 
 ### Meridian LinkedIn Launch Series
+**Post 02 — "Decision Brief" — CONFIRMED POSTED, 21 Oct 2026** (John
+directly). **Going forward, John's LinkedIn post development happens
+via the separate Meridian thread, not here** — Cuan's own LinkedIn
+drafts in `meridian/launch/` are historical record only; any further
+post work should be picked up from Meridian directly, not duplicated
+in this session.
+
 Content committed to `meridian/launch/` — profile positioning, a launch
 weekend pack (31 July 2026), and a numbered post series. **Post 02 —
 "Decision Brief"** (2,390 characters, within LinkedIn's 3,000 limit, no
