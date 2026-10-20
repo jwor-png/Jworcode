@@ -2885,6 +2885,19 @@ consolidation pass rather than merged speculatively.
   guidance before any figure is used with an investor. **Status: not
   actioned, logged for John to bring to Jürgen directly.**
 
+- **Ownership split discrepancy, surfaced 21 Oct 2026 — genuinely
+  unresolved, not previously logged with a percentage at all.** John's
+  own prior understanding: a **70/30 split (Shane 70% / John 30%)**.
+  Shane now apparently recalls it as **80/20 (Shane 80% / John 20%)**.
+  **John's own position: he'd be happy with either figure, but it
+  needs clarity** — flagged as open, not yet raised with Shane
+  directly or resolved either way. Worth settling explicitly rather
+  than left ambiguous given Tairseach's live €1.5m raise — an investor
+  will expect a clean cap table, not two different founder recollections
+  of the split. Not necessarily part of tomorrow's 2pm Noesis-constitution
+  call (different venture), but worth raising with Shane opportunistically
+  given they're already speaking.
+
 ---
 
 ## Velocity AI
