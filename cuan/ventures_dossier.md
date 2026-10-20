@@ -7022,6 +7022,32 @@ the Noesis governance work (the Mistakes Ledger's categories read as
 exactly the kind of accountable-AI discipline the Asterial human-
 authority-over-AI clause is trying to formalise constitutionally).
 
+**Two further screenshots, same batch — workflow architecture directly
+mirroring the Noesis governance design:**
+- **First workflow:** 29m39s, 4 agents, 1.6M tokens, phases **Read →
+  Reconcile (Opus 5.5 x2) → Gate (Sonnet 5.5 x2, both passed) → Verify
+  (not started) → Oversight (not started)**. Shane's own caption:
+  **"Governance, verification and reconciling = Defensibility."** This
+  is Shane stating, in his own words, the exact principle behind the
+  human-authority-over-AI constitutional clause already in the Noesis/
+  Asterial design — worth quoting directly back to him given it's his
+  own phrase, not Cuan's or Jürgen's.
+- **Second workflow, named "ip-run-v4":** 28m04s, **25 agents, 4.9M
+  tokens**, same Read/Reconcile/Gate/Verify phase structure, Gate at
+  8/9 and Verify at 3/16 when captured. **Worth flagging directly,
+  not assumed coincidental: this workflow's name ("ip-run-v4") lands
+  the same week as the open question from today's Noesis work about
+  whether the ODIN IP assignment to Asterial has actually been
+  completed.** Not claiming they're the same thing — genuinely don't
+  know what this workflow does — but the name is close enough to be
+  worth asking Shane directly what "ip-run-v4" actually is, given how
+  central the IP assignment question is to the whole constitution
+  design right now.
+- Third screenshot (Claude.ai's "Reflect" settings feature, Shane
+  showing it off with "Wednesday, most active day") — no action, just
+  confirms Shane uses Claude.ai directly himself, not only via API/
+  Claude Code.
+
 ## Personal — mobile phone account (7 Sept 2026, updated 9 Sept)
 - John paid his monthly bill with **[ASK — heard as "four to four,"
   provider name unclear]** and logged into their website to check
