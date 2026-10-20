@@ -131,6 +131,22 @@ Built on Covey's Habit 3 (Quadrant II — schedule what's important before the
 urgent fills the week) applied across the six disciplines, the 8 revenue
 streams, and Life Balance.
 
+**All Seven Habits, extended 21 Oct 2026 — John shared Covey's full
+framework and asked for it applied across Noesis and this Creed so the
+whole operation runs as "a well-oiled machine."** Full mapping in
+`Seven_Habits_Noesis_Creed_21Oct2026.docx` (not committed, sent
+directly to John). Condensed into one daily test, worth applying to
+any Noesis decision or any day's priorities, not just recalling the
+seven labels: **have I chosen this deliberately (1); do I know what it
+has to still be true later (2); have I protected the time for it
+before it became urgent (3); does it work for everyone it touches (4);
+did I actually understand the position before I recommended anything
+(5); did I use more than one source before relying on an answer (6);
+and is there anything left of me afterward to do it again tomorrow
+(7).** That last one is specifically Protect My Health and Family —
+worth checking honestly when "discipline has waned" surfaces again,
+rather than assuming it's always a Quadrant II/time-management problem.
+
 **Four scheduled sends — LIVE as of this session, modelled on Shane's own
 cadence (morning open, evening report, Sunday week-ahead):**
 - **6:12am daily** — full Operating Creed emailed to jwebborourke@gmail.com
