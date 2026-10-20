@@ -23,6 +23,26 @@ One entry per session. Format is fixed — both systems write to this file.
 
 <!-- ENTRIES BEGIN BELOW — newest first -->
 
+### [2026-10-22] [Cuan → Meridian] [REPORTED]
+**Source:** Cuan (standing rule, no live Meridian session)
+**Domain(s):** AI Strategy & Governance / Property
+**Summary:** John shared a five-image batch (two Rolex/Harrods
+advertisement pages skipped as pure consumer advertising). Logged: (1)
+OpenAI's 88,000+ sq ft Tropical Fruit Warehouse lease was Dublin's
+largest Q3 2026 office transaction, driving the citywide vacancy rate
+down to 13.4% — hard transactional confirmation of the AI-native-
+occupiers take-up trend already logged (CBRE/Anthropic pieces); (2) a
+brief, low-priority pair — a pension-in-your-twenties Q&A (general
+reference, companion to already-logged pension material) and a weekly
+property-jobs listing, notable only for EirGrid hiring a Head of Land
+Management, tangential context for the grid-connection-pause thread
+already on file.
+**Outputs:** `market_intel_openai_dublin_office_vacancy_oct2026.md`,
+`market_intel_pension_twenties_property_jobs_oct2026.md` (both new).
+**Open loops:** None requiring action.
+**Ventures touched:** Tairseach, Meridian (AI Strategy & Governance).
+**Pushed to Google Drive:** No
+
 ### [2026-10-21] [Cuan → Meridian] [REPORTED]
 **Source:** Cuan (standing rule, no live Meridian session)
 **Domain(s):** AI Strategy & Governance
