@@ -25,6 +25,34 @@ One entry per session. Format is fixed — both systems write to this file.
 
 ### [2026-10-21] [Cuan → Meridian] [REPORTED]
 **Source:** Cuan (standing rule, no live Meridian session)
+**Domain(s):** AI Strategy & Governance
+**Summary:** John shared a five-image batch from the Business Post's
+International AI Summit (Dublin) coverage. Two items logged: (1) the
+seventh piece in Cuan's ongoing Anthropic-scrutiny thread — Guillaume
+Princen (Anthropic head of EMEA) confirms the Dublin office search for
+up to 1,000 staff on record, frames safety as "the DNA of the company"
+rather than OpenAI rivalry, and new precise figures: Bloomberg reports
+Anthropic set to begin formally marketing an IPO as soon as the week of
+9 Nov 2026, Q3 revenue told to investors as $16.8bn, fair-value
+estimates of $1.8-2tn; (2) the summit itself — Hassabis/Virkkunen/
+Smith/Taoiseach coverage, a non-binding EU member-state AI declaration,
+three citable national stats (63% of Irish employees exposed to AI, 30%
+at risk of substitution, 83% of small Irish firms with no AI
+integration), and a sharply critical framing from both the Business
+Post's own columnist (Charlie Taylor — "more innovation theatre than
+substance," near-total absence of European/Irish companies on stage)
+and Synthesia's Alexandru Voica ("Europe does not have an AI values
+problem, it has an AI competitiveness problem").
+**Outputs:** `market_intel_anthropic_ipo_dublin_rivalry_oct2026.md`,
+`market_intel_international_ai_summit_dublin_oct2026.md` (both new).
+**Open loops:** The $47bn run-rate figure cited in the Anthropic piece
+is notably inconsistent with its other revenue figures and is flagged,
+not treated as confirmed, pending independent verification.
+**Ventures touched:** Meridian (AI Strategy & Governance domain).
+**Pushed to Google Drive:** No
+
+### [2026-10-21] [Cuan → Meridian] [REPORTED]
+**Source:** Cuan (standing rule, no live Meridian session)
 **Domain(s):** AI Strategy & Governance / Property & Development / Commercial & Board Roles
 **Summary:** John shared a five-image batch from the 18 Oct Business Post
 edition. Four items logged: (1) a companion piece to the already-filed
