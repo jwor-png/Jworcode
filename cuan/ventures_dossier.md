@@ -3947,6 +3947,19 @@ rules, not facts about AHL Plc.
 3. Monthly invoice becomes a standing Cuan task on the 9th/10th of each
    month, prepared for John's review and send.
 
+### Sean Burton (Kanturk) — AGM pack sent, 20 Oct 2026 — CLOSED
+
+Outstanding since the 1 Oct reminder ("send post-AGM details to Sean
+Burton and Ken Turk" — **"Ken Turk" confirmed a mishearing of "in
+Kanturk," one person not two**). Sean's email (seanburton55@gmail.com)
+had been sitting in a text from **Timothy Cahill — confirmed 20 Oct as
+Majella's brother**, not just the existing UHL-member-store contact
+(`people_map.md` updated accordingly). Email sent 20 Oct: full AGM
+pack forwarded (Notice of Meeting, Proxy Form, 2025 AGM Minutes,
+Audited FY2025 Accounts, Active Member letter) — same pack already
+sent to Dominic/Ulster Builders Providers 22 Sept. **Closed out**, well
+inside John's own end-of-week deadline.
+
 ---
 
 ## Julianstown Old Mill
