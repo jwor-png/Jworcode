@@ -1226,3 +1226,20 @@ as a recurring theme John keeps returning to (valuing others' judgment
 of him over his own), rather than a one-off quote. No further
 commentary added; logged as-is.
 
+---
+
+## "We are not given a good life or a bad life" — desk calendar, 19 October 2026
+
+**Source:** Snámhaí Sásta desk calendar (same source as "Five simple
+reminders" above), 19th October page, photographed by John 21 Oct
+2026.
+
+> "We are not given a good life or a bad life. We are given a life.
+> It's up to us to make it good or bad." — Unknown
+
+**Cross-reference:** same agency-over-circumstance register as the
+rest of this calendar's material already logged — pairs naturally
+with the "reset, refocus, get back on track" framing in
+`operating_creed.md` and the discipline-waning admission from earlier
+this week. No further commentary added; logged as-is.
+
