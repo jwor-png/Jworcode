@@ -1339,6 +1339,35 @@ are flagged for confirmation, never guessed.
     applicable). **None of these confirmed as relevant to John's actual
     2025 position** — listed for him to check against his own
     circumstances, not assumed to apply.
+
+- **Revenue tax estimate notice — 2024 Income Tax, a separate and
+  earlier gap from the 2025 return above, surfaced 21 Oct 2026.**
+  Notice No. 05022829-28203B, dated 14 Sept 2026, Customer No.
+  5022829C (John's own PPS/tax number). Revenue's records show **no
+  2024 Form 11 return was filed**, so they've issued a default
+  estimate of **€1,000.00** for the period 1 Jan-31 Dec 2024, currently
+  shown as the full balance due. Per the letter itself: filing the
+  actual return displaces the estimate; enforcement action and
+  penalties/interest are possible if left unaddressed, with no further
+  notice given before enforcement starts.
+  - **Key open question, not yet answered: has the 2024 Form 11
+    actually been filed by John's accountant, or is this a genuine
+    gap?** This directly overlaps the already-logged uncertainty above
+    about whether an accountant is handling return preparation across
+    John's various roles (UHL, AHL, KEDL, Webb Sports Horses, Ambrion,
+    Velocity, Meridian) — worth resolving both questions together, not
+    separately.
+  - **Draft holding reply prepared, same day:**
+    `Revenue_2024_Estimate_Reply_Draft.docx` (not committed to this
+    repo, sent directly to John) — two alternative paragraphs
+    depending on the answer above (already filed, awaiting Revenue to
+    reflect it; or not yet filed, confirming it's in progress with a
+    target date). **John intends to reply tomorrow (22 Oct).**
+  - **Not actioned by Cuan:** actually filing the 2024 return needs
+    John's accountant and his real income figures across all roles —
+    outside what Cuan can produce. The reply above only buys time and
+    puts something on record; it doesn't resolve the underlying filing
+    gap if one genuinely exists.
 - **Revolut account security — six settings recommended, 18-19 Sept
   2026, following Revolut's admitted data breach** (see the market intel
   already logged: Revolut handed over sensitive customer data —
