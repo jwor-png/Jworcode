@@ -1430,11 +1430,16 @@ what was actually given to Pat, next time they speak.
   clarify itself."** John's own stated position — not tolerating further
   drift on the shareholder-completion work, which has already slipped
   past Shane's original 6 Oct target (logged above).
-- **Friday meeting confirmed: Shane, John and Tom Stapleton, at Pat
-  Carroll's office.** First known in-person Noesis session involving
-  all three — Tom Stapleton being the colleague from Shane's 8 Oct
-  mandate (personal safety/security/vetting remit), confirming he's
-  genuinely active on this, not just named in the brief.
+- **Correction, 21 Oct — the three-way meeting is "Friday week," not
+  this Friday.** John's original phrasing read as a confirmed Shane/
+  John/Tom Stapleton meeting this Friday at Pat's office; John has now
+  clarified directly: **this Friday (24 Oct) is Shane meeting Pat
+  alone.** The full group meeting (Shane, John and Tom Stapleton
+  together at Pat's office) is **Friday week** — one week after that,
+  not this week. Tom Stapleton remains the colleague from Shane's 8 Oct
+  mandate (personal safety/security/vetting remit); his attendance at
+  the later group meeting still confirms he's genuinely active, not
+  just named in the brief — just not this Friday.
 - **John's own stated purpose, in his words:** to focus on Noesis, "impress
   Pat and impress Shane," and for his own clarity get the structures in
   place — "it'll bring certainty." He wants to view Noesis "from the
@@ -1692,6 +1697,22 @@ alone.
    Tairseach raise already being tracked, and if so, which ownership
    account is actually correct, before it's placed anywhere formally.
 
+   **Resolved by John directly, 21 Oct 2026:** "Tairseach Property
+   Ltd" is confirmed as **the same entity** as the Tairseach already
+   tracked throughout this file — not a naming conflict, a rename/
+   formalisation of the one company. **The "two unrelated holders"
+   detail did originate from John himself** (something he'd mentioned
+   previously regarding EIIS structuring, not an independent Jürgen
+   finding or error) — but John is explicit this **has not been
+   determined yet and needs to be clarified**, and separately, **it
+   may not even be the case that Tairseach pursues EIIS funding at
+   all.** Genuine open tension still worth tracking: Tairseach
+   currently sits on the Noesis group company schedule; if EIIS is
+   later pursued and does require two holders unrelated to Noesis,
+   that would mean moving it structurally outside Noesis's ownership —
+   a live possibility, not a decided plan, and not urgent while EIIS
+   itself remains undecided.
+
 **Corrections/flags for the document before anything formal goes out:**
 - Asterial "holds Shane's personal IP" is self-contradictory — if
   still personal, it hasn't been assigned yet. Get the actual signed
@@ -1735,6 +1756,38 @@ substantially converging on structure (lean two/three-tier system,
 not nine bespoke constitutions) while Jürgen adds the sharper
 parent-override point and catches the Tairseach discrepancy. Ready for
 tomorrow's Shane call and Friday at Pat's.
+
+### Process confirmed, 21 Oct 2026 — correcting the earlier timeline
+
+- **Tomorrow (22 Oct), ~2pm: John and Shane talk** — not "morning" as
+  earlier logged. This is the call the one-pager is being prepared
+  for.
+- **This Friday (24 Oct): Shane meets Pat Carroll alone** — not the
+  three-way John/Shane/Tom Stapleton meeting (corrected above). John
+  will not be in that room.
+- **The actual group meeting (Shane, John, Tom Stapleton together at
+  Pat's office) is Friday week** — a week after this Friday.
+- **John's intended route:** agree the points with Shane on tomorrow's
+  call, then **John emails Pat directly (copying Shane) with whatever
+  they've agreed** — Shane then discusses those points with Pat in
+  person this Friday, ahead of the full group meeting Friday week.
+- **Ask to Cuan:** a one-pager for tomorrow's 2pm Shane call —
+  incorporating current status, what John needs to discuss with Shane
+  for clarity, Cuan's/Meridian's/Jürgen's recommendations, and how
+  those points should then be put to Pat (by email, this week, not
+  waiting for the group meeting).
+
+**One-pager produced, same day:** `Noesis_Shane_Call_22Oct2026.docx`
+(not committed to this repo, sent directly to John) — five sections:
+(1) the confirmed structure, led with the parent-override point; (2)
+three decisions needing Shane's call, not just sign-off (no-dilution
+mechanics, back-door dilution via Asterial, whether Asterial is
+actually inside Noesis yet); (3) facts John needs back from Shane (the
+ODIN IP assignment status, Friday-17-Oct call content, Equitas
+related-party-vs-subsidiary question, Tairseach EIIS status); (4) what
+goes to Pat by email this week once agreed; (5) John's own Class B
+conflict, declared openly rather than left implicit. Status: with John
+for the 2pm call; outcome to follow.
 
 **Legal/tax adviser assessment for ODIN holdco structuring, 3 Sept.**
 Two pieces of work: (1) ODIN's group structure ahead of the €20m raise,
