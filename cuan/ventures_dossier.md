@@ -5513,6 +5513,38 @@ run proper visitor surveys with city-centre footfall and demographic
 splits. Not yet actioned; no note sent to Shane per John's instruction
 (discussion is live, in-room).
 
+### Platform testing update — WhatsApp, 19-21 Oct 2026
+
+**From the "BarberRepublic" WhatsApp group (Johnny Shanahan, Neil
+Dignam, Shane McCarthy, John) — a live testing-phase progress update,
+timestamps internal to the screenshot (just after midnight Mon 19 Oct
+through Tue 20 Oct morning):**
+
+- **Testing window: closes Tuesday 20 October, 5pm UK/Ireland time.**
+  Shared testing access closes then; saved feedback remains available
+  afterward.
+- **Live engagement figures, Wednesday-morning baseline vs "now" (per
+  Shane's own check of the live records), excluding the team's own
+  technical test:**
+  - Barber profiles with responses: 9 → **22**
+  - Shop profiles with responses: 6 → **17**
+  - Feedback submissions (excl. terms acceptances): 71 → **180**
+  - Saved tester voice notes: 1 → **2**
+- **Shane's read:** "solid feedback coming in, both positive and
+  negative — consistency on what is frustrating people, which is
+  good."
+- **Sequence Shane committed to:** draft review **Monday (19 Oct)**,
+  final review **Tuesday (20 Oct)**, **work plan from Wednesday (21
+  Oct) — i.e. today**, per the session date this was logged.
+- **John's reply:** "the engagement is good to see, we need to see
+  what makes it better and stronger and agree best next steps."
+- **Johnny's reply:** "Great stuff, look forward to seeing it."
+
+**Open item:** given the sequence above, **a work plan from Shane
+should now be due/imminent** — worth checking directly whether it's
+landed, since the WhatsApp group is not something Cuan can monitor
+continuously.
+
 ### "53 King Street" identified — a serviced office address, 21 Oct 2026
 
 **John shared a flyer for "The Offices" (the-offices.co.uk), a
