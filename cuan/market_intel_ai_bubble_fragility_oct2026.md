@@ -91,3 +91,51 @@ holding in mind against ODIN's own valuation gap ($20m vs $200m offers
 on the same stake) and against Tairseach's data-centre-land vertical,
 given a genuine IPO/valuation wobble in the exact asset class
 (data-centre infrastructure) both ventures touch.
+
+## 3. "Treasuries head for big weekly gains as AI jitters halt bond rout" (Ian Smith) — the hard numbers behind the same week
+
+**Same story, same week, with the actual market data** that gives
+Katie Martin's and the Firmus pieces above their numbers:
+
+- **US 10-year Treasury yield: 5.13%**, down 0.12 percentage points on
+  the week — one of Treasuries' strongest weekly rallies of the year,
+  reversing a months-long global bond rout that had taken US borrowing
+  costs above 5.3% (their highest since 2002, up from below 4% in late
+  February).
+- **Nasdaq 100 fell 1.6%** in a single session, taking its weekly loss
+  to **4.6%** — chipmakers and "neocloud" companies led declines:
+  **Micron fell 3.8%; CoreWeave's debt sell-off saw losses of more
+  than 10%.**
+- **UK 10-year borrowing costs fell back to 5.38%** (from over 5.5%
+  earlier in the month); **Italian 10-year yields finished the week at
+  4.48%** (down from near 4.75%).
+- **US inflation jumped to 3.7% in September** (Middle Eastern
+  conflict pushing up fuel prices) — traders initially responded by
+  selling bonds further, pricing in up to four Fed rate rises over the
+  coming year, before the move reversed sharply as the sell-off spread
+  into equities and investors snapped back to safe assets.
+- **New Fed chair named: Kevin Warsh** — signalled at an IMF summit in
+  Bangkok that higher-than-expected inflation hadn't changed his
+  rate-path views; futures markets now price only **three** rate
+  increases over the next 12 months.
+- **"Darwin moment" quote**, one unnamed investor on AI-linked
+  borrowers specifically, cited by the piece.
+- **Richard Saldanha (Aviva Investors)**: the upswing in tech stocks
+  "did defy gravity for a period of time," but pressure from higher
+  borrowing costs "was beginning to tell."
+- **Jefferies' Mohit Kumar**: "the move has been driven by investor
+  concerns over the AI cycle and position unwinds."
+
+**Adjacent, same page, not AI-related but worth noting:** a private-
+jet reselling boom — buyers reportedly making millions reselling
+desirable jets shortly after delivery, driven by AI-wealth-linked
+demand outpacing production (Gulfstream G700 waitlists reportedly
+into 2030).
+
+**Cross-reference:** this is the hard-data companion to Katie Martin's
+"dress rehearsal" piece and the Firmus/Australian data-centre IPO
+collapse above — same week, same underlying event, now with actual
+yield/index numbers attached. Confirms **Kevin Warsh as the current
+Fed chair**, a new name not previously logged in Cuan's files — worth
+noting for any future US-rate-sensitive analysis (ODIN's US investor
+conversations, Barber Republic's UK/US funding work).
