@@ -1622,6 +1622,120 @@ filing claim specifically is not confirmed.
 the original document to Jürgen separately, to bring back here once
 received.
 
+### Jürgen's actual review received, 21 Oct 2026 — grounded against the Irish Statute Book
+
+**Verdict: structure is legally sound but more drafting than needed,
+with three gaps that matter more than the duplication question.**
+
+**Correction first — Cuan's own error, caught by Jürgen:** the
+`jurgen_noesis_review.md` document given to John described Asterial as
+holding "Shane's personal IP in ODIN, John's AI platform" — wrong,
+ODIN is **Shane's** platform, not John's. Corrected; John's genuine
+role is Head of Investments / Company Secretary, not platform owner.
+
+**The sharper structural point, beyond Meridian's response above:**
+because Noesis will be the *shareholder* of each subsidiary, **Noesis
+can amend any subsidiary's constitution by special resolution on its
+own** — so a subsidiary constitution only protects against that
+subsidiary's own directors, not against Noesis itself. The real
+protective layer is a **reserved-matters list inside the Noesis
+constitution governing how Noesis votes its subsidiary shares** — not
+just the subsidiary documents themselves.
+
+**Refined structure, leaner even than Meridian's proposal:**
+- Noesis — bespoke (ownership, Class A/B, reserved matters,
+  succession).
+- Asterial — bespoke and investor-grade, since ODIN's IP and the
+  likely investment sit there.
+- **Everyone else — one short master subsidiary constitution with a
+  company-specific schedule** naming each company's core asset and any
+  extra reserved matters, not nine separate bespoke drafts and not
+  even nine copies of a template.
+- Dormant companies with no assets — plain standard constitution, or
+  consider striking off rather than maintaining them at all.
+- Asset protection itself lives mainly in executed IP assignments,
+  licences and intercompany agreements, not in the constitutions.
+
+**Signing authority confirmed correct:** the board is deemed to have
+authority to bind the company to outside parties regardless of
+internal constitutional limits — bank mandates and signing authorities
+are what actually enforce boundaries in practice, not the constitution
+alone.
+
+**Three gaps flagged as more important than the duplication point:**
+1. **No-dilution clashes with raising money unless drafted carefully.**
+   A hard no-dilution rule needs Class B consent for every future
+   round. Worse: class-right variation provisions must be drafted in
+   from day one — without one, class rights can only be varied with
+   unanimous member consent, and inserting a variation clause later is
+   itself treated as a variation requiring the same consent. Holders
+   of 10%+ of a class who didn't consent can apply to court to cancel
+   a variation. Recommendation: convert "no-dilution" into pre-emption
+   rights plus defined protections, not an absolute bar — Shane's
+   decision to make.
+2. **Back-door dilution via Asterial.** If investors subscribe into
+   Asterial directly, Noesis's Class B holders are diluted indirectly
+   and the Noesis constitution as currently conceived doesn't stop it.
+   Needs a Noesis reserved matter covering any share issue by a
+   subsidiary.
+3. **Tairseach naming conflict, flagged for direct verification —
+   Jürgen's description doesn't match Cuan's own existing record.**
+   Jürgen states Tairseach was being explored "as an EIIS company held
+   by two people unconnected to Noesis," and that "Tairseach Property
+   Ltd" appearing on the Noesis schedule may undo that structure.
+   **Cuan's own Tairseach entry (logged separately, well before this
+   session) tracks it as Shane's — "architect and owner of the
+   technology" — with John in an introducer/minority role, not two
+   unconnected third parties.** One of these characterisations is
+   wrong; needs confirming directly with Pat whether "Tairseach
+   Property Ltd" on the group schedule is the same entity as the EIIS
+   Tairseach raise already being tracked, and if so, which ownership
+   account is actually correct, before it's placed anywhere formally.
+
+**Corrections/flags for the document before anything formal goes out:**
+- Asterial "holds Shane's personal IP" is self-contradictory — if
+  still personal, it hasn't been assigned yet. Get the actual signed
+  assignment, and confirm who currently holds Asterial's shares.
+- Equitas described as a related party in Shane's 8 Oct brief but as a
+  subsidiary on Pat's schedule — needs clarifying which it actually is.
+- Secretary shown as Pat on Pat's own schedule — check the CRO record
+  directly; if John's appointment was never actually filed, file it.
+- Asterial shown "Dormant" despite holding/licensing IP — ask Pat
+  directly whether that status is right.
+- **John's 1% needs declaring and minuting formally** — he's designing
+  terms he personally benefits from; same conflict point Meridian
+  raised, reinforced independently by Jürgen.
+- "John first pass" should be framed as **John giving drafting
+  instructions**, with the solicitor doing the actual drafting — not
+  John drafting the legal text himself.
+- Human-authority-over-AI clause: novel, no settled legal precedent.
+  Keep it, but enforce through both a constitutional reserved matter
+  *and* board policy, with solicitor review before relying on it.
+
+**Verification record, as given by Jürgen:**
+- **Verified against the Irish Statute Book directly:** Companies Act
+  2014, ss. 32, 40(1), 88, 89.
+- **Reported, not independently verified:** a Law Society practice
+  note on s.88 problems, noting the former Table A variation
+  regulation wasn't carried into the 2014 Act.
+- **Not relied on:** s.31 (couldn't be opened), and anything on EIIS
+  eligibility specifically.
+- **Confidence:** good on the structural analysis; tax and
+  class-rights drafting both need professional sign-off before use.
+- **Escalation named directly:** class-rights drafting and the AI
+  clause go to the solicitor; EIIS questions go to Pat.
+
+**Jürgen's own offer, not yet answered:** to turn this into a clean
+one-page position paper for tomorrow's Shane call — that's a decision
+for John to make directly with Jürgen in its own thread, not something
+Cuan can answer on his behalf.
+
+**Status:** both Meridian's and Jürgen's reviews now on file,
+substantially converging on structure (lean two/three-tier system,
+not nine bespoke constitutions) while Jürgen adds the sharper
+parent-override point and catches the Tairseach discrepancy. Ready for
+tomorrow's Shane call and Friday at Pat's.
+
 **Legal/tax adviser assessment for ODIN holdco structuring, 3 Sept.**
 Two pieces of work: (1) ODIN's group structure ahead of the €20m raise,
 (2) Shane's founder holdco ahead of a future sale. Candidates: **Jerry
