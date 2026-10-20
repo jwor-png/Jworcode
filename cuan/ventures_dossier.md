@@ -6458,12 +6458,21 @@ before liquidation).
 
 ## Midwestern Cancer Foundation — voluntary board role, new 21 Oct 2026
 - **Status:** Live opportunity, not yet decided. Meeting tomorrow (22
-  Oct) 10:30am-12pm, Mungret, with **Mairead O'Donnell** (Claochlu
-  Consulting — already tracked, see `people_map.md` and the Velocity
-  AI entry above) and **John Lawler** (new contact, no further detail
-  yet). They've suggested John join the Foundation's board of
-  directors on a voluntary basis. **John's own reaction: "very
-  interested."**
+  Oct) 10:30am-12pm, Mungret, with **Mairead O'Donnell** — confirmed
+  21 Oct via her own LinkedIn post as the Foundation's **General
+  Manager since July 2026** (not just a connector; see `people_map.md`
+  for the full update and the still-open question of whether her
+  Claochlu Consulting work continues alongside this) — and **John
+  Lawler** (new contact, no further detail yet). They've suggested
+  John join the Foundation's board of directors on a voluntary basis.
+  **John's own reaction: "very interested."**
+- **Official details, confirmed 21 Oct via the Foundation's own
+  LinkedIn page:** full name **Mid Western Cancer Foundation**, based
+  in Mungret, Limerick; website **mwcf.ie**, phone **061 210979**.
+  Mission, in their own words: "providing free, accessible, and
+  person-centred support services for individuals and families
+  affected by cancer across the Mid-West region" — **Limerick, Clare
+  and Tipperary** specifically. 2-10 employees (small organisation).
 - **Revenue relevance:** Not revenue — voluntary, relationship capital
   and community standing, same category as Tangible Ireland Group
   below. Also sits inside Protect My Health and Family/Build My

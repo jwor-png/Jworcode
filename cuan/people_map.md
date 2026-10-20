@@ -365,6 +365,16 @@
 - **Company:** Claochlu Consulting
 - **Structure:** Stays front-facing to her own clients; Velocity AI provides the AI toolkit architecture behind the scenes
 - **Cuan notes:** Never use the name "Transition Intelligence" in any document that could reach Mairead's clients. On the Tangible Ireland Group distribution list (see `ventures_dossier.md`) — one of several points of overlap between that network and John's existing venture contacts, worth mapping properly. **New, 21 Oct 2026:** involved in suggesting John for a voluntary board seat on the Midwestern Cancer Foundation — meeting 22 Oct, Mungret, alongside John Lawler.
+- **Role confirmed, 21 Oct 2026, via her own LinkedIn post:** **General
+  Manager at Mid Western Cancer Foundation**, in the role "quietly"
+  since **July 2026**, now going public — she's moved back to
+  full-time employment in Limerick after ~20 years based in Cork.
+  **Resolves the ambiguity above: this confirms she's your direct
+  route into the Foundation**, not just a connector to it — makes
+  sense of tomorrow's meeting being set up through her specifically.
+  Not yet confirmed whether Claochlu Consulting work continues
+  alongside this, or whether this full-time role has superseded it —
+  worth a natural check tomorrow rather than assuming either way.
 
 ### John Lawler
 - **[ASK]** New contact, 21 Oct 2026 — meeting John alongside Mairead
