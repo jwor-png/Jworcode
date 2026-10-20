@@ -364,7 +364,12 @@
 ### Mairead O'Donnell
 - **Company:** Claochlu Consulting
 - **Structure:** Stays front-facing to her own clients; Velocity AI provides the AI toolkit architecture behind the scenes
-- **Cuan notes:** Never use the name "Transition Intelligence" in any document that could reach Mairead's clients. On the Tangible Ireland Group distribution list (see `ventures_dossier.md`) — one of several points of overlap between that network and John's existing venture contacts, worth mapping properly.
+- **Cuan notes:** Never use the name "Transition Intelligence" in any document that could reach Mairead's clients. On the Tangible Ireland Group distribution list (see `ventures_dossier.md`) — one of several points of overlap between that network and John's existing venture contacts, worth mapping properly. **New, 21 Oct 2026:** involved in suggesting John for a voluntary board seat on the Midwestern Cancer Foundation — meeting 22 Oct, Mungret, alongside John Lawler.
+
+### John Lawler
+- **[ASK]** New contact, 21 Oct 2026 — meeting John alongside Mairead
+  O'Donnell on 22 Oct (Mungret, 10:30am-12pm) re: the Midwestern Cancer
+  Foundation board opportunity. Role/company not yet known.
 
 ### Colm O'Brien
 - **[ASK]** Referenced (2 Sept) as "already in the map" and on the

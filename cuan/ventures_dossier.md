@@ -1777,6 +1777,15 @@ tomorrow's Shane call and Friday at Pat's.
   those points should then be put to Pat (by email, this week, not
   waiting for the group meeting).
 
+**Timing update, 21 Oct evening:** John wants to review the Noesis
+draft/one-pager himself tomorrow morning first — "there's a few
+things in it I don't agree with, and we just need to clarify." He
+also now has a **10:30am-12pm meeting in Mungret (Midwestern Cancer
+Foundation, see that venture's new entry above)** before the Shane
+call, so **the call may slip to closer to 1pm rather than 2pm** — not
+firmly rescheduled, worth confirming the actual time with Shane
+directly rather than assuming either slot holds.
+
 **One-pager produced, same day:** `Noesis_Shane_Call_22Oct2026.docx`
 (not committed to this repo, sent directly to John) — five sections:
 (1) the confirmed structure, led with the parent-override point; (2)
@@ -6431,6 +6440,31 @@ before liquidation).
   company in Turkey/Italy, not yet shared with Cuan.
 
 ---
+
+## Midwestern Cancer Foundation — voluntary board role, new 21 Oct 2026
+- **Status:** Live opportunity, not yet decided. Meeting tomorrow (22
+  Oct) 10:30am-12pm, Mungret, with **Mairead O'Donnell** (Claochlu
+  Consulting — already tracked, see `people_map.md` and the Velocity
+  AI entry above) and **John Lawler** (new contact, no further detail
+  yet). They've suggested John join the Foundation's board of
+  directors on a voluntary basis. **John's own reaction: "very
+  interested."**
+- **Revenue relevance:** Not revenue — voluntary, relationship capital
+  and community standing, same category as Tangible Ireland Group
+  below. Also sits inside Protect My Health and Family/Build My
+  Future Deliberately territory given the cancer-charity context,
+  not a commercial venture.
+- **Tracking:** Cuan only.
+- **Timing note:** this meeting runs up against tomorrow's 2pm Shane
+  call (Noesis constitutions) — Mungret meeting is 10:30am-12pm, so
+  there's a gap before 2pm, but John separately flagged the Shane call
+  itself may now slip toward 1pm given his own planned morning review
+  of the Noesis draft, not firmly 2pm anymore. Worth confirming actual
+  timing with Shane directly rather than assuming 2pm holds.
+- **Open items:** John Lawler not yet in `people_map.md` — role/company
+  unknown, to be added once known. Nothing decided yet on whether John
+  accepts the board seat — logged as a live, interesting opportunity,
+  not a commitment.
 
 ## Tangible Ireland Group
 - **Status:** Active — 2026 Summer School held 18-20 Aug in Kilmallock,
