@@ -1208,3 +1208,21 @@ keeping with the file's own stated purpose (identifying what genuinely
 resonates, not just collecting quotations). No further commentary
 added; logged as-is.
 
+---
+
+## Marcus Aurelius — self-love vs. others' opinion, 21 October 2026
+
+**Source:** handwritten-style quote card, Instagram/Threads, captured
+by John 21 Oct 2026.
+
+> "It never ceases to amaze me: we all love ourselves more than other
+> people, but care more about their opinion than our own."
+> — Marcus Aurelius
+
+**Cross-reference:** a sharper, more classical version of the same
+territory as the "Five simple reminders" card above and the earlier
+"keep the evidence" / self-trust material in this file — worth noting
+as a recurring theme John keeps returning to (valuing others' judgment
+of him over his own), rather than a one-off quote. No further
+commentary added; logged as-is.
+
