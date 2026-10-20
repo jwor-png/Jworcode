@@ -175,9 +175,9 @@ compliance sessions and flagged the Audit and Risk Committee's role in
 overseeing AI adoption — **live open door for further AI discussion at
 UHL, not yet followed up.** Full detail in `ventures_dossier.md`.
 🟢 Ambrion AI — training 25 & 31 Aug confirmed
-🟢 Barber Republic — **London trip (3 Sept) went well.** John Jones wants a full investor pack and separately offered the Liberty London/Carnaby St concession as a standalone Barber Republic London base, funded by him for equity. Anthony Laban agreed to help recruit barbers/shops and back the launch publicly, also seeking equity. **Both offers live, unresolved — John hasn't committed to either**, wants to measure against Shane's actual commercial/funding modelling first. Johnny wants the £50k first-tranche dropped, pushing to raise the other £35k through the business directly instead. Interim investor document (short of a full pack — real revenue data doesn't exist yet) still needs building. Month One £15k PAID.
+🟢 Barber Republic — **London trip (3 Sept) went well.** John Jones wants a full investor pack and separately offered the Liberty London/Carnaby St concession as a standalone Barber Republic London base, funded by him for equity. Anthony Laban agreed to help recruit barbers/shops and back the launch publicly, also seeking equity. **Both offers live, unresolved — John hasn't committed to either**, wants to measure against Shane's actual commercial/funding modelling first. Johnny wants the £50k first-tranche dropped, pushing to raise the other £35k through the business directly instead. Interim investor document (short of a full pack — real revenue data doesn't exist yet) still needs building. Month One £15k PAID. **NEW (19-20 Oct): Manchester build/test week with Shane, Johnny Shanahan and Neil Dignam went well (w/c 12 Oct).** Corporate structure clarified direct from Johnny: **StayTrue Ltd owns Barber Barber Ltd**; "Barber Barber" is a trading name, not one entity — each shop trades under it via its own separate company. **Barberrepublic.ai Ltd is the actual company that currently owns Barber Republic, Johnny sole director**, structure to expand to other directors/shareholders later. New mutual NDA drafted (Barberrepublic.ai Ltd vs Rob Wilcox personally, not Reuzel Inc.) for Johnny's call with Rob Wilcox (Reuzel) — superseding the stale Reuzel/StayTrue NDA from last year. Side idea, not decided: Scott Davenport for 1-2% equity to help drive funding/financials.
 🔴 Julianstown Mill — Fred Logue appeal formally lodged 31 Aug (PL-501978-MH-26), response due 23 Sept; **88-page response submission to ACP almost ready, filing in the next couple of days (22 Sept update)**; **sale completion to John Lynch now explicitly pending the appeal outcome, not just fees**; Glynn's Solicitors gone quiet on closing prep — needs chasing; updated balancing statement drafted, awaiting reply
-🔴 Velocity AI — Gmail script fix still outstanding
+🔴 Velocity AI — Gmail script fix still outstanding, **actively throwing Apps Script failures as of 19 Oct**
 🟡 **Golden Generation — naming clarified 18 Sept.** Solely the name
 for the AIMES-based 16-week executive AI-literacy/migration programme
 John and Shane have already run once jointly (piloted with senior
@@ -193,12 +193,20 @@ BOI Finance pursuing the MiDentalCare Serona dental chair lease
 (€3,201.60 balance) against the liquidated company and against Niamh
 as guarantor; redirect letter to liquidator drafted, awaiting John's
 send. Plus pre-existing BOI loan thread, Milltown personal fees owed,
-Lisa Doyle wages claim. Full list in `ventures_dossier.md`.
+Lisa Doyle wages claim. **NEW (19 Oct): separate "Northstone" claim
+from Smiths of Killucan's solicitors landed, cc'd to Marsh (Mark
+Doherty)** — John has asked David Geoghegan who AHL's own solicitors
+are so he can pass the letter on, awaiting reply. Full list in
+`ventures_dossier.md`.
 
 🟡 **Meridian → UHL: Specialist Affiliate Group brief** — paint/decorating
 independent buying group concept sent to Paul Candon 2 Sept, John's
 assessment "real opportunity, not launch-ready." Awaiting Paul's reply on
-whether to greenlight a 6-8wk feasibility project.
+whether to greenlight a 6-8wk feasibility project. **NEW: Musgrave's Oct
+2026 acquisition of four SuperValu stores (Nally's) logged as a useful
+precedent** — shows how a parent group actively manages direct vs
+independent ownership within a buying group, worth having in mind if
+this conversation progresses.
 
 ⚪ **Uropharma** (Mike Molloy) — still thin; not confirmed whether this is
 the same UroPharma already logged as a separate investment-review thread.
