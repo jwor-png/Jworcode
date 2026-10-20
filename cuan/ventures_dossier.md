@@ -1425,6 +1425,37 @@ shared. So the call happened and produced something, but the content
 hasn't reached John, let alone Cuan. Worth a direct ask to Shane for
 what was actually given to Pat, next time they speak.
 
+**John's own stance and a confirmed in-person meeting, 20 Oct 2026:**
+- **"I can't allow things to be delayed around the shareholdings. That'll
+  clarify itself."** John's own stated position — not tolerating further
+  drift on the shareholder-completion work, which has already slipped
+  past Shane's original 6 Oct target (logged above).
+- **Friday meeting confirmed: Shane, John and Tom Stapleton, at Pat
+  Carroll's office.** First known in-person Noesis session involving
+  all three — Tom Stapleton being the colleague from Shane's 8 Oct
+  mandate (personal safety/security/vetting remit), confirming he's
+  genuinely active on this, not just named in the brief.
+- **John's own stated purpose, in his words:** to focus on Noesis, "impress
+  Pat and impress Shane," and for his own clarity get the structures in
+  place — "it'll bring certainty." He wants to view Noesis "from the
+  height," with the Noesis group of companies, Meridian Intelligence,
+  and his other operating-creed responsibilities visible underneath it
+  "like a family tree" — **this is the same shape as the "John's Map"
+  org chart Cuan already built and published (19 Oct, private Artifact
+  link previously shared)** — worth refreshing that artifact now that
+  Noesis has this much more current detail, rather than building a
+  second version of the same thing.
+- **John's own framing of why this matters commercially:** "Noesis and
+  my participation therein is to drive revenues for me" — i.e. this
+  isn't pure governance housekeeping, it's tied directly to Move
+  Revenue Weekly.
+- **Self-assessed, directly: "I find my discipline has waned again."**
+  Cross-reference `operating_creed.md` discipline 3 (Act With
+  Integrity)/6 (Build My Future Deliberately) and the 9 Sept "reset,
+  refocus, get back on track" entry under Protect My Health and
+  Family — same pattern recurring, John naming it himself rather than
+  it being inferred.
+
 **Legal/tax adviser assessment for ODIN holdco structuring, 3 Sept.**
 Two pieces of work: (1) ODIN's group structure ahead of the €20m raise,
 (2) Shane's founder holdco ahead of a future sale. Candidates: **Jerry
