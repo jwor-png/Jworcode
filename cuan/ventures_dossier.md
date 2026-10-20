@@ -1388,6 +1388,23 @@ company schedule table above whether this means the known dormant
 companies (Zubelsala, Sancelvio, VRH, Valhalla, "LLM," Tairseach
 Property Ltd, etc.) or genuinely new entities not yet on that list.
 
+**Gap check, 20 Oct 2026** — John asked Cuan to confirm everything from
+the 5 Oct Dave Geoghegan UHL-audit email had been accounted for
+(resolved above, separate matter); same day, asked for a status
+check on Noesis ahead of a call with Shane. **Genuine gaps found, not
+yet closed:** Shane's "food for thought" governance document (John
+believes he uploaded it; it isn't in this repo or Cuan's files — never
+actually landed), John's own email to Pat Carroll asking about the IP
+solicitor, and Pat's further questions plus Shane's Friday (17 Oct)
+phone call answering some of them — none of this is in Gmail past the
+16 Oct thread already logged, because Pat's correspondence reaches
+John via his velocityai.ie account and doesn't always forward through
+to the Gmail Cuan can see. **John's instruction, same day: Noesis
+tracking stays in Cuan, not routed to the separate Meridian
+Intelligence thread** — everything should land here regardless of
+which account it arrives on, and John will coordinate forwarding the
+gaps above back to this thread.
+
 **Legal/tax adviser assessment for ODIN holdco structuring, 3 Sept.**
 Two pieces of work: (1) ODIN's group structure ahead of the €20m raise,
 (2) Shane's founder holdco ahead of a future sale. Candidates: **Jerry
