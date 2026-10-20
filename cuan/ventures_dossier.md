@@ -2953,6 +2953,139 @@ against the full group's consolidation complexity (multiple owned
 entities, not a single-company audit), not just UHL standalone. Folded
 into the Jürgen/Meridian/ChatGPT briefing.
 
+**Correction, 20 Oct 2026 — AGM seconders list was already sent.** The
+13 Oct briefing (and the first version of the 20 Oct call-prep
+document) both listed the Joanne Mallon seconders request as still
+outstanding — it was not. Gmail confirms John sent the seconders list
+to Joanne Mallon on **16 Oct 2026, 14:56** (Liam Glynn, Timothy Cahill,
+Ray Smyth, Tom Fitzgerald, Ray Smyth, David Bolger, Padraic Glynn).
+Closed, unrelated to this tender — was never actually at risk.
+
+### Michael O'Driscoll pre-call, 20 Oct 2026, 4:30pm — John's own dictated comments, ahead of the call
+
+Michael's 15 Oct ask was for this call specifically to agree the
+interview *process* and question set, not to revisit 13 Oct content.
+John dictated detailed comments working through the Cuan-drafted call
+prep paragraph by paragraph; captured here in full, a revised prep
+document (`UHL_Audit_Interview_Process_Prep_v2_oct2026.docx`, not
+committed to this repo, sent directly to John) was produced from it.
+
+**Process structure:**
+- 30-40 min / same format for all four — **agreed.**
+- **Who's on the four Teams calls, confirmed: Michael, John and Dave
+  Geoghegan together** (not just Michael/John).
+- **New question for Dave:** why were Fitzgerald Power and RSM invited
+  to tender at all — John's own theory is the Committee may simply
+  have wanted two fresh firms alongside Mazars/BDO, but this needs
+  confirming with Dave, not assumed.
+- **John states he cannot recall seeing the assessment criteria
+  document** — needs Dave to resend it. Cuan reminded him on the call
+  prep of its actual headings (fee; understanding of UH's business;
+  audit approach/early close-off; range of services incl. IT audit;
+  international/NI connections; "Risk management and service
+  continuity" — covering both PI cover and business continuity/DR;
+  "References and track record"; conflicts of interest/independence).
+- **International connections, mapped per firm:** Mazars and BDO are
+  both large international networks (unchanged). RSM explicitly states
+  an Ireland/UK/US/Canada network. **Fitzgerald Power is ~100 people,
+  Waterford-based, Dublin + UK presence only — no broad international
+  network claimed**, flagged by John as something to confirm directly
+  (he queried whether they're an Irish-only firm).
+- **Scoring — to discuss with Dave:** whether Michael/John prepare
+  their own common scoring document separate from Dave's assessment
+  criteria, or work from one shared document.
+- **Decided: not going back to each of the four firms individually
+  before the Teams calls** on the open questions (PI, timing, etc.) —
+  these become live questions on the Teams calls themselves, to keep
+  the process moving. This is the basis John will put to Dave
+  tomorrow.
+
+**Common question set, John's comments:**
+- **A. Real deadline (late April):** John agrees late April accounts
+  completion is right for an end-of-May AGM, but wants **Dave's own
+  sense first** — has he already raised it with any firm, does he
+  think it's too tight — before putting it to the four firms directly.
+- **B. Route A confirmed as working basis.** John's understanding from
+  Dave: Mazars will resign once the board approves a new firm. The
+  one thing that must still be confirmed directly with Dave: that
+  Mazars has actually resigned (or will), before proceeding on Route A.
+- **C. PI insurance:** ask all four live on the calls — unchanged.
+- **D. Business continuity/DR needs a sharper ask**, per John — not
+  just "do you have BC/DR policies": what happens if the lead partner/
+  key team member is unavailable mid-audit, systems/data resilience,
+  and a named backup within the firm for UHL specifically.
+- **E. References — John's own view, not previously decided:** NOT
+  needed for Mazars or BDO (both already in active use by the group,
+  track record already known directly). Possibly not needed for
+  Fitzgerald Power either, **given they're already engaged by the
+  group via the BMG tax-advisory relationship** (see below) — worth a
+  view from Michael/Dave. **RSM is the one firm references should
+  genuinely be asked of** — no prior relationship at all.
+- **F/G (IAASA independence, NI VAT/cross-border):** unchanged, ask
+  all four.
+- **H. Timeline slippage:** raise with Dave first — he may have
+  discussed this individually with firms even where it isn't written
+  down. **John's own concern, stated directly: UHL would otherwise be
+  weak here, entirely reliant on whichever firm is selected, with no
+  fallback of its own if a deadline is missed.**
+- **I. Kehoe's/Expert Hardware:** unchanged, confirm understanding +
+  fee reflects it with all four.
+
+**Firm-specific, John's comments:**
+- **Mazars:** if reappointed, confirm which partner actually signs
+  FY2026 (Emer O'Riordan is rotating off); ask what actually changes
+  for UHL if reappointed vs a full change.
+- **BDO:** tax-fee inconsistency (€16,250 vs €17,500+5%) — one to put
+  to Dave directly, not necessarily live on the firm call.
+  **Relationship context, John's own account:** BDO already advises
+  UHL on the new single-entity matter, the Expert Hardware purchase,
+  and funding for the shop purchases. **Simon Carbery — who leads the
+  AHL audit — is also leading BDO's bid for the UHL audit.** John is
+  confident of BDO's scale (audits companies larger than UHL); the
+  point of the call is understanding their actual process for a group
+  of UHL's size/structure.
+- **RSM (priciest, €99,730):** no prior relationship — need to
+  understand actual hardware-trade/comparable-company experience, not
+  generic group-audit experience. PI cover and references (see E
+  above) both live questions. Hold to the strict late-April deadline.
+- **Fitzgerald Power (€63,450):** **CONFIRMED, not just recalled by
+  John — cross-checked against this file's own BMG Hardware (Donegal)
+  acquisition entry: Fitzgerald Power is already UHL's tax adviser on
+  the live BMG deal, working alongside legal advisers HD Keane — both
+  gave advisory memos on 6 Oct recommending the SPA structure.** This
+  is a real, current professional relationship, not something that
+  needs separately checking with Dave. What does need raising with
+  Dave directly, as a priority ahead of the calls being scheduled: how
+  auditor independence is being managed given this existing advisory
+  relationship — especially since Fitzgerald Power's own written
+  tender proposal is silent on conflicts of interest entirely, which
+  reads differently now that the relationship is confirmed. Separately:
+  their written calendar commitment (first week Feb-15 April) is the
+  only one of the four given in writing — worth testing whether a
+  ~100-person firm has the bench depth to deliver it for a group this
+  size, against Mazars/BDO's scale.
+- **New screening idea, John's own suggestion, not yet actioned:**
+  worth trying to establish who currently audits **Amalgamated
+  Hardware Limited (trading as Topline)** and **Allied Merchants/AMBA
+  (Michael Ganley's group)** — both competitor buying groups — as a
+  way of screening the four tendering firms for conflicts via
+  competitor relationships, alongside the Fitzgerald Power/BMG point.
+
+**What goes back to Dave tomorrow (21 Oct), per John:** primarily to
+schedule the four Teams calls, but first direct responses to his
+original 5 Oct email (cc'd Hang Zhao and Paul Candon) covering: why
+Fitzgerald Power/RSM were invited to tender; resend the assessment
+criteria document; Fitzgerald Power's international reach; how
+independence is managed given the BMG relationship; the BDO tax-fee
+figure; Dave's own sense of the late-April deadline; confirmation
+Mazars has resigned/will resign; whether timeline-slippage has been
+raised with any firm informally; whose scoring document governs; and
+confirming the three-person call format for all four interviews.
+
+**Status:** call prep sent to John ahead of the 4:30pm call. Outcome
+of the actual call with Michael, and what goes to Dave tomorrow, still
+to come.
+
 ### Risk register / cybersecurity, GDPR and AI review — reopened 7 Sept 2026
 - **Trigger:** John shared five Business Post articles (6 Sept 2026) on
   AI-driven cyber threats and everyday AI use, and asked to revisit UHL's
