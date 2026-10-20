@@ -1264,6 +1264,12 @@ are flagged for confirmation, never guessed.
 
 ## 5. PROTECT MY PRESENT RESPONSIBLY
 
+- **Car insurance renewal — due early November 2026, flagged 21 Oct
+  2026.** John asked to be reminded in the daily brief until it's
+  dealt with. Exact renewal date not yet given — worth confirming so
+  this can be pinned to a specific day rather than "early November."
+  Not actioned yet. **Standing instruction: surface this in the daily
+  6:12am/8am brief until John confirms it's sorted, then close out.**
 - **Home security/property items arising from the Campion insurance
   call, 21 Sept 2026.** Three separate items, none yet actioned:
   1. **BER assessment** — Nicola asked about the house's BER rating
