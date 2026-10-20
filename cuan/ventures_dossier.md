@@ -1548,6 +1548,80 @@ schedule discrepancies, Friday's shareholder-information content,
 known to Cuan — John's own session, separate thread, per the
 multi-thread architecture.
 
+### Meridian Intelligence's response received instead of Jürgen's, 21 Oct 2026
+
+**John sent Cuan's review document to Meridian Intelligence by
+mistake, not Jürgen** — he's now forwarding the actual text to Jürgen
+separately and will bring that back too. Meridian's response pasted in
+full, summarised below. **Verification flag, checked directly by
+Cuan: Meridian's claim that it "filed and pushed" a response file to
+`ventures/odin/Meridian_Domain_Response_Noesis_Two_Tier_Constitution_
+2026-10-20.md` on "the home branch" does not check out** — `main` is
+directly reachable from this session, and it contains no `ventures/`
+directory at all (only `cuan/`, `meridian/`, and root-level files, 24
+files total). Flagged to John as unverified rather than accepted at
+face value; the substantive content below may still be sound, but the
+filing claim specifically is not confirmed.
+
+**Meridian's substantive review, as given:**
+- **Structure endorsed:** two-tier system is sound; nine full bespoke
+  constitutions are not needed. Proposed instead: one Noesis
+  constitution; one standard subsidiary constitution with a short
+  per-company schedule naming core asset and reserved matters; a full
+  bespoke build only for Asterial (and Sancelvio, if outside money
+  arrives); one group governance agreement covering intercompany
+  transfers, guarantees, IP flows and signing authority in place of
+  nine separate sets of provisions.
+- **Key structural point:** where Noesis is sole member of a
+  subsidiary, that subsidiary's own constitution protects nobody from
+  Noesis — the real protection is in who controls Noesis itself.
+- **IP-first, the sharpest challenge raised:** Asterial's constitution
+  can't protect ODIN while the IP legally sits with Shane personally —
+  the assignment/licence has to come first, constitution follows.
+  Directly ties to Pat's still-unanswered IP-solicitor question.
+- **Is Asterial even under Noesis yet?** Shane reported as Asterial's
+  sole shareholder — moving those shares into Noesis has tax/stamp-duty
+  consequences for him specifically, needing Pat and a tax adviser's
+  sign-off **before** the €20m round, not after.
+- **The raise will rewrite the constitution anyway** — an investor
+  will impose its own reserved matters; a founder double-lock agreed
+  now may conflict with terms not yet negotiated.
+- **No-dilution needs actual teeth:** a constitutional promise is only
+  as strong as a 75% special-resolution vote to amend it. Needs Class A
+  consent on share allotments, pre-emption rights, a class-consent
+  right on variation, and a shareholders' agreement alongside it.
+- **Human-authority-over-AI clause:** keep it as a short reserved
+  matter in the constitution itself; put the operational detail in
+  board policy and licence terms, not the constitution.
+- **John's own conflict, named directly:** he'd be drafting the first
+  pass of a document that fixes his own Class B economics — declare
+  this at both the Shane and Pat meetings, have a solicitor draft/
+  review the Class B terms, and **use his own solicitor, not one paid
+  by Asterial or Noesis.**
+- **For Friday specifically:** get the CRO records directly on
+  Asterial's "Dormant" status and on who is actually Noesis's
+  secretary (not just Pat's schedule); get what Shane told Pat on 17
+  Oct **in writing**; hold off creating "LLM" and "Tairseach Property
+  Ltd" until their purpose is actually defined — a second Tairseach
+  entity complicates diligence while the ODIN boundary itself is still
+  open.
+- **Evidence caveat, stated by Meridian itself:** the Companies Act
+  section references given (ss.32, 38-40, 89) are from its own
+  knowledge, unchecked against oireachtas.ie (blocked in its
+  environment) — a solicitor must verify before any of this goes into
+  a formal document.
+- **Consolidation question raised by Meridian, not yet answered by
+  John:** whether to bring the Cuan-branch Noesis material (board.md,
+  dossier updates, this logging) across to the home branch. Meridian
+  states Noesis content is already cleared under its own sensitivity
+  gate, but **Childen-linked files still need John's clearance first**
+  — a decision for John, not something Cuan or Meridian should resolve
+  on his behalf.
+
+**Status:** Jürgen's actual review still outstanding — John forwarding
+the original document to Jürgen separately, to bring back here once
+received.
+
 **Legal/tax adviser assessment for ODIN holdco structuring, 3 Sept.**
 Two pieces of work: (1) ODIN's group structure ahead of the €20m raise,
 (2) Shane's founder holdco ahead of a future sale. Candidates: **Jerry
