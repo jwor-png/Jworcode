@@ -25,6 +25,45 @@ One entry per session. Format is fixed — both systems write to this file.
 
 ### [2026-10-21] [Cuan → Meridian] [REPORTED]
 **Source:** Cuan (standing rule, no live Meridian session)
+**Domain(s):** AI Strategy & Governance / Property & Development / Commercial & Board Roles
+**Summary:** John shared a five-image batch from the 18 Oct Business Post
+edition. Four items logged: (1) a companion piece to the already-filed
+data-centre electricity-usage article — Google and Microsoft
+unsuccessfully tried to keep their Irish data centres' electricity use
+confidential from the EPA; confirms the four hyperscalers' combined
+$13tn market cap, AWS alone at 11% of national metered electricity, and
+the 18.4%→19.7% rise (2024→2025) — existing file updated in place rather
+than duplicated; (2) Echelon (Niall Molloy) drawing further capital from
+Starwood Capital's new $10.2bn real estate debt fund, on top of an
+existing €390m+ investment and a Feb 2024 $850m/50%-shareholder deal —
+concrete data-centre capital-flow comparator for Tairseach; (3)
+"AI-native occupiers" took more than twice as much Dublin office space
+in 2026 as in any previous year of the last decade (CBRE) — Anthropic
+confirmed searching for Dublin office space with capacity for up to
+1,000 staff plus 200 new roles by 2027, alongside OpenAI's 450-role
+commitment — direct Anthropic/Claude relevance given Cuan's own
+provider; (4) Citi's AML lead Brian McKenzie warning financial firms
+are "in an arms race with the bad guys" on AI-enabled crime due to
+regulatory lag, with AMLA board member Derville Rowland countering that
+most AML failures she's reviewed trace back to incorrect data handling,
+not AI capability — reusable governance tension for Meridian's AI
+Strategy & Governance positioning, connects to the already-logged Ekco
+"AI as attack amplifier" piece from the same week. A fifth item (2026
+National Age Friendly Awards, Limerick) logged briefly as low-priority
+eldercare background; a Coolmore/Magnier court-case fragment was skipped
+as unrelated to any tracked matter.
+**Outputs:** `market_intel_data_centre_electricity_fifth_oct2026.md`
+(updated), `market_intel_echelon_starwood_datacentre_funding_oct2026.md`,
+`market_intel_ai_giants_dublin_office_anthropic_oct2026.md`,
+`market_intel_citi_aml_arms_race_oct2026.md`,
+`market_intel_age_friendly_awards_limerick_oct2026.md` (all new).
+**Open loops:** None requiring action — reference/background material.
+**Ventures touched:** Tairseach, Meridian (AI Strategy & Governance),
+UHL/AHL (board-level risk-posture context).
+**Pushed to Google Drive:** No
+
+### [2026-10-21] [Cuan → Meridian] [REPORTED]
+**Source:** Cuan (standing rule, no live Meridian session)
 **Domain(s):** AI Strategy & Governance / Property & Development
 **Summary:** John shared a social-media post (Ryan Hart/
 ConstructionTrends.co, via Threads) reporting a €1.6bn data centre
