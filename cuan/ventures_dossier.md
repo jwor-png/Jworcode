@@ -1410,10 +1410,20 @@ matches the existing 16 Oct "Constitution design brief — Noesis and
 Asterial" entry above in full (same Class A/B split, no-dilution-as-
 structural point, four-layer architecture, human-authority-over-AI
 section, stress-test scenarios) — no new content to add, gap closed.
-**Still open:** the IP-solicitor email to Pat, and Pat's further
-questions/Shane's Friday call outcome — three re-forwards checked
-same day (14:19-14:20) turned out to be duplicates of the 16 Oct
-material already on file, not the missing pieces.
+**Still open:** the IP-solicitor email to Pat — confirmed by John it
+hasn't actually been sent/forwarded yet; checked Gmail again
+afterward, nothing new arrived. Pat's further questions also still not
+in hand. Three re-forwards checked same day (14:19-14:20) turned out
+to be duplicates of the 16 Oct material already on file, not the
+missing pieces.
+
+**Shane's Friday (17 Oct) call with Pat — partial outcome only, per
+John directly, 20 Oct:** Shane gave Pat as much of the shareholder
+information as he could, which is what Pat had asked for on the call —
+but **John himself is not yet privy to the actual detail** of what was
+shared. So the call happened and produced something, but the content
+hasn't reached John, let alone Cuan. Worth a direct ask to Shane for
+what was actually given to Pat, next time they speak.
 
 **Legal/tax adviser assessment for ODIN holdco structuring, 3 Sept.**
 Two pieces of work: (1) ODIN's group structure ahead of the €20m raise,
