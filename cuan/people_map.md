@@ -198,7 +198,8 @@
 ### Timothy Cahill
 - Cahill's Homevalue Hardware, Kilmallock (tcjnr@hotmail.com). UHL member
   store. John forwarded the UHL AI training programme to him March 2026 as
-  a potential replication target.
+  a potential replication target. **Family: Majella's brother** (confirmed
+  20 Oct 2026) — not just a UHL contact, a brother-in-law.
 
 ---
 
