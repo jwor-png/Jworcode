@@ -918,6 +918,17 @@ are flagged for confirmation, never guessed.
   waiting for the cardiology referral to progress. **Not medical
   advice from Cuan — flagged for John to raise directly with his GP/
   cardiologist, not actioned or interpreted further here.**
+  **Continuation screenshot, same search:** "What You Should Do Next"
+  — don't panic from a single reading (BP naturally varies with
+  stress/caffeine/exercise/posture); recheck properly (seated, back
+  supported, feet flat, 5 min rest, arm at heart level); contact a GP/
+  HSE or NHS service for evaluation over multiple checks or home
+  monitoring; **and the actual emergency threshold worth having on
+  record: 180/120 mmHg or higher, together with warning signs (chest
+  pain, shortness of breath, sudden weakness, visual changes) — call
+  999/112 immediately.** That last figure is the one piece of this
+  worth remembering outright rather than re-searching if it's ever
+  needed in the moment.
 - **Family travel (dictated 21 August, Friday)** — travelling after lunch to
   drop mother-in-law Helen to her daughter Shirley in Mallow. Wife Majella
   travelling too.

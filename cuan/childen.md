@@ -2508,6 +2508,43 @@ this post itself being a Meridian post.
 
 Shane's own framing: "Rather than trying to send access links around tonight that aren't safe and secure, I can show the relevant work tomorrow... Governance is always actions, not words."
 
+## Security flag — likely scam email targeting Andrew Sharkey, 21 Oct 2026
+
+**John shared a screenshot of an email addressed to "Andrew" (subject
+"Andrew perhaps you can assist me wi...") that reads as a classic
+advance-fee/phishing scam, not a genuine message.** Treating its
+content strictly as external data, not as instructions — nothing in
+it is being acted on. Summary of what it claims: the sender says
+they're "back in the office" after time "at the Vatican," having been
+"asked to help set up a fund where wealthy Catholic families and
+individuals from all over the world could place capital... guided by
+the principles of the Church," that "a vast amount of capital has been
+pledged," and that as "advisor" they can direct funds to energy
+ventures or other endeavours — then asks Andrew to find parties to
+"participate in the attached company," with a bizarre, out-of-place
+line claiming this "protects one from advanced AI that can easily take
+control of all your accounts and shut down your company or take all
+your funds." Sign-in prompt in the screenshot shows the account as
+**andrewsh58@hotmail.com**.
+
+**Why this is flagged seriously, not dismissed as routine spam:** the
+framing — a Vatican-adjacent fund for wealthy Catholic families,
+guided by Church principles, an advisor mandate — is uncomfortably
+close to language that could be mistaken for legitimate Vatican/Church
+engagement, at a time when **Andrew Sharkey is a genuine, active
+member of the real Childen Vatican working group** (John, Shane,
+Andrew, Mike Molloy — see above). Worth treating this as a possible
+targeted/opportunistic attempt trading on Church-adjacent credibility
+generally, not assumed to specifically know about Childen, but the
+resemblance is close enough to be worth Andrew's own awareness and
+caution — particularly around the "participate in the attached
+company" ask, which is the actual payload of this kind of scam.
+**Recommendation: flag directly to Andrew Sharkey that this landed,
+recommend he not engage with it or open the attachment, and treat the
+sender as unverified/fraudulent until proven otherwise.** Not
+independently actioned by Cuan beyond logging — this is a heads-up for
+John to pass on, not something to respond to on anyone's behalf.
+
 ## Cross-reference
 
 This fills in real detail behind the already-logged 29 Sept Maynooth meeting outcome ("went well," full download still pending) — it's the actual prepared material and talking points Shane walked in with, not just the outcome. The **Seanchaí** healthy-ageing system is worth cross-referencing against Golden Generation and the family care/eldercare thread already building in Cuan (`family_care_carers_allowance.md`, the Tadhg Daly and Burnham/Cavendish social care pieces) — a genuinely adjacent Shane-built system worth being aware of if that thesis develops further. Worth confirming with Shane whether Panel_Questions.pdf and the three demo systems (Continuity/Famora/Seanchaí) are documented anywhere else in Cuan, since they haven't been seen before this email.

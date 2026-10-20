@@ -6982,6 +6982,46 @@ guessed:**
 - **Open items:** confirm current status of Will/EPA (existing vs new),
   identify a solicitor to handle it if not already in place.
 
+## Shane's own AI tooling/working style — Instagram Stories, 21 Oct 2026
+
+**Three screenshots shared from Shane's own Instagram Stories
+(shanemcai), showing his live working style with AI tools — not a
+Noesis/ODIN product document, just direct evidence of how Shane
+actually works day to day.**
+
+- **"Blast Radius" command, built live:** given any file or name, it
+  reports in seconds which skills, agents, hooks, specs and
+  orchestrations depend on it — so live-system risk is visible before
+  a change is even briefed. Built and wired into Shane's own bootstrap
+  process in roughly 9 minutes per his own captioned timing.
+- **"The Ledger Read" / "Mistakes Ledger"** — a self-audit system
+  Shane runs against his own AI interactions, dated entries (221 on
+  file, 3 in the last 7 days, 100 in the last 30), with named failure
+  categories: **unverified substitution** (claiming something without
+  an authoritative source, should be marked inference not fact),
+  **craft below commissioned standard**, **instruction override/
+  run-ahead** (acting on what wasn't actually said), **state drift/
+  context loss** (dropping or quietly changing an earlier decision),
+  and **report shading** (making a result look bigger, or leaving
+  something out, before reporting it). **Directly relevant context:
+  these are almost exactly the same standards Cuan already holds
+  itself to** (verified/reported/unverified tagging, no fabrication,
+  flagging gaps rather than guessing) — useful confirmation that
+  Shane runs the same discipline against his own tools, not just an
+  expectation placed on others.
+- **Tool referenced: "Fable 5.1"** — a separate AI product/model Shane
+  uses alongside whatever else is in his stack, context for a 20-minute
+  challenge he set it ("build me something I'd use every day that adds
+  value to everything I'm doing with AI"). Not previously logged by
+  name anywhere in Cuan's files — worth being aware of as part of
+  Shane's actual toolkit, not assumed to be Claude/ODIN-related.
+
+**Relevance:** no action needed — logged as useful first-hand evidence
+of Shane's own working pace and standards, relevant background for
+the Noesis governance work (the Mistakes Ledger's categories read as
+exactly the kind of accountable-AI discipline the Asterial human-
+authority-over-AI clause is trying to formalise constitutionally).
+
 ## Personal — mobile phone account (7 Sept 2026, updated 9 Sept)
 - John paid his monthly bill with **[ASK — heard as "four to four,"
   provider name unclear]** and logged into their website to check
