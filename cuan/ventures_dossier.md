@@ -1907,6 +1907,32 @@ or otherwise) still to be made by John directly.
 directly to John) — still a working draft, header now says so
 explicitly rather than reading as a finalised position.
 
+**Context for why this needs to be properly grounded, not
+best-guessed:** John explained the Noesis thread with Shane has
+continued separately — Shane has a "food for thought" document from
+his own side that hasn't been shown to John, and whatever John/Cuan
+send back to Shane gets run through **Shane's own AI (EOLAS)** before
+he responds. John's explicit instruction: this is the level the work
+is being challenged at, so the IPO question must go to Jürgen for a
+grounded review, not be answered from Cuan's general knowledge alone.
+
+**Follow-up question sent to Jürgen, same evening:**
+`jurgen_ipo_optionality_question.md` (not committed to this repo, sent
+directly to John as copyable text) — asks Jürgen to verify, with
+actual statutory references: (1) the Part 17 Companies Act 2014
+PLC-re-registration requirements and process; (2) whether "IPO
+optionality" is genuinely not a constitution clause for a private
+company, or whether a standard mechanism exists; (3) whether an IPO
+carve-out/drag-along right belongs in a shareholders' agreement rather
+than the constitution, and whether that changes for Noesis's specific
+two-tier structure; (4) a legal-structure flag (not a commercial
+recommendation) on whether housing a future IPO candidate inside
+Noesis vs. a carved-out vehicle creates complications given the
+group's existing design. Explicitly not asking Jürgen to decide which
+entity should IPO — that stays John and Shane's commercial call.
+**Status:** with John to paste into the Jürgen thread; response not
+yet known.
+
 ### Process confirmed, 21 Oct 2026 — correcting the earlier timeline
 
 - **Tomorrow (22 Oct), ~2pm: John and Shane talk** — not "morning" as
