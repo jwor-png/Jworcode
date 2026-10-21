@@ -1,6 +1,6 @@
 # CUAN ENTRY: NOESIS, SHANE CALL 21 OCT 2026: IP, STRUCTURE, RISK
 
-**Source and status.** Dictated by John, partly cut off, about 95% of the call. The earlier part is not captured. IP position UNRESOLVED and under active consideration. Nothing here is a decision. Meridian advice IN REVIEW. Statutory references UNVERIFIED. No commitment without Shane McCarthy's alignment. Transcription notes: "Oasis"/"Noasis" = Noesis, "San Silvio" = Sancelvio, "Tearshock" = Tairseach, "Carol" = Pat Carroll (accountant).
+**Source and status.** Dictated by John, partly cut off, about 95% of the call. John: the earlier part was repeated as the conversation expanded, so nothing of note is missing. Shane (not John) meets Pat Carroll on Friday 23 Oct; the IP needs immediate action afterwards, with the IP solicitor consultation. IP position UNRESOLVED and under active consideration. Nothing here is a decision. Meridian advice IN REVIEW. Statutory references UNVERIFIED. No commitment without Shane McCarthy's alignment. Transcription notes: "Oasis"/"Noasis" = Noesis, "San Silvio" = Sancelvio, "Tearshock" = Tairseach, "Carol" = Pat Carroll (accountant).
 
 ## 1. Shareholdings
 Shane expects at least about 76% of each company, personally. John holds about 1% of Noesis. If Noesis holds the companies, John's 1% is a real indirect 1%; if Shane holds 76% of each directly, John's look-through is about 0.24%. Working position: Noesis holds the shares, Shane at least 76% of Noesis. To confirm with Shane.
