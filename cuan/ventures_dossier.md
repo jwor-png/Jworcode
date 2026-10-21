@@ -1933,7 +1933,403 @@ entity should IPO — that stays John and Shane's commercial call.
 **Status:** with John to paste into the Jürgen thread; response not
 yet known.
 
-### Process confirmed, 21 Oct 2026 — correcting the earlier timeline
+### CUAN HANDOFF received from Meridian (home branch) — full Noesis review after the 21 Oct Shane call
+
+John shared a formal handoff document (`Cuan_Handoff_Noesis_2026-10-21.docx`)
+produced by a **Meridian session working on the home branch**
+(`claude/youllneverwalkalone-7ryal1` — a different branch from this
+Cuan session's `claude/trusting-volta-8gtmab`; **these files are not
+merged/consolidated between the two**, flagged explicitly in the
+document itself). This answers the Jürgen IPO question above in full,
+plus a great deal more. Full detail below; condensed from the source
+document, evidence tags (REPORTED/UNVERIFIED/verified-from-secondary-
+source) preserved exactly as given, since they matter for reliance.
+
+**Transcription corrections confirmed by the document itself:** "Oasis"/
+"Noasis" = Noesis, "San Silvio" = Sancelvio, "Tearshock" = Tairseach,
+"Kuhn" = Cuan, "Carol" = Pat Carroll (the Limerick accountant) — **this
+is the second independent confirmation that "Carol"/"Pat Carroll" in
+John's dictation refers to the accountant, consistent with John's own
+correction earlier today** (see the IPO-optionality misread entry
+above).
+
+**1. Roles, confirmed/updated:**
+- John: Company Secretary of Noesis, Asterial and Sancelvio (his own
+  statement); ~1% shareholder in Noesis.
+- **Shane: reported sole director AND sole shareholder of Asterial.
+  Expects at least ~76% of each company — personally, or through
+  Noesis (open, not yet settled).**
+- Pat Carroll: accountant, not an IP lawyer; suggested the Noesis IPO;
+  meeting Shane (not John) Friday 23 Oct — confirms today's earlier
+  correction that Friday is Shane-and-Pat only.
+- Sancelvio: **new detail — reported as an endometriosis initiative**
+  that will have its own organism, while Pat's own schedule still says
+  child safety. Purpose genuinely unresolved, not just unconfirmed.
+
+**2. THE CRITICAL SHAREHOLDING CONFLICT — directly answers and
+sharpens the open question just added to tonight's one-pager:**
+Shane is reported to expect **at least ~76% of each company, in his
+personal name** — so the earlier assumption Cuan flagged as unconfirmed
+(whether Shane holds personally) now has a REPORTED answer: yes,
+personally, at group-company level. **But this creates a real conflict
+with John's own position:** John's 1% of Noesis only reaches the other
+operating companies if Noesis actually owns them. If Shane holds 76%
+of each company *directly* and Noesis holds the remaining 24% at most,
+**John's effective look-through is ~0.24%, not 1%** — a 4x difference
+that needs resolving with Shane directly, ideally before or during
+tonight's call, not left implicit.
+**Meridian's proposed working position (not yet agreed with Shane):**
+Noesis holds 100% of each operating company; Shane holds ≥76% of
+Noesis itself. This keeps John's 1% real, concentrates succession/tax
+at one level, supports a single shareholders' agreement/Class A-B
+structure at Noesis, and keeps Shane above the 75% special-resolution
+threshold at Asterial through the first funding round.
+**Note on the threshold itself:** 76% sits just above the 75% special
+resolution threshold (s.32, UNVERIFIED) — meaning Shane alone could
+amend any constitution at that level; minority protection has to come
+from class consent, the shareholders' agreement and statutory
+remedies, not the headline percentage.
+**Tax flag:** moving Asterial's shares under Noesis is itself a
+transfer with capital gains tax and stamp duty questions for Shane
+specifically (UNVERIFIED) — Pat Carroll to check, and this should
+happen before the €20m round, not after.
+
+**3. The Asterial raise — terms and a three-round dilution model:**
+Confirmed by John 31 Aug: **€20m for 20%, €100m post-money, €80m
+pre-money.** The earlier €19m/24% figure is superseded. **The "$200m/
+20% Saudi" offer on John's own orchestration map (the "John's Map"
+artifact) is flagged as unverified and must not be allowed to anchor
+the term sheet.**
+Illustrative dilution across up to three Asterial rounds (20%, then
+10%, then 10% of the enlarged company each time), assuming Shane holds
+76% of Noesis:
+| After | New investors | Existing holder (Noesis) | Shane look-through |
+|---|---|---|---|
+| Round 1 | 20% | 80% | 60.8% |
+| Round 2 | 28% | 72% | 54.7% |
+| Round 3 | 35.2% | 64.8% | 49.2% |
+
+Noesis keeps Shane above the 75% threshold at Asterial only through
+round 2 — if Shane held 76% of Asterial *personally* instead, round 1
+alone would already take him to 60.8%. **Not yet modelled:** the
+employee option pool, and the €2.2m founder allocation (secondary sale
+vs. remuneration is roughly a €400,000 tax difference, and who
+actually sells it is undecided).
+**Transaction costs, all UNVERIFIED market ranges:** €420,000-€1.07m
+without a corporate finance adviser (central estimate ~€650,000);
+possible 2% origination fee + up to 2% arrangement fee; central
+deployable amount ~€16.45m after the €2.2m founder allocation.
+**A named intermediary originated the deal and is to be rewarded; the
+term sheet is still awaited; the counterparty itself is not yet
+independently verified** (see risk map, item 3, below).
+
+**4. The IP position — still genuinely unresolved, the single most
+load-bearing open question:**
+Shane says Asterial owns ODIN; the earlier working premise from John's
+own briefings was that Shane owns the IP personally. **Unresolved —
+needs confirming in writing who owns it today, and whether any
+assignment actually exists.** The whole €100m valuation presumes
+Asterial owns the IP or holds an exclusive licence — if neither is
+true yet, the valuation itself is resting on an unconfirmed premise.
+~15,000 pieces of IP reported; Shane has spent ~3 months on the
+question, asked Pat Carroll about it ~10 times, concluded Pat doesn't
+know, and cited an All In podcast (Chamath Palihapitiya) interview
+suggesting IP has little value now — **Meridian has not seen or
+verified that interview.**
+**Meridian's working answer, offered as a draft framework, not a
+decision:** draw the IP boundary by function, not item count — "could
+this piece be sold or run without ODIN?" If no, it belongs in
+Asterial; if yes and it's a separate product, it can be licensed or
+sit in an IP company; if genuinely independent (Tairseach), it stays
+outside behind a defined boundary. Fix a dated baseline IP schedule,
+then a standing rule for anything created afterwards (engine
+improvements → Asterial; field outputs → the operating company under a
+field licence with grant-back; shared items like marks/domains/tooling
+→ an IP company only if actually needed). New companies get created
+only for new outside capital, liability separation, a different
+regulated activity, a separate sale/listing, or a different ownership
+group — otherwise everything stays inside Asterial.
+**The moat is mostly know-how** — protectable as a trade secret only
+with "reasonable steps" taken (EU Trade Secrets Directive 2016/943,
+UNVERIFIED) — needing an actual trade secret register, and it partly
+lives in Shane personally, which is a standing key-person risk (see
+below).
+**Five questions ready for the IP solicitor (still not named — Pat has
+flagged a candidate, not yet assessed by John or Shane):**
+1. Who owns ODIN today, and is the chain of title clean (including
+   AI-assisted output and all contributors)?
+2. Assignment vs. exclusive licence into Asterial — consequences for
+   the investor, for tax, and on Shane's death/incapacity?
+3. How should the compounding configuration be protected as trade
+   secrets, and what counts as "reasonable steps"?
+4. What do the current AI platform terms John/Shane actually rely on
+   say about ownership of outputs and use of data?
+5. How should future-IP, exclusivity and non-compete clauses in the
+   Asterial term sheet be limited, given Shane's other companies?
+
+**5. Constitution and architecture — refines, doesn't overturn, the
+two-tier structure already agreed:** confirms the Noesis-bespoke /
+Asterial-bespoke / one standard subsidiary-constitution-with-schedule
+structure John worked out independently. Adds: constitutional limits
+don't bind outsiders (ss. 38-40, UNVERIFIED) so bank mandates/signing
+authority/contract approvals have to independently enforce the same
+boundaries; a "flexibility without friction" principle (Shane's own,
+accepted) — layer by how often something changes: constitution stays
+stable/public with no IP lists or valuation logic in it, a reserved
+matter covers core IP, licence agreements carry review/regulatory-
+change clauses, board policy gets scheduled and trigger-based review.
+**Critical point for the Asterial constitution specifically: it
+should protect Asterial's *rights under its IP arrangement with
+Shane*, not ownership of ODIN directly — a clause "protecting ODIN" is
+empty unless Asterial actually owns it or holds an exclusive licence**
+(directly tied to the unresolved IP question above).
+
+**6. IP flows between group companies:** Noesis can direct where IP is
+licensed via reserved matters + a group governance agreement + board
+appointments, but directors still owe duties to their own company
+(s.228, UNVERIFIED), and an outside Asterial investor limits what
+Noesis can direct once they're in. Intra-group licences should be
+arm's-length (transfer pricing, UNVERIFIED). Recommends a tiered
+access model to ODIN (use-as-a-service / field-specific model /
+restricted source access under confidentiality or escrow / core —
+wiring, configuration, compounding method — never licensed, stays in
+Asterial, any licence of the core needs investor consent). On
+"spawning and mutating": EU IP protection generally needs human
+creative input (UNVERIFIED), so autonomously mutated output may be
+weakly protected — rely on trade secrets/contract and define
+"derivative"/"improvement" explicitly in every licence; US requires
+human authorship (REPORTED); Middle East jurisdictions vary, need
+local counsel.
+
+**7. Organisms — a genuinely new structural question:** Shane says
+Sancelvio and Tairseach will each have their own "organism" (agents
+running on each company's own brain, for data sovereignty). One engine
+with many instances is the cleanest option for IP/investor purposes; a
+true fork (second copy of the engine) is a derivative of the core and
+needs ownership/licence terms fixed at the fork date — an Asterial
+investor would likely treat an undisclosed fork as leakage.
+**Open question for Shane, not yet answered: are the other organisms
+independent builds, or derived from ODIN under licence with a fork
+date?** If each company gets its own organism, **the thing actually
+worth investing in may be the family of organisms, which sits at
+Noesis, not just the ODIN engine in Asterial** — a real tension with
+the Asterial-at-€100m valuation, which assumes the investor is buying
+"the organism." Flags a possible misrepresentation risk if other
+ODIN-lineage organisms aren't disclosed and the future-capture/
+non-compete clauses aren't limited accordingly. **Decision needed
+before the term sheet: does the €20m buy the engine (Asterial) or the
+organism (Noesis)?** Also flags health data (GDPR Art. 9) and possible
+medical-device software rules (Regulation 2017/745) as a reason to
+keep any medical-adjacent work (Sancelvio, if endometriosis-related)
+in its own company — needs a regulatory solicitor, not resolved here.
+
+**8. Personal work, key person and EIIS:**
+- Shane works ~14 hours/day for Asterial; anything he builds in his
+  own time using group systems may still belong to the group. A
+  separate personal device with no company data is good evidence but
+  not sufficient on its own — a director's duty can reach a corporate
+  opportunity even built on a personal device (s.228, UNVERIFIED).
+  Recommends: a written founders' IP/conflicts policy, a schedule of
+  agreed personal projects, a lineage record, one account per entity
+  with logged access, arm's-length licence-in of anything crossing
+  over. **Same hygiene flagged for John** — Meridian, Cuan and board
+  roles on separate accounts, no UHL/AHL confidential material in any
+  Meridian system.
+- **Key person risk: Shane is reported Asterial's sole director** — if
+  he were unavailable, nobody could sign. Recommends a second
+  director/alternate (if the constitution allows), an enduring power
+  of attorney (Assisted Decision-Making (Capacity) Act 2015,
+  UNVERIFIED), a continuity plan with a named deputy for defined
+  decisions, succession options in the shareholders' agreement, and
+  key-person insurance. **Investors will test this directly.**
+- **EIIS for Tairseach — genuinely at risk, not just unconfirmed:**
+  EIIS has been raised for Tairseach but appears nowhere else in the
+  knowledge base; money may need to be invested by year end and no
+  company exists yet. UNVERIFIED points that could rule it out
+  entirely: property development/dealing in land may be an excluded
+  EIIS activity; an issuing company may not be eligible if controlled
+  by another company (directly conflicts with holding Tairseach under
+  Noesis); an ODIN licence from a connected company would need
+  testing; Revenue approval timing may not fit before year end. **Pat
+  Carroll and a tax adviser need to confirm eligibility before
+  anything is created** — decide early whether to pursue EIIS, put
+  Tairseach under Noesis, seek other funding, or drop the EIIS angle
+  entirely.
+
+**9. THE IPO QUESTION — Jürgen's actual grounded answer, with a
+correction to Cuan's own earlier caveated response:**
+**Verified from a secondary source (statute citation):** the
+authorised minimum share capital of a PLC is **€25,000 (s.1000)**.
+Euronext Dublin requires securities to be freely negotiable with a
+**25% free float** (can go lower by agreement, not below 5% and €5m).
+**Per the findings John pasted (author's own "verified" tags, not
+independently re-confirmed by Meridian) — corrects Cuan's earlier
+answer:** re-registration as a PLC is governed by **Part 20 (from
+s.1284), not Part 17** as Cuan told John earlier today; s.1291
+requires a balance sheet within 7 months plus an unqualified auditor's
+report; s.1112 sets the PLC company-secretary competency tests
+(relevant to **John's own eligibility to remain secretary of a company
+that converts to a PLC** — flagged as needing direct checking); s.1294
+applies PLC share-allotment rules once the re-registration resolution
+passes; s.88 covers class rights; s.238 covers non-cash asset
+acquisitions from directors. **Reported only, not verified: one
+quarter paid-up and a two-director minimum.**
+**Confirms Cuan's general-knowledge answer was directionally right but
+the specific Part number was wrong** — worth knowing for next time:
+Cuan said Part 17 Jürgen/the pasted findings say Part 20. Treat the
+Part 20/s.1284 reference as the better-sourced one, still not
+independently confirmed by Meridian itself.
+**On the actual question — is there a standard "IPO option" clause:**
+**No** — there is no standard clause that pre-builds a PLC into a
+private company's constitution. What genuinely belongs in the
+constitution now: Class A/B variation mechanics and a conversion-of-
+classes provision triggered by a qualifying listing. **A hard
+no-dilution rule is incompatible with any future float.** Drag-along
+and IPO-cooperation provisions normally sit in the **shareholders'
+agreement**, not the constitution — confirming Cuan's earlier general
+answer on this point. Important distinction: **a drag-along is a sale
+device, not a float device** — don't conflate the two.
+**Listed-shares mechanics that directly bite on Shane's 76%
+ambition:** listed shares must be freely transferable, so transfer
+restrictions/pre-emption/no-dilution provisions must cease on a
+qualifying listing. A 25% free float implies Shane would need to be at
+**75% or below** on a main-market listing — **meaning his reported
+76%+ direct-holding ambition cannot survive a float without selling
+down**, a direct tension with section 2/3 above.
+**On vehicle choice (flagged, not resolved — stays John/Shane's
+commercial call):** Noesis carries the whole group including dormant
+companies and the founder-control design, which public markets
+discount; a subsidiary listing creates related-party dealings with the
+rest of the group; a carved-out NewCo takes the IP in a single clean
+transfer. **The Asterial investor's own term sheet is the nearer
+constraint — recommends adding an exit/reorganisation clause (share-
+for-share swap, consent, lock-up) to the Asterial term sheet now,**
+regardless of which entity eventually IPOs.
+**Corrections flagged before anything goes to Shane:** (1) recusal
+doesn't work as a conflict-mitigation if Shane is sole director — use
+an independent director or members' approval under s.238 with an
+independent valuation instead; (2) the EIIS line is unsourced; (3) any
+reference to a Childen sale needs John's explicit confirmation before
+it goes near a document reaching Shane's AI system or Pat Carroll; (4)
+state the IP-ownership working premise as explicitly John's own
+understanding and confirm it against the CRO record; (5) check John's
+own eligibility as PLC secretary under s.1112 before assuming he can
+continue in the role post-conversion; (6) label provenance accurately
+— this revises an earlier Meridian note, it is not a new independent
+Jürgen finding; (7) add the exit/reorganisation clause to the Asterial
+term sheet as above.
+
+**10. Risk-ranked priority list (damage × timing), as given:**
+1. Who owns ODIN today, in writing — five-question IP solicitor brief,
+   short written opinion, interim exclusive licence with assignment
+   option. Owner: Shane, IP solicitor.
+2. Outreach to ~40 investors planned for next week — **hold until
+   structure/term sheet are settled**; private companies can't offer
+   shares to the public (prospectus exemptions, UNVERIFIED); protect
+   the existing counterparty's exclusivity and the intermediary's
+   origination fee; no price terms disclosed; warm introductions under
+   NDA only. Owner: John, corporate solicitor.
+3. **Counterparty identity unverified — a "BNP Capital" near-miss
+   name flagged.** Four verification points needed: entity number,
+   regulator registration, a named individual with a verifiable role,
+   the instructing law firm. Broken-deal costs start the moment
+   advisers are instructed. Owner: John.
+4. Engine-vs-organism question, Asterial's field definition,
+   future-IP/exclusivity/non-compete limits, the exit clause — decide
+   before the term sheet, disclose other organisms. Owner: Shane,
+   solicitors.
+5. Shareholdings and tax on moving shares — Noesis holds the shares
+   (proposed), three-round cap table model, Pat checks tax/duty.
+   Owner: Pat Carroll.
+6. Costs — hard cap on investor legal costs (€100,000-€125,000 is a
+   fair ask), origination fee in writing, who bears broken-deal costs,
+   check any arrangement fee. Owner: John, Shane.
+7. Key person (Shane sole director) — second director/alternate,
+   enduring power of attorney, continuity plan, insurance. Owner:
+   Shane.
+8. EIIS for Tairseach — eligibility first, property exclusion and
+   group-control rule. Owner: Pat, tax adviser.
+9. Records and filings — the standing CRO discrepancies (Asterial
+   "Dormant," Noesis secretary shown as Pat), statutory registers to
+   diligence standard, D&O insurance, John's own PLC-secretary
+   eligibility. Owner: John, Pat.
+10. **John's own position** — document his participation, use a
+    separate solicitor not paid by Asterial/Noesis, declare the 1%
+    and secretary role formally, do not draft the Class B terms that
+    fix his own economics. Owner: John. (Reinforces, for the third
+    time across Meridian's and Jürgen's reviews, that this conflict
+    needs declaring, not just noted internally.)
+11. AI platform and data terms — review current terms for
+    outputs/data, keep health data in its own company. Owner: Shane,
+    solicitor.
+
+**Standing findings reconfirmed from earlier Meridian work:** the 16
+Aug prior-decision recall that ODIN ownership was unrecorded; John's
+own advice to others to paper the instrument before money moves; the
+ODIN IP position as the only remaining open window on any
+participation question; an investor's counsel will clean an
+undocumented participation off the table entirely.
+
+**11. What each upcoming meeting should settle, per the document:**
+- **Friday, Shane with Pat Carroll:** share structure, order of steps,
+  valuation/tax on moving shares or IP, CRO records, what Shane
+  actually told Pat on 17 Oct (still not seen by John), EIIS
+  eligibility. **Explicitly not IP drafting — that's the IP
+  solicitor's job.**
+- **Immediate action after Friday:** name the IP solicitor, send the
+  five-question brief, get a short written opinion — flagged as
+  needing to happen straight away, not deferred.
+- **Tonight's call with Shane:** covered by this document plus the
+  one-pager already in hand.
+
+**12. Open items carried forward, not yet resolved:** who owns ODIN
+today (Asterial vs. Shane personally); Sancelvio's actual purpose
+(endometriosis, child safety, or both); whether Noesis holds 100% of
+each company with Shane ≥76% of Noesis, or Shane holds ≥76% of each
+company directly (the core conflict in section 2); cap table
+assumptions (option pool, round sizes, the €2.2m secondary and who
+sells it); the IP solicitor still not named; Class A/B percentages and
+voting mechanics still a design principle, not drafting instructions;
+purpose of "LLM" and "Tairseach Property Ltd" (both "to be created");
+who drafts/reviews/executes each constitution; whether the Asterial
+constitution timing even fits the live raise, given the investor will
+re-paper it at completion anyway.
+
+**13. Files logged on the home branch
+(`claude/youllneverwalkalone-7ryal1`), NOT on this Cuan session's
+branch — flagged for awareness, not yet consolidated:**
+`ventures/odin/Noesis_Asterial_Constitution_Design_Brief_Review_2026-10-19.md`,
+`ventures/odin/Meridian_Domain_Response_Noesis_Two_Tier_Constitution_2026-10-20.md`,
+`ventures/odin/Meridian_Domain_Response_Noesis_IPO_Optionality_2026-10-21.md`,
+`ventures/odin/Noesis_IPO_Optionality_and_IP_Position_Jurgen_Findings_2026-10-21.md`,
+`ventures/odin/Noesis_Architecture_Working_Position_2026-10-21.md`,
+`cuan/Noesis_Shane_Call_IP_and_Structure_Summary_2026-10-21.md`, plus
+earlier 31 Aug domain responses/cost schedules/constitution review
+checklist. **Childen files still need John's clearance before any
+consolidation; Noesis material is stated as already cleared.**
+
+**14. Other live threads flagged in the handoff, not part of tonight's
+call — logged here for awareness, not actioned:** LinkedIn Post 15
+(retail decisions) due 20 Oct, Post 8 (routing, sources line
+corrected) due 21 Oct, Post 14 confirmed posted 7 Oct, Posts 6/9/11
+status unconfirmed, Post 13 withdrawn; a Business Post fit-out-rent
+article and the TWM Cavan medical site ad captured 20 Oct with
+masthead/date/page/reason still owed; **the "John's Map" orchestration
+artifact flagged as having a stale website card, the ODIN pre-money
+error, the unverified $200m offer, and a UHL ARC-chair independence
+check still outstanding** — noted in the handoff but nothing changed
+yet, worth refreshing the artifact again with this session's
+corrections; **the UHL audit retender pack went back to John in chat
+on 14 Oct and was never actually filed anywhere** — a loose end worth
+closing out.
+
+**Status:** this handoff document is now the master reference for
+tonight's Shane call, superseding/extending the earlier one-pager in
+several places (the shareholding conflict in particular). The
+one-pager should be revised before tonight to reflect at minimum: the
+John 1%/Shane 76% look-through conflict, the corrected IPO statutory
+references (Part 20 not Part 17), and the five-question IP solicitor
+brief as a named next step.
 
 - **Tomorrow (22 Oct), ~2pm: John and Shane talk** — not "morning" as
   earlier logged. This is the call the one-pager is being prepared
