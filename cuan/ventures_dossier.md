@@ -4639,6 +4639,15 @@ rules, not facts about AHL Plc.
 3. Monthly invoice becomes a standing Cuan task on the 9th/10th of each
    month, prepared for John's review and send.
 
+### AGM minutes — BDO seeking seconder review before signing, 21 Oct 2026
+
+**BDO (Joanne Mallon, cc Karen Daly and the BDO CoGov Team)** sent the
+draft 2026 AGM minutes (20 Oct 2026) asking John to review the
+seconders on record and confirm/amend before signing and returning.
+**John replied 21 Oct 07:58**: on the road, will respond later that
+day. **Open action for John: review and return the signed minutes —
+status to confirm later 21 Oct.**
+
 ### Sean Burton (Kanturk) — AGM pack sent, 20 Oct 2026 — CLOSED
 
 Outstanding since the 1 Oct reminder ("send post-AGM details to Sean
