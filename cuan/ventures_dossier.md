@@ -1815,7 +1815,11 @@ alone.
    later pursued and does require two holders unrelated to Noesis,
    that would mean moving it structurally outside Noesis's ownership —
    a live possibility, not a decided plan, and not urgent while EIIS
-   itself remains undecided.
+   itself remains undecided. **Superseded, 21 Oct 2026 evening: John
+   has shelved the Tairseach EIIS funding opportunity for now** (see
+   the EIIS entry further below) — this tension doesn't need resolving
+   while EIIS isn't being pursued; Tairseach stays on the Noesis
+   schedule without the structural complication.
 
 **Corrections/flags for the document before anything formal goes out:**
 - Asterial "holds Shane's personal IP" is self-contradictory — if
@@ -2156,6 +2160,17 @@ in its own company — needs a regulatory solicitor, not resolved here.
   Tairseach under Noesis, seek other funding, or drop the EIIS angle
   entirely.
 
+**RESOLVED, 21 Oct 2026 — John's decision: the Tairseach EIIS funding
+opportunity is being shelved for now.** Closes out the eligibility
+risk above without needing Pat/a tax adviser to rule on it first —
+John's own call, not a finding that forced the outcome. Tairseach's
+own funding search continues via other routes already on file (the
+IBI/DC Advisory Irish funding landscape deck, the broader ODIN funding
+Hunting List) — this only removes EIIS specifically from
+consideration. Worth a brief, explicit mention at the 30 Oct group
+meeting (agenda item 6) so Pat and Shane both know not to spend time
+on it, rather than leaving it to surface again as an open question.
+
 **9. THE IPO QUESTION — Jürgen's actual grounded answer, with a
 correction to Cuan's own earlier caveated response:**
 **Verified from a secondary source (statute citation):** the
@@ -2247,8 +2262,8 @@ term sheet as above.
 7. Key person (Shane sole director) — second director/alternate,
    enduring power of attorney, continuity plan, insurance. Owner:
    Shane.
-8. EIIS for Tairseach — eligibility first, property exclusion and
-   group-control rule. Owner: Pat, tax adviser.
+8. EIIS for Tairseach — **SHELVED, 21 Oct 2026, John's decision** —
+   no longer live, eligibility work not needed. Owner: closed.
 9. Records and filings — the standing CRO discrepancies (Asterial
    "Dormant," Noesis secretary shown as Pat), statutory registers to
    diligence standard, D&O insurance, John's own PLC-secretary
@@ -2358,7 +2373,8 @@ different date; confirmed, no change needed from John's side.
 3. Share structure and tax on moving shares.
 4. The Asterial term sheet position.
 5. Key person and continuity.
-6. EIIS for Tairseach.
+6. EIIS for Tairseach — **shelved 21 Oct, brief mention only to close
+   it out formally with Pat and Shane.**
 7. CRO discrepancies and diligence records.
 8. Who does what, by when.
 
