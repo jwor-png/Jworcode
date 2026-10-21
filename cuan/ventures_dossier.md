@@ -3616,9 +3616,38 @@ Mazars has resigned/will resign; whether timeline-slippage has been
 raised with any firm informally; whose scoring document governs; and
 confirming the three-person call format for all four interviews.
 
-**Status:** call prep sent to John ahead of the 4:30pm call. Outcome
-of the actual call with Michael, and what goes to Dave tomorrow, still
-to come.
+### The actual 4:30pm call, 20 Oct 2026 — Mazars' Bandon Co-op fee as a pricing benchmark
+
+**What Michael told John on the call:** Michael's own co-op client,
+**Bandon Co-op** — a group of ~€370m turnover across various
+subsidiaries/business lines — is audited by **Mazars for a fee of
+€67,000/year**. Mazars are moving into Bandon Co-op's offices **next
+week for 3-4 days** to begin a 9-month review this year, transitioning
+into the full 2026 audit.
+
+**Michael's point, in essence:** if Mazars can do a ~€370m-turnover
+co-op group's audit for €67,000, **United Hardware's audit work (plus
+the other subsidiary companies) should be achievable at a similar
+price** — not at Mazars' or BDO's significantly higher quoted UHL
+figures. The clear read-across is to **Fitzgerald Power's existing
+quote of €63,450** — already the cheapest of the four tendering firms
+(see comparison table above) — which now looks directly in line with
+what Mazars itself is prepared to charge a comparably-sized group
+elsewhere, undercutting any argument that UHL's size/complexity
+justifies Mazars' or BDO's higher UHL pricing.
+
+**Status: not yet raised with anyone at United Hardware** — John has
+this as a live card to play (reinforces Fitzgerald Power's pricing
+position directly from Mazars' own market behaviour) but has not yet
+put it to Dave Geoghegan, Michael, or the Board. Flagged here as
+background for whenever John chooses to raise it — a concrete,
+named-client pricing comparator, not a general assertion about audit
+fees.
+
+**Note:** this is separate from, and additional to, the process/
+question-set agreement captured in the pre-call comments above — John
+indicated there is more from this same notebook page he wants to add
+once he has time to review it properly.
 
 ### Risk register / cybersecurity, GDPR and AI review — reopened 7 Sept 2026
 - **Trigger:** John shared five Business Post articles (6 Sept 2026) on
