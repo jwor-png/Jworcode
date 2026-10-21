@@ -2480,9 +2480,36 @@ anything like that. If things have changed, then we need to discuss
 them, and I need to understand what Shane is actually trying to arrive
 at with the document that he has sent through." **Cuan's concerns are
 on record above; John has chosen to hear Shane out directly before
-raising them, not to withhold or soften them.** Status: holding:
-no further action, analysis or messaging on this document until John
-reports back from the 8.30pm call.
+raising them, not to withhold or soften them.**
+
+**John's own reading of the "100% unilateral ownership and control"
+line, offered mid-call:** not a claim that the current structure is
+final or correct, but **sequencing advice Shane has received** — do
+the constitutional/IP drafting work now, while Shane is still sole
+legal owner (simpler, no other shareholders' consent needed to amend
+anything), then transfer/dilute the already-agreed percentages
+(John's 1%, family, minority holders) into that finished structure
+afterward. **Cuan's assessment: this is a coherent, fairly standard
+piece of sequencing** — amending a constitution before admitting other
+shareholders avoids exactly the class-rights-variation/unanimous-
+consent problem Jürgen flagged for changes made *after* other holders
+are in place. It resolves much of why the document reads as
+unilateral: it may genuinely be describing a drafting window, not a
+permanent ownership claim.
+**What this reading doesn't yet resolve, and is worth a direct
+question to Shane regardless of how tonight goes:** once John's 1% (and
+family holdings) are transferred into the finished structure, which
+class do they actually land in — the 1-vote Class A/Growth minority
+tier, or the **non-voting Class F trust tier with administrative POA
+held by Shane**? The document doesn't specify this for John
+personally, and it's the one fact that materially matters either way,
+independent of the sequencing question. Not raised as a conflict
+position — a factual clarification worth getting before anything is
+actually executed.
+
+**Status:** holding on raising concerns per John's instruction; this
+sequencing interpretation is John's own and not yet confirmed directly
+by Shane. Outcome of the 8.30pm call still to come.
   earlier logged. This is the call the one-pager is being prepared
   for.
 - **This Friday (24 Oct): Shane meets Pat Carroll alone** — not the
