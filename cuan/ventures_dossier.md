@@ -2331,6 +2331,51 @@ John 1%/Shane 76% look-through conflict, the corrected IPO statutory
 references (Part 20 not Part 17), and the five-question IP solicitor
 brief as a named next step.
 
+### Handoff document updated and re-pushed, 21 Oct 2026 evening — meeting schedule and agenda confirmed
+
+John reported the handoff document has been revised and re-pushed to
+the home branch (the shorter `cuan/Noesis_Shane_Call_IP_and_Structure_
+Summary_2026-10-21.md` companion file carries the same changes).
+
+**Friday 23 October — confirmed as Shane and Pat Carroll only, 3
+hours, on shareholdings and Shane's family.** John not attending.
+Marked sensitive/personal to Shane. **Critical flag: every shareholding
+figure and model in the handoff document (including the John 1%/
+Shane 76% look-through conflict and the Noesis-holds-100% working
+position) is now explicitly provisional until this meeting's outcome
+is known** — it will likely decide who actually holds what in Noesis,
+which is the input every other model depends on. Nothing should be
+treated as settled from today's figures alone.
+
+**Friday 30 October — confirmed as the full group meeting** (Pat
+Carroll, Shane, Tom Stapleton, John), 3 hours, at Pat's office. **This
+resolves the earlier "Friday week" ambiguity** — 21 Oct 2026 is a
+Wednesday, so "Friday week" from today is correctly 30 Oct, not a
+different date; confirmed, no change needed from John's side.
+**Proposed eight-point agenda:**
+1. Outcome of the 23 Oct discussion.
+2. Who owns ODIN, and the IP plan.
+3. Share structure and tax on moving shares.
+4. The Asterial term sheet position.
+5. Key person and continuity.
+6. EIIS for Tairseach.
+7. CRO discrepancies and diligence records.
+8. Who does what, by when.
+
+**IP solicitor timing — sharpened:** the consultation should happen
+**before** 30 October, so the solicitor's actual advice is on the
+table at that meeting, not awaited afterward. Still not named as of
+this logging.
+
+**Tom Stapleton — role confirmed back to John from this file's own
+existing record (8 Oct 2026 entry, above):** special forces
+background, paired with entrepreneurial judgement and strategic
+thinking; Shane's 8 Oct work brief assigned him personal safety,
+physical security, office readiness, vetting and intelligence. How he
+formally connects to Shane/Noesis (employment, advisory, equity) is
+still not known — worth confirming that specific point with Shane,
+separate from the remit itself, which is already on record.
+
 - **Tomorrow (22 Oct), ~2pm: John and Shane talk** — not "morning" as
   earlier logged. This is the call the one-pager is being prepared
   for.
