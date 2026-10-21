@@ -1861,6 +1861,47 @@ not nine bespoke constitutions) while Jürgen adds the sharper
 parent-override point and catches the Tairseach discrepancy. Ready for
 tomorrow's Shane call and Friday at Pat's.
 
+### IPO optionality raised by Carol via Shane, 21 Oct 2026 — flagged to Pat, not resolved
+
+On a call with Shane this afternoon, John learned **Carol has suggested
+Noesis itself could be IPO'd.** Shane isn't dismissing an IPO in
+principle, but is questioning whether Noesis is the right vehicle
+versus another company in the group, or a specific piece of tech
+carved out separately. John asked Cuan directly whether this means a
+clause should go into the new subsidiary constitution giving the
+option of proceeding to an IPO, explicit that **no hallucination or
+assumption would be acceptable** given the stakes.
+
+**Cuan's honest answer, general company-law knowledge only, not
+verified against the statute this session:**
+- A private company limited by shares (every Noesis-group entity
+  currently) cannot be floated as-is — it must re-register as a PLC
+  under Part 17 of the Companies Act 2014, with its own constitution
+  format, capital requirements and officer requirements. "Building in
+  an IPO option" isn't really a clause inserted into a private
+  company's constitution now — the re-registration and a new
+  constitution happen at the point of actually pursuing a float.
+- What can sensibly be drafted now — an IPO carve-out from transfer
+  restrictions/no-dilution provisions, and/or a drag-along right
+  triggered by a float — more normally belongs in a **shareholders'
+  agreement** than the constitution itself, though this needs
+  confirming for Noesis's specific structure.
+- Which entity should actually be the IPO vehicle is a commercial
+  decision for John and Shane, but has real knock-on legal
+  consequences for where IP and share structure need to sit.
+
+**John's instruction: route this to Pat Carroll** (not Jürgen/Meridian
+this time) — real qualified Irish corporate counsel, already in the
+loop on the structuring work, rather than resolving or drafting this
+internally. Added to the draft one-pager (§4, "what goes to Pat") as a
+new, clearly-flagged open question — not a drafted clause, not
+resolved tonight.
+
+**Status:** `make_shane_call_onepager.js` updated and regenerated as
+`Noesis_Shane_Call_22Oct2026.docx` (not committed to this repo, sent
+directly to John) — still a working draft, header now says so
+explicitly rather than reading as a finalised position.
+
 ### Process confirmed, 21 Oct 2026 — correcting the earlier timeline
 
 - **Tomorrow (22 Oct), ~2pm: John and Shane talk** — not "morning" as
