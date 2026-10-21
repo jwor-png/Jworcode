@@ -4651,6 +4651,27 @@ meant before relying on the detail.
 **Open action:** the 21 Oct email to Addleshaw Goddard is now the live
 next step — not yet drafted or sent as of this logging.
 
+**Marsh update, 21 Oct 2026 — Mark Doherty replies to Dave (cc John):**
+Doherty passed the solicitors' correspondence to **Zurich Insurance**
+(AHL's insurer at the relevant time), who already had the incident
+logged on their claims system; he's asked Zurich to liaise with the
+solicitors directly and expects their stance (denying liability) to
+hold. He recaps the claim history for context: the matter was traced
+back to the manufacturer in Northern Ireland, who by coincidence was
+also insured with Zurich — Zurich's claims team appointed a loss
+adjuster on the manufacturer's behalf to investigate; AHL sought an
+indemnity from the sand supplier at the time, which was refused.
+**One open question Doherty raises for Dave, not John:** the
+solicitors' letter suggests a "Mr Walsh" (presumably Dermot
+Faulkner's side) was told AHL's insurers would be "dealing with" the
+claim — Doherty can't reconcile that with his own recollection and
+asks Dave to check his file for anything from "Emott" that supports
+the allegation, since Zurich will likely ask the same question. Doherty
+is explicit AHL's past assistance to the member store was support, not
+an admission of involvement or liability. **No action required from
+John** — this is a Dave/Marsh file-check exchange; John is cc'd for
+visibility only.
+
 ### June 2026 management accounts (AHL Board agenda item 2, 23 Sept)
 Board asked to formally accept the June 2026 management accounts
 (August accounts not yet available, to follow separately). **Net
