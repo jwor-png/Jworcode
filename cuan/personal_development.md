@@ -1243,3 +1243,48 @@ with the "reset, refocus, get back on track" framing in
 `operating_creed.md` and the discipline-waning admission from earlier
 this week. No further commentary added; logged as-is.
 
+---
+
+## Admiral William McRaven — 8 lessons for mental toughness (Threads, @razvanfotia, 21 Oct 2026)
+
+**Source:** Threads thread by razvanfotia (39.4K views), shared by
+John 21 Oct 2026. Framed around Admiral William McRaven (led the raid
+on Bin Laden; famous for "the key to changing your life is making your
+bed"). Eight lessons, each with the thread's own short framing:
+
+1. **Make your bed every morning.** A small early win builds momentum
+   for the day — and on bad days, it's proof you can still control
+   something.
+2. **You can't make it through alone.** In SEAL training nobody
+   paddles the ocean alone — those who try solo, drown. Find your
+   crew.
+3. **Judge people by their heart, not their size.** The smallest
+   trainees, written off early, often outlasted the big athletic ones
+   — heart beats talent when talent gives up.
+4. **Life isn't fair. Get over it and keep moving.** You can do
+   everything right and still get punished — stop pouring energy into
+   what's unfair and out of your hands; put it into the next step.
+5. **Failure can make you stronger.** Failing a test meant the
+   "circus" — extra brutal exercise on an already brutal day — meant
+   to break you, but it built the ones who kept getting circuses
+   tougher than everyone else.
+6. **Take the risk everyone else is afraid of.** A standing obstacle
+   course record only fell once someone tried the "reckless-looking"
+   headfirst move everyone else avoided — playing safe keeps you
+   average.
+7. **When it's darkest, start singing.** On one of the worst training
+   nights, neck-deep in freezing mud, one man started to sing and the
+   rest joined — one voice of hope can lift a whole group out of
+   despair.
+8. **Never, ever quit.** A bell in the training compound ends all
+   pain instantly if rung — everyone who rang it regretted it for the
+   rest of their lives; the ones who make it are simply the ones who
+   refused to.
+
+**Cross-reference:** squarely in the same register as John's own
+shaving-mirror mantra at the top of this file ("Action is the antidote
+to anxiety," "Be positive always, no problems, only solutions") and
+the recurring discipline/agency theme already logged from the desk
+calendar and Marcus Aurelius entries. No further commentary added;
+logged as-is.
+
