@@ -2599,6 +2599,33 @@ Cuan's own caution.
 **Status:** observing and logging only, per John's explicit
 instruction to hold. Awaiting the Claude "headline verdict" output and
 further developments from tonight's call.
+
+**Clarified, same call: Cuan is NOT drafting the ten documents —
+Gemini is.** Shane confirmed directly: "I didn't want you [Cuan]
+running through and doing all 10 docs. That's for... Gemini and most
+of the other LLMs." Cuan's role stays as it has been all evening:
+logging, and available for independent review if asked, not
+originating the drafting itself.
+
+**Shane's stated document-format requirements, for whenever
+documents are shared for review:** full PDFs, not pasted text; proper
+professional legal-headed paper with **no logos** (John nodded
+agreement — not standard on legal headed paper); clear signature and
+date blocks wherever a document needs to be signed by Shane or another
+party. John separately asked whether Shane's signature would need to
+be witnessed — not resolved in what was captured; cut off mid-answer.
+
+**A verbatim line from Shane worth holding onto, unprompted by
+Cuan:** "I know nothing about law, very, very little... once you know
+AI, you don't need to know anything about law, you just need to know
+what to do to make sure that... the information is out there, it's
+already been established and proven and gone through its own due
+diligence and verification." **Logged as a direct statement of
+Shane's own operating philosophy tonight, not endorsed or challenged
+by Cuan given John's instruction to hold** — worth John being aware
+this is explicitly how Shane is reasoning about tonight's process, in
+case it becomes relevant to how the finished documents are actually
+treated afterward.
   earlier logged. This is the call the one-pager is being prepared
   for.
 - **This Friday (24 Oct): Shane meets Pat Carroll alone** — not the
