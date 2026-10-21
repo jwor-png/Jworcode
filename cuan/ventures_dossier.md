@@ -7250,6 +7250,11 @@ before liquidation).
 ---
 
 ## Midwestern Cancer Foundation — voluntary board role, new 21 Oct 2026
+- **Status: FORMALLY RATIFIED, 21 Oct 2026 evening.** John confirmed
+  via WhatsApp to Shane (19:50): "Was unanimously ratified this evening
+  into the Cancer Foundation Board, a nice feeling." Shane's reply:
+  "Congrats. Time to get to work 🫡" — this is now a completed board
+  appointment, not just an agreed intention as logged earlier today.
 - **Status: AGREED, 21 Oct 2026.** John attended the meeting with the
   Foundation's reps and **has agreed to join the Board** to help them.
   His own account, verbatim: "it's currently based in Mungret, 20
