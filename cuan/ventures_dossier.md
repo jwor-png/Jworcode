@@ -2376,7 +2376,57 @@ formally connects to Shane/Noesis (employment, advisory, equity) is
 still not known — worth confirming that specific point with Shane,
 separate from the remit itself, which is already on record.
 
-- **Tomorrow (22 Oct), ~2pm: John and Shane talk** — not "morning" as
+### Shane's own AI use, visible 21 Oct 2026 — a verification-confidence risk flagged
+
+John shared screenshots of his own side of this work: (1) a Gemini
+("Gemini Argon") conversation, apparently Shane's own session rather
+than John's, confidently asserting specific statutory citations across
+three Irish Acts — **Companies Act 2014 s.228 (fiduciary duties/
+conflicts), s.212 (minority shareholder oppression remedy), s.193
+(unanimous written resolutions); Taxes Consolidation Act 1997 s.291A
+(capital allowances for intangible assets), s.617 (intra-group CGT
+relief for 75%+ groups), Part 35A (transfer pricing); Stamp Duties
+Consolidation Act 1999 s.101 (stamp duty exemption on sale/transfer/
+disposal of IP)** — with the claim "Yes, 100%... will withstand
+scrutiny from both Claude/ChatGPT and a Tier-1 commercial law firm
+(Arthur Cox, Matheson, A&L Goodbody)." A second screenshot shows the
+same Gemini session telling Shane his timing instinct (lock down IP
+assignments/licensing/constitutions before any external investment
+hits Asterial) is "legally and commercially bulletproof."
+(2) A WhatsApp exchange with Shane (37-minute voice call, 21 Oct)
+showing Shane using **Claude (Opus 5.5, Max effort)** to run a
+line-by-line IP count: **wave two (new since 22 June): 5,831 items,
+5,783 core IP + 48 substrate; combined with wave one: ~17,500 items
+total, ~16,100 core IP — "more than 15,000 pieces of IP" confirmed as
+standing comfortably; 2,166 items still awaiting Shane's own
+categorisation decisions, sorted into 20 groups; all names clean, all
+four of the count's internal checks pass.** Shane's own message: "One
+more section to go... wave 2 is done... wave 3 the smaller one left.
+Hopefully Thursday or Friday."
+
+**Why this matters, flagged directly rather than left implicit:** the
+Gemini session's confidence level is a sharp mismatch with how
+Jürgen/Meridian have tagged their own equivalent findings — Jürgen
+explicitly marked most of its own statutory citations as **UNVERIFIED**
+and recommended solicitor sign-off before relying on them; this Gemini
+session asserts near-identical territory (including the exact CGT/
+stamp-duty tax questions on moving Asterial's shares under Noesis that
+Jürgen flagged as needing Pat Carroll and a tax adviser to confirm) as
+**settled fact, "100%," "bulletproof."** **Two specific citations here
+— TCA 1997 s.617 and SDCA 1999 s.101 — are directly relevant to the
+open tax question in the shareholding-transfer section above and are
+worth putting to Jürgen/Pat for actual verification**, since if
+genuine they could resolve that open item — but they should not be
+treated as confirmed purely because Gemini stated them confidently.
+**Risk for Friday/30 Oct:** if Shane goes into either meeting treating
+his own AI's unverified-but-confidently-stated citations as settled
+while John is working from Jürgen's more cautious, properly-tagged
+findings, that's a real basis for friction or for an actual error
+reaching a formal document — worth naming directly with Shane rather
+than assuming the two AI outputs will naturally reconcile. **The IP
+count itself (wave 1/2/3) is good, concrete progress** — expected
+complete Thu/Fri 22-23 Oct — and gives a real number to anchor the
+five-question IP solicitor brief once the count closes.
   earlier logged. This is the call the one-pager is being prepared
   for.
 - **This Friday (24 Oct): Shane meets Pat Carroll alone** — not the
