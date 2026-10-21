@@ -305,6 +305,99 @@ work, not a standalone reference document.
   automation, human authority, evidence before confidence. 14-phase
   build sequence from architecture foundation to a "world-class product."
 
+### IBI Corporate Finance / DC Advisory funding landscape — flagged by John to revisit with Shane, 21 Oct 2026
+
+John shared an **IBI Corporate Finance (powered by DC Advisory)
+"Discussion Materials" deck, dated April 2025** — originally prepared
+for MiDentalCare's own funding search (James Doody, IBI Corporate
+Finance, forwarded 4 Apr 2025, cc Sean O'Dwyer and Niamh Feeney). John's
+own instruction: **"I want to revert to this later as possible funded
+to Shane and I"** — i.e. he wants to hold this as a reusable Irish
+funding-landscape reference and contact list for **ODIN**, not act on
+it now.
+
+**"Funding Options Snapshot" (Irish market) — six capital types mapped
+on a low-to-high-return spectrum:** Conventional Debt (lower cost,
+sector agnostic, but less flexible — AIB, Bank of Ireland, ptsb);
+Specialist Credit Funds (somewhat flexible, higher leverage, more
+expensive — DunPort, Muzinich & Co, Proventus, Hayfin, Beechbrook,
+Rothschild, Quintas); **EIIS** (sits as equity on the balance sheet but
+is effectively debt-like if return-capped at 20-25%; company
+self-certifies; may be limited to €2-3m and may need a co-investor —
+BVP, BDO, Azets, Quintas); **Venture Debt** (more flexible structures,
+equity kickers/warrants, higher interest rates, potential dilution —
+Claret Capital Partners, Beach Point, Kreos Capital, CapitalStep,
+Irelandia, Hambro Perks, WildTribe, Columbia Lake Partners, Teybridge);
+**Private Equity** (strengthens balance sheet, dilutive, more complex
+fundraising/exit considerations, negative control rights — BVP, MML,
+Cardinal, Melior, BGF, Renatus, Causeway Capital Partners); **Venture
+Equity** (same trade-offs as PE — Delta Partners, Act, Frontline,
+Foresight, Quintas, tribal.vc).
+
+**Specialist Debt Providers table — named contacts, directly reusable
+for any future ODIN debt conversation:**
+- **Beach Point Capital Management** (Shane Lanigan) — €90m fund, UK
+  office, sector-agnostic but prefers technology, owner-managed
+  businesses, 6-12 month look for companies with minimum revenue of
+  €5m (will consider €1m minimum), 7.5% return target with 6-12 month
+  interest-only periods, equity kicker 5-20%, typically 4-6 weeks from
+  initial meeting to closing — quick at closing. Previous portfolio:
+  Arconics, iCabbi, Obelisk, Maximum Media, WideEye Media.
+- **Teybridge Capital** (Peter Martin) — fintech working-capital
+  solutions (stock finance, purchase order finance, invoice finance,
+  growth loans), typical loan size €1m-€20m, flexible credit structure,
+  warrant-free options, 2-3 year maturity, amortising and/or bullet
+  repayment.
+- **Irelandia** (Michael Lynch) — private family office of **Declan
+  Ryan**, typically public markets/PE funds but has looked at
+  specialist debt opportunities; would seek 12% interest rate, equity
+  kicker 5-20%/equity warrant, could be flexible with interest-only
+  periods/bullet repayment, 2% arrangement fee likely.
+- **WildTribe** (Gavin Bourke / Michael Lynch) — private family office
+  of **Tom Morrisroe** (formerly The Now Factory), typically
+  property-focused but has looked at specialist debt opportunities;
+  same 12% rate/5-20% equity kicker/2% arrangement fee profile as
+  Irelandia.
+
+**James Doody's own forwarded email (4 Apr 2025) — his direct read on
+who's "most likely to engage," gold-rectangle-flagged in the deck:**
+- **EIIS:** BVP ("very close relationship... raised their recent ESG
+  debt fund"); BDO (works closely with **Sinéad Heaney**, head of EIIS
+  fund at BDO); Azets ("typically look at more mature businesses from
+  an EIIS perspective but worth speaking to"); Quintas (already in
+  conversation, equity perspective).
+- **Venture Debt:** Beachpoint ("definitely worth a discussion... may
+  be able to lend full amount and provide flexibility with interest-only
+  periods... can close very quickly"); Irelandia (case-by-case); WildTribe
+  (case-by-case).
+- **Growth Equity/PE:** Foresight ("I work with Foresight closely and
+  they have been looking at the dental market in Ireland" — contact
+  **Philip Gardiner**, "keen to meet"); Quintas Capital (introduction
+  already made).
+- **Doody's own caution on EIIS specifically:** raising a small amount
+  now risks giving EIIS investors shareholder rights requiring their
+  permission for later debt financing; any subsequent debt funder would
+  want a first-ranking charge, which EIIS investors may resist — agree
+  this upfront, and think about the right capital structure for the
+  next 5 years, not just the next 12 months.
+
+**Why logged, not actioned:** this deck predates MiDentalCare's
+liquidation and the material is now historical in its original
+context, but John explicitly flagged the funder landscape and named
+contacts (Beach Point/Shane Lanigan, Teybridge/Peter Martin,
+Irelandia/Declan Ryan family office, WildTribe/Tom Morrisroe family
+office, Foresight/Philip Gardiner, BDO/Sinéad Heaney) as a resource to
+revisit later as **possible funding for Shane and John jointly** — i.e.
+for ODIN, not MiDentalCare. Cross-reference against ODIN's existing
+funding-target material (the Hunting List, the two live $20m/$200m
+offers) next time ODIN funding strategy is discussed with Shane — this
+deck adds specifically Irish, debt/EIIS-side options that the
+international/frontier-investor Hunting List doesn't cover.
+**UNVERIFIED/AGING:** pricing, fund sizes and "who's most likely to
+engage" are an April 2025 snapshot — contact details, fund status and
+IBI/DC Advisory's own read should be reconfirmed before any real
+approach.
+
 ### "Model B" term sheet + cap table — educational examples from Shane, 9 Sept 2026
 
 John shared two documents explicitly as **teaching material** ("examples
