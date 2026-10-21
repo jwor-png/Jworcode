@@ -2443,6 +2443,46 @@ than assuming the two AI outputs will naturally reconcile. **The IP
 count itself (wave 1/2/3) is good, concrete progress** — expected
 complete Thu/Fri 22-23 Oct — and gives a real number to anchor the
 five-question IP solicitor brief once the count closes.
+
+### Shane sent a drafting memo ahead of the 8.30pm call, 21 Oct 2026 — John's instruction: hold, not raise objections yet
+
+Shane forwarded John a document titled "DELIVERABLE A: 1-Page
+Executive Legal Brief for John" — a memo framed as being from Shane to
+John, proposing a "live drafting session" tonight to lock down
+constitutions, inter-company IP assignments and cross-licensing
+**"while I [Shane] hold 100% unilateral ownership and control."**
+Headline content, Cuan's read: a Noesis-top structure with 10-votes/
+share Class B shares keeping Noesis above 85% voting power even after
+diluting to 55-65% economically; family/minority holders (which would
+include John's own 1%) placed in non-voting Class F trust shares with
+administrative POA held by Shane; an express waiver stating future
+share issues/licensing/IP spin-outs do not count as a "variation of
+class rights"; an express constitutional waiver letting Shane sit on
+all five boards and vote on inter-company contracts despite the
+conflicts; pre-Round-1 perpetual licences from Asterial to the other
+companies; and a dense chain of specific Companies Act/TCA 1997/SDCA
+1999 citations, none tagged with any verification caveat — a sharper
+version of the same confidence-mismatch risk already flagged with
+Shane's Gemini session earlier today.
+
+**Cuan flagged this clearly to John** (full breakdown given in chat,
+not yet committed as a separate file) — in particular that the "100%
+unilateral ownership" premise conflicts with the shareholding position
+still being treated as provisional pending Friday's meeting with Pat,
+and that the class-rights and director-conflict waivers are exactly
+the kind of mechanism Jürgen said need real solicitor sign-off, not
+live drafting over Zoom.
+
+**John's explicit instruction, received directly:** "All your comments
+are noted, however. I want to see what Shane has to say. Go through
+the document and hold. I'm not raising any positions of conflict or
+anything like that. If things have changed, then we need to discuss
+them, and I need to understand what Shane is actually trying to arrive
+at with the document that he has sent through." **Cuan's concerns are
+on record above; John has chosen to hear Shane out directly before
+raising them, not to withhold or soften them.** Status: holding:
+no further action, analysis or messaging on this document until John
+reports back from the 8.30pm call.
   earlier logged. This is the call the one-pager is being prepared
   for.
 - **This Friday (24 Oct): Shane meets Pat Carroll alone** — not the
