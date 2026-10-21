@@ -380,6 +380,17 @@ who's "most likely to engage," gold-rectangle-flagged in the deck:**
   want a first-ranking charge, which EIIS investors may resist — agree
   this upfront, and think about the right capital structure for the
   next 5 years, not just the next 12 months.
+- **Doody's closing recommendation:** "would be good to talk through
+  some of these options but I think Beach Point could be a good option
+  given their speed and flexibility (especially if you are favouring
+  debt options)" — his single clearest steer, reinforcing Beach Point
+  as the standout name in the deck.
+- **James Doody's own contact details (Director, IBI Corporate
+  Finance):** 33 Fitzwilliam Place, Dublin 2, D02 W899; switch +353 (0)1
+  963 1200; mobile +353 (0)87 067 8818; email
+  james.doody@ibicorporatefinance.ie. The original email was John's own
+  query to IBI Corporate Finance (sent Friday 4 April 2025, 12:16) —
+  the funding-landscape deck above was Doody's reply.
 
 **Why logged, not actioned:** this deck predates MiDentalCare's
 liquidation and the material is now historical in its original
