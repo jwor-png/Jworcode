@@ -21,4 +21,5 @@ Verification record as pasted: verified ss.88, 238, 1000, 1112, 1284, 1291, 1294
 3. "Childen sale" is named among the Noesis group items. Childen is Shane's estate and under the sensitivity gate. Confirm it belongs in a document that Shane's AI system will process and that goes to Pat Carroll.
 4. The working premise that Shane owns ODIN IP personally conflicts with Pat Carroll's schedule showing Asterial as the holder. State the premise as John's and confirm it against the CRO record and any assignment.
 5. John's s.1112 eligibility as PLC secretary should be checked against the three tests.
-6. Header says "Jurgen findings" but the content is a revision of Meridian's note. Label the provenance accurately.
+6. "Carol" is Pat Carroll, the Limerick accountant (John, 21 Oct). Remove "identify Carol" from item 6 above and replace with: Pat Carroll's office handles the group's company secretarial and accounting, so his suggestion of an IPO is from an adviser, not an investor. Ask whether any fee or engagement follows from a listing, and keep the corporate finance solicitor independent of his office. His meeting with John on Friday is the place to raise it.
+7. Header says "Jurgen findings" but the content is a revision of Meridian's note. Label the provenance accurately.

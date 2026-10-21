@@ -32,7 +32,7 @@ Refinement: some provisions do belong in the private constitution now, because c
 The two-tier structure does not need an "IPO clause". It needs three things: (a) a class conversion clause on a qualifying listing, (b) cessation of transfer and no-dilution restrictions at listing, and (c) an exit and reorganisation clause in the Asterial term sheet. Which entity lists remains a commercial decision for Shane and John.
 
 ## 6. Open items
-- Who is "Carol", in what capacity, and does she or anyone introduced by her have a fee interest in a listing? Not identified in the knowledge base.
+- "Carol" is Pat Carroll, the group's accountant (corrected by John, 21 Oct). Ask whether his office has any fee interest in a listing, and keep the corporate finance solicitor independent of it.
 - Instruct a corporate finance solicitor, not Asterial's or the investor's counsel.
 - Verify every statutory reference above before it goes to Pat Carroll or into drafting.
 
