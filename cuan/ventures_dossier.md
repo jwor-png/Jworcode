@@ -6650,15 +6650,40 @@ before liquidation).
 ---
 
 ## Midwestern Cancer Foundation — voluntary board role, new 21 Oct 2026
-- **Status:** Live opportunity, not yet decided. Meeting tomorrow (22
-  Oct) 10:30am-12pm, Mungret, with **Mairead O'Donnell** — confirmed
-  21 Oct via her own LinkedIn post as the Foundation's **General
-  Manager since July 2026** (not just a connector; see `people_map.md`
-  for the full update and the still-open question of whether her
-  Claochlu Consulting work continues alongside this) — and **John
-  Lawler** (new contact, no further detail yet). They've suggested
-  John join the Foundation's board of directors on a voluntary basis.
-  **John's own reaction: "very interested."**
+- **Status: AGREED, 21 Oct 2026.** John attended the meeting with the
+  Foundation's reps and **has agreed to join the Board** to help them.
+  His own account, verbatim: "it's currently based in Mungret, 20
+  years in existence and has the support of the McManus Foundation, it
+  will be looking for a new premises in Limerick, entirely voluntary
+  and the right thing to do." (Note: this meeting appears to have run
+  earlier than the originally-noted 22 Oct 10:30am slot — John's own
+  message is timestamped 13:16 on 21 Oct, so either the meeting date
+  moved forward or this is a same-day follow-up; worth clarifying which
+  with John if it matters later.) Met with **Mairead O'Donnell**
+  (confirmed General Manager since July 2026 — see `people_map.md`) and
+  **John Lawler** (still not otherwise identified — role/company
+  unknown).
+- **Backed by the McManus Foundation** — a new, previously unlogged
+  connection worth noting for Limerick relationship-mapping purposes.
+- **Premises search live:** the Foundation is actively looking for a
+  new premises in Limerick — worth flagging to Tairseach's own
+  property-intelligence lens in case a fit ever emerges, though no
+  commercial angle here (this is a voluntary role, not a venture).
+- **"Our Impact" infographic (Jan-Sept 2026), shared by John —
+  concrete scale of what the Foundation actually does:** 353 clients
+  registered this year (89 male/25%, 264 female/75%); of those, 78%
+  (275) directly impacted by cancer themselves, 7% (25) spouse/partner,
+  15% (53) family member/carer; age spread skews 46-65 (138) and 65+
+  (108), with 54 in the 25-45 bracket and a small number of children
+  (8 aged 5-12). **1,479 one-to-one sessions this year**: 367
+  counselling, 737 reflexology, 157 Reiki, 131 massage, 76 Indian head
+  massage, 11 facials. Programmes/groups in 2026: Look Good Feel
+  Better (5 programmes, 43 participants), Mindfulness (16 sessions, 155
+  participants), Breast Cancer Support Group (7 meet-ups, 32
+  participants), Prostate Support Group (5 meet-ups, 29 participants),
+  plus Empower, Thrive & Survive, Climb and a Book Club. A genuinely
+  substantial, high-volume community support operation, not a small
+  advisory board seat.
 - **Official details, confirmed 21 Oct via the Foundation's own
   LinkedIn page:** full name **Mid Western Cancer Foundation**, based
   in Mungret, Limerick; website **mwcf.ie**, phone **061 210979**.
@@ -6679,9 +6704,11 @@ before liquidation).
   of the Noesis draft, not firmly 2pm anymore. Worth confirming actual
   timing with Shane directly rather than assuming 2pm holds.
 - **Open items:** John Lawler not yet in `people_map.md` — role/company
-  unknown, to be added once known. Nothing decided yet on whether John
-  accepts the board seat — logged as a live, interesting opportunity,
-  not a commitment.
+  unknown, to be added once known. Board role itself now agreed —
+  remaining open items are formal onboarding (board papers,
+  induction, any declaration-of-interest process) and whether
+  John's existing commercial roles (UHL/AHL/Meridian etc.) need any
+  conflict check given the Foundation's own governance.
 - **Cross-reference, 21 Oct 2026:** same week, John shared a market-
   intel piece on Vanessa Mooney's "Someone Like Me" cancer-support app
   (`market_intel_someone_like_me_cancer_app_oct2026.md`) — a free,

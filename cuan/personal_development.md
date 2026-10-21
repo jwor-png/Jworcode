@@ -1282,9 +1282,23 @@ bed"). Eight lessons, each with the thread's own short framing:
    refused to.
 
 **Cross-reference:** squarely in the same register as John's own
-shaving-mirror mantra at the top of this file ("Action is the antidote
-to anxiety," "Be positive always, no problems, only solutions") and
-the recurring discipline/agency theme already logged from the desk
-calendar and Marcus Aurelius entries. No further commentary added;
-logged as-is.
+shaving-mirror mantra at the top of this file and the recurring
+discipline/agency theme already logged from the desk calendar and
+Marcus Aurelius entries. No further commentary added; logged as-is.
+
+---
+
+## "If you get the chance to sit it out or dance, I hope you dance" — desk calendar, 21 October 2026
+
+**Source:** Snámhaí Sásta desk calendar (same source as the earlier
+"Five simple reminders" and "We are not given a good life or a bad
+life" entries), 21st October page, photographed by John 21 Oct 2026.
+
+> "If you get the chance to sit it out or dance. I hope you dance."
+> — Lee Ann Womack
+
+**Cross-reference:** same desk-calendar source as two earlier entries
+this month — same agency/seize-the-moment register, pairs with the
+McRaven "take the risk everyone else is afraid of" lesson logged just
+above. No further commentary added; logged as-is.
 
