@@ -4365,8 +4365,20 @@ acquired shares previously held by the Liquidator of his former Gort
 company, formally requested transfer 6 Aug 2026, wants to proceed. RB
 Coogan Ltd — business acquired by Ulster Builder Providers Ltd, wants to
 proceed. Both live transfers go to the Board at the next meeting, then
-John obtains a BDO fee quote for the company secretarial work. **Two
-inconsistencies to resolve before the register is written up:** the
+John obtains a BDO fee quote for the company secretarial work.
+
+**Ignatius Cahill transfer — confirmed resolved on process, 21 Oct
+2026.** Nigel Gaule CPA (Gaule Bermingham & Co, Limerick), acting for
+Ignatius's personal tax affairs, had queried the consideration paid,
+confirmed stamp duty already discussed with Ignatius, and flagged a
+lost-certificate indemnity will be needed. John clarified 20 Oct that
+he'd understood Ignatius wanted **BDO to handle all aspects of the
+share transfer for AHL**; Nigel confirmed this directly 21 Oct —
+**Ignatius does want BDO to handle it, and has asked John to proceed
+with the share transfer on that basis.** Open action for John: instruct
+BDO to proceed with the Ignatius Cahill transfer (fee quote still
+needed per the standing action above), and arrange the lost-certificate
+indemnity. **Two inconsistencies to resolve before the register is written up:** the
 April minutes record Cahill's shares as "transferred back to him by the
 Liquidator," John's 26 Aug email to BDO says he "purchased" them, and
 Cahill's own email says purchased from Conor O'Boyle — purchase and
