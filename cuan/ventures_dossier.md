@@ -1890,12 +1890,17 @@ verified against the statute this session:**
   decision for John and Shane, but has real knock-on legal
   consequences for where IP and share structure need to sit.
 
-**John's instruction: route this to Pat Carroll** (not Jürgen/Meridian
-this time) — real qualified Irish corporate counsel, already in the
-loop on the structuring work, rather than resolving or drafting this
-internally. Added to the draft one-pager (§4, "what goes to Pat") as a
-new, clearly-flagged open question — not a drafted clause, not
-resolved tonight.
+**Correction, same evening:** Cuan initially misread John's one-word
+reply "Pat Carroll" as an instruction to route this question to Pat —
+**wrong.** John clarified he was only giving the correct spelling of
+Pat Carroll's name against an earlier transcription error elsewhere in
+the dictation, not instructing routing on the IPO question. **John's
+actual position: "I'm not going to Pat Carroll on this. I'm asking
+you"** — i.e. he wants Cuan's own answer, not a deferral to Pat.
+One-pager corrected to remove the "route to Pat" framing; the IPO
+question stays logged as a genuinely open item needing qualified legal
+input before drafting, with the routing decision (Jürgen, a solicitor,
+or otherwise) still to be made by John directly.
 
 **Status:** `make_shane_call_onepager.js` updated and regenerated as
 `Noesis_Shane_Call_22Oct2026.docx` (not committed to this repo, sent
