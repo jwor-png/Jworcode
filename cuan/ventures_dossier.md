@@ -8810,3 +8810,5 @@ Limited (804907), Mainly Velocity Limited (804908); Zubelsala, SanCelvio, Odin
 Labs agree. John's attached 22 Oct files are the final set. Not sent.
 
 John confirmed (22 Oct, evening) the registered names: Noesis AI Agent System Limited, Asterial Limited, Mainly Velocity Limited (Document 6 correct). Documents 1 to 4 to be corrected to match; note wording updated.
+
+One-mind note restructured (22 Oct, evening): section 4 "Shane, please consider and review" (names, printed date, Document 2, order/clause 2.1, rate card) and section 5 "Points to confirm" (new companies, secretary, shares moving, constitutions, Pat). Documents 3 and 4 now "Yes, once the name is corrected". Final version for John to send to Shane; not sent by Cuan.
