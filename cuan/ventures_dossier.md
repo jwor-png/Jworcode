@@ -3006,8 +3006,20 @@ documents name "Tairseach Limited"; John and Pat's schedule say
 "Tairseach Property Limited" (CRO to confirm). Pat has now received the
 pack, so "what Shane sent Pat" is answered.
 
-**Status:** headlines given to John; the note to Shane not yet revised.
-John to decide changes.
+**Status (updated):** John asked for the note to reflect Shane's email and
+the final Document 10, his earlier wording changes and the corrected
+Tairseach name (Tairseach Property Limited, trading as Tairseach; the
+documents, Documents 1, 2, 4 and 5 to 10, and Shane's email say
+"Tairseach Limited"). Revised note produced (three pages, plain-language
+document table, "Group A / Group B" in place of Stage 1 / Stage 2,
+DRAFT wording removed because John intends to send it to Shane after
+his read). New rows added, each tied to a quoted location: order of
+steps (Shane's email against Document 10 and Document 2), constitutions
+for the other five companies (Document 2 says Documents 3 and 4 cover
+seven; the pack has two), missing rate card (Document 8 clause 1.4),
+printed 22 October dates, Document 2 errors, and Pat's view of the pack.
+Valuation section now cites Document 10 section 4.1 (independent
+certificate) and the Group Tax and Accounting Adviser sign-off.
 
   earlier logged. This is the call the one-pager is being prepared
   for.
