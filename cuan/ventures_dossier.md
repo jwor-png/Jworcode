@@ -2817,6 +2817,51 @@ recorded as decisions/positions:
 **Status:** John asked for these points to be clarified before the
 final note to Shane is drafted. Note to Shane not yet written.
 
+**John's further positions, same day (22 Oct):**
+- **LLM:** ignore. John's read: Shane told Pat he may want the company,
+  it will not be activated for now and stays dormant on the schedule.
+- **IP solicitor / valuation:** John and Shane do not want an IP
+  solicitor involved now unless needed; appointment to be discussed with
+  Pat and Shane tomorrow. John asks whether the Stage 2 valuation
+  sign-off (Documents 2 and 10) is relevant now, and if not done, whether
+  it is established between Pat, Shane and John. Standard set by John:
+  everything must be defensible to a tier-one standard, without
+  over-justification. Shane will want all documents signed tomorrow and
+  John agrees nothing should wait.
+- **Agreements register:** John has no access to or knowledge of Shane's
+  external agreements (some with friends and family, likely oral); it
+  should emerge from tomorrow's meeting or the group meeting on 30
+  October (John said "30th of September"; read as 30 October). No action
+  by John until then.
+
+**Cuan's clarification on the valuation point (general knowledge, tax
+law points unverified):**
+- The pack contains no valuation. Document 10 is a directive and tax
+  ledger; Gate A (Documents 2 and 10) says the valuation memorandum and
+  chain-of-title schedule must exist before the IP assignment, licence
+  and R&D deed are executed. Document 10 itself says connected-party IP
+  assignments are taken at market value (TCA s.547, as stated in the
+  document, not verified).
+- A valuation is a tax and accounting exercise, not an IP-solicitor one.
+  Whether Pat can prepare or sign it within his remit, or whether a tax
+  adviser is needed, is Pat's to confirm. A figure agreed only among the
+  three connected people is the weakest basis for a market-value test.
+- The chain-of-title schedule (authorship, prior Velocity AI contracts,
+  open-source audit) is a diligence exercise within John's task 8,
+  fed by Shane's IP count (due Thu/Fri). The documents do not require an
+  IP solicitor to sign anything.
+- Option that keeps Shane's "sign tomorrow": sign Stage 1 tomorrow
+  (constitutions, charter, SHA, s.238 approvals); sign Stage 2 deeds
+  (IP assignment, licence, R&D deed) once the valuation memo exists,
+  same week. Shane stays 100% holder, and the share allotments (Step 3)
+  wait in any case. If everything is signed tomorrow, the deeds sit
+  ahead of the gate the documents themselves set, and any backdating
+  widens that gap.
+- Internal cross-reference errors found: Document 2 calls Document 9 the
+  "Omnibus Deed of IP Assignment" (it is Document 7); Document 2 puts
+  parts of Document 7 in Stage 1 while Document 10 puts Document 7 in
+  Step 2 after valuation. To be tidied before signing.
+
   earlier logged. This is the call the one-pager is being prepared
   for.
 - **This Friday (24 Oct): Shane meets Pat Carroll alone** — not the
