@@ -2626,6 +2626,111 @@ by Cuan given John's instruction to hold** — worth John being aware
 this is explicitly how Shane is reasoning about tonight's process, in
 case it becomes relevant to how the finished documents are actually
 treated afterward.
+
+### The ten finished documents reviewed in full, 22 Oct 2026 morning
+
+Shane shared a Google Drive folder ("Final Docs for Pat (From John
+and Shane)," owned by mccarthyshanemarketing@gmail.com) containing all
+ten documents produced overnight via Gemini. **John's explicit
+instruction: review and explain each one in full, cross-reference
+against the original 8 Oct work brief and Pat's own plan, do NOT share
+anything with Meridian or Jürgen on this — purely a Cuan/John
+exercise.** Cuan read all ten PDFs in full. Full plain-English
+breakdown already given to John in chat; summarised here for the
+permanent record.
+
+**The ten documents:** (1) The Noesis Estate Strategic and Structural
+Master Brief — the cover memo, three-ring IP architecture (Ring 1 Oden
+core stays in Asterial; Ring 2 "shared spine" licensed out and synced
+to Zubelsala every 90 days; Ring 3 vertical IP stays 100% in each
+operating company, never flows back); (2) John's Statutory and
+Execution Control Sheet — the step-by-step execution checklist/
+timetable with legal formality required at each stage; (3) Asterial's
+dual-class constitution (Class B 10 votes, held by Noesis; Class A 1
+vote); (4) Noesis's constitution — **three share classes: Class B (10
+votes, held personally by Shane), Class A (1 vote, minority
+partners), and Class F (zero votes, non-voting family dividend
+shares, "may be held through a family nominee or trust")**; (5) The
+Three-Ring/Value Matrix Charter — restates the architecture as its own
+signed Deed; (6) Baseline Shareholders' Agreement — same voting/board
+terms as a commercial contract, plus a clear reserved-matters split
+(what investors can/can't block); (7) The IP Assignment Deed — Shane
+personally assigns all IP into the right companies, waives moral
+rights, companies approve as a connected-person transaction; (8) The
+Master Inter-Company Licence — implements the Ring 2/Ring 3 licensing
+flow plus the "Reverse Change-of-Control Liberation Clause" (if
+Asterial is sold, every sister company's licence instantly becomes
+free and permanent); (9) The R&D Sub-Contracting Deed — formalises
+Odin Labs as Asterial's 100%-owned R&D subsidiary for the R&D tax
+credit and Knowledge Development Box regime; (10) The Valuation, Tax
+Election and Investor Rider — same four-step sequencing from the tax
+side, plus a one-page rider meant to be attached to any future
+investor term sheet.
+
+**The sequencing logic, confirmed directly in Documents 2 and 10 —
+matches John's own "draft while simple, dilute afterwards" reading
+from last night:** Step 1, adopt constitutions while Shane holds
+100%; Step 2, move the IP and set up licensing, still 100%
+Shane-held; Step 3, only then allot minority/family shares against
+real cash payment with a 3-year lock-up; Step 4, only then bring in
+outside investors.
+
+**The critical gap, flagged clearly to John: none of the ten
+documents name John or allocate his shareholding.** Nothing confirms
+whether his eventual 1% lands in the voting Class A tier or the
+non-voting, trust-held Class F "family" tier — that allocation is
+explicitly deferred to Step 3, at Shane's discretion. This is the
+single most important open point for today's discussion with Shane
+and for Friday's meeting with Pat.
+
+**Execution mechanics — direct answer to John's earlier question
+about witnessing:** every document (3 through 9, parts of 1, 5 and
+10) requires Shane's personal signature **physically witnessed**
+(Land and Conveyancing Law Reform Act 2009, s.64) plus the relevant
+company's **common seal** affixed with a director and secretary/
+authorised person present. John is named as witness throughout. This
+cannot be completed over a Zoom call — real in-person formality.
+
+**Other flags given to John:**
+- Tairseach and Odin Labs are named as signing parties throughout
+  despite neither being incorporated yet ("incorporation pending").
+- The documents cite 100+ individual statutory references across the
+  Companies Act 2014, Copyright and Related Rights Act 2000, Taxes
+  Consolidation Act 1997, Stamp Duties Consolidation Act 1999, CATCA
+  2003, VATCA 2010, LCLRA 2009, the Screening of Third Country
+  Transactions Act 2023, and an EU Regulation 2026/877 — none of this
+  verified by Cuan; flagged as exactly the kind of density that needs
+  real solicitor sign-off before reliance, consistent with Shane's own
+  ChatGPT red-team flagging "citations a tier-one opposing counsel
+  would attack if left sloppy" the previous night.
+- Sancelvio's purpose is still ambiguous even across these finished
+  documents (generic "operating subsidiary" framing, no resolution of
+  the endometriosis-vs-child-safety question). "LLM" doesn't appear
+  anywhere in the ten documents.
+- Cross-referenced against Shane's 8 Oct brief and Pat's own 9-16 Oct
+  sequencing plan: matches well on structure and task coverage: task 2
+  (share rights/founder control) answered by Documents 3/4/6; task 8
+  (IP/diligence traceability) answered by Document 7. Does not resolve
+  the IP solicitor naming — every "tax and valuation sign-off"
+  signature block across all ten documents is still blank.
+
+**Discussion points given to John for today's conversation with
+Shane, and for explaining to Pat tomorrow if pressed:** his own
+shareholding/class allocation is undefined; the physical signing/
+sealing logistics across seven companies (two not yet incorporated)
+can't be done tonight regardless of drafting being "finished"; the
+statutory citation density needs real verification before reliance;
+Tairseach/Odin Labs signing as parties pre-incorporation needs
+resolving; the Reverse Change-of-Control Liberation Clause (Asterial
+sale triggers free permanent licences for every sister company) is a
+real design choice worth knowing whether it was Shane's own instinct
+or Gemini's suggestion, given its revenue implications for the rest
+of the group.
+
+**Status:** full breakdown delivered to John in chat; offered to
+produce a printable one-pager version of this briefing — not yet
+confirmed whether John wants that.
+
   earlier logged. This is the call the one-pager is being prepared
   for.
 - **This Friday (24 Oct): Shane meets Pat Carroll alone** — not the
