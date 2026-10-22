@@ -3020,6 +3020,20 @@ seven; the pack has two), missing rate card (Document 8 clause 1.4),
 printed 22 October dates, Document 2 errors, and Pat's view of the pack.
 Valuation section now cites Document 10 section 4.1 (independent
 certificate) and the Group Tax and Accounting Adviser sign-off.
+Further changes to the note (John, 22 Oct, later): printed 22 October
+2026 dates to be removed from Documents 5 to 10 and each dated only when
+actually signed; CRO names and numbers in Shane's documents accepted as
+accurate (Pat's list no longer includes a names check); order-of-steps
+row reframed as a possible ambiguity (two sets of subscribers) rather
+than a proven conflict: Documents 2, 4, 6 and 10 put minority/family
+subscriptions after the IP assignment; Shane's email (step 2) and
+Document 7 clause 2.1 refer to cash subscriptions before or as
+consideration for it; constitutions for the other five companies and the
+missing rate card (the schedule of royalty fees each operating company
+pays Asterial under the licence) put to Shane as questions. John will
+send the note to Shane after his read; the "ten documents at a glance"
+one-pager is to be updated once the final attached versions arrive.
+
 Tairseach naming (John, later): the note no longer asserts "Tairseach
 Property Limited". It records that the documents and Shane's email say
 "Tairseach Limited", that John had understood "Tairseach Property
