@@ -2950,6 +2950,65 @@ one-mind note to Shane:**
 - Status: John to read, then give authority for the final version for
   Shane.
 
+### Shane emailed the ten documents to Pat, 22 Oct 2026 (15:11 UTC): comparison with the set reviewed earlier
+
+Shane emailed Pat (John on bcc) "NOESIS Group: Plain-English Guide to the
+10-Document Legal, IP & Tax Pack" with all ten PDFs attached and a
+plain-English guide. John's instruction: Shane referred to the CRO for
+legal names; where Pat's schedule conflicts with the documents'
+registered names and numbers, the documents prevail. Pat's company
+schedule is to be ignored where it disagrees.
+
+**Comparison result (Cuan):** only Document 10 changed. The other nine
+attachments are the same size to the byte as the versions reviewed
+earlier (not a word-by-word check). Document 10 is now three pages
+(was two; 225,689 bytes before, 209,188 now).
+
+**Document 10, new against old:**
+- Four-step order rewritten. Old: Step 1 constitutions and s.238
+  resolutions; Step 2 valuation sign-off then Documents 7, 8 and 9
+  together; Step 3 KEEP pool and minority/Class F subscriptions; Step 4
+  outside investors. New: Step 1 Documents 3, 4, 5, 6 and s.238
+  resolutions while Noesis is 100% Shane-held; Step 2 independent tax
+  valuation memo then Document 7; Step 3 Documents 8 and 9; Step 4
+  minority Class A and F shares against cleared cash, then the KEEP pool,
+  before any institutional term sheet circulates. Outside-investor
+  subscription is no longer a numbered step.
+- New Section 4, pre-closing working papers: 4.1 "Independent valuation
+  certificate" of pre-money market value before Document 7; 4.2 cleared
+  funds bank ledger for subscriptions; 4.3 VAT and R&D/KDB ledgers.
+- Tax matrix rewritten: the old CATCA s.43 / TCA s.128 nominal
+  subscription row and the KEEP row are gone as rows (now in the steps
+  and Section 4); headline statute list changed (dropped ss.441, 597AA
+  and 766, VATCA and STCTA from the header; ss.597AA, VATCA and STCTA are
+  still cited in the body).
+- Sign-off page replaced. Old: Approved by Founder; Verified by Legal
+  Lead; Tax and Valuation sign-off name. New: sealed by Noesis and
+  Asterial (Shane as director plus secretary or authorised person);
+  John "Verified and Witnessed by Legal Governance Lead" with address,
+  occupation and date; "Group Tax and Accounting Adviser" signs a
+  tax clearance with name, firm and date. Recital says executed and
+  verified on 22 October 2026.
+- Investor rider: same seven items.
+
+**Mismatch between Shane's covering email and the attached Document
+10:** the email's step 2 says shares are subscribed in cleared cash at
+nominal value before any IP is assigned, step 3 valuation memo and
+Document 7, step 4 Documents 8 and 9. The attached Document 10 has no
+such founder/group subscription step and puts minority subscriptions at
+step 4, after the IP. Document 7 clause 2.1 recites subscriptions as
+consideration (matches the email's order); Documents 2 and 10 put them
+after. Pat will see both. For Shane to align.
+
+**Other points noted:** Documents 5 to 10 pre-print "22 October 2026" as
+the date of execution while signing is 23 October. Shane's email and the
+documents name "Tairseach Limited"; John and Pat's schedule say
+"Tairseach Property Limited" (CRO to confirm). Pat has now received the
+pack, so "what Shane sent Pat" is answered.
+
+**Status:** headlines given to John; the note to Shane not yet revised.
+John to decide changes.
+
   earlier logged. This is the call the one-pager is being prepared
   for.
 - **This Friday (24 Oct): Shane meets Pat Carroll alone** — not the
