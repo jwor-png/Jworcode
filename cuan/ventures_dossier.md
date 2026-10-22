@@ -2886,6 +2886,48 @@ one-mind note to Shane:**
   mark Agreed or Amend, plus post-meeting owners) was produced for
   John's review; not sent. Weekly payment deliberately omitted.
 
+**John's final instructions on the note, and the valuation answer (22 Oct):**
+- John asked for the 1% to 2% references, the Tairseach 80/20 row, the
+  "My own interest" row, the "My signature" row and the fee/role-in-
+  writing line to be removed. His position: shareholdings (the 1% holders
+  go to 2% each on performance, per Shane verbally) are for Shane and Pat
+  tomorrow and are not for John to raise; his role is rewarded in
+  shares, with salary to come from investment or other cash, and he is
+  currently paid via Velocity for United Hardware and Barber Republic
+  work. Witnessing is inconsequential to him. Done; note revised.
+- Secretary: Pat countersigns Noesis's seal tomorrow; any change after
+  the meeting, may not happen; no execution waits on it.
+- New companies: Tairseach Property Limited may be confirmed
+  incorporated tomorrow (sign if Pat has the pack); Odin Labs
+  incorporation instructed, joins later by deed of adherence.
+- Valuation (Cuan, general knowledge, tax points unverified): Pat as
+  accountant prepares, saying whether a tax adviser or independent
+  valuer is also needed; inputs from Shane/John: IP inventory and
+  count, cost schedule (Shane's time, expenses, subscriptions, tokens,
+  third-party costs, dated), authorship, revenue/licences/investor
+  interest, Document 8 rate card. Cost is a starting point; Pat
+  chooses the market-value basis. Cost schedule quick; memo date set
+  with Pat.
+- IP solicitor: John's view, accepted: the group's investment solicitor
+  (experienced Dublin corporate firm) will cover IP; no separate IP
+  solicitor now.
+- Execution schedule per documents' own sequence: Documents 1, 2, 5, 6
+  yes on 23 Oct; 3 and 4 yes after Article 1 corrections; 10 yes with
+  tax line pending; 7 after valuation (or split into waivers/approvals
+  now and assignment later); 8 after valuation; 9 after valuation and
+  Odin Labs incorporation. Proposal: sign 1 to 6 and 10 on 23 Oct, rest
+  by 30 Oct or sooner.
+- New gap found: Document 3 is signed by Noesis as Asterial's sole
+  member, but Pat's schedule shows Shane holding Asterial personally;
+  the ten documents do not cover moving subsidiary shares to Noesis or
+  converting existing issued shares (e.g. Noesis's 100 EUR 1 shares
+  under Pat) into the new classes. Pat's plan has Noesis buy the shares
+  after the shareholders are in. Added to the note for Pat to confirm
+  steps and tax.
+- Company names: specific fixes are Document 3 and Document 4 (title,
+  Article 1, execution page) and Document 1's entity table; Gemini to
+  correct; Pat or John to check against the CRO.
+
   earlier logged. This is the call the one-pager is being prepared
   for.
 - **This Friday (24 Oct): Shane meets Pat Carroll alone** — not the
