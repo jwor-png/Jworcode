@@ -7852,6 +7852,13 @@ before liquidation).
   into the Cancer Foundation Board, a nice feeling." Shane's reply:
   "Congrats. Time to get to work 🫡" — this is now a completed board
   appointment, not just an agreed intention as logged earlier today.
+- **First board meeting invitation, 22 Oct 2026:** Mairead O'Donnell
+  (mairead@mwcf.ie) sent a calendar invitation, "MWCF Board Meeting (C)",
+  for **Wed 11 Nov 2026, 16:00 to 18:00 (GMT)**. Other invitees by
+  email address: jclawler (John Lawler), liamtoland, catherinehand19,
+  martinabsomers, kay.chawke, stjohn.dundon@dundoncallanan.ie and
+  annemarie.gilmartin@hse.ie. Not yet in John's calendar (the invite
+  was flagged as from an unknown sender).
 - **Status: AGREED, 21 Oct 2026.** John attended the meeting with the
   Foundation's reps and **has agreed to join the Board** to help them.
   His own account, verbatim: "it's currently based in Mungret, 20
