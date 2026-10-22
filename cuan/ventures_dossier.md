@@ -2862,6 +2862,30 @@ law points unverified):**
   parts of Document 7 in Stage 1 while Document 10 puts Document 7 in
   Step 2 after valuation. To be tidied before signing.
 
+**John's clarifications, same day (22 Oct), after the first draft of the
+one-mind note to Shane:**
+- Company names: John understood the documents use the full legal name,
+  company number and trading name, and that Pat's schedule used short
+  names. Cuan checked: Pat's schedule and standard constitution already
+  use "Noesis AI Agent System Limited"; Documents 5 to 10 use full
+  registered name, number and trading name; the short names are in the
+  constitutions (Documents 3 and 4, Article 1: "Asterial AI Limited",
+  "Noesis Limited") and Document 1. Fix: Shane to have them corrected;
+  Pat or John to check every name and number against the CRO (including
+  Velocity, "Mainly" or "Manly", and the Tairseach name once
+  incorporated).
+- Secretary: John will ask Shane whether Pat stays secretary of Noesis
+  or John takes it over in line with Asterial, SanCelvio and Zubelsala
+  (change filed on Form B10, as on 24 Sept for the others).
+- Tairseach and Odin Labs: agreed by John that neither can be sealed
+  tomorrow and both stay outstanding while the other documents are
+  signed. Cuan noted Document 8 has a Deed of Adherence for later
+  joiners; Odin Labs may need its own joinder (unverified, Pat or the
+  solicitor to confirm). This avoids backdating for those two.
+- A draft one-mind note to Shane (docx, table of points for Shane to
+  mark Agreed or Amend, plus post-meeting owners) was produced for
+  John's review; not sent. Weekly payment deliberately omitted.
+
   earlier logged. This is the call the one-pager is being prepared
   for.
 - **This Friday (24 Oct): Shane meets Pat Carroll alone** — not the
