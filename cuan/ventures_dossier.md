@@ -2928,6 +2928,28 @@ one-mind note to Shane:**
   Article 1, execution page) and Document 1's entity table; Gemini to
   correct; Pat or John to check against the CRO.
 
+**Further agreed changes to the note (22 Oct, later):**
+- Velocity name check dropped (John: names were settled when the
+  documents were built; Cuan's doubt came from a hard-to-read scan of
+  Pat's schedule). Tairseach narrowed to: correct the documents if the
+  registered name differs from "Tairseach Limited" when the CRO
+  confirms (John expects "Tairseach Property Limited").
+- Shares moving to Noesis reworded as a plain question for Shane:
+  whether Asterial's shares move to Noesis before Document 3 is signed;
+  Pat to confirm steps and tax.
+- Added what Pat and the tax adviser confirm on valuation: who prepares
+  and signs, basis of market value, valuation date, tax on IP and shares
+  moving, and whether the memo can follow signing.
+- Added Document 7 clause 2.1 point: the IP is assigned in
+  consideration of the nominal share subscriptions, which on the
+  documents' own order come after the assignment; for Pat or the
+  solicitor to consider wording and effect on assignment and tax.
+- Added a line: if all ten are signed on 23 Oct, Documents 7, 8, 9 sign
+  ahead of the valuation memo and Document 9 needs Odin Labs
+  incorporated first; Pat to say whether acceptable.
+- Status: John to read, then give authority for the final version for
+  Shane.
+
   earlier logged. This is the call the one-pager is being prepared
   for.
 - **This Friday (24 Oct): Shane meets Pat Carroll alone** — not the
