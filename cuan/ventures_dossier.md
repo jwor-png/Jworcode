@@ -8794,3 +8794,17 @@ Saudi offers or the UAE family office directory. Worth raising alongside
 the UAE directory in tomorrow's discussion with Shane, given both are
 Gulf-region sovereign/institutional capital sources surfaced the same
 week.
+
+**One-mind note revised again (22 Oct, evening):** per John, Tairseach line
+now "Tairseach Limited will trade as Tairseach"; Grassroots outside (Pat),
+Equitas not in the pack and its entry depends on Shane speaking to its other
+shareholders (no hold-up); LLM line dropped; highlighted instruction at top to
+remove the printed 22 Oct date from Docs 5 to 10; Docs 7, 8, 9 end with
+highlighted "for Shane and Pat to agree" lines; Doc 2 status "Not yet, Shane to
+correct" (Doc 9 mislabelled as the IP assignment; licence signed with
+assignment against Doc 10; Doc 7 Parts A/B in Stage 1; seven constitutions vs
+two); secretary question added. Names row now states the inconsistency only:
+Docs 3, 4 (and 1, 2) say Noesis Limited / Asterial AI Limited / Velocity AI
+Limited; Doc 6 page 1 says Noesis AI Agent System Limited (805939), Asterial
+Limited (804907), Mainly Velocity Limited (804908); Zubelsala, SanCelvio, Odin
+Labs agree. John's attached 22 Oct files are the final set. Not sent.
