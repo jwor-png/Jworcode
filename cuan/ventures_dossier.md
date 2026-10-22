@@ -8808,3 +8808,5 @@ Docs 3, 4 (and 1, 2) say Noesis Limited / Asterial AI Limited / Velocity AI
 Limited; Doc 6 page 1 says Noesis AI Agent System Limited (805939), Asterial
 Limited (804907), Mainly Velocity Limited (804908); Zubelsala, SanCelvio, Odin
 Labs agree. John's attached 22 Oct files are the final set. Not sent.
+
+John confirmed (22 Oct, evening) the registered names: Noesis AI Agent System Limited, Asterial Limited, Mainly Velocity Limited (Document 6 correct). Documents 1 to 4 to be corrected to match; note wording updated.
