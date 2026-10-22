@@ -3020,6 +3020,11 @@ seven; the pack has two), missing rate card (Document 8 clause 1.4),
 printed 22 October dates, Document 2 errors, and Pat's view of the pack.
 Valuation section now cites Document 10 section 4.1 (independent
 certificate) and the Group Tax and Accounting Adviser sign-off.
+Tairseach naming (John, later): the note no longer asserts "Tairseach
+Property Limited". It records that the documents and Shane's email say
+"Tairseach Limited", that John had understood "Tairseach Property
+Limited", and that the registered name is fixed on incorporation; the
+trading name is Tairseach. Documents then carry the registered name.
 
   earlier logged. This is the call the one-pager is being prepared
   for.
