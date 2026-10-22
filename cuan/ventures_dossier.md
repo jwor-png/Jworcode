@@ -2731,6 +2731,92 @@ of the group.
 produce a printable one-pager version of this briefing — not yet
 confirmed whether John wants that.
 
+### Pat Carroll item-by-item briefing — John's responses, 22 Oct 2026
+
+Cuan gave John a nine-item table (from Pat's 13/16 Oct emails and the
+company schedule) of what is outstanding with Pat. John's responses,
+recorded as decisions/positions:
+
+- **Item 1 (Pat unaware of the ten documents):** Shane will present
+  the documents and manage Pat's understanding tomorrow; John was
+  involved in the legal mechanics and drafting with Shane. John's
+  view: the documents save Pat from continuing his own redraft of some
+  of them. Pat has not yet agreed to that — his 13 Oct email said he
+  would redraft the Noesis constitution/SHA himself and combine it
+  with John/Shane's framework.
+- **Item 2 (IP solicitor):** Pat's to answer; John raised it 16 Oct;
+  no reply; John reads it as busyness, not avoidance. Pat and Shane
+  have not met before — tomorrow is their first meeting, driven by
+  Shane's family shareholdings; John is not attending the full
+  meeting for that reason. John's question whether the IP solicitor
+  actually matters is answered below.
+- **Item 3 (agreements register):** John sees it as sensitive and
+  resolved through Shane's conversation with Pat; does not see it as
+  Tom's; asks whether it fits his own remit after the overnight work.
+  Cuan's answer: yes it fits John's remit (task 8 of the 8 Oct brief),
+  but the ten documents cover only intra-group agreements (Docs 6-9),
+  not Shane's external and verbal agreements, which is what Pat asked
+  for. Proposed shape: Part A intra-group (the ten documents, one
+  line each); Part B external agreements, one page each per Pat's
+  template, content to come from Shane.
+- **Item 4 (John's legal background):** closed — answered in John's
+  16 Oct email; nothing more to add.
+- **Item 5 (Equitas):** not mentioned by Shane and absent from the ten
+  documents, so John infers it is being omitted; John will phone Shane
+  to confirm. **Item 6 (Grassroots):** John stays silent on it while
+  dormant; stays outside Noesis.
+- **Item 7 (Asterial "Dormant"):** John expects the status to change;
+  Shane says he completed documents for Pat yesterday (contents not
+  known to John). For Pat to resolve, but John wants Shane to raise it.
+- **Item 8 (Tairseach):** the company being incorporated now is the
+  company that will trade as Tairseach. Shareholding is for John and
+  Shane to settle after tomorrow; John recalls an 80/20 split, not
+  sure it has not changed (consistent with the 70/30 vs 80/20
+  discrepancy already logged above — still unresolved).
+- **Item 9 (LLM):** John does not recall it from his 8 Oct task list.
+  Sourcing confirmed by Cuan: the only place "LLM" appears is Pat's
+  16 Oct company schedule ("LLM, to be created, Shane 100%, John
+  secretary, Dormant"). It is not in the 8 Oct brief and not in any of
+  the ten documents. John's guess (data sovereignty, possibly linked
+  to the Saudi investment interest) is plausible but nothing on file
+  confirms it — to be asked of Shane, not assumed.
+
+**Cuan observations added for John, same exchange:**
+- **IP solicitor:** not a blocker for tomorrow on Shane's plan, and
+  Cuan corrected its earlier statement that "nothing can be verified
+  until someone is named". The blank sign-off in Document 10 is the
+  tax and valuation sign-off, not the IP solicitor. But Documents 2
+  and 10 themselves require Gate A valuation sign-off before the IP
+  assignment, licence and R&D deed (Docs 7, 8, 9) are executed — so
+  the documents' own sequence has a gate that is open if everything
+  is signed tomorrow. The IP solicitor matters for the chain-of-title
+  opinion and investor stage, which John accepts will be checked
+  before anything goes to an investor.
+- **Company names are inconsistent across the ten documents:**
+  Documents 1, 3 and 4 use "Noesis Limited" and "Asterial AI Limited";
+  Documents 5-10 use the CRO-style names "Noesis AI Agent System
+  Limited" (No. 805939) and "Asterial Limited" (No. 804907). Document
+  1 says "Velocity AI Limited" where Documents 5-10 say "Mainly
+  Velocity Limited" (No. 804908); Pat's schedule says "Manly Velocity".
+  Tairseach appears as "Tàirseach Limited" in the documents and
+  "TAIRSEACH Property Limited" on Pat's schedule. Constitutions and
+  deeds need the exact registered names; to be checked against the CRO
+  record before sealing. Company numbers are as stated in the
+  documents, not verified.
+- **Seal countersigning:** every seal block needs a "Secretary /
+  Authorised Person". Pat's schedule shows Pat as Noesis's secretary
+  and John as secretary of Asterial, SanCelvio, Zubelsala (and the
+  rest) — who countersigns which company's seal needs settling before
+  tomorrow.
+- **Companies not yet incorporated:** Tairseach (in hand) and Odin
+  Labs (Pat expected to receive the instruction tomorrow) cannot be
+  sealed tomorrow; Shane's stated position, relayed by John, is to
+  sign everything and backdate if needed — flagged to John, handling
+  to be confirmed with Shane.
+
+**Status:** John asked for these points to be clarified before the
+final note to Shane is drafted. Note to Shane not yet written.
+
   earlier logged. This is the call the one-pager is being prepared
   for.
 - **This Friday (24 Oct): Shane meets Pat Carroll alone** — not the
