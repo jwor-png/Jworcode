@@ -1090,3 +1090,5 @@ domain, direct reference material); Ambrion AI / Velocity AI
 (construction-sector adjacency).
 **Pushed to Google Drive:** No (sync not yet wired up).
 ---
+
+[Cuan → Meridian] 24 Oct 2026: logged Indo Money wills/probate and Q&A clippings (market_intel_wills_probate_my_future_fund_oct2026.md); relevant to John personal estate plan and Golden Generation / The Long Memory succession thesis.
