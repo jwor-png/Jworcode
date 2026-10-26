@@ -1100,3 +1100,5 @@ domain, direct reference material); Ambrion AI / Velocity AI
 [Cuan → Meridian] 26 Oct 2026: logged Sunday Independent derelict sites and levies piece (market_intel_derelict_sites_levies_oct2026.md). Partly legible photo; relevant to Tairseach data and Limerick background.
 
 [Cuan → Meridian] 26 Oct 2026: logged Sunday Independent Money pp8-9 (AVC deadline, Ryder Cup letting tax, family-home CAT/CGT); see market_intel_avc_tax_deadline_ryder_cup_letting_oct2026.md. Tax-deadline note for John (accountant), Ryder Cup 2027 hook for Tangible Ireland Group.
+
+[Cuan → Meridian] 26 Oct 2026: logged Sunday Independent p10 (Gina London repetition column; Enterprise Ireland Bay Area partner content); see market_intel_gina_london_repeat_enterprise_ireland_bay_area_oct2026.md.
