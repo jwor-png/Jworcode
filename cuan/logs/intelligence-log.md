@@ -1098,3 +1098,5 @@ domain, direct reference material); Ambrion AI / Velocity AI
 [Cuan → Meridian] 26 Oct 2026: logged Catherine Doyle (Microsoft Ireland) AI head-start opinion piece (market_intel_microsoft_ireland_ai_head_start_oct2026.md). Vendor source; useful for Meridian AI governance pitch, UHL ARC AI oversight, Velocity AI training framing.
 
 [Cuan → Meridian] 26 Oct 2026: logged Sunday Independent derelict sites and levies piece (market_intel_derelict_sites_levies_oct2026.md). Partly legible photo; relevant to Tairseach data and Limerick background.
+
+[Cuan → Meridian] 26 Oct 2026: logged Sunday Independent Money pp8-9 (AVC deadline, Ryder Cup letting tax, family-home CAT/CGT); see market_intel_avc_tax_deadline_ryder_cup_letting_oct2026.md. Tax-deadline note for John (accountant), Ryder Cup 2027 hook for Tangible Ireland Group.
