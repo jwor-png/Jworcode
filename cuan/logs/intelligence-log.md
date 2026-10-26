@@ -1094,3 +1094,5 @@ domain, direct reference material); Ambrion AI / Velocity AI
 [Cuan → Meridian] 24 Oct 2026: logged Indo Money wills/probate and Q&A clippings (market_intel_wills_probate_my_future_fund_oct2026.md); relevant to John personal estate plan and Golden Generation / The Long Memory succession thesis.
 
 [Cuan → Meridian] 24 Oct 2026: logged Indo Money pp36-37 clippings (money conversations; early retirement doer-upper); see market_intel_money_conversations_early_retirement_oct2026.md. Relevance: personal retirement plan, Golden Generation, training-content examples.
+
+[Cuan → Meridian] 26 Oct 2026: logged Catherine Doyle (Microsoft Ireland) AI head-start opinion piece (market_intel_microsoft_ireland_ai_head_start_oct2026.md). Vendor source; useful for Meridian AI governance pitch, UHL ARC AI oversight, Velocity AI training framing.
