@@ -1344,3 +1344,17 @@ The Threads feed screenshot in the same batch was an advert and a feed post; not
 3BM Golf Studio promotes "RRA" (Reference Relationship to the Axis), said to be discovered by B Mason: every club with a sole sits a certain way naturally (open, square or closed) according to bounce, camber and sole design, and the claim is that you play best by working with that natural position instead of against it ("Are you swinging the club, or is the club swinging you?"), with a paid "RRA Performance Blueprint" fitting. Marketing material; the three-way classification is only partly legible and unverified. Logged for John's golf (Life Balance); no action.
 
 Duplicates in the same batch (FT James Max column, Gina London and Enterprise Ireland page, Sunday Independent Money page 9) were already logged on 26 and 27 Oct; nothing added.
+
+## 27 Oct 2026 (night): @raidas.eidukaitis, "limiting beliefs" thread on Threads (11 parts; posts 5 to 10 seen; about 46,400 views)
+
+Self-help thread with no sources; the method is a standard cognitive-behavioural "downward arrow" exercise. The last post advertises the author's paid video training. Treat as practical prompts only.
+
+- **Ask "why would that be so painful?" repeatedly** until you reach the underlying belief (often "I'm not good enough"); that is the belief worth examining (post 5).
+- **Step 4, find where you learned it:** "When did I first start feeling this way about myself?" A teacher, a parent comparing you, a rejection, or repeated experiences; a conclusion formed years ago can still be steering decisions today (post 6).
+- **Step 5, find what the old pattern protects you from:** "What do I get to avoid by staying exactly where I am?" If you never launch, nobody can reject it; if you never express feelings, nobody can turn you down; if you never pursue the opportunity, nobody can watch you fail. Avoidance gives immediate relief, which can keep a pattern going for years (post 7).
+- **Step 6, challenge the belief, not the behaviour:** write the belief down (for example "If I fail, it means I'm not good enough") and ask "Is this actually a fact, or a conclusion I learned?"; look for evidence against it; choose one small action that challenges the old rule, not to guarantee success but to practise responding differently (post 8).
+- **Realization:** sometimes you already know exactly what to do, but an invisible belief makes it feel threatening; conscious goals can conflict with beliefs learned about yourself, which explains why knowing what to do does not always become action (post 9).
+- **Deeper question:** "What would I have to believe about myself for avoiding this to feel like the safer choice?" Examine the rule underneath, not the behaviour (post 10).
+- **Hidden beliefs feel like facts** ("I can't do it", "I'm not good enough", "People will judge me"), then a plug for the author's video training (post 11).
+
+Cuan's note: "what am I avoiding, and what does the avoidance protect me from?" is a useful question for the open loops pattern in the Noesis project-management note (items left unanswered, "I will review and revert" and never doing so). It overlaps with the @mental.fitness.gym habits already logged (questioning the first interpretation, looking for evidence against beliefs). Optional: use it as a prompt in the nightly close when a task has been deferred for several days. No endorsement of the paid training.
