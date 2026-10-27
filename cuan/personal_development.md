@@ -1328,3 +1328,13 @@ Cuan's note: this lines up with Gina London's "change the conversation in your h
 - **Desk calendar, 26 October (Snámhaí Sásta):** "The best things in life are the people we love, the places we have been and the memories we have made along the way." Attributed "Unknown".
 - **@mental.fitness.gym thread, opening posts (1/11 and 2/11):** "Neuroscience shows that your brain can change through experience: here are 5 mental habits worth practising." Your brain can become more efficient at patterns you repeatedly practise, including patterns that keep you stuck. This completes the thread already logged (habits 1 to 5 and the 7-day experiment); posts 1 and 2 add nothing new.
 - **Jake Humphrey (High Performance podcast) on Threads:** "Work hard in silence, let success be your noise" (quoted from Harry Kane); also an announcement of Jimmy Carr as a podcast guest. Profile and podcast noted only; no content to log.
+
+## 22 to 25 October 2026: desk calendar (Snámhaí Sásta), four quotes photographed 27 Oct
+
+- **22 Oct (Dalai Lama):** "When you talk you are only repeating what you already know. But if you listen, you may learn something new."
+- **23 Oct (June Curtin, Snámhaí Sásta):** "Give yourself permission to unplug and regroup without feeling guilty. You can't be there for others if you don't take care of yourself first."
+- **24 Oct (Unknown):** "Know your worth. Know the difference between what you are getting and what you deserve."
+- **25 Oct (June Curtin, Snámhaí Sásta):** "Be the reason someone feels welcomed, seen, heard, valued, loved and supported."
+
+Cuan's notes (John to accept or ignore): the 22 Oct quote supports the "little things" in Gina London's column (ask a question, then listen) and the preparation for significant fundraising meetings; the 23 Oct quote lines up with the "last of me left to do it again tomorrow" test in the Seven Habits note (`operating_creed.md`); the 24 Oct quote bears on the roles with no fee agreed yet (Company Secretary and likely Director across Shane's companies, `board.md`): a prompt to settle that conversation with Shane after the signing.
+The Threads feed screenshot in the same batch was an advert and a feed post; not logged.
