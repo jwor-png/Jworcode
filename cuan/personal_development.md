@@ -1322,3 +1322,9 @@ Pop-psychology thread, no sources cited; the habits are standard cognitive-behav
 - **7-day experiment:** choose one habit, practise it once a day for a week, then ask: what did I notice, what felt different, what do I want to keep practising.
 
 Cuan's note: this lines up with Gina London's "change the conversation in your head" (25 Oct) and the discipline patterns in John's Noesis project-management note. Habits 1 and 4 are the most useful ("is this a fact or my first interpretation?" and "what evidence am I ignoring?") and could sit in the nightly close alongside the "hansei" reflection. A one-week trial of a single habit is a low-cost option; John to choose or ignore.
+
+## 27 Oct 2026 (later): desk calendar, Threads opening post, High Performance post
+
+- **Desk calendar, 26 October (Snámhaí Sásta):** "The best things in life are the people we love, the places we have been and the memories we have made along the way." Attributed "Unknown".
+- **@mental.fitness.gym thread, opening posts (1/11 and 2/11):** "Neuroscience shows that your brain can change through experience: here are 5 mental habits worth practising." Your brain can become more efficient at patterns you repeatedly practise, including patterns that keep you stuck. This completes the thread already logged (habits 1 to 5 and the 7-day experiment); posts 1 and 2 add nothing new.
+- **Jake Humphrey (High Performance podcast) on Threads:** "Work hard in silence, let success be your noise" (quoted from Harry Kane); also an announcement of Jimmy Carr as a podcast guest. Profile and podcast noted only; no content to log.

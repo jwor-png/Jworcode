@@ -1117,3 +1117,5 @@ domain, direct reference material); Ambrion AI / Velocity AI
 [Cuan → Meridian] 27 Oct 2026: completed the Threads "quiet Japanese method" thread capture (points 1 to 8), flagged promotional and unevidenced, plus a manifestation-style scripting post; see market_intel_data_centres_home_insurance_threads_oct2026.md section 6. No venture tie.
 
 [Cuan → Meridian] 27 Oct 2026: logged @mental.fitness.gym "mental habits" Threads thread (CBT-style prompts, unsourced) in personal_development.md. Personal development only; possible use in Velocity AI/Ambrion AI training as reframing prompts.
+
+[Cuan → Meridian] 27 Oct 2026: logged FinEdge "5 Business Problems Every Founder Must Know How To Solve" Instagram infographic (market_intel_finedge_five_business_problems_oct2026.md) plus a calendar quote, a Threads opening post and a High Performance post (personal_development.md). Checklist for client diagnostics; generic and unsourced.
