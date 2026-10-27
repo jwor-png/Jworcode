@@ -1,0 +1,33 @@
+# Data centres beyond Dublin, home insurance for winter, and two Threads posts (captured 27 Oct 2026)
+
+Source: five photographs and screenshots from John, 27 Oct 2026. Figures and quotes as printed or posted; not independently verified. The first photo is turned sideways and partly legible; anything uncertain is flagged.
+
+## 1. "Data centre developers look beyond Dublin as pipeline exceeds 2.1GW" (Business Post, Property Plus, 25 Oct 2026, p12; Tina-Marie O'Neill)
+
+Based on a Knight Frank Ireland report; comment from Finn O'Driscoll (divisional director, development land, Knight Frank Ireland).
+
+- **Size:** Ireland has more than 1.2GW of live IT capacity and a development pipeline above 2.1GW, which makes it Europe's fourth-largest data centre market. Hyperscale operators account for about 85% of live IT capacity.
+- **Shift away from Dublin:** more than half of the pipeline is now outside Dublin, with regional markets accounting for more than 1.1GW of planned capacity. Counties that historically sat outside the core data centre area are drawing interest because of power, land and renewable energy.
+- **Policy and power:** the Large Energy Users Connection Policy (published December 2025) gave a clearer route to grid connections and requires data centres to source at least 80% of their annual electricity demand from new renewable projects in Ireland. Data centres took about 23% of Ireland's electricity in 2025. Knight Frank expects the next phase to be driven by available power, grid capacity, land supply and renewable energy access, and not only by proximity to existing clusters.
+- **Renewables:** the report puts planned renewable capacity above 5.6GW and cites hyperscaler power purchase agreements covering more than 900MW (Microsoft named as the largest). Construction cost per MW is reported as about 9.36 million euro in Ireland against higher figures in London, Frankfurt, Amsterdam and Paris (the exact comparison figures are only partly legible).
+- **Opportunity for regional landowners:** the report points to opportunities for regional landowners, institutional owners, local authorities and energy storage operators. (The Ardstone Sandford legal challenge on the same page is not relevant.)
+
+**Relevance:** directly supports Tairseach's data-centre-land and site-sourcing vertical and the Meridian AI infrastructure thread; sits with the Cavan medical site comparable and the planning-delay report (`market_intel_cavan_medical_site_tairseach_oct2026.md`, `market_intel_planning_delays_central_bank_oct2026.md`) and the Data Centres Ireland conference (18 to 19 November). Source is a property-agent report: treat figures as indicative.
+
+## 2. "Is my home insurance policy fit for the winter?" (A Question of Money, Geraldine Kelly, head of personal lines at Gallagher; newspaper not shown)
+
+- **Claim steps after flood or storm damage:** call your insurer or broker as soon as you discover damage; photograph damaged items and list them; keep receipts and manuals; do not throw out damaged contents until the insurer agrees; the insurer may use approved builders for emergency repairs.
+- **Loss assessors:** for large or complex claims you may hire your own assessor, but the fees are not covered by your policy. Ask the insurer about interim payments for immediate costs such as alternative accommodation.
+- **Check what your policy covers:** alternative accommodation during a prolonged power cut; fridge and freezer contents; power-surge damage to electronics; storm damage outdoors may be limited to sheds and outbuildings; garden furniture may be covered only for attempted theft. Check flood cover every year, and whether your address has been re-categorised as flood risk (the EPA warns river and coastal flooding is becoming more common).
+- **Prepare:** move valuables upstairs, put sockets above flood height in any building work, keep emergency numbers, and know where the water, gas and electricity mains are.
+- **Under-insurance:** check the home and contents are insured for the full rebuild and replacement cost; otherwise the payout is reduced and you pay the rest.
+
+**Relevance (personal):** a ready checklist for John's household policy (renewed through Campion, client ref OROJ24001, in September 2025; check this year's renewal and the sums insured for Spittal House, Portauns) and for the property items in `personal_estate_retirement_plan.md`. No action taken. Also relevant to Meridian's SME-risk thinking only in a minor way.
+
+## 3. Threads screenshots (27 Oct 2026, evening)
+
+Only two items logged; the rest (an Ukraine video, a Liverpool FC ad, a Naze mouth-tape ad, news and comment posts) have no venture tie and are not recorded.
+
+- **@humanoholic, "Intellectual skills worth developing":** clear writing; pattern recognition; probabilistic thinking; understanding incentives; knowing when your confidence exceeds your evidence. (Post had about 184 likes.) The last point matches the optimism-bias note in John's profile (`cognitive_pattern.md`) and the "no claim without a verified source" standard; usable in Velocity AI and Ambrion AI training content.
+- **@wendell.delaney.notes, a nine-part thread (about 53,900 views) on what a funeral director needs from a family:** screenshots show points 7 to 11 only (United States context: veteran discharge papers; burial or cremation and whether a plot or prepaid plan already exists, with families paying twice when nobody knew it was paid; faith, readings and songs; who must be told, with phone numbers; how many certified death certificates to order). His conclusion: the families who could answer all eleven questions had one thing in common, a parent had written it down on one sheet and handed it to a son or daughter "if something happens". Points 1 to 6 are not captured.
+  **Relevance:** supports the end-of-life section of `personal_estate_retirement_plan.md` (funeral director, asset register, who to tell). A one-page "if something happens" sheet for Magella and the children is a simple, low-cost output Cuan can draft for John if he wants it (Irish version: funeral director, plot or prepaid plan, solicitor and will location, bank and pension contacts, insurers, passwords handover, death certificate needs). Not started.

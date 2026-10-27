@@ -1104,3 +1104,5 @@ domain, direct reference material); Ambrion AI / Velocity AI
 [Cuan → Meridian] 26 Oct 2026: logged Sunday Independent p10 (Gina London repetition column; Enterprise Ireland Bay Area partner content); see market_intel_gina_london_repeat_enterprise_ireland_bay_area_oct2026.md.
 
 [Cuan → Meridian] 26 Oct 2026: logged FT Opinion (James Max) on planning for the financial future and the Big Tech sell-off stock-picker note; see market_intel_ft_james_max_plan_financial_future_oct2026.md. Personal planning reference; minor AI-market data point.
+
+[Cuan → Meridian] 27 Oct 2026: logged Business Post data-centre pipeline piece (Knight Frank, 2.1GW, regional shift) and home-insurance Q&A plus two Threads posts; see market_intel_data_centres_home_insurance_threads_oct2026.md. Tairseach and Meridian infrastructure relevance.
