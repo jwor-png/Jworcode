@@ -1308,3 +1308,17 @@ above. No further commentary added; logged as-is.
 
 - **Science for Athletes (quote, screenshot):** "The real reward is not money, status, or applause. It's becoming the kind of athlete who can endure when the pain sets in, who can perform when the pressure feels overwhelming, and who can rise when the moment demands everything. It's built in the lonely hours, in the doubts no one sees, in the moments when quitting feels easier than continuing. That with discipline, resilience, and a refusal to quit, you can take on any opponent, any stage, and still compete. The goal has never been the finish line." Cuan's note: fits the discipline theme in the Noesis project-management note (a repeatable daily rhythm, closing loops). Evidence: a quote, not a source of facts.
 - **Nightly "hansei" (from a promotional thread, unverified):** two quiet minutes at the end of the day on what went well and what to adjust tomorrow, for clarity and not self-criticism. Matches the existing "Close (5 min)" step in the Operating Creed rhythm. The thread's other claims are not endorsed.
+
+## 27 Oct 2026: @mental.fitness.gym, "mental habits" thread on Threads (11 parts; parts 3 to 10 seen; about 3,100 views)
+
+Pop-psychology thread, no sources cited; the habits are standard cognitive-behavioural ideas (questioning thoughts, behavioural experiments, graded exposure), so usable as practical prompts, not as science claims.
+
+- **Habit 1, question your first interpretation:** when something goes wrong and the mind says "I'm not good enough", ask "Is this a fact, or just my first interpretation?" Create space between the thought and your response.
+- **Habit 2, repeat small actions that contradict old beliefs:** speak up once; complete one difficult task; make one reasonable request. Build confidence through repeated action, not by waiting to feel confident first.
+- **Habit 3, practise staying with safe discomfort:** discomfort is not always danger; stay with the feeling a little longer instead of escaping, and learn "I can feel uncomfortable and still handle this."
+- **Habit 4, look for evidence against limiting beliefs:** ask "What evidence am I ignoring?"; write one thing handled well today, one improvement, one moment you acted despite fear.
+- **Habit 5, change how you respond to mistakes:** replace "I'm such an idiot" with "What can I learn from this?" and pick one adjustment.
+- **Caveat the thread itself makes:** neuroplasticity does not mean you can instantly erase a belief, and repetition alone does not guarantee change.
+- **7-day experiment:** choose one habit, practise it once a day for a week, then ask: what did I notice, what felt different, what do I want to keep practising.
+
+Cuan's note: this lines up with Gina London's "change the conversation in your head" (25 Oct) and the discipline patterns in John's Noesis project-management note. Habits 1 and 4 are the most useful ("is this a fact or my first interpretation?" and "what evidence am I ignoring?") and could sit in the nightly close alongside the "hansei" reflection. A one-week trial of a single habit is a low-cost option; John to choose or ignore.
