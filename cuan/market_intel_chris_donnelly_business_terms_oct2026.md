@@ -1,9 +1,11 @@
-# Chris Donnelly (Instagram carousel): business terms every founder should know (captured 28 Oct 2026; slides 4 to 13 of 14)
+# Chris Donnelly (Instagram carousel): business terms every founder should know (captured 28 Oct 2026; slides 1 to 13 of 14)
 
-Source: Instagram carousel by chrisdonnellyofficial ("Want to run a business..."), screenshotted by John 28 Oct 2026, slides 4 to 13 now seen (4 to 8 added later the same day). Generic educational definitions; slides 1 to 3 and 14 not seen. No data or sources.
+Source: Instagram carousel by chrisdonnellyofficial ("Want to run a business..."), screenshotted by John 28 Oct 2026, slides 1 to 13 now seen (4 to 8 and then 1 to 3 added later the same day; only slide 14, probably a closing call to action, not seen). Title: "11 Business Terms CEOs Need To Know". Generic educational definitions. No data or sources.
 
 | Slide | Term | What it says |
 |---|---|---|
+| 1 and 2 | Title and map | "11 Business Terms CEOs Need To Know"; slide 2 is a fan diagram naming all eleven terms: CAC, Unit Economics, Cash Flow, Runway, Burn Rate, Working Capital, PMF (product-market fit), Churn, Operating Leverage, Gross Margin, EBITDA. |
+| 3 | CAC (customer acquisition cost) | The total cost of acquiring a single new customer, including marketing and sales; vital because expensive growth eventually stops working; if CAC rises faster than revenue per customer, growth will stall. |
 | 4 | Unit economics | Whether each sale makes or loses money: revenue per unit minus all variable costs tied to delivering it. Scaling a unit that is already losing money multiplies the losses; if unit economics are broken, growth makes the problem bigger. |
 | 5 | Cash flow | Profit is an accounting concept; cash flow is money you actually have in the bank, moving in and out. A business can look profitable on paper and still be unable to pay its bills. "Manage cash first and let profit follow." |
 | 6 | Runway | How long the business can operate before cash runs out: available cash divided by monthly burn. Knowing it determines when you must raise, cut costs or grow faster. "Most founders don't track this closely enough." |
