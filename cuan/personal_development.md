@@ -1338,3 +1338,9 @@ Cuan's note: this lines up with Gina London's "change the conversation in your h
 
 Cuan's notes (John to accept or ignore): the 22 Oct quote supports the "little things" in Gina London's column (ask a question, then listen) and the preparation for significant fundraising meetings; the 23 Oct quote lines up with the "last of me left to do it again tomorrow" test in the Seven Habits note (`operating_creed.md`); the 24 Oct quote bears on the roles with no fee agreed yet (Company Secretary and likely Director across Shane's companies, `board.md`): a prompt to settle that conversation with Shane after the signing.
 The Threads feed screenshot in the same batch was an advert and a feed post; not logged.
+
+## 27 Oct 2026: golf, 3BM Golf Studio "RRA" graphic (Instagram story)
+
+3BM Golf Studio promotes "RRA" (Reference Relationship to the Axis), said to be discovered by B Mason: every club with a sole sits a certain way naturally (open, square or closed) according to bounce, camber and sole design, and the claim is that you play best by working with that natural position instead of against it ("Are you swinging the club, or is the club swinging you?"), with a paid "RRA Performance Blueprint" fitting. Marketing material; the three-way classification is only partly legible and unverified. Logged for John's golf (Life Balance); no action.
+
+Duplicates in the same batch (FT James Max column, Gina London and Enterprise Ireland page, Sunday Independent Money page 9) were already logged on 26 and 27 Oct; nothing added.
