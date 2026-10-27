@@ -1127,3 +1127,5 @@ domain, direct reference material); Ambrion AI / Velocity AI
 [Cuan → Meridian] 27 Oct 2026: logged Irish Independent ADHD assessment and Zendra Navigator feature (market_intel_adhd_assessment_zendra_oct2026.md). Case study: digitising a workflow sped diagnosis 33% but did not shorten waiting lists. Other photos in the batch (AVC and Ryder Cup page, derelict sites, Microsoft AI opinion) already logged; second-hand EV article left out as earlier instructed.
 
 [Cuan → Meridian] 27 Oct 2026: logged @raidas.eidukaitis "limiting beliefs" Threads thread (CBT-style downward-arrow prompts, ends in a paid-training plug) in personal_development.md. Personal development only.
+
+[Cuan → Meridian] 28 Oct 2026: logged @overnightstrategist "six core powers" Threads thread (promotional) and opening posts of the hidden-belief thread, plus a Cruit Island golf story, in personal_development.md. Personal development only.
