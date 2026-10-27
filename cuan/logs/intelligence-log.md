@@ -1137,3 +1137,5 @@ domain, direct reference material); Ambrion AI / Velocity AI
 [Cuan → Meridian] 28 Oct 2026: completed Chris Donnelly carousel capture (slides 1 to 3: title, map of the eleven terms, CAC) in market_intel_chris_donnelly_business_terms_oct2026.md; Emerson passage logged in personal_development.md.
 
 [Cuan → Meridian] 28 Oct 2026: logged Stoic habits list and Brad Smith AI post (personal_development.md); noted two Bantry contact screenshots (Crocon Engineers; Christy Crowley, planning consultant) pending instruction.
+
+[Cuan → Meridian] 28 Oct 2026 (evening): logged Ross Harkness limiting-beliefs carousel (slides 8 to 9) and @untappedtino "raising money 2012 vs 2026" thread in personal_development.md. Lean-validation idea; promotional/anecdotal; legal/commercial caution noted.
