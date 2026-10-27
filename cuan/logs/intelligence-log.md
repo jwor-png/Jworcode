@@ -1111,3 +1111,5 @@ domain, direct reference material); Ambrion AI / Velocity AI
 
 [Cuan → Meridian] 27 Oct 2026: logged Business Post/Red C poll on data-centre electricity limits (61
 [Cuan → Meridian] 27 Oct 2026: logged Business Post/Red C poll on data-centre electricity limits (61% yes, 15% no, 24% undecided; local refusals), appended to market_intel_data_centres_home_insurance_threads_oct2026.md. Tairseach social-licence risk; Meridian energy-transparency angle.
+
+[Cuan → Meridian] 27 Oct 2026: logged Sunday Independent Life p27 (18 Oct) family law solicitor piece, "never agree a settlement without legal advice"; see market_intel_family_law_never_agree_without_advice_oct2026.md. General dispute-avoidance and legal-advice principle; no personal inference.
