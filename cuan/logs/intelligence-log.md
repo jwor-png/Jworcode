@@ -1141,3 +1141,5 @@ domain, direct reference material); Ambrion AI / Velocity AI
 [Cuan → Meridian] 28 Oct 2026 (evening): logged Ross Harkness limiting-beliefs carousel (slides 8 to 9) and @untappedtino "raising money 2012 vs 2026" thread in personal_development.md. Lean-validation idea; promotional/anecdotal; legal/commercial caution noted.
 
 [Cuan → Meridian] 28 Oct 2026: logged three Sunday Times items (25 Oct): "Is the internet about to break?" (PHP, boards; market_intel_sunday_times_php_internet_break_oct2026.md), Gary Connolly AI bubble column (market_intel_gary_connolly_ai_bubble_oct2026.md), and Frish Brandt condolence letters (market_intel_condolence_letters_frish_brandt_oct2026.md). PHP piece supports UHL ARC assurance request and Meridian AI-governance framing.
+
+[Cuan → Meridian] 28 Oct 2026 (night): added Ross Harkness carousel slides 6 and 7 (self-confirming belief loop) to personal_development.md; slides 8 and 9 duplicates. Personal development only.
