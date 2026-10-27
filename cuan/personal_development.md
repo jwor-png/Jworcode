@@ -1302,3 +1302,9 @@ this month — same agency/seize-the-moment register, pairs with the
 McRaven "take the risk everyone else is afraid of" lesson logged just
 above. No further commentary added; logged as-is.
 
+
+
+## 27 Oct 2026: two items from Threads
+
+- **Science for Athletes (quote, screenshot):** "The real reward is not money, status, or applause. It's becoming the kind of athlete who can endure when the pain sets in, who can perform when the pressure feels overwhelming, and who can rise when the moment demands everything. It's built in the lonely hours, in the doubts no one sees, in the moments when quitting feels easier than continuing. That with discipline, resilience, and a refusal to quit, you can take on any opponent, any stage, and still compete. The goal has never been the finish line." Cuan's note: fits the discipline theme in the Noesis project-management note (a repeatable daily rhythm, closing loops). Evidence: a quote, not a source of facts.
+- **Nightly "hansei" (from a promotional thread, unverified):** two quiet minutes at the end of the day on what went well and what to adjust tomorrow, for clarity and not self-criticism. Matches the existing "Close (5 min)" step in the Operating Creed rhythm. The thread's other claims are not endorsed.

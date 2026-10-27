@@ -1106,3 +1106,5 @@ domain, direct reference material); Ambrion AI / Velocity AI
 [Cuan → Meridian] 26 Oct 2026: logged FT Opinion (James Max) on planning for the financial future and the Big Tech sell-off stock-picker note; see market_intel_ft_james_max_plan_financial_future_oct2026.md. Personal planning reference; minor AI-market data point.
 
 [Cuan → Meridian] 27 Oct 2026: logged Business Post data-centre pipeline piece (Knight Frank, 2.1GW, regional shift) and home-insurance Q&A plus two Threads posts; see market_intel_data_centres_home_insurance_threads_oct2026.md. Tairseach and Meridian infrastructure relevance.
+
+[Cuan → Meridian] 27 Oct 2026: extended Threads capture (funeral-director checklist points 1 to 6, Science for Athletes quote, hansei thread flagged promotional); see market_intel_data_centres_home_insurance_threads_oct2026.md and personal_development.md.
