@@ -1147,3 +1147,5 @@ domain, direct reference material); Ambrion AI / Velocity AI
 [Cuan → Meridian] 28 Oct 2026 (late): completed Ross Harkness carousel capture (slides 1 to 5) in personal_development.md, with an accuracy flag on the reticular-activating-system claim. Personal development only.
 
 [Cuan → Meridian] 29 Oct 2026: logged an Amazon.ie blind listing (operating_creed.md, personal) and a prayer graphic (personal_development.md). No venture content.
+
+[Cuan → Meridian] 29 Oct 2026: logged Sean Johnson cybersecurity PSA story (market_intel_sean_johnson_cyber_psa_oct2026.md; links to PHP flaw and John's own security hygiene) and an Irish funding roundup (market_intel_irish_funding_roundup_marc_swaay_oct2026.md; MARC and Swaay comparables).
