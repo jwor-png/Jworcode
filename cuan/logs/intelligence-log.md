@@ -1123,3 +1123,5 @@ domain, direct reference material); Ambrion AI / Velocity AI
 [Cuan → Meridian] 27 Oct 2026: logged four desk-calendar quotes (22 to 25 Oct) in personal_development.md. Personal development only; no venture content.
 
 [Cuan → Meridian] 27 Oct 2026: logged a16z "Marc Andreessen: The Biggest Technologies Start as Chaos" (market_intel_a16z_andreessen_chaos_agents_oct2026.md); golf RRA graphic noted in personal_development.md; three other items in the batch were duplicates already logged. Meridian AI-governance framing.
+
+[Cuan → Meridian] 27 Oct 2026: logged Irish Independent ADHD assessment and Zendra Navigator feature (market_intel_adhd_assessment_zendra_oct2026.md). Case study: digitising a workflow sped diagnosis 33% but did not shorten waiting lists. Other photos in the batch (AVC and Ryder Cup page, derelict sites, Microsoft AI opinion) already logged; second-hand EV article left out as earlier instructed.
