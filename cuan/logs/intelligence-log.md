@@ -1108,3 +1108,6 @@ domain, direct reference material); Ambrion AI / Velocity AI
 [Cuan → Meridian] 27 Oct 2026: logged Business Post data-centre pipeline piece (Knight Frank, 2.1GW, regional shift) and home-insurance Q&A plus two Threads posts; see market_intel_data_centres_home_insurance_threads_oct2026.md. Tairseach and Meridian infrastructure relevance.
 
 [Cuan → Meridian] 27 Oct 2026: extended Threads capture (funeral-director checklist points 1 to 6, Science for Athletes quote, hansei thread flagged promotional); see market_intel_data_centres_home_insurance_threads_oct2026.md and personal_development.md.
+
+[Cuan → Meridian] 27 Oct 2026: logged Business Post/Red C poll on data-centre electricity limits (61
+[Cuan → Meridian] 27 Oct 2026: logged Business Post/Red C poll on data-centre electricity limits (61% yes, 15% no, 24% undecided; local refusals), appended to market_intel_data_centres_home_insurance_threads_oct2026.md. Tairseach social-licence risk; Meridian energy-transparency angle.
