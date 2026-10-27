@@ -1129,3 +1129,5 @@ domain, direct reference material); Ambrion AI / Velocity AI
 [Cuan → Meridian] 27 Oct 2026: logged @raidas.eidukaitis "limiting beliefs" Threads thread (CBT-style downward-arrow prompts, ends in a paid-training plug) in personal_development.md. Personal development only.
 
 [Cuan → Meridian] 28 Oct 2026: logged @overnightstrategist "six core powers" Threads thread (promotional) and opening posts of the hidden-belief thread, plus a Cruit Island golf story, in personal_development.md. Personal development only.
+
+[Cuan → Meridian] 28 Oct 2026: logged Chris Donnelly carousel slides 9 to 13 (product-market fit, churn, operating leverage, EBITDA, gross margin); see market_intel_chris_donnelly_business_terms_oct2026.md. Investor-language glossary; generic.
