@@ -8871,3 +8871,5 @@ John sent a 4-page PDF, "Input to the Noesis project management system" (from Jo
 **Not in the note, by John's instruction:** his shareholding, fees, payment, hours, AHL/UHL.
 
 **Open:** Shane's reply; Pat's 11 items (John has not seen them); Gemini over-engineering WhatsApp screenshot never reached Cuan as an image; a one-page role and terms schedule can be drafted but is not for Shane yet; Friday checklist update awaits "that's everything, update the checklist".
+
+**Shane's Gemini "over-engineering" comment, 28 Oct 2026 (John's account only):** John says Shane did not reply to the one shared understanding note before meeting Pat Carroll, and then sent John a WhatsApp screenshot about Gemini "over-engineering" (John's recollection: "I think was his comment"). Cuan has not seen the screenshot or Shane's actual words; this entry rests on John's description alone. If Shane's wording is supplied, check it against the ten documents and the Friday checklist.
