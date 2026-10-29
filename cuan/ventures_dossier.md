@@ -8873,3 +8873,17 @@ John sent a 4-page PDF, "Input to the Noesis project management system" (from Jo
 **Open:** Shane's reply; Pat's 11 items (John has not seen them); Gemini over-engineering WhatsApp screenshot never reached Cuan as an image; a one-page role and terms schedule can be drafted but is not for Shane yet; Friday checklist update awaits "that's everything, update the checklist".
 
 **Shane's Gemini "over-engineering" comment, 28 Oct 2026 (John's account only):** John says Shane did not reply to the one shared understanding note before meeting Pat Carroll, and then sent John a WhatsApp screenshot about Gemini "over-engineering" (John's recollection: "I think was his comment"). Cuan has not seen the screenshot or Shane's actual words; this entry rests on John's description alone. If Shane's wording is supplied, check it against the ten documents and the Friday checklist.
+
+### KEED / JJ Craft Brewing: decision to sell, 29 Oct 2026 (John's account)
+
+John spoke to Richard Egan, his fellow director in Kilmallock Economic Enterprise Development Ltd (KEED/KEDL). The two directors have decided to sell the premises occupied by JJ Craft Brewing (tenant). Aims: the property sold, the loan cleared (Clann Credo), the grants written off.
+- **John:** contacts KEED's solicitor, Robin Lee (John's ex-colleague; earlier files name Lees, Kilmallock, as KEDL's solicitors, so treat as the same firm unless John says otherwise), on Fri 30 Oct.
+- **Richard Egan:** contacts Richard Ryan of GVM Property Sales for a valuation and to market the premises for sale. The intention is that GVM acts as agent for KEED opposite JJ Craft Brewing (John Coughlan).
+- **Not yet confirmed:** the tax liability due in September and how it was met; the current Clann Credo balance; what the grants are and the terms for writing them off; whether John Coughlan has been told of the decision. Cuan has recorded the decision only and has taken no action.
+
+### John's priorities, 29 Oct 2026
+
+1. **Meridian Decision Brief for Ger Blake (DSB Accountants)** is the absolute priority. Offered 9 Oct, with five working days committed; started, not finished. John regards this as far too late. Raw material and 15 headings are in `scratch/Ger_Blake_Decision_Brief_Handoff_oct2026.md`.
+2. **11:00 call with Vinnie Leonard (AI and Velocity AI)**, with Shane: see where Vinnie is at, and whether introductions to companies can be agreed for a United Hardware type model (training plus retained AI advice).
+3. **Noesis project management input for Shane:** Shane's feedback says the 28 Oct document was not what he wanted. He wants John's strengths, weaknesses and inefficiencies, and how the system should counter them. Draft framing given to John; awaiting his answers on checklists and email.
+4. **Maliki:** John spoke to Maliki on 29 Oct. John must send Maliki the IBI Corporate Finance infographic by email. Cuan found no Gmail draft to Maliki and no Cuan file for it; the only IBI material on record is the April 2025 IBI/DC Advisory deck prepared for MiDentalCare (see 21 Oct entry). Which item and which email address are still to be confirmed with John.
