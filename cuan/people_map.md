@@ -211,7 +211,7 @@
   Manchester M2 4LQ).
 - **Base:** Manchester, with regular London presence.
 - **Dynamic:** John and Shane are advisory only. Johnny is the operator.
-- **Ownership:** shares in BarberBarber held 50/50 with Morgan Leahy.
+- **Ownership:** held 50/50 with Morgan Leahy. As John understands it (29 Oct), the 50/50 is in StayTrue Ltd, the parent of the shop operating companies; not verified at Companies House.
 - **Cuan notes:** John and Shane's names do not appear on Johnny-facing
   documents. As of 21 Aug, John's assessment is that Johnny's own plan for
   his role is lighter than what's actually required (see `operating_creed.md`
@@ -222,6 +222,7 @@
   decision-maker for the company, not Johnny alone.
 - **Cuan notes:** any consolidated commercial position on Barber Republic
   may ultimately need his sign-off, not just Johnny's informal agreement.
+- **Added 29 Oct:** manages the financials for the shop businesses and, with his nephew Evan, Morgan's King Street property business in Manchester. Johnny consults Neil day to day, not Morgan.
 
 ### Scott
 - **Role:** Johnny Shanahan's accountant. Facilitated/helped arrange the
