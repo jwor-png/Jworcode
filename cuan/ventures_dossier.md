@@ -8908,3 +8908,11 @@ John set out the group behind Barber Barber so the picture is fixed before any i
 - **Johnny's reply (before the weekend of 24 Oct):** after speaking to Scott, his accountant, they can pay only **15,000 next week** (Scott is abroad, cannot draw down funds while outside the UK), with the **10,000 balance paid on completion of the MVP**.
 - **Position:** this departs from the agreed 25,000 payment schedule, and has upset Shane and John. No reply has been agreed or sent by John from Cuan's side. Rule in force: no commercial commitment without Shane's alignment.
 - **Open:** exact date and number of the third invoice; Johnny's exact wording; whether the 15,000 has been paid; Shane's position; whether delivery timing is affected if 25,000 is not paid at the start of the period (per invoice #21 terms).
+
+### Updates, 29 Oct 2026 (afternoon)
+
+- **Campion / Aviva:** Amy McHale emailed John 15:44 UTC: agreed renewal transfers to **Aviva at 425 euro including Campion's non-refundable 90 euro broker fee**; comprehensive, John and Magella only, full bonus (rest of terms in the email; cc D. Collum). Renewal due Sun 1 Nov. John will deal with it on return from Bantry (Fri 30 Oct). Cuan has not yet compared this with the AXA 967.55 and BundleBee 783.12 figures in detail.
+- **Vinnie Leonard (Sales Process Advisors, vincentleonard@salesprocessadvisors.ie):** emailed John 15:48 UTC, subject "LSOS", after their call, with a PTMA presentation and a second deck (attachments not read). Positive and informative per Vinnie. Follow up by John and Shane.
+- **Shane / Childen:** John says Shane copied him on an email about Childen, to be forwarded to his Gmail (not yet seen by Cuan).
+- **Reminders set:** Mon 2 Nov 09:30 revisit Jerry Sheehan (John asked Jerry to arrange legal advice for him and Shane; Jerry offered introductions to colleagues, which John does not need; no draft until Monday, kind decline); Tue 1 Dec 10:00 ask his mother Joan about her health insurance cover.
+- **Friday 30 Oct meeting, 11:00 to 14:00 (Shane, Pat, Tom):** no agenda. Checklist shared version prepared (`Noesis_Friday_Checklist_for_Shane_29Oct2026`): marked "for discussion", with John's Tairseach share recollection removed. John has not yet sent it.
