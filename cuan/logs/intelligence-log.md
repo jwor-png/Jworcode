@@ -1149,3 +1149,5 @@ domain, direct reference material); Ambrion AI / Velocity AI
 [Cuan → Meridian] 29 Oct 2026: logged an Amazon.ie blind listing (operating_creed.md, personal) and a prayer graphic (personal_development.md). No venture content.
 
 [Cuan → Meridian] 29 Oct 2026: logged Sean Johnson cybersecurity PSA story (market_intel_sean_johnson_cyber_psa_oct2026.md; links to PHP flaw and John's own security hygiene) and an Irish funding roundup (market_intel_irish_funding_roundup_marc_swaay_oct2026.md; MARC and Swaay comparables).
+
+[Cuan → Meridian] 1 Nov 2026: logged Business Post piece on Echelon owing TikTok 100 million euro over the shelved Dub 10 data centre (market_intel_echelon_tiktok_data_centre_nov2026.md). Supports Tairseach data-centre land and Meridian's infrastructure/governance thread; energy and renewables constraint is the stated driver.
