@@ -8916,3 +8916,34 @@ John set out the group behind Barber Barber so the picture is fixed before any i
 - **Shane / Childen:** John says Shane copied him on an email about Childen, to be forwarded to his Gmail (not yet seen by Cuan).
 - **Reminders set:** Mon 2 Nov 09:30 revisit Jerry Sheehan (John asked Jerry to arrange legal advice for him and Shane; Jerry offered introductions to colleagues, which John does not need; no draft until Monday, kind decline); Tue 1 Dec 10:00 ask his mother Joan about her health insurance cover.
 - **Friday 30 Oct meeting, 11:00 to 14:00 (Shane, Pat, Tom):** no agenda. Checklist shared version prepared (`Noesis_Friday_Checklist_for_Shane_29Oct2026`): marked "for discussion", with John's Tairseach share recollection removed. John has not yet sent it.
+
+### Noesis: the group and its companies, Shane's 8-page paper as at 1 Nov 2026 (shared by John 1 Nov)
+
+Source: `cuan/scratch/Noesis_Companies_1_Nov_2026_from_Shane.pdf`. This is Shane's description of the intended group, not a CRO-verified record. Cuan has not checked incorporation, names, directors or shareholdings for any company below.
+
+- **Structure as stated:** Noesis is the group holding company and holds each company; **ODIN Labs is held by Asterial**; **Mac Enterprises** is Shane's own and sits outside the group (own equipment, accounts and tools).
+- **Companies (16 in the group, plus Mac Enterprises):**
+  1. Noesis: holding company.
+  2. Asterial: home of ODIN, estate of 15,000+ IP pieces; five revenue streams (IP sales and acquisitions, R&D, frontier architecture, revenue from subsidiaries that access its technology, IP licensing).
+  3. ODIN Labs: R&D arm of Asterial (synthetic sandbox; grant funding).
+  4. Occasio: private language model; group LLM access, licensing to be discussed.
+  5. Zubelsala: continuity custodian and vault for standalone IP (continuity copy refreshed every 90 days; incubates companies to spin-out).
+  6. SanCelvio: social good (Continuity for endometriosis, Famora for dementia, Rose for Parkinson's, Blath for children with intellectual disabilities, Cosan for cancer in work); Seanchai moves to Tir AI.
+  7. Fiducia: AI governance, testing and security.
+  8. Glor: AI-native media and newsrooms.
+  9. Tairseach: property intelligence, live across three countries.
+  10. Sensai: personalised intelligence (subscriptions and licences).
+  11. Inneall: builds AI engines for enterprise clients.
+  12. Fabrica: bespoke high-value IP builds, IP sale at a premium or licence.
+  13. Velocity AI: strategic intelligence, training and building for enterprises.
+  14. Tir AI: technology for people over 50.
+  15. AI Accountancy: accountancy built on AI.
+  16. Kairos: Shane's side businesses and projects (Arctic briefing, **Barber Republic**); majority shareholder in each venture, IP licensed or spawned in, subscription model, built to be acquired.
+- **Points for John's governance role (Cuan's reading, to confirm):**
+  - Only about seven of these were known as registered or pending (Noesis, Asterial, Zubelsala, SanCelvio, Mainly Velocity, Odin Labs and Tairseach pending). Occasio, Fiducia, Glor, Sensai, Inneall, Fabrica, Tir AI, AI Accountancy and Kairos have no registered name or CRO number on file; are they incorporated? Who is director and secretary of each?
+  - "Held by Noesis" is the intended structure; earlier records have Noesis 100% Shane and Asterial shares in Shane's name. The ten documents cover only some of the companies.
+  - **Kairos and Barber Republic:** Kairos is described as majority shareholder in each venture, naming Barber Republic. John's record has Barberrepublic.ai Ltd (Johnny Shanahan sole director) as the owner of Barber Republic, with StayTrue Ltd (Johnny and Morgan Leahy) behind the shops, and Velocity invoicing the build. These do not yet fit together; needs clarifying with Shane before any Barber investor document.
+  - **Likely answer to checklist item 29 ("LLM", on Pat's 16 Oct schedule):** probably Occasio (private language model, held by Noesis). To confirm with Shane and Pat.
+  - **Intra-group flows (task 7):** Asterial earns from subsidiaries that access its technology; Zubelsala licenses IP; Seanchai moves from SanCelvio to Tir AI; Occasio licensing is undecided. Each needs a licence or assignment and a company-benefit and tax check.
+  - **Childen** (Shane sole owner; SanCelvio named as intended home on 28 Sept) is not listed in this paper. Equitas and Grassroots are also absent.
+  - The Organism investor system covers Asterial, SanCelvio and Tairseach only, so approved-facts sheets are needed for those first.
