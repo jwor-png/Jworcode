@@ -1,6 +1,6 @@
 # Business Post: "Echelon must pay TikTok 100m euro over shelved Irish data centre plan" (Laura Roddy, Industry Correspondent)
 
-Source: Business Post (the article says "the Business Post can reveal"). Issue date not visible on the page; likely the 1 Nov 2026 edition. Captured by photograph from John, 1 Nov 2026; page photographed sideways with shadow, so wording and figures are as read and flagged where unclear.
+Source: Business Post (the article says "the Business Post can reveal"). Issue date not visible on this page; other clippings photographed in the same sitting are confirmed as the Business Post of 1 Nov 2026, so this is very likely the same edition. Captured by photograph from John, 1 Nov 2026; page photographed sideways with shadow, so wording and figures are as read and flagged where unclear.
 
 ## What it says
 
