@@ -1,6 +1,6 @@
 # Charlie Taylor (Technology & Innovation Editor): "Ground finally begins to sink under weight of Big Tech's AI crock of gold" (Markets, p3)
 
-Source: newspaper Markets page 3; publication and date not visible on the two photographed spreads (byline Charlie Taylor, Technology & Innovation Editor). Context in the text places it in the week after Big Tech's third-quarter results, so likely the weekend of 31 Oct to 1 Nov 2026. Captured by photograph from John, 1 Nov 2026, in two tilted shots with shadow; figures are as read and partly legible. A Bankinter advertisement shares the page (see end).
+Source: newspaper Markets page 3; publication and date not visible on the two photographed spreads (byline Charlie Taylor, Technology & Innovation Editor). The same byline appears on the Business Post of 1 Nov 2026 (Anthropic IPO piece), so this is very likely the same edition. Context in the text places it in the week after Big Tech's third-quarter results, so likely the weekend of 31 Oct to 1 Nov 2026. Captured by photograph from John, 1 Nov 2026, in two tilted shots with shadow; figures are as read and partly legible. A Bankinter advertisement shares the page (see end).
 
 ## What it says
 

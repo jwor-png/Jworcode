@@ -18,4 +18,6 @@ Source: Business Post, 1 Nov 2026, page 6 (sub-headline: market "spooked" by tec
 - **ODIN and the Noesis raise:** investor mood on AI valuations and cash burn is turning; supports clean documents, honest tagging of every figure and no reliance on headline valuation comparisons.
 - **Caveats:** wealth-manager opinion, partly legible photo, and the earlier valuation figures in Cuan's files ($1 trillion, $2 trillion) differ from the $1.5 to $1.75 trillion quoted here; not reconciled.
 
+**Addendum (same edition):** Charlie Taylor's piece on p16 (`market_intel_anthropic_ipo_dublin_gain_nov2026.md`) says most of the $80.7bn first-half loss was a non-operating charge linked to convertible bonds, with an operating loss of $693m, and that $2 trillion was a summer backer figure against the current $1.5 to $1.75 trillion expectation. Read the two together.
+
 Cross-references: `market_intel_big_tech_ai_selloff_anthropic_ipo_nov2026.md`, `market_intel_anthropic_ipo_weirdness_oct2026.md`, `market_intel_anthropic_sunday_times_profile_oct2026.md`.
