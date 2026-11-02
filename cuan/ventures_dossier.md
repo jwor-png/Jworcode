@@ -8947,3 +8947,5 @@ Source: `cuan/scratch/Noesis_Companies_1_Nov_2026_from_Shane.pdf`. This is Shane
   - **Intra-group flows (task 7):** Asterial earns from subsidiaries that access its technology; Zubelsala licenses IP; Seanchai moves from SanCelvio to Tir AI; Occasio licensing is undecided. Each needs a licence or assignment and a company-benefit and tax check.
   - **Childen** (Shane sole owner; SanCelvio named as intended home on 28 Sept) is not listed in this paper. Equitas and Grassroots are also absent.
   - The Organism investor system covers Asterial, SanCelvio and Tairseach only, so approved-facts sheets are needed for those first.
+
+**2 Nov 2026, John's personal tax:** Revenue Final Demand (27 Oct 2026, 1,000 euro estimate for 2024 income tax, 7 days to 3 Nov) photographed by John; he will phone Revenue on 3 Nov to explain that he had no rental income. Full entry in `operating_creed.md`. Also recorded this sitting: Pat Carroll's business card details (`people_map.md`) and six Snamhai Sasta desk calendar quotes (`personal_development.md`).

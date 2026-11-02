@@ -632,3 +632,10 @@
 
 ## Network Principle
 John's relationship capital is one of his two biggest assets alongside opportunity identification. Many of his projects exist because people trust him enough to take his call. Cuan treats every relationship as a long-term asset, not a transactional contact.
+
+### Pat Carroll: business card, 2 Nov 2026
+- **Firm:** Pat Carroll & Company, Chartered Accountants and Tax Advisors (Limerick).
+- **Credentials printed:** FCA, QFA, SIA, RPA, FPRA, DipEmployLaw, DipFinPlan, BBS. Titles: Accountant, Tax Advisor, Financial Planner.
+- **Contact:** mobile 087 996 3880; email pat.carroll@patcarroll.ie; website www.pcco.ie (note the email and website domains differ). Office line 061 444200 (from his out-of-office reply of 29 Oct; Jacquie at accounts3@patcarroll.ie).
+- **Card mission line (reverse):** "Our daily mission is to empower our clients, enhancing their financial prosperity and increasing their net worth."
+- **In the Noesis group:** Pat's office does the company secretarial work and filings; he was out of the office until Mon 2 Nov.
