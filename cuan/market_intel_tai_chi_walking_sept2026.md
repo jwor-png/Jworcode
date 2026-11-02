@@ -46,3 +46,7 @@ navigation thread already tracked (general "supporting older people's
 independence" theme), but not proposed as a venture connection.
 
 No action identified as required; logged for personal reference only.
+
+## Addendum, 2 Nov 2026: "daretotrymore" Instagram reel (two screenshots, no instruction)
+
+An Instagram reel by "daretotrymore": "11 weeks of doing these every morning." The creator started to improve mobility; ten Qigong and Tai Chi-inspired movements (one named "Lymphatic Hops", 1 minute) changed how he thinks about movement through the day: walking differently, sitting on the floor more, squatting, reaching, climbing and balancing. Personal Health reference only (see `operating_creed.md` Protect My Health); anecdotal, not medical advice, and the lymphatic claim in the movement's name is unverified. Pairs with the tai chi walking item above.
