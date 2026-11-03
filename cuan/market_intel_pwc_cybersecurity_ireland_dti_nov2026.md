@@ -22,3 +22,7 @@ Source: Business Post, 1 Nov 2026 (the page header reads "Business Post, 1, 2026
 - **Caveats:** sponsored article by PwC; Irish sample size not stated; figures partly legible in the photo.
 
 Cross-references: `market_intel_sunday_times_php_internet_break_oct2026.md`, `market_intel_sean_johnson_cyber_psa_oct2026.md`, `market_intel_nis2_cyber_delay_oct2026.md`, `market_intel_ai_governance_tud_sept2026.md`.
+
+## Source check, 3 Nov 2026 (web search, standard)
+
+PwC Ireland's press release (pwc.ie/media-centre/press-releases/2026/digital-trust-insights-survey-2027.html, per search summary, page not opened) reports **17% of Irish respondents say cyber risk is built into enterprise risk management**. The search summary gives the **global comparator as 47%, not the 41% recorded above from the Business Post piece**; the two conflict and neither is confirmed. The **3,934 leaders and 71 countries** for the 2027 survey were **not confirmed** (the 2026 survey covered nearly 4,000 leaders in 72 countries; the 2025 survey 4,042 in 71). Do not publish a global figure or sample size until the PwC report or press release has been opened. The 17% Irish figure is supported.
