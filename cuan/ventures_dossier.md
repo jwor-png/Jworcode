@@ -8986,3 +8986,10 @@ Shane's two-page "Who we are: Vision, Mission and Values" worksheet for the foun
 - **Not ticked:** 03 Human-Centric Design, 04 Empathetic Innovation, 06 Builder's Courage, 07 Honest by Design, 08 Neurodivergent Minds. No values of his own added (two spaces left blank).
 - **Annotation:** handwritten at the top of page 1 (John confirmed the wording): "What does humanity want? Pick 5", with arrows linking the vision and mission to value 01.
 - **Cuan's note:** "Governance Is Foundational" and "AI Driven, Human Led" match John's governance and chair role and the human sign-off rule proposed for the agents; the sheet is to be discussed at the next meeting (Fri 6 Nov, to confirm).
+
+### Noesis: Pat Carroll & Co preparation pages, "Shane decisions list" and "Recommendations" (photographed 3 Nov 2026)
+
+Two pages Shane took into the 30 Oct founders' meeting, prepared by Pat Carroll & Co. John left at 2pm and does not know how the meeting ended.
+- **Shane has asked John to set out what he may need from Shane.** Draft list prepared for John's review (not sent, nothing sent to Shane or Pat).
+- **Gmail and Drive check (3 Nov):** the only agenda found is Shane's email of 29 Oct 21:07 UTC (thread 1a1897d160f5900c), already logged above. No earlier Thursday-afternoon version found. No meeting record and no Noesis emails from Shane or Pat since 30 Oct. Drive holds only Documents 6 to 10 in "Final Docs for Pat (From John and Shane)". The Founders Meeting Pack, Private Pat Preparation, Commitments Offers and Marketing Record and IP Solicitor Scope Cost and Funding documents were not found.
+- **Open flags:** 2 Nov deadlines have passed (John named owner of the commitments compilation); Pat's review due 4 Nov; plan, cash and KPI review 6 Nov; independent review of John's own award and appointment (conflict of interest, John should not be the reviewer); meaning of the blue tick on decision 1 unknown; John to dictate what happened before 2pm.
