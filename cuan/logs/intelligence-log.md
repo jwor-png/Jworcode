@@ -1163,3 +1163,6 @@ domain, direct reference material); Ambrion AI / Velocity AI
 [Cuan → Meridian] 1 Nov 2026: logged Business Post profile of Dublin project management firm Project Foundry (market_intel_project_foundry_dublin_consultancy_nov2026.md). Comparator for the Noesis project management system and an Irish AI-services benchmark (ServiceNow partnership, own AI platform, 30m euro target by 2028); founder claims, unverified.
 
 [Cuan → Meridian] 2 Nov 2026: logged Instagram items from the shanemcai account (market_intel_shanemcai_instagram_ai_shares_nov2026.md): Karpathy HackerTube built with Claude Code (model-tiering pattern, also added to ai_upskilling.md), a Katou abundance-timeline forecast (speculative) and a nine-agent "Batman Trading Desk" graphic. Also a Ciara Mageean resilience quote (personal_development.md) and a Qigong morning-routine reel (health addendum, tai chi file). Social-media claims, unverified.
+
+## 3 Nov 2026 [Cuan -> Meridian]
+Logged `market_intel_shane_501_budget_cyber_nov2026.md`: Shane McCarthy's LinkedIn article "What happens at 5:01?" (2027 budgets, AI adoption and cyber resilience together; claims with check status; SuperValu 2 Nov and NCSC 3 Nov items unverified; 41% global figure belongs to incident-response exercises, not the 17% ERM measure).
