@@ -8949,3 +8949,17 @@ Source: `cuan/scratch/Noesis_Companies_1_Nov_2026_from_Shane.pdf`. This is Shane
   - The Organism investor system covers Asterial, SanCelvio and Tairseach only, so approved-facts sheets are needed for those first.
 
 **2 Nov 2026, John's personal tax:** Revenue Final Demand (27 Oct 2026, 1,000 euro estimate for 2024 income tax, 7 days to 3 Nov) photographed by John; he will phone Revenue on 3 Nov to explain that he had no rental income. Full entry in `operating_creed.md`. Also recorded this sitting: Pat Carroll's business card details (`people_map.md`) and six Snamhai Sasta desk calendar quotes (`personal_development.md`).
+
+### Sensai: "Agreed, Shane and Padraic, 28 October 2026" (one-page sheet, shared by John 3 Nov 2026)
+
+Source: `cuan/scratch/SENSAI_Agreed_28_Oct_2026_Shane_Padraic.pdf` (PDF created 28 Oct 2026, 12:09 UTC). **First time Cuan has seen it:** John asked on 3 Nov whether he had shared it "last week"; Cuan found no earlier trace in this session or in the files (the engine names Foinse, Sruthan and Muileann appear nowhere before 3 Nov). It may have been shared in another thread. Shane's and Padraic's own agreement, not a Cuan or John document.
+- **Headline:** two personal engines into testing by Tue 3 Nov; Foinse back on with a Friday feedback loop; Muileann onto Padraic's iPad; **Sensai set up as its own company with Padraic in it**; Padraic's January secured in parallel.
+- **Dates:** Fri 30 Oct Padraic's first Foinse feedback and "Shane's company and IP meeting, Limerick" (the Noesis leadership meeting); Mon 2 Nov 23:59 both MVPs (Sruthan, and Personalised Intelligence into 2027) built; **Tue 3 Nov 11:30 call** to walk the MVPs; 3 to 14 Nov Shane and Padraic test both for seven to ten days; Fri 14 Nov refine together; w/c 17 Nov six testers per engine, two to three weeks, finished before the first week of December; **within seven to ten days: shareholder paperwork to Padraic, signed first, then the mindset, habits and behaviours IP moves into Sensai.**
+- **Padraic's January:** 35 warm leads end in December; target six groups of eight (48 people) from January; Smacht 60 about 80% systemised, two facilitators deliver it in November; website and webinar by the first week of December (domain omaille.ie, likely to change); agreed answer to "Sensai or Smacht" is both.
+- **Principle:** "Not built for you. Built around you." Sensai to be built over 12 to 24 months as its own company around personalised intelligence, "and built to be acquired".
+- **Governance points for John (Cuan's reading, to confirm with Shane):**
+  1. Shane's 1 Nov group paper lists Sensai as **held by Noesis**; this sheet puts **Padraic in the company**. Who holds what, in which class, and is Sensai incorporated (registered name, CRO number, directors, secretary)?
+  2. "Shareholder paperwork to Padraic within seven to ten days" falls before the ten Noesis documents are signed and before the valuation; keep the order of steps in Document 10 in mind (shares and IP before any outside party is brought in).
+  3. The mindset, habits and behaviours IP moving into Sensai needs an assignment or licence, a company-benefit check and a record (task 8, task 7).
+  4. John has no role named on the sheet; its "personalised intelligence" concept is the same family as the personal profile Shane asked John for on 29 Oct.
+  5. Earlier files: Sensai logged 9 Sept as Shane and Padraic's brand, and in `revenue_streams.md` as a Smacht channel (Padraic's ~300-member group), plus "Sensaii" there.
