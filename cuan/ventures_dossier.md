@@ -9088,3 +9088,7 @@ Shane: "Will send notes later, review Pats docs, lot of gold there...." John rep
 - **Cuan's cautions:** Pat's own pack asks for a priced, phased scope and comparable written quotes from each candidate on the same source index; treat both meetings as scoping meetings, not appointments; no Noesis documents shared before confidentiality terms and Shane's alignment; record any conflict check (including whether either firm acts for anyone connected with the group).
 
 - **3 Nov 2026 (evening):** John emailed Pat asking for the name and contact details of the Cork IP solicitor. Awaiting Pat's reply. William Fry (Barry Scannell) meeting still to be set up.
+
+### Noesis: John's understanding and action list (3 Nov 2026)
+
+John wants his understanding and action list in line with Shane's 8 Oct brief and his Chairman aim, and to be on top of things before the project management system is available. Cuan drafted `cuan/scratch/John_Understanding_and_Action_List_3Nov2026.pdf` (private, not for Shane or Pat): understanding, dated actions (Wed 4 Nov, by Fri 6 Nov, separately with Shane first, weekly), Chairman track, and an interim arrangement where the list is the system and Cuan gives a one-page update each Thursday. Board dashboard rebuild still to be offered and confirmed with John.
