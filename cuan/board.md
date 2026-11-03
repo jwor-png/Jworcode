@@ -1,247 +1,86 @@
-# Board — Live Dashboard
+# Board: Live Dashboard
 
-## 🔥 Today's priorities
+**As at Tue 3 Nov 2026, evening.** One line per item: what, status, next action. Organised by the six Operating Creed disciplines (`operating_creed.md`), with Noesis first because it is John's focus. Anything older than 14 days is tagged **[last known date, confirm]**. Full detail lives in `ventures_dossier.md`; the previous full board is archived at `logs/board-archive-2026-11-03.md`.
 
-1. 🔴 **ODIN** — $20m/20% term sheet deadline live with the US party (via
-   Dermot); $200m/20% Saudi offer also in play. Be ready to move fast.
-2. 🔴 **Julianstown Mill** — Fred Logue appeal response with ACP; sale to
-   John Lynch pending outcome; Glynn's Solicitors need chasing.
-3. 🟡 **Childen/Vatican** — formal Vatican meeting invitation still
-   expected, not yet received; draft letter still unsent.
-4. 🔴 **Velocity AI** — Gmail script fix still outstanding.
-5. 🔴 **Meridian website + email** — hosting/DNS decision needed from John
-   to get it live.
-6. 🟡 **UHL AI opportunity** — full text of the McGettigan disclosure
-   now recovered; proposed Board-level AI sessions still need following
-   up — live open door for more AI discussion at UHL.
+Key: 🔴 blocked by someone else · 🟡 waiting on John · 🟢 moving · ⚪ not started
 
-*(Full board below — this list is a same-day cut of the 🔴/🟡 items most
-likely to need a decision or action today.)*
+## Next 48 hours
 
----
+- **Wed 4 Nov, after 9am:** call Shane (call sheet: `scratch/Call_Sheet_for_Shane_4Nov2026.pdf`).
+- **Wed 4 Nov:** Cork IP solicitor's name and details from Pat (John emailed 3 Nov; call 087 996 3880 if no reply by midday); set up scoping meetings with the Cork solicitor and Barry Scannell (William Fry). Pat's review points and quotes are also due this day.
+- **Thu 5 Nov 11:00:** MWCF Strategy Meeting (Google Meet), accepted. Map circulated Wed 4 Nov.
+- **Fri 6 Nov:** Noesis Zoom, continuation of 30 Oct (times and recorder blank). John expects Fridays weekly.
+- **Mon 9 Nov 09:30:** reminder, follow up ORS (Gerard Heffernan) on the fire certificate if no reply by Fri 6 Nov.
+- **Mon 16 Nov:** reminder, follow up the Revenue reply. **1 Dec week:** mother's health insurance.
 
-Phone-scannable. If it's not moving something today, it's not on this page —
-full history and context lives in `operating_creed.md` and `revenue_streams.md`
-instead. Ordered by what actually matters to John, not alphabetically.
+## Noesis (priority)
 
-Last refreshed: 2026 (rebuilt for phone readability + priority order)
+- 🟡 **Shane's notes of 30 Oct** promised "later" (WhatsApp 3 Nov 20:09); nothing is agreed until they arrive. Pat's outcomes table is blank.
+- 🟢 **Task 1, verified company summary:** draft v1 built (`scratch/Task1_Verified_Company_Summary_Draft_v1_3Nov2026.pdf`). Five companies registered by Shane's statement, two in incorporation, nine with no evidence. **Next: John checks the CRO register.**
+- 🟡 **Ten documents:** amendments promised by Shane from John's 22 Oct note; status unknown; ask Shane 4 Nov.
+- 🟡 **Incorporations:** no instruction from Shane to Pat on file; ask Shane which companies Pat is to incorporate.
+- 🟡 **Roles:** secretary (brief says John, Pat's chart open), Chairman seat open, board rules to draft (task 5). Chairman aim and paid role are conversations with Shane, not writing.
+- 🟡 **Pat's possible sale of the practice** (John's account): settle with Shane first; no approach to a new firm yet.
+- 🟡 **Overdue 2 Nov items:** commitments compilation, company status list and constitutions, one-line agreement summaries. Settle compiler and a new date.
+- 🟡 **Meridian** not incorporated; side-projects protocol and register to agree with Shane.
+- 🟢 **Shane's instruction (3 Nov):** focus on what is John's and note where clarity is needed: `scratch/John_What_Is_Mine_and_Clarity_Needed_3Nov2026.pdf`; action list `scratch/John_Understanding_and_Action_List_3Nov2026.pdf`.
+- ⚪ **Project management system** not yet available: this board and the action list are the system until then.
 
-🔴 blocked by someone else · 🟡 waiting on John · 🟢 moving · ⚪ not started
+## 1. Move revenue weekly
 
----
+- 🟡 **Barber Republic:** third invoice dispute (build 55,000 pounds; third payment 25,000; Johnny proposed 15,000 plus 10,000 on completion; Shane decides); interim investor document and replies to John Jones and Anthony Laban outstanding; counterparty entity names to confirm. [29 Oct]
+- 🟡 **Ger Blake Decision Brief:** draft v1 awaiting John's angle; the Julianstown requisitions PDF could not be read by tools. Meridian has no company yet: no fee or contract until incorporated. [29 Oct]
+- 🟢 **UHL (Velocity AI training, Chairman's invoices):** audit tender in train (BDO first call went well 3 Nov; RSM time problem; David Geoghegan's criteria and question sets to read). [3 Nov]
+- 🔴 **Velocity AI Gmail script** still failing; needs the script code and the Executions line number. [19 Oct, confirm]
+- 🟡 **Intelligence Concierge, Ambrion, Golden Generation, Skillnets application:** [last known Sept, confirm status with John].
+- 🟡 **ODIN raise, EOLAS, Tairseach funding:** [last known 30 Sept: two live offers, 20m dollars and 200m dollars; confirm what has happened since].
+- 🟡 **Sensai:** Shane and Pádraic's agreed sheet of 28 Oct; ownership (Noesis or Pádraic) and shareholder paperwork timing to confirm.
+- 🟡 **Investor voice profile prompt** saved, not yet run.
 
-## 🥇 THE BIG BETS — bigger payoff than revenue streams, not day-to-day cash
+## 2. Protect my health and family
 
-These are the equity/exit-scale plays, not the monthly-cashflow items below.
-Different rhythm needed: less frequent check-ins, higher-stakes moves.
+- 🟡 **Majella:** health follow-up in hand; details held outside the repo.
+- 🟡 **John:** post-consultant check-up and bloods to arrange. [Aug, confirm]
+- 🟡 **Mother's health insurance:** first week of December (reminder set).
+- ⚪ **Carer's Allowance exploration** (Joan, Nana Helen): not actioned.
+- 🟢 **Life balance:** golf, gardening, family time scheduled as fixed slots.
 
-🟢 **Intelligence Concierge — first sale landed, Paul Candon, €5,000
-founding rate.** The productized, sellable version of Cuan itself —
-€5k for the first 10 commissions, €10k after, built-and-owned-outright
-per client. John's stated priority: roll out in the days ahead. Full
-detail in `ventures_dossier.md`.
-🔴 **ODIN — formal investment offer expected within 48 hours (31 Aug).**
-**Confirmed via the actual Business Plan (5 Sept): €20m round, €100m
-pre-money valuation**, John's role stated in-document as "Head of
-Investments." IP is Shane's personally, captured via Asterial
-Limited (John is Company Secretary there) to his benefit. John's top
-priority: free up his own time to work with Shane and complete this raise.
-Be ready to act fast once the offer lands. **NEW (2 Sept): "Codex" — a
-new intelligence product build spec'd out this session (85-section
-engineering spec) — is on hold pending John's direction next morning.
-Full detail in `ventures_dossier.md` ODIN/Codex section.**
-**UPDATE 30 Sept: two live offers now sharper** — $20m/20% (US party,
-via intermediary Dermot, **term sheet deadline Friday 2 Oct**) and a
-$200m/20% Saudi offer (same stake, 10x the valuation — a gap worth
-questioning), possible meeting next week, possibly Kildare, working
-hypothesis it connects to Juddmonte/the Saudi royal family. Full detail
-in `ventures_dossier.md`.
-🟡 **EOLAS (Shane's platform)** — reviewed 2 Sept, assessed as
-sooner-to-revenue than Meridian's build, verified intelligence foundation
-for Meridian + regulatory anchor for Ambrion. John holding overnight,
-reconvening with Shane to align strategy — key open question:
-standalone product or Meridian infrastructure. Full detail in
-`ventures_dossier.md`.
-🟡 **Meridian Intelligence** — 70% owned, outcome directly John's, not a
-minority stake. Not currently moving. Website build is in its own session —
-needs a status pulled from there.
-🟡 **Tairseach** — property-specific organism descended from ODIN; funding
-conversations bundled with ODIN's above.
-🟡 **Childen** — child online safety architecture, **Shane McCarthy sole
-owner**. Ask: not a purchase, the Church convenes funding/partners and
-holds the standard in trust. Route already run: Mike Molloy →
-Archbishop Eamon Martin → the Vatican's office — **an invitation to
-travel to meet the Pope or his representatives is expected, not yet
-received.** Draft letter to the Vatican (2 Sept) not yet sent. Working
-group: John, Shane, Andrew Sharkey, Mike Molloy, via
-WhatsApp. **Tuesday 29 Sept, Maynooth — went well.** John and Shane met
-**Archbishop Eamon Martin** at the Pope Leo AI encyclical conference;
-intention now to secure a formal meeting with the Pope at the Vatican
-**in the coming weeks**. Full download of the day still pending from
-John — nothing else to be assumed yet (see `childen.md`).
-Full detail now in its own file: `childen.md`.
-⚪ **Other tech-for-sale/investment candidates** — flagged as existing but
-not yet itemised; John to name them so they can be tracked individually.
-🟢 **Asterial Limited** — the vehicle capturing Shane's personal ODIN IP
-to his benefit. John is Company Secretary; Pat Carroll handles external
-company secretarial. Structure now clear — see ODIN entry above for the
-live 48-hour offer connection.
-🟡 **John's role across Shane's companies** — Company Secretary
-confirmed on Asterial, likely also Zubelsala and Sancelvio (B10s signed
-24 Sept). John flagged 27 Sept he's likely to become a Director too on
-one or more. No fee agreed for either role yet — needs a direct
-conversation with Shane. Full company list not yet confirmed. Full
-detail in `ventures_dossier.md`.
+## 3. Act with integrity
 
-🟡 **Velocity AI training** — €10k/org executive AI orientation, proven at
-UHL. 50-target Irish org list built (`meridian/sales-orchestration/`).
-Priority: apply to Skillnets Ireland as approved training provider
-(unlocks 40-60% funded for client companies) — highest-leverage single
-action for the whole list. John to mark warm contacts on the 50; recover
-"idea 1" content from Shane's original six programme concepts (not yet
-found in repo).
-⚪ **Kilmallock Water** — early exploration, **no spend authorised.** The
-underlying feasibility study has no revenue line and unverified claims —
-earlier optimistic framing superseded. Three tangled businesses (source
-asset / bottling plant / groundwater intelligence layer), choosing one
-parks the others. Real go/no-go spend to find out is ~€50-100k over
-6-12 months, not the €1.5-3m headline. First move is free: confirm land
-ownership at Knocksouna and Deebert. Full detail in `ventures_dossier.md`.
-⚪ **Tangible Ireland Group** — Kilmallock/Limerick relationship capital,
-not revenue. 2026 Summer School talk given 20 Aug, outcome unknown.
-**2027 hook: Summer School falls ~4 weeks before the Ryder Cup at Adare
-Manor** — raised, not yet progressed with Raymond Sexton.
-⚪ **Thomond/Ilex — Midleton PCC** — funding stalled since PHP declined
-28 Apr, no movement since. Open questions for Ger Blake: Kendrick
-Properties link, Axis Health Care Assets connection, Leriathan, Tusla
-contact. Dormant, not dead.
-🟡 **Croom Lands** — now tracked as its own project (John's instruction,
-2 Sept), not just a Thomond/Ilex sub-item. HSE site meeting live again
-this week (contact "Fran," 086 2546036); Ger Blake sending David +
-another professional rather than John attending — "sensitive stage."
-8-acre Croom Lands holding is John + Ger Blake + Yuksel Kangal (Ger's
-brother-in-law, funded the purchase). Separate unresolved thread:
-a 6 Aug email to Ger got only his OOO auto-reply, nothing since —
-worth confirming with Ger directly whether it was ever addressed.
-⚪ **AI Adoption in Ireland prospecting** — broader ~200-company prospect
-universe across AmbrionAI/Velocity AI/Meridian Intelligence (opened
-6 Aug). Narrowed toward specific companies/decisions (Studio Sixty Eight,
-PSE Power, Polar IceTech for Meridian) but the actual 100/200 lists
-aren't in the repo yet — needs recovering from wherever John/Shane built
-them.
+- 🟢 **Revenue Final Demand (2024 estimate):** reply posted by registered post 3 Nov. Next: 2024 return via ROS by 31 Dec 2026 (who prepares to confirm); follow-up 16 Nov.
+- 🟡 **Pay-when-able commitments:** Nigar Roach, Keith Hogan (Michael Nugent closed 9 Sept); Clinton Tiernan account. [Sept, confirm]
+- 🟡 **Noesis commitments record:** John or Tom to compile; evidence rule: no unverified entry presented as agreed.
+- 🟢 **Standing rules:** no outward action without John's instruction; every claim source-tagged; nothing committed without Shane's alignment.
 
-## Revenue streams — cash flow, day-to-day, one line each
+## 4. Resolve my past professionally
 
-🟢 AHL Plc — **structural finding (2 Sept): John operates across three
-companies, not one** — UHL, AHL Plc (not a UHL subsidiary — separate
-shareholders/auditor), and National Hardware (previously untracked, no
-apparent John role, but subject to a live AHL recovery). **Correction
-(15 Sept): the DAC conversion question and the D&O insurance limit
-query both belong to United Hardware, not AHL — UHL's own AGM/Board
-cycle is 30 Sept, entirely separate from AHL's.** AHL's FY2025 audit is
-now closed and signed (31 Aug 2026), profit €1,681,575 driven by a
-€1.7m investment property revaluation gain, no dividend recommended.
-Auditor continuity: BDO → BDO Ireland LLP, a structural merger with
-the UK firm, not a substantive audit change. **Open item: AHL's own
-D&O cover status is unclear — John believes AHL may have none, needs
-review post-AGM.** Ray/Edel Smyth claim now confirmed as the "Faulkner"/"rusty sand" claim
-(Nov 2020). **Marsh's intelligence (22 Sept, Mark Doherty), strongly
-supportive of AHL: no claim ever on the insurer file, file closes Nov
-2026 under the 6-year statute, product never on AHL premises, Smyths'
-own account withholding is a separate commercial matter.** Meeting
-briefing prepared with a key question to put to Ray/Edel about their
-own insurer's settlement status. AGM held 23 Sept 11:30am (6
-resolutions: FY2025 accounts, affairs review, BDO reappointment +
-remuneration, directors' remuneration, re-election of Joseph Wallace
-and John Smyth), premises meeting ~1:15pm, Smyth meeting 2:30pm — all
-Green Isle Hotel, all as planned. **John confirmed 23 Sept evening: all of today's meetings went well.**
-Specific vote results, what was agreed at the premises meeting, and
-outcome of the Smyth meeting still to come from John tomorrow.
-June 2026 management accounts also went to the Board 23 Sept: net
-profit YTD €311,387, ahead of budget +16.8%; debtors flagged include
-Smyth's of Killucan €100,000 and Mulvey €43,179.64 tagged "Insurance."
-Full detail + questions in `ventures_dossier.md`.
-🟢 UHL Hardware — Aug Chairman's invoice (No. 27) sent to Nicola & Dave.
-FY2025 audit closed, Board thanked John 5 Aug. 22 April AHL board
-minutes issued to BDO. **Reply to Ray Smyth sent 3 Sept 2026** (Without
-Prejudice, denying liability, referencing Mulvey precedent, offering
-to discuss at 23 Sept Board meeting) — now awaiting Ray's response.
-**30 Sept Board meeting + AGM both went well.** John sees a significant
-AI development/adoption opportunity emerging via the Data Transformation
-Programme's member-data push. **Conflict-of-interest disclosure to
-Chairman Eoin McGettigan — full text now recovered (5 Oct), tabled and
-accepted.** Message also proposed Board-level virtual AI introduction/
-compliance sessions and flagged the Audit and Risk Committee's role in
-overseeing AI adoption — **live open door for further AI discussion at
-UHL, not yet followed up.** Full detail in `ventures_dossier.md`.
-🟢 Ambrion AI — training 25 & 31 Aug confirmed
-🟢 Barber Republic — **London trip (3 Sept) went well.** John Jones wants a full investor pack and separately offered the Liberty London/Carnaby St concession as a standalone Barber Republic London base, funded by him for equity. Anthony Laban agreed to help recruit barbers/shops and back the launch publicly, also seeking equity. **Both offers live, unresolved — John hasn't committed to either**, wants to measure against Shane's actual commercial/funding modelling first. Johnny wants the £50k first-tranche dropped, pushing to raise the other £35k through the business directly instead. Interim investor document (short of a full pack — real revenue data doesn't exist yet) still needs building. Month One £15k PAID. **NEW (19-20 Oct): Manchester build/test week with Shane, Johnny Shanahan and Neil Dignam went well (w/c 12 Oct).** Corporate structure clarified direct from Johnny: **StayTrue Ltd owns Barber Barber Ltd**; "Barber Barber" is a trading name, not one entity — each shop trades under it via its own separate company. **Barberrepublic.ai Ltd is the actual company that currently owns Barber Republic, Johnny sole director**, structure to expand to other directors/shareholders later. New mutual NDA drafted (Barberrepublic.ai Ltd vs Rob Wilcox personally, not Reuzel Inc.) for Johnny's call with Rob Wilcox (Reuzel) — superseding the stale Reuzel/StayTrue NDA from last year. Side idea, not decided: Scott Davenport for 1-2% equity to help drive funding/financials. **Platform testing live and growing strongly** (barber profiles 9→22, shop profiles 6→17, feedback submissions 71→180) — testing window closed Tue 20 Oct 5pm, work plan due from Shane as of Wed 21 Oct, not yet confirmed received.
-🔴 Julianstown Mill — Fred Logue appeal formally lodged 31 Aug (PL-501978-MH-26), response due 23 Sept; **88-page response submission to ACP almost ready, filing in the next couple of days (22 Sept update)**; **sale completion to John Lynch now explicitly pending the appeal outcome, not just fees**; Glynn's Solicitors gone quiet on closing prep — needs chasing; updated balancing statement drafted, awaiting reply
-🔴 Velocity AI — Gmail script fix still outstanding, **actively throwing Apps Script failures as of 19 Oct**
-🟡 **Golden Generation — naming clarified 18 Sept.** Solely the name
-for the AIMES-based 16-week executive AI-literacy/migration programme
-John and Shane have already run once jointly (piloted with senior
-decision-makers, multi-millionaires and retired ultra-high-net-worth
-individuals — see `childen.md`, Shane's Q1 Vatican answer). John: if
-extended into a standing offering for businesses to make senior
-management/executive teams AI-literate — similar to the UHL model —
-"yes 100%." Not yet scoped as a repeatable commercial offering. John's
-separate succession/institutional-knowledge idea is now named **The
-Long Memory** (`the_long_memory.md`) to remove the naming clash.
-🟡 **Legacy Financial Matters — historic debts tracker (new, 8 Sept).**
-BOI Finance pursuing the MiDentalCare Serona dental chair lease
-(€3,201.60 balance) against the liquidated company and against Niamh
-as guarantor; redirect letter to liquidator drafted, awaiting John's
-send. Plus pre-existing BOI loan thread, Milltown personal fees owed,
-Lisa Doyle wages claim. **NEW (19 Oct): separate "Northstone" claim
-from Smiths of Killucan's solicitors landed, cc'd to Marsh (Mark
-Doherty)** — John has asked David Geoghegan who AHL's own solicitors
-are so he can pass the letter on, awaiting reply. Full list in
-`ventures_dossier.md`.
+- 🟡 **MiDentalCare and Bank of Ireland Finance** (dental chair lease guarantor; redirect letter to liquidator drafted). [Sept, confirm]
+- 🟡 **Northstone claim (Smiths of Killucan), cc Marsh:** asked David Geoghegan for AHL's solicitors. [19 Oct, confirm]
+- 🟡 **Revenue 2024 estimate, UK apartments and residual debt:** outside the Revenue letter by agreement; plan separately.
+- ⚪ **Lisa Doyle wages claim; Milltown fees; BOI loan thread.** [Sept, confirm]
 
-🟡 **Meridian → UHL: Specialist Affiliate Group brief** — paint/decorating
-independent buying group concept sent to Paul Candon 2 Sept, John's
-assessment "real opportunity, not launch-ready." Awaiting Paul's reply on
-whether to greenlight a 6-8wk feasibility project. **NEW: Musgrave's Oct
-2026 acquisition of four SuperValu stores (Nally's) logged as a useful
-precedent** — shows how a parent group actively manages direct vs
-independent ownership within a buying group, worth having in mind if
-this conversation progresses.
+## 5. Protect my present responsibly
 
-⚪ **Uropharma** (Mike Molloy) — still thin; not confirmed whether this is
-the same UroPharma already logged as a separate investment-review thread.
-Childen itself is now fully documented — see `childen.md`.
+- 🔴 **Car insurance (Campion to Aviva, 425 euro, renewal was due Sun 1 Nov):** cover not confirmed in writing; **confirm today**. Premium Credit email to verify as genuine.
+- 🟡 **UHL:** directors' travelling expenses (John forwarded to David Geoghegan 3 Nov); fire certificate (ORS); audit tender.
+- 🟡 **AHL/BDO:** Joanne Mallon flagged John Smyth's signature date (28/11/2026, after filing deadline); John says signed 28 Oct and asked for amendment; BDO may require re-signing; Nicola's originals to arrive.
+- 🟡 **AHL D&O cover** and **UHL D&O limit:** unresolved. [Sept, confirm]
+- 🟡 **Home security and insurance items** from the 21 Sept Campion call. [confirm]
+- 🟡 **Julianstown Mill:** appeal PL-501978-MH-26, sale to John Lynch pending outcome; Glynn's to chase. [22 Sept, confirm]
+- 🟡 **Cuan housekeeping:** board email sends were interrupted 29 Oct to 3 Nov and resent; daily 05:13 UTC board email now reads this board.
 
-🔴 **Meridian website + email launch** — site built (branch
-`claude/meridian-new-website-s043eq`), unhosted. Google Workspace stalled
-since 1 July payment failure. Both touch the same domain's DNS — sequenced
-plan now in `meridian_website_brief.md`: recover admin account → fix
-payment → decide hosting → one coordinated DNS change. Needs John's
-sign-off on hosting choice and the DNS change window.
+## 6. Build my future deliberately
 
-🟡 **Reopen "Partner Design Studio" on the laptop** — John flagged 24
-Sept, screen was on a Chromebook (Acer) with a "Partner Design Studio"
-tab already open alongside Google. Reminder logged; John to action on
-his own device — nothing for Cuan to do here beyond holding the note.
+- 🟡 **Noesis role and terms:** Chairman then Group Chairman; full-time paid role; equity 2% to 4% on performance (John's account, no minute); independent review of own terms per Pat's pack.
+- 🟡 **Childen and the Vatican:** formal invitation expected; draft letter unsent. [Sept, confirm]
+- ⚪ **Tangible Ireland Group, Kilmallock Water, Croom Lands, Thomond/Ilex Midleton:** dormant or early; no spend authorised. [Sept, confirm]
+- ⚪ **Personal estate and retirement plan; The Long Memory; Golden Generation succession offers.**
+- 🟢 **Market intelligence** logged to `logs/intelligence-log.md` as it arrives.
 
-## Waiting on John (across separate sessions — ask each for a fresh status)
+## Waiting on John
 
-Meridian → LinkedIn changes (beyond the launch post series already logged
-in `ventures_dossier.md`) · United Hardware "Paul's thoughts" (unclear what
-this refers to — needs naming) · Revenue Streams offer #3 (which offer —
-needs naming). Also genuinely stale, never resolved: **Velocity AI's own
-status** (the entity itself, not the work it holds), **LinkedIn/"Other
-Side of Sixty"** (launched or not?), **Bantry Property** (no status ever
-recorded) — all three sit as `[ASK]` in `ventures_dossier.md`.
-
-## Done / review-ready (no action needed)
-
-UHL DAC · Kilkee wastewater · ODIN spec · AI Funding Meridian · AI
-upskilling · Barber Republic handover · Meridian new website · Webb Sports
-Horses Ltd VAT confirmation letter (signed & sent)
+Meridian hosting and DNS decision · LinkedIn changes · "Paul's thoughts" at UHL (unclear) · Revenue Streams offer 3 (unnamed) · Velocity AI entity status · Bantry property status.
 
 ---
 
-**Refresh rule:** paste a session's status here and I fold it in immediately.
-Full reasoning, dates and detail for any line above lives in
-`operating_creed.md` — this page only ever shows current state.
+**Refresh rule:** John gives a status or Cuan finishes work, and the line changes the same day. Anything not confirmed in 14 days is re-tagged, never dropped.
