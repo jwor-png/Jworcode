@@ -61,7 +61,7 @@ Key: 🔴 blocked by someone else · 🟡 waiting on John · 🟢 moving · ⚪ 
 
 ## 5. Protect my present responsibly
 
-- 🔴 **Car insurance (Campion to Aviva, 425 euro, renewal was due Sun 1 Nov):** cover not confirmed in writing; **confirm today**. Premium Credit email to verify as genuine.
+- 🟢 **Car insurance (Campion, renewal due 1 Nov):** renewed and confirmed, per John 3 Nov. Closed unless the Premium Credit email needs checking as genuine.
 - 🟡 **UHL:** directors' travelling expenses (John forwarded to David Geoghegan 3 Nov); fire certificate (ORS); audit tender.
 - 🟡 **AHL/BDO:** Joanne Mallon flagged John Smyth's signature date (28/11/2026, after filing deadline); John says signed 28 Oct and asked for amendment; BDO may require re-signing; Nicola's originals to arrive.
 - 🟡 **AHL D&O cover** and **UHL D&O limit:** unresolved. [Sept, confirm]
