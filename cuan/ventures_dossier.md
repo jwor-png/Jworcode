@@ -9063,3 +9063,7 @@ John wants to understand and agree with Shane how the side projects sit beside N
 
 - **Meridian Intelligence is not incorporated yet** (John, 3 Nov). Intended 70/30 with Shane; no entity, no shareholders' agreement on file. The 9 Oct free-trial Decision Brief offer to Ger Blake was made in Meridian's name, so there is activity without a company behind it: Cuan flags that no Meridian fee, contract or client IP should be agreed until the company exists.
 - **John's meeting notes are not to be used.** John wants to understand Shane's and Pat's view of the 30 Oct meeting first; Cuan proceeds without his notes. Drafts saved in `cuan/scratch/Side_Projects_Protocol_and_Asks_Draft_3Nov2026.md` (protocol, copy-ready request to Shane, copy-ready request to Pat), not sent.
+
+### Shane's WhatsApp to John, 3 Nov 2026 (20:09 to 20:24)
+
+Shane: "Will send notes later, review Pats docs, lot of gold there...." John replied he has Pat's and Shane's papers against his own in Cuan "to get a coherent and common understanding for us all to work with". Shane then instructed: "Put on focus on what's yours or suggested to be yours from what was agreed and what Pats docs suggest. Where further clarity or exploration is needed, note it." Cuan prepared a draft paper (`cuan/scratch/John_What_Is_Mine_and_Clarity_Needed_3Nov2026.pdf`), for John's review, not sent. Shane's notes of 30 Oct are still to come; nothing is treated as agreed until they arrive.
