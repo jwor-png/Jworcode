@@ -47,7 +47,7 @@ Content should preserve John's voice, not sand it down into generic professional
 - "AI as an asset class"
 - "Orchestration director" (not builder, not developer)
 - "Experience amplified, not reinvented"
-- "Human led, AI driven"
+- "AI driven, human led" (John corrected 3 Nov 2026; matches Noesis value 01)
 - "Curate opportunities, don't collect them"
 
 ## Language to Avoid
