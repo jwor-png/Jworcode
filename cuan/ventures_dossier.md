@@ -9121,3 +9121,9 @@ Source: `cuan/scratch/Shane_Briefing_Memorandum_Docs_1_to_5_4Nov2026.pdf`. Shane
 - Shane is designing all the brands in the structure and has spoken to Pat about incorporating all the companies. Business cards through BizAy and merch through "Kukulin" (spellings to confirm).
 - Pat's feedback is wanted. **Target of 23 Nov 2026 for all work expected of John and the companies** (John's account). Friday 6 Nov meeting continues; no notes from 30 Oct yet.
 - John printed Pat's pages and the one-page summary and the group structure page for the Friday conversation. One-page map of the Noesis group and operating creed: `cuan/scratch/Noesis_and_Operating_Creed_One_Page_4Nov2026.pdf`.
+
+### Maliki (Malachy Harkin): IBI funding pages and an introduction, 4 Nov 2026 (John's account)
+- John emailed the IBI Finance funding-landscape pages to Maliki from his Gmail a short while before 4 Nov evening; Maliki has seen them and John has spoken to him. (Cuan's earlier Gmail search had not found a sent copy, so it was sent after that search or from another address; not seen by Cuan.) The pages are IBI Corporate Finance / DC Advisory material from April 2025, prepared for MiDentalCare; third-party and dated.
+- Maliki's business: launching and distributing an eSIM card in Australia and the adjacent Southern Hemisphere.
+- John told "Eamon" (name as dictated: "Aim and Eastwood"; surname unconfirmed) on LinkedIn that he would introduce a good friend by email in the coming days. John will recheck the LinkedIn messages in the next day or so, then send a simple email introducing Maliki and Eamon to each other, copying both. The LinkedIn screenshots did not reach Cuan.
+- Reminder set: Fri 6 Nov 11:30 (Dublin) for Cuan to draft the introduction for John's review. Nothing sent by Cuan.
