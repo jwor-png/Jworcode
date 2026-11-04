@@ -1,0 +1,91 @@
+DRAFT FOR JOHN TO REVIEW. NOT SENT. FOR SHANE, 5 NOV 2026.
+
+Shane, thank you for the revised documents. Below is each outstanding point in one sentence, in plain language, with the reason it matters, so you can run it through your own tools. The company names and registration numbers in your documents are taken as correct.
+
+THE GROUP
+
+Group 1, the list of companies. I do not yet have one list showing every company in the group with its registered name, registration number, directors, secretary and shareholders, and without it I cannot confirm the legal starting point that everything else depends on.
+
+Group 2, incorporations. You told me today you have asked Pat to incorporate all the companies in the structure, so I need the names, dates and registration numbers as each is done, because I cannot prepare a constitution or a filing for a company that does not yet exist.
+
+Group 3, Odin Labs and Táirseach. Your email of 22 October said they were in incorporation but your summary of 4 November says they are not yet incorporated, so please tell me which is true today, since the documents treat them differently depending on the answer.
+
+Group 4, who owns Noesis. The revised documents put you at 86 percent, family at 8 percent and three executive partners at 6 percent, whereas Pat's paper proposed 83 percent and 17 percent with fourteen holders, so we need one agreed structure before anything is signed because signing two different structures would create disputes later.
+
+Group 5, the order and the tax. The documents issue shares first at one cent and then transfer the intellectual property second for a small sum without an outside valuation, but Pat has said the tax result of that order is not yet confirmed, so a qualified adviser should test it before signing because a wrong order can create an unexpected tax bill that cannot be undone.
+
+Group 6, private figures in public filings. Your summary says private percentages were removed from the constitutions that will be filed publicly, but the Asterial and Noesis constitutions still show percentages, so either the text must change or we accept that those figures become public, which I assume you do not want.
+
+Group 7, figures that differ between documents. The documents disagree on whether the price on a sale of Asterial is nothing or one euro, on whether the intellectual property is transferred for one euro or ten euro, and on whether the research tax credit is thirty or thirty-five percent, so each figure must be the same everywhere or an investor's lawyer will use the difference against us.
+
+Group 8, the order of signing across documents. Document 1 places the licence and research agreements at the last step while Documents 2 and 10 place them earlier, so we need a single order of signing because the tax outcome depends on the order.
+
+Group 9, planned company names. Documents 5 to 8 still list planned brand names inside the definition of future subsidiaries while Documents 9 and 10 do not, so please decide one approach for all ten and describe those names as brand names where no registered company exists yet.
+
+Group 10, constitutions for the other companies. Only Asterial and Noesis have a constitution among the ten documents, so Zubelsala, SanCelvio, Velocity and every future company need their own, and I suggest we agree one standard template first so each new company can be set up quickly and consistently.
+
+Group 11, labels on the shares. Family shares are called Class F in some places and Class F or B in others although Asterial has no Class F, and the new Class C milestone and option shares have no stated source or size, so we need to fix the labels and say where those shares come from because shares that cannot be traced to an authorised pool may be invalid.
+
+Group 12, leavers. The documents use the term good leaver without defining it and treat the same breach differently in the charter and the shareholders' agreement, so we need one definition and one consequence so that nobody is surprised if someone leaves.
+
+Group 13, board, chair and rules. The documents give the founder's class a majority on the board and the chairperson a casting vote, yet nobody is named as director or chair and the rules on quorum, conflicts and reserved decisions are not written, so someone must be appointed and the rules agreed before the board can lawfully act.
+
+Group 14, the company secretary. The company secretary is not named anywhere in the documents, so I need your written confirmation of who holds that role in each company so that the registers and filings each have a clear owner.
+
+Group 15, dates, witnesses and signing. All dates, countersigning officers, addresses and the deeds of adherence are blank, and Document 2 asks for an independent witness while Documents 1 and 10 name a witness who may not be independent, so the signing arrangements need to be settled before any document is signed.
+
+Group 16, proof of who owns what today. I need the share register, share certificates and proof of paid-up capital for Noesis and the other four live companies, together with the record of the earlier transfer between Pat and you, so I can confirm who owns what today before any new shares are issued.
+
+Group 17, the record of commitments. Pat has asked for one record of every signed, unsigned and verbal commitment including property and Dubai, and I need you to supply the content so that nothing is treated as agreed unless it is evidenced and nothing is missed that could bind a group company.
+
+Group 18, the legal route. We still need to choose the solicitor route, the intellectual property specialist and who pays, because documents of this size should be reviewed by a qualified solicitor before signing and Pat has asked that the cost source be approved first.
+
+Group 19, Pat's sign-off. Document 10 has a slot for Pat as tax and accounting adviser, and because Pat may sell his practice we need to know who will sign that slot and who will keep the registers and make the filings for the group afterwards.
+
+Group 20, evidence for the intellectual property. The chain-of-title deed has Velocity and you confirming authorship of more than fifteen thousand assets, and we need the evidence behind that confirmation because an investor's lawyer will ask to see it before relying on it.
+
+Group 21, the licence rates. The licence between group companies needs a schedule of royalty rates that is still missing, and without it the money moving between companies cannot be reviewed or shown to be at fair market terms.
+
+Group 22, safety and AI oversight. The ten documents cover safety, data protection and AI oversight only through the leaver clause, so I need Tom's findings and your decision on who owns that work.
+
+Group 23, your notes of 30 October. I have no written record of what was decided on 30 October, who owns each action and by when, so I cannot align my plan to your decisions until I have it.
+
+Group 24, the date of 23 November. To deliver everything by 23 November I need the items above this week, because every company that is not yet incorporated moves my dates back by however long incorporation and filing take.
+
+EACH COMPANY
+
+Noesis AI Agent System Limited. It is registered and its constitution is drafted, but I still need its register, its directors and its secretary confirmed before it can adopt the constitution, because a company cannot lawfully act without them.
+
+Asterial Limited. It is registered and its constitution is drafted, but my records show its shares in your name rather than Noesis's, so the transfer and its tax need to be agreed before the intellectual property is assigned into it.
+
+Zubelsala Limited. It is registered and acts as the safe copy of the group's technology in the licence, but it has no constitution among the ten documents and I do not know its shareholders, so I need both.
+
+SanCelvio Limited. It is registered and is named in the licence and assignment, but it has no constitution among the ten documents and its shareholders are unknown, and I need to know whether Childen will sit inside it.
+
+Mainly Velocity Limited, trading as Velocity AI. It is registered and assigns intellectual property in the documents, but I need its constitution, its shareholders and a list of its contracts, including the Barber Republic agreement under which the platform passes to the customer only on full payment.
+
+Tairseach Limited, trading as Táirseach. Your documents say it is not yet incorporated, so I need its registration number, directors and shareholders as soon as Pat completes it, and until then it can only join by the deed of adherence.
+
+Odin Labs Limited. Your documents say it is not yet incorporated and it is to be held by Asterial rather than Noesis, so I need its registration number and the order in which it is set up, because the research agreement cannot be signed until it exists.
+
+Occasio. I understand it is the private language model company, which Pat's papers call the LLM Company, so please confirm that and give me its registered name and owner once it is incorporated.
+
+Fiducia. It is a planned company with no registered entity yet, so I need its name, owner and incorporation date, and I will connect it to Tom's safety work.
+
+Glór. It is a planned company with no registered entity yet, so I need its name, owner and incorporation date so its constitution and filings can be prepared.
+
+Sensai. You and Pádraic agreed on 28 October that Pádraic would be in the company, whereas the group paper says Noesis holds it, so I need you to confirm who holds what in which class and when the shareholder paperwork will be signed before any intellectual property moves into it.
+
+Inneall. It is a planned company with no registered entity yet, so I need its name, owner and incorporation date.
+
+Fabrica. It is a planned company with no registered entity yet, and its client builds are authorised in the documents, so I need its name, owner and incorporation date before it takes any client work.
+
+Tír AI. It is a planned company with no registered entity yet, and the Seanchai project is to move into it from SanCelvio, so I need its name and owner and a record of that move with the tax checked.
+
+AI Accountancy. It is a planned company with no registered entity yet, so I need its name, owner and incorporation date, and a decision on whether it needs a separate accounting adviser.
+
+Kairos. It is drawn on the chart as part of the group and described as the majority shareholder in each side venture including Barber Republic, but my records show Barber Republic sitting under Barberrepublic.ai Limited and BarberBarber Limited, so I need the ownership chain confirmed.
+
+Mac Enterprises. It is carved out of the group in the documents, but no legal form or number is given, so please supply them or describe it precisely so the carve-out is certain.
+
+Meridian, Ambrion and Childen. They are not on the chart, and Meridian is not incorporated, so I need your confirmation of where each sits and the boundary between them and the group so that no group document or data is shared across it by mistake.
