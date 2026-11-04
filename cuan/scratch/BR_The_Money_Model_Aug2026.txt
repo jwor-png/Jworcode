@@ -1,0 +1,231 @@
+P R E PA R E D F O R J O H N N Y S H A N A H A N                   VELOCITY AI · AUGUST 2026
+& JOHN WEBB O’ROURKE
+
+
+
+
+I N T E L L I G E N C E T H AT B U I L D S T H E I N D U S T R Y
+
+
+PHASE ONE · THE COMMERCIAL FRAME
+
+
+
+The Money Model
+How the Republic earns, what it costs to run, and how the forefront prices what
+we’re building.
+
+This comes out of the morning’s conversation, and it stands on two truths at once: what the
+trade will pay today, which Johnny knows better than anyone alive, and how the AI era prices
+intelligent platforms, which is where we live. So read it slow. Every number in here is a dial,
+not a decree. The pilot and the trade set the final values, and we’ll settle them together in
+London.
+
+
+
+
+                                                                                      LONDON PILOT
+THE MONEY MODEL · V1
+INTERNAL · JOHNNY · JOHN · SHANE                                                   MMXXVI
+BARBER REPUBLIC · THE ERA
+
+
+How the forefront prices
+The platforms the trade already uses every day run layered money: commission on the
+transaction, a small technology fee on every booking, and a subscription only where it
+earns its place. And every one of those charges was taught to a market that had never paid
+it before.
+
+
+    Uber                                                          Just Eat
+    A flat booking fee on every single ride, on top               A service charge of around ten percent of the
+    of a variable service fee, with Uber One at                   basket on every order, beside a delivery fee
+    £4.99 a month sold over both. The booking fee                 and a small-order fee. Three separate charges
+    did not exist anywhere in the taxi trade before               on one takeaway, and millions of orders carry
+    the platforms built it. The market learned to pay             them every week without a second thought.
+    it the moment the value was in front of them.
+
+
+
+    THE LESSON FROM THE WINNERS
+    One side pays commission where the value lands. Every transaction carries a small technology fee
+    that funds the machine. And subscriptions come later, where the data earns them. A market like this
+    has never existed in barbering. We’re building it, and new markets learn new prices when the value
+    is obvious. The entry point, though, is always set by what the trade will carry on day one.
+
+
+
+The floor is Johnny’s
+And that entry point comes from real conversations across the trade, held over months, not from a
+spreadsheet: shop owners are slow to pay for systems. Twenty-five to thirty-five pounds a month is what
+a shop will carry as a membership today. And a barber won’t pay a penny simply to exist on a staffing
+platform. That read is built into every number in this document. The model starts where the trade stands,
+and grows into what the platform proves.
+
+
+W H AT T H E M A R K E T C A R R I E S   W H AT A B O O K I N G C O S T S        W H AT RO U N D T W O N E E D S
+
+Measured in the field with real          Payments, intelligence,                 Proof the model earns at scale, in
+owners and real barbers, never           verification and the operator’s         this trade and beyond it. Page five
+assumed. The three questions on          desk, metered live from the first       shows what the pilot puts on the
+page four do exactly this.               match. Page three holds the             table.
+                                         ledger.
+
+
+Three things set a price, and only three. Every dial in this document answers to all of them at
+once.
+
+
+
+
+BARBER REPUBLIC · THE MONEY MODEL                                                                                  02
+BARBER REPUBLIC · THE COST LINE
+
+
+What an intelligent exchange costs to run
+This platform thinks for a living. The matching, the ranking, the reasoning a shop can read,
+the demand map underneath it all: that intelligence runs on real compute, all day, every
+day. So the model carries its running costs openly, priced the way the forefront prices, and
+measured rather than guessed.
+THE LINE                                O N A £ 1 8 0 C OV E R E D DAY: W H AT I T C O S T S , A N D H O W W E K N O W
+
+Payments                                About £2.90 a booking (1.5% plus 20p on a UK card), and about £1.60 a
+Stripe, shop’s UK card                  month for each barber’s connected payout account. Stripe’s published
+                                        rates; the platform never touches card data or holds funds.
+
+The intelligence                        Pence per booking at today’s model prices. Metered live from the first
+matching, ranking, reasoning            match, so this line is a measured fact by the end of pilot week one, never
+                                        an estimate.
+
+Verification                            Identity held and checked with Stripe at sign-up, so it spreads to pence
+identity at join                        per booking across a barber’s working months.
+
+The operator’s desk                     The real early cost: a staffed function through the pilot, answering the
+the human layer                         8am Saturday call, until the intelligence carries more of the weight. Costed
+                                        per pilot city and tracked weekly.
+
+The always-on layer                     Demand mapping, rate intelligence and reliability modelling run day and
+the map of the trade                    night: a monthly compute line that grows exactly as the Republic gets
+                                        smarter. It is also the second asset, because this layer is the data.
+
+
+    T H E N U M B E R T H AT FA C E S I N V E S T O R S
+    Every price in this model stands on its cost line. And from the first live booking we track one number
+    above all others: the margin on a single covered day. On these rates, a standard day at a ten percent
+    commission with the technology fee clears its direct costs several times over; the pilot turns that
+    sentence into a measured figure. A model that knows its own margin per transaction is a model an
+    investor can fund with confidence.
+
+And here’s the part worth sitting with: the same engine that costs money mints the second asset. Every
+booking teaches the platform what a chair is worth on a given day in a given postcode, where demand is
+moving, and who shows up. The cost line and the data asset are one machine seen from two sides, and
+both compound from the first week.
+
+
+
+
+BARBER REPUBLIC · THE MONEY MODEL                                                                                        03
+BARBER REPUBLIC · THE MODEL
+
+
+How the Republic earns
+Four layers, in the order they switch on. The first two carry the pilot. The third matures
+with the data. The fourth arrives with scale.
+
+1    Commission on the covered day
+     The spine. The shop pays when the chair is filled and the day is done, a percentage of the day rate.
+     Urgency carries a premium, because an empty Saturday chair costs a shop five to seven hundred
+     pounds in lost takings, and saving that day is the most valuable thing the Republic does. The commission
+     prices the day saved, not the software used.
+       Standard 10%       Urgent cover 18%         VIP house call 22%
+       Opening dials · settled with the trade at visit one
+
+
+2    The technology fee
+     The Uber mechanic, native to us. A flat pound or two on each booked day, and it funds the intelligence
+     that made the match. It lands on a day the platform has already paid for: a barber carries it only when the
+     Republic has put a full day rate in his pocket, and a shop sees it beside a chair that would otherwise have
+     sat empty.
+       £1 to £2 per booked day       Tested with the trade before it’s set
+
+
+3    Membership where it earns its place
+     No barber pays a membership for staffing. That holds, permanently. It’s Johnny’s read of the trade and
+     it’s built into the architecture, because the supply side is the scarce side and the Republic pays barbers,
+     it never taxes them for existing. The shop side starts inside the twenty-five to thirty-five a shop already
+     carries, and it matures into something no one else can sell: the intelligence subscription. What a chair
+     should cost on a Saturday in this postcode. Who’s reliable before you’ve ever met them. Where demand
+     moves next. When the data density is there, that’s what a shop pays monthly for.
+       Shops £25 to £35 a month         Barbers £0, always, for staffing
+
+
+4    The layers that come with scale · Phase Two onward
+     Coaching and the credential under Johnny’s name, mentor days booked through the platform, corporate
+     venues, brand partnerships in front of a verified professional audience. All real, and all priced later, after
+     the exchange proves itself. They go on the record now as the expansion surfaces round two buys into,
+     never as the money that carries year one.
+
+
+    THREE QUESTIONS FOR THE TRADE · JOHNNY’S GROUND
+    Only Johnny can ask these right, privately, owner to owner and barber to barber. Asked over the
+    coming weeks, they price the dials before a line of payment code gets written. One: would you pay
+    thirty pounds, today, to save a six-hundred-pound Saturday? Two: a couple of pounds on a day
+    you’d never have had, fair or not? Three: would you pay monthly to know what a chair should cost,
+    and who actually shows up?
+
+
+
+
+BARBER REPUBLIC · THE MONEY MODEL                                                                                04
+BARBER REPUBLIC · THE FIELD
+
+
+The forefront, and the space that’s ours
+Here’s who leads the trade’s technology today, what they charge, and what none of them
+are.
+P L AT F O R M            W H AT I T I S                    W H AT I T C H A R G E S
+
+Squire                    Barbershop management             From about $50 to $250 a month per shop
+                          software, US
+
+Booksy                    Booking marketplace and shop $29.99 a month, $20 per extra team member, and
+                          software                     30% of the first booking from each new marketplace
+                                                       client
+
+Fresha                    Salon and barber marketplace      Subscription from about $15 to $20 a month, a 20%
+                                                            new-client fee on marketplace bookings, and UK
+                                                            card processing around 1.2% to 1.4% plus 20p to
+                                                            25p
+
+theCut                    US barber booking app             2.7% on in-app payment, and $10 per new client
+                                                            through its growth tools
+
+Indeed Flex               General shift staffing platform   A margin on top of the worker’s pay; plans priced
+                                                            privately
+
+
+    T H E S PA C E T H AT ’ S O U R S
+    Every one of them books appointments, runs a diary, or fills generic shifts. Not one grades craft with
+    an expert’s eye. Not one runs verified day cover for the chair. And not one holds an intelligence
+    layer on the trade itself. The fees above prove the trade already pays for technology, worldwide,
+    every month. The ground we’re taking is the ground none of them stand on, and it’s empty.
+
+
+What the pilot puts on the table
+Round two is bought on measured facts, and the pilot is built to produce exactly four: the fill rate and the
+speed to fill. The margin on a covered day. How much of the trade rebooks through the platform. And the
+engine’s reach, the same architecture re-aimed at hairdressing, at high-end bar staff, at every trade where
+an empty seat costs real money and cover is worth paying for. Barbering proves the machine, with the
+strongest name in the industry behind it. The machine is the investment.
+
+    THE TEMPO
+
+    Nothing here needs an answer this week. Sit with it, test it on the trade, mark what reads wrong as
+    hard as what reads right. We settle the dials together in London at visit one, before the payments
+    build needs them locked. AI Driven, Human Led.
+
+
+
+
+BARBER REPUBLIC · THE MONEY MODEL                                                                               05
+
