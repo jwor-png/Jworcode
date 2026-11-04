@@ -1,12 +1,14 @@
 # DRAFT for John's review, 4 Nov 2026. Not in Gmail. Not sent.
 
-To: Scott Davenport (scott@davenportsgroup.co.uk, as sent by Johnny 4 Nov), Neil Dignam (address to confirm)
-Cc: Johnny Shanahan [and Shane, John to decide]
+To: Scott Davenport (scott@davenportsgroup.co.uk, as sent by Johnny 4 Nov), Neil Dignam (neil@barberbarberuk.co.uk)
+Cc: Johnny Shanahan (johnny@barberbarber.com) [and Shane, John to decide]
 Subject: Barber Republic: funding the next stage
 
 Hi Neil, Scott,
 
 Thanks for the 15,000 pounds, which has reached Shane. By my count that leaves about 10,000 on the third invoice, and I'd like to know when that is expected.
+
+Neil, I know you have been tracking spend against progress, which is the right instinct. The same discipline needs to apply to funding.
 
 My bigger worry is the next stage. Barber Republic is a start-up. Shane is building the MVP and we need to take it further and then roll the platform out, and that takes money. I'm not aware of anyone working on how it gets funded, and I think that has to change now.
 

@@ -1,15 +1,16 @@
 # Board: Live Dashboard
 
-**As at Tue 3 Nov 2026, evening.** One line per item: what, status, next action. Organised by the six Operating Creed disciplines (`operating_creed.md`), with Noesis first because it is John's focus. Anything older than 14 days is tagged **[last known date, confirm]**. Full detail lives in `ventures_dossier.md`; the previous full board is archived at `logs/board-archive-2026-11-03.md`.
+**As at Wed 4 Nov 2026, evening.** One line per item: what, status, next action. Organised by the six Operating Creed disciplines (`operating_creed.md`), with Noesis first because it is John's focus. Anything older than 14 days is tagged **[last known date, confirm]**. Full detail lives in `ventures_dossier.md`; the previous full board is archived at `logs/board-archive-2026-11-03.md`.
 
 Key: 🔴 blocked by someone else · 🟡 waiting on John · 🟢 moving · ⚪ not started
 
 ## Next 48 hours
 
-- **Wed 4 Nov, after 9am:** call Shane (call sheet: `scratch/Call_Sheet_for_Shane_4Nov2026.pdf`).
+- **Wed 4 Nov (done):** John spoke to Shane for about two hours. Shane changed Documents 1 to 5, sent to Pat, not yet to John; his briefing memo is in hand. Waiting for the revised documents and his notes of 30 Oct.
 - **Wed 4 Nov:** Cork IP solicitor's name and details from Pat (John emailed 3 Nov; call 087 996 3880 if no reply by midday); set up scoping meetings with the Cork solicitor and Barry Scannell (William Fry). Pat's review points and quotes are also due this day.
+- **Thu 5 Nov, morning:** Barry Scannell email (draft in scratch, from the Velocity address, not sent); Cork IP solicitor details still awaited from Pat.
 - **Thu 5 Nov 11:00:** MWCF Strategy Meeting (Google Meet), accepted. Map circulated Wed 4 Nov.
-- **Fri 6 Nov:** Noesis Zoom, continuation of 30 Oct (times and recorder blank). John expects Fridays weekly.
+- **Fri 6 Nov 11:30:** reminder to draft the introduction of Malachy Harkin and Eamon Eastwood (Taste, Australia). **Fri 6 Nov:** Noesis Zoom, continuation of 30 Oct (times and recorder blank). John expects Fridays weekly.
 - **Mon 9 Nov 09:30:** reminder, follow up ORS (Gerard Heffernan) on the fire certificate if no reply by Fri 6 Nov.
 - **Mon 16 Nov:** reminder, follow up the Revenue reply. **1 Dec week:** mother's health insurance.
 
@@ -28,6 +29,7 @@ Key: 🔴 blocked by someone else · 🟡 waiting on John · 🟢 moving · ⚪ 
 
 ## 1. Move revenue weekly
 
+- 🟡 **Barber Republic (4 Nov):** Reuzel letter of intent (2 Nov, non-binding, support not capital) from Rob Wilcox and David Raccuglia via Johnny; 15,000 pounds paid to Shane, about 10,000 still on the third invoice; draft email to Scott Davenport and Neil Dignam (neil@barberbarberuk.co.uk) for John's review; tell Shane first (Johnny told only John). Johnny's profiling and the Manchester document awaited.
 - 🟡 **Barber Republic:** third invoice dispute (build 55,000 pounds; third payment 25,000; Johnny proposed 15,000 plus 10,000 on completion; Shane decides); interim investor document and replies to John Jones and Anthony Laban outstanding; counterparty entity names to confirm. [29 Oct]
 - 🟡 **Ger Blake Decision Brief:** draft v1 awaiting John's angle; the Julianstown requisitions PDF could not be read by tools. Meridian has no company yet: no fee or contract until incorporated. [29 Oct]
 - 🟢 **UHL (Velocity AI training, Chairman's invoices):** audit tender in train (BDO first call went well 3 Nov; RSM time problem; David Geoghegan's criteria and question sets to read). [3 Nov]
@@ -76,6 +78,9 @@ Key: 🔴 blocked by someone else · 🟡 waiting on John · 🟢 moving · ⚪ 
 - ⚪ **Tangible Ireland Group, Kilmallock Water, Croom Lands, Thomond/Ilex Midleton:** dormant or early; no spend authorised. [Sept, confirm]
 - ⚪ **Personal estate and retirement plan; The Long Memory; Golden Generation succession offers.**
 - 🟢 **Market intelligence** logged to `logs/intelligence-log.md` as it arrives.
+
+- 🟡 **Ger Blake (4 Nov):** private and shareable summaries done; update email on Midleton commencement notice, Croom and the overdue Decision Brief to come; wages claim not to be raised with Ger before employment legal advice; executor, EPA and support for Majella to think through (estate plan 3.8).
+- 🟢 **AI Office:** John emailed the CEO from Velocity (4 Nov, 15:22 UTC). Declan McCormack draft still unsent.
 
 ## Waiting on John
 
