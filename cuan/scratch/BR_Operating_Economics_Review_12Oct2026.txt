@@ -1,0 +1,387 @@
+BUSINESS REVIEW                                                                       MONTHLY COSTS
+
+
+
+
+What will it cost
+each month?
+The purpose of this review is to establish the monthly bill, then show what level of paid
+bookings could cover it. Figures are in sterling, before VAT and corporation tax.
+
+
+
+
+Technology and payment suppliers                                                   £474–£542
+Worked supplier example for 50 shops and 200 paid bookings. The assumptions and prices are on
+page 2.
+
+
+
+
+Technical upkeep                                                               £525 per day
+Published UK developer-rate benchmark. The amount of time and specialist cover must be scoped.
+[5]
+
+
+
+
+Customer support                                                     From £20 per hour
+Published daytime service rate. Overnight and weekend cover needs a separate service quote. [6]
+
+
+
+
+   WHAT IS STILL NEEDED FOR A COMPLETE TOTAL
+
+   A priced upkeep and support package, expert assessment costs, independent
+   security work and the agreed company overhead. These items are part of the
+   budget; they have not been treated as free.
+
+
+
+
+The supplier example is not the cost of running the whole company. A final monthly total
+is not yet substantiated. Pages 5 and 6 therefore test explicit spending budgets against
+revenue, without presenting those budgets as cost forecasts.
+
+
+Production development is a separate investment decision. This review makes no estimate of the cost to
+turn the MVP into a production system.
+
+
+
+12 OCT 2026 | INTERNAL WORKING ASSUMPTIONS | GBP                                              01 / 07
+BUSINESS REVIEW                                                                                BUILD THE BILL
+
+
+
+
+Price the work.
+Expose the choices.
+Illustration only: 50 active shop locations, 200 paid days of cover at £150, 100 distinct
+barbers receiving payouts, 200 payouts, 600 text segments and ten new ID checks.
+
+
+
+
+Hosting, database, recovery and email
+
+                                                                                                £140.00
+Reference basket: $25 database + $10 test environment + $100 recovery + $20 hosting + $20 email.
+Not a confirmed stack. [1]
+
+
+AI text and voice transcription
+
+                                                                                                     £7.20
+3,000 calls, each with 3,000 input and 500 output tokens; plus 1,000 transcription minutes. Small-model
+illustration: $9 total. [2]
+
+
+Text messages and identity checks
+
+                                                                                                  £39.38
+600 SMS segments at $0.056 = £26.88; ten ID checks at £1.25 = £12.50. Craft assessment is separate.
+[3]
+
+
+Connected accounts and payouts
+
+                                                                                 £287.50–£355.00
+£200 for 100 paid accounts + £20 for 200 payouts + £67.50 on £27,000 paid out. Another £67.50 may
+apply for routing. Confirm configuration. [4]
+
+
+
+
+   PRICED SUPPLIER EXAMPLE                                       £474.08–£541.58
+
+Card collection is additional but shop-funded under the agreed rule. At the standard UK-card price,
+full recovery on a £150 booking is about £2.49. Electricity for hosted services is included in
+provider charges, not a second energy bill. [4]
+
+Planning exchange rate: £0.80 per $1. Volumes are examples, not measured usage. Capacity, monitoring extras and
+premium/live AI require separate pricing.
+
+
+12 OCT 2026 | INTERNAL WORKING ASSUMPTIONS | GBP                                                       02 / 07
+BUSINESS REVIEW                                                                         KEEPING IT RUNNING
+
+
+
+
+What gets updated,
+and when?
+The platform is intended to accept bookings at any hour. The technical contract must
+separately define automated monitoring, human response and customer-support hours.
+
+
+
+
+CONTINUOUS               Keep the service available
+                         Monitor availability and payment failures, run backups and route urgent
+                         alerts. The contract must name the responder and their response time.
+
+
+
+
+MONTHLY                  Maintain and check
+                         Schedule routine software fixes, review access and run
+                         booking/payment/privacy checks. Urgent security issues do not wait for the
+                         monthly review.
+
+
+MONTHLY                  Review useful AI changes
+                         Compare a worthwhile new model with the current one on saved business
+                         and safety tests. A half-day review would cost £262.50 at the benchmark
+                         rate; this is an option to scope, not proven sufficient time.
+
+
+QUARTERLY                Test recovery and review access
+                         Practise restoring data and recovering from failure. Arrange independent
+                         security review to an agreed scope, including after material changes.
+
+
+
+
+WHEN REQUIRED            Upgrade or migrate
+                         Act when a provider retires a model, a security issue arises or a tested
+                         improvement warrants the change. Budget substantial migrations
+                         separately.
+
+
+
+Costing rule: ask for one itemised monthly package showing included work, availability,
+extra-day rates and independent testing. A benchmark day rate is not a quote for specialist AI,
+security or 24/7 response. [5–8]
+
+This is a proposed service schedule. The development and test setup needed before launch remain part of the
+separate production scope.
+
+
+12 OCT 2026 | INTERNAL WORKING ASSUMPTIONS | GBP                                                     03 / 07
+BUSINESS REVIEW                                                                  WHAT THE SERVICE EARNS
+
+
+
+
+What does the
+commission earn?
+One paid booking means one barber providing one day of cover in one shop. One barber
+over four days and four barbers over one day each both count as four bookings.
+
+
+
+
+                                           10% 12.5%                          15%              20%*
+On a £150 booking                          £15.00           £18.75             £22.50            £30.00
+
+Barber receives                            £135.00           £131.25           £127.50            £120.00
+
+
+
+MONTHLY REVENUE: FOUR PAID BOOKINGS PER SHOP AT £150
+
+
+1 shop                                             £60           £75                £90               £120
+
+
+4 shops                                       £240              £300              £360                £480
+
+
+50 shops                                    £3,000           £3,750             £4,500            £6,000
+
+
+100 shops                                   £6,000           £7,500             £9,000           £12,000
+
+
+250 shops                                 £15,000           £18,750           £22,500            £30,000
+
+
+500 shops                                 £30,000           £37,500           £45,000            £60,000
+
+
+
+An owner with four shops is one customer with four locations. Shops in these tables are the
+total active locations across the platform, not the number one customer must own.
+
+
+
+10% is the agreed standard rate. 12.5% and 15% are alternatives to assess. *20% is an upper
+sensitivity only; considering it would also require reviewing the existing 18% emergency rate. No
+fee change is assumed agreed.
+
+
+Johnny’s ordinary tier ranges are £100–£180; urgent cover £200+. £150 and four monthly bookings are
+scenarios. Commission shown net of VAT, with applicable VAT additional. [9]
+
+
+12 OCT 2026 | INTERNAL WORKING ASSUMPTIONS | GBP                                                      04 / 07
+BUSINESS REVIEW                                                     BREAK-EVEN AND MARKET CONTEXT
+
+
+
+
+How many paying shops
+would cover the bill?
+This is a budget test, not a forecast of costs. Each shop completes four paid bookings per
+month at £150. All monthly operating costs must fit within the chosen total budget at the
+stated scale.
+
+
+TOTAL MONTHLY
+SPENDING BUDGET
+                                             10%          12.5%            15%           20%*
+
+
+
+£10,000                                      167              134          112              84
+
+
+£20,000                                      334              267          223            167
+
+
+£35,000                                      584              467          389            292
+
+
+Numbers above are active paying shop locations, rounded up.
+
+
+
+
+   A WORKED EXAMPLE
+
+   At 15%, each shop earns £90 commission per month. A £20,000 total
+   monthly budget therefore needs 223 active shops. That is 1.21% of the
+   18,411-shop historical market benchmark.
+
+
+
+
+ICAEW repeats a May 2025 report of 18,411 barber shops. This is a published historical
+benchmark, not an official October 2026 census and not the number of immediately reachable
+customers. [10]
+
+If bookings fall from four to two per shop, the required shop count roughly doubles. If the bill
+rises as shops join, use the higher bill. The formula is: monthly cost ÷ revenue per active shop.
+
+
+
+12 OCT 2026 | INTERNAL WORKING ASSUMPTIONS | GBP                                          05 / 07
+BUSINESS REVIEW                                                       WHAT SCALE COULD MAKE THIS WORK?
+
+
+
+
+500 shops represent
+2.72% of that benchmark.
+These could be independent owners and small groups across the network. At four paid
+bookings each month, 500 active shops produce 2,000 paid days of cover.
+
+
+
+£150 A DAY × 2,000 BOOKINGS = £300,000 OF BARBER WORK
+
+
+
+10%                                                                           £30,000 revenue
+
+                     Less a £35,000 test budget: −£5,000
+
+
+12.5%                                                                         £37,500 revenue
+
+                     Less a £35,000 test budget: +£2,500
+
+
+15%                                                                           £45,000 revenue
+
+                     Less a £35,000 test budget: +£10,000
+
+
+20%*                                                                          £60,000 revenue
+
+                     Less a £35,000 test budget: +£25,000
+
+
+
+
+   THE COMMERCIAL CONDITION
+
+   At 15%, 500 shops would generate £45,000 monthly revenue. If all monthly
+   operating costs fit within £35,000, £10,000 remains before corporation tax.
+
+
+
+
+£35,000 is the tested spending ceiling, not a substantiated forecast. It must include delivery,
+support, upkeep, security, company overhead and any contingency. Four bookings per shop
+and the fee still need commercial validation.
+
+This shows what would need to be true. It does not establish that 2.72% adoption is easy, or that 500 shops
+guarantee profitability.
+
+
+12 OCT 2026 | INTERNAL WORKING ASSUMPTIONS | GBP                                                     06 / 07
+BUSINESS REVIEW                                                                      EVIDENCE AND REVIEW
+
+
+
+
+What supports the numbers,
+and what closes the gaps?
+Published rates have been checked. Workload, provider selection and the full operating
+package remain to be agreed. This is an internal finance discussion, not a final supplier
+quotation.
+
+
+[1] Hosting, database, email                           [6] Customer support
+Supabase, Vercel and Resend: reference plans and       Odondo: onshore from £20/hour in typical working
+recovery add-on.                                       hours; 24/7 is quote-based.
+
+
+
+[2] AI and transcription                               [7] Security upkeep
+GPT-4.1 mini $0.40/$1.60 per million input/output      NCSC vulnerability-management guidance. Supports
+tokens; mini transcription $0.003/minute.              the work, not the time estimate.
+
+
+
+[3] Messages and identity                              [8] AI change testing
+Twilio UK: $0.056/SMS segment; Stripe Identity:        OpenAI evaluation guidance: task-specific tests and
+£1.25/check.                                           repeat evaluation after changes.
+
+
+
+[4] Stripe payments                                    [9] Johnny’s own account
+UK collection 1.5% + 20p; Connect £2/paid account      Pages 5–6: day-rate ranges and urgent cover. Later
+and payout/routing charges.                            agreed rules set 10% / 18% and shop-paid
+                                                       processing.
+
+[5] Engineering rate                                   [10] Market benchmark
+IT Jobs Watch: £525/day UK median, six months to 12    ICAEW, updated 26 May 2026, citing the May 2025
+October 2026.                                          Times report of 18,411 shops.
+
+
+
+
+Vercel ↗                   Resend ↗                   Identity ↗                 Card fees ↗
+
+
+
+
+THREE ITEMS TO COMPLETE NEIL’S MONTHLY BUDGET
+
+1. Technical lead: confirm the production supplier setup, usage allowance and priced
+maintenance/security cover.
+2. Johnny: confirm customer-support coverage and how expert grading will be resourced.
+3. John / Neil: add the actual company overhead and contingency, then rerun pages 5–6 using
+that complete monthly total.
+
+VAT: a fee advertised as 15% including 20% VAT yields 12.5% net revenue. Confirm fee presentation and
+payment structure before relying on the comparisons. Figures exclude one-off production investment.
+
+
+
+12 OCT 2026 | INTERNAL WORKING ASSUMPTIONS | GBP                                                     07 / 07
+
