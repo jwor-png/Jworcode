@@ -639,3 +639,5 @@ John's relationship capital is one of his two biggest assets alongside opportuni
 - **Contact:** mobile 087 996 3880; email pat.carroll@patcarroll.ie; website www.pcco.ie (note the email and website domains differ). Office line 061 444200 (from his out-of-office reply of 29 Oct; Jacquie at accounts3@patcarroll.ie).
 - **Card mission line (reverse):** "Our daily mission is to empower our clients, enhancing their financial prosperity and increasing their net worth."
 - **In the Noesis group:** Pat's office does the company secretarial work and filings; he was out of the office until Mon 2 Nov.
+
+- **Spelling rule (John, 4 Nov 2026):** Malachy Harkin is spelled M-A-L-A-C-H-Y, always. Earlier entries that said "Maliki" (a dictation slip) have been corrected. Emails: malachyh@gmail.com, malachy@casana.ie.
