@@ -9092,3 +9092,7 @@ Shane: "Will send notes later, review Pats docs, lot of gold there...." John rep
 ### Noesis: John's understanding and action list (3 Nov 2026)
 
 John wants his understanding and action list in line with Shane's 8 Oct brief and his Chairman aim, and to be on top of things before the project management system is available. Cuan drafted `cuan/scratch/John_Understanding_and_Action_List_3Nov2026.pdf` (private, not for Shane or Pat): understanding, dated actions (Wed 4 Nov, by Fri 6 Nov, separately with Shane first, weekly), Chairman track, and an interim arrangement where the list is the system and Cuan gives a one-page update each Thursday. Board dashboard rebuild still to be offered and confirmed with John.
+
+### Noesis: group structure with CRO numbers and one-page Pat summary (4 Nov 2026)
+
+John asked for (1) the 1 Nov group structure re-issued on one page with registered names and CRO numbers added, blanks where none exist, for his conversation with Shane about which companies exist; (2) a one-page summary of Pat Carroll's papers, to print with it. Built: `cuan/scratch/Noesis_Group_Structure_with_CRO_4Nov2026.pdf` (A4 landscape, black on white; Noesis 805939, Asterial 804907, Zubelsala 817481, SanCelvio 817480, Mainly Velocity 804908 for Velocity AI; Tairseach Limited and Odin Labs Limited marked in incorporation with no number; all others blank; numbers from Shane's 22 Oct email, not CRO-checked) and `cuan/scratch/Pat_Carroll_Papers_One_Page_Summary_4Nov2026.pdf`.
