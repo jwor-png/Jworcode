@@ -10,7 +10,7 @@ Key: 🔴 blocked by someone else · 🟡 waiting on John · 🟢 moving · ⚪ 
 - **Wed 4 Nov:** Cork IP solicitor's name and details from Pat (John emailed 3 Nov; call 087 996 3880 if no reply by midday); set up scoping meetings with the Cork solicitor and Barry Scannell (William Fry). Pat's review points and quotes are also due this day.
 - **Thu 5 Nov, morning:** Barry Scannell email (draft in scratch, from the Velocity address, not sent); Cork IP solicitor details still awaited from Pat.
 - **Thu 5 Nov 11:00:** MWCF Strategy Meeting (Google Meet), accepted. Map circulated Wed 4 Nov.
-- **Fri 6 Nov 11:30:** reminder to draft the introduction of Malachy Harkin and Eamon Eastwood (Taste, Australia). **Fri 6 Nov:** Noesis Zoom, continuation of 30 Oct (times and recorder blank). John expects Fridays weekly.
+- **Fri 6 Nov 11:00:** "Meet with Shane etc Noesis", 93 O'Connell Street (confirm in person and where). **Fri 6 Nov 11:30:** reminder to draft the introduction of Malachy Harkin and Eamon Eastwood (Taste, Australia). **Fri 6 Nov:** Noesis Zoom, continuation of 30 Oct (times and recorder blank). John expects Fridays weekly.
 - **Mon 9 Nov 09:30:** reminder, follow up ORS (Gerard Heffernan) on the fire certificate if no reply by Fri 6 Nov.
 - **Mon 16 Nov:** reminder, follow up the Revenue reply. **1 Dec week:** mother's health insurance.
 
