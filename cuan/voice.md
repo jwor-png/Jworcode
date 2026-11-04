@@ -55,3 +55,38 @@ Content should preserve John's voice, not sand it down into generic professional
 - Anything that sounds like a chatbot reassuring a user
 - Overly technical AI jargon when writing for boards or SMEs
 - "Transition Intelligence" in any external or client-facing context
+
+## LinkedIn and public posts: human-sounding rules (John, 4 Nov 2026, after Shane said the Meridian post read as AI-written)
+
+Applies rigidly to every post, article, email and public text Cuan drafts for John. Check each draft against this list before showing it.
+
+**Defensibility**
+1. Every fact, figure and quote is traceable to a page John has seen. Source-tag in the draft; unverified claims stay out.
+2. No claim bigger than the evidence ("highly likely" is the source's wording, so attribute it).
+3. No marketing claims about what Meridian, Velocity or Noesis does unless John can prove each one.
+4. No confidential or Noesis detail.
+
+**Sounds like John, not like a model**
+1. One idea per post. One real thing he saw, did or heard, told in the first person.
+2. Short plain sentences. Vary the length. Allow a fragment. Use contractions where he would.
+3. Concrete over abstract: a name, a place, a number, a thing that happened. Cut sentences that could appear in any post.
+4. His own opinion stated plainly, including a view that is a little unfinished. No balanced "on one hand" padding.
+5. Irish-English spellings and phrasing as he writes them. His own phrases ("AI driven, human led") used sparingly, not every post.
+6. Ordinary words. No jargon stack: avoid "landscape", "ecosystem", "leverage", "unlock", "robust", "holistic", "transformative", "synergy", "cutting-edge", "game-changing", "paradigm", "navigate", "journey", "delve", "in today's".
+7. End plainly: a real question he wants answered or nothing. No rhetorical slogan closers.
+
+**Patterns that read as AI (avoid)**
+- The "not X, but Y" or "it is not about X; it is about Y" construction, and the "rarely X, usually Y" aphorism opener or headline.
+- Triples and tidy lists of three used for rhythm; three-beat closers.
+- Sentences that explain the point they just made; a paragraph that summarises the paragraph before it.
+- Long, even, perfectly balanced sentences and paragraphs; every paragraph the same length.
+- Grand claims about "what surprises people" with a list of neat examples.
+- Em dashes (banned anyway), colons used as drama, rhetorical questions in the middle.
+- Self-description in the third person ("Meridian was built around...", "the machine does the reading").
+- Headline bold lines that make a clever claim. Keep headings plain or skip them, and use hashtags sparingly (three at most).
+
+**Process**
+- Cuan drafts a short version first (under about 150 words unless John wants more), then reads it back against this list and strips anything that fails.
+- Cuan says plainly which sentences came from John's own words or notes and which are Cuan's.
+- Cuan asks John for one real detail (what happened, who said it, what he thought) when a draft has none, rather than inventing colour.
+- John edits last: his own changes beat anything here.
