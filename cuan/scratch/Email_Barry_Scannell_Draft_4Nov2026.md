@@ -5,7 +5,7 @@ Subject: Meeting in Dublin: Shane McCarthy, John Webb-O'Rourke and the Noesis gr
 
 Dear Barry,
 
-It was good to meet you at the Maynooth conference [on AI and the Pope Leo encyclical, date to confirm: Cuan's records show Tuesday 29 September]. I hope you are well.
+It was good to meet you at St Patrick's College, Maynooth, on Tuesday 29 September, at the conference on Pope Leo's Magnifica Humanitas. I hope you are well. [John to confirm Barry was there: the date and event are confirmed from John's AI Office email of 4 Nov.]
 
 I am writing to ask whether you could meet Shane McCarthy and me in Dublin to discuss the Noesis group and some related matters. Shane is the founder, and I work with him on the group's corporate governance and legal compliance.
 
