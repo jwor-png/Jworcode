@@ -16,12 +16,16 @@ Ger Blake is a director of DSB, an advisory firm in Limerick and Cork. He has be
 - Ger became company secretary of another D.L. company, Leratian Investments Ltd, on 1 January 2026.
 - Ger was a shareholder in a pharmacy company now in liquidation.
 
+## Forward planning (John's wish, preliminary)
+John would like Ger to be an executor of his will, which he needs to review, and wants an enduring power of attorney and a further power of attorney arranged. He also wants Ger to support his wife if anything happened to him. John needs to think this through. Points for counsel: Ger is also a co-owner of a joint property with John and of the probable Midleton applicant, so a co-executor or independent professional may be wise; the difference between executor, attorney and informal supporter; successor appointments; asking Ger first.
+
 ## Questions for counsel
 1. How should John separate, in writing, three things with one person: a friendship, joint property projects, and advice on his own finances?
 2. Ger is both an adviser and a co-owner of the Midleton applicant. What conflict and disclosure points should John raise, and how, without damaging the friendship?
 3. John's free-trial brief to Ger is overdue and John's company is not yet incorporated. How should he reset the commitment honestly?
 4. How should John ask Ger for an update on Midleton and Croom without implying criticism of Kendrick's finances?
 5. Anything John should not put in an email to Ger?
+6. Is Ger a suitable executor given his overlapping interests, and how should the roles of executor, attorney and informal supporter be divided?
 
 ## Not included on purpose
 John's personal debts and guarantees, any claim for unpaid pay against a company Ger acts for, and all Noesis group matters.
