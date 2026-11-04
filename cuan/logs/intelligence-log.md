@@ -1166,3 +1166,6 @@ domain, direct reference material); Ambrion AI / Velocity AI
 
 ## 3 Nov 2026 [Cuan -> Meridian]
 Logged `market_intel_shane_501_budget_cyber_nov2026.md`: Shane McCarthy's LinkedIn article "What happens at 5:01?" (2027 budgets, AI adoption and cyber resilience together; claims with check status; SuperValu 2 Nov and NCSC 3 Nov items unverified; 41% global figure belongs to incident-response exercises, not the 17% ERM measure).
+
+## 4 Nov 2026 [Cuan -> Meridian]
+Logged `market_intel_velocity_uhl_three_sessions_article_nov2026.md`: Shane's LinkedIn article on Velocity and Ambrion's three AI sessions with United Hardware Group (claims, verification practices, credits to John; UHL publicity and conflict-of-interest check suggested).
