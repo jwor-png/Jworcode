@@ -1,0 +1,116 @@
+                                                                               MAINLY VELOCITY LIMITED
+                                                                                            Trading as VelocityAI
+                                                                                  Company No. 804908 | Ireland
+
+
+
+
+BARBER REPUBLIC - PHASE ONE MVP
+DEVELOPMENT AGREEMENT
+17 AUGUST 2026
+
+This Agreement is between Mainly Velocity Limited, Company No. 804908, trading as VelocityAI ("Velocity"),
+and BarberBarber Limited, 53 King Street, Manchester M2 4LQ, United Kingdom ("BarberBarber"). It records
+the revised commercial arrangement for the Barber Republic Phase One MVP build and is to be read together
+with the Barber Republic Build Scope Proposal.
+
+1. Phase One Scope
+Velocity will undertake the Phase One MVP development programme over the anticipated 12-14 week build
+and delivery period set out in the Barber Republic Build Scope Proposal. The intended deliverables include
+barber and shop onboarding and verification; professional barber tiering; barber availability and shop chair
+requirements; intelligent and explainable matching; booking and confirmation; payment functionality through
+an appropriate regulated provider; mutual ratings and trust records; operator and administration functionality;
+testing, refinement and preparation for pilot deployment. Technical architecture, security, data handling and
+governance remain integral to the build.
+
+2. Revised Payment Programme
+The parties have agreed a revised three-payment structure for the 12-14 week Phase One build and delivery
+period. £15,000 is payable before commencement of the first development period. £15,000 is payable before
+commencement of the second development period, anticipated to begin at approximately Week 5. £25,000 is
+payable before commencement of the third development period, anticipated to begin at approximately Week
+9. Total Phase One programme provision: £55,000. The payment points operate within the overall 12-14 week
+build timetable and this revised payment schedule supersedes the original payment timing in the Build Scope.
+
+3. Payment Before Work Commences
+Each payment must be received before Velocity commences work for the relevant development period. If a
+payment is delayed, Velocity will not be required to commence the corresponding development period until
+payment has been received. Any such delay may result in a corresponding extension of the anticipated 12-14
+week project delivery timeline.
+
+4. What the £55,000 Covers
+The £55,000 programme provision comprises the core Phase One development programme, agreed
+additional technology, compute or tooling requirements where required, and provision for the planned UK
+travel and associated expenses connected with delivery of Phase One.
+
+5. Commitment to Complete
+The initial £15,000 is the commencement payment for the overall Phase One programme and is not intended
+as a standalone four-week development engagement. Velocity will commit the required development
+resources on the basis that BarberBarber provides an assurance acceptable to Velocity that the subsequent
+Phase One payments will be made when due.
+
+6. Working Responsibilities
+Shane McCarthy / Velocity will lead the technology architecture, development and delivery of the platform.
+Johnny Shanahan / BarberBarber will provide industry and operational input and will work in parallel to
+assemble the initial barber and shop cohort required for market testing. John Webb O'Rourke will support the
+project as commercial lead, including commercial strategy, funding and route-to-market development.
+
+
+                                                                                                       Page 1 of 2
+                                                                                MAINLY VELOCITY LIMITED
+                                                                                            Trading as VelocityAI
+                                                                                   Company No. 804908 | Ireland
+
+
+
+
+BARBER REPUBLIC - PHASE ONE MVP
+DEVELOPMENT AGREEMENT
+7. Phase One Outcome
+The objective at completion of Phase One is a working Barber Republic platform prepared for an initial market
+pilot and capable of generating genuine evidence around barber adoption, shop adoption, successful
+matching, booking conversion, completed transactions, reliability, repeat usage and other marketplace
+behaviour. Phase One is an MVP development and validation programme and does not guarantee commercial
+adoption, investment, revenue or valuation.
+
+8. Phase Two and Phase Three
+Phase Two is expected to focus on development and scaling following initial pilot evidence, including wider
+market deployment and product refinement informed by actual user and transaction data. Phase Three may
+include broader geographic expansion, further technology development and, where commercially justified by
+evidence from barbering, consideration of applying the underlying marketplace architecture to appropriate
+adjacent workforce markets. Phase Two and Phase Three are not included in the £55,000 Phase One fee and
+will require separate scope, third party funding and agreement.
+
+9. Confidentiality and Intellectual Property
+All confidential commercial, technical and business information exchanged in connection with Barber
+Republic will be treated as confidential by both parties.
+Barber Republic is being built by Velocity on commission for BarberBarber. On receipt by Velocity of the full
+Phase One fee, ownership of the intellectual property in the Barber Republic platform as delivered, including
+its software, code, product design and the Barber Republic brand, will transfer to BarberBarber. Until the full
+Phase One fee has been received, Velocity retains ownership of that intellectual property and grants
+BarberBarber a limited licence to use the platform for the Phase One pilot. If the full Phase One fee is not
+paid, ownership remains with Velocity.
+Velocity retains ownership of its pre-existing intellectual property and of the underlying frameworks, tools,
+libraries, methods and general marketplace architecture used to build the platform. Velocity grants
+BarberBarber a licence to use that underlying material as embedded within the Barber Republic platform.
+Nothing in this Agreement transfers ownership of that underlying material, and any application of it to markets
+or sectors beyond Barber Republic will be the subject of separate agreement.
+This clause relates to the Phase One deliverable. Intellectual property arising in Phase Two or Phase Three will
+be governed by the separate scope and agreement referred to in clause 8.
+
+10. Agreement and Priority
+This Agreement records the revised commercial understanding for the Phase One MVP programme and is to
+be read with the Barber Republic Build Scope Proposal. Where the payment timing or anticipated delivery
+period stated in this Agreement differs from earlier discussions, the terms of this Agreement and the 12-14
+week build and delivery period in the Build Scope Proposal will apply.
+
+For Mainly Velocity Limited                                For BarberBarber Limited
+
+Name: Shane McCarthy                                       Name: Johnny Shanahan
+
+Signature: __________________________                      Signature: __________________________
+                                                                       I
+
+Date: ______________________________                       Date: ______________________________
+                                                                  28 9 2026
+                                                                                                       Page 2 of 2
+
