@@ -1169,3 +1169,6 @@ Logged `market_intel_shane_501_budget_cyber_nov2026.md`: Shane McCarthy's Linked
 
 ## 4 Nov 2026 [Cuan -> Meridian]
 Logged `market_intel_velocity_uhl_three_sessions_article_nov2026.md`: Shane's LinkedIn article on Velocity and Ambrion's three AI sessions with United Hardware Group (claims, verification practices, credits to John; UHL publicity and conflict-of-interest check suggested).
+
+## 2026-11-05 [Cuan → Meridian] FT Weekend, Amit Seru: AI and bank supervision
+Captured from John's photograph. Argument: SVB's 2023 failure was about supervisory will, not information; asymmetric incentives favour inaction; AI should make inaction visible and require a recorded explanation, with protection for reasonable decisions. Relevant to Meridian's AI Strategy and Governance domain and board practice (UHL ARC, MWCF). File: market_intel_ft_ai_bank_oversight_seru_nov2026.md. Claims unverified.
