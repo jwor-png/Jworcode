@@ -1427,3 +1427,6 @@ Cuan's note: fits John's "turn problems to opportunities" lens (`cognitive_patte
 - **2 Nov (June Curtin):** "No matter what your feelings are, know that you are not the only one going through those feelings at this time."
 
 Cuan's note: the 31 Oct line ("take a step") echoes the small-steps design for the Noesis system (four five-minute things); personal reference only.
+
+## 5 Nov 2026: Gary V clip kept as motivation
+- John pasted a motivational clip transcript from Gary Vaynerchuk (the gist: stop listening to the world, parents, society or friends; you will realise it at 90 or right now; calm down, it is your life). John said he liked it and kept it for himself as motivation. Not for posting or quoting; the words belong to Gary V. Personal, no venture tie. Source: John's screenshots, 5 Nov.
