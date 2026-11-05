@@ -1,8 +1,14 @@
 # Board: Live Dashboard
 
-**As at Wed 4 Nov 2026, evening.** One line per item: what, status, next action. Organised by the six Operating Creed disciplines (`operating_creed.md`), with Noesis first because it is John's focus. Anything older than 14 days is tagged **[last known date, confirm]**. Full detail lives in `ventures_dossier.md`; the previous full board is archived at `logs/board-archive-2026-11-03.md`.
+**As at Thu 5 Nov 2026, early morning.** One line per item: what, status, next action. Organised by the six Operating Creed disciplines (`operating_creed.md`), with Noesis first because it is John's focus. Anything older than 14 days is tagged **[last known date, confirm]**. Full detail lives in `ventures_dossier.md`; the previous full board is archived at `logs/board-archive-2026-11-03.md`.
 
 Key: 🔴 blocked by someone else · 🟡 waiting on John · 🟢 moving · ⚪ not started
+
+## Today, Thu 5 Nov (work list printed: scratch/Work_List_Thu5Nov2026.pdf)
+
+- 09:30 phone the Mayor (Limerick) about council offices in Dooradoyle for MWCF. After 09:00 speak to Shane (held-up note, status pack, ten-documents sheet). 11:00 to 12:00 MWCF strategy call (Máiréad's prep document received overnight; San Marino review).
+- Gmail drafts waiting for John to review and send: Neil (funding stages and investor map, attach files); John Lawler (governance documents request); Máiréad (Board papers and accounts); Shane (plain-English note, consider holding the Pat practice item).
+- Sign and return the MWCF Constitution and Mission Statement acknowledgement (was due Wed 4 Nov).
 
 ## Next 48 hours
 
