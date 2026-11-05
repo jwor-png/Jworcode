@@ -59,3 +59,27 @@ All figures sourced; list sources on a final page. Planning figures are not offe
 - [ ] Issuing name agreed with Shane; nothing commits anyone.
 - [ ] No client named without consent.
 - [ ] John has read it, and John sends it.
+
+---
+
+# Template v2 (5 Nov 2026, evening): adding the UHL proposal structure
+
+Source: Shane McCarthy's "AI at UHL: the year ahead" (UHL AI 2027.pdf), emailed to Paul Candon 4 Nov 2026 22:52, for the 2:45 meeting on 5 Nov. Cuan read it in full on 5 Nov evening (Drive copy). Two different documents, used at two different stages:
+
+## Stage 1: opening brief for a prospect (no history yet)
+Use the Stargas structure above for the company-specific research, plus this lead-in from the UHL proposal:
+1. What is changing and how fast (generic, 1 paragraph).
+2. What the last four months have shown: 3 or 4 dated, sourced examples, chosen to fit that sector (the UHL paper used an industrial-supplies distributor breach, an agent test breakout, the PHP flaws, and a fresh disclosure). Cite each source and date; Cuan re-checks each before reuse.
+3. Three areas to have covered: AI capability and continuous learning; defensibility, systems and resilience; cybersecurity.
+4. The hook question: "A new model lands at five o'clock, or something happens inside the business at five. What happens at 5:01?"
+5. The company-specific opportunities and grant aid (Stargas sections).
+No retainer ask and no fee at this stage.
+
+## Stage 2: retainer proposal (only once there is a track record)
+Follows the UHL paper: journey so far (training by role, readiness profile, orchestrations on the client's own accounts, read and draft only, second-model check); where it goes next; a monthly retainer in five parts (key people, core systems, ahead of the models, continuous learning, embedding AI with governance); value measured as it comes through; sources; prepared for [name] by [issuer], confidential.
+Notes: the UHL paper states no fee. Do not use Stage 2 for a prospect with no live work.
+
+## Rules that stay
+- Anonymise UHL and Paul Candon in anything for others, unless Paul consents in writing and Shane agrees.
+- No commercial offer without Shane's alignment; Meridian is not incorporated, so decide the issuing name first.
+- John's own interests: where John sits on a client's board or committee (UHL), any retainer needs his interest declared and approval by those without an interest; keep it on the record.
