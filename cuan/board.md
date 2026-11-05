@@ -10,6 +10,9 @@ Key: 🔴 blocked by someone else · 🟡 waiting on John · 🟢 moving · ⚪ 
 - Gmail drafts waiting for John to review and send: Neil (funding stages and investor map, attach files); John Lawler (governance documents request); Máiréad (Board papers and accounts); Shane (plain-English note, consider holding the Pat practice item).
 - Sign and return the MWCF Constitution and Mission Statement acknowledgement (was due Wed 4 Nov).
 
+## Tue 24 and Wed 25 Nov (plan from the 5 Nov handover)
+- Tue 24 Nov: 10:00 William Fry, Dublin (Barry Scannell, pending his reply); drive to Armagh for **14:00 Archbishop Eamon Martin, Childen** (John and Shane); stay in Dublin that night. Wed 25 Nov: UHL board meeting, probably 10:00.
+
 ## Next 48 hours
 
 - **Wed 4 Nov (done):** John spoke to Shane for about two hours. Shane changed Documents 1 to 5, sent to Pat, not yet to John; his briefing memo is in hand. Waiting for the revised documents and his notes of 30 Oct.
@@ -87,6 +90,13 @@ Key: 🔴 blocked by someone else · 🟡 waiting on John · 🟢 moving · ⚪ 
 
 - 🟡 **Ger Blake (4 Nov):** private and shareable summaries done; update email on Midleton commencement notice, Croom and the overdue Decision Brief to come; wages claim not to be raised with Ger before employment legal advice; executor, EPA and support for Majella to think through (estate plan 3.8).
 - 🟢 **AI Office:** John emailed the CEO from Velocity (4 Nov, 15:22 UTC). Declan McCormack draft still unsent.
+
+## Added from the 5 Nov handover (claude.ai chat)
+- 🟡 AHL drafts in John's Gmail, not sent: David Geoghegan (about 75,000 euro credit to be given to Shane Felle of Shannonside to settle [matter to fill]; October management accounts; November directors' fees; add Nicola on cc); Simon Carbery BDO (Ignatius Cahill transfer go-ahead, steps and fee quote); Paul Dempsey Addleshaw Goddard (Smyth's of Killucan proceedings, update). Sean Burton already sent AGM papers and accounts 20 Oct.
+- 🟡 MWCF drafts (no addresses): Joe Hoare (HSE) and Gordon Kearney (Rooney Auctioneers). Board pack and AI notes received. Board Wed 11 Nov 4 to 6pm (location: check Mungret); delete the duplicate calendar entry; placeholder Meet Thu 12 Nov 11:00. Mayor's office reply hoped for by Fri 6 Nov; iPhone reminder Mon 9 Nov 9am.
+- 🟡 Personal: phone the vet (Daisy) for Saturday; WhatsApp Sean O'Dwyer with a repayment date for the 3,000 euro loan; text Eileen Kelly to acknowledge her wedding invitation; Mark Power personal update email on Noesis (skeleton draft, needs substance and address).
+- 🟡 Velocity and Vinny Leonard: assessment done (his LSOS design is paper only; UHL work is live); recommendation only after Shane's alignment; UHL not named without Paul Candon's consent. Outcome of Shane's 14:45 meeting with Paul awaited.
+- 🟡 Barber Republic: Johnny's lead Imran Rahim (spelling to confirm; John heard "Ibrahim"), investment background, offers help to make the deck investor-ready; meets Johnny Tue 10 Nov evening; call Johnny tonight (reminder 19:15); chase Neil and Scott.
 
 ## Waiting on John
 
