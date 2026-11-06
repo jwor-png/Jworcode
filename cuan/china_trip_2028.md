@@ -207,3 +207,12 @@ Sources: [China Daily, Linhe-Baigeda Highway](https://www.chinadaily.com.cn/m/in
 4. Confirm whether John meant to check for any prior China material he
    might have shared before this — **searched, none found anywhere in
    Cuan.** This is a genuinely new file.
+
+## Added 6 Nov 2026: Irish Independent p7 (Thu 5 Nov 2026), Chinese Embassy sponsored feature
+Source: John's photograph. "Why China Should Be on Your Holiday List", by Zhao Xiyuan, Ambassador of China to Ireland; the page is headed "Created for Embassy of the China in Ireland" (sponsored content, an official promotional source, not independent journalism). Claims below are the embassy's, not verified by Cuan.
+- **Visa:** under the current policy, Irish citizens on ordinary passports can visit China visa-free for up to 30 days for tourism, business, visiting family or friends, exchanges or transit; no advance declaration to embassies; multiple entries allowed with no stated cap on entries or total days; stays over 30 days need a visa or a stay permit; the waiver does not cover work, study or journalism. It suggests carrying invitation letters, air tickets and accommodation bookings as proof of purpose. Check the current rule on the Chinese embassy and Irish Department of Foreign Affairs pages before booking April 2028; it may change.
+- **Getting there:** Dublin has regular non-stop flights to Beijing and Shanghai, about 10 hours (fits the Dublin to Shanghai direct flight already verified in this file).
+- **Costs:** five-star hotels about 100 euro a night in cities depending on season, about 50 euro in smaller cities; Visa and Mastercard accepted at almost every major shopping centre; Alipay and WeChat Pay useful in smaller shops.
+- **Apps box:** WeChat Pay and Alipay (payments), Pleco and Baidu Translate, AMap and Baidu Maps, DiDi, Trip.com and China Railway 12306, Meituan and Taobao.
+- **Tax refund:** more than 13,000 designated stores; overseas visitors who stayed in mainland China for no more than 183 consecutive days; refund at purchase or on departure; amounts under 20,000 CNY by cash or bank transfer, 20,000 CNY or more by bank transfer only; list at the Service Platform for Departure Tax Refund.
+- **Itinerary ideas:** Sanya (Hainan) as a winter escape around 20 degrees; Harbin Ice and Snow World; high-speed rail between cities.
