@@ -9389,3 +9389,7 @@ John asked for a clear picture of every company and the group (where each is, ga
 - Shane (mccarthyshanemarketing@gmail.com) at 12:34 UTC forwarded to John and Pat Carroll a note from Tom Stapleton ("Can you print for the lads for tomorrow") with attachment Action_Plan_05_November_2026.docx, presumably for today's 11:00 Noesis meeting. Cuan cannot open the attachment; not read.
 - John to Campion (12:22): missed call from Anna about the premium loan application; will complete it this evening.
 - Check ran otherwise clean (UHL supplier notices, newsletters, MWCF acknowledgement from Catherine Hand already logged).
+
+## 6 Nov 2026 (17:10 UTC): email review
+- MWCF: Máiréad sent the "Board Pack for Meeting 11/11 at 4pm" (about 5 MB, all board members) at 14:38 UTC for Wed 11 Nov 16:00. Not yet read by Cuan (attachments). John's 10-minute property presentation is due for that board.
+- Otherwise clean: no reply yet from Barry Scannell, Johnny, Shane on the Action Plan, or anyone on the drafts; newsletters and UHL supplier notices ignored.
