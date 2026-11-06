@@ -9377,3 +9377,9 @@ John asked for a clear picture of every company and the group (where each is, ga
 
 ## 5 Nov 2026 (evening): Wez Pooley
 - John: "I must contact Wez Pooley tomorrow also" (Fri 6 Nov). No record of Wez Pooley in Cuan's files or in Gmail (searched Pooley and Wez, last 120 days). Purpose, company and contact details not yet given; to ask John. Reminder time not yet set.
+
+## 6 Nov 2026 (late morning): catch-up after worker restarts
+- The 05:13 UTC board email for 6 Nov was missed after a restart; board.md refreshed (header, Today section) and sent late to John's own address about 11:35 UTC (the standing exception).
+- John's 5 Nov request for a 9am (6 Nov) reminder on Vinny Leonard was not actioned in time (worker restart); 09:00 passed. Cuan created a holding-note draft to vincentleonard@salesprocessadvisors.ie in Gmail drafts (no commitments; back by end of next week; UHL not named). Not sent.
+- 11:30 reminder fired: draft introduction of Malachy Harkin and Eamon Eastwood created in Gmail drafts, To: eamon@tasteireland.com.au (from Tangible mailing lists) and malachyh@gmail.com (John's recent address for Malachy; malachy@casana.ie also exists). Addresses and Eamon's description to confirm by John. Not sent.
+- The board email text said these drafts existed before they did; they now exist.
