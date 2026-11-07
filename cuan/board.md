@@ -1,19 +1,19 @@
 # Board: Live Dashboard
 
-**As at Fri 6 Nov 2026, morning (refreshed 09:15 UTC; the 05:13 send was missed after a worker restart and is sent late).** One line per item: what, status, next action. Organised by the six Operating Creed disciplines (`operating_creed.md`), with Noesis first because it is John's focus. Anything older than 14 days is tagged **[last known date, confirm]**. Full detail lives in `ventures_dossier.md`; the previous full board is archived at `logs/board-archive-2026-11-03.md`.
+**As at Sat 7 Nov 2026, morning.** One line per item: what, status, next action. Organised by the six Operating Creed disciplines (`operating_creed.md`), with Noesis first because it is John's focus. Anything older than 14 days is tagged **[last known date, confirm]**. Full detail lives in `ventures_dossier.md`; the previous full board is archived at `logs/board-archive-2026-11-03.md`.
 
 Key: 🔴 blocked by someone else · 🟡 waiting on John · 🟢 moving · ⚪ not started
 
-## Today, Fri 6 Nov
-- **11:00** "Meet with Shane etc Noesis", 93 O'Connell Street. Take: role briefing, execution checklist, changes page, status pack, held-up note. Ask for: incorporations and Pat's update, registers, secretary/directors/Chair, one ownership structure, Shane's notes of 30 Oct, a decision record with owner and date. Conversation only: Chairman aim, paid role, equity, independent review of own terms, Pat's practice, Meridian. (Master list v2: scratch/John_Master_List_v2_5Nov2026.pdf; brain dump on page 3.)
-- **11:30** reminder: introduce Malachy Harkin and Eamon Eastwood (Taste, Australia).
-- **Vinny Leonard:** John asked for a 9am reminder to go back to him with a note; the reminder slipped past in the restart. Holding-note draft is in Gmail drafts for John to review and send.
-- **Wez Pooley:** John must contact him today. Purpose and details not yet given; reminder time to set.
-- **Mark Finlay:** return to him (about 3 months since the 28 July call); ask Shane two questions first (ODIN US introductions; personal orchestration build and price). Then a short non-committal reply.
-- **MWCF:** chase the Mayor's office by end of today, else Mon 9 Nov; Joe (St Joseph's), Joe Hoare (HSE), Gordon Kearney (Rooney Auctioneers); 10-minute property presentation for the Wed 11 Nov Board (16:00). Catherine Hand has acknowledged the governance documents.
-- **Barber Republic:** John sent Neil and Scott the funding map and the third document at 21:37 and 21:42 on 5 Nov (from Velocity). Light pitch deck draft 1 done (scratch/Barber_Republic_Light_Deck_Draft1_5Nov2026.pdf): not to be sent to Imran Rahim before an NDA and John's background check; meeting Johnny and Imran Tue 10 Nov evening.
-- **Prospects (plan, 5 Nov):** Anthony Hennessy (Stargas): one last coffee text then park to Feb 2027; Polar IceTech (Damien McDonnell) and PSE (Padraig Smith) Stage 1 brief drafts ready (scratch/Brief_*_Draft1_5Nov2026.pdf), not sent; template at scratch/Opportunities_Brief_Template_from_Stargas_5Nov2026.md. Shane's UHL paper "AI at UHL: the year ahead" read; governance flag on a Velocity retainer to UHL while John sits on UHL's board and Audit Committee. UHL Audit Committee meeting with RSM next week being rescheduled.
-- **Gmail drafts waiting (none sent by Cuan):** Neil follow-up, Shane plain-English note, John Lawler documents request, David Geoghegan, Simon Carbery, Paul Dempsey, Joe Hoare, Gordon, Mark Power skeleton. To delete: Barry Scannell draft (sent by John 14:26 on 5 Nov), the stray draft to mairead@maireadodonnell.com.
+## Today, Sat 7 Nov
+- Phone the vet about Daisy (she was quite ill; John's brain dump 5 Nov).
+- **Wez Pooley:** business contact; John wants to call him at 3pm (which day not yet confirmed: Saturday or Monday 9 Nov). Reminder to be set once John confirms.
+- **Campion premium loan application:** John said he would complete it on Fri evening (check done).
+- **Waiting on John's report:** how the Fri 6 Nov 11:00 Noesis meeting went; Tom Stapleton's "Action Plan 05 November 2026" (Word file forwarded by Shane to John and Pat, not read by Cuan); how the Johnny Shanahan call went (Thu 5 Nov); Neil Dignam's reply (fund-sourcing specialist, 6 Nov 09:59) needs John's answer and Shane's alignment on any engagement.
+- **Gmail drafts waiting for John (none sent by Cuan):** Vinny Leonard holding note (reminder 9am Fri missed); Malachy and Eamon introduction (confirm addresses); Neil follow-up; Shane plain-English note; John Lawler documents request; David Geoghegan; Simon Carbery; Paul Dempsey; Joe Hoare; Gordon; Mark Power skeleton. To delete: Barry Scannell draft; stray draft to mairead@maireadodonnell.com.
+- **MWCF:** board pack for Wed 11 Nov 16:00 received (Máiréad, 6 Nov 14:38); 10-minute property presentation to prepare; Mayor's office chase Mon 9 Nov if no reply.
+- **Mon 9 Nov:** 09:30 follow up ORS fire certificate; Mark Finlay return (ask Shane first); UHL Audit Committee meeting with RSM to be rescheduled.
+- **Tue 10 Nov evening:** Johnny meets Imran Rahim (NDA and background check first; light deck draft 1 is for talking through, not sending).
+- **Personal:** slow cooker purchase in the weeks ahead (shortlist given; Lidl 6L offer from late November).
 
 ## Tue 24 and Wed 25 Nov (plan from the 5 Nov handover)
 - Tue 24 Nov: 10:00 William Fry, Dublin (Barry Scannell, pending his reply); drive to Armagh for **14:00 Archbishop Eamon Martin, Childen** (John and Shane); stay in Dublin that night. Wed 25 Nov: UHL board meeting, probably 10:00.
