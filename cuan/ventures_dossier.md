@@ -9393,3 +9393,7 @@ John asked for a clear picture of every company and the group (where each is, ga
 ## 6 Nov 2026 (17:10 UTC): email review
 - MWCF: Máiréad sent the "Board Pack for Meeting 11/11 at 4pm" (about 5 MB, all board members) at 14:38 UTC for Wed 11 Nov 16:00. Not yet read by Cuan (attachments). John's 10-minute property presentation is due for that board.
 - Otherwise clean: no reply yet from Barry Scannell, Johnny, Shane on the Action Plan, or anyone on the drafts; newsletters and UHL supplier notices ignored.
+
+## 7 Nov 2026 (09:10 UTC): board email and email review
+- The 05:13 board email for 7 Nov was missed after a worker restart; refreshed board.md (Sat 7 Nov) and sent late to John's own address at 09:08 UTC (standing exception).
+- Email check clean: MWCF board member Catherine Hand sent apologies (17:32 UTC 6 Nov) for the Wed 11 Nov 16:00 board meeting (working in Dublin); otherwise only newsletters and promotions. No sent items from John since Fri 12:22 UTC. Outstanding from John: Wez Pooley 3pm day, Noesis meeting outcome, Tom Stapleton's Action Plan, Johnny call, Neil reply.
