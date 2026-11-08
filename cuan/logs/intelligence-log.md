@@ -1172,3 +1172,6 @@ Logged `market_intel_velocity_uhl_three_sessions_article_nov2026.md`: Shane's Li
 
 ## 2026-11-05 [Cuan → Meridian] FT Weekend, Amit Seru: AI and bank supervision
 Captured from John's photograph. Argument: SVB's 2023 failure was about supervisory will, not information; asymmetric incentives favour inaction; AI should make inaction visible and require a recorded explanation, with protection for reasonable decisions. Relevant to Meridian's AI Strategy and Governance domain and board practice (UHL ARC, MWCF). File: market_intel_ft_ai_bank_oversight_seru_nov2026.md. Claims unverified.
+
+## 2026-11-08 [Cuan → Meridian] Business Post: Amethyst Care, AI for older people at home
+Irish AI eldercare start-up (voice companion plus caregiver portal), 620,000 euro raised, seeking 1.5m, Enterprise Ireland PSSF and Trinity spin-out, Ohio trials. Relevant to AI Equity and Investment, AI Strategy and Adoption (eldercare), and Golden Generation. File: market_intel_amethyst_care_ai_elderly_nov2026.md. Claims unverified; Enterprise Ireland-branded feature.
