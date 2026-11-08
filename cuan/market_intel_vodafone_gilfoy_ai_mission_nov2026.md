@@ -1,0 +1,21 @@
+# Sunday Independent Business pp6 to 7 (8 Nov 2026), Fearghal O'Connor interview: "'Everybody will get there, though maybe at a different pace': Vodafone embarks on AI mission"
+
+Source: John's two photographs, 8 Nov 2026 (page 6 first part, page 7 continuation). Interview with Jo Gilfoy, business director, Vodafone Ireland, after the Vodafone Future Frontiers event at the Dublin Royal Convention Centre. Claims are the interviewee's or the paper's, not verified by Cuan; company interview, so promotional in part.
+
+## Key points
+- **Vodafone Ireland:** 2.4 million customers, almost one in three mobile subscriptions, half business customers; says it is number one in the market for business and number two for broadband. Invests 100m euro a year in its Irish network, and 20bn euro over 25 years (her figures).
+- **AI and the gap:** asked about a widening gap between businesses engaging deeply with AI and those not, she is reluctant to agree: "Everybody gets there, maybe at a different pace." Pull-quote: "Something new and innovative is coming along, almost on a monthly basis."
+- **New AI service for SMEs:** Vodafone is experimenting with an AI "business manager" for SME customers. Example given: a hairdresser, electrician or plumber whose AI agent takes the call, speaks to the customer, books the appointment and can answer questions such as parking or running late. A telco entering the SME AI-agent space.
+- **Emergency services example:** AI on an ambulance with standalone 5G transmitting video, audio and vitals to the hospital; the notes are done by the AI; hospital handover said to fall from 45 minutes to three; firefighters and other first responders a likely market.
+- **Cyber:** Gilfoy says AI makes phishing and impersonation more convincing and lets criminals work at speed and scale, and that AI is also an important part of the defence. Vodafone surveys: 70% of SMEs are worried about security attacks on mobile, yet only 48% have made mobile-security awareness training mandatory for staff. 1,000 engineers and security experts at Vodafone Ireland.
+- **SuperValu:** the paper reports that last week SuperValu was caught up in an attack on refrigerators across Europe in which attackers turned up temperatures, apparently to spoil frozen food; Vodafone's network was not involved. (Relevant to the SuperValu piece John asked to be restored in his LinkedIn work; verify the incident independently before using.)
+- **IoT and networks:** 220 million global connections, growing by about 10 million a month; 6G rollout planned by 2030; satellite-enabled service to keep customers and emergency services connected in storms; standalone 5G.
+- **Infrastructure and planning:** the Irish planning system "tends to swallow such developments whole"; concern about resilience of subsea cables; data centres have become "hugely controversial" and increasingly politicised after last week's US midterms; Vodafone is "unapologetic" that more data-hungry services need more data centres, power and water, with a balanced approach to energy and sustainability goals.
+- **Competition:** Lidl's new 8.99 euro unlimited data plan; Vodafone says value and choice matter.
+- **Page 7 profile:** career from Nokia 27 years ago, Virgin Mobile (team of 15, Richard Branson) and Vodafone since end of 2007; comments on gender balance (she is the fifth business director; Sabrina Casalta is Vodafone Ireland's third female chief executive).
+
+## Why it matters to John
+- **Meridian and Velocity AI (AI governance, SME adoption):** a major telco is moving into AI agents for tradespeople and small firms, which is both validation of the SME market and competition for Velocity AI and Ambrion-type offers; useful independent quotes for AI adoption posts (source-tag, attribute to Gilfoy).
+- **UHL Audit and Risk Committee and Fiducia:** the 70% against 48% SME security-training gap and the SuperValu refrigeration attack are concrete cyber examples, alongside the PwC survey logged on 1 Nov.
+- **Tairseach and the Meridian infrastructure thread:** planning, data-centre power and water, and resilience points.
+- **Caution:** figures are the company's own; the SuperValu incident should be checked independently before it appears in anything John posts.

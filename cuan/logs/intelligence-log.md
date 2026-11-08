@@ -1175,3 +1175,6 @@ Captured from John's photograph. Argument: SVB's 2023 failure was about supervis
 
 ## 2026-11-08 [Cuan → Meridian] Business Post: Amethyst Care, AI for older people at home
 Irish AI eldercare start-up (voice companion plus caregiver portal), 620,000 euro raised, seeking 1.5m, Enterprise Ireland PSSF and Trinity spin-out, Ohio trials. Relevant to AI Equity and Investment, AI Strategy and Adoption (eldercare), and Golden Generation. File: market_intel_amethyst_care_ai_elderly_nov2026.md. Claims unverified; Enterprise Ireland-branded feature.
+
+## 2026-11-08 [Cuan → Meridian] Sunday Independent: Vodafone Ireland's AI mission (Jo Gilfoy)
+Vodafone trialling an AI business manager for SMEs (answers calls, books appointments); SME mobile-security survey (70% worried, 48% mandate training); SuperValu refrigeration attack reported; planning and data-centre points. Relevant to AI Strategy and Adoption, cyber governance, and Velocity AI competition. File: market_intel_vodafone_gilfoy_ai_mission_nov2026.md. Company interview; figures unverified; verify SuperValu incident independently.
