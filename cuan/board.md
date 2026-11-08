@@ -1,19 +1,18 @@
 # Board: Live Dashboard
 
-**As at Sat 7 Nov 2026, morning.** One line per item: what, status, next action. Organised by the six Operating Creed disciplines (`operating_creed.md`), with Noesis first because it is John's focus. Anything older than 14 days is tagged **[last known date, confirm]**. Full detail lives in `ventures_dossier.md`; the previous full board is archived at `logs/board-archive-2026-11-03.md`.
+**As at Sun 8 Nov 2026, morning.** One line per item: what, status, next action. Organised by the six Operating Creed disciplines (`operating_creed.md`), with Noesis first because it is John's focus. Anything older than 14 days is tagged **[last known date, confirm]**. Full detail lives in `ventures_dossier.md`; the previous full board is archived at `logs/board-archive-2026-11-03.md`.
 
 Key: 🔴 blocked by someone else · 🟡 waiting on John · 🟢 moving · ⚪ not started
 
-## Today, Sat 7 Nov
-- Phone the vet about Daisy (she was quite ill; John's brain dump 5 Nov).
-- **Wez Pooley:** business contact; John wants to call him at 3pm (which day not yet confirmed: Saturday or Monday 9 Nov). Reminder to be set once John confirms.
-- **Campion premium loan application:** John said he would complete it on Fri evening (check done).
-- **Waiting on John's report:** how the Fri 6 Nov 11:00 Noesis meeting went; Tom Stapleton's "Action Plan 05 November 2026" (Word file forwarded by Shane to John and Pat, not read by Cuan); how the Johnny Shanahan call went (Thu 5 Nov); Neil Dignam's reply (fund-sourcing specialist, 6 Nov 09:59) needs John's answer and Shane's alignment on any engagement.
-- **Gmail drafts waiting for John (none sent by Cuan):** Vinny Leonard holding note (reminder 9am Fri missed); Malachy and Eamon introduction (confirm addresses); Neil follow-up; Shane plain-English note; John Lawler documents request; David Geoghegan; Simon Carbery; Paul Dempsey; Joe Hoare; Gordon; Mark Power skeleton. To delete: Barry Scannell draft; stray draft to mairead@maireadodonnell.com.
-- **MWCF:** board pack for Wed 11 Nov 16:00 received (Máiréad, 6 Nov 14:38); 10-minute property presentation to prepare; Mayor's office chase Mon 9 Nov if no reply.
-- **Mon 9 Nov:** 09:30 follow up ORS fire certificate; Mark Finlay return (ask Shane first); UHL Audit Committee meeting with RSM to be rescheduled.
-- **Tue 10 Nov evening:** Johnny meets Imran Rahim (NDA and background check first; light deck draft 1 is for talking through, not sending).
-- **Personal:** slow cooker purchase in the weeks ahead (shortlist given; Lidl 6L offer from late November).
+## Today, Sun 8 Nov (rest day; nothing scheduled)
+- **Still waiting on John:** which 3pm for Wez Pooley (Saturday has passed: Monday 9 Nov?); how the Fri 6 Nov Noesis meeting went; Tom Stapleton's "Action Plan 05 November 2026" (not read by Cuan); how the Johnny Shanahan call went; his answer to Neil Dignam (fund-sourcing specialist) after Shane's view.
+- **Personal:** slow cooker and the black 3XL gilet (options given 7 Nov); phone the vet about Daisy if not done; Campion premium loan application if not completed.
+- **Gmail drafts waiting for John (none sent by Cuan):** Vinny Leonard holding note; Malachy and Eamon introduction (confirm addresses); Neil follow-up; Shane plain-English note; John Lawler documents request; David Geoghegan; Simon Carbery; Paul Dempsey; Joe Hoare; Gordon; Mark Power skeleton. To delete: Barry Scannell draft; stray draft to mairead@maireadodonnell.com.
+- **Barry Scannell:** back at his desk Mon 9 Nov (US west coast until then); direct line +353 1 639 5393 per William Fry profile (John to confirm); no mobile held.
+- **Cork IP solicitor:** David Reilly (dreilly.ie), per Pat 6 Nov; scoping meeting to arrange; no commitment without Shane.
+- **Mon 9 Nov:** 09:30 follow up ORS fire certificate; chase the Mayor's office (MWCF); Mark Finlay return (ask Shane first); UHL Audit Committee meeting with RSM to be rescheduled.
+- **Tue 10 Nov evening:** Johnny meets Imran Rahim (NDA and background check first).
+- **Wed 11 Nov 16:00:** MWCF Board; board pack received; 10-minute property presentation to prepare (Catherine Hand sent apologies).
 
 ## Tue 24 and Wed 25 Nov (plan from the 5 Nov handover)
 - Tue 24 Nov: 10:00 William Fry, Dublin (Barry Scannell, pending his reply); drive to Armagh for **14:00 Archbishop Eamon Martin, Childen** (John and Shane); stay in Dublin that night. Wed 25 Nov: UHL board meeting, probably 10:00.
