@@ -9535,3 +9535,11 @@ The likely Saudi Arabian family investment in Asterial is being negotiated throu
 - Forward magazine ("Forward: European Perspectives on Tech and Society", "Architecting Europe's AI Future"): photos to follow, for noting.
 
 **Outputs (all in cuan/scratch/):** Noesis_and_My_Interests_Landscape_9Nov2026.pdf (one A4 landscape: Noesis group left, John's interests right; John decides whether to split into two pages); John_Master_List_v3_9Nov2026.pdf (3 pages, updated from v2 with the above); Noesis_Chairman_Direction_9Nov2026.pdf (six top-level points, three for this week; Cuan suggestions, not legal advice).
+
+---
+
+## Forward No. 05 and clarifications (John, 9 Nov 2026, afternoon)
+- Sixteen photographs of Google Forward No. 05 (cover and pp2 to 16) logged for noting: `market_intel_google_forward_no05_nov2026.md` (map row and intelligence log added).
+- Confirmed: Sheila McManus died in Nenagh, Co. Tipperary (January 2025).
+- John said he does not need the BDO, credit note or Malachy/Eamon emails drafted (existing Gmail drafts stand; no new ones).
+- Meelick guess withdrawn: John spelled the place "M-E-A-C-A-H-A-N-E" (dictated; Cuan does not recognise it, held as spelled, not Meelick). The master list v3 still says Meelick: to correct if he wants a reprint.
