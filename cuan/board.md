@@ -117,3 +117,5 @@ Meridian hosting and DNS decision · LinkedIn changes · "Paul's thoughts" at UH
 **Refresh rule:** John gives a status or Cuan finishes work, and the line changes the same day. Anything not confirmed in 14 days is re-tagged, never dropped.
 
 - Noesis signing meeting: Tue 10 Nov 12:30, Pat's office (John, Shane, Pat). Incorporations, business names, Bank of Ireland account. Shane sending replacement names this afternoon (conflicts found in John's Sat check). Need final names and Docs 1 and 3 beforehand.
+
+- Asterial Team and Hiring Plan v4 (Shane, 7 Nov) logged: 18 people, year 1 spend 15.86m of a 20m to 22.5m round at 100m to 125m. Option pool dilution (carve from Noesis 85% or pro rata) is Shane's open decision. Basis for the likely Saudi family investment in Asterial.

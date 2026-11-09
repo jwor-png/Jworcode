@@ -9471,3 +9471,33 @@ Observations held unless John asks.
 - Meeting: Tue 10 Nov, 12:30, Pat's office. John, Shane and Pat. Aim: sign documentation for incorporation of the companies, registration of the business names, and hopefully creation of the new Noesis Bank of Ireland account.
 - Cuan note: John's dictation says "Oasis"; read as Noesis.
 - Dependencies for the meeting (from the 8 Nov review): Documents 1 and 3 (8 Nov versions) still to be resent by Shane; John's fix list not yet reviewed or shared; names must be final before any form is signed.
+
+---
+
+## Asterial Team and Hiring Plan, v4 draft (Shane, 7 Nov 2026), logged 9 Nov 2026
+
+Source: 17-page PDF "Asterial Team and Hiring Plan", "Prepared for Shane McCarthy, Saturday 07 November 2026, Version 4, draft for decision". John's description: the draft Asterial plan for the likely investment into Asterial (for ODIN) by the Saudi Arabian family. Plan figures are Shane's/the document's own; market benchmarks cited in it are not independently verified by Cuan.
+
+**Basis:** Asterial is the IP company that holds ODIN. Shareholders: Noesis 85%, Shane McCarthy 5%, Diarmuid Hudner 10% (Head of Investments). First round 20m to 22.5m euro at 100m to 125m valuation; second round 175m to 250m at 800m to 1.2bn (about 25% given away), starting month two to three, closing in three to four months. Headcount 15 to 25 in year one; plan stops at 18.
+
+**Budget:** Year 1 total spend 15,857,848 euro (70% of 22.5m); months 1 to 8 spend 10,858,372; token and compute scaling reserve 3.5m held; unallocated buffer 3,142,152 (14%) at year one (8,141,628 at month eight). Spend lines (months 1 to 8 / year 1): people 2.12m / 3.28m; tokens to people 2.40m / 3.91m; compute, organism tokens, synthetic testing, R&D 1.60m / 2.39m; equipment and studio 948k; marketing, events, launch 623k / 935k; office, security, travel, operations 1.05m / 1.46m; professional services and insurance 1.14m / 1.50m; contingency 10%.
+
+**Team (18):** Shane (CEO and Chief Architect, 150k), Diarmuid (Head of Investments, 150k), plus 16 hires: CTO 320k (2 to 3% equity), Orchestration and Agent Architecture Lead 260k, Chief of Staff 190k, Head of Security 240k, Systems Architect 220k, Governance and Safety Lead 210k, Marketing Lead 150k, Office and Experience Manager 55k, two Senior Agent Systems Builders 190k, Design Engineer 150k, Evals and Reliability Builder 180k, Safety Tester 160k, IP Licensing and Partnerships Lead 180k, two Builder Interns 48k. Hires 1 to 16 salaries 2.791m base (full team 3.091m). Hiring order months 1 to 7; fractional CFO from month zero. Deliberate non-hires: no COO, no full-time CFO, no pipeline sales seats, no Head of Product.
+
+**Equity:** 12% option pool recommended, three-year vesting, one-year cliff; hires 1 to 14 at midpoints 10.42% (band 8.8% to 12.1%), 1.58% unallocated. KEEP (extended to 31 Dec 2028) where it qualifies, 6m euro company cap; qualifying status inside the Noesis group to be confirmed with Walter. Sign-on 25% of base for six hires, reserve 360k, 12-month clawback. Employer on-costs 12.9%.
+
+**Tokens:** 4.524m euro a year against 3.091m salaries (146% of wages); 20k to 50k a month for architects, builders, safety; Shane 50k a month, Diarmuid 10k.
+
+**Compute (company):** reserved 8 x H100 node, burst GPU, organism token line 50k a month, synthetic testing 45k a month, R&D programme 1m a year (via ODIN Labs). Racks, colocation and data-centre energy not sized.
+
+**Decisions outstanding (plan's own list):** founder salaries (150k each, carried from May 2026 plan); corporate legal 450k, tax and accountancy 90k, insurance 100k (to be priced by finance and John); option pool dilution (pro rata across Noesis, Shane, Diarmuid, or carved from Noesis 85%) is Shane's decision; organism token line, synthetic testing, R&D to confirm; proposed company lines (equipment, marketing, travel, food, professional services, social good, USD rate); racks and colocation if GPUs are bought.
+
+**Arithmetic check (Cuan):** salary sum, sign-on reserve (360k), year-one and eight-month totals, buffer and token ratio all reconcile.
+
+**Cuan observations (John may want to raise with Shane):**
+- Top of equity band (12.1%) exceeds the 12% pool; midpoints are inside it.
+- Who bears pool dilution is open: it decides whether Noesis, and so John's position through Noesis, is diluted at 85%.
+- 3.5m reserve plus unallocated buffer is large against 15.9m spend; an investor will ask what the held amounts are for.
+- Token spend above salaries (146%) and the 1m R&D line are the lines an investor is most likely to challenge.
+- Assumes the group structure (Noesis 85/5/10, Diarmuid 10% non-voting Class B per the 8 Nov set) is as finally signed.
+- Investor identity (the Saudi Arabian family) is as John described; no name or terms in this document.
