@@ -9509,3 +9509,12 @@ Source: 17-page PDF "Asterial Team and Hiring Plan", "Prepared for Shane McCarth
 The likely Saudi Arabian family investment in Asterial is being negotiated through Diarmuid Hudner (Asterial shareholder, 10%, Head of Investments) with "Vashid the Lawyer" acting for the family. Spelling of the lawyer's name is as dictated and unconfirmed; firm not given. No terms known to Cuan beyond the Team and Hiring Plan v4 basis (20m to 22.5m euro at 100m to 125m).
 
 - Cuan produced cuan/scratch/Asterial_Plan_John_OnePager_Tue10Nov2026.pdf (9 Nov): one page, John only, questions for Shane and Pat ahead of Tue 10 Nov 12:30.
+
+---
+
+## John's role and the one-page plan request (John, 9 Nov 2026)
+
+- **John is the interim chairman of the Noesis group.** Most important thing to hold. He wants top-level direction as group chairman (practical, few items, no long action lists), for his review.
+- **Meridian Intelligence is NOT within the Noesis group.**
+- Requested: A4 landscape page, left: revised Noesis group plan of companies; right: all John's other interests in a similar design. He will review and decide whether it becomes two landscape A4 pages (Noesis; his own interests).
+- Keep the existing master list ("brain dump", 3 pages, John_Master_List_v2_5Nov2026.pdf) as it is: John carries it and annotates it. He is dictating notes to add to it; hold building until he has finished.
