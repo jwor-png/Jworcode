@@ -9507,3 +9507,5 @@ Source: 17-page PDF "Asterial Team and Hiring Plan", "Prepared for Shane McCarth
 ## Asterial investment channel (John, 9 Nov 2026)
 
 The likely Saudi Arabian family investment in Asterial is being negotiated through Diarmuid Hudner (Asterial shareholder, 10%, Head of Investments) with "Vashid the Lawyer" acting for the family. Spelling of the lawyer's name is as dictated and unconfirmed; firm not given. No terms known to Cuan beyond the Team and Hiring Plan v4 basis (20m to 22.5m euro at 100m to 125m).
+
+- Cuan produced cuan/scratch/Asterial_Plan_John_OnePager_Tue10Nov2026.pdf (9 Nov): one page, John only, questions for Shane and Pat ahead of Tue 10 Nov 12:30.
