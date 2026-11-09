@@ -9543,3 +9543,5 @@ The likely Saudi Arabian family investment in Asterial is being negotiated throu
 - Confirmed: Sheila McManus died in Nenagh, Co. Tipperary (January 2025).
 - John said he does not need the BDO, credit note or Malachy/Eamon emails drafted (existing Gmail drafts stand; no new ones).
 - Meelick guess withdrawn: John spelled the place "M-E-A-C-A-H-A-N-E" (dictated; Cuan does not recognise it, held as spelled, not Meelick). The master list v3 still says Meelick: to correct if he wants a reprint.
+
+- **9 Nov 2026, chairman's direction amended (John):** the six-point version was not what John wanted. He wants his actions as interim chairman set out on one page together with his legal and governance lead work (Shane's 8 Oct brief, tasks 1 to 10, due 23 Nov), specifically: run the board properly from day one, control what investors see, conflicts (he is aware), plus the governance and legal tasks he is handling. Replaced by `cuan/scratch/Noesis_Chairman_Direction_v2_9Nov2026.pdf` (A: four chairman actions; B: tasks 1 to 10 with status and next step; capacities kept separate). The earlier six-point PDF was deleted.
