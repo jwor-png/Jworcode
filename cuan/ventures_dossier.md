@@ -9518,3 +9518,20 @@ The likely Saudi Arabian family investment in Asterial is being negotiated throu
 - **Meridian Intelligence is NOT within the Noesis group.**
 - Requested: A4 landscape page, left: revised Noesis group plan of companies; right: all John's other interests in a similar design. He will review and decide whether it becomes two landscape A4 pages (Noesis; his own interests).
 - Keep the existing master list ("brain dump", 3 pages, John_Master_List_v2_5Nov2026.pdf) as it is: John carries it and annotates it. He is dictating notes to add to it; hold building until he has finished.
+
+---
+
+## John's notes and outputs, 9 Nov 2026 (afternoon)
+
+**Notes (John's dictation):**
+- Introduce Malachy ("Maliki") Harkin and Eamon Eastwood (Australia) to each other: Gmail draft; confirm addresses.
+- ID documents (passport, driving licence, address letter) emailed by John to Pat Carroll, cc Shane, to open the new Asterial bank account ("Oasis" and "Ethereal" in dictation read as Noesis and Asterial).
+- Check Midleton Primary Care Centre commencement notice; money owed re Ilex Healthcare and John's participation (Leviathan, Brian Ross and others); whether Gorey, Co. Wexford PCC has progressed; contact Ger Blake on matters as listed.
+- Will of the late Sheila McManus (Magella's aunt; died Jan 2025, "Nina" Co. Tipperary, probably Nenagh, unconfirmed): get copy to approach the Probate Office in Dublin for Magella's bequest.
+- AHL: BDO audit proposal email (timeline and fees); instruct David Geoghegan, cc Nicola, to issue the credit note for Shannonside, about 75,000 euro.
+- Pigeon food (2 bags), Petmania Limerick: held; Tue (on the way to Meelick and Pat Carroll) or Wed.
+- UHL board Thu 12 Nov 10:30 to ratify the auditor. Before it, speak to Keith Cronin (Cronin's Home Value, Ballylickey) and invite him onto the Audit and Risk Committee (after John's Saturday talk with Owen McGettigan). Email held from UHL board correspondence; mobile unknown (David may have circulated contact details when Keith joined).
+- First thing: Jeep insurance premium payment (Campion/Premium Credit).
+- Forward magazine ("Forward: European Perspectives on Tech and Society", "Architecting Europe's AI Future"): photos to follow, for noting.
+
+**Outputs (all in cuan/scratch/):** Noesis_and_My_Interests_Landscape_9Nov2026.pdf (one A4 landscape: Noesis group left, John's interests right; John decides whether to split into two pages); John_Master_List_v3_9Nov2026.pdf (3 pages, updated from v2 with the above); Noesis_Chairman_Direction_9Nov2026.pdf (six top-level points, three for this week; Cuan suggestions, not legal advice).
