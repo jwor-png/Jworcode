@@ -8,6 +8,7 @@ Key: 🔴 blocked by someone else · 🟡 waiting on John · 🟢 moving · ⚪ 
 - **09:30** follow up ORS (Gerard Heffernan) on the UHL fire certificate if no reply by Fri 6 Nov.
 - **Wez Pooley:** business contact; John wants to call him at 3pm (confirm Monday); purpose not yet given.
 - **Mayor's office (MWCF):** chase for an indication on the council civic building before the Wed 11 Nov board; then update John Lawler and Máiréad. Joe (St Joseph's), Joe Hoare (HSE) and Gordon Kearney (Rooney Auctioneers) emails to send.
+- **Shane's sites (John, 9 Nov):** Táirseach property intelligence site (Shane's) expected complete and live this evening; SanCelvio site expected the same; John sharing SanCelvio screenshots. For noting only.
 - **Barry Scannell** is back at his desk today; reply to John's 5 Nov email awaited. Direct line +353 1 639 5393 (William Fry profile; John to confirm); no mobile held.
 - **Vinny Leonard:** holding note in Gmail drafts (promises a view by end of this week); comparison with UHL done (scratch/Vinny_Leonard_vs_UHL_Comparison_8Nov2026.pdf); Shane's alignment first.
 - **Mark Finlay:** ask Shane two questions (ODIN US introductions; personal orchestration build and price), then a short reply.
