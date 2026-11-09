@@ -121,3 +121,5 @@ Meridian hosting and DNS decision · LinkedIn changes · "Paul's thoughts" at UH
 - Asterial Team and Hiring Plan v4 (Shane, 7 Nov) logged: 18 people, year 1 spend 15.86m of a 20m to 22.5m round at 100m to 125m. Option pool dilution (carve from Noesis 85% or pro rata) is Shane's open decision. Basis for the likely Saudi family investment in Asterial.
 
 - Asterial investment (Saudi family): negotiated via Diarmuid Hudner with Vashid (lawyer for the family; spelling and firm unconfirmed).
+
+- Pat's email of 9 Nov (via Shane): Tue 10 Nov aim is to settle each structural decision and finalise the structures, with stop/go conditions, owners and dates (Asterial and ODIN: IP transfer tax timing). Bring ORIGINAL passport, driving licence and Revenue letter for certification; BOI requires originals and a face-to-face meeting. Confirm meeting time (Pat says morning, John has 12:30).

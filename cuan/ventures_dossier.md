@@ -9547,3 +9547,18 @@ The likely Saudi Arabian family investment in Asterial is being negotiated throu
 - **9 Nov 2026, chairman's direction amended (John):** the six-point version was not what John wanted. He wants his actions as interim chairman set out on one page together with his legal and governance lead work (Shane's 8 Oct brief, tasks 1 to 10, due 23 Nov), specifically: run the board properly from day one, control what investors see, conflicts (he is aware), plus the governance and legal tasks he is handling. Replaced by `cuan/scratch/Noesis_Chairman_Direction_v2_9Nov2026.pdf` (A: four chairman actions; B: tasks 1 to 10 with status and next step; capacities kept separate). The earlier six-point PDF was deleted.
 
 - **9 Nov 2026 (later), Forward No. 05, second batch:** pp17, 18 and back cover received and added as an addendum to `market_intel_google_forward_no05_nov2026.md` (noting only). Dublin shown as an operational Google data centre with no Irish cloud region marked (as read from the photo, unverified).
+
+---
+
+## Pat Carroll's email of 9 Nov (13:47, forwarded by Shane 15:44 to John and Tom), and Pat's BOI reply (15:51)
+
+**Email 1 (Pat to Shane, "Tomorrow's review and finalizing the Noesis structures EMAIL 1"; cc Accounts 3; Shane asked "circularise to John and Tom"):**
+- Pat is going through every document and will comment from accounting, investment, tax and company secretarial sides. He cannot identify which decisions, recommendations and finished outputs Shane needs from him in the "Review Note for Pat" (mixes legal, tax, structural, drafting points; work assigned among several people); his AI read it strictly and it was still unclear.
+- Tomorrow: take documents piece by piece, settle each structural decision, "finalise the structures that day", "whatever state the documents are in"; correct avoidable errors and identify legal and tax conditions before implementation; "we do not need every drafting detail at 100 per cent"; result must support the CRO and RBO work and the legal and tax requirements.
+- Pat's question in bold: all companies can be done for CRO and RBO except Asterial and ODIN?
+- Asterial and ODIN: Step 3 IP transfer to Asterial is the principal tax timing issue; valuation, consideration, tax treatment and any relief route must be settled before it proceeds; "delay does not resolve those risks" and even an immediate transfer does not remove the risk. Pat wants to leave with the sequence and stop or go conditions agreed, each item with an owner and a completion date.
+- Subject line says EMAIL 1: further emails likely.
+
+**BOI thread (John 12:08 to Pat, cc Shane: Revenue letter, driving licence and passport for certification; Pat 15:51):** bring the original documents; BOI now requires originals plus a face-to-face meeting to open new accounts. Pat's mobile 087 996 3880.
+
+**Cuan review (9 Nov):** Pat's approach (agree structure and stop/go conditions, not sign everything) fits John's chairman line provided "finalise the structures" does not become "sign the set". Still open and not mentioned by Pat: Noesis cap table (documents 86/8/6 vs Pat's 83/17), Docs 1 and 3 (8 Nov) missing, name conflicts, Asterial 85/5/10 and the Asterial raise, the IP price 1 or 10 euro. Timing: Pat refers to Shane coming in "tomorrow morning"; John's meeting is 12:30: confirm. Action for John: bring originals (passport, driving licence, Revenue letter) and ask who else must attend BOI in person.
