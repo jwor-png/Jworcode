@@ -9443,3 +9443,21 @@ John asked for a clear picture of every company and the group (where each is, ga
 ## 9 Nov 2026 (afternoon): Táirseach and SanCelvio sites are Shane's (John, for noting)
 - John: the Táirseach property intelligence site (screenshots above) was prepared by Shane; it is Shane's. For noting only, no questions. John spoke to Shane by phone: Shane expects the Táirseach website to be complete this evening (9 Nov) to go live, and expects the SanCelvio one (dictated as "Sans Salvia"; SanCelvio Limited, CRO 817480) to be the same. John is about to share screenshots of the SanCelvio app, also for the record.
 - Cuan's earlier observations on the Táirseach page remain on file above; nothing further to act on unless John asks.
+
+---
+
+## SanCelvio site screenshots (Shane's build), logged 9 Nov 2026, 13:14 to 13:15
+
+**Status: for noting only. John: "You don't need to ask questions on it, just note it." Shane expects the site live this evening (9 Nov), alongside the Tairseach site.**
+
+Source: ten phone screenshots of sancelvio.lovable.app (prepared by Shane McCarthy).
+
+- Branding: "SANCELVIO, Part of Noesis". Nav: The Raise, Engage with us. Shane McCarthy listed as "Founder".
+- Headline: "Five products, each its own brand, on one spine." Next five lined up behind them.
+- Products: Famora (dementia and Alzheimer's; "running today as a first version on a phone"), Continuity (endometriosis), Rose (Parkinson's), Blossa (children with intellectual disabilities), Fermo (people living with cancer).
+- "Five causes on one spine." "Human-centric design... AI driven. Human led."
+- The Raise: raising 5 million euro now at a 25 million euro post-money valuation, for investors, families, foundations and institutions. Seed 5m now, further rounds at 6, 12 and 18 months, wave two funded by aligned investors. Use of funds: build the five products to operational with users and testers, put them in people's hands each under its own brand, hire the right team.
+- Contact form: I am an investor / a foundation or institution / a partner / someone with a question; name, email, message, Send.
+- Footer: SanCelvio, Part of Noesis, 2026.
+
+Observations held unless John asks.
