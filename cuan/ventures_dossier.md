@@ -9461,3 +9461,13 @@ Source: ten phone screenshots of sancelvio.lovable.app (prepared by Shane McCart
 - Footer: SanCelvio, Part of Noesis, 2026.
 
 Observations held unless John asks.
+
+---
+
+## Noesis group: name checks and Tue 10 Nov signing meeting (John, 9 Nov 2026)
+
+- Sat 7 Nov night: John checked the proposed names of the Noesis group companies not yet incorporated (and their business names) for acceptability and conflicts with already incorporated companies. Conflicts found. Shane knows.
+- Shane is producing replacement company names and replacement business names for the affected entities. Expected this afternoon (Mon 9 Nov).
+- Meeting: Tue 10 Nov, 12:30, Pat's office. John, Shane and Pat. Aim: sign documentation for incorporation of the companies, registration of the business names, and hopefully creation of the new Noesis Bank of Ireland account.
+- Cuan note: John's dictation says "Oasis"; read as Noesis.
+- Dependencies for the meeting (from the 8 Nov review): Documents 1 and 3 (8 Nov versions) still to be resent by Shane; John's fix list not yet reviewed or shared; names must be final before any form is signed.

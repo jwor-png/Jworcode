@@ -115,3 +115,5 @@ Meridian hosting and DNS decision · LinkedIn changes · "Paul's thoughts" at UH
 ---
 
 **Refresh rule:** John gives a status or Cuan finishes work, and the line changes the same day. Anything not confirmed in 14 days is re-tagged, never dropped.
+
+- Noesis signing meeting: Tue 10 Nov 12:30, Pat's office (John, Shane, Pat). Incorporations, business names, Bank of Ireland account. Shane sending replacement names this afternoon (conflicts found in John's Sat check). Need final names and Docs 1 and 3 beforehand.
