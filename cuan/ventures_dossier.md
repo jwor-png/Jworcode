@@ -9501,3 +9501,9 @@ Source: 17-page PDF "Asterial Team and Hiring Plan", "Prepared for Shane McCarth
 - Token spend above salaries (146%) and the 1m R&D line are the lines an investor is most likely to challenge.
 - Assumes the group structure (Noesis 85/5/10, Diarmuid 10% non-voting Class B per the 8 Nov set) is as finally signed.
 - Investor identity (the Saudi Arabian family) is as John described; no name or terms in this document.
+
+---
+
+## Asterial investment channel (John, 9 Nov 2026)
+
+The likely Saudi Arabian family investment in Asterial is being negotiated through Diarmuid Hudner (Asterial shareholder, 10%, Head of Investments) with "Vashid the Lawyer" acting for the family. Spelling of the lawyer's name is as dictated and unconfirmed; firm not given. No terms known to Cuan beyond the Team and Hiring Plan v4 basis (20m to 22.5m euro at 100m to 125m).
