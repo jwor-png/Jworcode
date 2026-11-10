@@ -9600,3 +9600,5 @@ Shane: printed copies at the meeting; "Pat and I have agreed on a flow for this"
 - **10 Nov 2026 (~11:15), screenshots from John (no note):** Systems Thinking Instagram carousel (slides 1 to 7) and the top of The Rundown AI newsletter logged for noting: `market_intel_systems_thinking_carousel_rundown_nov2026.md` (map row and intelligence log added).
 
 - **10 Nov 2026 (late morning):** one-page seven-points sheet on Shane's decisions pack produced: cuan/scratch/Shane_Pack_Seven_Points_John_10Nov2026.pdf (John only; for the 12:30 meeting).
+
+- **10 Nov 2026, 13:12 UTC email review (scheduled):** one substantive item. **Campion (Amy McHale, 09:50): the AXA debit of 97.43 euro on 6 Nov is explained and resolved:** the old policy auto-renewed on 1 Nov, so when Amy cancelled it was already in the payment cycle; AXA has reversed it and John should see the refund in 3 or 4 working days (about 13 to 16 Nov). John replied 11:17 "Thank you Amy, that's fine". Watch for the refund; Premium Credit app application was completed 9 Nov (per John's email). Everything else was newsletters and promotions; no new items from Shane, Pat, UHL, AHL or MWCF since the 08:40 review.

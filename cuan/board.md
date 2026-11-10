@@ -126,3 +126,5 @@ Meridian hosting and DNS decision · LinkedIn changes · "Paul's thoughts" at UH
 - Pat's email of 9 Nov (via Shane): Tue 10 Nov aim is to settle each structural decision and finalise the structures, with stop/go conditions, owners and dates (Asterial and ODIN: IP transfer tax timing). Bring ORIGINAL passport, driving licence and Revenue letter for certification; BOI requires originals and a face-to-face meeting. Confirm meeting time (Pat says morning, John has 12:30).
 
 - 9 Nov 17:09 review: Mayor's office acknowledged (will pass to Head of Property Management, LCC; no premises offered). MWCF Board Wed 11 Nov 16:00 confirmed at the MWCF Support Centre, Mungret. Vinny Leonard sent a Teams invite 'AI in Sales' (open the invite for the time). Campion: AXA debit 97.43 euro query sent by John, Amy out until 10 Nov; Premium Credit app upload still outstanding.
+
+- 10 Nov 13:12 review: Campion: the 97.43 euro AXA debit is explained (old policy auto-renewed 1 Nov) and reversed by AXA; refund due in 3 to 4 working days (about 13 to 16 Nov). John acknowledged. Premium Credit application was completed 9 Nov (John's email).
