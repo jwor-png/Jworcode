@@ -1,24 +1,25 @@
 # Board: Live Dashboard
 
-**As at Mon 9 Nov 2026, morning.** One line per item: what, status, next action. Organised by the six Operating Creed disciplines (`operating_creed.md`), with Noesis first because it is John's focus. Anything older than 14 days is tagged **[last known date, confirm]**. Full detail lives in `ventures_dossier.md`; the previous full board is archived at `logs/board-archive-2026-11-03.md`.
+**As at Tue 10 Nov 2026, 05:13.** One line per item: what, status, next action. Organised by the six Operating Creed disciplines (`operating_creed.md`), with Noesis first because it is John's focus. Anything older than 14 days is tagged **[last known date, confirm]**. Full detail lives in `ventures_dossier.md`; the previous full board is archived at `logs/board-archive-2026-11-03.md`.
 
 Key: 🔴 blocked by someone else · 🟡 waiting on John · 🟢 moving · ⚪ not started
 
-## Today, Mon 9 Nov
-- **09:30** follow up ORS (Gerard Heffernan) on the UHL fire certificate if no reply by Fri 6 Nov.
-- **Wez Pooley:** business contact; John wants to call him at 3pm (confirm Monday); purpose not yet given.
-- **Mayor's office (MWCF):** chase for an indication on the council civic building before the Wed 11 Nov board; then update John Lawler and Máiréad. Joe (St Joseph's), Joe Hoare (HSE) and Gordon Kearney (Rooney Auctioneers) emails to send.
-- **Shane's sites (John, 9 Nov):** Táirseach property intelligence site (Shane's) expected complete and live this evening; SanCelvio site expected the same; John sharing SanCelvio screenshots. For noting only.
-- **Barry Scannell** is back at his desk today; reply to John's 5 Nov email awaited. Direct line +353 1 639 5393 (William Fry profile; John to confirm); no mobile held.
-- **Vinny Leonard:** holding note in Gmail drafts (promises a view by end of this week); comparison with UHL done (scratch/Vinny_Leonard_vs_UHL_Comparison_8Nov2026.pdf); Shane's alignment first.
-- **Mark Finlay:** ask Shane two questions (ODIN US introductions; personal orchestration build and price), then a short reply.
-- **UHL:** Audit Committee meeting with RSM being rescheduled (David Geoghegan to propose a date).
-- **Noesis:** John's printed pack for review: scratch/John_Noesis_Revised_Set_Changes_and_Open_Points_8Nov2026.pdf (John only) and scratch/Noesis_Fix_List_for_Shane_and_Pat_8Nov2026.pdf (to review before sharing). **8 Nov versions of Documents 1 and 3 are missing from the Drive folder: ask Shane to resend.** Not execution-ready.
-- **Wed 11 Nov 16:00 MWCF Board:** briefing printed (scratch/MWCF_Board_Briefing_Wed11Nov2026.pdf); prepare 10 minutes on property; confirm venue; sign acknowledgement.
-- **Tue 10 Nov evening:** Johnny meets Imran Rahim (NDA and background check first).
-- **Meridian LinkedIn:** short drafts ready (scratch/Meridian_LinkedIn_Drafts_8Nov2026.md); Drafts 1 and 2 await John's confirmations; ask the Meridian orchestration for three provable proof points. Decide Meridian hosting: Hosting Ireland card payment (14.70 euro, proforma 1989956) failed 8 Nov.
-- **Gmail drafts waiting for John (none sent by Cuan):** Vinny holding note; Malachy and Eamon introduction (confirm addresses); Neil follow-up (and Neil's 6 Nov reply about a fund-sourcing specialist needs an answer after Shane's view); Shane plain-English note; John Lawler documents request; David Geoghegan; Simon Carbery; Paul Dempsey; Joe Hoare; Gordon; Mark Power skeleton. To delete: Barry Scannell draft; stray draft to mairead@maireadodonnell.com.
-- **Personal:** slow cooker and the black 3XL gilet (options given); vet (Daisy) if not done; Campion premium loan application if not done.
+## Today, Tue 10 Nov
+- **FIRST: Jeep insurance.** Complete the Premium Credit / Campion finance application (Premium Credit app identity upload still outstanding; Campion's Amy McHale out until today, your 9 Nov query about the 97.43 euro AXA debit awaits her reply).
+- **12:30 Noesis signing meeting, Pat Carroll's office** (John, Shane, Pat): aim is to settle each structural decision and finalise the structures with stop/go conditions, owners and dates. Sign incorporations, business names and the Asterial bank account papers only, with final names. **Bring ORIGINAL passport, driving licence and Revenue letter** (Pat certifies; Bank of Ireland needs originals and a face-to-face meeting: ask who else must attend). Confirm the time (Pat's note says Shane comes in "this morning"). Shane was to send replacement company and business names yesterday afternoon.
+- **Your pack for the meeting (scratch/):** Noesis_Chairman_Direction_v2_9Nov2026.pdf; Noesis_Ten_Documents_Tracker_9Nov2026.pdf; Noesis_Fix_List_for_Shane_and_Pat_8Nov2026.pdf (needs a refresh for Docs 1 and 3); Asterial_Plan_John_OnePager_Tue10Nov2026.pdf; Noesis_and_My_Interests_Landscape_9Nov2026.pdf; Barry_Scannell_Fit_Read_9Nov2026.pdf; John_Master_List_v3_9Nov2026.pdf. Decide whether to share the tracker and fix list with Pat (cc Shane, Tom).
+- **Raise with Shane:** pool dilution (carved from Noesis 85% or pro rata); Kairos listed as a group subsidiary in Doc 1 but outside the group on his chart; cap table 86/8/6 vs Pat's 83/17; IP price and tax route; Barry Scannell scope (AI copyright and licensing only; tax and corporate need another lead).
+- **Wez Pooley:** business contact; confirm which call and purpose.
+- **UHL board Thu 12 Nov 10:30 (Teams): ratify the auditor.** Before it, speak to Keith Cronin (Cronin's Home Value, Ballylickey) and invite him onto the Audit and Risk Committee; email from UHL correspondence, mobile unknown.
+- **AHL:** BDO audit proposal email (timeline and fees); instruct David Geoghegan, cc Nicola, to issue the credit note for Shannonside, about 75,000 euro (say what it settles). Drafts in Gmail.
+- **Wed 11 Nov 16:00 MWCF Board, MWCF Support Centre, Mungret** (confirmed). Mayor's office acknowledged; the Head of Property Management will respond. Prepare 10 minutes on property; sign acknowledgement. Joe (St Joseph's), Joe Hoare (HSE), Gordon Kearney emails still to send.
+- **Errands:** pigeon food, Petmania Limerick (today on the way to Meelick? John to confirm the place, or Wednesday); Sheila McManus's will (died Nenagh, Jan 2025): get a copy before approaching the Probate Office.
+- **Midleton PCC:** commencement notice and money owed (Ilex Healthcare; Leviathan, Brian Ross and others); Gorey PCC progress; Ger Blake.
+- **Vinny Leonard:** Teams invite "AI in Sales" received (open it for the time); holding note in drafts; Shane's alignment first.
+- **Evening:** Johnny meets Imran Rahim (NDA and background check first).
+- **Meridian:** LinkedIn drafts 1 and 2 await confirmation; Hosting Ireland 14.70 euro payment failed 8 Nov.
+- **Gmail drafts waiting for John (none sent by Cuan):** Vinny holding note; Malachy and Eamon introduction (confirm addresses); Neil follow-up; Shane plain-English note; John Lawler documents request; David Geoghegan; Simon Carbery; Paul Dempsey; Joe Hoare; Gordon; Mark Power skeleton; November invoice. To delete: Barry Scannell draft; stray draft to mairead@maireadodonnell.com.
+- **Noted only:** Google Forward No. 05 pp1 to 18 logged; Shane's Tairseach and SanCelvio sites expected live 9 Nov.
 
 ## Tue 24 and Wed 25 Nov (plan from the 5 Nov handover)
 - Tue 24 Nov: 10:00 William Fry, Dublin (Barry Scannell, pending his reply); drive to Armagh for **14:00 Archbishop Eamon Martin, Childen** (John and Shane); stay in Dublin that night. Wed 25 Nov: UHL board meeting, probably 10:00.
