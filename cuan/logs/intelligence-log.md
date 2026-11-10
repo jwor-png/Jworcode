@@ -1181,3 +1181,6 @@ Vodafone trialling an AI business manager for SMEs (answers calls, books appoint
 
 ## 2026-11-09 [Cuan → Meridian] Google Forward No. 05: Architecting Europe's AI Future
 Captured from John's photographs (pp1 to 16). Google-published magazine on digital sovereignty, sovereign cloud, Intrinsic physical AI, Irish Revenue and Google Cloud seven-year partnership; cites Implement Consulting (1.2 to 1.4 trillion euro EU GDP upside), IDC (37% use sovereign cloud), about 20% EU enterprise AI use. Relevant to AI Strategy and Governance, Fiducia and investor control questions on Asterial. File: market_intel_google_forward_no05_nov2026.md. Vendor source, claims unverified.
+
+## 2026-11-10 [Cuan → Meridian] Systems Thinking carousel and Rundown AI headlines
+Instagram carousel (satya.creat, AI content) on five systems-thinking principles attributed to Donella Meadows; The Rundown AI headlines (Anthropic Fable 5.2 price cut, Meta undercutting on agent costs, Google chips). Relevant to AI Strategy and Governance framing and Velocity AI/Ambrion AI training content. File: market_intel_systems_thinking_carousel_rundown_nov2026.md. Unverified social and newsletter sources.
