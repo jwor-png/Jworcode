@@ -9609,3 +9609,5 @@ Shane: printed copies at the meeting; "Pat and I have agreed on a flow for this"
   3. **MWCF property (Limerick City and County Council, Jayne Leahy, Head of Property Services, 16:05):** asks John to say exactly what he is requesting (area, office space, meeting rooms) and whether he is only interested in the Dooradoyle area; tel 061 556316, mobile 085 7299173; cc Tina Knox. John to reply (ideally before the Wed 11 Nov 16:00 board).
   4. **MWCF board (John Lawler, 15:14):** proposes to invite and formally elect **Lisa Quinn** (marketing and brand volunteer, already working with Máiréad) at tomorrow's board meeting; asks for comments. **Linda Fahy** (HSE) sent apologies for tomorrow.
   Everything else was newsletters and promotions.
+
+- **10 Nov 2026 (evening), Indo Money page from John (no note):** logged for noting: `market_intel_indo_money_home_office_pension_property_nov2026.md` (map row and intelligence log added).

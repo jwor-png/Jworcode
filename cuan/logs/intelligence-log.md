@@ -1184,3 +1184,6 @@ Captured from John's photographs (pp1 to 16). Google-published magazine on digit
 
 ## 2026-11-10 [Cuan → Meridian] Systems Thinking carousel and Rundown AI headlines
 Instagram carousel (satya.creat, AI content) on five systems-thinking principles attributed to Donella Meadows; The Rundown AI headlines (Anthropic Fable 5.2 price cut, Meta undercutting on agent costs, Google chips). Relevant to AI Strategy and Governance framing and Velocity AI/Ambrion AI training content. File: market_intel_systems_thinking_carousel_rundown_nov2026.md. Unverified social and newsletter sources.
+
+## 2026-11-10 [Cuan → Meridian] Indo Money: home-office insurance, pension property on death, price-promotion rule, AI/data-centre regulation fears
+Irish Independent Indo Money column (Charlie Weston) plus market report: US mid-term fallout and expected tougher AI and data-centre regulation under a stronger Democratic Party; ISEQ 20 down 0.76%. Relevant to AI Strategy and Governance, Tairseach and Asterial investor timing, and AHL/UHL retail promotions (CCPC prior-price rule). File: market_intel_indo_money_home_office_pension_property_nov2026.md. Press report, unverified.
