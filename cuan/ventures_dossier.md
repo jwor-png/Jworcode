@@ -9645,3 +9645,16 @@ Source: 8-page PDF "Asterial: Investment Clean Up AI, Three Waves" (Private and 
 - **11 Nov 2026 (~14:20):** Word notes for the MWCF board produced for John to print: cuan/scratch/MWCF_Board_Notes_Wed11Nov2026.docx (and PDF).
 
 - **11 Nov 2026 (~14:30), correction:** Cuan had listed 'reply to Jayne Leahy' as an open action (from the 10 Nov 17:09 review, before John's 21:06 reply, and carried into the 11 Nov board refresh and briefing offer). John had already replied; board.md corrected to 'awaiting her reply'.
+
+---
+
+## John's brain dump, Wed 11 Nov 2026 (afternoon; dictation, Cuan's readings in brackets)
+
+- **Done/closed:** BDO (Joanne Mallon) acknowledged, will do AHL return paperwork Thu 12 Nov; the **97.43 euro** AXA refund came back into Majella's account (10 Nov); John replied to **Eileen Kelly** that they are not attending the wedding; replied to Barry Scannell; emailed Tom Stapleton (D&O, Marsh, risk register).
+- **Tonight:** WhatsApp introducing **Joe Hanrahan and Jimmy Conway** "regarding the cancer" (spellings as dictated; purpose to confirm); **Pet Mania** online order; email introducing **Malachy Harkin and Eamon Eastwood** (draft in Gmail).
+- **Noesis ("Oasis"):** papers from Tuesday's meeting to share; Pat Carroll's emails, especially the **shareholders' agreement** (template SH003, 9 Nov) he intends to use; John to review the other documents from Shane (voice note planned). **Barry Scannell:** John replied to meet at the **Marker Hotel ("Marco") at 10:00 on 24 Nov**, before travelling to Armagh to meet Archbishop Martin; Barry's confirmation awaited. **Announcement** on Noesis (when, how, why) to discuss further; **term sheet awaited**, expected within about a fortnight per messages between Diarmuid Hudner ("Dermot") and Shane.
+- **Outreach:** Iwona ("I-W-O-N-A", met at the "Armad" Hotel [Armada Hotel?], due back in November): LinkedIn; **Joe Costlow and Mike Mulville** (spellings unconfirmed): arrange to meet.
+- **Research:** data centre detail built up, especially the **artifact Shane made for Malachy** (John sent it on) and the **eSIM** details (Malachy's eSIM business). Not seen by Cuan: ask John to save or forward (Cuan's Gmail search for them was stopped).
+- **Sheila McManus, copy of will form:** John printed the form and has a cheque. Cuan holds (from the 21 Sept record): Sheila McManus (née Cahill), 6 Ciamaltha Meadows, Nenagh; died 24 Jan 2025; **Grant of Probate issued 28 July 2026** (John recalled early August); ref **2026 PO 5556**; executors Patrick Heffernan, Diarmuid Cahill, Breda Oxley; solicitors Francis B. Taaffe and Co., Athy. John's understanding: a death in Nenagh means the application went to the probate registry in **Clonmel**; not verified by Cuan. Applicant Majella (John says "Magella"), Spittal House, Portauns, Kilmallock; phone given by John (not stored). John fills in the form; continues tomorrow.
+- **Barber Republic:** Johnny Shanahan and Neil Dignam met Imran Rahim on Tuesday night; John has heard nothing back. **Zoom Fri 13 Nov, 6pm** with the two American gentlemen concerning Barber Republic.
+- Output: updated brain dump page `cuan/scratch/John_Brain_Dump_Page_v4_11Nov2026.docx` (and PDF).
