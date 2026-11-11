@@ -9634,3 +9634,5 @@ Source: 8-page PDF "Asterial: Investment Clean Up AI, Three Waves" (Private and 
   4. **BDO (AHL annual return):** John acknowledged at 12:01 and will deal with the documents tomorrow (Thu 12 Nov). Deadline still 25 Nov.
   5. **MWCF:** Linda Fahy (HSE) supports electing Lisa Quinn (reply 11:02).
   6. Routine: Transparency Task Force "Ireland Matters" weekly Zoom today 1pm (Alex Zitkus reminder). Rest newsletters and promotions.
+
+- **11 Nov 2026 (13:20), MWCF board prep:** John asked for bullet points for his 10-minute introduction and the decisions requested; relying on Cuan's summary (has not read John Lawler's or Máiréad's emails). Cuan found no agenda in Gmail ('Agenda to follow' on the invite); board pack thread 'Board Pack for Meeting 11/11 at 4pm' exists; John Lawler's 'DITL MWCF' draft (9 Nov) awaits John's comments; Governance Documents circulated 4 to 6 Nov; Lisa Quinn election proposed 10 Nov (Linda Fahy supports; she sent apologies for the meeting). John's stance: no challenges today; give decisions where requested; observe the individuals; continue the property focus; offer governance and risk experience (UHL Audit and Risk chair).
