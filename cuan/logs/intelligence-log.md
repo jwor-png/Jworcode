@@ -1187,3 +1187,6 @@ Instagram carousel (satya.creat, AI content) on five systems-thinking principles
 
 ## 2026-11-10 [Cuan → Meridian] Indo Money: home-office insurance, pension property on death, price-promotion rule, AI/data-centre regulation fears
 Irish Independent Indo Money column (Charlie Weston) plus market report: US mid-term fallout and expected tougher AI and data-centre regulation under a stronger Democratic Party; ISEQ 20 down 0.76%. Relevant to AI Strategy and Governance, Tairseach and Asterial investor timing, and AHL/UHL retail promotions (CCPC prior-price rule). File: market_intel_indo_money_home_office_pension_property_nov2026.md. Press report, unverified.
+
+## 2026-11-11 [Cuan → Meridian] Press batch: McWilliams (Trump, K-shaped economy, AI and electricity prices; vacant towns), pensions, payment-fraud rise, Property Links
+Irish Times Weekend McWilliams columns (US political and AI/data-centre risk; Irish town vacancy 30,611 units), Irish Country Living (pension consolidation; AIB payment fraud +55%), Irish Farmers Journal resilience, Business Post Property Plus (Property Links, Blocworx, 500k raise). Relevant to AI Strategy and Governance, Tairseach, cyber awareness. File: market_intel_press_batch_11nov2026.md. Press reports, unverified.
