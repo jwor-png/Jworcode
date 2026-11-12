@@ -1190,3 +1190,6 @@ Irish Independent Indo Money column (Charlie Weston) plus market report: US mid-
 
 ## 2026-11-11 [Cuan → Meridian] Press batch: McWilliams (Trump, K-shaped economy, AI and electricity prices; vacant towns), pensions, payment-fraud rise, Property Links
 Irish Times Weekend McWilliams columns (US political and AI/data-centre risk; Irish town vacancy 30,611 units), Irish Country Living (pension consolidation; AIB payment fraud +55%), Irish Farmers Journal resilience, Business Post Property Plus (Property Links, Blocworx, 500k raise). Relevant to AI Strategy and Governance, Tairseach, cyber awareness. File: market_intel_press_batch_11nov2026.md. Press reports, unverified.
+
+## 2026-11-12 [Cuan → Meridian] The Echo: Circular.ie community circular economy and Macroom hospitality-textiles workshop
+Echo opinion (Eibhlin Fitzpatrick, Circular.ie): community circular initiatives, what support looks like (grants, volunteer recognition, local authorities treating them as infrastructure), Full Circle Awards, Connecting Communities events, Irish Design Week 2026 partnership; workshop Fri 13 Nov at Castle Hotel Macroom (Ailis Crowley, FASH Forward). General background; limited tie to Tangible Ireland Group, MWCF and SME training content. File: market_intel_circular_ie_macroom_echo_nov2026.md. Opinion and event notice, unverified.
