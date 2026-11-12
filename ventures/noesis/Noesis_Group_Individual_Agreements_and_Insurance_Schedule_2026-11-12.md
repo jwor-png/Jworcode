@@ -232,14 +232,17 @@ D&O policies have three insuring agreements: **Side A** (the individual, when th
 
 ---
 
-# 7. Inputs I need, and only these
+# 7. Employer mapping (as John stated on 12 November, subject to confirmation) and what is still needed
 
-1. For each of the five officers, the **employing company** and whether they are an **employee, office-holder or consultant**.
-2. The **name of the London firm** and, when known, the investing entity and the investment manager.
-3. Whether the group already has a **broker**.
-4. Whether any **employees or contractors outside Ireland** are planned in the next six months.
+| Person | Employer | Note |
+|:----------------|:-------------------|:--------------------------------------------------|
+| Shane McCarthy | Noesis and Asterial | Two employers: fix the split of time, pay and duties, or one primary employer plus a services agreement. |
+| Tom Stapleton | Noesis and Asterial | Same. Dual-role or secondment letter. |
+| Pat Carroll | Noesis only | Asterial's finance work is done under an intragroup services agreement. |
+| John Webb O'Rourke | Noesis only | Record his offices precisely (Chairman, director, secretary). Asterial needs its own secretary. |
+| Diarmuid (Dermot) Hudner | Asterial only | Spelling to confirm. |
 
-I will not ask about shareholdings or formation again.
+**Still needed:** the London firm's name; the investing entity and investment manager when known; William Fry as lead Irish counsel (Dr Barry Scannell, Dublin), with London for English-law and investor-side matters, subject to conflicts clearance; Marsh Dublin as broker (contact Mark Doherty, Corporate Practice, who should introduce the FINPRO and cyber specialists); and a decision on remote staff (see the readiness briefing, section 8: do not add overseas hires before completion unless through an employer of record or a contractor with a signed assignment).
 
 ---
 
