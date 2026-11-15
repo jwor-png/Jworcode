@@ -1223,3 +1223,6 @@ Economist on Meta Muse and Instinct (agents, guardrails, business access, prompt
 
 ## 2026-11-15 [Cuan → Meridian] Sunday Independent: "The Seven Deadly Feelings" (Maura Carey); mobile-deal pages repeated
 Three pages of the Sunday Independent Life feature on begrudgery, shame, anger, dread, anxiety, resentment and denial (personal-development reference); the two Irish Mail on Sunday mobile and Ask Acorn pages repeat the earlier batch. File: market_intel_seven_deadly_feelings_nov2026.md. Opinion, not evidence.
+
+## 2026-11-15 [Cuan → Meridian] Sunday Independent: Gina London on leadership, values and behaviours
+Gina London "The Communicator" (15 Nov): invitation over instruction, values tested under pressure, speak-up culture built by habits, awareness-desire-discipline; US politics hook is the author's view. Fifth column logged. Supports John's Noesis governance role, UHL ARC, MWCF and training content. File: market_intel_gina_london_values_nov2026.md. Opinion.
