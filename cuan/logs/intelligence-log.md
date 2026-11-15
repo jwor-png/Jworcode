@@ -1205,3 +1205,6 @@ Irish Independent "What happens to Ireland if the AI bubble bursts?" (internatio
 
 ## 2026-11-15 [Cuan → Meridian] Photo batch 3: personal-development material (shame column, diary extract, Brian Tracy quote cards); repeats of local-press photos
 Local psychotherapy column on shame, a diary extract and ten Brian Tracy quote cards (clarity, written goals, discipline, habits); the first four photos repeat batch 2. No venture tie; filed for the John Personal Compass. File: market_intel_batch3_15nov2026.md. Quotations and opinion, not evidence.
+
+## 2026-11-15 [Cuan → Meridian] Photo batch 4: Barber Republic Zoom photo, Reuzel-linked barber profile, founder-risk carousel, AI fellowship list, salary meme, quote cards
+iPad photo of the Barber Republic Zoom with Johnny Shanahan, Neil Dignam, Rob Wilcox, Shane McCarthy, David Raccuglia (no notes given); Instagram profile of Robert-Jan Rietveld (Reuzel); Munger's Liquor, Ladies and Leverage carousel; AI Builder Brief deadlines; semi-state CEO pay meme (repeat); four Brian Tracy cards. File: market_intel_batch4_15nov2026.md. Social media, unverified.
