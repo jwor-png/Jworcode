@@ -1220,3 +1220,6 @@ Social media only: AI-painted wealth-and-order carousel (misattributed Musk quot
 
 ## 2026-11-15 [Cuan → Meridian] Photo batch 8: Economist on personal AI assistants (Muse, Instinct), sponsored AI-at-work and CergenX pieces, lung screening pilot, Indo Money family finance, Dear Vicki, desk-calendar quotes
 Economist on Meta Muse and Instinct (agents, guardrails, business access, prompt injection); sponsored Irish Independent AI-at-work statistics (CSO, McKinsey, WEF) and CergenX newborn-EEG AI (CE Mark Sept 2026); Beaumont RCSI Lung Health Check survivor story (MWCF relevance); Indo Money 31 Oct on side hustles, Personal Investment Account with the small gift exemption, and saving for children; Dear Vicki on workload; Snamhai Sasta quotes; barramulligan scrap-power profile. File: market_intel_batch8_15nov2026.md. Press and sponsored claims, unverified.
+
+## 2026-11-15 [Cuan → Meridian] Sunday Independent: "The Seven Deadly Feelings" (Maura Carey); mobile-deal pages repeated
+Three pages of the Sunday Independent Life feature on begrudgery, shame, anger, dread, anxiety, resentment and denial (personal-development reference); the two Irish Mail on Sunday mobile and Ask Acorn pages repeat the earlier batch. File: market_intel_seven_deadly_feelings_nov2026.md. Opinion, not evidence.
