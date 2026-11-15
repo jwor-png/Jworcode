@@ -1208,3 +1208,6 @@ Local psychotherapy column on shame, a diary extract and ten Brian Tracy quote c
 
 ## 2026-11-15 [Cuan → Meridian] Photo batch 4: Barber Republic Zoom photo, Reuzel-linked barber profile, founder-risk carousel, AI fellowship list, salary meme, quote cards
 iPad photo of the Barber Republic Zoom with Johnny Shanahan, Neil Dignam, Rob Wilcox, Shane McCarthy, David Raccuglia (no notes given); Instagram profile of Robert-Jan Rietveld (Reuzel); Munger's Liquor, Ladies and Leverage carousel; AI Builder Brief deadlines; semi-state CEO pay meme (repeat); four Brian Tracy cards. File: market_intel_batch4_15nov2026.md. Social media, unverified.
+
+## 2026-11-15 [Cuan → Meridian] Threads reflections: Aurelius, Camus, Sapolsky stress thread
+Sixteen phone screenshots of Threads reflection posts (Marcus Aurelius on time and death, Camus on meaning, Sapolsky-based stress tips with an open-loops exercise, a monk-style post). Personal-development reference only; no venture tie. File: market_intel_threads_reflections_15nov2026.md. Opinion and unverified health claims.
