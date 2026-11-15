@@ -1214,3 +1214,6 @@ Sixteen phone screenshots of Threads reflection posts (Marcus Aurelius on time a
 
 ## 2026-11-15 [Cuan → Meridian] Photo batch 6: Dairy Day income volatility, FT stolen-passwords column, income protection ad, health-insurance gap Q&A; rest repeats
 New: Dairy Day 2026 (MTU) on dairy income volatility and risk tools; FT Guthrie on password theft and fraud; Threads income-protection ad; NFP Ireland on health-insurance gaps and group-scheme waivers. File: market_intel_batch6_15nov2026.md. Press and marketing claims, unverified.
+
+## 2026-11-15 [Cuan → Meridian] Photo batch 7: social screenshots (order and wealth carousel, eight habits, Vonnegut letter, Garth Brooks and public pay deal numbers)
+Social media only: AI-painted wealth-and-order carousel (misattributed Musk quote), Stijn Noorman's eight habits, Vonnegut's letter, mushroom coffins, Garth Brooks Ireland 2027 numbers, the draft public-sector pay deal, a travel-charger ad. Personal-development and context only. File: market_intel_batch7_social_15nov2026.md. Unverified.
