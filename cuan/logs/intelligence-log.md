@@ -1217,3 +1217,6 @@ New: Dairy Day 2026 (MTU) on dairy income volatility and risk tools; FT Guthrie 
 
 ## 2026-11-15 [Cuan → Meridian] Photo batch 7: social screenshots (order and wealth carousel, eight habits, Vonnegut letter, Garth Brooks and public pay deal numbers)
 Social media only: AI-painted wealth-and-order carousel (misattributed Musk quote), Stijn Noorman's eight habits, Vonnegut's letter, mushroom coffins, Garth Brooks Ireland 2027 numbers, the draft public-sector pay deal, a travel-charger ad. Personal-development and context only. File: market_intel_batch7_social_15nov2026.md. Unverified.
+
+## 2026-11-15 [Cuan → Meridian] Photo batch 8: Economist on personal AI assistants (Muse, Instinct), sponsored AI-at-work and CergenX pieces, lung screening pilot, Indo Money family finance, Dear Vicki, desk-calendar quotes
+Economist on Meta Muse and Instinct (agents, guardrails, business access, prompt injection); sponsored Irish Independent AI-at-work statistics (CSO, McKinsey, WEF) and CergenX newborn-EEG AI (CE Mark Sept 2026); Beaumont RCSI Lung Health Check survivor story (MWCF relevance); Indo Money 31 Oct on side hustles, Personal Investment Account with the small gift exemption, and saving for children; Dear Vicki on workload; Snamhai Sasta quotes; barramulligan scrap-power profile. File: market_intel_batch8_15nov2026.md. Press and sponsored claims, unverified.
