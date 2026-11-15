@@ -7,3 +7,6 @@
 - Two stray posts: tasmeraki ("Mentally prepared? Yes. Emotionally equipped? Absolutely not.") and a reply from scottwarwicklindsay; no content.
 
 **Use:** filed for the John Personal Compass (`personal_development.md`); nothing for any venture; no action. John's recent posts follow a theme (time, clarity, living now; Daisy, a long Noesis week), so a light check-in rather than a work reminder is appropriate; nothing is implied beyond that.
+
+## Addendum (15 Nov 2026, 22:25 phone clock): levelupwithfriend, "10/10 psychology rabbit holes worth going down this year" (Threads, 13.6K views; seven parts, first six shown)
+1. Hedonic adaptation (we get used to good things; happiness drifts back); 2. Neuroplasticity (the brain rewires on what you repeat, at any age); 3. Entropy (room, schedule and habits drift into chaos unless you keep putting energy in); 4. **The Zeigarnik effect** (the brain holds on to unfinished tasks more than finished ones; writing a task down helps it let go: the same open-loops idea as the Sapolsky thread and John's brain dump); 5. The spotlight effect (people notice us far less than we assume); part 7 not shown. Popular-psychology summary; claims simplified and unverified. Personal-development reference only; no action.
