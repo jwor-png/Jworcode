@@ -1211,3 +1211,6 @@ iPad photo of the Barber Republic Zoom with Johnny Shanahan, Neil Dignam, Rob Wi
 
 ## 2026-11-15 [Cuan → Meridian] Threads reflections: Aurelius, Camus, Sapolsky stress thread
 Sixteen phone screenshots of Threads reflection posts (Marcus Aurelius on time and death, Camus on meaning, Sapolsky-based stress tips with an open-loops exercise, a monk-style post). Personal-development reference only; no venture tie. File: market_intel_threads_reflections_15nov2026.md. Opinion and unverified health claims.
+
+## 2026-11-15 [Cuan → Meridian] Photo batch 6: Dairy Day income volatility, FT stolen-passwords column, income protection ad, health-insurance gap Q&A; rest repeats
+New: Dairy Day 2026 (MTU) on dairy income volatility and risk tools; FT Guthrie on password theft and fraud; Threads income-protection ad; NFP Ireland on health-insurance gaps and group-scheme waivers. File: market_intel_batch6_15nov2026.md. Press and marketing claims, unverified.
