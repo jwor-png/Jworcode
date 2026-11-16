@@ -9769,3 +9769,9 @@ Origin: 19 Oct 06:35 UTC, David Geoghegan forwarded letter from Smiths of Killuc
 - Nicola's shareholder list email: Sat 6 Sep 2025 16:43 UTC, "Associated Hardware AGM Notice 2025", message 1991fe9d8355cfd3; attachment (Trading Member List 20240618) has no Gort or O'Boyle entry, only Tim Cahill Limited (Active, Kilmallock).
 - R.B. Coogan Limited, Castleblayney, is row 35 of the 2022 Active list.
 - Next: John replies to Joanne Mallon (BDO) linking the two; Cuan to draft on request.
+
+### 16 Nov 2026 17:08 UTC review (Gmail)
+- AHL / Cahill: John emailed Ignatius Cahill 16:24 UTC (thread 19d96d4355cc2ba5, message 1a1e52cb8b0ed227): asks whether Conor O'Boyle has already formally transferred the shares to him, before BDO prepares more paperwork. Says O'Boyle's letter states the register needs changing once the Board ratifies at its next meeting. Awaiting Ignatius's reply. Hold the Joanne Mallon reply until he answers.
+- Noesis / Asterial: Shane emailed Andrew Sharkey 15:36 UTC (message 1a1e501354a85b14) a preliminary NDA (Asterial_Andrew_Sharkey_NDA) ahead of the meeting with John; full NDA to follow after the call. John bcc'd. Not yet read by Cuan beyond cover note.
+- Vinny Leonard: Teams invite "Sales AI Solution" received 10:10 UTC (date and time of meeting not captured).
+- Hosting Ireland proforma invoice 16 Nov (card ending 1144 on file); Premium Credit request still unconfirmed with Campion. Rest newsletters and promotions.
