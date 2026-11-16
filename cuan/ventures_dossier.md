@@ -9782,3 +9782,10 @@ Origin: 19 Oct 06:35 UTC, David Geoghegan forwarded letter from Smiths of Killuc
 - The Friday 13 Nov evening Zoom was Johnny, Shane, John, Rob Wilcox and his partner Dave (Americans). Notes of the call still not recorded.
 - John's view (dictated): there should be a US version of Barber Republic that Rob and Dave drive in the geographies they serve, including South America.
 - Open for John and Shane (no commitment before Shane's alignment): structure of a US version (licence or franchise versus separate company), who owns the IP (Phase One MVP Development Agreement of 17 Aug 2026 on file), roles and economics for Rob, Dave and Leen, and Barber Republic funding. Hatch (UK funder) and Skiddle items remain.
+
+### 16 Nov 2026 (night) Daily page v4 changes and new items
+- Shane asked John to nominate 3 directors to Noesis and Asterial, or Asterial only: John to think (no decision).
+- John to set up the 20 euro monthly plan on his second phone (not yet done).
+- Removed from page at John's instruction: McManus probate (applied for), Premium Credit Jeep (decision pending), Fitzgerald TV (Owen supplied a second-hand TV), Dermot Kehoe (spoke Fri; nothing more; related to United Hardware).
+- Fire certificate for Magna Drive is an AHL matter (AHL owns the building); Gerard Heffernan, ORS; chased 16 Nov.
+- AHL premises-sale advice: thread 1a0a5438bd08e8bb, "AHL Plc: Premises, Shareholding & Related Matters". John asked Peter Doherty and David O'Connor (BDO, Simon Carbery cc) on 15 Sep; Peter replied 17 Sep (EGM special resolution, 21 days' notice; UH shares likely repaid only on a UH winding up; rebates accrual about 1.35m to be discussed; share transfers straightforward; internal share trades a matter for the parties; CGT needs base cost and losses, tax team to advise). John replied 21 Sep that it was sufficient for now and he would revert after the AGM. Reply still owed.
