@@ -1229,3 +1229,6 @@ Gina London "The Communicator" (15 Nov): invitation over instruction, values tes
 
 ## 2026-11-16 [Cuan → Meridian] Dear Vicki (Vicki O'Toole): SME cost pressure
 Photo of the column on rising employer costs: know gross margin, cost each service, remove admin and duplication, define what the fee includes and charge for extras, talk to clients and suppliers. Reference for Meridian and Ambrion pricing and Barber Republic economics. File: market_intel_dear_vicki_sme_costs_nov2026.md. Opinion.
+
+## 2026-11-16 [Cuan → Meridian] Google sponsored feature: tradesman and Gemini
+Two photographed pages (sponsored content): Epsom sole trader uses Gemini for customer emails by voice, social posts, mock-ups, booking; Google statistics quoted (unverified). Reference for Velocity AI training and SME AI stories. File: market_intel_google_ai_tradesman_nov2026.md. Marketing, not evidence.

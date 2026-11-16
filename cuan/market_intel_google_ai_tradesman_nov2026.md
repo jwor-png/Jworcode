@@ -1,0 +1,8 @@
+# "That's Handy": Daniel Smoker, Epsom sole trader, on using Google Gemini (John's photos of a newspaper feature, 16 Nov 2026; no note). SPONSORED CONTENT by Google ("AI Works for Britain"); marketing, not independent reporting.
+
+- **Subject:** Daniel Smoker, Surrey-based builder and property maintenance sole trader (finalist, Screwfix Top Tradesperson). Left school in Year 10, struggled with reading and writing; admin was the burden (cost estimates 7pm to 9pm).
+- **Uses of Gemini (as he describes them):** speaks to it instead of handwritten notes; it turns his words into clear, professional customer emails; suggests extras to mention (for example dustless sanding); writes social posts and blogs for a website under a year old; image generation for digital mock-ups of colour choices before painting; automated online booking system. Says he wins eight jobs in ten because he responds quickly.
+- **Google statistics quoted (UNVERIFIED, Google's own research):** advanced users could save up to 7.7 hours a week on admin; 71 per cent of construction workers eager to learn AI, only 16 per cent extracting significant value; AI could add up to 400 billion pounds to the UK economy by 2030; SMEs are half of private-sector turnover. Programme: AI Works for Britain, in-person pop-ups for trades and 10-minute "AI Boost Bites" videos; grow.google.
+- **Quote:** "It's another tool in the toolbox, isn't it?"
+
+**Use:** a clean example of the small-business, voice-first AI case relevant to Velocity AI training, Meridian and Ambrion service stories, and Barber Republic (trades and service operators). The value shown is speed of response and admin time saved, not technology. Treat the statistics as Google marketing until sourced. No action.
