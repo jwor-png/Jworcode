@@ -9775,3 +9775,10 @@ Origin: 19 Oct 06:35 UTC, David Geoghegan forwarded letter from Smiths of Killuc
 - Noesis / Asterial: Shane emailed Andrew Sharkey 15:36 UTC (message 1a1e501354a85b14) a preliminary NDA (Asterial_Andrew_Sharkey_NDA) ahead of the meeting with John; full NDA to follow after the call. John bcc'd. Not yet read by Cuan beyond cover note.
 - Vinny Leonard: Teams invite "Sales AI Solution" received 10:10 UTC (date and time of meeting not captured).
 - Hosting Ireland proforma invoice 16 Nov (card ending 1144 on file); Premium Credit request still unconfirmed with Campion. Rest newsletters and promotions.
+
+### 16 Nov 2026 (evening) Barber Republic: US involvement
+- Source: WhatsApp screenshot, Johnny Shanahan, 16 Nov 14:55, and his email to Rob Wilcox (15:06). Johnny asked John whether to follow up with Rob; John replied with a "100" emoji (yes).
+- Johnny's email to Rob: thanks for Friday's time and feedback; hopes to keep the conversation open over the next few weeks as the app nears completion; says the involvement of Rob, Dave and Leen at a deeper level than support would make BR "a real world beater" and "a full intelligence layer for the whole industry". Asks for Rob's thoughts.
+- The Friday 13 Nov evening Zoom was Johnny, Shane, John, Rob Wilcox and his partner Dave (Americans). Notes of the call still not recorded.
+- John's view (dictated): there should be a US version of Barber Republic that Rob and Dave drive in the geographies they serve, including South America.
+- Open for John and Shane (no commitment before Shane's alignment): structure of a US version (licence or franchise versus separate company), who owns the IP (Phase One MVP Development Agreement of 17 Aug 2026 on file), roles and economics for Rob, Dave and Leen, and Barber Republic funding. Hatch (UK funder) and Skiddle items remain.
