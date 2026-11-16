@@ -1226,3 +1226,6 @@ Three pages of the Sunday Independent Life feature on begrudgery, shame, anger, 
 
 ## 2026-11-15 [Cuan → Meridian] Sunday Independent: Gina London on leadership, values and behaviours
 Gina London "The Communicator" (15 Nov): invitation over instruction, values tested under pressure, speak-up culture built by habits, awareness-desire-discipline; US politics hook is the author's view. Fifth column logged. Supports John's Noesis governance role, UHL ARC, MWCF and training content. File: market_intel_gina_london_values_nov2026.md. Opinion.
+
+## 2026-11-16 [Cuan → Meridian] Dear Vicki (Vicki O'Toole): SME cost pressure
+Photo of the column on rising employer costs: know gross margin, cost each service, remove admin and duplication, define what the fee includes and charge for extras, talk to clients and suppliers. Reference for Meridian and Ambrion pricing and Barber Republic economics. File: market_intel_dear_vicki_sme_costs_nov2026.md. Opinion.
