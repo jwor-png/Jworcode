@@ -1241,3 +1241,6 @@ Photo of the Grafton Group (Chadwicks, Woodie's) trading update: Ireland like-fo
 
 ## 2026-11-17 [Cuan → Meridian] Irish venture funding at a decade low
 Photo of Adrian Weckler's report (IVCA data): Q3 Irish venture cash down 45pc to 114m euro; international VC down 76pc; 1m to 5m deals most affected; full-year below 1bn euro for the first time since 2020; Enterprise Ireland Seed and Venture Capital Scheme funds forming. Context for the Asterial raise (20m to 22.5m euro, overseas investor). File: market_intel_irish_venture_funding_nov2026.md. Figures as reported, unverified.
+
+## 2026-11-17 [Cuan → Meridian] Futura Innovation Conference, Limerick (Oct 2026)
+Two photographed supplement pages (Limerick Post, 10 Oct 2026): Futura Innovation Conference, 19 to 21 Oct 2026; seven tracks, 200+ speakers, Microsoft keynote on AI agents and human agency, AI Governance and Strategy house, Angel Investors House. Event has passed; networking and governance-language reference. File: market_intel_futura_innovation_conference_oct2026.md. Promotional.

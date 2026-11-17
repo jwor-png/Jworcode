@@ -1,42 +1,9 @@
----
-title: Futura Innovation Conference, Limerick — 19-21 October 2026
-source: Instagram Story (alexchernenko), captured 21 Oct 2026, conference partner board photographed in person
-filed: 2026-10-21
-tags: [limerick, innovation-ecosystem, startup, ai, tangible-ireland, meridian]
-managers: [Ideas & Opportunities, Commercial & Board Roles]
-status: reference
----
+# Futura Innovation Conference, Limerick, 19 to 21 October 2026 (Limerick Post supplement, Sat 10 Oct 2026, pp.32 and 33; John's photos, 17 Nov 2026; no note). Promotional content, claims as stated by the organisers, UNVERIFIED. The event date has passed.
 
-# Futura Innovation Conference — Limerick, 19-21 Oct 2026
+- **What:** inaugural conference across Limerick City Centre venues; 200+ speakers, 100+ sessions, 15+ countries, 10+ venues; seven interconnected tracks: Transport and Aerospace, Innovative Technologies, Culture Media and Entertainment, Enterprise, AgTech and Sustainability, MedTech and Life Sciences, Infrastructure and Logistics. Keynotes, panels, workshops, startup programming and investor meetings; also university commercialisation, food innovation, space technology, women in investment and entrepreneurship.
+- **Featured keynote:** Matthew Loys Duncan, Microsoft: "The New Operating Model: Balancing AI Agents and Human Agency".
+- **Programme samples:** "You Don't Need a Rocket to Build in Space" (Stephan Reckie, Robert Hill); "What Does 10 Billion People Actually Eat?" (Sophie Cooney, Boyne Valley Food Innovation District); "The Future of Immersive Experiences" (XR); "Reclaiming Privacy" (Dane Stangler).
+- **Beyond the main programme:** sector houses (Funded House, MedTech House, Start-up House, Talent Upskilling, Angel Investors House, University Commercialisation, Food Innovation, AI Governance and Strategy, Entrepreneurship Educator Breakfast), investor gatherings, policy discussions.
+- **Who was named:** Microsoft, H&MV Engineering, Port of San Diego (USA), Imperial College London, GEN Space, Digital Catapult, Unchained Music, Tech Access Canada, Innovation City Belfast, LSE. Partners listed include Limerick City and County Council, Ingenium, Awaken Angels, State of Maryland, Eirmersive, HM&V Engineers, Tampa Bay Wave, Civitas AI, Venture Builders, Matrix, Ireland Portugal Business Network. Brendan Troy (Limerick City and County Council) quoted on Limerick as a destination for innovation, investment and business tourism.
 
-**What it is:** billed as a "Global Innovation Event Where Ideas
-Ignite the Future," held in Limerick 19-21 October 2026 — running
-this week.
-
-**Named partners/exhibitors on the welcome board (not exhaustive, as
-photographed):** Limerick City & County Council, Ingenium, the State
-of Maryland (US), Altravia Venture Studio, Austin-Limerick Sister
-City, Avtrain, Awaken Angels, Boyne Valley Food Innovation District,
-**CivitasAI**, Connectology, CREW, Eirmersive, everhaze, Fáilte
-Ireland, Funded House, Future Mobility, GVN, H&MV Engineering,
-Innovate Limerick, Innovation City Belfast, Limerick, Institute for
-Work & the Economy, Ireland-Portugal Business Network, Irish BICs,
-Irish Business Network, Limerick Chamber, Business Post, Matrix,
-SPARC, North East Combined Authority (UK), Port of San Diego, RDI
-Hub, River Sentry, Shannon Region, Tampa Bay Wave, Tech-Access Canada,
-TUS (Technological University of the Shannon), Ulster University,
-Venture Builders, XR HQ, Exilory Partners.
-
-**Relevance:** a live, current snapshot of the Limerick/mid-west
-innovation ecosystem — useful general awareness for Tangible Ireland
-Group's Kilmallock/Limerick relationship-capital work and Meridian's
-own Ideas & Opportunities tracking. **CivitasAI** and **Awaken
-Angels** stand out as the most directly relevant names (an AI-named
-entity and an angel-investor network respectively) — worth a quick
-look if either turns out to be a genuine prospect/partner/funding
-route, not yet researched beyond the name appearing on this board.
-
-**Verification note:** captured from a single photographed conference
-signage board via a third party's Instagram Story — partner list is
-as displayed, not independently verified against the event's own
-website.
+**Use for John:** (1) the "AI Governance and Strategy" house and the keynote on AI agents and human agency match the Noesis and ODIN governance language ("AI driven, human led"); (2) Angel Investors House and investor meetings are a local route to Irish investors if needed alongside the Asterial raise; (3) Limerick-based event for Meridian, Childen and Noesis networking if a 2027 edition runs. Not known whether John attended. No action.
