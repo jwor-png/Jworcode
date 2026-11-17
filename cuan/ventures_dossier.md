@@ -9827,3 +9827,15 @@ Shane's message (as relayed from his contact; wording his): no problem with the 
 
 ### 17 Nov 2026: correction on the EU fund (John)
 The investor side is opening an EU fund, but the money still comes as previously agreed: from the UK to the Asterial bank account, not through the EU fund (agreed). This corrects the earlier implication that the investing entity may change: the UK-to-Asterial route stands; the ownership chain, source-of-funds questions and bank KYC pack are as before for the UK vehicle. Sterling receipt is fine.
+
+### 17 Nov 2026 (afternoon): John's dictated catch-up
+- OSM Partners letter: John replied; it is a legacy debt, one of a number of them. He needs to update Mark Power (dictation Wed 18 Nov). Logged under the residual-debt thread.
+- Pet Mania order (4203501, 58.97 euro): personal, feed for his racing pigeons at home (his hobby).
+- MWCF: John replied to John Lawler (signed acceptances and skills form sent 12:35 UTC). John introduced Jimmy Conway and Joe Hanrahan by email as part of his MWCF role: Jimmy, a local friend in remission from cancer, gives informal counselling to friends; Joe was recently diagnosed. They are now talking to each other. Health details of third parties: keep within John's private files.
+- Introduction sent: Malachy Harkin to Eamon Eastwood (spelling rule: M-A-L-A-C-H-Y).
+- WhatsApp to Michael Durkan (John said "Durkin"; Gmail contacts show Durkan): offered him John's ticket for the Sanctuary event next Sunday night (22 Nov), a fundraiser in Dublin with Brian O'Reilly. Whether this is linked to the "Sanctuary: No Way Out" film investment draft is not known (UNVERIFIED).
+- Barry Scannell (William Fry): no reply yet; John to follow up (Wed 18 Nov) to confirm Tue 24 Nov 10:00 in Dublin, given the 14:00 Armagh meeting with Archbishop Martin the same day (about a 4 hour drive; allow for it).
+- Noesis: John will come back to the update; Cuan has already acted on Shane's message (timeline, bank urgency, EU fund correction).
+- New plan: "The Lonesome West" amateur drama, Shoestring Theatre, Charleville, towards the end of November (date and tickets to confirm).
+- AHL: email Sean Burton (Kanturk) the 2025 accounts and other details.
+- Ambrion and Velocity: sort out the conflicts arising in the Ambrion and Velocity emails once and for all (John has been putting it off). To scope when John dictates what the conflicts are (domain, Gmail script, mailbox or role conflicts).
