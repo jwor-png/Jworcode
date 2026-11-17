@@ -1238,3 +1238,6 @@ Photo of The Echo p.11: how to spot common scams (Denise O'Donoghue); home tech 
 
 ## 2026-11-17 [Cuan → Meridian] Grafton trading update for UHL 2027 budget review
 Photo of the Grafton Group (Chadwicks, Woodie's) trading update: Ireland like-for-like up 6.5pc in four months to October, 4.7pc year to date; UK down 5.2pc; plus CSO digital transactions snippet and an Irish tech venture funding headline. Logged for John's UHL draft 2027 budget review this week. File: market_intel_grafton_trading_update_nov2026.md. Figures as reported, unverified.
+
+## 2026-11-17 [Cuan → Meridian] Irish venture funding at a decade low
+Photo of Adrian Weckler's report (IVCA data): Q3 Irish venture cash down 45pc to 114m euro; international VC down 76pc; 1m to 5m deals most affected; full-year below 1bn euro for the first time since 2020; Enterprise Ireland Seed and Venture Capital Scheme funds forming. Context for the Asterial raise (20m to 22.5m euro, overseas investor). File: market_intel_irish_venture_funding_nov2026.md. Figures as reported, unverified.
