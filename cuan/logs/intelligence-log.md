@@ -1232,3 +1232,6 @@ Photo of the column on rising employer costs: know gross margin, cost each servi
 
 ## 2026-11-16 [Cuan → Meridian] Google sponsored feature: tradesman and Gemini
 Two photographed pages (sponsored content): Epsom sole trader uses Gemini for customer emails by voice, social posts, mock-ups, booking; Google statistics quoted (unverified). Reference for Velocity AI training and SME AI stories. File: market_intel_google_ai_tradesman_nov2026.md. Marketing, not evidence.
+
+## 2026-11-17 [Cuan → Meridian] The Echo: scams checklist and smart-tech risk
+Photo of The Echo p.11: how to spot common scams (Denise O'Donoghue); home tech and supermarket fridge cyberattacks as reported, 13 Irish SuperValu stores (Caitriona Redmond). Supports cyber and crime insurance and payment-control points and fraud awareness. File: market_intel_echo_scams_smart_tech_17nov2026.md. Newspaper feature, claims unverified.
