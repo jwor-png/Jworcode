@@ -1250,3 +1250,6 @@ Photo of Caitriona Redmond's Consumer Watch column (Irish Examiner): from 1 Nov 
 
 ## 2026-11-17 [Cuan → Meridian] Legal advice column: transferring the family home to children
 Photo of Mary Frances Fahy's Irish Independent column (13 Oct 2026): transferring a home to children while alive, unregistered right of residence, CAT and CGT points as reported. Reference for the personal estate and retirement plan. File: market_intel_house_transfer_tax_oct2026.md. Not advice; unverified.
+
+## 2026-11-17 [Cuan → Meridian] Dear Vicki on remote working; Tines hiring
+Second Dear Vicki column (three office days a week; judge output not presence) and a partly visible report that Dublin AI firm Tines is hiring 100 and has raised 272m dollars. Reference for Noesis hiring and employment terms and Irish AI scaling context. Added to market_intel_dear_vicki_sme_costs_nov2026.md. Opinion; figures as reported.
