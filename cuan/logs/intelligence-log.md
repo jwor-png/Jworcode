@@ -1244,3 +1244,6 @@ Photo of Adrian Weckler's report (IVCA data): Q3 Irish venture cash down 45pc to
 
 ## 2026-11-17 [Cuan → Meridian] Futura Innovation Conference, Limerick (Oct 2026)
 Two photographed supplement pages (Limerick Post, 10 Oct 2026): Futura Innovation Conference, 19 to 21 Oct 2026; seven tracks, 200+ speakers, Microsoft keynote on AI agents and human agency, AI Governance and Strategy house, Angel Investors House. Event has passed; networking and governance-language reference. File: market_intel_futura_innovation_conference_oct2026.md. Promotional.
+
+## 2026-11-17 [Cuan → Meridian] EU parcel customs and handling charges
+Photo of Caitriona Redmond's Consumer Watch column (Irish Examiner): from 1 Nov 2026 a 2 euro handling charge per item plus customs of 6.15 euro per item on non-EU parcels including Great Britain; buy from Irish or EU retailers. Relevant to John's jump-starter charger purchase and phishing awareness. File: market_intel_eu_parcel_charges_nov2026.md. Figures as reported.
