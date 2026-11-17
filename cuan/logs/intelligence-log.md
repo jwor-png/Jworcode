@@ -1235,3 +1235,6 @@ Two photographed pages (sponsored content): Epsom sole trader uses Gemini for cu
 
 ## 2026-11-17 [Cuan → Meridian] The Echo: scams checklist and smart-tech risk
 Photo of The Echo p.11: how to spot common scams (Denise O'Donoghue); home tech and supermarket fridge cyberattacks as reported, 13 Irish SuperValu stores (Caitriona Redmond). Supports cyber and crime insurance and payment-control points and fraud awareness. File: market_intel_echo_scams_smart_tech_17nov2026.md. Newspaper feature, claims unverified.
+
+## 2026-11-17 [Cuan → Meridian] Grafton trading update for UHL 2027 budget review
+Photo of the Grafton Group (Chadwicks, Woodie's) trading update: Ireland like-for-like up 6.5pc in four months to October, 4.7pc year to date; UK down 5.2pc; plus CSO digital transactions snippet and an Irish tech venture funding headline. Logged for John's UHL draft 2027 budget review this week. File: market_intel_grafton_trading_update_nov2026.md. Figures as reported, unverified.

@@ -1,0 +1,13 @@
+# Grafton Group trading update (Chadwicks, Woodie's) and related items, newspaper page (John's photo, 17 Nov 2026; paper and page not shown). Logged for John's review of the UHL draft 2027 budget. Figures as reported by Rory McGinn, UNVERIFIED against Grafton's own statement.
+
+**Grafton Group ("Owner of Woodie's and Chadwicks has revenues of 2.3bn pounds")**
+- Revenue up 7.4pc to 2.29bn pounds (2.74bn euro) for the year to date, against 2.13bn pounds (2.55bn euro) a year earlier.
+- Island of Ireland: average daily like-for-like revenue up 6.5pc in the four months to end October (3.4pc in the first half); up 4.7pc for the first 10 months of 2026. All Irish businesses grew, helped by favourable market conditions and continued Government investment in housing and infrastructure in the Republic. Consumer confidence resilient despite pressure from higher interest rates and energy costs. Market conditions "remained subdued".
+- UK: like-for-like revenue down 5.2pc over the four months (weak construction; lower demand in home improvement and new housebuilding). Northern Europe up 1.4pc (growth in Finland and the Netherlands); Iberian business (Salvador Escoda) up 7.4pc. Cygnum (made-to-order timber frame) integration progressing well.
+- 25m pound buyback completed in September; total returned 478.3m pounds since May 2022. Full-year adjusted operating profit forecast kept at 190m to 200m pounds. About 10,000 staff and 470 branches in Ireland and Europe. CEO Eric Born: "well placed to benefit from exposure to growth and recovery markets".
+
+**Related snippets on the same page**
+- CSO digital transactions (2024): about 46pc of goods and services produced in Ireland ordered or delivered online (523bn euro); ICT sector 95.2pc of transactions online; financial and insurance 81.6pc (down from over 90pc at the pandemic peak); transport, hotels and restaurants 36.2pc; Irish people reducing use of cash.
+- Headline only (text cut off): "Venture funding to Irish tech firms hits record low as AI grabs investors' cash" (relevant to Noesis and Asterial funding context; read the full article if available).
+
+**Use for John:** a competitor and market signal for the UHL draft 2027 budget (demand, interest-rate and energy-cost assumptions, Irish versus UK trading). Grafton's figures are group and competitor numbers, not UHL's, and are not a forecast for UHL. Suggested tests for the budget: Irish like-for-like growth assumption against Grafton's 4.7pc to 6.5pc; sensitivity to interest rates and energy costs; housing and infrastructure exposure; whether member rebate and digital ordering assumptions fit the CSO online trend. No action.

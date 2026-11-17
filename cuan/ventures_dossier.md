@@ -9893,3 +9893,6 @@ Draft "Insurance cover that might be required by completion" created in John's G
 
 ### 17 Nov 2026: ODIN spawn, mutate, replicate as a business opportunity (John)
 John and Shane are looking at spawning, mutating and replicating ODIN components as another business opportunity (beyond the Asterial raise). Not yet defined: the offer, which company owns and sells it, revenue model, what exists today, and IP and conflicts position. To be scoped with Shane (Mon 23 Nov meeting).
+
+### 17 Nov 2026: UHL draft 2027 budget review
+John is reviewing the UHL draft 2027 budget later this week (Audit and Risk Committee Teams call with the executive this week). Market context logged: market_intel_grafton_trading_update_nov2026.md.
