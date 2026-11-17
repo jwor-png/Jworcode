@@ -9857,3 +9857,9 @@ The investor side is opening an EU fund, but the money still comes as previously
 
 ### 17 Nov 2026: Tom Stapleton call note prepared
 John will ring Tom Stapleton on insurance covers and the banking and drawdown safeguards, mindful of the deposit guarantee scheme (EUR 100,000 per depositor per bank). One-page note: cuan/scratch/Tom_Stapleton_Call_Note_Insurance_Banking_17Nov2026.pdf (built from the 12 Nov schedule sections 5 and 7). Outcome of the call to be logged when John reports.
+
+### 17 Nov 2026 (afternoon): scheduling and Tom plan
+- Shane confirmed a call with John at 10:00 on Wed 18 Nov.
+- The weekly Noesis meeting (normally Fridays; set for 11:00 this Thursday 19 Nov) is moved to Mon 23 Nov at 11:00; John put it in his calendar and will extend it to about 14:00 (could run 2 to 3 hours). Note Mon 23 Nov also has the KEED tax date and the expected term sheet week.
+- To check with Shane: whether the Thursday signing at Pat's office is separate from that weekly meeting and still on (Pat said it stands). If the Thursday meeting was the signing, the move delays filing and the bank applications.
+- Tom Stapleton: John expects only a short call, will cover banking overall, and will send Tom a note of what needs arranging for funding, insurance and banking safeguards rather than going into detail on the call.
