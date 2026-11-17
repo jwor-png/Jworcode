@@ -1247,3 +1247,6 @@ Two photographed supplement pages (Limerick Post, 10 Oct 2026): Futura Innovatio
 
 ## 2026-11-17 [Cuan → Meridian] EU parcel customs and handling charges
 Photo of Caitriona Redmond's Consumer Watch column (Irish Examiner): from 1 Nov 2026 a 2 euro handling charge per item plus customs of 6.15 euro per item on non-EU parcels including Great Britain; buy from Irish or EU retailers. Relevant to John's jump-starter charger purchase and phishing awareness. File: market_intel_eu_parcel_charges_nov2026.md. Figures as reported.
+
+## 2026-11-17 [Cuan → Meridian] Legal advice column: transferring the family home to children
+Photo of Mary Frances Fahy's Irish Independent column (13 Oct 2026): transferring a home to children while alive, unregistered right of residence, CAT and CGT points as reported. Reference for the personal estate and retirement plan. File: market_intel_house_transfer_tax_oct2026.md. Not advice; unverified.
