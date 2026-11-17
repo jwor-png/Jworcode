@@ -9845,3 +9845,7 @@ The investor side is opening an EU fund, but the money still comes as previously
 - Bank accounts: John and Pat agreed to open accounts with both banks (AIB and Bank of Ireland). Pat needs the constitutions and shareholders' agreements signed first.
 - The Thursday (19 Nov) meeting stands (time and place not recorded; presumably Pat's office, UNVERIFIED): to sign all necessary documents so Pat can file them and the bank accounts can then be opened.
 - Open: which shareholdings moved; whether the Phronethos A1 (Walter, 17 Nov) is signed and back; which bank manager at Bank of Ireland. Daily page and board not yet updated (John asked to hold until he finishes his instruction).
+
+### 17 Nov 2026: John's independent-review plan for the Noesis documents
+- John is mindful of his independent position. Plan: speak to Mark Power (solicitor, to represent John) and Ger Blake (adviser) as appropriate; John will sign the documents himself once ready this week, after reviewing them with Cuan and being satisfied beforehand. Thursday 19 Nov signing meeting stands.
+- John said he was adding a screenshot of a message he sent Shane to bring him up to date; the screenshot did not arrive with the message (to be logged when shared).
