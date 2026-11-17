@@ -9906,3 +9906,9 @@ John is reviewing the UHL draft 2027 budget later this week (Audit and Risk Comm
 - Tue 16 Dec 2025: Paul Candon announced Donegal Town Hardware had been sold to Murdock's (completed 15 Dec); David re-cut the budget the same day to exclude the turnover originally included for Donegal; John circulated it for the Board meeting on 17 Dec.
 - Later: 10 Apr 2026 Paul Candon's operational update and Q1 performance overview (price inflation, fuel protests; Eoin McGettigan: solid first three months). Outcome of the 17 Dec Board decision not seen in Gmail search.
 - Pattern: draft in late November, committee feedback, two or three revisions in December, Board adoption mid-December. This year: Audit and Risk Teams call this week, Board Wed 25 Nov, conference Thu 3 Dec.
+
+### 17 Nov 2026: UHL 2027 budget timetable (John)
+- Fri 20 Nov 15:00: initial Audit and Risk Committee meeting with David Geoghegan and Paul Candon on the draft 2027 budget (medium, Teams or in person, not stated).
+- Wed 25 Nov 10:00: UHL Board meeting, to discuss the draft budget with the Board.
+- Mid-December Board meeting: Board to consider, review and hopefully adopt the budget.
+- Prep: checklist (scratch/UHL_2027_Draft_Budget_Review_Checklist_17Nov2026.pdf); last year's 10 points of 26 Nov 2025; request the draft from David before Friday.
