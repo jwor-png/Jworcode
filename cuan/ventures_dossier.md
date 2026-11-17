@@ -9854,3 +9854,6 @@ The investor side is opening an EU fund, but the money still comes as previously
 - 13:45 John's voice call to Shane: no answer; Shane replied "10mins" and "On with Tom".
 - 13:48 John to Shane: asks whether the meeting is going ahead Thursday as planned at Pat's office; Pat is working on the shareholders' agreements and constitutions; they need to be completed, signed and filed by Pat before bank accounts can be applied for; they agreed to open accounts with both banks; for the Asterial and Noesis accounts Diarmuid needs to sign at Pat's office also, as will each of the shareholders.
 - Open: Shane's confirmation of Thursday (place: Pat's office per John's message; time not recorded); whether Diarmuid Hudner can attend in person Thursday (location and availability not recorded); list of every shareholder who must sign.
+
+### 17 Nov 2026: Tom Stapleton call note prepared
+John will ring Tom Stapleton on insurance covers and the banking and drawdown safeguards, mindful of the deposit guarantee scheme (EUR 100,000 per depositor per bank). One-page note: cuan/scratch/Tom_Stapleton_Call_Note_Insurance_Banking_17Nov2026.pdf (built from the 12 Nov schedule sections 5 and 7). Outcome of the call to be logged when John reports.
