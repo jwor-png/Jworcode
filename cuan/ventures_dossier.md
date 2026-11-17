@@ -9814,3 +9814,8 @@ Not yet read: 4 Nov governance documents (Drive link in Lawler's email), 5 Nov O
 
 ### 17 Nov 2026: Pet Mania order placed (John's photo)
 - Order 4203501, 17 Nov 2026, status Processing, 58.97 euro incl. 11.03 VAT, paid by PayPal, free ROI shipping: Bucktons Best All Round 20kg x2 (45.98) and Bucktons Pickstones in Clay Bowl 6 pack x1 (12.99). Closes the Pet Mania (pigeon food) item.
+
+### 17 Nov 2026 13:10 UTC review (Gmail)
+- Noesis, Phronethos: Walter Vindas (Pat's office, accounts4) replied 09:33 UTC (thread 1a1e8dae62f8c234, "Company Names and 1 Liner / Phronethos LLM") to John's 16 Nov spelling request: attached "Phronethos first page.pdf", the first A1 page for Shane to sign, scan and return (to John, Shane at both addresses; Jacquie and Pat cc). This reads as the corrected form for Phronethos LLM Limited; it does not say whether the Phonethos version was ever filed. Shane to sign and return it; John to confirm with Pat on today's call that nothing was filed under the wrong spelling.
+- Still open on the BDO side: Simon Carbery's 09:01 UTC chase on the UHL audit decision; no reply from David Geoghegan seen yet (reminder set for Wed 18 Nov 11:00).
+- Everything else since 09:07: newsletters and promotions, Petmania order and PayPal receipt (58.97 euro). Nothing from Shane, Ignatius, Nicola, Joanne at BDO, Barry Scannell or Barber Republic.
