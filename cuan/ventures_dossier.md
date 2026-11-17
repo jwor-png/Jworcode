@@ -9811,3 +9811,6 @@ Not yet read: 4 Nov governance documents (Drive link in Lawler's email), 5 Nov O
 
 ### 17 Nov 2026: Mark Power (Powers, Kilmallock) update
 - John has not yet sent the OSM Partners letter (12 Nov, Everyday Finance / Link Financial, 65,155.06 euro) to Mark Power. He wants to send Mark a brief email update on Wed 18 Nov and will dictate it then; Cuan drafts from the dictation (John sends himself). A skeleton Gmail draft "Mark Power personal update" (from the 5 Nov handover, no address) already exists; check whether it is still wanted. OSM's 7 business days run to about Mon 23 Nov.
+
+### 17 Nov 2026: Pet Mania order placed (John's photo)
+- Order 4203501, 17 Nov 2026, status Processing, 58.97 euro incl. 11.03 VAT, paid by PayPal, free ROI shipping: Bucktons Best All Round 20kg x2 (45.98) and Bucktons Pickstones in Clay Bowl 6 pack x1 (12.99). Closes the Pet Mania (pigeon food) item.
