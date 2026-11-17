@@ -1253,3 +1253,6 @@ Photo of Mary Frances Fahy's Irish Independent column (13 Oct 2026): transferrin
 
 ## 2026-11-17 [Cuan → Meridian] Dear Vicki on remote working; Tines hiring
 Second Dear Vicki column (three office days a week; judge output not presence) and a partly visible report that Dublin AI firm Tines is hiring 100 and has raised 272m dollars. Reference for Noesis hiring and employment terms and Irish AI scaling context. Added to market_intel_dear_vicki_sme_costs_nov2026.md. Opinion; figures as reported.
+
+## 2026-11-17 [Cuan → Meridian] Irish Independent 29 Oct: UCD AI Institute interview; Vinted tips
+Three photographed pages: Adrian Weckler's interview with Prof Robin Burke, director of UCD's AI Institute (AI hype, safety culture, harms already here, human oversight; UCD AI design studio), and a Vinted secondhand buying guide (personal). File: market_intel_irish_independent_29oct2026.md. As reported, unverified.
