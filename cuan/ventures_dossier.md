@@ -9849,3 +9849,8 @@ The investor side is opening an EU fund, but the money still comes as previously
 ### 17 Nov 2026: John's independent-review plan for the Noesis documents
 - John is mindful of his independent position. Plan: speak to Mark Power (solicitor, to represent John) and Ger Blake (adviser) as appropriate; John will sign the documents himself once ready this week, after reviewing them with Cuan and being satisfied beforehand. Thursday 19 Nov signing meeting stands.
 - John said he was adding a screenshot of a message he sent Shane to bring him up to date; the screenshot did not arrive with the message (to be logged when shared).
+
+### 17 Nov 2026 13:45 to 13:48: John's WhatsApp to Shane (screenshot)
+- 13:45 John's voice call to Shane: no answer; Shane replied "10mins" and "On with Tom".
+- 13:48 John to Shane: asks whether the meeting is going ahead Thursday as planned at Pat's office; Pat is working on the shareholders' agreements and constitutions; they need to be completed, signed and filed by Pat before bank accounts can be applied for; they agreed to open accounts with both banks; for the Asterial and Noesis accounts Diarmuid needs to sign at Pat's office also, as will each of the shareholders.
+- Open: Shane's confirmation of Thursday (place: Pat's office per John's message; time not recorded); whether Diarmuid Hudner can attend in person Thursday (location and availability not recorded); list of every shareholder who must sign.
