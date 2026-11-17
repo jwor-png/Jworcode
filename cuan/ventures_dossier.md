@@ -9839,3 +9839,9 @@ The investor side is opening an EU fund, but the money still comes as previously
 - New plan: "The Lonesome West" amateur drama, Shoestring Theatre, Charleville, towards the end of November (date and tickets to confirm).
 - AHL: email Sean Burton (Kanturk) the 2025 accounts and other details.
 - Ambrion and Velocity: sort out the conflicts arising in the Ambrion and Velocity emails once and for all (John has been putting it off). To scope when John dictates what the conflicts are (domain, Gmail script, mailbox or role conflicts).
+
+### 17 Nov 2026 (afternoon): John's call with Pat Carroll
+- Pat is working on the constitutions and the shareholders' agreements; some shareholdings have moved (which ones and to what: not recorded; cap table 86/8/6 or 83/17 was open).
+- Bank accounts: John and Pat agreed to open accounts with both banks (AIB and Bank of Ireland). Pat needs the constitutions and shareholders' agreements signed first.
+- The Thursday (19 Nov) meeting stands (time and place not recorded; presumably Pat's office, UNVERIFIED): to sign all necessary documents so Pat can file them and the bank accounts can then be opened.
+- Open: which shareholdings moved; whether the Phronethos A1 (Walter, 17 Nov) is signed and back; which bank manager at Bank of Ireland. Daily page and board not yet updated (John asked to hold until he finishes his instruction).
