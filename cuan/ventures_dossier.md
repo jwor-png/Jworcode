@@ -9961,3 +9961,6 @@ John uploaded "SPA & Velocity Draft Process & AI collaboration.docx". Text ident
 
 ### 18 Nov 2026: working spec of what Vinny appears to want (for the 15:00 call and the later conversation with Shane)
 John is sceptical and unclear what Vinny needs; no pilot client is named; John has spoken to Shane only in general terms. Draft one-page working spec (inferred from Vinny's documents; confirm on the call): cuan/scratch/Vinny_Working_Spec_Draft_18Nov2026.pdf. Core: Vinny wants an AI-enabled sales management service for SMEs (LSOS method plus AI agents), with himself owning the method and client relationship and an AI partner designing, building, running and securing the technology for a shared monthly recurring fee; pilot, pricing, build funding, IP and revenue share all undefined. Outcome of the call to be logged.
+
+### 18 Nov 2026: Vinny pilot candidate and questions page
+John met Vinny last week and they discussed a cleaning business in Shannon, the likely pilot candidate (to be confirmed on the 15:00 call). John asked for the call questions on a separate large-print page, including Vinny's experience, and for the Kickstart fee and monthly retainer to be explained. Page: cuan/scratch/Vinny_Questions_Page_18Nov2026.pdf (13 questions). Outcome of the call to be logged when John reports.
