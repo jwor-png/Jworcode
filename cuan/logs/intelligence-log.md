@@ -1256,3 +1256,6 @@ Second Dear Vicki column (three office days a week; judge output not presence) a
 
 ## 2026-11-17 [Cuan → Meridian] Irish Independent 29 Oct: UCD AI Institute interview; Vinted tips
 Three photographed pages: Adrian Weckler's interview with Prof Robin Burke, director of UCD's AI Institute (AI hype, safety culture, harms already here, human oversight; UCD AI design studio), and a Vinted secondhand buying guide (personal). File: market_intel_irish_independent_29oct2026.md. As reported, unverified.
+
+## 2026-11-19 [Cuan → Meridian] Goodbody: AI and data centres drive 20pc of Irish growth
+Newspaper report on Goodbody's Irish Economy Health Check: AI and data centre investment about a fifth of the growth in modified domestic demand; 11.4bn euro equipment imports; power and grid constraints; Anthropic listing at about 1.3 trillion dollars as a sector test. Context for Asterial and Tairseach. File: market_intel_goodbody_ai_data_centres_nov2026.md. Figures as reported, unverified.
