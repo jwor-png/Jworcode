@@ -20,3 +20,6 @@
 
 ## Addendum 3 (17 Nov 2026): desk calendar page, 17th November (photo, upside down; no note)
 "Let the waves carry you to where the light cannot." Mohit Kaushik. Irish line beneath: "Snámhaí Sásta" (Happy Swimmer). Personal-development reference only; no venture tie; no action.
+
+## Addendum 4 (18 Nov 2026): desk calendar page, 18th November (photo; no note)
+"Individually we are one drop, together we are an ocean." Ryunosuke Satoro. Irish line beneath: "Snámhaí Sásta" (Happy Swimmer). Personal-development reference only; the "together" theme sits well with a group-building week; no action.
