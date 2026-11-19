@@ -10061,3 +10061,4 @@ BYD's largest model to date, unveiled at the Paris Motor Show by Stella Li: seve
 - 19 Nov 20:40: plain-English note for Shane on each clause point, no timetable: cuan/scratch/Shane_Clause_Points_Plain_English_19Nov2026.pdf (draft for John to send).
 - 19 Nov 20:50: added to the plain-English Shane note a 'what a constitution is and what ours should reflect' guide and a five-question test per clause (John's request).
 - 19 Nov 21:00: John asked if earlier problems were captured; they were not. Added section 6 (a to h: investor class and votes, Diarmuid and Shane shares, pool, key person, transfer limits, facts to confirm, Pat tidy-up, dropped 30-day option) to the Shane plain-English note.
+- 19 Nov 21:10: added (i) stamp duty check to the Shane plain-English note at John's request.
