@@ -643,3 +643,4 @@ John's relationship capital is one of his two biggest assets alongside opportuni
 - **Spelling rule (John, 4 Nov 2026):** Malachy Harkin is spelled M-A-L-A-C-H-Y, always. Earlier entries that said "Maliki" (a dictation slip) have been corrected. Emails: malachyh@gmail.com, malachy@casana.ie.
 
 - **Spelling rule (John, 17 Nov 2026):** Dave Geoghegan (David Geoghegan, CFO, United Hardware) is spelled G-E-O-G-H-E-G-A-N, always. Dictation may render it as "Gagan" or similar; use Geoghegan.
+- **Spelling rule (John, 19 Nov 2026):** the lawyer acting for the investor family in Asterial is Fasheed (not Vashid). Earlier entries in the dossier use "Vashid"; read as Fasheed. Firm still unconfirmed.
