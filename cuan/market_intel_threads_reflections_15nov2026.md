@@ -23,3 +23,6 @@
 
 ## Addendum 4 (18 Nov 2026): desk calendar page, 18th November (photo; no note)
 "Individually we are one drop, together we are an ocean." Ryunosuke Satoro. Irish line beneath: "Snámhaí Sásta" (Happy Swimmer). Personal-development reference only; the "together" theme sits well with a group-building week; no action.
+
+## Addendum 5 (20 Nov 2026): desk calendar page, 20th November (photo; no note)
+"Every day may not be good but there is something good in every day." Alice Morse Earl. Irish line beneath: "Snámhaí Sásta" (Happy Swimmer). Personal-development reference only; fits a heavy signing day; no action.
