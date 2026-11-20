@@ -1,0 +1,343 @@
+PART 4: SHARE TRANSFER PACK, MAINLY VELOCITY LIMITED (CRO 804908). Sancelvio (817480) and Zubelsala (817481) are the same template; only names and a 'dormant' note differ. Pat asked that these stay unsigned and undated for now.
+
+Share transfer signing pack
+Mainly Velocity Limited | CRO 804908
+Shane McCarthy to Noesis AI Agent System Limited
+UNDATED. Complete the marked particulars before any signature.
+Agreed transaction
+Shane sells his entire registered holding, representing 100% of the issued shares, for €1.00 per share. Noesis pays the total cash price in full on completion. Shane is sole director and John Michael Webb O'Rourke is secretary. Noesis becomes the sole registered shareholder when the transfer is entered in the company register.
+Company-specific points
+Mainly Velocity is described as active?. Its market-value review must address its business, IP, contracts, assets, liabilities and commitments. The Asterial nil-assets and €100 valuation confirmations do not apply to this company.  I believe it is NIL.
+Pat has confirmed Shane as the current 100% shareholder and that the original standard Asterial constitution applies, with company and capital particulars changed and no additional transfer restrictions. Regulation 5 preserves the director’s registration discretion under section 95. The supplied standard constitution contains no express transfer pre-emption clause. [1, 2]
+The buyer’s correct title is Noesis AI Agent System Limited, CRO 805939. The earlier shorthand omitted “System”. Pat confirms that its previously prepared revised constitution has been adopted and that Shane remains its sole member. John should record any executed Noesis shareholders’ agreement and obtain any consent it requires before the purchase is signed. [1, 3]
+Completion points for Pat and John
+100% ownership does not establish the number of shares. Complete S1 and every matching field from the registers: number, class, nominal value, paid-up amount, total price and certificate references. The existing share class is retained. If several classes exist, use a separate T1A instrument and T8 certificate for each class within this pack. [2, 5]
+Pat confirms the market value and tax treatment for this company. The solicitor settles stamp duty, including the linked-series test and any undervalue. Retain a stamp certificate or verified exemption before registration. Shane’s personal sale does not qualify for associated-companies relief under section 79. [6, 7]
+The transfer is recorded in the next B1. Review the internal beneficial ownership record and RBO particulars for Shane’s change from direct to indirect ownership through Noesis. There is no allotment or constitution change in this pack. [8, 9]
+The earlier Asterial order is retained: T1 purchase terms, T2/T3 member approvals, T4/T5 director meetings, T6 completion and T7 interests. T1A embeds the stock form; T8 to T10 supply the certificate, registers and optional missing-certificate document. All sources and links are at the end.
+S1 Transaction particulars
+Mainly Velocity Limited | CRO 804908
+Complete this schedule before signing T2 or T3. It forms part of the transaction documents. Repeat the holding row and the class-specific instruments if more than one class is being transferred.
+Particular
+Confirmed or to be completed
+Target company
+Mainly Velocity Limited, incorporated in Ireland, CRO 804908
+Target registered office
+[Y] [TARGET CURRENT REGISTERED OFFICE]
+Seller and address
+[Y] Shane McCarthy, [SHANE CURRENT ADDRESS]
+Purchaser and address
+[Y] Noesis AI Agent System Limited, CRO 805939, [NOESIS CURRENT REGISTERED OFFICE]
+Issued shares being sold
+[Y] [NUMBER OF SHARES] [EXACT SHARE CLASS]. Together these comprise all issued shares and Shane’s entire holding.
+Nominal value and total
+[Y] [NOMINAL VALUE PER SHARE] each; [TOTAL NOMINAL AMOUNT].
+Paid and unpaid capital
+[Y] [AMOUNT PAID PER SHARE] paid per share; [AMOUNT UNPAID PER SHARE] unpaid per share. [PAID-UP BASIS: CASH / OTHERWISE]. [CALLS OR OTHER SUMS DUE / NONE].
+Cash purchase price
+[Y] €1.00 per share. Total €[TOTAL CASH PRICE] = total number of shares transferred x €1.00.
+Certificate and share references
+[Y] [EXISTING CERTIFICATE NUMBER]; [DISTINCTIVE SHARE NUMBERS / NOT USED]; [REGISTER PAGE / EXTRACT REFERENCE].
+Governing company documents
+[Y] [TARGET CONSTITUTION IDENTIFICATION]; [NOESIS ADOPTED CONSTITUTION DATE / COPY REFERENCE]; [NOESIS SHA / REQUIRED CONSENTS / CONFIRMED NONE].
+Value and payment
+[Y] [MARKET VALUE OF ENTIRE HOLDING / VALUATION DATE / REPORT]; [NOESIS FUNDING AND PAYMENT METHOD].
+Pack identification
+[Y] [FINAL VERSION REFERENCE]; [TOTAL PAGES]; [NUMBER OF CLASS-SPECIFIC STOCK TRANSFER FORMS].
+Address check: the 2 November company review records 8 Maryborough Crescent, Portlaoise, Co. Laois, R32 DX45 for these companies and Noesis. The original Noesis A1 records an older Limerick address. The Asterial B1 dated 30 June records Shane at Maryborough Crescent. Confirm the current addresses before completing the operative documents. [1]
+[Y] The share figures, voting eligibility, current addresses and governing records have been checked, and all necessary contractual consents are attached as [REFERENCES / NONE REQUIRED].
+Signature: ____________________________________
+John Michael Webb O'Rourke | secretary, completion check
+[Y] Date and time: [ACTUAL DATE / TIME]
+Signing order and timetable
+Mainly Velocity Limited | CRO 804908
+The sequence can be completed on one day once the records, funds and stamp-duty position are ready. Leave all dates blank during review. At execution, insert the actual date and time of each event. Do not sign an incomplete transfer form or an advance cash receipt.
+Stage
+Document and action
+Person responsible
+Before signature
+Complete S1 and matching fields. Reconcile the register and certificates. Settle valuation, stamp treatment, funding and any Noesis consent.
+John: records. Pat: tax/value. Solicitor: stamp mechanics. Shane: funding and facts.
+1. Prior member approvals
+Sign T2 for Noesis and T3 for the target. Deliver both to John immediately.
+Shane, separately as sole member of each company. John acknowledges receipt.
+2. Noesis meeting
+Actually hold the short meeting recorded in T4, declare the interest and approve the exact purchase.
+Shane as Noesis director; John takes the minutes.
+3. Contract and instrument
+Sign T1 and T1A. Deliver signed T1 and S1 immediately to John for the target as the contract-sale notice. Coordinate payment and sign the cash receipt after funds arrive.
+Shane personally as seller and separately for Noesis. John acknowledges the target’s receipt.
+4. Stamping and registration
+Complete stamping or verify exemption. Hold the T5 meeting. Enter Noesis in the register only after all conditions are met. Complete T6.
+Solicitor: stamp evidence. Shane: target board approval. John: register entry.
+5. Closing records
+Complete T7, T8 and T9. Cancel the surrendered certificate, seal the new certificate, record ownership and complete the RBO/B1 follow-through.
+Shane and John sign the certificate. John keeps records and arranges filings with Pat.
+Meetings, notice and signatures
+T2 and T3 are unanimous written ordinary resolutions under sections 193 and 196. They need no general meeting or short-notice consent. Deliver the signed resolutions to the relevant company immediately, within section 193’s 14-day limit. [3]
+T4 and T5 record actual director meetings. Shane can consent to their immediate holding. They may be held face to face, by telephone or by video with effective communication. The interest declarations are made at those meetings. John may attend to keep the record. Minutes must reflect what actually occurred. [4]
+Use wet-ink signatures, circulate complete signed scans promptly and retain the originals. The resolutions and ordinary contract signatures need no witness or company seal. T8 has separate common-seal execution requirements. [2, 3, 5]
+Records: enter section 231 declarations within three days. Aim to deliver the new certificate immediately after registration; section 99 normally allows two months after lodgement of a valid, duly stamped transfer. Notify changed RBO particulars within 14 days after the internal register changes. [4, 5, 9]
+T1 Agreed share purchase terms
+Mainly Velocity Limited | CRO 804908
+[Y] Seller: Shane McCarthy of [SHANE CURRENT ADDRESS]. Purchaser: Noesis AI Agent System Limited, CRO 805939, of [NOESIS CURRENT REGISTERED OFFICE].
+[Y] Target: Mainly Velocity Limited, CRO 804908. The completed S1 and each T1A form identified by [FINAL VERSION REFERENCE] form part of these terms.
+1. Sale. The Seller sells and the Purchaser buys all issued shares in the Target, being the shares fully described in S1 and T1A (the Shares), with the rights attaching at completion. The Seller confirms that he is their registered and beneficial owner, that the stated paid-up position is accurate, and that they are free from any charge, option or third-party right that would prevent this sale.
+[Y] 2. Price. The total price is €[TOTAL CASH PRICE], calculated at €1.00 for each Share. The Purchaser shall pay that price in full in cash on completion. Any unpaid capital attached to the Shares must be separately disclosed in S1 and approved in T4; the purchase price does not discharge that capital liability.
+3. Completion. The parties shall deliver the executed transfer instrument and existing certificate, or title evidence accepted by the Target director. Completion occurs when the price has been received, applicable stamping or exemption requirements have been met and the Purchaser has been entered in the Target’s register of members. The parties shall coordinate those steps. The Shares’ benefits and risks pass at completion.
+4. Approvals and expenses. The prior approvals in T2 to T4 cover these completed terms. Required contractual consents must be obtained before signature. The Purchaser bears stamp duty on the transfer. Each party remains responsible for its own other tax obligations. These terms make no claim to a tax exemption or relief.
+5. Records and law. These terms and T1A record the contract for section 255 of the Companies Act 2014. Irish law applies. Material amendments require written agreement and any necessary fresh approval. The Seller shall deliver signed T1 and completed S1 immediately to the Target through John as notice of the contract, number and class of shares and consideration under sections 263(7) and 265(5), within five days of entering the contract.
+Signature: ____________________________________
+Shane McCarthy | Seller, signing personally
+[Y] Date and time: [ACTUAL DATE / TIME]
+Signature: ____________________________________
+Shane McCarthy | authorised director signing for Noesis AI Agent System Limited
+[Y] Date and time: [ACTUAL DATE / TIME]
+Cash receipt, sign only after actual payment
+[Y] I acknowledge receipt from Noesis AI Agent System Limited of €[TOTAL CASH PRICE] as the full price for the Shares. Payment method/reference: [PAYMENT EVIDENCE].
+Signature: ____________________________________
+Shane McCarthy | Seller acknowledging actual receipt
+[Y] Date and time: [ACTUAL RECEIPT DATE / TIME]
+Target’s receipt of contract-sale notice
+Received the complete signed T1 and S1 for the Target under sections 263(7) and 265(5). This records notice of the contract, separately from payment or transfer registration.
+Signature: ____________________________________
+John Michael Webb O'Rourke | secretary receiving notice for Mainly Velocity Limited
+[Y] Date and time: [ACTUAL NOTICE RECEIPT DATE / TIME]
+T1A Stock transfer form
+Mainly Velocity Limited | CRO 804908
+[Y] One class of existing shares per instrument. Form [FORM NUMBER] of [TOTAL FORMS] for this company.
+Particular
+Entry
+Company whose shares are transferred
+Mainly Velocity Limited, incorporated in Ireland, CRO 804908
+Number and description of shares
+[Y] [NUMBER OF SHARES] [EXACT SHARE CLASS] of [NOMINAL VALUE PER SHARE] each. Total nominal amount [TOTAL NOMINAL AMOUNT].
+Paid-up position
+[Y] [AMOUNT PAID PER SHARE] paid per share; [AMOUNT UNPAID PER SHARE] unpaid per share.
+Certificate / distinctive numbers
+[Y] [EXISTING CERTIFICATE NUMBER]; [DISTINCTIVE NUMBERS / NOT USED].
+Transferor
+[Y] Shane McCarthy of [SHANE CURRENT ADDRESS]
+Transferee
+[Y] Noesis AI Agent System Limited, CRO 805939, of [NOESIS CURRENT REGISTERED OFFICE]
+Consideration for this instrument
+[Y] €[PRICE FOR THIS CLASS] ([PRICE IN WORDS]), being €1.00 per share. Paid in full on completion under T1.
+For the consideration stated above, I, Shane McCarthy, transfer the shares described above to Noesis AI Agent System Limited, to hold subject to the constitution of Mainly Velocity Limited and the conditions on which those shares are held. I request the registration of the transferee as their holder. This instrument does not acknowledge money which has not been received.
+Signature: ____________________________________
+Shane McCarthy | transferor, signing personally
+[Y] Date: [ACTUAL SIGNING DATE]     Time: [ACTUAL SIGNING TIME]
+Noesis AI Agent System Limited accepts the transfer subject to the stated paid-up position, the constitution and the conditions on which the shares are held.
+Signature: ____________________________________
+Shane McCarthy | duly authorised director signing for the transferee
+[Y] Date: [ACTUAL SIGNING DATE]     Time: [ACTUAL SIGNING TIME]
+Shane signs in both stated capacities. The transferee signature also satisfies section 94(2) where shares are partly paid. Attach the Revenue stamp certificate or the documented exemption basis recorded in T6 before registration. This form is retained by the company and is not filed with the CRO. [2, 6, 8]
+T2 Noesis sole-member approval
+Noesis AI Agent System Limited | CRO 805939
+Transaction: acquisition of all issued shares in Mainly Velocity Limited
+Unanimous written ORDINARY resolutions under sections 193 and 196 of the Companies Act 2014. Sign before T1 or T1A is executed.
+[Y] I, Shane McCarthy, being the sole registered member of the Company and entitled to attend and vote on these matters, pass the following resolutions. I have reviewed completed S1, T1 and each T1A, identified as [FINAL VERSION REFERENCE], retained with these resolutions.
+Approved acquisition
+Particular
+Seller and asset
+Shane McCarthy; all issued shares in Mainly Velocity Limited, CRO 804908, as specified in completed S1 and T1A.
+Share particulars
+[Y] [NUMBER OF SHARES] [EXACT SHARE CLASS] of [NOMINAL VALUE PER SHARE] each; [AMOUNT PAID PER SHARE] paid and [AMOUNT UNPAID PER SHARE] unpaid per share. [ADDITIONAL CLASS SCHEDULE / NONE].
+Total price and settlement
+[Y] €[TOTAL CASH PRICE], €1.00 per share, payable in full in cash on completion.
+Value and consents considered
+[Y] [VALUATION REFERENCE / VALUE]; [NOESIS CONTRACTUAL CONSENT REFERENCES / NONE REQUIRED].
+1. Prior acquisition approval
+The acquisition by the Company from Shane McCarthy on the identified terms is approved before the Company enters into the arrangement, including for section 238 of the Companies Act 2014 to the extent applicable and otherwise. This approval is specific to the completed share particulars, price, paid-up position and terms above.
+2. Identified conflict consent
+I acknowledge Shane’s interest as Seller, his sole ownership of both companies before completion and his directorship of each. For section 228(1)(f), the duty to avoid the conflict arising from his participation in this identified purchase is released to the extent permitted by law. His other statutory duties and the section 231 declaration requirement continue.
+3. Implementation and records
+The director shall assess the Company’s interests and implement the purchase lawfully. These signed resolutions and their identified documents shall be delivered immediately to the Company through its secretary and retained in its member-resolution records.
+Signature: ____________________________________
+Shane McCarthy | sole member of Noesis AI Agent System Limited
+[Y] Date: [ACTUAL SIGNING DATE]     Time: [ACTUAL SIGNING TIME]
+Signature: ____________________________________
+John Michael Webb O'Rourke | secretary acknowledging receipt for Noesis
+[Y] Date and time: [ACTUAL RECEIPT DATE / TIME]
+T3 Target sole-member conflict consent
+Mainly Velocity Limited | CRO 804908
+Unanimous written ORDINARY resolution under sections 193 and 196 of the Companies Act 2014. Sign while Shane remains the registered member.
+[Y] I, Shane McCarthy, being the sole registered member of Mainly Velocity Limited and entitled to attend and vote on this matter, pass the following ordinary resolution. My entire holding and the proposed transfer to Noesis AI Agent System Limited, CRO 805939, are identified in completed S1, T1 and T1A, version [FINAL VERSION REFERENCE].
+Identified interest and consent
+[Y] I acknowledge my personal interest as Seller of all issued shares for €[TOTAL CASH PRICE], calculated at €1.00 per share, and my sole ownership and directorship of the Purchaser. I consent to my participation as the Company’s director in considering and, when the requirements are met, approving registration of that transfer and the related certificate and records arrangements.
+For section 228(1)(f) of the Companies Act 2014, the duty to avoid the conflict arising from that identified participation is released to the extent permitted by law. All other duties continue. This includes the limited certificate replacement or title-evidence arrangement in T10 if the director properly finds it necessary and accepts its completed terms.
+The director must exercise the registration power under the current constitution and section 95. This consent does not dispense with the proper transfer instrument, accurate share particulars, evidence of title, applicable stamping or the separate registration decision.
+Records
+This signed resolution and the identified documents shall be delivered immediately to John Michael Webb O'Rourke for the Company and retained with its member-resolution records. Any material change to the transaction shall be referred for fresh approval where required.
+Signature: ____________________________________
+Shane McCarthy | sole member of Mainly Velocity Limited, before registration of the transfer
+[Y] Date: [ACTUAL SIGNING DATE]     Time: [ACTUAL SIGNING TIME]
+Signature: ____________________________________
+John Michael Webb O'Rourke | secretary acknowledging receipt for the target
+[Y] Date and time: [ACTUAL RECEIPT DATE / TIME]
+T4 Noesis director meeting
+Noesis AI Agent System Limited | CRO 805939
+Transaction: acquisition of all issued shares in Mainly Velocity Limited
+[Y] Minutes of a meeting actually held on [DATE] at [TIME], at [PLACE / TELEPHONE OR VIDEO DETAILS]. Present: Shane McCarthy, sole director and chair. In attendance: John Michael Webb O'Rourke, secretary. Shane consented to immediate holding and confirmed a quorum of one. If electronic, participants could speak to and hear each other throughout.
+1. Interest and prior authority
+Before the purchase was considered, Shane declared his personal interest as Seller, his ownership of both companies and his offices in them, for section 231. The prior member approval and specific conflict release in T2 were noted. Subject to his continuing duties, he could count in the quorum and vote under sections 160(6) and 161(7).
+2. Papers and commercial assessment
+[Y] The meeting considered S1, T1, T1A, the current register and certificate evidence, the Target’s constitution, the adopted Noesis constitution and any required contractual consent. It reviewed the holding value and business position, including IP, contracts, liabilities, commitments and any unpaid share capital, recorded in [VALUATION / DUE-DILIGENCE REFERENCE].
+[Y] The commercial purpose is to bring Mainly Velocity Limited under Noesis as a wholly owned subsidiary of the AI group. Shane considered the price of €[TOTAL CASH PRICE], the recorded holding value of €[MARKET VALUE], any obligations attached to the Shares and the following funds/payment arrangements: [ACTUAL SOURCE AND AVAILABILITY OF FUNDS]. The assessment and any material qualifications were recorded as [REASONS / QUALIFICATIONS]. He concluded that the acquisition on the completed terms serves the Company’s interests.
+3. Decisions
+[Y] The purchase of all issued shares described in S1 for €[TOTAL CASH PRICE], payable in full in cash on completion, was approved. Shane was authorised to sign T1 and each T1A for the Company, separately from his personal Seller signature, and to arrange the agreed payment. John and Pat were authorised to coordinate completion and obtain the solicitor’s stamping or exemption confirmation. Material changes require renewed approval.
+Completion is conditional on satisfactory title evidence, required consents and compliance with stamping and registration requirements. No certificate or receipt shall state payment or registration before it occurs. The signed purchase terms shall be retained as the section 255 record of the contract with the sole member.
+4. Records and close
+[Y] John shall enter the section 231 declaration in the separate contracts-interest book within three days, retain these minutes and their identified papers, and record the investment and actual payment. Meeting closed at [TIME].
+Signature: ____________________________________
+Shane McCarthy | chair, signing these minutes as a correct record
+[Y] Date: [ACTUAL SIGNING DATE]     Time: [ACTUAL SIGNING TIME]
+T5 Target director meeting
+Mainly Velocity Limited | CRO 804908
+[Y] Minutes of a meeting actually held on [DATE] at [TIME], at [PLACE / TELEPHONE OR VIDEO DETAILS]. Present: Shane McCarthy, sole director and chair. In attendance: John Michael Webb O'Rourke, secretary. Shane consented to immediate holding and confirmed a quorum of one. If electronic, participants could speak to and hear each other throughout.
+1. Interest and documents
+[Y] Shane declared his interest as Seller and as sole owner and director of Noesis, the proposed Purchaser, and, if T10 is used, his personal interest as the person giving its undertaking and indemnity. The prior T3 conflict consent was noted. The director considered the current constitution, executed T1 and each T1A, register and certificate evidence, T6 and T10 if used. Outstanding conditions: [NONE / SPECIFIC CONDITIONS].
+2. Registration decision
+Each completed T1A was approved as an acceptable transfer instrument for section 94. The transfer of all the shares identified in S1 from Shane to Noesis AI Agent System Limited, CRO 805939, was approved under the constitution and section 95, subject to delivery of the properly executed instrument, satisfactory title evidence, full payment under T1 and duly stamped status or a verified exemption. The registration fee is set at nil.
+John was authorised to enter Noesis as holder when all those conditions have been met, record Shane’s cessation and record the actual date and time in T6 and T9. Shane remains the registered holder until that entry. A conditional approval gives no authority for premature registration.
+3. Certificate and seal
+The old certificate shall be surrendered and marked cancelled following registration, while retained in the records. If unavailable, the director must first accept the completed T10 and supporting evidence, or record satisfactory evidence that no certificate was issued. The shares themselves are not cancelled.
+After registration, T8 is approved for the actual share class, quantity and paid-up position. The common seal may be affixed under regulation 6, signed by Shane as director and countersigned by John as secretary. No certificate fee is charged. Issue promptly and within section 99’s applicable period. Use separate certificates for separate classes.
+4. Records and close
+[Y] John shall complete T6, T7 and T9, retain the instrument and stamp evidence, enter the interest declaration within three days, update the beneficial ownership particulars where required and arrange the next B1 record. Any target contract with Shane, including T10 if accepted while he is sole member, shall be retained for section 255. Meeting closed at [TIME].
+Signature: ____________________________________
+Shane McCarthy | chair, signing these minutes as a correct record
+[Y] Date: [ACTUAL SIGNING DATE]     Time: [ACTUAL SIGNING TIME]
+T6 Completion and stamp record
+Mainly Velocity Limited | CRO 804908
+Complete for this company. This record supports the actual register entry and is retained with the executed stock transfer form. The solicitor should settle the stamp-duty mechanics. [6, 7]
+Check or event
+Record / evidence
+Market value and tax review
+[Y] [HOLDING VALUE / VALUATION DATE / PAT’S REFERENCE]; [CGT COST AND TREATMENT REVIEW].
+Larger transaction or series
+[Y] [RELATED TRANSFERS / VALUES / CONSIDERATION / AGGREGATE]. Consider Mainly Velocity, Sancelvio, Zubelsala and Asterial or other transfers where linked.
+Stamp treatment
+[Y] [CHARGEABLE / EXEMPT]; [STATUTORY BASIS]; [SECTION 30 UNDERVALUE REVIEW]; [SPECIAL ASSET RULES CHECK].
+Duty and evidence
+[Y] [CHARGEABLE AMOUNT / RATE / DUTY]; [REVENUE STAMP CERTIFICATE / EXEMPTION EVIDENCE REFERENCE].
+Solicitor’s registration confirmation
+[Y] [SOLICITOR / DATE / REFERENCE CONFIRMING STAMP REQUIREMENTS SATISFIED].
+Prior approvals
+[Y] T2 [SIGNING / RECEIPT]; T3 [SIGNING / RECEIPT]; T4 [ACTUAL MEETING DATE / TIME].
+Contract and instrument executed
+[Y] T1 [DATE / TIME]; T1/S1 notice received by target [DATE / TIME]; T1A [EXECUTION / DELIVERY DATE / TIME / NUMBER OF FORMS].
+Full price received by Shane
+[Y] €[TOTAL CASH PRICE]; [ACTUAL PAYMENT DATE / TIME / REFERENCE]; T1 receipt signed [DATE / TIME].
+Registration approval
+[Y] T5 [ACTUAL MEETING DATE / TIME]; [ALL CONDITIONS SATISFIED / OUTSTANDING].
+Transfer actually entered
+[Y] [ACTUAL REGISTER ENTRY DATE / TIME]; [REGISTER PAGE]; Noesis now holds all issued shares.
+Certificate and record completion
+[Y] [OLD CERTIFICATE CANCELLED / T10]; [T8 CERTIFICATE NUMBER / SEAL DATE / DELIVERY]; [T7 AND T9 REFERENCES].
+Stamp deadline, if chargeable
+[Y] [EXECUTION DATE]; [44-DAY RETURN / PAYMENT DEADLINE]; [ACTUAL FILING / PAYMENT DATE]. Stamping must precede registration.
+I confirm that the conditions for registration were satisfied before the actual entry recorded above, and that the entries and supporting documents have been retained.
+Signature: ____________________________________
+John Michael Webb O'Rourke | company secretary, completion record
+[Y] Date and time: [ACTUAL DATE / TIME]
+The ordinary share-transfer stamp rate is 1%. The €1,000 exemption requires the applicable larger-transaction/series test as well as the individual threshold. A gift or voluntary disposition may use value instead of cash consideration. Do not infer exemption from the €1 per-share price. [6]
+T7 Interest notice and ownership record
+Mainly Velocity Limited | CRO 804908
+To Mainly Velocity Limited and, as appropriate, Noesis AI Agent System Limited. Deliver this supplement on completion. The initial contract-sale notice is given immediately by delivery of signed T1 and S1. Keep both records.
+I, Shane McCarthy, notify the following transaction and interests, for the applicable Companies Act 2014 provisions and the companies’ records. This notice is supplementary to the declarations made at T4 and T5.
+Particular
+Notification
+Previous registered holding
+All issued shares in Mainly Velocity Limited: the quantity, class and paid-up position in completed S1.
+Disposal and consideration
+[Y] Transfer to Noesis AI Agent System Limited, CRO 805939, under T1/T1A for €[TOTAL CASH PRICE], €1.00 per share.
+Actual dates
+[Y] [CONTRACT DATE]; [TRANSFER REGISTRATION DATE / TIME].
+Interest after completion
+[Y] Noesis is the sole registered shareholder. I remain its sole shareholder and retain an indirect 100% economic ownership of the Target through Noesis. [CONFIRM CONTROL BY REFERENCE TO ACTUAL CLASS RIGHTS].
+Other relevant interests
+[Y] [OTHER RELEVANT INTERESTS OR ENTITLEMENTS / NONE].
+Signature: ____________________________________
+Shane McCarthy | director and transaction party, giving this notice personally
+[Y] Date: [ACTUAL SIGNING DATE]     Time: [ACTUAL SIGNING TIME]
+Secretary’s record
+[Y] Notice received [DATE / TIME]. Enter any information required by section 267 within three days of receipt. Record the section 264(2) wholly owned subsidiary exception where applicable. Keep the section 231 contracts-interest book separate from share-interest records. [4, 10]
+Beneficial ownership and follow-through
+Entry / action
+Natural-person beneficial owner
+Shane McCarthy. Preserve existing identity details and original beneficial-owner entry date where unchanged.
+Nature and extent after completion
+Indirect 100% ownership through Noesis AI Agent System Limited, CRO 805939. Record control accurately from the confirmed class rights.
+Internal change and RBO
+[Y] [EFFECTIVE CHANGE / INTERNAL UPDATE DATE]; [RBO UPDATE REQUIRED / BASIS]; [14-DAY DEADLINE / FILING DATE / REFERENCE].
+Noesis record and next B1
+[Y] [REVIEW OF NOESIS BENEFICIAL-OWNER PARTICULARS]; [TARGET NEXT B1 DATE / OWNER / COMPLETION REFERENCE].
+Signature: ____________________________________
+John Michael Webb O'Rourke | secretary recording the notice and ownership follow-through
+[Y] Date and time: [ACTUAL DATE / TIME]
+T8 Share certificate
+Mainly Velocity Limited | CRO 804908
+Private company limited by shares, incorporated in Ireland
+[Y] Certificate number: [NEW CERTIFICATE NUMBER]
+[Y] [NUMBER OF SHARES] [EXACT SHARE CLASS]
+[Y] This is to certify that Noesis AI Agent System Limited, company number 805939, of [NOESIS CURRENT REGISTERED OFFICE], is the registered holder of [NUMBER OF SHARES] [EXACT SHARE CLASS] of [NOMINAL VALUE PER SHARE] each in Mainly Velocity Limited, subject to its constitution.
+[Y] Amount paid per share: [AMOUNT PAID PER SHARE]. Amount unpaid per share: [AMOUNT UNPAID PER SHARE]. [PAID-UP BASIS: CASH / OTHERWISE].
+[Y] Distinctive share numbers, if used: [SHARE NUMBERS / NOT USED].
+[Y] The transfer to the holder was registered on [ACTUAL TRANSFER REGISTRATION DATE]. This certificate replaces the certificate numbered [OLD CERTIFICATE NUMBER / OTHER APPROVED TITLE EVIDENCE], following that transfer. The shares retain the class and nominal value stated above.
+[Y] Given under the common seal of Mainly Velocity Limited on [ACTUAL CERTIFICATE DATE], under the authority recorded in T5.
+Common seal:
+Signed: ____________________________________
+Shane McCarthy | Director of Mainly Velocity Limited
+Countersigned: ____________________________________
+John Michael Webb O'Rourke | Company secretary of Mainly Velocity Limited
+Complete and seal only after registration. Use one certificate per class. Companies Act 2014, section 99 and regulation 6 of the current constitution. [5]
+T9 Register of members and transfer log
+Mainly Velocity Limited | CRO 804908
+Make these entries in the actual statutory register at completion. Preserve the existing record and its original dates. Noesis is entered as legal holder; Shane’s indirect beneficial interest is recorded separately. [5, 9]
+Entry
+Particulars for the register
+Shane’s existing entry
+[Y] Shane McCarthy; [SHANE CURRENT ADDRESS]. Original date entered as member: [EXISTING DATE, RETAIN]. Existing register reference: [REFERENCE].
+Shane’s disposal and cessation
+[Y] Transferred [NUMBER OF SHARES] [EXACT SHARE CLASS] of [NOMINAL VALUE PER SHARE] each to Noesis. Amount paid per share [AMOUNT PAID PER SHARE]. Holding after transfer: nil. Date ceased as member: [ACTUAL REGISTRATION DATE].
+New member
+[Y] Noesis AI Agent System Limited, company number 805939, of [NOESIS CURRENT REGISTERED OFFICE].
+Noesis admission and holding
+[Y] Date entered as member: [ACTUAL REGISTRATION DATE]. [NUMBER OF SHARES] [EXACT SHARE CLASS] of [NOMINAL VALUE PER SHARE] each. Amount paid/agreed treated paid per share: [AMOUNT PAID PER SHARE]; unpaid: [AMOUNT UNPAID PER SHARE].
+Distinctive numbers and class entries
+[Y] [DISTINCTIVE NUMBERS / NOT USED]. [ADDITIONAL CLASS HOLDING ENTRIES / NONE]. The total transferred is all issued shares.
+Authority and references
+[Y] T1A [FORM REFERENCES / EXECUTION DATES]; T5 [APPROVAL]; T6 [STAMP / COMPLETION]; new certificate [NUMBER / DATE].
+Transfer and certificate log
+Record
+Entry
+Transfer entry
+[Y] [TRANSFER NUMBER]; Shane McCarthy to Noesis; [NUMBER OF SHARES] [EXACT SHARE CLASS]; cash price €[TOTAL CASH PRICE]; registered [DATE / TIME].
+Old certificate
+[Y] [NUMBER]; surrendered and marked cancelled [DATE] / T10 accepted [DATE / REFERENCE]. Retain it with the records.
+New certificate
+[Y] [NUMBER]; issued under seal [DATE]; delivered to Noesis [DATE / RECIPIENT].
+Noesis investment record
+[Y] Acquisition of all issued shares in Mainly Velocity Limited, CRO 804908; cash paid €[TOTAL CASH PRICE]; [PAYMENT / ACCOUNTING ENTRY REFERENCE]. Pat to determine the accounting treatment.
+Entered and checked against the completed instruments:
+Signature: ____________________________________
+John Michael Webb O'Rourke | company secretary / register administrator
+[Y] Date and time: [ACTUAL DATE / TIME]
+T10 Optional certificate statement
+Mainly Velocity Limited | CRO 804908
+Use only if the existing certificate is unavailable. If it is surrendered, mark this section “Not required”. Complete the true reason and obtain the director’s acceptance before registration or certificate replacement. [2, 5]
+[Y] To Mainly Velocity Limited, CRO 804908 (the Company). I, Shane McCarthy, of [SHANE CURRENT ADDRESS], make the following statement and undertaking concerning the shares described in completed S1 and T1A.
+1. Certificate and title
+[Y] Certificate number: [NUMBER / UNKNOWN / NEVER ISSUED]. It relates to [NUMBER / CLASS / NOMINAL VALUE] shares registered in my name. The certificate is unavailable because [TRUE CIRCUMSTANCES: LOST / DESTROYED / NEVER ISSUED / OTHER]. The records and searches supporting this statement are [DETAILS].
+[Y] I confirm that the share particulars and my registered ownership are accurate and that I have not pledged, charged, deposited or otherwise used the certificate or shares to confer a conflicting right on another person. There is no outstanding transfer or claim affecting them other than the transfer to Noesis AI Agent System Limited identified in this pack, except [DETAILS / NONE].
+2. Request and undertaking
+I request the Company to accept the evidence identified above in place of production of the certificate, register the approved transfer and issue the certificate to Noesis. If the original certificate is later found, I will deliver it promptly to the Company for cancellation and will not use it.
+In consideration of the Company acting on this request, I agree to indemnify it against reasonable loss, liability and costs directly resulting from an inaccurate statement above or a competing claim founded on the missing certificate. The indemnity excludes loss caused by the Company’s fraud or wilful default. Irish law applies.
+Signature: ____________________________________
+Shane McCarthy | registered holder, signing personally
+[Y] Date: [ACTUAL SIGNING DATE]     Time: [ACTUAL SIGNING TIME]
+3. Director acceptance
+[Y] Having considered the statement, the register, the supporting evidence and the conflict consent in T3, the director accepts this evidence and undertaking for the limited purposes above, subject to [FURTHER CONDITIONS / NONE]. This document and the supporting evidence shall be retained with T5 and T6.
+Signature: ____________________________________
+Shane McCarthy | director signing for Mainly Velocity Limited
+[Y] Date: [ACTUAL 

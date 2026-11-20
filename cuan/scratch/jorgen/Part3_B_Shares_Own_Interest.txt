@@ -1,0 +1,276 @@
+PART 3: B SHARES IN NOESIS (Pat's first drafts of 20 Nov 2026, 11:04). John is a named Performance B holder.
+
+=== 3A INITIAL SHAREHOLDING TABLE ===
+Proposed initial shareholding
+Noesis AI Agent System Limited   CRO 805939   20 November 2026
+Proposed structure on Completion: 200 shares of €1 nominal value, held by eleven shareholders. Shane holds 87% of the initial issued capital and all A general voting rights. The ten B shareholders hold 13% together and have no general voting rights.
+Shareholder
+Share category
+Shares
+% of total issued capital
+Nominal capital
+Shane McCarthy
+A Ordinary
+174
+87%
+€174
+Muireann O’Toole Brennan
+Fixed B
+2
+1%
+€2
+Sarah Elebert
+Fixed B
+2
+1%
+€2
+Stephen Dunworth
+Fixed B
+2
+1%
+€2
+Thomas Moore
+Fixed B
+2
+1%
+€2
+Paul O’Brien
+Fixed B
+2
+1%
+€2
+Colin Clarke
+Fixed B
+2
+1%
+€2
+Brendan Murphy
+Fixed B
+2
+1%
+€2
+John Webb O’Rourke
+Performance B
+4
+2%
+€4
+Thomas Stapleton
+Performance B
+4
+2%
+€4
+Pat Carroll
+Performance B
+4
+2%
+€4
+TOTAL
+All categories
+200
+100%
+€200
+B subtotal: seven fixed holders × 2 shares = 14 shares (7%); three performance holders × 4 shares = 12 shares (6%). Total B: 26 shares (13%). Each performance interest starts at 2%, subject to its agreed terms.
+[Assumption: Shane currently holds the original 100 fully paid €1 Ordinary shares and no other shares have been issued.] Implementation requires their designation as A, 74 additional paid A shares for Shane and 26 paid B shares. The statutory books must confirm the starting position.
+These percentages apply to the initial 200 issued shares. Later capital percentages may change while the agreed economic percentages remain protected. The final Constitution must reflect the share categories and rights. Nominal capital does not establish the actual subscription price.
+Suggested completion wording
+“The Company shall authorise execution of this Agreement before signature. Completion requires adoption of a Constitution consistent with the agreed share rights, the necessary allotment authority and corporate approvals, payment of the agreed subscription monies, and coordinated completion of the ten B subscriptions. Any agreement to allot made before the required shareholder resolutions are passed is expressly conditional on their passing.
+Immediately following Completion, the issued share capital shall comprise 174 A Ordinary Shares held by Shane McCarthy, 14 Fixed B shares held equally by seven shareholders and 12 Performance B shares held equally by three shareholders, all €1 nominal, totalling 200 shares, with no other issued shares. The Company shall update its register of members, issue or replace the appropriate share certificates and make the required filings.”
+Source: Shane McCarthy’s shareholding breakdown dated 19 November 2026, pages 1 to 4. This table records the proposed completion structure, subject to the statutory books and final approvals.
+Legal references: Companies Act 2014 s69   |   s70(3)(a) and (7)
+=== 3B FIXED B AGREEMENT (1 percent) ===
+Fixed B Ordinary shareholder agreement
+Protected 1 percent economic interest
+Date of signature: ___________________________________________________
+Between Noesis AI Agent System Limited, company number 805939, of 86 O’Connell Street, Limerick (the Company), the individual below (the Holder), and Shane McCarthy personally (Shane).
+Holder name: ________________________________________________________
+Residential address: __________________________________________________
+____________________________________________________________________
+____________________________________________________________________
+PPS number: ________________________________________________________
+Passport number: ____________________________________________________
+Legal B class or subclass: ______________________________________________
+Total cash subscription price: €__________________________________________
+1 Initial holding and completion
+The Holder subscribes for 2 fully paid B Ordinary Shares of €1 each, carrying a protected 1% economic interest, for the subscription price above, at least €2. The price must be supported by a current valuation of the actual rights.
+The Act means the Companies Act 2014 as amended; the Constitution is the registered constitution as lawfully amended. Completion means the actual authorised and paid allotment. Business days exclude weekends and Irish public holidays.
+Completion requires a consistent Constitution, lawful authority before signature, payment and coordinated completion of the ten B subscriptions. Initial capital shall be 174 A shares for Shane, fourteen fixed B shares across seven holders and twelve performance B shares across three holders, all €1 nominal, with no other issued shares. The Company shall update its registers and certificate.
+2 No voting or management rights
+The B shares carry no general voting rights whatsoever, board seat, appointment or nomination right, management role, reserved-matter approval or discretionary veto. Non-excludable statutory votes, class consents, meeting, information and court rights remain. No optional governance right is added. Appointments and professional engagements are separate.
+3 Protected economics
+The Protected Percentage applies to gross lawful shareholder distributions before withholding and to capital available after liabilities and costs. Asset-sale proceeds belong to the Company until distributed lawfully. The B pool starts at 13%, subject to the three performance agreements. Other share interests share the remainder under the Constitution.
+Investment, new shares, option exercises and voluntary capital actions preserve the Protected Percentage without recurring top-ups. Issued-capital percentages may change. No return is guaranteed. Creditors’ rights, distribution rules and mandatory class protections apply.
+The Protected Holding is these two shares and their replacements. This fixed 1% interest carries no performance or continued-service condition under this Agreement. Its rights follow the entire holding on transfer or lawful succession and cannot multiply through a change of owner.
+Fixed B Ordinary shareholder agreement
+Continuation   Transfers and valuation
+4 Shane and the Company
+Shane shall use his shareholder powers and A Consents to implement these terms lawfully. The Company and Shane shall maintain a consistent Constitution and honour the economic promises. Directors’ duties apply. Before a control transfer Shane shall procure equivalent binding undertakings from the incoming controller, preserving accrued liabilities.
+5 Transfer rules
+For three years from Completion, transfer requires Shane’s written agreement, except under clause 7 or by lawful transmission on death or bankruptcy. Thereafter the Holder shall offer the whole Protected Holding first to Shane. No partial voluntary transfer is permitted. Personal representatives and lawful successors take the same rights and restrictions.
+Shane may accept within twenty business days after the complete offer and final price, with completion twenty business days later. A matching purchase price shall be the higher of the qualifying third-party offer and Protected Market Price under clause 6. Shane may decline; this first-refusal right does not oblige him to buy.
+If Shane declines or fails to complete, an external sale may complete within ninety days on terms no more favourable to the buyer; otherwise a fresh offer is required. The buyer must assume these terms. Registration remains subject to law and the Constitution.
+6 Market price and disputes
+Protected Market Price is the actual interest’s proportionate share of whole-company equity market value. Its valuation date is the Holder’s written transfer offer for a voluntary sale, or the event or purchase notice for a compulsory sale, before protection ends. Reflect assets, IP, liabilities, funding, prospects and class rights. Apply no minority, illiquidity, forced-sale or personal-performance discount. Business performance may affect Company value.
+The price shall be at least any higher genuine written cash offer from an independent, funded buyer for the same interest on materially equivalent terms. An offer does not override transfer restrictions. Unearned interests are not valued as already earned; enforceable rights are valued on their actual terms. The valuer shall adjust for distributions between valuation and completion to prevent double counting.
+The parties have ten business days to agree value or jointly appoint an independent accountant or corporate-finance professional experienced in private-company valuations. A jointly appointed expert shall report within twenty business days. Each party may give evidence and comment on the other’s material submissions.
+If no joint appointment is agreed, each shall appoint a qualified independent valuer within ten further business days. Reports are due within twenty business days of appointment. Two timely reports determine value at their arithmetic mean; a sole timely report determines value alone. Valuers must apply identical instructions. Required information shall be supplied promptly under confidentiality.
+The written valuation binds the parties except for fraud or manifest error. A challenge must identify the error within ten business days of receipt, for correction or explanation within ten further business days. Legal disputes and unresolved errors may be referred to the Irish courts. No interest is transferred before the price is final and paid.
+The parties bear equal reasonable joint valuation costs, or their own nominee’s costs. If both valuers fail to report, the first-refusal right expires for that sale. Any sale still needs to satisfy clause 5. Price disputes confer no general governance right.
+Fixed B Ordinary shareholder agreement
+Continuation   Exit general terms and signatures
+7 Whole company sale
+On an independent whole-company sale the Holder receives the Protected Percentage of total share consideration, including deferred or contingent amounts, on equal terms per economic unit. Expenses, escrow and retentions follow that proportion. Consideration shall not be diverted to defeat these rights.
+Holders of more than 50% of A votes may require the Holder to join, on ten business days’ notice of buyer, price, allocation and terms. The genuine arm’s-length sale price governs. The constitutional control-sale offer remains open twenty calendar days after delivery to the last entitled member. Completion awaits both periods.
+Holder assurances cover title, authority and capacity only. Liability is several and capped at their proceeds, without business warranties, non-competes or guarantees. Mandatory remedies remain. The buyer assumes continuing protected rights. The seller’s future entitlement ends, accrued claims remain and no replacement interest arises.
+8 General terms
+The Holder need not fund or guarantee Company debts. Each party bears their tax; required deductions and reporting apply. Shares are non-redeemable. The Company has no purchase obligation here.
+Non-public information is confidential, subject to disclosure to advisers, a confidential buyer, authorities or courts, or as legally required or reasonably needed to exercise a right.
+Irish law and exclusive Irish court jurisdiction apply. Written notices follow the Constitution and law at the registered office or notified address, with required consent for electronic delivery.
+The Act takes priority; this contract does not itself amend the Constitution. Amendments require the parties’ signatures and applicable class procedures. No other governance approval arises. Fraud, mandatory remedies and accrued liabilities remain. Counterparts may be signed.
+Signatures
+Signed for Noesis AI Agent System Limited by its authorised signatory
+Signature: __________________________________  Name: __________________
+Capacity: ___________________________________  Date: __________________
+Signed by Shane McCarthy personally
+Signature: __________________________________  Date: __________________
+Signed by the Holder
+Signature: __________________________________  Date: __________________
+Printed name: ________________________________________________________
+=== 3C PERFORMANCE B AGREEMENT (2 percent; John, Tom Stapleton, Pat Carroll) ===
+Performance B Ordinary shareholder agreement
+Initial 2 percent economic interest with performance terms
+Date of signature: ___________________________________________________
+Between Noesis AI Agent System Limited, company number 805939, of 86 O’Connell Street, Limerick (the Company), the individual below (the Holder), and Shane McCarthy personally (Shane).
+Holder name: ________________________________________________________
+Residential address: __________________________________________________
+____________________________________________________________________
+____________________________________________________________________
+PPS number: ________________________________________________________
+Passport number: ____________________________________________________
+Legal B class or subclass: ______________________________________________
+Total cash subscription price: €__________________________________________
+1 Initial holding and dates
+The Holder subscribes for 4 fully paid B Ordinary Shares of €1 each, for the cash price above, at least €4 and supported by a current valuation of the actual rights. Two shares form the Core Tranche, carrying 1%. Two form the Conditional Tranche, initially carrying a further 1%. Together they start at 2%.
+The Act means the Companies Act 2014 as amended; the Constitution is the registered constitution as lawfully amended. Completion means the actual authorised and paid allotment. Business days exclude weekends and Irish public holidays.
+The Performance Start Date is 1 November 2026. The retention period ends 31 October 2027; growth periods end 31 October 2028 and 31 October 2029. Signature, ownership, allotment and tax valuation dates remain their actual dates. Earlier contributions may be credited if evidenced and agreed. No earlier failure is created by a target introduced later.
+Before Completion, the parties must adopt a consistent Constitution, obtain required authority, agree the role, resources and performance schedules, and pay the subscription price. Initial capital shall be 174 A shares, fourteen fixed B shares and twelve performance B shares, all €1 nominal. Registers shall identify each tranche. Incomplete performance schedules do not authorise Completion.
+2 No voting or management rights
+The B shares carry no general voting rights whatsoever, board seat, appointment or nomination right, management role, reserved-matter approval or discretionary veto. Non-excludable statutory votes, class consents, meeting, information and court rights remain. No optional governance right is added. Appointments and professional engagements are separate.
+3 Protected economics
+The Protected Percentage applies to gross lawful shareholder distributions before withholding and to capital available after liabilities and costs. Asset-sale proceeds belong to the Company until distributed lawfully. The B pool starts at 13%, subject to the three performance agreements. Other share interests share the remainder under the Constitution.
+Investment, new shares, option exercises and voluntary capital actions preserve the Protected Percentage without recurring top-ups. Issued-capital percentages may change. No return is guaranteed. Creditors’ rights, distribution rules and mandatory class protections apply.
+The Protected Holding includes retained core and conditional shares and earned growth shares. Its Protected Percentage is their total protected economic entitlement, initially 2%, subject to completed purchases and growth transfers below. No automatic cancellation or unpaid forfeiture applies.
+Performance B Ordinary shareholder agreement
+Continuation   Performance retention and growth
+4 First year conditional tranche
+The Core Tranche remains protected at 1%. The Conditional Tranche is subject to the agreed retention standards and continued performance of the agreed role during the period ending 31 October 2027. A departure during that period is addressed under clause 7.
+Purchase requires two consecutive deficient quarters under the signed standards or a material obligation left unremedied after written particulars and twenty business days to cure. An isolated minor administrative failure is insufficient. Exclude or fairly reschedule authorised absence and delays outside reasonable control, including withheld agreed resources.
+The board must serve a provisional trigger notice, identifying the alleged first-year failure and evidence, within twenty business days after 31 October 2027, or within twenty business days after an earlier cure period expires. The Holder has twenty business days to respond; a reasoned board decision follows within twenty further business days. A purchase notice is due within twenty business days of that decision. A timely disputed notice remains effective pending clause 5 review.
+Following a final determination of failure, the Holder shall sell the Conditional Tranche and Shane shall purchase it at Protected Market Price under clauses 8 and 9. The share rights remain with the Holder until payment and transfer. Performance determines the sale trigger; it imposes no separate price penalty.
+5 Fair determination
+The board applies signed objective criteria. Nobody determines their own award. Conflicts require lawful handling and independent review where needed. Factual findings may be challenged within twenty business days. The Schedule 1 reviewer receives both sides’ evidence and gives reasons within twenty business days, subject to reasonable extension.
+A reviewer acts as an expert on factual performance issues. Legal questions and fraud or manifest error remain for the Irish courts. If the named reviewer and alternate cannot act and no replacement is agreed within ten business days, either party may seek court determination. No compulsory transfer proceeds while the relevant determination is unresolved.
+6 Additional growth interests
+The separate Schedule 2 milestones may earn one additional percentage point by 31 October 2028 and one further point by 31 October 2029. Each needs its agreed output and evidence. Time or ordinary role performance alone earns no increase. Work cannot count twice.
+For each earned point, Shane shall transfer two fully paid A shares, or their proportionate replacement shares, lawfully reclassified into a B growth tranche carrying a protected 1%. These are initial share units; after investment their capital percentage may differ. The constitutional right must still carry the full protected economic point. No additional cash purchase price is payable for the growth transfer. Shane shall reserve four A shares per performance holder, twelve across all three, until the rights are resolved. The Company shall arrange the agreed constitutional machinery and approvals.
+The board shall certify each timely earned milestone within twenty business days; clause 5 applies to disputes. Transfer follows within twenty business days after final certification and required tax arrangements. A milestone earned by its deadline is not lost through later administrative completion. A purchased Conditional Tranche is not automatically restored. A holder reduced to 1% can earn up to 3% through these two growth steps; a holder retaining 2% can reach 4%. The non-B residual bears the agreed increases, disclosed upfront to investors.
+Performance B Ordinary shareholder agreement
+Continuation   Leavers compulsory purchase and price
+7 Death incapacity and departure
+On death, permanent incapacity preventing the agreed role, or termination of that role, the entire Protected Holding shall be sold at Protected Market Price to Shane. Permanent incapacity requires independent medical evidence and a reasonable review of adjustments. The agreed role and any termination take effect under their own lawful engagement terms; B shares give no guaranteed appointment.
+The Company shall give a written event notice within twenty business days after reliable evidence and, following death, confirmation of a personal representative able to act. The notice must identify the interest, evidence and valuation date. Disputed events follow clause 5. Achieved but uncertified growth is determined first. Unearned growth rights end without automatic acceleration; properly paid dividends remain with the Holder or estate.
+8 Purchase completion and funding
+The purchase obligation binds Shane personally once the trigger is finally established, without an aggregate euro cap. It continues after a control transfer unless all parties expressly agree a release or novation; an incoming undertaking alone does not release him. It gives no guarantee of Company debts. The Holder must transfer against payment; no punitive price deduction is authorised.
+Completion is due within twenty business days after final price and entitlement are established, against cleared funds and signed transfer documents. Shane funds his purchase. Company funding or security requires its own lawful basis and is not authorised here. Shane bears the reasonable valuation costs of a compulsory purchase; each party otherwise bears their own advisers’ fees and tax.
+A Company purchase may replace Shane’s purchase only with the seller’s written agreement after tax review, lawful funding, all required approvals and separate purchase terms under sections 105 and 106 of the Act. This Agreement gives the Company no purchase option or obligation. Shane is released only on the substitute purchase completing, or by an express written release.
+On Shane’s compulsory purchase, protected status ends simultaneously with full payment and lawful reclassification into non-protected residual shares. A Company purchase requires agreed lawful cancellation or other permitted treatment and release of protection. Other B percentages remain protected. After investment the released economics may benefit other residual holders too; the Constitution and funding terms must specify this allocation. Protection cannot end before valuation and payment.
+Performance B Ordinary shareholder agreement
+Continuation   Valuation and other transfers
+9 Protected Market Price and disputes
+Protected Market Price is the actual interest’s proportionate share of whole-company equity market value. Its valuation date is the Holder’s written transfer offer for a voluntary sale, or the event or purchase notice for a compulsory sale, before protection ends. Reflect assets, IP, liabilities, funding, prospects and class rights. Apply no minority, illiquidity, forced-sale or personal-performance discount. Business performance may affect Company value.
+The price shall be at least any higher genuine written cash offer from an independent, funded buyer for the same interest on materially equivalent terms. An offer does not override transfer restrictions. Unearned interests are not valued as already earned; enforceable rights are valued on their actual terms. The valuer shall adjust for distributions between valuation and completion to prevent double counting.
+The parties have ten business days to agree value or jointly appoint an independent accountant or corporate-finance professional experienced in private-company valuations. A jointly appointed expert shall report within twenty business days. Each party may give evidence and comment on the other’s material submissions.
+If no joint appointment is agreed, each shall appoint a qualified independent valuer within ten further business days. Reports are due within twenty business days of appointment. Two timely reports determine value at their arithmetic mean; a sole timely report determines value alone. Valuers must apply identical instructions. Required information shall be supplied promptly under confidentiality.
+The written valuation binds the parties except for fraud or manifest error. A challenge must identify the error within ten business days of receipt, for correction or explanation within ten further business days. Legal disputes and unresolved errors may be referred to the Irish courts. No interest is transferred before the price is final and paid.
+If both valuers fail to report, the parties shall seek a replacement within ten business days, failing which either may seek court determination; the purchase obligation and existing rights continue. If buyer-caused delay extends completion beyond sixty business days after the valuation date, the seller may require an update. The higher of the original and updated value then applies. Undetermined counterclaims cannot be deducted from the price.
+10 Other transfers and personal undertakings
+Shane shall use his shareholder powers and A Consents to implement these terms lawfully. The Company and Shane shall maintain a consistent Constitution and honour the economic promises. Directors’ duties apply. Before a control transfer Shane shall procure equivalent binding undertakings from the incoming controller, preserving accrued liabilities.
+For three years from Completion, voluntary transfer requires Shane’s written agreement, except under clause 11. Thereafter the Holder must offer the entire Protected Holding first to Shane. He has twenty business days after the complete offer and final price to accept, and twenty further business days to complete. He may decline a voluntary purchase. The matching price is at least the Protected Market Price or a higher qualifying independent offer.
+If Shane declines or defaults, an external sale may complete within ninety days on terms no more favourable to the buyer, otherwise a fresh offer is required. The buyer must assume applicable continuing terms. Protection follows that voluntary transfer. Compulsory tranche purchases and agreed growth transfers are express exceptions to the whole-holding and three-year restrictions. A transfer cannot multiply the economic interests.
+Performance B Ordinary shareholder agreement
+Continuation   Exit general terms and signatures
+11 Whole company sale
+On an independent whole-company sale the Holder receives the Protected Percentage of total share consideration, including deferred or contingent amounts, on equal terms per economic unit. Expenses, escrow and retentions follow that proportion. Consideration shall not be diverted to defeat these rights.
+Holders of more than 50% of A votes may require the Holder to join, on ten business days’ notice of buyer, price, allocation and terms. The genuine arm’s-length sale price governs. The constitutional control-sale offer remains open twenty calendar days after delivery to the last entitled member. Completion awaits both periods.
+Holder assurances cover title, authority and capacity only. Liability is several and capped at their proceeds, without business warranties, non-competes or guarantees. Mandatory remedies remain. The buyer assumes continuing protected rights. The seller’s future entitlement ends, accrued claims remain and no replacement interest arises.
+For this exit, actual sale terms replace an internal compulsory purchase. Determine achieved but uncertified growth before allocating consideration; unearned growth does not accelerate. The initial annual targets remain subject to the agreed dates and criteria.
+12 General terms
+The Holder need not fund or guarantee Company debts. Each party bears their tax; required deductions and reporting apply. Shares are non-redeemable. The Company has no purchase obligation here.
+Non-public information is confidential, subject to disclosure to advisers, a confidential buyer, authorities or courts, or as legally required or reasonably needed to exercise a right.
+Irish law and exclusive Irish court jurisdiction apply. Written notices follow the Constitution and law at the registered office or notified address, with required consent for electronic delivery.
+The Act takes priority; this contract does not itself amend the Constitution. Amendments require the parties’ signatures and applicable class procedures. No other governance approval arises. Fraud, mandatory remedies and accrued liabilities remain. Counterparts may be signed.
+This Agreement creates no director appointment or professional engagement. Role duties, scope, resources and fees require their own written terms. Initial and growth entitlements may have employment, service, gift or disposal tax consequences. Required tax funding and reporting must be settled before the relevant transaction; no tax relief or tax-free treatment is promised.
+Signatures
+Signed for Noesis AI Agent System Limited by its authorised signatory
+Signature: __________________________________  Name: __________________
+Capacity: ___________________________________  Date: __________________
+Signed by Shane McCarthy personally
+Signature: __________________________________  Date: __________________
+Signed by the Holder
+Signature: __________________________________  Date: __________________
+Printed name: ________________________________________________________
+Performance schedule for approval
+Schedule 1   Retention standards and independent review
+Holder: _____________________________________________________________
+Agreed role and separate engagement reference: ________________________________________________________________________________________________
+Resources authority dependencies and agreed fees if any: _________________________________________________________________________________________
+Proposed standards. These become operative only when adopted in the signed individual schedule before Completion. Quarterly deliverables and weights must be agreed before their assessment period. Pre-agreement work may be credited by written agreement; no target may create a retrospective failure.
+Measure
+Proposed standard
+Evidence
+Delivery
+At least 85% of agreed weighted quarterly deliverables completed on time
+Dated workplan and accepted outputs
+Participation
+At least 80% of meetings required for the agreed role, excluding authorised absence
+Attendance record with reasons
+Reporting
+Short monthly progress report by the tenth business day of the following month
+Report and action log
+Material obligations
+No material uncured breach after written notice and twenty business days to remedy
+Notice response and remedy record
+A deficient quarter means a weighted delivery score below 85% or required-meeting attendance below 80%, after agreed exclusions and cure. Missing a minor report alone does not make a quarter deficient. A material breach requires evidence of an objectively serious failure under the agreed role.
+Year 1 quarters: 1 November 2026 to 31 January 2027; 1 February to 30 April 2027; 1 May to 31 July 2027; 1 August to 31 October 2027. For any period before targets were agreed, score only prospective targets and expressly credited work.
+The quarterly workplan shall state each output, due date, weighting, acceptance evidence and responsible dependencies. Weights total 100% for each quarter. Delay caused by withheld resources, authorised absence or matters outside reasonable control shall be excluded or rescheduled fairly. These are contribution targets, with no guarantee of funding, revenue or share value.
+Independent performance reviewer: _______________________________________
+Alternate reviewer: ____________________________________________________
+Both appointments require written acceptance before Completion. The engagement shall include the procedure and timetable in clause 5.
+Additional individual standards and agreed exceptions: ________________________________________________________________________________________________________________________________________________________________
+Growth milestones for approval
+Schedule 2   Individual targets and approval
+Choose and adapt the relevant role proposals below. Appointments and professional instructions require separate agreed terms. The final milestones, scope, resources and evidence must be written and signed before Completion.
+Proposed role
+Year 1 retention deliverables
+Separate growth projects
+John legal or company secretarial if instructed
+Agreed constitutional and shareholder documents; registers and filing calendar; quarterly compliance report
+Year 2 governance and contract framework; Year 3 funding or sale due-diligence file and agreed legal close-outs
+Thomas operational remit to be agreed
+Operating plan with owners and deadlines; monthly risk register; agreed project delivery within approved scope and budget
+Year 2 implement and test two agreed operating processes; Year 3 complete a further significant project and documented handover
+Pat finance or advisory under a separate engagement
+Budget and rolling cash forecast; management reporting within fifteen business days of complete agreed records; finance action log
+Year 2 funding-ready financial model and reconciled cap table; Year 3 implemented financial controls and agreed reporting across two consecutive quarters
+Each growth project must identify a distinct, measurable output beyond work already counted for retention or an earlier award. Set deadlines, mandatory acceptance tests and evidence within the Holder’s agreed remit. Do not make company revenue or fundraising success the sole personal target.
+Year 2 additional 1 percent
+Milestone and mandatory acceptance tests: __________________________________________________________________________________________________________________________________________________________________________
+Evidence resources and dependencies: _________________________________________________________________________________________________________
+Deadline: 31 October 2028. Additional award: one percentage point.
+Year 3 further 1 percent
+Milestone and mandatory acceptance tests: __________________________________________________________________________________________________________________________________________________________________________
+Evidence resources and dependencies: _________________________________________________________________________________________________________
+Deadline: 31 October 2029. Additional award: one percentage point.
+Schedules 1 and 2 adopted for this Holder by:
+Company signatory: ______________________________  Date: ________________
+Shane McCarthy: _________________________________  Date: ________________
+Holder: _________________________________________  Date: ________________

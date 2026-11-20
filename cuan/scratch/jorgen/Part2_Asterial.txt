@@ -1,0 +1,383 @@
+PART 2: ASTERIAL. Pat Carroll drafts of 19 Nov 2026. Yellow fields marked [Y].
+
+=== 2A ASTERIAL REVISED CONSTITUTION (same wording as Noesis except where stated; company number 804907, 1 euro nominal and 14 days filled in, and a line that a company holder signs A Consent by an authorised representative in Regulation 5.2) ===
+6c6
+< Company number 805939
+---
+> Company number 804907
+8c8
+< Draft for review and adoption
+---
+> Annex A to the unanimous written special resolutions
+12c12
+< [Y] 4. The share capital of the Company is divided into shares of €[NOMINAL VALUE] each, designated as A Ordinary Shares, B Ordinary Shares, C Ordinary Shares and D Ordinary Shares, with the rights set out in these Regulations. No authorised share-capital ceiling is specified. The number of shares allotted in each class shall be determined in accordance with the Act, these Regulations and the applicable authority to allot. No fixed proportion of the issued share capital is reserved to any cl
+---
+> 4. The share capital of the Company is divided into shares of €1.00 each, designated as A Ordinary Shares, B Ordinary Shares, C Ordinary Shares and D Ordinary Shares, with the rights set out in these Regulations. No authorised share-capital ceiling is specified. The number of shares allotted in each class shall be determined in accordance with the Act, these Regulations and the applicable authority to allot. No fixed proportion of the issued share capital is reserved to any class.
+16c16
+< 5.2 In these Regulations, "A Consent" means consent in writing signed by holders of more than 50 per cent of the voting rights exercisable on the issued A Ordinary Shares and delivered to the Company. Treasury shares and other shares whose votes cannot lawfully be exercised shall be disregarded in calculating that percentage. "Ordinary Shares" means the A Ordinary Shares, B Ordinary Shares, C Ordinary Shares and D Ordinary Shares collectively.
+---
+> 5.2 In these Regulations, "A Consent" means consent in writing signed by holders of more than 50 per cent of the voting rights exercisable on the issued A Ordinary Shares and delivered to the Company. Treasury shares and other shares whose votes cannot lawfully be exercised shall be disregarded in calculating that percentage. "Ordinary Shares" means the A Ordinary Shares, B Ordinary Shares, C Ordinary Shares and D Ordinary Shares collectively. Where a holder is a body corporate, any A Consent 
+100c100
+< [Y] 27.2 No member shall complete a transfer, or connected series of transfers, of A Ordinary Shares for value which would cause a purchaser, alone or together with persons acting under a common arrangement with that purchaser, to obtain more than 50 per cent of the general voting rights unless the purchaser has first made a binding written offer to acquire every other issued Ordinary Share on the same economic terms per share, including the entitlements specified in Regulation 27.1. The Compa
+---
+> 27.2 No member shall complete a transfer, or connected series of transfers, of A Ordinary Shares for value which would cause a purchaser, alone or together with persons acting under a common arrangement with that purchaser, to obtain more than 50 per cent of the general voting rights unless the purchaser has first made a binding written offer to acquire every other issued Ordinary Share on the same economic terms per share, including the entitlements specified in Regulation 27.1. The Company s
+
+(Full text identical to 1A apart from the differences above.)
+
+=== 2B ASTERIAL SHARE TRANSFER COMPLETION PACK (T1 to T7) ===
+Share transfer completion pack
+Asterial Limited | 804907
+100 Ordinary Shares: Shane McCarthy to Noesis AI Agent System Limited
+Target completion: 19 November 2026, subject to actual payment and the stamping position. Use actual dates and times throughout.
+The intended result
+Noesis becomes Asterial’s sole registered shareholder. It then adopts the revised Asterial constitution through Shane as its authorised representative. The same 100 shares become A Ordinary Shares. Shane continues as Asterial’s director and John Webb O’Rourke as secretary.
+Confirmed terms and completion details
+The agreed price is €1.00 per share, €100.00 in total, payable in cash on completion. Pat has confirmed a current market value of €100.00 for all 100 shares and that Asterial has no assets, liabilities or bank accounts. These are the instructed facts used in this pack. The purchase money is payable by Noesis to Shane. Record the actual payment and complete the stamp-duty review before registration. [1, 6]
+John can complete the current addresses, register and certificate references. This pack uses the confirmed current ownership and officers, 100 shares fully paid in cash, and no intervening constitutional amendment or conflicting commitment. It assumes that the previously prepared Asterial revised constitution has not yet been adopted. If it has already been signed, the transferred class and adoption sequence must be updated before this pack is used.
+No.
+Action and document
+Who acts
+1
+Complete administrative fields and the stamp review. Attach the exact proposed Asterial resolutions and constitution to T4.
+Pat and John, with Tom assembling the company records.
+2
+Sign T2 and T3 before the purchase arrangement is signed.
+Shane, separately as sole member of Noesis and of Asterial.
+3
+Hold the short Noesis director meeting, T4. Sign T1 and the stock transfer. Arrange the €100 completion payment and receipt.
+Shane as director and seller in the stated capacities. John attends and records the meeting.
+4
+Complete stamping or establish exemption. Hold the Asterial director meeting, T5. Complete registration record T6.
+Pat confirms duty treatment. Shane approves registration. John enters Noesis in the register.
+5
+Use the updated Adoption Signing Pack only after that entry. Sign T7 and complete remaining records.
+Shane, John and Pat in the capacities stated in the documents.
+T1 is signed after the prior approvals in T2 to T4. Draft minutes must be completed to reflect meetings actually held. The separate stock transfer form is the instrument delivered to Asterial. No particular issue of Noesis or Asterial shares is approved by this pack.
+T1 Agreed share purchase terms
+Asterial Limited | 804907
+[Y] Parties: Shane McCarthy of [SHANE’S CURRENT ADDRESS] (Seller) and Noesis AI Agent System Limited, company number 805939, of [PARENT’S CURRENT REGISTERED OFFICE] (Purchaser).
+Transaction particular
+Agreed term
+Shares
+All 100 issued Ordinary Shares of €1.00 each in Asterial Limited, company number 804907, fully paid in cash.
+Total purchase price
+€100.00 (one hundred euro), being €1.00 per share.
+Settlement
+Cash payment of €100.00 by the Purchaser to the Seller on completion.
+Target completion
+[Y] [ACTUAL COMPLETION DATE]; subject to paragraph 3 below.
+1. Sale. The Seller agrees to sell and the Purchaser agrees to buy the Shares for the purchase price above, with the rights attaching to them at completion. The Seller confirms on signing that he owns the Shares legally and beneficially, that they are fully paid, and that he has not charged them or granted any third-party right inconsistent with this transfer.
+2. Price. The Purchaser shall pay €100.00 in cash to the Seller on completion. The receipt below is signed only when payment has actually been received. No purchase price is left owing and no new shares are issued as consideration under these terms.
+3. Completion. The parties shall deliver the executed stock transfer and existing share certificate or satisfactory evidence of title to Asterial. Completion shall occur when the agreed settlement steps have been taken, the instrument has been duly stamped or a verified exemption established, and the Purchaser is entered in Asterial’s register of members. The register shall record the actual registration date. The parties shall provide the further documents reasonably required to complete those steps.
+4. Approvals and tax. The prior member and director approvals identified in T2 to T4 apply to these exact terms. The Purchaser is responsible for any stamp duty on the transfer. Each party remains responsible for its own other tax obligations. The parties make no representation here that any tax relief or exemption applies.
+5. Record and law. These terms and the completed stock transfer form record the agreement, including for section 255 of the Companies Act 2014. Irish law applies. A change to the price or settlement terms requires both parties’ written agreement and any necessary fresh company approval.
+Signature: ____________________________________
+Shane McCarthy | Seller, signing personally
+[Y] Date: [ACTUAL SIGNING DATE]     Time: [ACTUAL SIGNING TIME]
+Signature: ____________________________________
+Shane McCarthy | for and on behalf of Noesis AI Agent System Limited, authorised director
+[Y] Date: [ACTUAL SIGNING DATE]     Time: [ACTUAL SIGNING TIME]
+Purchase price receipt
+Complete only after payment: I acknowledge actual receipt of €100.00 from Noesis AI Agent System Limited as the full purchase price for the 100 shares.
+[Y] Shane McCarthy: ____________________  Date and time received: [ACTUAL RECEIPT]
+T2 Noesis sole-member approval
+Noesis AI Agent System Limited | 805939
+Unanimous written ORDINARY resolutions under sections 193 and 196 of the Companies Act 2014. Sign before T1 or the stock transfer is executed.
+I, Shane McCarthy, being the sole member of the Company and entitled to attend and vote on these matters, pass the following ordinary resolutions. The completed T1 purchase terms and stock transfer form identified below are attached to this approval.
+Approved transaction
+Particular
+Asset and seller
+100 Ordinary Shares of €1.00 each, fully paid, in Asterial Limited, company number 804907, acquired from Shane McCarthy.
+Price
+€100.00 in total, being €1.00 per share.
+Settlement terms
+Cash payment by Noesis AI Agent System Limited to Shane McCarthy on completion.
+Attached documents
+[Y] T1 and stock transfer form, identified by [VERSION / DATE], completed before signature.
+1 Acquisition approval
+The Company’s acquisition of the shares from Shane McCarthy on the attached terms is approved in advance for the purposes of section 238 of the Companies Act 2014 to the extent applicable and otherwise. The approval is limited to the identified transaction and terms.
+2 Identified conflict
+I acknowledge Shane McCarthy’s personal interest as seller, his ownership of the Company and Asterial, and his offices in both companies. For section 228(1)(f), the duty to avoid the conflict arising from his participation in this identified acquisition is released to the extent permitted by law. This resolution does not release any other statutory duty or dispense with the declaration required by section 231.
+3 Delivery and records
+The signed resolutions and their attachments shall be delivered immediately to the Company through John Webb O’Rourke, its secretary, and retained in its member-resolution records. The directors remain responsible for deciding whether the agreed acquisition serves the Company’s interests and for implementing it lawfully.
+Signature: ____________________________________
+Shane McCarthy | sole member of Noesis AI Agent System Limited
+[Y] Date: [ACTUAL SIGNING DATE]     Time: [ACTUAL SIGNING TIME]
+Received for the Company by John Webb O’Rourke, secretary:
+[Y] Signature: __________________________  Date and time: [ACTUAL RECEIPT]
+T3 Asterial sole-member conflict consent
+Asterial Limited | 804907
+Unanimous written ORDINARY resolution under sections 193 and 196 of the Companies Act 2014. Sign while Shane remains the registered member.
+I, Shane McCarthy, being Asterial Limited’s sole registered member and holder of all 100 issued Ordinary Shares of €1.00 each, fully paid, and entitled to attend and vote on this matter, pass the following ordinary resolution.
+Identified transfer and conflict
+[Y] I acknowledge my personal interest as seller of all those shares to Noesis AI Agent System Limited, company number 805939, and my ownership and directorship of that company. I consent to my participation as Asterial’s director in considering and, when its legal requirements are met, approving registration of the transfer on the terms identified in T1 and the stock transfer form, version [VERSION / DATE].
+For section 228(1)(f) of the Companies Act 2014, the duty to avoid the conflict arising from that identified participation is released to the extent permitted by law. All other statutory duties continue. This consent does not dispense with the proper transfer instrument, applicable stamping, evidence of title or the board’s registration decision.
+This resolution gives no approval to any allotment or grant of options. The proposed revised Asterial constitution will be considered by Noesis as sole member after Noesis is registered as holder of the shares.
+This signed resolution shall be delivered immediately to John Webb O’Rourke for the Company and retained with its member-resolution records.
+Signature: ____________________________________
+Shane McCarthy | sole member of Asterial Limited, before registration of the transfer
+[Y] Date: [ACTUAL SIGNING DATE]     Time: [ACTUAL SIGNING TIME]
+Received for Asterial Limited by John Webb O’Rourke, secretary:
+[Y] Signature: __________________________  Date and time: [ACTUAL RECEIPT]
+T4 Noesis director meeting
+Noesis AI Agent System Limited | 805939
+[Y] Minutes of a meeting actually held on [DATE] at [TIME], at [PLACE / ELECTRONIC CONNECTION DETAILS].
+Present: Shane McCarthy, sole director and chair. In attendance: John Webb O’Rourke, company secretary. Shane confirmed the meeting was duly convened and quorate. He consented to its immediate holding. If held electronically, those participating could speak to and hear each other throughout.
+1 Declaration and papers
+Before the acquisition was considered, Shane declared his personal interest as seller of all Asterial shares, his ownership of both companies and his directorship of Asterial. The declaration was made for section 231 of the Companies Act 2014. The meeting noted the prior sole-member approval and identified-conflict release in T2. Shane was entitled to count in the quorum and vote under sections 160(6) and 161(7), subject to his continuing statutory duties.
+[Y] The meeting considered completed T1 and the stock transfer form, the evidence of Shane’s title and paid-up shares, Pat Carroll’s confirmation on 19 November 2026 of the €100 price and current value and Asterial’s absence of assets, liabilities and bank accounts, the tax and stamp completion note [REFERENCE], and the proposed Asterial adoption resolutions with the exact revised constitution attached as Annex A.
+2 Commercial assessment and acquisition
+[Y] The purpose of the acquisition is to bring Asterial under the Company as a wholly owned subsidiary of the AI group. The €100 price equals the current value confirmed by Pat. Shane considered the confirmed asset and liability position and the payment arrangements, recorded as [ACTUAL SOURCE AND AVAILABILITY OF THE €100 PAYMENT]. He concluded that acquiring full ownership and shareholder control on those terms serves the Company’s interests.
+The acquisition for €100.00, payable in cash to Shane on completion, was approved. Shane was authorised to sign T1 and the transferee acceptance on the stock transfer form for the Company and to implement those exact terms. John and Pat were authorised to arrange the required stamping work and delivery for registration. Any material change to the terms requires renewed approval.
+3 Asterial member decisions after registration
+With effect only upon the Company being entered in Asterial’s register as holder of all 100 Ordinary Shares, Shane was appointed its duly authorised representative to sign and deliver the attached Asterial special resolutions and unanimous class consent under section 193(1)(a), adopting Annex A and simultaneously redesignating those shares as 100 A Ordinary Shares. He may complete actual dates and administrative fields only. The exact adopted rights must remain those approved here. No particular allotment or option grant is approved by this decision.
+[Y] Attachments identified: Asterial adoption resolutions [VERSION / DATE]; Annex A, Asterial_Limited_Revised_Constitution.docx, [FINAL VERSION / PAGE COUNT], initialled for identification. A material amendment requires fresh authority.
+4 Records
+[Y] John shall retain the minutes and attachments, enter the section 231 declaration in the interests book within three days, and retain T1 as the section 255 record of the contract with the sole member. The meeting ended at [TIME].
+Signature: ____________________________________
+Shane McCarthy | chair, signing the minutes as a correct record
+[Y] Date: [ACTUAL SIGNING DATE]     Time: [ACTUAL SIGNING TIME]
+T5 Asterial director meeting
+Asterial Limited | 804907
+[Y] Minutes of a meeting actually held on [DATE] at [TIME], at [PLACE / ELECTRONIC CONNECTION DETAILS].
+Present: Shane McCarthy, sole director and chair. In attendance: John Webb O’Rourke, company secretary. Shane confirmed the meeting was duly convened and quorate and consented to its immediate holding. If held electronically, those participating could speak to and hear each other throughout.
+1 Interests and documents
+Shane declared his personal interest as transferor and his ownership and directorship of Noesis AI Agent System Limited, the proposed transferee. The meeting noted the prior conflict consent in T3. Shane was entitled to count in the quorum and vote, subject to his continuing duties. The declaration shall be retained with the company’s interests records.
+[Y] The meeting reviewed the executed stock transfer of 100 Ordinary Shares of €1.00 each, fully paid, from Shane to Noesis, the existing certificate or satisfactory title evidence, the agreed terms, and the stamping or exemption evidence recorded in T6. Any outstanding requirement was identified as follows: [NONE / DETAILS].
+2 Transfer registration
+The stock transfer form was approved as a form of transfer acceptable to the Company. Subject to receipt of that properly executed instrument, satisfactory evidence of title and evidence that it is duly stamped or exempt, the transfer to Noesis AI Agent System Limited, company number 805939, was approved for registration. No registration fee is charged.
+John was authorised to enter Noesis as holder of all 100 Ordinary Shares once those requirements are satisfied, record Shane’s cessation as a member, and record the actual registration date and time in T6. Until that entry, the Company shall continue to treat Shane as the registered holder. The authority is conditional where any requirement remains outstanding.
+3 Certificate and subsequent adoption
+The existing certificate shall be surrendered and marked superseded, or its absence addressed by evidence and an indemnity satisfactory to the director before a replacement is issued. If constitution adoption follows registration immediately, one final certificate shall be issued to Noesis for 100 A Ordinary Shares under the separate adoption authority. If adoption is delayed, a certificate for the Ordinary Shares shall be prepared within the statutory period. Cancellation of a certificate does not cancel the shares.
+After registration, Noesis may exercise the member rights through its duly authorised representative. The separate Adoption Signing Pack must be used in that capacity. The present decisions do not adopt the proposed constitution or allot any shares.
+4 Continuing records
+[Y] John shall retain the transfer and stamping evidence, update the register, arrange the share-interest records and review beneficial-ownership particulars for Shane’s direct interest becoming indirect through Noesis. The transfer shall be reflected in Asterial’s next annual return. The meeting ended at [TIME].
+Signature: ____________________________________
+Shane McCarthy | chair, signing the minutes as a correct record
+[Y] Date: [ACTUAL SIGNING DATE]     Time: [ACTUAL SIGNING TIME]
+T6 Transfer completion record
+Asterial Limited | 804907
+John completes this record when the steps occur. It supports the statutory registers and does not replace them.
+Check or event
+Completion evidence
+Seller and current registered holding
+[Y] Shane McCarthy: 100 Ordinary Shares of €1.00 each. €1.00 paid per share; €0.00 unpaid. Register checked: [DATE / REFERENCE].
+Purchase price and settlement
+[Y] €100.00 in cash on completion. Actual payment and signed T1 receipt: [DATE / TIME / EVIDENCE].
+Current market value
+[Y] €100.00 for all 100 shares, confirmed by Pat Carroll on 19 November 2026. Asterial has no assets, liabilities or bank accounts, as confirmed by Pat. Record: [REFERENCE].
+Prior approvals
+[Y] T2 [DATE / TIME]; T3 [DATE / TIME]; T4 meeting [DATE / TIME].
+Signed purchase terms and transfer
+[Y] T1 [DATE / TIME]; stock transfer [DATE / TIME]; instrument delivered to Asterial [DATE / TIME].
+Existing certificate / title evidence
+[Y] [REFERENCE AND SURRENDER DETAILS / APPROVED ALTERNATIVE EVIDENCE].
+Stamp status before registration
+[Y] [EXEMPT UNDER SCHEDULE 1 / €1 DUTY PAID UNDER ORDINARY RULES]. Supporting note or attached stamp certificate: [REFERENCE].
+Larger transaction or series assessment
+[Y] €100 consideration. Relevant series total and basis: [AMOUNT / DETAILS]. Exemption applies only if the relevant aggregate does not exceed €1,000. Confirmed by Pat: [DATE / INITIALS].
+Asterial director registration approval
+[Y] T5 meeting [DATE / TIME]; all conditions satisfied [DATE / TIME].
+Actual register entry
+[Y] Noesis entered as sole member: [DATE / TIME]. Shane ceased as member: [SAME DATE]. Preserve Shane’s historic entry and original joining date.
+Register particulars after transfer
+[Y] Noesis: 100 Ordinary Shares, €1 each, fully paid. [DISTINCTIVE NUMBERS / N/A]. The later A redesignation is a separate entry.
+Interest records and RBO
+[Y] T7 received [DATE]; relevant registers updated [DATE]. RBO amendment [REQUIRED / REASONS IF NO CENTRAL CHANGE].
+The completed entries accurately record the actions taken. Any outstanding matter is expressly identified.
+Signature: ____________________________________
+John Webb O’Rourke | company secretary of Asterial Limited
+[Y] Date: [ACTUAL SIGNING DATE]     Time: [ACTUAL SIGNING TIME]
+T7 Shane’s transaction-interest notice
+Asterial Limited | 804907
+To the directors and secretary of Asterial Limited and Noesis AI Agent System Limited.
+I notify the following interests and transaction particulars for the companies’ records, including sections 231 and 262 to 267 of the Companies Act 2014 to the extent applicable. This notice supplements the declarations made at the meetings and does not replace them.
+Particular
+Notification
+Interest before transfer
+I held all 100 Ordinary Shares of €1.00 each in Asterial Limited, fully paid, and am the sole member and director of Noesis AI Agent System Limited.
+Purchase contract
+[Y] Dated [ACTUAL T1 DATE] for all 100 Asterial shares. Consideration €100.00, payable in cash on completion. Actual receipt is recorded separately in T1.
+Transfer instrument
+[Y] Executed on [DATE] in favour of Noesis AI Agent System Limited, company number 805939.
+Registration
+[Y] [ACTUAL DATE / NOT YET REGISTERED]. On registration I cease to be Asterial’s registered member; Noesis becomes the registered holder.
+Resulting interest
+Following registration, my ownership of Asterial is indirect through my ownership of Noesis. I continue as a director of both companies.
+Signature: ____________________________________
+Shane McCarthy | director and person giving notice
+[Y] Date: [ACTUAL SIGNING DATE]     Time: [ACTUAL SIGNING TIME]
+Secretary’s record
+[Y] Received by John Webb O’Rourke on [DATE / TIME]. Record the relevant declaration in the section 231 book where applicable, within three days of the meeting. Make any required section 267 register entry within three days of receipt of the relevant information. Section 264(2) exempts interests in a wholly owned subsidiary from the specified continuing notification duties; retain this transaction notice in any event. [4]
+Review Asterial’s internal beneficial-ownership particulars. On the confirmed ownership, Shane remains the individual beneficial owner and his interest becomes indirect through Noesis. Record the correct nature and extent of that interest. Where central particulars change, notify the RBO within 14 days of the internal-register change. Noesis is recorded in the members’ register, not as a natural-person beneficial owner. [7]
+Administrative entries completed by: __________________________
+[Y] Name and capacity: [NAME / CAPACITY]     Date: [DATE]
+=== 2C ASTERIAL STOCK TRANSFER FORM ===
+Stock transfer form
+Asterial Limited | 804907
+Transfer of existing fully paid Ordinary Shares
+Particular
+Entry
+Company whose shares are transferred
+Asterial Limited, incorporated in Ireland, company number 804907
+Security and amount
+100 (one hundred) Ordinary Shares of €1.00 each, fully paid in cash. Total nominal amount €100.00. Unpaid amount €0.00.
+Certificate and distinctive numbers
+[Y] [EXISTING CERTIFICATE NUMBER]; [SHARE NUMBERS, IF USED / NOT APPLICABLE]
+Transferor
+[Y] Shane McCarthy of [SHANE’S CURRENT ADDRESS]
+Transferee
+[Y] Noesis AI Agent System Limited, company number 805939, of [PARENT’S CURRENT REGISTERED OFFICE]
+Consideration
+€100.00 (one hundred euro) for all 100 shares, being €1.00 per share.
+Payment terms
+[Y] Cash payment of €100.00 by Noesis AI Agent System Limited to Shane McCarthy on completion, under the signed purchase terms dated [DATE].
+For the consideration stated above, I, Shane McCarthy, transfer the shares described above to Noesis AI Agent System Limited, to hold subject to the constitution of Asterial Limited and the conditions on which those shares are held. I request registration of the transferee as their holder. This instrument does not acknowledge receipt of a purchase price that remains unpaid.
+Signature: ____________________________________
+Shane McCarthy | transferor, signing personally
+[Y] Date: [ACTUAL SIGNING DATE]     Time: [ACTUAL SIGNING TIME]
+Accepted for and on behalf of Noesis AI Agent System Limited by its authorised signatory:
+Signature: ____________________________________
+Shane McCarthy | director and authorised signatory of the transferee
+[Y] Date: [ACTUAL SIGNING DATE]     Time: [ACTUAL SIGNING TIME]
+For the company’s records: the shares remain Ordinary Shares until the subsequent constitution adoption and redesignation. Register the transfer only after delivery of this completed, signed instrument and satisfaction of the applicable stamping requirements. Keep any Revenue stamp certificate attached. For fully paid shares, the transferor’s signature is sufficient under section 94 of the Companies Act 2014. The transferee acceptance above is included as an additional transaction record.
+=== 2D ASTERIAL ADOPTION SIGNING PACK ===
+Constitution adoption signing pack
+Asterial Limited | 804907
+For use immediately after registration of Noesis as sole member
+After the €100 cash purchase has been registered, this pack adopts the revised constitution and simultaneously redesignates all 100 fully paid Ordinary Shares as 100 A Ordinary Shares. Noesis AI Agent System Limited, company number 805939, signs as sole member through Shane McCarthy as its duly authorised representative. Shane signs the director decision separately as Asterial’s director.
+Agreed structure
+Four classes of €1 shares, with no authorised-capital ceiling or fixed allocation between classes. A shares carry the general voting and governance rights. B, C and D have no general vote and share equally per fully paid share in economic rights, subject to the constitution and mandatory member protections. The direct Asterial sale-of-control protection retains its 14-calendar-day offer period. It does not apply to a sale of shares in Noesis.
+Use in this order
+Step
+Document and action
+1
+Complete the Share Transfer Completion Pack and enter Noesis in Asterial’s register as holder of all 100 Ordinary Shares. Record the actual time.
+2
+Attach the complete Asterial_Limited_Revised_Constitution.docx as Annex A to Document 2. Insert the actual adoption date and verify the final page count.
+3
+Shane signs Document 1 as Asterial director. Then he signs Document 2 for Noesis, under the authority granted at Noesis’s T4 meeting.
+4
+John records receipt, updates the register for the A redesignation and arranges the one final certificate to Noesis. Complete Documents 3 to 5.
+5
+John and Pat’s office file the G1, complete special resolutions and adopted constitution, targeting the same or next working day and within 15 days.
+Signing and timing
+These unanimous written member resolutions require no general meeting, meeting notice, short-notice consent or 21-day waiting period. They may be signed immediately after the preceding steps. Wet-ink signatures may be coordinated by complete scans, retaining the originals. Deliver the member resolutions and Annex A to John for the Company immediately, within section 193’s 14-day delivery limit. No witness or seal is needed for the resolutions. The share certificate has its separate seal requirements. [2, 5]
+The revised constitution’s operative wording already accommodates Noesis as a corporate A holder. The historic original constitution and subscriber page remain unchanged. This pack replaces the former version that provided for Shane to adopt the constitution as Asterial’s personal shareholder. [1]
+Document 1 Sole director written resolution
+Asterial Limited | 804907
+Companies Act 2014, section 161(1) and (5). Sign after transfer registration.
+I, Shane McCarthy, being the sole director of Asterial Limited, make the following written decisions. Noesis AI Agent System Limited is now registered as holder of all 100 issued Ordinary Shares, fully paid. I record my interest as its sole member and director and refer to the transaction declarations and consent already retained with the transfer records.
+1 Proposed constitution and simultaneous redesignation
+The complete constitution identified as Annex A to Document 2 is approved for submission to Noesis as sole member. It establishes A, B, C and D Ordinary Shares of €1 each, removes the authorised-capital ceiling and contains the stated class and governance rights. Redesignation of all 100 existing Ordinary Shares as 100 A Ordinary Shares is recommended, with adoption and redesignation taking effect simultaneously.
+2 Conditional implementation
+Subject to Noesis adopting that exact constitution and approving the redesignation, John Webb O’Rourke is authorised to receive the signed resolutions and Annex A, record the decisions, annotate the register and make the required filings within the applicable time limits. The register shall preserve Noesis’s actual date of admission on transfer and record redesignation separately.
+3 Final certificate to Noesis
+After adoption and redesignation, one certificate for Noesis’s 100 A Ordinary Shares, fully paid, is approved. The old certificate shall be surrendered and marked superseded, or any missing-certificate position resolved by satisfactory evidence and indemnity before issue. The common seal may be affixed, signed by me as director and countersigned by John as secretary under regulation 6. No certificate fee is charged.
+4 Scope and records
+These decisions implement no new allotment, option grant or further transfer. Existing director and secretary appointments continue. The signed decision shall be retained with the directors’ records. Any material amendment to Annex A requires fresh approval, including renewed authority from Noesis for its representative.
+Signature: ____________________________________
+Shane McCarthy | sole director of Asterial Limited
+[Y] Date: [ACTUAL SIGNING DATE]     Time: [ACTUAL SIGNING TIME]
+Document 2 Special resolutions and class consent
+Asterial Limited | 804907
+Companies Act 2014, sections 32, 193 and 196, and section 88 to the extent applicable.
+[Y] Noesis AI Agent System Limited, company number 805939, being the sole registered member of Asterial Limited and entitled to attend and vote on these matters, passes the following as SPECIAL RESOLUTIONS. Shane McCarthy signs below as its duly appointed representative under the Noesis director decision recorded in T4, dated [DATE] at [TIME].
+Existing shares immediately before adoption
+Particular
+Registered member
+Noesis AI Agent System Limited, CRO 805939
+Holding
+100 Ordinary Shares of €1.00 each; total nominal amount €100.00.
+Paid-up position
+€1.00 paid in cash per share; €0.00 unpaid. No call or other sum immediately payable is outstanding.
+Noesis registered before this signature
+[Y] [ACTUAL TRANSFER REGISTRATION DATE / TIME]
+Special resolution 1 Adoption and redesignation
+[Y] With effect simultaneously upon signature below, the complete constitution attached as Annex A, dated [ADOPTION DATE], comprising [FINAL PAGE COUNT] pages and initialled for identification, is adopted in substitution for the existing constitution, and each issued Ordinary Share is redesignated as one A Ordinary Share carrying the rights in Annex A. All 100 issued Ordinary Shares therefore become 100 A Ordinary Shares. Their holder, nominal value and paid-up amount remain unchanged.
+Special resolution 2 Capital structure
+The former authorised share-capital ceiling is removed and capital is governed by regulation 4 of Annex A. This removal effects no cancellation of unissued shares or reduction of issued capital. These resolutions allot, redeem, cancel or transfer no shares. B, C and D Ordinary Shares remain unissued.
+Express unanimous member and class consent
+As sole member and sole holder of all issued Ordinary Shares, Noesis expressly agrees to Annex A, the redesignation and all resulting changes to the rights or restrictions attached to those shares, including insertion of regulation 24 for section 88 purposes to the extent applicable. It agrees in writing to be bound by Annex A. This consent concerns this adoption only and does not waive approvals required for later rights variations.
+Noesis directs immediate delivery of this signed instrument and Annex A to John Webb O’Rourke for Asterial and authorises their retention, implementation and filing. These resolutions do not approve any particular allotment of shares or grant of options.
+Signature: ____________________________________
+Shane McCarthy | duly appointed representative signing for and on behalf of Noesis AI Agent System Limited, Asterial’s sole member
+[Y] Date: [ACTUAL SIGNING DATE]     Time: [ACTUAL SIGNING TIME]
+Document 3 Receipt, filing and completion
+Asterial Limited | 804907
+Receipt and certification
+[Y] I acknowledge receipt for Asterial Limited of the complete signed Document 2 and its attached Annex A at the actual time recorded below. For the filing copy, I certify that the resolutions and consent reproduce the signed original and that the accompanying constitution is the complete text adopted on [ADOPTION DATE].
+Signature: ____________________________________
+John Webb O’Rourke | company secretary of Asterial Limited
+[Y] Date: [ACTUAL SIGNING DATE]     Time: [ACTUAL SIGNING TIME]
+Event
+Record
+Transfer registered first
+[Y] [ACTUAL DATE / TIME; T6 REFERENCE]
+Director decision signed
+[Y] [DATE / TIME]
+Noesis member decision signed
+[Y] [ADOPTION DATE / TIME]
+Signed document and Annex A received
+[Y] [ACTUAL RECEIPT DATE / TIME]
+Annex A identified and retained
+[Y] [ADOPTION DATE / VERSION / PAGE COUNT]
+Shares after redesignation
+Noesis: 100 A Ordinary Shares of €1.00, fully paid. B: 0. C: 0. D: 0.
+Register and certificate
+[Y] [REGISTER ENTRY DATE / CERTIFICATE NUMBER / EXECUTION DATE]
+G1 statutory deadline
+[Y] [DATE 15 DAYS AFTER PASSING]
+G1 and attachments submitted
+[Y] [DATE / CORE REFERENCE]
+CRO receipt and queries
+[Y] [STATUS / FOLLOW-UP DATE / REFERENCE]
+Beneficial-ownership review
+[Y] [TRANSFER PACK T7 AND RBO UPDATE REFERENCE]
+Filing instruction
+Submit G1 on CORE using the unanimous written special-resolution route, with the full Document 2 and complete adopted constitution. File within 15 days of passing, by 4 December 2026 if adopted on 19 November 2026. The target is the same or next working day. No G2, B4, B5, B7 or B10 arises from the transactions as drafted. B11, B12 and B13 are not required for the rights and designation fully contained in these section 198 resolutions and constitution. [3, 4]
+The transfer itself is reflected in the next B1. Retain the resolutions with the adopted constitution and annex the relevant resolution to later issued copies. Keep the original historical constitution separately. Record actual receipt, filing and completion dates. [3]
+Document 4 Register annotation
+Asterial Limited | 804907
+Enter the redesignation after the transfer entry. Preserve both Shane’s historic membership record and Noesis’s date of admission on transfer.
+Particular
+Entry
+Member
+Noesis AI Agent System Limited, company number 805939
+Address
+[Y] [PARENT’S CURRENT REGISTERED OFFICE]
+Date Noesis became member
+[Y] [ACTUAL TRANSFER REGISTRATION DATE], unchanged by redesignation.
+Redesignation effective
+[Y] [ADOPTION DATE / TIME]
+Number and class
+100 Ordinary Shares become 100 A Ordinary Shares, one-for-one.
+Nominal and paid-up amount
+€1.00 nominal and paid in cash per share. Total €100.00. Unpaid €0.00.
+Distinctive numbers
+[Y] [EXISTING NUMBERS / NOT APPLICABLE], unchanged.
+Old certificate
+[Y] [REFERENCE / SURRENDER OR APPROVED REPLACEMENT EVIDENCE].
+Final certificate to Noesis
+[Y] [NEW CERTIFICATE NUMBER / DATE].
+Authority
+[Y] Document 2 special resolutions and consent of Noesis dated [ADOPTION DATE]; Annex A.
+Suggested register note
+[Y] Noesis AI Agent System Limited became sole registered member on [TRANSFER REGISTRATION DATE] by transfer of all 100 Ordinary Shares from Shane McCarthy. At [TIME] on [ADOPTION DATE], those same shares were redesignated as A Ordinary Shares under Noesis’s sole-member special resolutions and express consent. Noesis remains their holder. The redesignation changes no nominal value, paid-up amount or membership date and effects no allotment, transfer or cancellation.
+Entered by: __________________________
+[Y] Name and capacity: [NAME / CAPACITY]     Actual entry date: [DATE]
+Document 5 Final share certificate
+Asterial Limited | 804907
+Private company limited by shares, incorporated in Ireland
+[Y] Certificate number: [NEW CERTIFICATE NUMBER]
+100 A Ordinary Shares
+[Y] This is to certify that Noesis AI Agent System Limited, company number 805939, of [PARENT’S CURRENT REGISTERED OFFICE], is the registered holder of 100 A Ordinary Shares of €1.00 each in Asterial Limited, subject to its constitution.
+Amount paid per share: €1.00, fully paid in cash. Unpaid amount: €0.00.
+[Y] Distinctive share numbers, if used: [EXISTING NUMBERS / NOT APPLICABLE].
+[Y] The shares were registered in the holder’s name as Ordinary Shares on [TRANSFER REGISTRATION DATE] and redesignated as A Ordinary Shares on [ADOPTION DATE]. This certificate supersedes certificate number [OLD CERTIFICATE NUMBER] following those entries. No shares were newly allotted by that transfer or redesignation.
+[Y] Given under the common seal of Asterial Limited on [ACTUAL CERTIFICATE DATE].
+Common seal:
+Signed: ____________________________________
+Shane McCarthy | Director of Asterial Limited
+Countersigned: ____________________________________
+John Webb O’Rourke | Company secretary of Asterial Limited

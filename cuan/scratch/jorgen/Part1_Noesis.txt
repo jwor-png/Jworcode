@@ -1,0 +1,280 @@
+PART 1: NOESIS. Pat Carroll drafts of 19 Nov 2026. Yellow fields marked [Y].
+
+=== 1A NOESIS NEW CONSTITUTION (draft) ===
+COMPANIES ACT 2014
+PRIVATE COMPANY LIMITED BY SHARES
+Constitution
+Of
+Noesis AI Agent System Limited
+Company number 805939
+[Y] As amended by special resolution dated [ADOPTION DATE]
+Draft for review and adoption
+1. The name of the Company is: Noesis AI Agent System Limited.
+2. The Company is a private company limited by shares, registered under Part 2 of the Companies Act 2014 (the “Act”).
+3. The liability of the members is limited.
+[Y] 4. The share capital of the Company is divided into shares of €[NOMINAL VALUE] each, designated as A Ordinary Shares, B Ordinary Shares, C Ordinary Shares and D Ordinary Shares, with the rights set out in these Regulations. No authorised share-capital ceiling is specified. The number of shares allotted in each class shall be determined in accordance with the Act, these Regulations and the applicable authority to allot. No fixed proportion of the issued share capital is reserved to any class.
+SUPPLEMENTAL REGULATIONS
+PRELIMINARY
+5.1 The optional provisions of the Act, as defined in section 54(1), shall apply except to the extent disapplied, modified or supplemented by this Constitution. Those optional provisions and the provisions of this Constitution together constitute the Regulations of the Company. The express provisions concerning share rights, allotments, appointments and meetings prevail over any inconsistent optional provision.
+5.2 In these Regulations, "A Consent" means consent in writing signed by holders of more than 50 per cent of the voting rights exercisable on the issued A Ordinary Shares and delivered to the Company. Treasury shares and other shares whose votes cannot lawfully be exercised shall be disregarded in calculating that percentage. "Ordinary Shares" means the A Ordinary Shares, B Ordinary Shares, C Ordinary Shares and D Ordinary Shares collectively.
+5.3 A Consent is an additional constitutional approval where expressly required. It does not replace any resolution, procedure or consent required by the Act, or authorise any variation of class rights otherwise than under Regulation 24.
+COMPANY SEAL
+6. The Company's seal shall be used only by authority of its directors, or of a committee of its directors authorised by its directors in that behalf and any instrument to which a Company's seal shall be affixed shall be:
+(a) signed by a director of the Company; and
+(b) be countersigned by the secretary or by a second director (if any) of the Company or by some other person appointed for the purpose by a foregoing committee of them
+and Subsection 2 of Section 43 is modified accordingly.
+7. The Company's seal may also be used by a registered person and any instrument to which the Company's seal shall be affixed when it is used by the registered person shall be signed by that person and countersigned by a director of the Company and Subsection 3 of Section 43 of the Act is modified accordingly.
+8. In accordance with Subsection 2 of Section 44 of the Act the company may have for use in any place abroad an official seal which shall resemble the common seal of the company with the addition on its face of the name of every place abroad where it is to be used.
+SHARE CAPITAL
+9.1 Subject to these Regulations, the directors are authorised for the purposes of section 69(1) of the Act to allot Ordinary Shares. Every allotment, grant of an option or grant of another right to acquire Ordinary Shares requires prior A Consent identifying the class, maximum number, consideration or basis for determining it, and intended recipient or category of recipients. Consent approving an option or other right also approves allotments on its exercise in accordance with its approved terms and maximum number, without further A Consent. An increase in that number or alteration of those terms requires prior A Consent and compliance with the holder's contractual rights.
+9.2 Each newly allotted Ordinary Share shall be fully paid, including any premium, on allotment and shall not be allotted at a discount to its nominal value.
+9.3 Pursuant to section 69(12)(a)(i) of the Act, section 69(6) shall not apply to allotments by the Company. This provision does not dispense with any other applicable statutory or contractual requirement.
+10. Subject to Regulation 9, the directors may allot Ordinary Shares and grant options over them on terms consistent with these Regulations. Any delegation of these powers is subject to the same restrictions. Option and employee share-scheme terms shall not amend the rights attached to an issued share or confer a power to do so outside Regulation 24. No class other than the four classes specified in Regulation 4 may be created without an amendment of this Constitution and compliance with the Act.
+11. The Ordinary Shares are non-redeemable. Subject to the Act and these Regulations, the Company may purchase its own shares in accordance with Chapter 6 of Part 3 of the Act. No holder has a right, by reason of holding an Ordinary Share, to require its redemption or purchase by the Company.
+DIRECTORS
+12.1 Subject to the Act, directors may be appointed by ordinary resolution on which only A Ordinary Shares carry votes, or by an appointment notice embodying A Consent and delivered to the registered office. The appointee must be eligible and must consent to act. An appointment notice takes effect on delivery or on any later date stated in it. No director shall be appointed to hold office for life.
+12.2 The directors have no independent power to appoint an additional director or fill a casual vacancy, including for the purpose of restoring a board quorum. Sections 144(3) and 160(7) are modified accordingly, without preventing the directors from convening a general meeting.
+12.3 The Company may remove a director by ordinary resolution in accordance with section 146 of the Act. Only A Ordinary Shares carry votes on that resolution, subject to any mandatory statutory provision. Nothing in these Regulations excludes section 147 or 148, resignation, statutory disqualification or the powers of a court or competent authority.
+12.4 An alternate director may be appointed only by an appointment notice embodying A Consent, identifying the director for whom the alternate acts, and accompanied by that director's and the alternate's consent. Subject to Regulation 12.3, Regulation 19 and the Act, the appointment may be revoked by notice embodying A Consent and ends when that director ceases to hold office. Section 165 applies subject to these provisions, and its independent appointment and revocation powers are excluded. For section 161(1), the signature of an alternate validly appointed under this Regulation may replace that of the director for whom the alternate acts.
+13. For the purposes of Subsection 1 (d) of Section 228 of the Act, the reasonable personal use by a director of any property of the company and made available for use by the director in connection with the business or affairs of the Company shall be permitted, subject to any restrictions imposed by the Company under contract or otherwise.
+GENERAL MEETINGS
+14. General Meetings may be held in one or multiple venues using any technology that provides attendees reasonable opportunity to participate.
+15. If a General Meeting is held using an Electronic Platform, then Attendees must have access to the following;
+(a) A mechanism enabling each member entitled to vote on a resolution to cast that vote, before or during the meeting as permitted by law, subject to the rights attached to that member's shares and Regulations 23 to 25;
+(b) A system for identifying attendees and security of the technology, minimises data corruption, and provides certainty as to the source of the electronic communications,
+(c) In the case of failure or disruption to the technology that the failure or disruption is remedied as soon as practicable,
+(d) Enables the attendee to hear what is said by the Chairperson and any person introduced by the Chairperson, and
+(e) Allows the attendee to speak and submit questions and comments during the meeting to the chairperson to the extent that the attendee is entitled to do so under the constitution of the company.
+16. Any temporary failure or disruption of electronic communications technology shall not invalidate the general meeting or any proceedings relating to the meeting. Unless such failure or disruption is attributable to any wilful act of the company, a company shall not be liable in respect of any failure or disruption relating to the equipment used by an attendee to access a general meeting by electronic communications technology that occurs and which failure or disruption prevents or interferes with the attendee's participation, by way of such technology, in the meeting.
+17. If a General Meeting is held using an Electronic Platform, then the Company must ensure the following;
+(a) It provides for the security of any electronic communications by the attendees,
+(b) It minimises the risk of data corruption and unauthorised access, and
+(c) It provides certainty as to the source of the electronic communications.
+18. An instrument appointing a proxy under section 183 of the Act or Regulation 25 shall be deposited before the time appointed for the meeting or adjourned meeting, or, for a poll, before the time appointed for taking that poll. Corporate representatives shall be authorised under section 185 of the Act, and the chairperson may require reasonable evidence of their authority under section 185(4). Appointment of a proxy or representative confers no voting entitlement beyond that of the appointing member.
+VACATION OF OFFICE
+19. The Office of a Director shall be vacated if the Director-
+(a) Is adjudicated bankrupt or being a bankrupt has not obtained a certificate of discharge in the relevant jurisdiction; or
+(b) becomes or is deemed to be subject to a disqualification order within the meaning of Chapter 4 of Part 14 of the Act; or
+(c) resigns his or her office by notice in writing to the company; or
+(d) can no longer be reasonably regarded as possessing an adequate decision making capacity; or
+(e) is restricted under section 819 of the Act and, during the restriction, A Consent is given to the vacation of that director's office; or
+(f) is sentenced to imprisonment, including a suspended term, following conviction of an indictable offence, other than an offence under the Road Traffic Act 1961 or any Act amending it, unless otherwise determined by A Consent; or
+(g) is absent for more than six months, without permission given by A Consent, from meetings of the directors held during that period.
+This Regulation is subject to mandatory statutory provisions concerning eligibility, disqualification and vacation of office.
+NOTICES
+20. If a General Meeting is to be held wholly or partially by electronic means as permitted by Regulation 14, the Notice must include the following, in addition to the requirements of Section 181(5) Companies Act 2014;
+(a) the electronic platform to be used for the meeting,
+(b) details for access to the electronic platform,
+(c) the time and manner by which an attendee must confirm his or her intention to attend the meeting,
+(d) any requirements or restrictions which the company has put in place in order to identify attendees who intend to attend the meeting,
+(e) the procedure for attendees to communicate questions and comments during the meeting, and
+(f) the procedures for voting on the proposed resolutions, identifying the members entitled to vote on each resolution in accordance with the Act and these Regulations.
+21. In any case in which a provision of the Act, or of the company's constitution, requires or authorises a notice to be served on or given to a member of the company by the company or an officer it may be delivered in one of the following ways:
+(a) by delivering it to the member;
+(b) by leaving it at the registered address of the member;
+(c) by sending it by post in a prepaid letter to the registered address of the member;
+(d) by electronic means provided the conditions as specified in subsection (4) of Section 218 of the Act are satisfied.
+INDEMNITY
+22. Every officer of the Company :
+(a) shall be entitled to be indemnified out of the assets of the Company against all losses or liabilities which he or she may sustain or incur in defending any proceedings, whether civil or criminal, in which judgment is given in his or her favour in which he or she is acquitted or in connection with any proceedings or application referred to in or under Sections 233 or 234 of the Act in which relief is granted to him or her by the court.
+(b) shall be entitled to be indemnified out of the assets of the Company against all losses or liabilities which he or she may sustain or incur in or about the execution of the duties of his or her office or otherwise in relation thereto and no officer shall be liable for any loss, damage or misfortune which may happen to or be incurred by the Company in the execution of the duties of his or her office in relation thereto. This regulation shall have effect only in so far as its provisions are not void under Section 235 of the Act.
+23. RIGHTS ATTACHED TO ORDINARY SHARES
+23.1 A Ordinary Shares carry all general voting rights of members. Each A Ordinary Share carries one vote on a poll and for the purposes of a written resolution. These rights include voting on the appointment and removal of directors, amendments to this Constitution and every other matter submitted to members, subject to the Act and Regulation 24. The secretary provisions are governed by Regulation 26.
+23.2 B Ordinary Shares, C Ordinary Shares and D Ordinary Shares carry no general voting rights. Their holders have no right, by virtue of those shares, to vote on a resolution of the Company, appoint or remove a director or secretary, or exercise any appointment or nomination power reserved to A shareholders. This restriction is subject to Regulation 24 and every voting or consent right which applicable law requires to be exercisable by the holder or class concerned.
+23.3 Each fully paid Ordinary Share ranks equally with every other fully paid Ordinary Share, regardless of class, for every dividend and other distribution lawfully declared or made by the Company. The same amount and form of distribution per share shall be payable on the same payment date, subject to Regulation 23.5. No class carries a preferential, deferred, fixed or capped entitlement to dividends or distributions.
+23.4 On a winding up, return of capital or other lawful distribution of capital, each fully paid Ordinary Share carries an equal entitlement per share to the assets available for distribution to members after liabilities and applicable costs have been discharged or provided for. Net proceeds of a disposal of the Company's undertaking or assets, when lawfully distributed to members, shall be distributed on the same basis. No class has priority over another in those distributions.
+23.5 Any bonus issue, capitalisation issue, subdivision or consolidation shall preserve the relative economic entitlements of the four classes. A distribution of shares in the Company shall be made in shares of the same class as those in respect of which it is made, on an equivalent basis for all classes. No such transaction shall convert a B, C or D Ordinary Share into an A Ordinary Share without compliance with Regulation 24.
+23.6 C Ordinary Shares and D Ordinary Shares have the same economic and general voting rights as B Ordinary Shares. D Ordinary Shares may be allotted under employee share arrangements, including following exercise of an option, subject to these Regulations. An unexercised option does not constitute an issued share and confers no membership, dividend, capital or voting right by itself.
+24. CLASS RIGHTS AND MANDATORY PROTECTIONS
+24.1 Any variation or abrogation of the rights of a class must comply with sections 88 and 89 of the Act. It requires the written consent of holders of at least 75 per cent in nominal value of the issued shares of that class, or a special resolution of that class, together with every additional consent or approval required by the Act. This Regulation does not displace any requirement for agreement of all members under section 88(5) or any requirement under section 88(4).
+24.2 Each holder may exercise any vote, consent or court-application right required for protection or variation of the rights of that holder's class, regardless of its general non-voting status. Separate class meetings shall comply with section 88(6). Each share of the class concerned carries one vote on a poll at its separate class meeting. Insertion or amendment of class-variation machinery is itself a variation to the extent required by section 88(7).
+24.3 Nothing in these Regulations excludes any statutory right which cannot lawfully be excluded, including information and inspection rights, rights under section 212, and rights arising in a court-approved compromise, arrangement or other statutory process.
+24.4 Subject to the Act and any express provision in the terms on which the relevant shares were issued, the creation or issue of further shares of an existing class carrying the same rights and ranking equally in all respects with the existing shares of that class shall not of itself constitute a variation of the rights attached to those existing shares. The authority and consent requirements of Regulations 9 and 10 remain applicable.
+25. MEMBERS' MEETINGS AND INFORMATION
+25.1 Every member is entitled to notice of general meetings and, personally or through one duly appointed proxy or authorised representative, to attend, speak and submit questions at those meetings. A proxy or representative may exercise only the rights of the appointing member. These entitlements confer no additional vote.
+25.2 Subject to mandatory statutory requirements, the quorum at an original or adjourned general meeting is one or more persons present as holders, proxies or authorised representatives of A Ordinary Shares, together representing more than 50 per cent of the voting rights exercisable on issued A Ordinary Shares. Treasury shares and other shares whose votes cannot lawfully be exercised shall be disregarded. A holding of B, C or D Ordinary Shares does not count towards that quorum. Sections 182(2) and 182(5)(b)(ii) are modified accordingly. This provision does not govern separate class meetings or meetings subject to a contrary statutory requirement or court order.
+25.3 Every resolution at a general meeting shall be decided on a poll. The chairperson has no second or casting vote. Any vote cast by the chairperson must derive from shares held or validly represented by that person. Sections 187 and 188 apply subject to these provisions and the class rights in Regulations 23 and 24. Statutory thresholds for ordinary and special resolutions remain applicable.
+25.4 Every member shall receive the financial statements and reports required by the Act and retain applicable statutory inspection and information rights. Written resolutions shall comply with the Act, including applicable circulation and notification requirements. The exclusion of general voting rights does not exclude those rights.
+26. COMPANY SECRETARY
+26.1 The secretary shall be formally appointed, and may be removed, by the directors in accordance with section 129 of the Act. The directors shall obtain prior A Consent to a proposed appointment or removal and shall consider any nomination or removal request made with A Consent. They shall take all lawful steps to give effect to it consistently with their statutory duties.
+26.2 No provision requires appointment of an ineligible or unsuitable person or prevents action which the directors reasonably consider necessary to comply with the Act or their statutory duties. A sole director shall not also be secretary. The A holders' rights under this Regulation do not themselves effect an appointment or removal.
+27. EQUAL TREATMENT ON EXIT
+27.1 In a sale of all issued Ordinary Shares, each holder shall receive the same amount and form of consideration per share, including equivalent rights to deferred or contingent consideration and equivalent elections as to its form. Members shall ensure that the sale arrangements give effect to this entitlement. Consideration attributable to shares shall not be diverted into another payment or arrangement to defeat this Regulation. No holder shall bear a disproportionate allocation of sale expenses, retentions or escrow solely because of the class held.
+[Y] 27.2 No member shall complete a transfer, or connected series of transfers, of A Ordinary Shares for value which would cause a purchaser, alone or together with persons acting under a common arrangement with that purchaser, to obtain more than 50 per cent of the general voting rights unless the purchaser has first made a binding written offer to acquire every other issued Ordinary Share on the same economic terms per share, including the entitlements specified in Regulation 27.1. The Company shall deliver the complete offer to each other member in accordance with Regulation 21. The offer shall remain open for at least [EXIT OFFER ACCEPTANCE PERIOD] calendar days after delivery to the last such member. The control transfer may complete only when the purchase of every share for which the offer has been accepted completes at the same time. No holder is obliged to accept the offer. Subject to the Act, the Company shall register transfers complying with this Regulation and shall refuse to register a transfer prohibited by it.
+27.3 Rights attached to an unexercised option on an exit shall be governed by its option agreement. This Regulation gives no power to compel a holder to transfer shares.
+Original subscriber page retained from incorporation
+
+=== 1B NOESIS ADOPTION SIGNING PACK (Documents 1 to 5) ===
+Constitution adoption: signing documents
+Noesis AI Agent System Limited | Company number 805939
+Use and order of signature
+Complete the highlighted particulars and attach the final constitution before signing. Each signature must carry its actual date and time. These documents provide for written decisions. They do not record a physical or electronic meeting.
+Document
+Who signs / completes
+Purpose
+1. Sole-director written resolution
+Shane McCarthy, as sole director. Sign first.
+Approves the proposal and conditionally authorises implementation.
+2. Sole-member special resolutions and consent
+Shane, as sole member and sole class holder. Sign second. John records receipt and certifies the filing copy.
+Adopts the constitution, redesignates all existing shares as A and gives unanimous rights consent.
+3. Secretary's completion record
+John Webb O'Rourke, as secretary.
+Records delivery, books, certificates and filing status.
+4. Register annotation
+John or the person maintaining the statutory register.
+Records redesignation without a transfer or fresh allotment.
+5. Replacement share certificate
+Common seal, Shane as director and John as secretary.
+Replaces the certificate description after redesignation.
+Particulars to complete consistently
+[Y] [CURRENT NUMBER OF SHARES], [NOMINAL VALUE], [AMOUNT PAID PER SHARE], [UNPAID AMOUNT PER SHARE], [ADOPTION DATE], [FINAL CONSTITUTION PAGE COUNT], and the existing/new certificate and share-number references where applicable.
+The number, nominal value and paid-up amount must agree with the current register and payment records. Complete the nominal value and exit-offer period in the constitution before attaching it as Annex A. The adoption date must be the actual date Shane signs Document 2. The final constitution must contain no uncompleted drafting fields.
+The original constitution records 100 shares at incorporation. This pack deliberately leaves the current number and paid-up particulars for completion from the present records. Shane's current sole ownership is the stated basis of these documents.
+John/PCCO should generate the actual G1 on CORE using Document 2 and the complete adopted constitution. Select the unanimous written-resolution route under section 193(1). These Word documents do not purport to be the official G1 form. Retain Document 2 and Annex A together and annex the relevant resolution to copies of the constitution subsequently issued, as section 198(2) requires.
+Document 1 | Sole-director written resolution
+Noesis AI Agent System Limited | 805939
+Companies Act 2014, section 161(1) and (5)
+I, Shane McCarthy, being the sole director of the Company, make the following written decisions. I record my interest as its sole member and holder of all issued shares. Having considered the proposed constitution, the existing share particulars and the interests of the Company, I resolve as follows:
+1. Proposed constitution
+The complete proposed constitution identified as Annex A to the sole-member resolutions is approved for submission to the sole member. It establishes A, B, C and D Ordinary Shares, removes the authorised share-capital ceiling and contains the rights and restrictions set out in its regulations. The redesignation of all existing issued Ordinary Shares as A Ordinary Shares on a one-for-one basis is recommended for approval by the sole member.
+2. Conditional implementation
+Subject to the sole member adopting that exact constitution and approving the redesignation, John Webb O'Rourke, as secretary, is authorised to receive and retain the signed member resolutions and Annex A; enter the decisions in the appropriate company records; annotate the register of members; and prepare and deliver the required CRO filings and supporting documents within the applicable time limits.
+3. Replacement certificate and seal
+After adoption and redesignation, and on surrender of the existing certificate or satisfactory resolution of any missing-certificate position, a replacement certificate describing the same shares as A Ordinary Shares is approved. The existing certificate shall be marked superseded and retained. This affects the certificate only. The common seal may be affixed to the replacement certificate, signed by me as director and countersigned by John as secretary under regulation 6. No certificate fee is to be charged for this replacement.
+4. Further issues and continuing appointments
+These decisions do not allot shares, grant options or create an agreement to allot shares. Any later transaction requires its own approvals and documentation under the adopted constitution and the Act. Existing director and secretary appointments continue. No change of office is made by these decisions.
+5. Records
+This signed resolution shall be retained in the directors' resolution records. Implementation documents must reproduce the exact adopted terms. Any substantive change to the proposed constitution must be approved before the member resolution is signed.
+Signature: ____________________________________
+Shane McCarthy | sole director
+[Y] Date: [ACTUAL SIGNING DATE]     Time: [ACTUAL SIGNING TIME]
+Document 2 | Unanimous written special resolutions and sole-member consent
+Noesis AI Agent System Limited | 805939
+Companies Act 2014, sections 32, 193 and 196; section 88 to the extent applicable
+I, Shane McCarthy, being the sole member of the Company and the registered holder of all its issued shares, and being entitled to attend and vote on these matters, pass the following as SPECIAL RESOLUTIONS under sections 32 and 193 of the Companies Act 2014. I also record them as decisions of the sole member under section 196.
+Existing issued shares immediately before adoption
+Registered holder
+Class
+Number
+Nominal value each
+Paid / unpaid each
+Shane McCarthy
+Ordinary
+[Y] [CURRENT NUMBER OF SHARES]
+[Y] €[NOMINAL VALUE]
+[Y] Paid €[AMOUNT PAID PER SHARE]; unpaid €[UNPAID AMOUNT PER SHARE]
+Those shares comprise the entire issued share capital. The particulars above have been checked against the current register. This document does not itself correct any pre-existing discrepancy in that register.
+Special resolution 1. Adoption
+[Y] The complete constitution attached to these resolutions and identified as Annex A, dated [ADOPTION DATE], comprising [FINAL CONSTITUTION PAGE COUNT] pages and initialled by me for identification, is adopted as the constitution of the Company in substitution for its existing constitution. Its adoption takes effect upon my signature below.
+Special resolution 2. Capital structure and redesignation
+With effect simultaneously with adoption, every issued Ordinary Share immediately before adoption is redesignated as one A Ordinary Share carrying the rights set out in Annex A. The total number of issued shares, their nominal value, registered holder and amount paid or credited as paid remain unchanged.
+The authorised share-capital ceiling in the former constitution is removed and the share capital is governed by regulation 4 of Annex A. Removal of that ceiling does not effect a cancellation of unissued shares or a reduction of issued capital. No share is allotted, cancelled, redeemed or transferred by these resolutions. B Ordinary Shares, C Ordinary Shares and D Ordinary Shares remain unissued.
+Continued on the next page, including express unanimous consent and the sole member's signature.
+Document 2 | Consent and signature
+Noesis AI Agent System Limited | 805939
+Express unanimous member and class consent
+In my capacities as the sole member of the Company and sole holder of all its issued Ordinary Shares, I expressly agree to adoption of Annex A, the redesignation and all alterations to the rights or restrictions attached to those shares resulting from them. This consent includes insertion of the class-rights provisions in regulation 24, for the purposes of section 88 of the Companies Act 2014 to the extent applicable.
+My consent relates to this identified adoption and redesignation only. It does not dispense with the statutory or constitutional approvals required for any later variation of rights. I agree in writing to be bound by Annex A.
+Scope and notification
+These resolutions do not allot any further shares, grant an option or create an agreement to allot shares. The Company is authorised to record and implement the adoption and redesignation and make the required filings. I direct that this signed document and Annex A be delivered immediately to John Webb O'Rourke for the Company and retained with the Company's member-resolution records.
+Signature: ____________________________________
+Shane McCarthy | sole member and sole holder of all issued shares
+[Y] Date: [ACTUAL SIGNING DATE]     Time: [ACTUAL SIGNING TIME]
+Receipt on behalf of the Company
+I acknowledge receipt of the complete signed resolutions and their attached Annex A on the date and at the time stated below. This acknowledgment records company receipt and is not a shareholder vote.
+Signature: ____________________________________
+John Webb O'Rourke | company secretary
+[Y] Date: [ACTUAL SIGNING DATE]     Time: [ACTUAL SIGNING TIME]
+Officer certification for the CRO filing copy
+[Y] I certify that the attached copy of these resolutions and consent is a true copy of the signed original retained in the Company's records, passed and made on [ADOPTION DATE], and that the accompanying constitution is the complete text adopted by them.
+[Y] Signed: ____________________________________     Date: [CERTIFICATION DATE]
+John Webb O'Rourke | Company secretary
+Attach the complete, final and identified constitution as Annex A. Complete the officer certification on the filing copy after the member has signed.
+Document 3 | Secretary's completion record
+Noesis AI Agent System Limited | 805939
+Record each event when it occurs. An outstanding administrative item must remain identified as outstanding.
+Item
+Record
+Director resolution signed
+[Y] [DATE / TIME]
+Member resolutions and consent signed
+[Y] [ADOPTION DATE / TIME]
+Signed member document and Annex A received by Company
+[Y] [RECEIPT DATE / TIME]
+Final adopted constitution identification
+[Y] Annex A; [FINAL DATE / VERSION / PAGE COUNT]
+Post-adoption issued shares
+[Y] Shane McCarthy: [CURRENT NUMBER OF SHARES] A Ordinary Shares of €[NOMINAL VALUE] each. B: 0. C: 0. D: 0.
+Register and resolution records updated
+[Y] [DATE / RECORD LOCATION]
+Old certificate surrendered / superseded
+[Y] [REFERENCE AND DATE, OR EXPLAIN OUTSTANDING POSITION]
+Replacement certificate sealed and signed
+[Y] [CERTIFICATE REFERENCE AND DATE, OR OUTSTANDING]
+CRO filing deadline
+[Y] [DATE: 15 DAYS AFTER PASSING]
+G1 and attachments submitted
+[Y] [SUBMISSION DATE / CORE REFERENCE, OR OUTSTANDING]
+CRO registration / query follow-up
+[Y] [STATUS / DATE / REFERENCE]
+Beneficial-ownership record review
+[Y] [NO CHANGE TO RECORDED PARTICULARS / UPDATE DETAILS]
+Existing contractual consents, if required
+[Y] [NOT REQUIRED AFTER REVIEW / DOCUMENT REFERENCES]
+I confirm that the entries completed above accurately record the steps taken and that outstanding matters are expressly identified. The adopted constitution and the resolutions are retained together. No further allotment or option grant is recorded or authorised by this completion record.
+Signature: ____________________________________
+John Webb O'Rourke | company secretary
+[Y] Date: [ACTUAL SIGNING DATE]     Time: [ACTUAL SIGNING TIME]
+Document 4 | Register of members annotation
+Noesis AI Agent System Limited | 805939
+Enter the following particulars in the existing statutory register and retain the historical entries. This schedule supports the update; it does not replace the complete register.
+Particular
+Entry
+Member name
+Shane McCarthy
+Member address
+[Y] [CURRENT REGISTERED ADDRESS OF MEMBER]
+Original date entered as member
+[Y] [EXISTING MEMBERSHIP DATE, UNCHANGED]
+Effective redesignation date
+[Y] [ADOPTION DATE]
+Number of shares
+[Y] [CURRENT NUMBER OF SHARES], unchanged
+Former class / new class
+Ordinary / A Ordinary
+Nominal value per share
+[Y] €[NOMINAL VALUE], unchanged
+Paid or credited as paid per share
+[Y] €[AMOUNT PAID PER SHARE], unchanged
+Unpaid amount per share
+[Y] €[UNPAID AMOUNT PER SHARE], unchanged
+Distinctive share numbers, if used
+[Y] [EXISTING SHARE NUMBERS / NOT APPLICABLE]
+Previous certificate reference
+[Y] [OLD CERTIFICATE NUMBER / POSITION]
+Replacement certificate reference
+[Y] [NEW CERTIFICATE NUMBER]
+Authority
+[Y] Sole-member special resolutions and express consent dated [ADOPTION DATE]; adopted constitution, Annex A.
+Suggested register note
+[Y] All issued Ordinary Shares were redesignated one-for-one as A Ordinary Shares on [ADOPTION DATE] under the sole-member special resolutions and consent. Shane McCarthy remains the sole registered holder. Share numbers, nominal values, paid-up amounts and membership date are unchanged. No allotment, transfer, redemption or cancellation of shares occurred.
+Entered by: ____________________________________
+[Y] Name / capacity: [NAME AND CAPACITY]     Date of entry: [ACTUAL ENTRY DATE]
+Document 5 | Replacement share certificate
+Noesis AI Agent System Limited
+Private company limited by shares, incorporated in Ireland | Company number 805939
+[Y] Certificate number: [NEW CERTIFICATE NUMBER]
+A Ordinary Shares
+[Y] This is to certify that Shane McCarthy of [MEMBER ADDRESS] is the registered holder of [CURRENT NUMBER OF SHARES] A Ordinary Shares of €[NOMINAL VALUE] each in the above-named Company, subject to its constitution.
+[Y] Amount paid or credited as paid per share: €[AMOUNT PAID PER SHARE].
+[Y] Unpaid amount per share: €[UNPAID AMOUNT PER SHARE].
+[Y] Distinctive share numbers, if used: [EXISTING SHARE NUMBERS / NOT APPLICABLE].
+[Y] The shares were redesignated from Ordinary Shares as A Ordinary Shares on [ADOPTION DATE]. Their number, nominal value, holder and paid-up amounts were unchanged. This certificate replaces certificate number [OLD CERTIFICATE NUMBER] solely to reflect that redesignation.
+[Y] Given under the common seal of the Company on [CERTIFICATE EXECUTION DATE].
+Common seal:
+Signed: ____________________________________
+Shane McCarthy | Director
+Countersigned: ____________________________________
+John Webb O'Rourke | Company secretary
+The superseded certificate is to be retained in the Company's records, marked superseded. These shares have not been cancelled or newly allotted.
