@@ -645,3 +645,4 @@ John's relationship capital is one of his two biggest assets alongside opportuni
 - **Spelling rule (John, 17 Nov 2026):** Dave Geoghegan (David Geoghegan, CFO, United Hardware) is spelled G-E-O-G-H-E-G-A-N, always. Dictation may render it as "Gagan" or similar; use Geoghegan.
 - **Spelling rule (John, 19 Nov 2026):** the lawyer acting for the investor family in Asterial is Fasheed (not Vashid). Earlier entries in the dossier use "Vashid"; read as Fasheed. Firm still unconfirmed.
 - **Print rule (John, 20 Nov 2026):** John's printer cannot handle colour or heavy fills: every daily page and printable sheet is strictly black and white (no highlights, no grey fills, no black header bars).
+- **Contact (John, 21 Nov 2026):** Niall Mackey (M-A-C-K-E-Y), AIB, dealing with Dave Geoghegan of United Hardware; John to follow up Mon 23 Nov.
