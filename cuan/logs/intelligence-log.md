@@ -1268,3 +1268,6 @@ Photographed page: Laya orthopaedic co-payment 20pc to 40pc from 1 Dec (plus abo
 
 ## 2026-11-21 [Cuan → John] Indo Money: heating mistakes; Gender Pay Gap Portal due 30 Nov
 Three photographed pages: nine heating mistakes (insulation, windows, curtains, radiators, heat pumps) and Morgan O'Connell's pay-gap advice, with Ireland's Gender Pay Gap Portal mandatory reporting due 30 November for employers with 50 or more employees. Governance prompt for John as chair of UHL Audit and Risk (check UHL's report) and for Asterial hiring plan pay criteria. File: market_intel_indo_money_heating_pay_gap_21nov2026.md. As reported, unverified.
+
+## 2026-11-21 [Cuan → John] Irish Country Living: making a will; household and business spending
+Two photographed pages: Aisling Meehan's seven steps to make a will (joint tenancy versus tenants in common, legal right share, discretionary trust, executors and guardians, witness rules, no central register, review after marriage, separate will for property abroad) and Philip O'Connor (ifac) on separating household and farm spending with an agreed monthly drawing. Personal use: John's estate and retirement plan (including the UK apartments) and personal cash discipline. File: market_intel_irish_country_living_will_household_21nov2026.md. As reported, unverified.
