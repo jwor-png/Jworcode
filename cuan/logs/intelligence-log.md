@@ -1271,3 +1271,6 @@ Three photographed pages: nine heating mistakes (insulation, windows, curtains, 
 
 ## 2026-11-21 [Cuan → John] Irish Country Living: making a will; household and business spending
 Two photographed pages: Aisling Meehan's seven steps to make a will (joint tenancy versus tenants in common, legal right share, discretionary trust, executors and guardians, witness rules, no central register, review after marriage, separate will for property abroad) and Philip O'Connor (ifac) on separating household and farm spending with an agreed monthly drawing. Personal use: John's estate and retirement plan (including the UK apartments) and personal cash discipline. File: market_intel_irish_country_living_will_household_21nov2026.md. As reported, unverified.
+
+## 2026-11-21 [Cuan → John and Meridian] New Cancer Centre for Limerick (Ballygrennan, Moyross)
+Local newspaper report: 30,000 sq ft oncology centre completed by WhiteBox Property Developments (Martin White, Adare), handed to Aedifica (Belgian-listed healthcare real estate), to be run by CROAL (UPMC and Bon Secours JV); wider campus with a 90-bed nursing home (Q1 2027), primary care centre and 115 staff homes. Use: MWCF premises and partnership opportunities (raise Wed 25 Nov); reference case for Tairseach. File: market_intel_limerick_cancer_centre_whitebox_21nov2026.md. As reported, unverified.
