@@ -1259,3 +1259,6 @@ Three photographed pages: Adrian Weckler's interview with Prof Robin Burke, dire
 
 ## 2026-11-19 [Cuan → Meridian] Goodbody: AI and data centres drive 20pc of Irish growth
 Newspaper report on Goodbody's Irish Economy Health Check: AI and data centre investment about a fifth of the growth in modified domestic demand; 11.4bn euro equipment imports; power and grid constraints; Anthropic listing at about 1.3 trillion dollars as a sector test. Context for Asterial and Tairseach. File: market_intel_goodbody_ai_data_centres_nov2026.md. Figures as reported, unverified.
+
+## 2026-11-21 [Cuan → John] Irish Independent: 43,000 euro a year to live comfortably in retirement
+Indo Money page (Sinéad Ryan): RLI research puts comfortable retirement at about 3,575 euro a month (42,900 a year) needing about 565,000 euro in a fund on top of maximum state pension of about 16,000; state pension 309.30 euro a week for 2027; four taxpayers per pensioner falling to two by 2050; Goodbody: 300 euro a month from 25 gives about 445,000 at 65, from 45 about 122,000. Personal Compass use for John's retirement and estate plan. File: market_intel_retirement_43k_irish_independent_21nov2026.md. As reported, unverified.
