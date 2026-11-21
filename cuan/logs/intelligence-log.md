@@ -1265,3 +1265,6 @@ Indo Money page (Sinéad Ryan): RLI research puts comfortable retirement at abou
 
 ## 2026-11-21 [Cuan → John and Meridian] Indo Money: health plan shortfall, Section 72, EU Inc.
 Photographed page: Laya orthopaedic co-payment 20pc to 40pc from 1 Dec (plus about 5pc price rise; alternatives VHI, Irish Life Health, Level Health); PRSA direct property; Section 72 whole-of-life policy for inheritance tax; and Commissioner McGrath on the EU Inc. draft start-up law (48 hour incorporation, common employee stock option rules, Irish presidency steering talks). Personal use: mother's health insurance and estate plan. Group use: EU Inc. as a structure and option-pool consideration. File: market_intel_indo_money_your_questions_eu_inc_21nov2026.md. As reported, unverified.
+
+## 2026-11-21 [Cuan → John] Indo Money: heating mistakes; Gender Pay Gap Portal due 30 Nov
+Three photographed pages: nine heating mistakes (insulation, windows, curtains, radiators, heat pumps) and Morgan O'Connell's pay-gap advice, with Ireland's Gender Pay Gap Portal mandatory reporting due 30 November for employers with 50 or more employees. Governance prompt for John as chair of UHL Audit and Risk (check UHL's report) and for Asterial hiring plan pay criteria. File: market_intel_indo_money_heating_pay_gap_21nov2026.md. As reported, unverified.
