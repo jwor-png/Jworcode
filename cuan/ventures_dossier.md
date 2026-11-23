@@ -10135,3 +10135,8 @@ BYD's largest model to date, unveiled at the Paris Motor Show by Stella Li: seve
 - Read Shane's term sheet v2 and the two Asterial PDFs. Arithmetic reconciles (35m pound, 41.72m euro at 1.192, post-money 166.88m). Flags: binding exclusivity before counsel, B-share secondary vs Pat's all-A holdings, employee pool conflict, IP ownership wording, own-costs clause vs ask for cost advance, Diarmuid advisory conflict, Fabrica tie-in and delivery promises.
 - UHL: Oct YTD sales +4.7 percent vs budget, trading profit 2.14m (+5.9 percent), FY outlook 2.243m (+9.9 percent), net profit red (exceptionals 1.35m vs 1.0m). 2027 budget trading profit flat at 2.273m. Reconcile 2.270m vs 2.243m, and deck "-20.2 percent" basis. BMG paper is a stage gate only.
 - Deliverable: cuan/scratch/Asterial_TermSheet_and_UHL_Prep_23Nov2026.pdf (includes draft note to Michael O'Driscoll, assumption stated, John sends).
+
+## 23 Nov 2026 (Mon) 13:11 UTC email check
+- Status change: John emailed Shane (cc Pat, Tom) at 12:26 UTC with his signed Performance Class B shareholding agreement for countersignature by Shane and the company. Open item remains: independent advice on John's own B-share interest was not recorded as taken.
+- Shane's "Prospective Term Sheet (Please Review)" (12:33 UTC, to Pat and John) confirms send at 4 to 4:30pm today. Same v2 text reviewed.
+- Otherwise routine: MWCF invitation accepted, Maria O'Flaherty (Kilkenny 3 Dec), Campion post received, Pinterest/Google sign-in alert still unconfirmed. No other action needed.
