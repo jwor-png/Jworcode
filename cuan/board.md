@@ -16,7 +16,7 @@ Key: 🔴 blocked by someone else · 🟡 waiting on John · 🟢 moving · ⚪ 
 - **Still unrecorded:** outcomes of the Limerick signing, John and Shane's Sat 10:00 call, Vinny Leonard's 19 Nov call, the Andrew meeting, the Tangible Zoom. The Sunday 22 Nov board email was not sent (approval interrupted).
 
 ## Tue 24 and Wed 25 Nov (plan from the 5 Nov handover)
-- Tue 24 Nov: William Fry 10:00 meeting CANCELLED by Barry (20 Nov); fund's term sheet expected; drive to Armagh for **14:00 Archbishop Eamon Martin, Childen** (John and Shane); stay in Dublin that night. Wed 25 Nov: UHL board meeting, probably 10:00.
+- Tue 24 Nov: William Fry 10:00 meeting CANCELLED by Barry (20 Nov); fund's term sheet expected; drive to Armagh for **14:00 Archbishop Eamon Martin, Childen** (John and Shane); Childen handover logged 23 Nov 22:10: agree with Shane the test (Rome office and date in writing), the five questions about two thirds through after the demo, and the open question: sale or custodianship with the governance engine retained; stay in Dublin that night. Wed 25 Nov: UHL board meeting, probably 10:00.
 
 ## Next 48 hours
 
