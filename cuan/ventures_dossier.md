@@ -10184,3 +10184,5 @@ BYD's largest model to date, unveiled at the Paris Motor Show by Stella Li: seve
 - **Expect questions on** the Irish abuse legacy and on parish verification of children. Reported background (unverified by Cuan): Archbishop Martin met OpenAI Ireland (Jul 2026) and was elected CCEE vice-president 2026 to 2031.
 - **OPEN:** is the goal a sale, or custodianship with the governance engine retained? Shane's summary describes the governance engine as never for sale.
 - Cuan did not verify any of this and has sent nothing. The Childen governance-engine point conflicts with the standing rule: no commercial or technical commitment without Shane's alignment.
+
+- **Why the Armagh meeting is happening (John, 23 Nov, late):** John and Shane's understanding is that the Childen documents went to the Vatican first, and that this led to the instruction that the Tue 24 Nov meeting with Archbishop Martin should be held. This is their understanding, not confirmed by Cuan (no document, email or named sender seen). Implication for the questions: first establish who in Rome received the documents, who gave the instruction, and whether the Archbishop is acting on it.
