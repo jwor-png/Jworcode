@@ -10140,3 +10140,8 @@ BYD's largest model to date, unveiled at the Paris Motor Show by Stella Li: seve
 - Status change: John emailed Shane (cc Pat, Tom) at 12:26 UTC with his signed Performance Class B shareholding agreement for countersignature by Shane and the company. Open item remains: independent advice on John's own B-share interest was not recorded as taken.
 - Shane's "Prospective Term Sheet (Please Review)" (12:33 UTC, to Pat and John) confirms send at 4 to 4:30pm today. Same v2 text reviewed.
 - Otherwise routine: MWCF invitation accepted, Maria O'Flaherty (Kilkenny 3 Dec), Campion post received, Pinterest/Google sign-in alert still unconfirmed. No other action needed.
+
+## 23 Nov 2026 (Mon) afternoon: AIB banking
+- John texted Dave Geoghegan at 13:44 for any reply from Niall Mackey (AIB). Dave: not yet, will ring him again, and texted Niall asking for a contact name for John re AI business.
+- John submitted AIB's online branch appointment form (personal forms page) for AIB Capel Street, Dublin 1, Wed 25 Nov afternoon, to start discussing accounts for Asterial and Noesis. Awaiting AIB's confirmation of date and time. Discussed with Tom Stapleton.
+- Cuan flags: the form was the personal route, so make clear on any callback it is for two companies; Wed 25 Nov is the UHL Board (10:00 to 12:45, Magna); onboarding is the long pole against the 11 Dec funds date; Pat needs signed constitutions and shareholders' agreements for account opening; keep Bank of Ireland in parallel.
