@@ -72,7 +72,7 @@ Key: 🔴 blocked by someone else · 🟡 waiting on John · 🟢 moving · ⚪ 
 
 ## 3. Act with integrity
 
-- 🟢 **Revenue Final Demand (2024 estimate):** reply posted by registered post 3 Nov. Next: 2024 return via ROS by 31 Dec 2026 (who prepares to confirm); follow-up 16 Nov.
+- 🟡 **Revenue Final Demand (2024 estimate):** reply posted by registered post 3 Nov. **24 Nov: Fintan Shine (fintax.ie, CTA, Castletroy) emailed John: Revenue has put collection of the estimate on hold until 31 Dec 2026; outstanding income tax returns must be addressed before then or early in the new year; last return had Irish and UK rental income, so any property sales may need CGT returns; if not addressed, enforcement (sheriff, solicitor, attachment of accounts).** Next: John to reply to Fintan (agree who files the returns and by when); gather rental and sale records.
 - 🟡 **Pay-when-able commitments:** Nigar Roach, Keith Hogan (Michael Nugent closed 9 Sept); Clinton Tiernan account. [Sept, confirm]
 - 🟡 **Noesis commitments record:** John or Tom to compile; evidence rule: no unverified entry presented as agreed.
 - 🟢 **Standing rules:** no outward action without John's instruction; every claim source-tagged; nothing committed without Shane's alignment.
