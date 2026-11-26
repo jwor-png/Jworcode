@@ -4,6 +4,19 @@
 
 Key: 🔴 blocked by someone else · 🟡 waiting on John · 🟢 moving · ⚪ not started
 
+## Fri 27 Nov (from John's brain dump, Thu 26 Nov evening)
+**Fixed times:** 10:00 review Vincent Leonard material and Velocity follow-up (work session); 12:30 to 13:00 call with Vincent Leonard (Teams invite from him, subject "velocity", in Gmail 17:11 UTC 26 Nov). Term sheet expiry 17:00.
+**First thing:**
+- Send **John Lynch the balancing statement** and request the further payment (priority; detail of amount not yet given, confirm).
+- Phone Maria O'Flaherty (UHL): Greenisle complaint (receptionist "Mahek", stay Tue 24 Nov); remind **Dave Geoghegan** to process directors' fees for the year and travelling expenses, ideally over the weekend.
+- Register or log in to the **UHL OnBoard** tech.
+- Phone **Pat McGrath** to follow up.
+- Asterial Labs Form A1 (SR10311493): chase Shane's signature (WhatsApped Thu); both pages as one PDF to Pat; original by post.
+**Noesis, AIB and papers (John is taking charge):** AIB accounts for Asterial, Noesis, Fabrica, Shane personal and John personal. One-page Word checklist per account (Cuan to prepare, with John's own AIB application form). Review all AIB forms and Pat's papers. Company resolutions as company secretary. Reply to Neil Dignam. Shane's will, EPA, and a discretionary power of attorney for Johnny (Barber Republic): see dossier 26 Nov.
+**UHL and AHL:** circulate the Smyths and AHL correspondence; decide whether to contact Barry Scannell (William Fry) and acknowledge his email; chase ORS and Gerard Heffernan on the AHL building inspection; BDO (Simon Carbery) not yet back: agree a date for next year's AHL audit and get a fee quote.
+**Personal:** MWCF Cancer Foundation fashion show: promote on LinkedIn and Facebook, check whether Neve did anything. Dr Ali (cardiologist): screenshot today's message, get a referral back, send health insurance details. Fintan (income tax) replied 26 Nov: in hand.
+**Standing daily:** consult the Council (ChatGPT, 12:00) and Dominion (Shane's 48 Laws of Power artifact); one afternoon reminder proposed at 15:00 for both, John to confirm.
+
 ## Today, Thu 26 Nov
 - **UHL Board (25 Nov) outcome not yet recorded:** budget adopted? Keith Cronin ratified to the Audit and Risk Committee? Chairman call (Tue 10:45) outcome? Salary schedule closed? Item briefs and speaking page are in cuan/scratch. Paul Candon welcomed the conditional recommendation (25 Nov 08:29); Ardentia/Kehoe's and Expert budgets to the December Board. UHL conference and awards Thu 3 Dec, Kilkenny (Lyrath booked by Maria O'Flaherty); send her the Green Isle complaint details.
 - **Armagh (24 Nov):** good, positive meeting with Archbishop Martin on Childen; John will give the detail Thursday or Friday; record next steps and any Rome meeting.

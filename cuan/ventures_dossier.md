@@ -10310,3 +10310,19 @@ Source: John's screenshot of Shane's WhatsApp (17:03 and 17:04, with a damacgrou
 - John's actions now: take charge of opening the bank accounts (AIB) for the three companies (Asterial, Noesis, Fabrica), for Shane personally, and for himself personally with AIB. Mindful of the incoming investment.
 - John wants cuan to: (1) check the AIB account opening forms and all papers received so far from Pat Carroll; (2) get the papers in order for each of the three companies and for Shane (and John's own AIB account); (3) prepare the company resolutions, as company secretary for the companies.
 - Status: instruction logged; deliverables not yet started. John has more dictation to add before work begins.
+
+## 26 Nov 2026 (evening): John's brain dump, part 2 (tasks and instructions)
+Instructions to Cuan:
+- One-page checklists in Word (single version, no PDF pair needed) per bank account: Asterial, Noesis, Fabrica, Shane personal, plus an AIB application form for John personally. Print a daily page after John has voiced the latest messages. Prepare company resolutions as company secretary.
+- Reminders: consult the Council (5 or 6 members in ChatGPT; previous 12:00 reminder) and Dominion (Shane's artifact on the 48 Laws of Power): one combined afternoon reminder, John unsure of the time (Cuan proposes 15:00).
+- Research asked: how a will printed on separate pages is joined so the Probate Office accepts it and tampering is excluded; John does not think a Dublin corporate lawyer should draft Shane's will (John has drafted wills before, would work on Shane's instructions; has no continuation paper). Shane's enduring power of attorney to pursue; possibly a discretionary power of attorney for Johnny (Barber Republic).
+Tasks (all John's unless stated):
+- Fri 27 Nov: send John Lynch the balancing statement and request the further payment (priority); phone Pat McGrath; phone Maria O'Flaherty re Greenisle; remind Dave Geoghegan to process directors' fees and travelling expenses for the year, over the weekend; log in to the UHL OnBoard tech; 10:00 review and work on Vincent Leonard's material (nothing done since last week's conversation); 12:30 to 13:00 Teams call with Vincent Leonard.
+- Review everything Johnny sent (mainly WhatsApp, including a voice message). Reply to Neil Dignam's email.
+- Circulate the Smyths and AHL correspondence. Decide whether to contact Barry Scannell (William Fry); his email is unacknowledged, John should reply. AHL building inspection: ORS and Gerard Heffernan not back (John thinks): Cuan to check email. BDO (Simon Carbery) not back: agree AHL audit date for next year and get a fee quote.
+- MWCF Cancer Foundation fashion show: John promoted on LinkedIn and Facebook; check whether Neve did anything.
+- Dr Ali (cardiologist): message received earlier today (John to screenshot), get a referral back and send health insurance details.
+- Fintan Shine: John replied 26 Nov 14:16 on personal income tax: in hand.
+- Noesis email (noesisgroup.ai) is set up.
+Names to confirm (heard by dictation): "Malachy" on tonight's call v. Maliki Harkin logged earlier; "John Lynch" balancing statement (context and amount not recorded here); "Dave Gagan" taken as Dave Geoghegan; "Johnny Baba" taken as Johnny Shanahan (Barber Republic); "Smiths" taken as Smyths.
+Email check: Vincent Leonard's Teams invite (subject "velocity") arrived 26 Nov 17:11 UTC, time not visible in snippet. BDO: Simon Carbery chased UHL audit twice (17 and 25 Nov); Dave told him 25 Nov the decision, to revisit next year; John said he would call him about AHL.
