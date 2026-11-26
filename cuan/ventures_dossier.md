@@ -10348,3 +10348,8 @@ Source: PDF supplied by John without instruction; author not shown (Asterial bra
 - Print version (white, black text, Word, 3 pages) made 26 Nov: cuan/scratch/Asterial_Onboarding_Organism_Brief_Print_26Nov2026.docx; wording as in the original brief.
 - Daily sheet for Fri 27 Nov re-laid out at John's request: one page, 12.5pt, full width, notes lines (replaces the 2 page version; role and creed detail remain in operating_creed.md).
 - Daily sheet redone 26 Nov: full content restored (my cut was not asked for); 2 pages at 11pt, A to C on page 1, D to F and notes on page 2.
+
+## 26 Nov 2026 (evening): John's concept: "family tree" daily page
+- John wants his Operating Creed daily page laid out like the Noesis group structure chart (image 14 Nov): one box per project (Noesis companies, UHL, AHL, and so on), with the actions needing doing listed under each, so he can look at the project rather than a mixed list. Each project shows the daily actions first and the mid to long term action alongside. Source: brain dump, daily actions and the Creed feed one view.
+- Draft built (landscape A4, one page, white and black, PDF): cuan/scratch/Daily_Tree_Fri27Nov2026.pdf (html source alongside). Row 1: Asterial (with Asterial Labs), Noesis, Fabrica, Shane personal, Data centre and LLM. Row 2: UHL, AHL, Velocity and income, Barber Republic, Personal and MWCF. Placement of items is Cuan's guess; mid to long term lines only where known from records; others blank for John to set.
+- Status: draft for John's review; not yet adopted as the standing daily format.
