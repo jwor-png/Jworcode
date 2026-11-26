@@ -10282,3 +10282,9 @@ Source: John's photos of the printed 2 page Noesis "Vision, Mission and Values" 
 - Margin notes: handwritten line at top reads roughly "What does Almighty want, pick 5" (partly legible, unconfirmed); red arrows link the vision and mission to 01 AI Driven, Human Led, which is circled.
 - Status: John's own selections for discussion with Shane; no action taken.
 - Also: Niall Mackey draft NOT created; attachments (about 7.4MB) exceed the 3.1MB connector limit. Awaiting John's choice (no attachments / PNG only / compressed). Body text agreed in chat; currency (sterling vs euro) and "Chairman" title to confirm.
+
+## 26 Nov 2026 (evening): Draft to Niall Mackey (AIB) created, not sent
+- Draft in John's Gmail drafts (id r8690722053337173047): to niall.e.mackey@aib.ie, cc shane.mc@noesisgroup.ai. Subject "Noesis Group introduction: Asterial, Noesis and Shane McCarthy accounts".
+- Attachment: "Noesis Companies 14 Nov 2026.pdf" only (John's choice). The original was 3.8MB, over the connector limit, so a compressed copy (about 0.9MB, pages rebuilt as images, text not selectable) was attached. John to attach the original from his sent email if he wants it.
+- Content: group intro with CRO numbers, expected 35 million sterling investment into Asterial (confirmed sterling by John; term sheet shows euro net primary subscription, flag), funds to Asterial AIB account, Shane personal account, priority Asterial, Noesis, Shane personal, Fabrica; subject to contract.
+- John to review, then send this evening himself.
