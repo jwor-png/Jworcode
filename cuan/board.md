@@ -1,10 +1,19 @@
 # Board: Live Dashboard
 
-**As at Wed 25 Nov 2026, 05:13.** One line per item: what, status, next action. Organised by the six Operating Creed disciplines (`operating_creed.md`), with Noesis first because it is John's focus. Anything older than 14 days is tagged **[last known date, confirm]**. Full detail lives in `ventures_dossier.md`; the previous full board is archived at `logs/board-archive-2026-11-03.md`.
+**As at Thu 26 Nov 2026, 05:13.** One line per item: what, status, next action. Organised by the six Operating Creed disciplines (`operating_creed.md`), with Noesis first because it is John's focus. Anything older than 14 days is tagged **[last known date, confirm]**. Full detail lives in `ventures_dossier.md`; the previous full board is archived at `logs/board-archive-2026-11-03.md`.
 
 Key: 🔴 blocked by someone else · 🟡 waiting on John · 🟢 moving · ⚪ not started
 
-## Today, Wed 25 Nov
+## Today, Thu 26 Nov
+- **UHL Board (25 Nov) outcome not yet recorded:** budget adopted? Keith Cronin ratified to the Audit and Risk Committee? Chairman call (Tue 10:45) outcome? Salary schedule closed? Item briefs and speaking page are in cuan/scratch. Paul Candon welcomed the conditional recommendation (25 Nov 08:29); Ardentia/Kehoe's and Expert budgets to the December Board. UHL conference and awards Thu 3 Dec, Kilkenny (Lyrath booked by Maria O'Flaherty); send her the Green Isle complaint details.
+- **Armagh (24 Nov):** good, positive meeting with Archbishop Martin on Childen; John will give the detail Thursday or Friday; record next steps and any Rome meeting.
+- **Group payment controls (Pat, 25 Nov 14:05):** two signatories for every payment (Shane and Pat as Group CFO), John alternate only, Pat consulted in advance on all group money matters; Shane, Tom and John each to confirm. Decide: AIB mandate (debit card and Phone and Internet Banking need Any One; iBB with two-user authorisation fits), whether AIB accepts a non-director signatory, independent review given Pat's firm prepares the accounts. Then board approvals for each company and updated draft banking resolutions. Pat to get the AIB forms to John Wed to Thu.
+- **CRO:** nine of the ten new companies show John appointed company secretary (Pat 25 Nov); Asterial Labs not listed; certificates and CRO numbers awaited; G1 filing for Noesis and Asterial not confirmed (due about 5 Dec). Document register (xlsx and print PDF) and draft resolutions in cuan/scratch; update as emails arrive.
+- **Asterial term sheet:** with the investors; expiry Fri 27 Nov 17:00; counsel (Irish and UK) not engaged: screening confirmation due by the 4 Dec readiness review.
+- **Revenue:** reply to Fintan Shine (2024 estimate on hold to 31 Dec; returns to file).
+- **Carried:** KEED corporation tax 4,820 euro; OSM and Sheriff warrant; five-firm counsel enquiry; John's Performance B countersignature and independent advice; security alerts (Pinterest/Google 22 Nov; Velocity sign-in 23 Nov); company cars (after cleared funds only).
+
+## Carried from Wed 25 Nov
 - **UHL Board 10:00, Magna (OnBoard):** item-by-item brief ready (cuan/scratch/UHL_Board_25Nov2026_Item_Briefs, PDF and Word, 7 pages). John speaks briefly for the Audit and Risk Committee to recommend the 2027 budget; declare the Velocity AI training interest; ratify Keith Cronin joining the Committee; flag the CCPC pump recall (draft prohibition notice, representations were due 19 Nov), the cloud migration decision (233,091 euro, gates) and BMG as a stage gate only. John drives home about 14:00. Michael O'Driscoll note: John spoke to Michael on 24 Nov. John's call with the Chairman (E. McGettigan in the papers) was Tue 10:45: outcome to record.
 - **Armagh (24 Nov):** good, positive meeting with Archbishop Martin on Childen, plus a blessing; John will give the detail Wed or Thu. Next steps and any Rome meeting to record.
 - **AIB (Asterial and Noesis only):** forms from Cathal Quigley (Capel Street) and Karl Keane (Dame Street) in hand; Pat to get the completed forms to John Wed to Thu. Decide: mandate (debit card and Phone and Internet Banking need Any One; Pat wants two to sign), signatories (Shane plus John as secretary if AIB accepts), iBB access and dual authorisation, credit cards, Pat as signatory and admin user. Cathal is off Wed.
