@@ -10326,3 +10326,8 @@ Tasks (all John's unless stated):
 - Noesis email (noesisgroup.ai) is set up.
 Names to confirm (heard by dictation): "Malachy" on tonight's call v. Maliki Harkin logged earlier; "John Lynch" balancing statement (context and amount not recorded here); "Dave Gagan" taken as Dave Geoghegan; "Johnny Baba" taken as Johnny Shanahan (Barber Republic); "Smiths" taken as Smyths.
 Email check: Vincent Leonard's Teams invite (subject "velocity") arrived 26 Nov 17:11 UTC, time not visible in snippet. BDO: Simon Carbery chased UHL audit twice (17 and 25 Nov); Dave told him 25 Nov the decision, to revisit next year; John said he would call him about AHL.
+
+## 26 Nov 2026 (evening): AIB checklists built
+- cuan/scratch/AIB_Account_Checklists_26Nov2026.docx (6 pages, Word, one page each): Asterial (priority 1), Noesis (2), Fabrica (4), Shane personal (3), John personal, plus a fill-in details sheet for John's own AIB application (not an AIB form; AIB's own personal application must be used).
+- Built from emails to 26 Nov 17:00. Key open points: mandate decision (Pat two signers v Any One for cards and Phone and Internet Banking); AIB acceptance of Pat as a non-director signatory; Pat's completed forms not yet seen; Fabrica not covered by Karl's note; resolutions R1 and R2 to update after the mandate is agreed.
+- John agreed a combined Council and Dominion reminder at 15:00 daily (on the board as a standing line).
