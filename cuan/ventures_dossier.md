@@ -10303,3 +10303,10 @@ Source: John's screenshot of Shane's WhatsApp (17:03 and 17:04, with a damacgrou
 - John's idea with Shane: the group having its own data centre and an LLM with compute in it (links to Phronethos LLM, Tairseach data-centre land vertical, Asterial IP estate).
 - Maliki Harkin (John's friend/colleague, spelling per John) rang John twice today; may have access to a data centre site needing development. John to phone him and find out more; no details yet.
 - Status: log only, no action taken. Open: site details from Maliki (location, size, power and grid connection, planning status, ownership, ask), whether this is a Noesis group matter and who leads.
+
+## 26 Nov 2026 (evening): John's brain dump, part 1 (dictation paused, more to follow)
+- Greenisle Hotel complaint (stay Tue 24 Nov, Naas Road, Newlands Cross, Dublin 22; tel +353 1 412 3700; info@greenislehotel.com): the receptionist that night wrote her name as "Mahek" (handwritten on the hotel card, spelling as read from photo). John is making the complaint through Maria O'Flaherty (UHL). John's reply to Maria went today but she is out of the office: John to contact her again Fri 27 Nov. (Earlier thread: Maria asked for details of "that rude lady in the Greenisle"; John said room was fine and his 100 euro deposit came back.)
+- Role correction: John is Chairman of the Noesis group, not interim chairman. Use "Chairman" in drafts and records.
+- John's actions now: take charge of opening the bank accounts (AIB) for the three companies (Asterial, Noesis, Fabrica), for Shane personally, and for himself personally with AIB. Mindful of the incoming investment.
+- John wants cuan to: (1) check the AIB account opening forms and all papers received so far from Pat Carroll; (2) get the papers in order for each of the three companies and for Shane (and John's own AIB account); (3) prepare the company resolutions, as company secretary for the companies.
+- Status: instruction logged; deliverables not yet started. John has more dictation to add before work begins.
