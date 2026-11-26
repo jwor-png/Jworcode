@@ -10295,3 +10295,11 @@ Source: John's photos of the printed 2 page Noesis "Vision, Mission and Values" 
 - John emailed Maria O'Flaherty (United Hardware) re Lyrath room and Greenisle B&B complaint details, 14:27. Routine.
 - Everything else in the window was newsletters or promotions. No other changes.
 - 26 Nov 2026 (evening): John WhatsApped Shane, marked urgent, asking him to sign the Asterial Labs Form A1 (SR10311493) for Pat. Awaiting Shane's signature; then both pages as one PDF to Pat, original by post.
+
+## 26 Nov 2026 (evening): Data centre thread, Shane WhatsApp and Maliki Harkin call
+Source: John's screenshot of Shane's WhatsApp (17:03 and 17:04, with a damacgroup.com link above, partly cut off). Shane's own words, relayed; unverified.
+- Shane: "Triangulate" are building data centres, investing 700 to 800 million; "Cold needs more money"; Gavin is updating Shane; has 175 million of data centre contracts in Finland (Microsoft, Google named); Irish companies involved: Mercury, Kerby's, Jones Engineering; "Triangulate on grids". Second message: they are in Finland because of nuclear energy, access there and government policy.
+- Spelling of names (Triangulate, Cold, Kerby's) is as in the message, not confirmed. Link to DAMAC Group (damacgroup.com) context unclear; DAMAC already appears in the UAE family office lead list (unverified).
+- John's idea with Shane: the group having its own data centre and an LLM with compute in it (links to Phronethos LLM, Tairseach data-centre land vertical, Asterial IP estate).
+- Maliki Harkin (John's friend/colleague, spelling per John) rang John twice today; may have access to a data centre site needing development. John to phone him and find out more; no details yet.
+- Status: log only, no action taken. Open: site details from Maliki (location, size, power and grid connection, planning status, ownership, ask), whether this is a Noesis group matter and who leads.
