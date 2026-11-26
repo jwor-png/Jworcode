@@ -10294,3 +10294,4 @@ Source: John's photos of the printed 2 page Noesis "Vision, Mission and Values" 
 - John replied to Fintan Shine (Revenue/tax estimate thread) at 14:16: sent, content not re-read here.
 - John emailed Maria O'Flaherty (United Hardware) re Lyrath room and Greenisle B&B complaint details, 14:27. Routine.
 - Everything else in the window was newsletters or promotions. No other changes.
+- 26 Nov 2026 (evening): John WhatsApped Shane, marked urgent, asking him to sign the Asterial Labs Form A1 (SR10311493) for Pat. Awaiting Shane's signature; then both pages as one PDF to Pat, original by post.
