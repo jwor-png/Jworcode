@@ -10288,3 +10288,9 @@ Source: John's photos of the printed 2 page Noesis "Vision, Mission and Values" 
 - Attachment: "Noesis Companies 14 Nov 2026.pdf" only (John's choice). The original was 3.8MB, over the connector limit, so a compressed copy (about 0.9MB, pages rebuilt as images, text not selectable) was attached. John to attach the original from his sent email if he wants it.
 - Content: group intro with CRO numbers, expected 35 million sterling investment into Asterial (confirmed sterling by John; term sheet shows euro net primary subscription, flag), funds to Asterial AIB account, Shane personal account, priority Asterial, Noesis, Shane personal, Fabrica; subject to contract.
 - John to review, then send this evening himself.
+
+## 26 Nov 2026 17:07 UTC: email review check-in
+- Asterial Labs Form A1 (CRO returned submission SR10311493, thread 1a2183aef74712a1): Pat 14:20 asked John and Shane to ink sign and scan back, original by post, keeping the barcode intact. John signed and scanned at 14:23 to 14:37 (two scan emails). Pat 14:49: Shane has to sign too, and she needs the 2 pages as one PDF. OPEN: John to send Pat one combined PDF if he has both pages; Shane to sign.
+- John replied to Fintan Shine (Revenue/tax estimate thread) at 14:16: sent, content not re-read here.
+- John emailed Maria O'Flaherty (United Hardware) re Lyrath room and Greenisle B&B complaint details, 14:27. Routine.
+- Everything else in the window was newsletters or promotions. No other changes.
