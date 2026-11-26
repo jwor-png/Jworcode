@@ -10337,3 +10337,11 @@ Email check: Vincent Leonard's Teams invite (subject "velocity") arrived 26 Nov 
 - The Gmail draft (id r8690722053337173047) was not needed: John to delete it. Awaiting Niall's reply.
 - "Maliki Harkin" is almost certainly Malachy Harkin (also in the 6 Nov board note, Taste Australia introduction). Confirm.
 - Daily sheet for Fri 27 Nov produced (see operating_creed.md 26 Nov evening).
+
+## 26 Nov 2026 (evening): "Asterial: The Onboarding Organism" brief for Tom (3 pages, PDF, dated 26 Nov 2026)
+Source: PDF supplied by John without instruction; author not shown (Asterial branding; "A brief for Tom"; Shane's work is likely but not stated). Research and thinking only; nothing built; Tom is asked what he would add, change or strike.
+- Premise: 30 to 40 people join Asterial over the next four to five months; each arrives to a company that already knows their role, ownership, access and their own AI, ready before day one. Timeline: offer signed, day one, week one, day 30, day 90.
+- Seven capabilities: the Record, proven identity and access, personal intelligence (each person's own AI), role and ownership, the guide, the path, the learning loop.
+- Security and governance: identity (government ID and live face check, one in-person step), device, access by role, their AI, their profile (never used to score them; flagged as possible high risk under the EU AI Act, "for counsel to confirm"), the log. Six things to settle first: owner, home (part of NEXUS or its own organism), profile depth, where it runs (EU data), week-one reach, measures.
+- Sources cited are third party (Bauer, GitLab handbook, OpenAI 1 Sept 2026, eleven-government alert on false-identity remote hires 31 July 2026, BleepingComputer 1 Oct 2026, EU AI Act commentary); not verified by Cuan.
+- Relevance: hiring plan of 30 to 40 people supports payroll, group benefits and AIB/investor questions (headcount); fits the employee pool and the AI-governance positioning; John's own role: none assigned. Status: logged only, no action.
