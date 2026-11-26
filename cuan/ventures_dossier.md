@@ -10252,3 +10252,10 @@ BYD's largest model to date, unveiled at the Paris Motor Show by Stella Li: seve
 - **Pat (14:02) "RE: Soliditas AI Agent Link and Tax Registration questions":** to Shane and Walter (cc accounts3, John): give Walter whatever he asks for (copy Pat); taxes and VAT registration needed ASAP. John replied to Pat at 13:58 on "noesis companies john" (thanked Pat, Jacquie and Walter; heading back to Limerick).
 - **Maria O'Flaherty (UHL, 15:34):** booked John in for the UHL Conference and Awards (Thu 3 Dec, Kilkenny); room confirmed at Lyrath; asked for details of the Green Isle staff member John complained about, which she will deal with.
 - OnBoard two-factor code email at 13:58 (John's own sign-in; not recorded).
+
+## 26 Nov 2026 (Thu) 09:08 UTC email check
+- **Fabrica AI Limited incorporated, CRO 831197:** Pat sent Shane the digital A1 certificate on 24 Nov 14:59 ("Now set up"; may be used to open a bank account); Shane forwarded it to John 25 Nov 01:51; John replied at 08:28 from his new **john@noesisgroup.ai** address (cc Gmail): good to see, the bank account to be opened here too, asking for Shane's Noesis address. First CRO number seen for the ten new companies. Register updated.
+- **Google Workspace (22:50 UTC 25 Nov):** administrator reset the password of the noesisgroup.ai Google account (John's new Noesis address); presumably Shane as admin: confirm it was expected.
+- **Smyths (Dave Geoghegan, 25 Nov 17:20):** scan of a letter received that day (SKM_C360i26112514060.pdf, not opened); John replied 17:44 "I'll instruct AG tomorrow" (Addleshaw Goddard): **John to instruct AG today, Thu 26 Nov** (Smyth's of Killucan proceedings / Northstone claim).
+- **UHL Financial Statements and ARR 2025 (Dave, 25 Nov 19:16):** Dave has phoned "him" and explained the rationale, "all ok", will revisit in good time next year (probably the unsuccessful auditor candidate; thread not opened).
+- **AIB:** John emailed Karl Keane at 18:17 on 25 Nov (cc Shane, bcc Tom): rang the branch, got the central call centre after a long wait, asked Karl to phone back.
