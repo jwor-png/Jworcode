@@ -10347,3 +10347,4 @@ Source: PDF supplied by John without instruction; author not shown (Asterial bra
 - Relevance: hiring plan of 30 to 40 people supports payroll, group benefits and AIB/investor questions (headcount); fits the employee pool and the AI-governance positioning; John's own role: none assigned. Status: logged only, no action.
 - Print version (white, black text, Word, 3 pages) made 26 Nov: cuan/scratch/Asterial_Onboarding_Organism_Brief_Print_26Nov2026.docx; wording as in the original brief.
 - Daily sheet for Fri 27 Nov re-laid out at John's request: one page, 12.5pt, full width, notes lines (replaces the 2 page version; role and creed detail remain in operating_creed.md).
+- Daily sheet redone 26 Nov: full content restored (my cut was not asked for); 2 pages at 11pt, A to C on page 1, D to F and notes on page 2.
