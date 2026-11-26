@@ -10331,3 +10331,9 @@ Email check: Vincent Leonard's Teams invite (subject "velocity") arrived 26 Nov 
 - cuan/scratch/AIB_Account_Checklists_26Nov2026.docx (6 pages, Word, one page each): Asterial (priority 1), Noesis (2), Fabrica (4), Shane personal (3), John personal, plus a fill-in details sheet for John's own AIB application (not an AIB form; AIB's own personal application must be used).
 - Built from emails to 26 Nov 17:00. Key open points: mandate decision (Pat two signers v Any One for cards and Phone and Internet Banking); AIB acceptance of Pat as a non-director signatory; Pat's completed forms not yet seen; Fabrica not covered by Karl's note; resolutions R1 and R2 to update after the mandate is agreed.
 - John agreed a combined Council and Dominion reminder at 15:00 daily (on the board as a standing line).
+
+## 26 Nov 2026 (17:46 UTC): Niall Mackey email SENT by John
+- John sent "Noesis Group Introduction" to niall.e.mackey@aib.ie at 17:11 from john@noesisgroup.ai, cc shane.mc@noesisgroup.ai, with Noesis Companies 14 Nov 2026.pdf; he forwarded a copy to his Gmail 17:46. Text as drafted by Cuan with John's edits: "funds next week or so", "Asterial's new AIB company account", and a new passage asking Niall to speak to a colleague at AIB Portlaoise so Shane can attend "tomorrow" (Fri 27 Nov) with proof documents to sign for his personal account, and to give the name.
+- The Gmail draft (id r8690722053337173047) was not needed: John to delete it. Awaiting Niall's reply.
+- "Maliki Harkin" is almost certainly Malachy Harkin (also in the 6 Nov board note, Taste Australia introduction). Confirm.
+- Daily sheet for Fri 27 Nov produced (see operating_creed.md 26 Nov evening).
