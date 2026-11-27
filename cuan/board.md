@@ -1,6 +1,6 @@
 # Board: Live Dashboard
 
-**As at Thu 26 Nov 2026, 05:13.** One line per item: what, status, next action. Organised by the six Operating Creed disciplines (`operating_creed.md`), with Noesis first because it is John's focus. Anything older than 14 days is tagged **[last known date, confirm]**. Full detail lives in `ventures_dossier.md`; the previous full board is archived at `logs/board-archive-2026-11-03.md`.
+**As at Fri 27 Nov 2026, 05:13.** One line per item: what, status, next action. Organised by the six Operating Creed disciplines (`operating_creed.md`), with Noesis first because it is John's focus. Anything older than 14 days is tagged **[last known date, confirm]**. Full detail lives in `ventures_dossier.md`; the previous full board is archived at `logs/board-archive-2026-11-03.md`.
 
 Key: 🔴 blocked by someone else · 🟡 waiting on John · 🟢 moving · ⚪ not started
 
@@ -16,6 +16,7 @@ Key: 🔴 blocked by someone else · 🟡 waiting on John · 🟢 moving · ⚪ 
 **UHL and AHL:** circulate the Smyths and AHL correspondence; decide whether to contact Barry Scannell (William Fry) and acknowledge his email; chase ORS and Gerard Heffernan on the AHL building inspection; BDO (Simon Carbery) not yet back: agree a date for next year's AHL audit and get a fee quote.
 **Personal:** MWCF Cancer Foundation fashion show: promote on LinkedIn and Facebook, check whether Neve did anything. Dr Ali (cardiologist): screenshot today's message, get a referral back, send health insurance details. Fintan (income tax) replied 26 Nov: in hand.
 **Standing daily:** consult the Council (ChatGPT, 12:00) and Dominion (Shane's 48 Laws of Power artifact); combined reminder at 15:00 each day (agreed by John 26 Nov).
+**Overnight updates (Thu 26 Nov evening):** John SENT the Noesis Group Introduction to Niall Mackey (AIB) at 17:11 from john@noesisgroup.ai, cc Shane, with the company profile; it asks Niall to arrange Shane at AIB Portlaoise on Fri 27 Nov with proof documents and to give a colleague's name (old Gmail draft to delete). **CURRENCY FLAG:** Asterial v7 plan (Shane, 26 Nov) is in euro, 35m net; John's email says 35 million sterling and that funds go straight into Asterial: confirm with Shane and correct AIB if needed. v7 names no role for John; board has independent chair and two NEDs, investor directors, no audit committee: John to raise an audit and risk committee (committee of the board, independent chair, three members) with Shane. Daily sheet (2 pages), daily tree (2 pages), AIB checklists (6 pages) and the onboarding brief (2 pages) sent as PDFs. Data centre idea: call Malachy Harkin (Shane's 17:03 WhatsApp logged).
 
 ## Today, Thu 26 Nov
 - **UHL Board (25 Nov) outcome not yet recorded:** budget adopted? Keith Cronin ratified to the Audit and Risk Committee? Chairman call (Tue 10:45) outcome? Salary schedule closed? Item briefs and speaking page are in cuan/scratch. Paul Candon welcomed the conditional recommendation (25 Nov 08:29); Ardentia/Kehoe's and Expert budgets to the December Board. UHL conference and awards Thu 3 Dec, Kilkenny (Lyrath booked by Maria O'Flaherty); send her the Green Isle complaint details.
