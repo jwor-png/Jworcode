@@ -1,10 +1,18 @@
 # Board: Live Dashboard
 
-**As at Fri 27 Nov 2026, 05:13.** One line per item: what, status, next action. Organised by the six Operating Creed disciplines (`operating_creed.md`), with Noesis first because it is John's focus. Anything older than 14 days is tagged **[last known date, confirm]**. Full detail lives in `ventures_dossier.md`; the previous full board is archived at `logs/board-archive-2026-11-03.md`.
+**As at Sat 28 Nov 2026, 05:13.** One line per item: what, status, next action. Organised by the six Operating Creed disciplines (`operating_creed.md`), with Noesis first because it is John's focus. Anything older than 14 days is tagged **[last known date, confirm]**. Full detail lives in `ventures_dossier.md`; the previous full board is archived at `logs/board-archive-2026-11-03.md`.
 
 Key: 🔴 blocked by someone else · 🟡 waiting on John · 🟢 moving · ⚪ not started
 
-## Fri 27 Nov (from John's brain dump, Thu 26 Nov evening)
+## Sat 28 Nov (from Fri 27 Nov evening)
+- **Sun 29 Nov: email Vincent Leonard the Golden Generation 16-week emails and slides** before the **Wed 2 Dec 3pm** hands-on session in Limerick city centre (Clean Habit AI orchestration and CRM; bring laptop). Agree with Shane first; no fees, entity or terms agreed. Flags: Fathom recap names United Hardware and its CEO's "co-op will fail in 3 years" remark (Paul Candon's consent not given); call was recorded, share link in Gmail (do not forward); recap says an audit/risk committee was "unnecessary" (check it was not about Noesis or Asterial).
+- **Asterial Labs Form A1 (SR10311493):** Walter (Pat's accounts) 27 Nov: must be dated 11 Nov, page 1 only; Shane scanned and sent it 14:28; check John's own page-1 date; original by post.
+- **Term sheet expiry (Fri 27 Nov 17:00) passed:** no email seen; status unknown: ask Shane. Currency flag (euro 35m net in plan v7 against sterling in the AIB email) still to settle.
+- **AIB:** no reply yet from Niall Mackey or Karl Keane; Shane's Portlaoise visit (27 Nov) not confirmed; John told Pat (14:05) AIB is cooperating from Dublin; Pat call promised Fri afternoon.
+- **Malachy Harkin site (Belcamp):** John to ring back; folio mismatch (DN171187L v DN125976L), 2019 folio; analysis page done. **Audit and risk committee:** raise with Shane (guide given).
+- **UHL:** December Board Thu 17 Dec 14:00, Brook Lodge, Wicklow; 2027 dates in OnBoard. **Fri 27 items not yet confirmed done:** John Lynch balancing statement, Maria and Dave calls, Pat McGrath, OnBoard login, Barry Scannell reply, ORS and BDO chasers, Dr Ali, MWCF fashion show.
+
+## Fri 27 Nov (from John's brain dump, Thu 26 Nov evening; carried)
 **Fixed times:** 10:00 review Vincent Leonard material and Velocity follow-up (work session); 12:30 to 13:00 call with Vincent Leonard (Teams invite from him, subject "velocity", in Gmail 17:11 UTC 26 Nov). Term sheet expiry 17:00.
 **First thing:**
 - Send **John Lynch the balancing statement** and request the further payment (priority; detail of amount not yet given, confirm).
